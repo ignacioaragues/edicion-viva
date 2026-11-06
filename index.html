@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <meta name="description" content="Edición Viva: una biblioteca de clásicos en su lengua original, con traducciones de apoyo y notas filológicas para leer despacio.">
+  <title>Edición Viva · Biblioteca de lectura</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css?v=1">
+  <script defer src="./collection.js?v=1"></script>
+</head>
+<body>
+  <a class="skip-link" href="#biblioteca">Ir a la biblioteca</a>
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Edición Viva, volver al inicio">
+      <span class="brand-mark" aria-hidden="true">E<span>·</span></span>
+      <span class="brand-words"><strong>EDICIÓN VIVA</strong><small>BIBLIOTECA DE LECTURA</small></span>
+    </a>
+    <nav class="header-nav" aria-label="Navegación principal">
+      <a href="#biblioteca">Biblioteca</a>
+      <a href="#metodo">El método</a>
+    </nav>
+    <span class="header-aside">UN ARCHIVO EN CRECIMIENTO</span>
+  </header>
+
+  <main id="inicio">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span> EDICIONES BILINGÜES Y ANOTADAS</div>
+        <h1 id="hero-title">Un lugar<br>para <em>leer</em><br>despacio<span class="title-dot">.</span></h1>
+        <p class="hero-lead">Los textos en su lengua original, acompañados de una traducción que orienta y de notas que aparecen cuando hacen falta. Una biblioteca para detenerse en las palabras sin perder de vista la obra.</p>
+        <a class="text-link hero-link" href="#biblioteca">Explorar la biblioteca <span aria-hidden="true">→</span></a>
+      </div>
+
+      <aside class="hero-feature" aria-label="Primera edición disponible">
+        <div class="feature-top"><span>PRIMERA EDICIÓN</span><span class="live-status"><span class="status-dot" aria-hidden="true"></span> EN CURSO</span></div>
+        <div class="feature-ornament" aria-hidden="true"><span>S</span><i>.</i></div>
+        <div class="feature-body">
+          <span class="feature-overline">WILLIAM SHAKESPEARE</span>
+          <h2>Coriolanus</h2>
+          <p class="feature-subtitle">Coriolano</p>
+          <p class="feature-description">Roma, la ambición y la voz del pueblo. La primera obra de Edición Viva se está construyendo escena por escena.</p>
+        </div>
+        <a class="feature-action" href="https://ignacioaragues.github.io/shakespeare-edicion-viva/">Entrar a la edición de Shakespeare <span aria-hidden="true">→</span></a>
+      </aside>
+    </section>
+
+    <section class="library-section" id="biblioteca" aria-labelledby="library-title">
+      <div class="section-heading">
+        <div>
+          <span class="section-label">I. LA BIBLIOTECA</span>
+          <h2 id="library-title">Autores y obras<span class="title-dot">.</span></h2>
+        </div>
+        <p>Un catálogo pequeño, deliberadamente. Solo se puede entrar en las ediciones que ya tienen texto disponible.</p>
+      </div>
+      <div class="library-list" id="library-list" aria-label="Catálogo de autores y obras">
+        <div class="library-loading">Cargando el catálogo…</div>
+      </div>
+      <p class="library-footnote"><span class="asterisk" aria-hidden="true">✳</span> Los títulos en consideración no son todavía ediciones disponibles ni tienen una fecha de publicación anunciada.</p>
+    </section>
+
+    <section class="method-section" id="metodo" aria-labelledby="method-title">
+      <div class="method-intro">
+        <span class="section-label">II. EL MÉTODO</span>
+        <h2 id="method-title">Leer con ayuda.<br><em>Leer por cuenta propia.</em></h2>
+        <p>La página acompaña la lectura, pero nunca sustituye el encuentro con el texto.</p>
+      </div>
+      <ol class="method-list">
+        <li><span class="method-number">01</span><div><h3>El original primero</h3><p>Conservar la lengua, el ritmo y las dificultades que hacen singular a cada obra.</p></div></li>
+        <li><span class="method-number">02</span><div><h3>La traducción al lado</h3><p>Una versión de apoyo en español general, para contrastar el sentido sin abandonar la página.</p></div></li>
+        <li><span class="method-number">03</span><div><h3>Las notas a voluntad</h3><p>Información lingüística, histórica o textual cuando un pasaje realmente la necesita.</p></div></li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-identity"><span class="footer-mark">E.</span><span>EDICIÓN VIVA<small>UN PROYECTO DE LECTURA FILOLÓGICA</small></span></div>
+    <p>Una biblioteca abierta a nuevas obras, lenguas y autores.</p>
+    <a href="#inicio">Volver arriba ↑</a>
+  </footer>
+</body>
+</html>
