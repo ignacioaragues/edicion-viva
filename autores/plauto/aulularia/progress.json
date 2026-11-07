@@ -1,0 +1,40 @@
+{
+  "work": "Plautus, Aulularia",
+  "base": "Friedrich Leo (1895), Perseus Digital Library, CC BY-SA 4.0",
+  "prosody": "Se eliminan las marcas de acento/cantidad prosódica de la transcripción digital; se conservan grafías como avos y thensaurum.",
+  "status": "in_progress",
+  "edited": [
+    {
+      "section": "prologue",
+      "from": 1,
+      "to": 8,
+      "verses": 8,
+      "status": "edited",
+      "source": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/"
+    },
+    {
+      "section": "I.1",
+      "from": 40,
+      "to": 51,
+      "status": "previously_published_not_revised"
+    }
+  ],
+  "pending": [
+    {
+      "section": "prologue",
+      "from": 9,
+      "to": 39
+    },
+    {
+      "section": "I.1",
+      "from": 52
+    },
+    {
+      "section": "later scenes",
+      "status": "pending"
+    }
+  ],
+  "updated": "2026-11-07",
+  "next": "Prólogo 9–18",
+  "site_sync": "not_confirmed"
+}

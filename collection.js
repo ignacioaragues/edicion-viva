@@ -23,7 +23,7 @@ const collection = [
     language: 'Latín · Español',
     status: 'available',
     url: './autores/plauto/aulularia/',
-    detail: 'Muestra anotada · I.1, vv. 40–51',
+    detail: 'Edición en curso · Prólogo 1–8; I.1, 40–51',
   },
   {
     author: 'John Milton',

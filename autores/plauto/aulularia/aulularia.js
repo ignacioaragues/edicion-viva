@@ -174,7 +174,9 @@ const verses = [
   }
 ];
 
-const notes = {
+verses.unshift(...prologueVerses);
+
+const notes = { ...prologueNotes,
   '40': { number: 1, type: 'FILOLÓGICA', heading: 'Exi · exeundum', text: 'La insistencia en exi y la variación exi / exeundum producen una apertura entrecortada y agresiva. Hercle, invocación a Hércules, es una fórmula corriente de juramento en la comedia.' },
   '41': { number: 2, type: 'LÉXICA', heading: 'Una fisgona con ojos de explorador', text: 'Circumspectatrix es una formación excepcional de Plauto para quien mira a todas partes. Emissicius evoca a quien se envía a reconocer o explorar: los ojos de Estáfila parecen espías que buscan el secreto de Euclión.' },
   '43': { number: 3, type: 'FILOLÓGICA', heading: 'Mala malam', text: 'La yuxtaposición de mala (vocativo) y malam (acusativo) refuerza el insulto por repetición de la raíz. El juego sonoro importa tanto como el significado.' },
@@ -303,7 +305,7 @@ for (const entry of verses) {
   }
   const latin = document.createElement('p');
   latin.className = 'latin';
-  const reference = 'I.1, v. ' + lastNumber;
+  const reference = (Number(lastNumber) <= 8 ? 'Prólogo' : 'I.1') + ', v. ' + lastNumber;
   const chunks = entry.latin.match(/\p{L}+|[^\p{L}]+/gu) || [];
   let index = 0;
   for (const chunk of chunks) {
@@ -343,6 +345,7 @@ for (const entry of verses) {
   right.className = 'spanish';
   right.textContent = entry.spanish;
   row.append(left,right);
+  row.dataset.section = Number(lastNumber) <= 8 ? 'prologue' : 'act1scene1';
   container.append(row);
 }
 
@@ -528,3 +531,21 @@ document.addEventListener('keydown', event => {
   }
 });
 renderDictionary();
+
+/* Navegación editorial: no se mezclan tramos discontinuos. */
+const sectionSelector = document.createElement('select');
+sectionSelector.id = 'section-selector';
+sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
+for (const [value,label] of [['prologue','Prólogo · vv. 1–8'],['act1scene1','Acto I · escena 1 · vv. 40–51']]) {
+ const option=document.createElement('option');option.value=value;option.textContent=label;sectionSelector.append(option);
+}
+const sectionNav=document.createElement('nav');sectionNav.className='section-navigation';sectionNav.append(sectionSelector);
+container.before(sectionNav);
+function selectSection(section){
+ for(const row of container.querySelectorAll('.verse'))row.hidden=row.dataset.section!==section;
+ const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':'Acto I, escena 1';
+ const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–8':'vv. 40–51';
+ closeWord();closeNote();
+}
+sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));
+selectSection('prologue');
