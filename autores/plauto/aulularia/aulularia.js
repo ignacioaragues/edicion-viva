@@ -192,7 +192,10 @@ const wordPanel = document.querySelector('#word-panel');
 const notePanel = document.querySelector('#note-panel');
 const saveWordButton = document.querySelector('#save-word');
 const drawer = document.querySelector('#side-drawer');
-const tabs = Array.from(document.querySelectorAll('.side-tabs [data-drawer]'));
+const tabs = Array.from(document.querySelectorAll('[data-drawer]'));
+const appShell = document.querySelector('#app-shell');
+const sidebar = document.querySelector('#sidebar');
+const characterRail = document.querySelector('#character-rail');
 let selected = null;
 let noteAnchor = null;
 let currentWord = null;
@@ -305,7 +308,7 @@ for (const entry of verses) {
   }
   const latin = document.createElement('p');
   latin.className = 'latin';
-  const reference = (Number(lastNumber) <= 17 ? 'Prólogo' : 'I.1') + ', v. ' + lastNumber;
+  const reference = (Number(lastNumber) <= 39 ? 'Prólogo' : 'I.1') + ', v. ' + lastNumber;
   const chunks = entry.latin.match(/\p{L}+|[^\p{L}]+/gu) || [];
   let index = 0;
   for (const chunk of chunks) {
@@ -345,7 +348,7 @@ for (const entry of verses) {
   right.className = 'spanish';
   right.textContent = entry.spanish;
   row.append(left,right);
-  row.dataset.section = Number(lastNumber) <= 17 ? 'prologue' : 'act1scene1';
+  row.dataset.section = Number(lastNumber) <= 39 ? 'prologue' : 'act1scene1';
   container.append(row);
 }
 
@@ -371,6 +374,7 @@ saveWordButton.addEventListener('click', () => {
 
 function renderDictionary() {
   document.querySelector('#saved-count').textContent = String(savedWords.length);
+  document.querySelectorAll('.mobile-saved-count').forEach(node => node.textContent = savedWords.length ? '(' + savedWords.length + ')' : '');
   document.querySelector('#start-review').disabled = !savedWords.length;
   document.querySelector('#export-dictionary').disabled = !savedWords.length;
   const list = document.querySelector('#dictionary-list');
@@ -410,26 +414,54 @@ function renderDictionary() {
 function closeDrawer() {
   activeDrawer = null;
   drawer.hidden = true;
-  tabs.forEach(tab => tab.setAttribute('aria-expanded','false'));
+  sidebar.classList.remove('open');
+  characterRail.classList.remove('open');
+  tabs.filter(tab => tab.dataset.drawer === 'dictionary').forEach(tab => tab.setAttribute('aria-expanded','false'));
   document.querySelector('#flashcard').hidden = true;
   document.querySelector('#dictionary-list').hidden = false;
+  syncPanelButtons();
 }
-
+function syncPanelButtons() {
+  const compact = window.matchMedia('(max-width: 1160px)').matches;
+  const mobile = window.matchMedia('(max-width: 860px)').matches;
+  tabs.forEach(tab => {
+    const type = tab.dataset.drawer;
+    let expanded = type === 'dictionary' ? activeDrawer === 'dictionary' :
+      type === 'position' ? (mobile ? sidebar.classList.contains('open') : !appShell.classList.contains('nav-collapsed')) :
+      (compact ? characterRail.classList.contains('open') : !appShell.classList.contains('characters-collapsed'));
+    tab.setAttribute('aria-expanded', String(expanded));
+  });
+}
 function openDrawer(name) {
   closeWord();
   closeNote();
-  if (activeDrawer === name) { closeDrawer(); return; }
-  activeDrawer = name;
-  drawer.hidden = false;
-  const titles = {position:'Posición',characters:'Personajes',dictionary:'Mi diccionario'};
-  document.querySelector('#drawer-title').textContent = titles[name];
-  for (const content of drawer.querySelectorAll('.drawer-content')) {
-    content.hidden = content.id !== 'drawer-' + name;
+  const compact = window.matchMedia('(max-width: 1160px)').matches;
+  const mobile = window.matchMedia('(max-width: 860px)').matches;
+  if (name === 'position') {
+    const wasOpen = mobile ? sidebar.classList.contains('open') : !appShell.classList.contains('nav-collapsed');
+    closeDrawer();
+    if (mobile) sidebar.classList.toggle('open', !wasOpen);
+    else appShell.classList.toggle('nav-collapsed', wasOpen);
+    syncPanelButtons();
+    return;
   }
-  tabs.forEach(tab => tab.setAttribute('aria-expanded',String(tab.dataset.drawer === name)));
-  if (name === 'dictionary') renderDictionary();
+  if (name === 'characters') {
+    const wasOpen = compact ? characterRail.classList.contains('open') : !appShell.classList.contains('characters-collapsed');
+    closeDrawer();
+    if (compact) characterRail.classList.toggle('open', !wasOpen);
+    else appShell.classList.toggle('characters-collapsed', wasOpen);
+    syncPanelButtons();
+    return;
+  }
+  const wasOpen = activeDrawer === 'dictionary';
+  closeDrawer();
+  if (!wasOpen && name === 'dictionary') {
+    activeDrawer = name;
+    drawer.hidden = false;
+    renderDictionary();
+  }
+  syncPanelButtons();
 }
-
 tabs.forEach(tab => tab.addEventListener('click', () => openDrawer(tab.dataset.drawer)));
 document.querySelector('#close-drawer').addEventListener('click', closeDrawer);
 document.querySelector('#return-to-text').addEventListener('click', closeDrawer);
@@ -531,20 +563,24 @@ document.addEventListener('keydown', event => {
   }
 });
 renderDictionary();
+syncPanelButtons();
+window.addEventListener('resize', syncPanelButtons);
 
 /* Navegación editorial: no se mezclan tramos discontinuos. */
 const sectionSelector = document.createElement('select');
 sectionSelector.id = 'section-selector';
 sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
-for (const [value,label] of [['prologue','Prólogo · vv. 1–17'],['act1scene1','Acto I · escena 1 · vv. 40–51']]) {
+const maxPrologue = Math.max(0, ...verses.filter(v => Number(v.n) < 40).map(v => Number(v.n)));
+const maxSceneOne = Math.max(40, ...verses.filter(v => Number(v.n) >= 40).map(v => Number(v.n)));
+for (const [value,label] of [['prologue','Prólogo · vv. 1–' + maxPrologue],['act1scene1','Acto I · escena 1 · vv. 40–' + maxSceneOne]]) {
  const option=document.createElement('option');option.value=value;option.textContent=label;sectionSelector.append(option);
 }
 const sectionNav=document.createElement('nav');sectionNav.className='section-navigation';sectionNav.append(sectionSelector);
-container.before(sectionNav);
+document.querySelector('#section-nav-slot').append(sectionNav);
 function selectSection(section){
  for(const row of container.querySelectorAll('.verse'))row.hidden=row.dataset.section!==section;
  const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':'Acto I, escena 1';
- const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–17':'vv. 40–51';
+ const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–'+maxPrologue:'vv. 40–'+maxSceneOne;
  closeWord();closeNote();
 }
 sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));
