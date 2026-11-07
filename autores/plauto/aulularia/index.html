@@ -14,6 +14,39 @@
     <a class="brand" href="../../../index.html" aria-label="Volver a Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
     <a class="return" href="../../../index.html">Biblioteca <span aria-hidden="true">↗</span></a>
   </header>
+  <nav class="side-tabs" aria-label="Herramientas del lector">
+    <button type="button" data-drawer="position" aria-controls="side-drawer" aria-expanded="false">Posición</button>
+    <button type="button" data-drawer="characters" aria-controls="side-drawer" aria-expanded="false">Personajes</button>
+    <button type="button" data-drawer="dictionary" aria-controls="side-drawer" aria-expanded="false">Diccionario <span id="saved-count" aria-label="Palabras guardadas">0</span></button>
+  </nav>
+  <aside class="side-drawer" id="side-drawer" aria-label="Herramientas de lectura" hidden>
+    <div class="drawer-heading"><h2 id="drawer-title">Posición</h2><button type="button" id="close-drawer" aria-label="Cerrar pestaña">×</button></div>
+    <div id="drawer-position" class="drawer-content" hidden>
+      <p class="drawer-kicker">PLAUTO · AULULARIA</p>
+      <p class="position-current">Acto I, escena 1</p>
+      <p>Euclión y Estáfila</p>
+      <div class="position-marker"><span>Fragmento disponible</span><strong>vv. 40–51</strong></div>
+      <a href="#texto" class="drawer-link" id="return-to-text">Volver al texto ↗</a>
+    </div>
+    <div id="drawer-characters" class="drawer-content" hidden>
+      <p class="drawer-kicker">PERSONAJES DEL FRAGMENTO</p>
+      <article class="character"><h3>Euclión <span>Euclio</span></h3><p>Anciano obsesionado con el tesoro que guarda oculto en una olla. Su desconfianza se impone desde la primera intervención.</p></article>
+      <article class="character"><h3>Estáfila <span>Staphyla</span></h3><p>Esclava de Euclión. Soporta los golpes, las sospechas y las órdenes de su amo.</p></article>
+    </div>
+    <div id="drawer-dictionary" class="drawer-content" hidden>
+      <p class="drawer-kicker">MIS PALABRAS LATINAS</p>
+      <p class="storage-note">Se guardan en este navegador. No se sincronizan todavía con otros dispositivos.</p>
+      <div class="dictionary-tools"><button type="button" id="start-review">Repasar</button><button type="button" id="export-dictionary">Exportar</button><button type="button" id="import-trigger">Importar</button><input type="file" accept="application/json,.json" id="import-dictionary" aria-label="Importar archivo del diccionario" hidden></div>
+      <p class="dictionary-feedback" id="dictionary-feedback" role="status"></p>
+      <div id="dictionary-list" class="dictionary-list"></div>
+      <div id="flashcard" class="flashcard" hidden>
+        <p class="flash-progress" id="flash-progress"></p>
+        <div class="flash-form" id="flash-form"></div>
+        <div class="flash-answer" id="flash-answer" hidden><strong id="flash-lemma"></strong><p id="flash-morph"></p></div>
+        <div class="flash-actions"><button type="button" id="reveal-card">Revelar</button><button type="button" id="next-card" hidden>Siguiente</button><button type="button" id="end-review">Cerrar repaso</button></div>
+      </div>
+    </div>
+  </aside>
 
   <main id="texto">
     <div class="intro">
@@ -26,23 +59,28 @@
     <section class="reader" aria-label="Edición bilingüe">
       <div class="reader-top">
         <div class="reader-titles"><span>LATÍN</span><span>ESPAÑOL</span></div>
-        <div class="reader-help">Seleccioná una palabra latina para ver su lema y morfología.</div>
+        <div class="reader-help">Seleccioná una palabra para ver su análisis; los números en el texto abren notas.</div>
       </div>
       <div class="verses" id="verses" aria-live="off"></div>
     </section>
 
-    <section class="word-panel" id="word-panel" aria-label="Análisis de la palabra" aria-live="polite" hidden>
+    <section class="word-panel popover-card" id="word-panel" aria-label="Análisis de la palabra" aria-live="polite" hidden>
       <div class="word-panel-top"><span>ANÁLISIS MORFOLÓGICO</span><button id="close-word" type="button" aria-label="Cerrar análisis">×</button></div>
       <div class="word-detail" id="word-detail">
         <strong id="word-form"></strong>
         <dl><div><dt>LEMA</dt><dd id="word-lemma"></dd></div><div><dt>MORFOLOGÍA</dt><dd id="word-morphology"></dd></div></dl>
       </div>
+      <button class="save-word" id="save-word" type="button">+ Guardar en mi diccionario</button>
+    </section>
+    <section class="note-panel popover-card" id="note-panel" aria-label="Nota a la edición" hidden>
+      <div class="word-panel-top"><span id="note-type">NOTA</span><button type="button" id="close-note" aria-label="Cerrar nota">×</button></div>
+      <h3 id="note-heading"></h3><p id="note-content"></p>
     </section>
 
     <div class="endnote"><span>Fin del fragmento disponible</span><span>La escena continúa en la edición de Plauto.</span></div>
     <footer class="source">
       <p>Texto latino: Plauto, <i>Aulularia</i> I.1, ed. Friedrich Leo (1895), <a href="https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2:1.1/" target="_blank" rel="noopener">Perseus Digital Library</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>). Se han omitido las marcas prosódicas editoriales.</p>
-      <p>Traducción española y fichas morfológicas originales. Primera muestra de trabajo; la edición todavía no está completa.</p>
+      <p>Traducción española y fichas morfológicas originales. Las notas filológicas se han contrastado también con el <a href="https://www2.edu.lascuola.it/edizioni-digitali/LibriEtHomines/Integrale1/contenuti/mac/plauto-aulularia.html" target="_blank" rel="noopener">comentario didáctico de <i>Libri et Homines</i></a>. Primera muestra de trabajo; la edición todavía no está completa.</p>
     </footer>
   </main>
   <script src="./aulularia.js" defer></script>
