@@ -26,12 +26,20 @@
       "verses": 12,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus Digital Library, Aulularia I.2"
+    },
+    {
+      "section": "I.2",
+      "from": 91,
+      "to": 100,
+      "verses": 10,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus Digital Library, Aulularia I.2"
     }
   ],
   "pending": [
     {
       "section": "I.2",
-      "from": 91
+      "from": 101
     },
     {
       "section": "later scenes",
@@ -39,6 +47,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "I.2 desde el verso 91",
-  "editorial_note": "I.2 vv. 79–90: doce versos, 83 fichas individuales y tres notas; normalización de marcas prosódicas; revisión integral pendiente."
+  "next": "I.2 desde el verso 101",
+  "editorial_note": "I.2 vv. 91–100: diez versos, 65 fichas individuales y tres notas; cotejado con el texto Leo 1895 de Perseus; revisión integral pendiente."
 }
