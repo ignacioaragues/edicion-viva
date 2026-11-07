@@ -15,14 +15,14 @@
     {
       "section": "I.1",
       "from": 40,
-      "to": 51,
-      "status": "previously_published_not_revised"
+      "to": 61,
+      "status": "edited_not_revised"
     }
   ],
   "pending": [
     {
       "section": "I.1",
-      "from": 52
+      "from": 62
     },
     {
       "section": "later scenes",
@@ -30,6 +30,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "Acto I, escena 1, desde el verso 52",
-  "editorial_note": "Prólogo 36–39: cierre del monólogo del Lar, cuatro versos nuevos y 29 análisis individuales; cotejo con Leo (1895) en Perseus. Prólogo 1–39 completo; I.1 40–51 sigue pendiente de revisión."
+  "next": "Acto I, escena 1, desde el verso 62",
+  "editorial_note": "I.1 vv. 52–61: 10 versos nuevos, 68 palabras con lema y morfología, tres notas. Cotejo con Leo (1895), Perseus; marcas prosódicas omitidas. Prólogo 1–39 completo; I.1 vv. 40–51 conserva estado pendiente de revisión."
 }
