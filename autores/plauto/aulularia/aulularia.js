@@ -174,29 +174,118 @@ const verses = [
   }
 ];
 
+const notes = {
+  '40': { number: 1, type: 'FILOLÓGICA', heading: 'Exi · exeundum', text: 'La insistencia en exi y la variación exi / exeundum producen una apertura entrecortada y agresiva. Hercle, invocación a Hércules, es una fórmula corriente de juramento en la comedia.' },
+  '41': { number: 2, type: 'LÉXICA', heading: 'Una fisgona con ojos de explorador', text: 'Circumspectatrix es una formación excepcional de Plauto para quien mira a todas partes. Emissicius evoca a quien se envía a reconocer o explorar: los ojos de Estáfila parecen espías que buscan el secreto de Euclión.' },
+  '43': { number: 3, type: 'FILOLÓGICA', heading: 'Mala malam', text: 'La yuxtaposición de mala (vocativo) y malam (acusativo) refuerza el insulto por repetición de la raíz. El juego sonoro importa tanto como el significado.' },
+  '45': { number: 4, type: 'CULTURAL', heading: 'Stimulorum seges', text: 'Literalmente, «cosecha de aguijones». El cuerpo de la esclava se convierte metafóricamente en un campo donde proliferan los instrumentos de castigo. La exageración cómica no elimina la violencia de la relación entre amo y esclava.' },
+  '46': { number: 5, type: 'LINGÜÍSTICA', heading: 'Illuc sis vide', text: 'Aquí sis funciona como una fórmula coloquial de cortesía, contraída de si vis («si quieres»). No debe confundirse con el subjuntivo sis de sum, que aparece unos versos antes.' },
+  '49': { number: 6, type: 'FILOLÓGICA', heading: 'Grandibo gradum', text: 'La proximidad sonora entre grandibo y gradum es una paronomasia. Grandio, «hacer mayor», es un verbo muy raro. La imagen del paso de tortuga convierte una amenaza de golpes en un chiste cruel sobre la lentitud de Estáfila.' },
+  '50': { number: 7, type: 'MORFOLÓGICA', heading: 'Adaxint', text: 'Adaxint equivale a adegerint: es una forma arcaica del perfecto de subjuntivo de adigo. Su empleo tras utinam expresa un deseo, formulado aquí con deliberada exageración dramática.' }
+};
+
+const dictionaryKey = 'edicion-viva:latin-dictionary:v1';
 const container = document.querySelector('#verses');
-const panel = document.querySelector('#word-panel');
-const detail = document.querySelector('#word-detail');
-const closer = document.querySelector('#close-word');
+const wordPanel = document.querySelector('#word-panel');
+const notePanel = document.querySelector('#note-panel');
+const saveWordButton = document.querySelector('#save-word');
+const drawer = document.querySelector('#side-drawer');
+const tabs = Array.from(document.querySelectorAll('.side-tabs [data-drawer]'));
 let selected = null;
+let noteAnchor = null;
+let currentWord = null;
+let activeDrawer = null;
+let reviewDeck = [];
+let reviewIndex = 0;
+let savedWords = readDictionary();
+
+function readDictionary() {
+  try {
+    const value = JSON.parse(localStorage.getItem(dictionaryKey) || '[]');
+    return Array.isArray(value) ? value.filter(item => item && typeof item.id === 'string' &&
+      typeof item.form === 'string' && typeof item.lemma === 'string' && typeof item.morphology === 'string') : [];
+  } catch { return []; }
+}
+
+function persistDictionary() {
+  try {
+    localStorage.setItem(dictionaryKey, JSON.stringify(savedWords));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+function wordId(word) {
+  return 'la|' + word[1].toLocaleLowerCase('la') + '|' + word[0].toLocaleLowerCase('la');
+}
+
+function updateSaveButton() {
+  if (!currentWord) return;
+  const exists = savedWords.some(item => item.id === wordId(currentWord.word));
+  saveWordButton.textContent = exists ? '✓ Guardada · quitar' : '+ Guardar en mi diccionario';
+  saveWordButton.setAttribute('aria-pressed', String(exists));
+}
+
+function positionPopover(anchor, popover) {
+  if (!anchor || popover.hidden) return;
+  const r = anchor.getBoundingClientRect();
+  const p = popover.getBoundingClientRect();
+  const margin = 12;
+  const width = Math.min(p.width, window.innerWidth - margin * 2);
+  let left = r.left - 22;
+  left = Math.max(margin, Math.min(left, window.innerWidth - width - margin));
+  let top = r.bottom + margin;
+  if (top + p.height > window.innerHeight - margin && r.top > p.height + margin * 2) {
+    top = r.top - p.height - margin;
+  }
+  top = Math.max(margin, Math.min(top, window.innerHeight - p.height - margin));
+  popover.style.left = left + 'px';
+  popover.style.top = top + 'px';
+}
 
 function closeWord() {
   if (selected) selected.setAttribute('aria-pressed','false');
   selected = null;
-  panel.hidden = true;
+  currentWord = null;
+  wordPanel.hidden = true;
 }
 
-function openWord(button, word) {
+function closeNote() {
+  if (noteAnchor) noteAnchor.setAttribute('aria-expanded','false');
+  noteAnchor = null;
+  notePanel.hidden = true;
+}
+
+function openWord(button, word, reference) {
+  closeNote();
   if (selected) selected.setAttribute('aria-pressed','false');
   selected = button;
+  currentWord = { word, reference };
   button.setAttribute('aria-pressed','true');
   document.querySelector('#word-form').textContent = word[0];
   document.querySelector('#word-lemma').textContent = word[1];
   document.querySelector('#word-morphology').textContent = word[2];
-  panel.hidden = false;
+  wordPanel.hidden = false;
+  updateSaveButton();
+  positionPopover(button, wordPanel);
 }
 
+function openNote(button, note) {
+  closeWord();
+  closeNote();
+  noteAnchor = button;
+  button.setAttribute('aria-expanded','true');
+  document.querySelector('#note-type').textContent = 'NOTA ' + note.number + ' · ' + note.type;
+  document.querySelector('#note-heading').textContent = note.heading;
+  document.querySelector('#note-content').textContent = note.text;
+  notePanel.hidden = false;
+  positionPopover(button, notePanel);
+}
+
+let lastNumber = '';
 for (const entry of verses) {
+  if (entry.n) lastNumber = entry.n;
   const row = document.createElement('div');
   row.className = 'verse';
   const left = document.createElement('div');
@@ -214,6 +303,7 @@ for (const entry of verses) {
   }
   const latin = document.createElement('p');
   latin.className = 'latin';
+  const reference = 'I.1, v. ' + lastNumber;
   const chunks = entry.latin.match(/\p{L}+|[^\p{L}]+/gu) || [];
   let index = 0;
   for (const chunk of chunks) {
@@ -231,10 +321,22 @@ for (const entry of verses) {
     button.textContent = chunk;
     button.setAttribute('aria-label', chunk + ': ver análisis morfológico');
     button.setAttribute('aria-pressed','false');
-    button.addEventListener('click', () => openWord(button, word));
+    button.addEventListener('click', () => openWord(button, word, reference));
     latin.append(button);
   }
   if (index !== entry.words.length) throw new Error('Sobran análisis en el verso ' + entry.n);
+  const note = notes[entry.n];
+  if (note) {
+    latin.append(document.createTextNode(' '));
+    const noteButton = document.createElement('button');
+    noteButton.type = 'button';
+    noteButton.className = 'note-anchor';
+    noteButton.textContent = String(note.number);
+    noteButton.setAttribute('aria-label', 'Nota ' + note.number + ': ' + note.heading);
+    noteButton.setAttribute('aria-expanded','false');
+    noteButton.addEventListener('click', () => openNote(noteButton, note));
+    latin.append(noteButton);
+  }
   speech.append(latin);
   left.append(num,speech);
   const right = document.createElement('p');
@@ -244,5 +346,185 @@ for (const entry of verses) {
   container.append(row);
 }
 
-closer.addEventListener('click', closeWord);
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeWord(); });
+saveWordButton.addEventListener('click', () => {
+  if (!currentWord) return;
+  const id = wordId(currentWord.word);
+  const before = savedWords.slice();
+  const index = savedWords.findIndex(item => item.id === id);
+  if (index >= 0) savedWords.splice(index, 1);
+  else savedWords.push({
+    id, language: 'latín', form: currentWord.word[0], lemma: currentWord.word[1],
+    morphology: currentWord.word[2], work: 'Plauto · Aulularia',
+    reference: currentWord.reference, addedAt: new Date().toISOString()
+  });
+  if (!persistDictionary()) {
+    savedWords = before;
+    saveWordButton.textContent = 'No se pudo guardar en este navegador';
+    return;
+  }
+  updateSaveButton();
+  renderDictionary();
+});
+
+function renderDictionary() {
+  document.querySelector('#saved-count').textContent = String(savedWords.length);
+  document.querySelector('#start-review').disabled = !savedWords.length;
+  document.querySelector('#export-dictionary').disabled = !savedWords.length;
+  const list = document.querySelector('#dictionary-list');
+  list.replaceChildren();
+  if (!savedWords.length) {
+    const empty = document.createElement('p');
+    empty.className = 'dictionary-empty';
+    empty.textContent = 'Todavía no hay palabras guardadas. Seleccioná una palabra del latín y elegí «Guardar».';
+    list.append(empty);
+    return;
+  }
+  for (const item of savedWords) {
+    const article = document.createElement('article');
+    article.className = 'dictionary-entry';
+    const content = document.createElement('div');
+    const form = document.createElement('strong');
+    form.textContent = item.form;
+    const lemma = document.createElement('span');
+    lemma.textContent = item.lemma + ' · ' + item.reference;
+    content.append(form,lemma);
+    const remove = document.createElement('button');
+    remove.type = 'button';
+    remove.textContent = '×';
+    remove.setAttribute('aria-label', 'Quitar ' + item.form + ' del diccionario');
+    remove.addEventListener('click', () => {
+      const before = savedWords.slice();
+      savedWords = savedWords.filter(word => word.id !== item.id);
+      if (!persistDictionary()) { savedWords = before; return; }
+      renderDictionary();
+      updateSaveButton();
+    });
+    article.append(content,remove);
+    list.append(article);
+  }
+}
+
+function closeDrawer() {
+  activeDrawer = null;
+  drawer.hidden = true;
+  tabs.forEach(tab => tab.setAttribute('aria-expanded','false'));
+  document.querySelector('#flashcard').hidden = true;
+  document.querySelector('#dictionary-list').hidden = false;
+}
+
+function openDrawer(name) {
+  closeWord();
+  closeNote();
+  if (activeDrawer === name) { closeDrawer(); return; }
+  activeDrawer = name;
+  drawer.hidden = false;
+  const titles = {position:'Posición',characters:'Personajes',dictionary:'Mi diccionario'};
+  document.querySelector('#drawer-title').textContent = titles[name];
+  for (const content of drawer.querySelectorAll('.drawer-content')) {
+    content.hidden = content.id !== 'drawer-' + name;
+  }
+  tabs.forEach(tab => tab.setAttribute('aria-expanded',String(tab.dataset.drawer === name)));
+  if (name === 'dictionary') renderDictionary();
+}
+
+tabs.forEach(tab => tab.addEventListener('click', () => openDrawer(tab.dataset.drawer)));
+document.querySelector('#close-drawer').addEventListener('click', closeDrawer);
+document.querySelector('#return-to-text').addEventListener('click', closeDrawer);
+document.querySelector('#close-word').addEventListener('click', closeWord);
+document.querySelector('#close-note').addEventListener('click', closeNote);
+
+document.querySelector('#export-dictionary').addEventListener('click', () => {
+  if (!savedWords.length) return;
+  const blob = new Blob([JSON.stringify({version:1, words:savedWords},null,2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = 'edicion-viva-diccionario.json';
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+});
+document.querySelector('#import-trigger').addEventListener('click', () => document.querySelector('#import-dictionary').click());
+document.querySelector('#import-dictionary').addEventListener('change', async event => {
+  const file = event.target.files?.[0];
+  if (!file) return;
+  const feedback = document.querySelector('#dictionary-feedback');
+  try {
+    const data = JSON.parse(await file.text());
+    if (data.version !== 1 || !Array.isArray(data.words)) throw new Error('Formato no reconocido');
+    const incoming = data.words.filter(item => item && typeof item.id === 'string' &&
+      typeof item.form === 'string' && typeof item.lemma === 'string' && typeof item.morphology === 'string');
+    const before = savedWords.slice();
+    const known = new Set(savedWords.map(item => item.id));
+    let count = 0;
+    for (const item of incoming) {
+      if (!known.has(item.id)) { savedWords.push(item); known.add(item.id); count++; }
+    }
+    if (!persistDictionary()) { savedWords = before; throw new Error('No se pudo guardar'); }
+    feedback.textContent = count + ' palabra(s) importada(s).';
+    renderDictionary();
+  } catch {
+    feedback.textContent = 'No se pudo importar ese archivo JSON.';
+  }
+  event.target.value = '';
+});
+
+function showCard() {
+  const card = reviewDeck[reviewIndex];
+  document.querySelector('#flash-progress').textContent = (reviewIndex + 1) + ' de ' + reviewDeck.length;
+  document.querySelector('#flash-form').textContent = card.form;
+  document.querySelector('#flash-lemma').textContent = card.lemma;
+  document.querySelector('#flash-morph').textContent = card.morphology;
+  document.querySelector('#flash-answer').hidden = true;
+  document.querySelector('#reveal-card').hidden = false;
+  document.querySelector('#next-card').hidden = true;
+}
+
+document.querySelector('#start-review').addEventListener('click', () => {
+  reviewDeck = savedWords.slice();
+  if (!reviewDeck.length) return;
+  reviewIndex = 0;
+  document.querySelector('#dictionary-list').hidden = true;
+  document.querySelector('#flashcard').hidden = false;
+  showCard();
+});
+document.querySelector('#reveal-card').addEventListener('click', () => {
+  document.querySelector('#flash-answer').hidden = false;
+  document.querySelector('#reveal-card').hidden = true;
+  document.querySelector('#next-card').hidden = false;
+});
+document.querySelector('#next-card').addEventListener('click', () => {
+  reviewIndex = (reviewIndex + 1) % reviewDeck.length;
+  showCard();
+});
+document.querySelector('#end-review').addEventListener('click', () => {
+  document.querySelector('#flashcard').hidden = true;
+  document.querySelector('#dictionary-list').hidden = false;
+  renderDictionary();
+});
+
+function trackAnchor() {
+  for (const [anchor, popover] of [[selected,wordPanel],[noteAnchor,notePanel]]) {
+    if (!anchor || popover.hidden) continue;
+    const r = anchor.getBoundingClientRect();
+    if (r.bottom < 0 || r.top > window.innerHeight) {
+      popover === wordPanel ? closeWord() : closeNote();
+    } else positionPopover(anchor,popover);
+  }
+}
+window.addEventListener('scroll', trackAnchor, {passive:true});
+window.addEventListener('resize', trackAnchor);
+document.addEventListener('pointerdown', event => {
+  if (!wordPanel.hidden && !wordPanel.contains(event.target) && !event.target.closest('.token')) closeWord();
+  if (!notePanel.hidden && !notePanel.contains(event.target) && !event.target.closest('.note-anchor')) closeNote();
+  if (!drawer.hidden && !drawer.contains(event.target) && !event.target.closest('.side-tabs')) closeDrawer();
+});
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape') {
+    closeWord();
+    closeNote();
+    closeDrawer();
+  }
+});
+renderDictionary();
