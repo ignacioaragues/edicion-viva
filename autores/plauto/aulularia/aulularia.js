@@ -305,7 +305,7 @@ for (const entry of verses) {
   }
   const latin = document.createElement('p');
   latin.className = 'latin';
-  const reference = (Number(lastNumber) <= 8 ? 'Prólogo' : 'I.1') + ', v. ' + lastNumber;
+  const reference = (Number(lastNumber) <= 17 ? 'Prólogo' : 'I.1') + ', v. ' + lastNumber;
   const chunks = entry.latin.match(/\p{L}+|[^\p{L}]+/gu) || [];
   let index = 0;
   for (const chunk of chunks) {
@@ -345,7 +345,7 @@ for (const entry of verses) {
   right.className = 'spanish';
   right.textContent = entry.spanish;
   row.append(left,right);
-  row.dataset.section = Number(lastNumber) <= 8 ? 'prologue' : 'act1scene1';
+  row.dataset.section = Number(lastNumber) <= 17 ? 'prologue' : 'act1scene1';
   container.append(row);
 }
 
@@ -536,7 +536,7 @@ renderDictionary();
 const sectionSelector = document.createElement('select');
 sectionSelector.id = 'section-selector';
 sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
-for (const [value,label] of [['prologue','Prólogo · vv. 1–8'],['act1scene1','Acto I · escena 1 · vv. 40–51']]) {
+for (const [value,label] of [['prologue','Prólogo · vv. 1–17'],['act1scene1','Acto I · escena 1 · vv. 40–51']]) {
  const option=document.createElement('option');option.value=value;option.textContent=label;sectionSelector.append(option);
 }
 const sectionNav=document.createElement('nav');sectionNav.className='section-navigation';sectionNav.append(sectionSelector);
@@ -544,7 +544,7 @@ container.before(sectionNav);
 function selectSection(section){
  for(const row of container.querySelectorAll('.verse'))row.hidden=row.dataset.section!==section;
  const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':'Acto I, escena 1';
- const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–8':'vv. 40–51';
+ const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–17':'vv. 40–51';
  closeWord();closeNote();
 }
 sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));

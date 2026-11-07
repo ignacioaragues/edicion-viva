@@ -7,8 +7,8 @@
     {
       "section": "prologue",
       "from": 1,
-      "to": 8,
-      "verses": 8,
+      "to": 17,
+      "verses": 17,
       "status": "edited",
       "source": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/"
     },
@@ -22,7 +22,7 @@
   "pending": [
     {
       "section": "prologue",
-      "from": 9,
+      "from": 18,
       "to": 39
     },
     {
@@ -35,6 +35,7 @@
     }
   ],
   "updated": "2026-11-07",
-  "next": "Prólogo 9–18",
-  "site_sync": "not_confirmed"
+  "next": "Prólogo 18–27",
+  "site_sync": "not_confirmed",
+  "editorial_note": "Prólogo 9–17 añadido: 9 versos, 57 fichas de palabras; cotejo con Leo/Perseus y VROMA. Ecqui anotado como análisis probable."
 }
