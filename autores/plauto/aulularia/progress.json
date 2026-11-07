@@ -7,8 +7,8 @@
     {
       "section": "prologue",
       "from": 1,
-      "to": 35,
-      "verses": 35,
+      "to": 39,
+      "verses": 39,
       "status": "edited",
       "source": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/"
     },
@@ -21,11 +21,6 @@
   ],
   "pending": [
     {
-      "section": "prologue",
-      "from": 36,
-      "to": 39
-    },
-    {
       "section": "I.1",
       "from": 52
     },
@@ -34,7 +29,7 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-07",
-  "next": "Prólogo 36–39 (cierre del prólogo)",
-  "editorial_note": "Prólogo 26–35: diez versos nuevos, 70 análisis individuales y tres notas. Se preservó el lector unificado de Coriolanus."
+  "updated": "2026-11-08",
+  "next": "Acto I, escena 1, desde el verso 52",
+  "editorial_note": "Prólogo 36–39: cierre del monólogo del Lar, cuatro versos nuevos y 29 análisis individuales; cotejo con Leo (1895) en Perseus. Prólogo 1–39 completo; I.1 40–51 sigue pendiente de revisión."
 }
