@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <title>Mis lecturas · Edición Viva</title>
+  <meta name="description" content="Registro personal de lectura por días, semanas y obras en Edición Viva.">
+  <link rel="stylesheet" href="./reading.css">
+  <script src="./reading-tracker.js" defer></script>
+  <script src="./reading-dashboard.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#resumen">Ir al registro</a>
+  <header class="masthead">
+    <a class="brand" href="./index.html" aria-label="Volver a Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
+    <a class="return" href="./index.html">Biblioteca <span aria-hidden="true">↗</span></a>
+  </header>
+  <main>
+    <div class="intro">
+      <p class="eyebrow">CUADERNO DE LECTURA</p>
+      <h1>Mis lecturas<span class="stop">.</span></h1>
+      <p class="subtitle">El tiempo dedicado a los textos, día a día.</p>
+    </div>
+
+    <section id="resumen" class="summary" aria-label="Resumen de lectura">
+      <div><span>HOY</span><strong id="today-total">0 min</strong></div>
+      <div><span>ÚLTIMOS 7 DÍAS</span><strong id="week-total">0 min</strong></div>
+      <div><span>ACUMULADO</span><strong id="all-total">0 min</strong></div>
+    </section>
+
+    <section class="history" aria-labelledby="days-heading">
+      <div class="section-heading"><div><span class="section-number">I</span><h2 id="days-heading">Día por día</h2></div><span class="section-caption">ÚLTIMOS 14 DÍAS</span></div>
+      <div id="daily-chart" class="daily-chart" role="group" aria-label="Minutos de lectura de cada día"></div>
+    </section>
+
+    <section class="history" aria-labelledby="weeks-heading">
+      <div class="section-heading"><div><span class="section-number">II</span><h2 id="weeks-heading">Por semana</h2></div><span class="section-caption">ÚLTIMAS 8 SEMANAS · LUN–DOM</span></div>
+      <div id="weekly-chart" class="weekly-chart" role="group" aria-label="Tiempo de lectura por semana"></div>
+    </section>
+
+    <section class="history" aria-labelledby="works-heading">
+      <div class="section-heading"><div><span class="section-number">III</span><h2 id="works-heading">Por obra</h2></div></div>
+      <div id="works-list" class="works-list"></div>
+    </section>
+
+    <footer class="foot">
+      <p>El contador se detiene al salir de la pestaña o después de 90 segundos sin actividad. Este registro es una estimación y comienza a contar desde que se activa esta función.</p>
+      <p>Los datos se guardan en este navegador. Para trasladarlos entre la computadora y el iPad, podés exportarlos e importarlos manualmente; todavía no se sincronizan solos.</p>
+      <div class="data-actions">
+        <button type="button" id="export-reading">Exportar registro</button>
+        <button type="button" id="import-reading">Importar registro</button>
+        <input type="file" id="reading-file" accept="application/json,.json" hidden aria-label="Archivo de registro de lectura">
+      </div>
+      <p class="feedback" id="reading-feedback" role="status"></p>
+    </footer>
+  </main>
+</body>
+</html>

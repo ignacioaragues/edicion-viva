@@ -8,11 +8,11 @@
   <meta name="description" content="Lectura bilingüe de la Aulularia de Plauto, con lemas y análisis morfológico palabra por palabra.">
   <link rel="stylesheet" href="./styles.css">
 </head>
-<body>
+<body data-reading-id="plauto-aulularia" data-reading-title="Plauto · Aulularia">
   <a class="skip" href="#texto">Ir al texto</a>
   <header class="masthead">
     <a class="brand" href="../../../index.html" aria-label="Volver a Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
-    <a class="return" href="../../../index.html">Biblioteca <span aria-hidden="true">↗</span></a>
+    <div class="masthead-actions"><a class="return" href="../../../mis-lecturas.html">Mis lecturas</a><a class="return" href="../../../index.html">Biblioteca <span aria-hidden="true">↗</span></a></div>
   </header>
   <nav class="side-tabs" aria-label="Herramientas del lector">
     <button type="button" data-drawer="position" aria-controls="side-drawer" aria-expanded="false">Posición</button>
@@ -26,6 +26,13 @@
       <p class="position-current">Acto I, escena 1</p>
       <p>Euclión y Estáfila</p>
       <div class="position-marker"><span>Fragmento disponible</span><strong>vv. 40–51</strong></div>
+      <div class="reading-stats" aria-label="Tiempo de lectura">
+        <p class="reading-stats-heading">TIEMPO DE LECTURA</p>
+        <p><span>Hoy</span><strong id="reading-today">0 min</strong></p>
+        <p><span>Esta sesión</span><strong id="reading-session">0 min</strong></p>
+        <p><span>En esta obra</span><strong id="reading-total">0 min</strong></p>
+        <a href="../../../mis-lecturas.html" class="drawer-link">Ver registro diario y semanal ↗</a>
+      </div>
       <a href="#texto" class="drawer-link" id="return-to-text">Volver al texto ↗</a>
     </div>
     <div id="drawer-characters" class="drawer-content" hidden>
@@ -59,7 +66,7 @@
     <section class="reader" aria-label="Edición bilingüe">
       <div class="reader-top">
         <div class="reader-titles"><span>LATÍN</span><span>ESPAÑOL</span></div>
-        <div class="reader-help">Seleccioná una palabra para ver su análisis; los números en el texto abren notas.</div>
+        <div class="reader-controls"><div class="reader-help">Seleccioná una palabra para ver su análisis; los números en el texto abren notas.</div><button type="button" id="toggle-layout" aria-pressed="false">Ver en bloques</button></div>
       </div>
       <div class="verses" id="verses" aria-live="off"></div>
     </section>
@@ -84,5 +91,7 @@
     </footer>
   </main>
   <script src="./aulularia.js" defer></script>
+  <script src="../../../reading-layout.js" defer></script>
+  <script src="../../../reading-tracker.js" defer></script>
 </body>
 </html>
