@@ -18,12 +18,20 @@
       "to": 78,
       "status": "edited_not_revised",
       "verses": 39
+    },
+    {
+      "section": "I.2",
+      "from": 79,
+      "to": 90,
+      "verses": 12,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus Digital Library, Aulularia I.2"
     }
   ],
   "pending": [
     {
       "section": "I.2",
-      "from": 79
+      "from": 91
     },
     {
       "section": "later scenes",
@@ -31,6 +39,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "I.2 desde el verso 79 (entrada de Euclión)",
-  "editorial_note": "I.1 vv. 74–78: cinco versos, 33 análisis individuales y dos notas; cotejo con Leo (1895) en Perseus, sección 1.1. I.1 queda completa; revisión integral pendiente."
+  "next": "I.2 desde el verso 91",
+  "editorial_note": "I.2 vv. 79–90: doce versos, 83 fichas individuales y tres notas; normalización de marcas prosódicas; revisión integral pendiente."
 }
