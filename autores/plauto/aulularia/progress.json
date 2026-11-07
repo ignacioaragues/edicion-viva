@@ -15,15 +15,15 @@
     {
       "section": "I.1",
       "from": 40,
-      "to": 73,
+      "to": 78,
       "status": "edited_not_revised",
-      "verses": 34
+      "verses": 39
     }
   ],
   "pending": [
     {
-      "section": "I.1",
-      "from": 74
+      "section": "I.2",
+      "from": 79
     },
     {
       "section": "later scenes",
@@ -31,6 +31,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "I.1 vv. 74–78, final del monólogo de Estáfila",
-  "editorial_note": "I.1 vv. 67–73: siete versos, 46 análisis morfológicos, dos notas; cotejados con Leo (1895) en Perseus. Revisión integral pendiente."
+  "next": "I.2 desde el verso 79 (entrada de Euclión)",
+  "editorial_note": "I.1 vv. 74–78: cinco versos, 37 análisis individuales y dos notas; cotejo con Leo (1895) en Perseus, sección 1.1. I.1 queda completa; revisión integral pendiente."
 }
