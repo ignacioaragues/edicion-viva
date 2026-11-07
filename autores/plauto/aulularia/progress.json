@@ -7,8 +7,8 @@
     {
       "section": "prologue",
       "from": 1,
-      "to": 25,
-      "verses": 25,
+      "to": 35,
+      "verses": 35,
       "status": "edited",
       "source": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/"
     },
@@ -22,7 +22,7 @@
   "pending": [
     {
       "section": "prologue",
-      "from": 26,
+      "from": 36,
       "to": 39
     },
     {
@@ -35,6 +35,6 @@
     }
   ],
   "updated": "2026-11-07",
-  "next": "Prólogo 26–35",
-  "editorial_note": "Prólogo 18–25: ocho versos, 59 fichas individuales; texto Leo/Perseus cotejado, traducción propia, tres notas. El rediseño del lector del commit 38b4275 se conserva."
+  "next": "Prólogo 36–39 (cierre del prólogo)",
+  "editorial_note": "Prólogo 26–35: diez versos nuevos, 70 análisis individuales y tres notas. Se preservó el lector unificado de Coriolanus."
 }
