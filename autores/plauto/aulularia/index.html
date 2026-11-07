@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <title>Aulularia — Plauto · Edición Viva</title>
+  <meta name="description" content="Lectura bilingüe de la Aulularia de Plauto, con lemas y análisis morfológico palabra por palabra.">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip" href="#texto">Ir al texto</a>
+  <header class="masthead">
+    <a class="brand" href="../../../index.html" aria-label="Volver a Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
+    <a class="return" href="../../../index.html">Biblioteca <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="texto">
+    <div class="intro">
+      <div class="eyebrow">PLAUTO <span class="rule"></span> COMEDIA LATINA</div>
+      <h1><i>Aulularia</i><span class="stop">.</span></h1>
+      <p class="subtitle">La comedia de la olla</p>
+      <div class="section-meta"><span>ACTO I · ESCENA 1</span><span>EUCLIÓN Y ESTÁFILA</span><span>VV. 40–51</span></div>
+    </div>
+
+    <section class="reader" aria-label="Edición bilingüe">
+      <div class="reader-top">
+        <div class="reader-titles"><span>LATÍN</span><span>ESPAÑOL</span></div>
+        <div class="reader-help">Seleccioná una palabra latina para ver su lema y morfología.</div>
+      </div>
+      <div class="verses" id="verses" aria-live="off"></div>
+    </section>
+
+    <section class="word-panel" id="word-panel" aria-label="Análisis de la palabra" aria-live="polite" hidden>
+      <div class="word-panel-top"><span>ANÁLISIS MORFOLÓGICO</span><button id="close-word" type="button" aria-label="Cerrar análisis">×</button></div>
+      <div class="word-detail" id="word-detail">
+        <strong id="word-form"></strong>
+        <dl><div><dt>LEMA</dt><dd id="word-lemma"></dd></div><div><dt>MORFOLOGÍA</dt><dd id="word-morphology"></dd></div></dl>
+      </div>
+    </section>
+
+    <div class="endnote"><span>Fin del fragmento disponible</span><span>La escena continúa en la edición de Plauto.</span></div>
+    <footer class="source">
+      <p>Texto latino: Plauto, <i>Aulularia</i> I.1, ed. Friedrich Leo (1895), <a href="https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2:1.1/" target="_blank" rel="noopener">Perseus Digital Library</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>). Se han omitido las marcas prosódicas editoriales.</p>
+      <p>Traducción española y fichas morfológicas originales. Primera muestra de trabajo; la edición todavía no está completa.</p>
+    </footer>
+  </main>
+  <script src="./aulularia.js" defer></script>
+</body>
+</html>
