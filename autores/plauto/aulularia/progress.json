@@ -15,15 +15,15 @@
     {
       "section": "I.1",
       "from": 40,
-      "to": 66,
+      "to": 73,
       "status": "edited_not_revised",
-      "verses": 27
+      "verses": 34
     }
   ],
   "pending": [
     {
       "section": "I.1",
-      "from": 67
+      "from": 74
     },
     {
       "section": "later scenes",
@@ -31,6 +31,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "Acto I, escena 1, desde el verso 67 (intervención de Estáfila)",
-  "editorial_note": "I.1 vv. 62–66: cierre del monólogo de Euclión, cinco versos, 35 fichas morfológicas y tres notas; cotejados con Leo (1895), Perseus. Prólogo 1–39 completo; I.1 40–66 editado, pendiente de revisión integral."
+  "next": "I.1 vv. 74–78, final del monólogo de Estáfila",
+  "editorial_note": "I.1 vv. 67–73: siete versos, 46 análisis morfológicos, dos notas; cotejados con Leo (1895) en Perseus. Revisión integral pendiente."
 }
