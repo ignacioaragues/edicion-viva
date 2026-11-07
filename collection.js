@@ -16,6 +16,16 @@ const collection = [
     detail: 'Edición bilingüe en marcha',
   },
   {
+    author: 'Tito Maccio Plauto',
+    period: 'COMEDIA LATINA',
+    work: 'Aulularia',
+    translated: 'La comedia de la olla',
+    language: 'Latín · Español',
+    status: 'available',
+    url: './autores/plauto/aulularia/',
+    detail: 'Muestra anotada · I.1, vv. 40–51',
+  },
+  {
     author: 'John Milton',
     period: 'POESÍA ÉPICA',
     work: 'Paradise Lost',
