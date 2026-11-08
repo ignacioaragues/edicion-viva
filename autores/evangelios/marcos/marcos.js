@@ -1,4 +1,4 @@
-/* Marcos 1,1–28 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–39 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -37,9 +37,21 @@
     {"n":32,"gr":"Ὀψίας δὲ γενομένης, ὅτε ἔδυ ὁ ἥλιος, ἔφερον πρὸς αὐτὸν πάντας τοὺς κακῶς ἔχοντας καὶ τοὺς δαιμονιζομένους·","es":"Al caer la tarde, cuando se puso el sol, le llevaban a todos los enfermos y a los que el relato describe como poseídos por demonios.","la":"Vespere autem facto cum occidisset sol, afferebant ad eum omnes male habentes, et dæmonia habentes:","notes":["ocaso"]},
     {"n":33,"gr":"καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη πρὸς τὴν θύραν.","es":"Y toda la ciudad estaba reunida ante la puerta.","la":"et erat omnis civitas congregata ad januam.","notes":["ciudad"]},
     {"n":34,"gr":"καὶ ἐθεράπευσεν πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις, καὶ δαιμόνια πολλὰ ἐξέβαλεν, καὶ οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια, ὅτι ᾔδεισαν αὐτόν.","es":"Curó a muchos que padecían diversas enfermedades y expulsó muchos demonios; no les permitía hablar, porque lo conocían.","la":"Et curavit multos, qui vexabantur variis languoribus, et dæmonia multa ejiciebat, et non sinebat ea loqui, quoniam sciebant eum.","notes":["muchos","silenciomarc"]},
+    {"n":35,"gr":"Καὶ πρωῒ ἔννυχα λίαν ἀναστὰς ἐξῆλθεν καὶ ἀπῆλθεν εἰς ἔρημον τόπον κἀκεῖ προσηύχετο.","es":"Muy de mañana, cuando todavía estaba muy oscuro, se levantó, salió y se fue a un lugar apartado. Allí oraba.","la":"Et diluculo valde surgens, egressus abiit in desertum locum, ibique orabat.","notes":["alba","oracion"]},
+    {"n":36,"gr":"καὶ κατεδίωξεν αὐτὸν Σίμων καὶ οἱ μετ’ αὐτοῦ,","es":"Simón y quienes estaban con él salieron a buscarlo con insistencia.","la":"Et prosecutus est eum Simon, et qui cum illo erant.","notes":["persecucion"]},
+    {"n":37,"gr":"καὶ εὗρον αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι Πάντες ζητοῦσίν σε.","es":"Lo encontraron y le dijeron: «Todos te están buscando».","la":"Et cum invenissent eum, dixerunt ei: Quia omnes quærunt te.","notes":["todos"]},
+    {"n":38,"gr":"καὶ λέγει αὐτοῖς· Ἄγωμεν ἀλλαχοῦ εἰς τὰς ἐχομένας κωμοπόλεις, ἵνα καὶ ἐκεῖ κηρύξω, εἰς τοῦτο γὰρ ἐξῆλθον.","es":"Él les dijo: «Vayamos a otra parte, a las poblaciones vecinas, para que también allí anuncie el mensaje; para eso he salido».","la":"Et ait illis: Eamus in proximos vicos, et civitates, ut et ibi prædicem: ad hoc enim veni.","notes":["poblaciones","salida"]},
+    {"n":39,"gr":"καὶ ἦλθεν κηρύσσων εἰς τὰς συναγωγὰς αὐτῶν εἰς ὅλην τὴν Γαλιλαίαν καὶ τὰ δαιμόνια ἐκβάλλων.","es":"Y recorrió Galilea proclamando el mensaje en sus sinagogas y expulsando demonios.","la":"Et erat prædicans in synagogis eorum, et in omni Galilæa, et dæmonia ejiciens.","notes":["recorrido"]},
   ];
 
   const notes = {
+    alba: ["Antes del amanecer","πρωῒ ἔννυχα λίαν combina «muy temprano» con «todavía de noche»; ἔννυχα funciona aquí adverbialmente. El imperfecto προσηύχετο presenta la oración en desarrollo. Fuentes: Holmes (ed.), SBLGNT, Mc 1,35 (2010), https://biblia.com/bible/sblgnt/mark/1/35-39; A. B. Bruce, The Expositor’s Greek Testament, comentario a Mc 1,35, https://www.studylight.org/commentaries/eng/egt/mark-1.html"],
+    oracion: ["Un lugar apartado","ἔρημον τόπον designa un lugar deshabitado o solitario, sin exigir un desierto arenoso. El pasaje no identifica su localización. Cf. Mc 1,12–13, donde ἔρημος ya había aparecido. Fuente: SBLGNT, Mc 1,35; https://biblia.com/bible/sblgnt/mark/1/35-39"],
+    persecucion: ["κατεδίωξεν: salieron tras él","El verbo καταδιώκω puede sugerir persecución o búsqueda insistente; traducirlo aquí como «lo persiguieron» podría exagerar una hostilidad que el contexto no explicita. El verbo está en singular, aunque el sujeto incluye a Simón y a sus acompañantes. A. B. Bruce, The Expositor’s Greek Testament, Mc 1,36, https://www.studylight.org/commentaries/eng/egt/mark-1.html"],
+    todos: ["«Todos te buscan»","πάντες es una generalización enfática de los interlocutores, no una afirmación demográfica comprobable. El presente histórico λέγουσιν da viveza al intercambio. Cf. A. B. Bruce, The Expositor’s Greek Testament, Mc 1,37, https://www.studylight.org/commentaries/eng/egt/mark-1.html"],
+    poblaciones: ["κωμοπόλεις: poblaciones","κωμόπολις combina κώμη («aldea») y πόλις («ciudad»); aquí se refiere a poblaciones cercanas. El plural acusativo ἐχομένας («contiguas, próximas») concuerda con κωμοπόλεις. A. B. Bruce, The Expositor’s Greek Testament, Mc 1,38, https://www.studylight.org/commentaries/eng/egt/mark-1.html"],
+    salida: ["«Para eso he salido»","ἐξῆλθον puede remitir a la salida narrada en 1,35 o entenderse más ampliamente como declaración de misión; el griego no obliga a resolver esa ambigüedad. La Clementina dice ad hoc enim veni («para esto vine»), sin reproducir literalmente el verbo de salida. Fuentes: SBLGNT, Mc 1,38, https://biblia.com/bible/sblgnt/mark/1/35-39; Vulgata Clementina, Mc 1,38, https://szentiras.hu/biblia/vuc/mrk/1"],
+    recorrido: ["Predicación y expulsión","Los participios κηρύσσων y ἐκβάλλων coordinan dos actividades del recorrido por Galilea. La sintaxis de εἰς τὰς συναγωγάς puede vincularse con el desplazamiento o con la predicación; no conviene imponer una lectura excluyente. A. B. Bruce, The Expositor’s Greek Testament, Mc 1,39, https://www.studylight.org/commentaries/eng/egt/mark-1.html"],
     casa: ["La casa de Simón y Andrés","La transición desde la sinagoga a la vivienda enlaza dos escenas del mismo día narrativo. El texto menciona a cuatro discípulos, pero no identifica la casa con un yacimiento arqueológico concreto. Fuente primaria: SBLGNT, Mc 1,29; https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     suegra: ["La suegra de Simón","πενθερά significa «suegra». La existencia de una suegra presupone un vínculo matrimonial, pero el pasaje no dice si la esposa de Simón estaba presente. κατέκειτο (imperfecto) describe su estado, mientras πυρέσσουσα es un participio presente. Fuente: SBLGNT, Mc 1,30; https://biblia.com/bible/sblgnt/mark/1/29-34"],
     levanto: ["ἤγειρεν: la levantó","El aoristo ἤγειρεν procede de ἐγείρω («levantar», también «despertar»). Aquí describe la acción física de levantar a la enferma; las asociaciones con otros usos del verbo en Marcos requieren interpretación contextual. Fuente: SBLGNT, Mc 1,31; https://biblia.com/bible/sblgnt/mark/1/29-34"],
@@ -349,6 +361,8 @@
     14: ['1,14–15', 'El anuncio en Galilea'],
     16: ['1,16–20', 'Los primeros discípulos'],
     21: ['1,21–28', 'En la sinagoga de Cafarnaúm'],
+    29: ['1,29–34', 'En casa de Simón y al atardecer'],
+    35: ['1,35–39', 'Oración y predicación en Galilea'],
   };
   passages.forEach(p => {
     if (sections[p.n]) {
