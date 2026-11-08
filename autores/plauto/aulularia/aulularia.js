@@ -246,9 +246,12 @@ const verses = [
   {"n":"119","latin":"me rursum quantum potero tantum recipiam.","spanish":"regresaré tan deprisa como me sea posible.","words":[["me","ego","pronombre personal reflexivo de 1.ª persona; acusativo singular"],["rursum","rursum","adverbio: de vuelta, nuevamente"],["quantum","quantum","adverbio correlativo de grado: cuanto"],["potero","possum","verbo; futuro de indicativo activo, 1.ª persona singular"],["tantum","tantum","adverbio correlativo de grado: tanto"],["recipiam","recipio","verbo; futuro de indicativo activo, 1.ª persona singular; en me recipere: retirarse, regresar; formalmente también subjuntivo presente"]]}
 ];
 
+verses.push(...[{"n":"120","speaker":"EUNOMIA","latin":"Velim te arbitrari med haec verba, frater,","spanish":"Quisiera, hermano, que consideraras que estas palabras las digo","words":[["Velim","volo","subjuntivo presente activo, primera singular; deseo atenuado"],["te","tu","acusativo singular, sujeto de arbitrari"],["arbitrari","arbitror","infinitivo presente deponente"],["med","ego","acusativo singular arcaico de me; sujeto de facere"],["haec","hic","demostrativo neutro acusativo plural, con verba"],["verba","verbum","acusativo neutro plural, objeto de facere"],["frater","frater","vocativo masculino singular"]]},{"n":"121","latin":"meai fidei tuaique rei","spanish":"por lealtad de mi parte y por tu propio bien,","words":[["meai","meus","genitivo femenino singular arcaico, con fidei"],["fidei","fides","genitivo femenino singular, dependiente de causa"],["tuaique","tuus + -que","genitivo femenino singular arcaico, con rei, más enclítica copulativa -que"],["rei","res","genitivo femenino singular, dependiente de causa"]]},{"n":"122","latin":"causa facere, ut aequom est germanam sororem.","spanish":"como corresponde a una hermana de sangre.","words":[["causa","causa","ablativo singular pospuesto a genitivos: por causa de"],["facere","facio","infinitivo presente activo, dependiente de arbitrari"],["ut","ut","conjunción comparativa: como"],["aequom","aequus","adjetivo neutro nominativo singular arcaico, predicativo con est"],["est","sum","indicativo presente, tercera singular"],["germanam","germanus","adjetivo femenino acusativo singular, con sororem"],["sororem","soror","acusativo femenino singular, sujeto elíptico de facere"]]},{"n":"123","latin":"quamquam haud falsa sum nos odiosas haberi;","spanish":"Aunque no me equivoco al decir que nos consideran molestas:","words":[["quamquam","quamquam","conjunción concesiva"],["haud","haud","adverbio negativo"],["falsa","fallo / falsus","participio perfecto pasivo/adjetivo femenino nominativo singular, con valor de equivocada"],["sum","sum","indicativo presente, primera singular"],["nos","ego","acusativo plural, sujeto de haberi"],["odiosas","odiosus","adjetivo femenino acusativo plural, predicativo de nos"],["haberi","habeo","infinitivo presente pasivo, dependiente de falsa sum"]]},{"n":"124","latin":"nam multum loquaces merito omnes habemur,","spanish":"pues, con razón o sin ella, a todas nos tienen por muy habladoras,","words":[["nam","nam","conjunción explicativa"],["multum","multum","adverbio de grado: mucho"],["loquaces","loquax","adjetivo femenino nominativo plural, predicativo"],["merito","merito","adverbio: merecidamente"],["omnes","omnis","pronombre/adjetivo femenino nominativo plural, sujeto"],["habemur","habeo","indicativo presente pasivo, primera plural"]]},{"n":"125","latin":"nec mutam profecto repertam ullam esse","spanish":"y aseguran que jamás se ha encontrado una sola mujer muda,","words":[["nec","neque","conjunción copulativa negativa"],["mutam","mutus","adjetivo femenino acusativo singular, con mulierem"],["profecto","profecto","adverbio: ciertamente"],["repertam","reperio","participio perfecto pasivo femenino acusativo singular, con esse"],["ullam","ullus","adjetivo femenino acusativo singular, con mulierem"],["esse","sum","infinitivo presente, auxiliar del perfecto pasivo repertam esse"]]},{"n":"126","latin":"aut hodie dicunt mulierem aut ullo in saeclo.","spanish":"ni hoy ni en ninguna época anterior.","words":[["aut","aut","conjunción disyuntiva correlativa"],["hodie","hodie","adverbio: hoy"],["dicunt","dico","indicativo presente activo, tercera plural; rige acusativo con infinitivo"],["mulierem","mulier","acusativo femenino singular, sujeto de repertam esse"],["aut","aut","conjunción disyuntiva correlativa"],["ullo","ullus","adjetivo neutro ablativo singular, con saeclo"],["in","in","preposición con ablativo"],["saeclo","saeclum","sustantivo neutro ablativo singular; grafía antigua de saeculo"]]}]);
 verses.unshift(...prologueVerses);
 
 const notes = { ...prologueNotes,
+  '120': {number:35,type:'MORFOLOGÍA',heading:'Med, meai y tuai',text:'Med es acusativo arcaico de ego; meai y tuai son genitivos femeninos antiguos. Se conservan estas grafías plautinas y se omiten únicamente marcas prosódicas.'},
+  '123': {number:36,type:'SINTAXIS',heading:'Haud falsa sum',text:'La forma falsa, participio o adjetivo, adquiere aquí sentido activo: «no estoy equivocada». La generalización sobre las mujeres es una broma del personaje, no una afirmación editorial.'},
   '117': {number:33,type:'ESTILO',heading:'Rogitant y la cortesía sospechosa',text:'Rogitant es un frecuentativo de rogo: la repetición de preguntas cotidianas se vuelve sospechosa para Euclión. Las tres interrogativas indirectas llevan subjuntivo.'},
   '119': {number:34,type:'SINTAXIS',heading:'Quantum… tantum',text:'La correlación quantum potero tantum intensifica la urgencia del regreso. Me recipiam es futuro en el contexto, aunque su forma coincide con el presente de subjuntivo.'},
   '111': {number:31,type:'SINTAXIS',heading:'Veri simile y parvi facere',text:'Veri simile expresa verosimilitud; parvi facere, «estimar en poco». Quin con subjuntivo depende de la negación previa.'},
@@ -404,7 +407,7 @@ for (const entry of verses) {
   }
   const latin = document.createElement('p');
   latin.className = 'latin';
-  const reference = (Number(lastNumber) <= 39 ? 'Prólogo' : Number(lastNumber) <= 78 ? 'I.1' : 'I.2') + ', v. ' + lastNumber;
+  const reference = (Number(lastNumber) <= 39 ? 'Prólogo' : Number(lastNumber) <= 78 ? 'I.1' : Number(lastNumber) <= 119 ? 'I.2' : 'II.1') + ', v. ' + lastNumber;
   const chunks = entry.latin.match(/\p{L}+|[^\p{L}]+/gu) || [];
   let index = 0;
   for (const chunk of chunks) {
@@ -444,7 +447,7 @@ for (const entry of verses) {
   right.className = 'spanish';
   right.textContent = entry.spanish;
   row.append(left,right);
-  row.dataset.section = Number(lastNumber) <= 39 ? 'prologue' : Number(lastNumber) <= 78 ? 'act1scene1' : 'act1scene2';
+  row.dataset.section = Number(lastNumber) <= 39 ? 'prologue' : Number(lastNumber) <= 78 ? 'act1scene1' : Number(lastNumber) <= 119 ? 'act1scene2' : 'act2scene1';
   container.append(row);
 }
 
@@ -668,16 +671,17 @@ sectionSelector.id = 'section-selector';
 sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
 const maxPrologue = Math.max(0, ...verses.filter(v => Number(v.n) < 40).map(v => Number(v.n)));
 const maxSceneOne = Math.max(40, ...verses.filter(v => Number(v.n) >= 40 && Number(v.n) <= 78).map(v => Number(v.n)));
-const maxSceneTwo = Math.max(79, ...verses.filter(v => Number(v.n) >= 79).map(v => Number(v.n)));
-for (const [value,label] of [['prologue','Prólogo · vv. 1–' + maxPrologue],['act1scene1','Acto I · escena 1 · vv. 40–' + maxSceneOne],['act1scene2','Acto I · escena 2 · vv. 79–' + maxSceneTwo]]) {
+const maxSceneTwo = Math.max(79, ...verses.filter(v => Number(v.n) >= 79 && Number(v.n) <= 119).map(v => Number(v.n)));
+const maxSceneThree = Math.max(120,...verses.filter(v => Number(v.n) >= 120).map(v => Number(v.n)));
+for (const [value,label] of [['prologue','Prólogo · vv. 1–' + maxPrologue],['act1scene1','Acto I · escena 1 · vv. 40–' + maxSceneOne],['act1scene2','Acto I · escena 2 · vv. 79–' + maxSceneTwo],['act2scene1','Acto II · escena 1 · vv. 120–' + maxSceneThree]]) {
  const option=document.createElement('option');option.value=value;option.textContent=label;sectionSelector.append(option);
 }
 const sectionNav=document.createElement('nav');sectionNav.className='section-navigation';sectionNav.append(sectionSelector);
 document.querySelector('#section-nav-slot').append(sectionNav);
 function selectSection(section){
  for(const row of container.querySelectorAll('.verse'))row.hidden=row.dataset.section!==section;
- const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':section==='act1scene1'?'Acto I, escena 1':'Acto I, escena 2';
- const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–'+maxPrologue:section==='act1scene1'?'vv. 40–'+maxSceneOne:'vv. 79–'+maxSceneTwo;
+ const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':section==='act1scene1'?'Acto I, escena 1':section==='act1scene2'?'Acto I, escena 2':'Acto II, escena 1';
+ const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–'+maxPrologue:section==='act1scene1'?'vv. 40–'+maxSceneOne:section==='act1scene2'?'vv. 79–'+maxSceneTwo:'vv. 120–'+maxSceneThree;
  closeWord();closeNote();
 }
 sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));
