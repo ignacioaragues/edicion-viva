@@ -23,6 +23,21 @@ El catálogo se actualiza editando las entradas de `collection.js`. Las obras co
 
 Sitio HTML/CSS/JS estático, sin instalación ni compilación. Se puede servir directamente desde la raíz. Para alojar esta portada en GitHub Pages, configurar **Settings → Pages → Deploy from a branch → main / (root)**. La publicación de esta portada es independiente de la de Shakespeare.
 
+## Cuenta opcional y sincronización
+
+Edición Viva sigue siendo **pública y legible sin cuenta**. La página `cuenta.html` permite solicitar un enlace de acceso por correo mediante Supabase Auth. Quien inicie sesión puede sincronizar diccionarios, tiempo acumulado por obra/día/dispositivo y últimas posiciones registradas.
+
+- Proyecto Supabase: `nzjdlqanbclsfwwstkwi` (región Singapur); frontend solo con clave **publicable**, nunca `service_role`.
+- Tablas: `public.edition_dictionary_entries` (por palabra y usuario) y `public.edition_reading_devices` (por dispositivo y usuario). Todas con RLS y políticas basadas en `auth.uid()`.
+- `account-sync.js` carga Supabase JS versión fija `2.119.0`. Comparte sesión en la biblioteca, Marcos, Plauto y el lector de Coriolanus (desde `shakespeare-edicion-viva`).
+- Los datos anteriores de `localStorage` **no se migran** al primer inicio de sesión, según la preferencia del usuario. Al cerrar sesión se vacían los datos personales del navegador; sin sesión se puede seguir leyendo y usar guardado local.
+- Las entradas de diccionario se sincronizan mediante detección de cambios frente a un estado base. El registro de lectura se guarda por dispositivo y se fusiona por máximos para evitar duplicar minutos.
+- El texto y los archivos de las obras nunca requieren autenticación.
+
+**Paso obligatorio antes de probar enlaces por correo:** En Supabase → Authentication → URL Configuration, establecer Site URL en `https://ignacioaragues.github.io/edicion-viva/` y añadir como URL de redirección permitida `https://ignacioaragues.github.io/edicion-viva/cuenta.html`. Es una configuración del servidor Auth, no del sitio estático; debe validarse en el panel de Supabase. No declarar la autenticación probada hasta hacer una prueba real de correo y sesión.
+
+**Límites:** la lectura pública conserva datos solo localmente; la sincronización interdispositivos requiere iniciar sesión en cada equipo. Las posiciones se sincronizan como información del registro y su navegación exacta depende del lector. La primera integración necesita una prueba manual con dos navegadores/dispositivos.
+
 ## Registro de lectura compartido
 
 `reading-tracker.js` gestiona las sesiones de lectura de todas las obras con la clave `edicion-viva:reading:v1` en `localStorage`. Las páginas de Plauto y Shakespeare comparten el origen `https://ignacioaragues.github.io`, aunque se publiquen desde repositorios diferentes. El lector de Shakespeare carga el contador de este repositorio por `../edicion-viva/reading-tracker.js` y solo registra minutos mientras está abierto el lector de *Coriolanus*, no su portada.
