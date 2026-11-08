@@ -49,6 +49,12 @@ En las ediciones con análisis exhaustivo palabra por palabra, todas las palabra
 
 *Aulularia*: `autores/plauto/aulularia/glosses.js` contiene glosas orientativas por lema; el cuarto elemento opcional de cada entrada `words` puede suministrar una glosa contextual distinta, `[forma, lema, morfología, glosa contextual]`. Revisar progresivamente la pertinencia de las glosas durante las rondas filológicas.
 
+## Enlaces a paradigmas y flexión
+
+Las fichas léxicas tendrán, debajo de la glosa española, un **enlace pequeño y externo al lema**: «Ver conjugación» para verbos, «Ver declinación» para nombres, adjetivos y pronombres, o «Ver entrada» para voces invariables. Emplear `https://en.wiktionary.org/wiki/` seguido del lema codificado y la sección de idioma correspondiente (por ejemplo `#Latin` o `#Ancient_Greek`), o una fuente académica más específica cuando proporcione un paradigma verificable y apropiado. Mantener siempre un enlace real, nunca uno inventado.
+
+Las tablas externas no necesariamente incluyen la flexión de todas las variedades históricas; en particular, deben distinguirse el latín clásico de las formas arcaicas plautinas y el griego ático del koiné. En las notas aclarar las excepciones relevantes. Cuando se abra una ficha de una forma flexionada, el enlace lleva al **lema** (no intenta construir una página para la forma aislada). Usar `target="_blank" rel="noopener noreferrer"`, no modificar el lector principal ni el registro de lectura. Para obras futuras sin flexión paradigmática pertinente, puede omitirse o sustituirse por un enlace a un repertorio léxico verificable.
+
 ## Criterios editoriales
 
 - Texto original y traducción de apoyo en español general.
