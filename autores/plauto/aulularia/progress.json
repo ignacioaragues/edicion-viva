@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada morfológica: prólogo 1–10; siguiente 11–15. Edición principal II.2 hasta v. 195; próximo 196.",
+  "editorial_note": "Segunda pasada morfológica: prólogo 1–15; siguiente 16–20. Edición principal II.2 hasta v. 195; próximo 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 10,
-    "next_verse": 11,
+    "reviewed_through_verse": 15,
+    "next_verse": 16,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–10 revisado morfológicamente; vv. 6–10: 33 tokens, incluidas grafías arcaicas mi, avos, thensaurum, omnis, formas deponentes venerans/moritur y ambigüedad gráfica defodit. Cotejo Leo (1895) y Latin Library; revisión bibliográfica profunda pendiente.",
+    "note": "Prólogo 1–15 revisado morfológicamente. Vv. 11–15: corregido eum como objeto de relinquere (no sujeto); precisado quo...viveret como relativo final. Cotejo textual externo realizado; revisión bibliográfica exhaustiva pendiente.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -207,6 +207,17 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
           "https://catalog.perseus.tufts.edu/catalog/urn:cts:latinLit:phi0119.phi003.perseus-lat1"
+        ]
+      },
+      {
+        "section": "prologue",
+        "from": 11,
+        "to": 15,
+        "status": "morphology_revised",
+        "tokens": 33,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
         ]
       }
     ]
