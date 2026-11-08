@@ -17,7 +17,8 @@
 .reader[data-layout=stacked] .vulgate{grid-column:2;grid-row:3;padding:3px 19px 20px;border:0;background:transparent}
 .reader[data-layout=stacked] .number{grid-row:1/4}
 .reader[data-layout=stacked] .verse>.spanish{padding-bottom:5px}
-.reader .speech .latin{font-family:var(--serif);line-height:1.92}
+.reader .speech .latin{display:inline;font-family:var(--serif);line-height:1.92}
+.reader .speech .note-anchor{margin-left:6px}
 .reader .speech .token{border-bottom:1px dotted #bdaba0;text-decoration:none}
 .reader .speech .token:hover,.reader .speech .token:focus-visible{border-bottom:1px solid var(--accent)}
 .verse-section{margin:27px 0 0;padding:22px 0 12px;border-top:1px solid var(--line);scroll-margin-top:90px;color:var(--green)}
