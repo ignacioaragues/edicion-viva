@@ -152,6 +152,33 @@ const collection = [
     status: 'considering',
     detail: 'En consideración',
   },
+  {
+    author: 'Victor Hugo',
+    period: 'POESÍA FRANCESA',
+    work: 'La Légende des siècles',
+    translated: 'La leyenda de los siglos',
+    language: 'Francés · Español',
+    status: 'considering',
+    detail: 'En consideración · tres series (1859, 1877, 1883)',
+  },
+  {
+    author: 'Herman Melville',
+    period: 'NOVELA ESTADOUNIDENSE',
+    work: 'The Confidence-Man: His Masquerade',
+    translated: 'El estafador y sus disfraces',
+    language: 'Inglés · Español',
+    status: 'considering',
+    detail: 'En consideración',
+  },
+  {
+    author: 'William Shakespeare',
+    period: 'POESÍA ISABELINA',
+    work: 'Shakespeare’s Sonnets',
+    translated: 'Sonetos de Shakespeare',
+    language: 'Inglés · Español',
+    status: 'considering',
+    detail: 'En consideración · 154 sonetos',
+  },
 ];
 
 const list = document.querySelector('#library-list');
