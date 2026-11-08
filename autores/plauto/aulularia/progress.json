@@ -168,5 +168,22 @@
   ],
   "updated": "2026-11-08",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "II.2 vv. 191–195: traducción propia, análisis por token y notas con referencias; segunda pasada y pruebas visuales pendientes."
+  "editorial_note": "II.2 vv. 191–195: traducción propia, análisis por token y notas con referencias; segunda pasada y pruebas visuales pendientes.",
+  "morphological_second_pass": {
+    "status": "pending",
+    "reviewed_through_verse": 0,
+    "next_verse": 1,
+    "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
+    "note": "El prólogo 1–39 pasó comprobación estructural de 269 tokens: todas las formas alineadas y con fichas. Esto no constituye revisión filológica de las fichas.",
+    "checked_structure": [
+      {
+        "section": "prologue",
+        "from": 1,
+        "to": 39,
+        "token_count": 269,
+        "checked_on": "2026-11-08",
+        "status": "token_alignment_only"
+      }
+    ]
+  }
 }
