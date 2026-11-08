@@ -24,7 +24,9 @@
     try {
       localStorage.setItem(STORAGE, JSON.stringify(values));
       window.dispatchEvent(new Event('edicion-viva:highlights-updated'));
-      window.EdicionVivaAccount?.syncNow?.().catch(console.warn);
+      if (window.EdicionVivaAccount?.user) {
+        window.EdicionVivaAccount.syncNow().catch(console.warn);
+      }
     } catch { announce('No se pudo guardar en este navegador.'); }
   }
   const el = (tag, cls, label) => {
