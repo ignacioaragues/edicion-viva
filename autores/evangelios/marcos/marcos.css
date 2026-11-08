@@ -19,8 +19,8 @@
 .reader[data-layout=stacked] .verse>.spanish{padding-bottom:5px}
 .reader .speech .latin{display:inline;font-family:var(--serif);line-height:1.92}
 .reader .speech .note-anchor{margin-left:6px}
-.reader .speech .token{border-bottom:1px dotted #bdaba0;text-decoration:none}
-.reader .speech .token:hover,.reader .speech .token:focus-visible{border-bottom:1px solid var(--accent)}
+.reader .speech .token{border-bottom:1px solid transparent;text-decoration:none}
+.reader .speech .token:hover,.reader .speech .token:focus-visible{border-bottom-color:var(--accent)}
 .verse-section{margin:27px 0 0;padding:22px 0 12px;border-top:1px solid var(--line);scroll-margin-top:90px;color:var(--green)}
 .verse-section:first-child{margin-top:0;border-top:0}
 .verse-section h2{font:400 22px/1.35 var(--serif);margin:0}
