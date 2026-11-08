@@ -259,6 +259,8 @@ verses.push(...[{"n":"147","speaker":"EUNOMIA","latin":"salutare sit: liberis pr
 verses.unshift(...prologueVerses);
 
 const notes = { ...prologueNotes,
+ '148': {number:43,type:'MORFOLOGÍA',heading:'Faxint',text:'Faxint es una forma optativa arcaica de facio, generalmente analizada como subjuntivo perfecto; la fórmula invoca el favor de los dioses.'},
+ '152': {number:44,type:'LENGUA COLOQUIAL',heading:'Face y lubeat',text:'Face conserva una variante antigua del imperativo fac; lubeat presenta la vocal arcaica u frente a libeat. La respuesta de Megadoro introduce una reserva burlona.'},
  '144': {number:41,type:'MORFOLOGÍA',heading:'Monitum advento',text:'El supino en -um (monitum) indica finalidad con el verbo de movimiento advento; ted conserva el acusativo arcaico de segunda persona.'},
  '142': {number:42,type:'PRAGMÁTICA',heading:'Amabo y tuast',text:'Amabo funciona como fórmula coloquial de cortesía, no como declaración amorosa. Tuast representa la contracción de tua est.'},
   '136': {number:39,type:'PRAGMÁTICA',heading:'Una cortesía desmontada',text:'Eunomia obliga a Megadoro a precisar su elogio; él lo retira en cuanto ella lo rechaza. El intercambio prepara el tópico misógino de los versos siguientes.'},
