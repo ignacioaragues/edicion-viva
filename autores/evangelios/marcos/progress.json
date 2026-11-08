@@ -27,12 +27,23 @@
       "to": 28,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 1,
+      "from": 29,
+      "to": 34,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/1/29-34",
+        "https://biblia.com/bible/vulgataclem/mark/1/29-45"
+      ]
     }
   ],
   "pending": [
     {
       "chapter": 1,
-      "from": 29,
+      "from": 35,
       "to": 45
     },
     {
@@ -45,7 +56,12 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 1,29 y siguientes",
+  "next": "Marcos 1,35 y siguientes",
   "last_edit": "2026-11-08",
-  "notes": "1,1–28 traducidos y anotados; revisión integral y cobertura morfológica exhaustiva pendientes."
+  "notes": "1,1–34 traducidos y anotados; notas de 1,29–34 con referencias textuales externas; revisión académica integral y cobertura morfológica exhaustiva pendientes.",
+  "review_tracking": {
+    "next_review": "Marcos 1,1–8",
+    "reviewed": [],
+    "policy": "Consultar fuentes académicas y comentarios externos en rondas sucesivas; distinguir revisión bibliográfica de simple cotejo textual."
+  }
 }
