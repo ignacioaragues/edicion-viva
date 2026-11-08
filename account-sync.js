@@ -186,20 +186,29 @@ async function syncDictionaries() {
 }
 async function syncReading() {
   const device = deviceId();
-  const reading = parse(K.reading, EMPTY_READING);
-  const own = onlyDeviceData(reading, device);
-  const ownSerialized = JSON.stringify(own);
-  if (ownSerialized !== lastUpload) {
+  // Read server snapshots BEFORE writing. A fresh sign-in must never
+  // overwrite the existing history of this same device with an empty record.
+  const rows = await getAllRows('edition_reading_devices', 'device_id,data');
+  const remoteOwn = rows.find(row => row.device_id === device)?.data || EMPTY_READING;
+  const current = parse(K.reading, EMPTY_READING);
+  const localOwn = onlyDeviceData(current, device);
+  const combinedOwn = mergeReading(
+    structuredClone(EMPTY_READING), remoteOwn
+  );
+  mergeReading(combinedOwn, localOwn);
+  const remoteOwnText = JSON.stringify(remoteOwn);
+  const combinedText = JSON.stringify(combinedOwn);
+  if (combinedText !== remoteOwnText) {
     const { error } = await client.from('edition_reading_devices').upsert({
-      user_id: user.id, device_id: device, data: own
+      user_id: user.id, device_id: device, data: combinedOwn
     }, { onConflict: 'user_id,device_id' });
     if (error) throw error;
-    lastUpload = ownSerialized;
   }
-  const rows = await getAllRows('edition_reading_devices', 'device_id,data');
+  lastUpload = combinedText;
   const merged = { version: 1, works: {} };
   for (const row of rows) mergeReading(merged, row.data);
-  // Time advanced during the network roundtrip must never be lost.
+  mergeReading(merged, combinedOwn);
+  // Seconds accrued locally while fetching are not discarded.
   mergeReading(merged, parse(K.reading, EMPTY_READING));
   if (!same(merged, parse(K.reading, EMPTY_READING))) {
     put(K.reading, merged);
