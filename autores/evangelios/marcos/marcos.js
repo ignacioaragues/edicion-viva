@@ -1,4 +1,4 @@
-/* Marcos 1,1–13 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–20 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -16,9 +16,24 @@
     { n: 11, gr: 'καὶ φωνὴ ἐγένετο ἐκ τῶν οὐρανῶν· Σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα.', es: 'Y se oyó una voz desde los cielos: «Tú eres mi Hijo amado; en ti me complazco».', la: 'Et vox facta est de cælis: Tu es Filius meus dilectus, in te complacui.', notes: ['hijo'] },
     { n: 12, gr: 'Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον.', es: 'Y enseguida el Espíritu lo empuja al desierto.', la: 'Et statim Spiritus expulit eum in desertum.', notes: ['expulsa'] },
     { n: 13, gr: 'καὶ ἦν ἐν τῇ ἐρήμῳ τεσσεράκοντα ἡμέρας πειραζόμενος ὑπὸ τοῦ Σατανᾶ, καὶ ἦν μετὰ τῶν θηρίων, καὶ οἱ ἄγγελοι διηκόνουν αὐτῷ.', es: 'Y estuvo en el desierto cuarenta días, tentado por Satanás; estaba con las fieras y los ángeles lo servían.', la: 'Et erat in deserto quadraginta diebus, et quadraginta noctibus: et tentabatur a Satana: eratque cum bestiis, et angeli ministrabant illi.', notes: ['cuarenta'] },
+    {"n":14,"gr":"Καὶ μετὰ τὸ παραδοθῆναι τὸν Ἰωάννην ἦλθεν ὁ Ἰησοῦς εἰς τὴν Γαλιλαίαν κηρύσσων τὸ εὐαγγέλιον τοῦ θεοῦ","es":"Después de que Juan fuera entregado, Jesús llegó a Galilea proclamando la buena noticia de Dios","la":"Postquam autem traditus est Joannes, venit Jesus in Galilæam, prædicans Evangelium regni Dei,","notes":["entregado","evangelio"]},
+    {"n":15,"gr":"καὶ λέγων ὅτι Πεπλήρωται ὁ καιρὸς καὶ ἤγγικεν ἡ βασιλεία τοῦ θεοῦ· μετανοεῖτε καὶ πιστεύετε ἐν τῷ εὐαγγελίῳ.","es":"y diciendo: «Se ha cumplido el tiempo y se ha acercado el reino de Dios. Conviértanse y crean en la buena noticia».","la":"et dicens: Quoniam impletum est tempus, et appropinquavit regnum Dei: pœnitemini, et credite Evangelio.","notes":["kairos","reino"]},
+    {"n":16,"gr":"Καὶ παράγων παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν Σίμωνα καὶ Ἀνδρέαν τὸν ἀδελφὸν Σίμωνος ἀμφιβάλλοντας ἐν τῇ θαλάσσῃ, ἦσαν γὰρ ἁλιεῖς·","es":"Al pasar junto al mar de Galilea, vio a Simón y a Andrés, hermano de Simón, echando una red al agua, pues eran pescadores.","la":"Et præteriens secus mare Galilææ, vidit Simonem, et Andream fratrem ejus, mittentes retia in mare (erant enim piscatores),","notes":["mar"]},
+    {"n":17,"gr":"καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Δεῦτε ὀπίσω μου, καὶ ποιήσω ὑμᾶς γενέσθαι ἁλιεῖς ἀνθρώπων.","es":"Jesús les dijo: «Vengan detrás de mí y haré que lleguen a ser pescadores de personas».","la":"et dixit eis Jesus: Venite post me, et faciam vos fieri piscatores hominum.","notes":["pescadores"]},
+    {"n":18,"gr":"καὶ εὐθὺς ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ.","es":"Y enseguida dejaron las redes y lo siguieron.","la":"Et protinus relictis retibus, secuti sunt eum.","notes":[]},
+    {"n":19,"gr":"καὶ προβὰς ὀλίγον εἶδεν Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,","es":"Un poco más adelante vio a Santiago, hijo de Zebedeo, y a Juan, su hermano, que estaban también en la barca reparando las redes.","la":"Et progressus inde pusillum, vidit Jacobum Zebedæi, et Joannem fratrem ejus, et ipsos componentes retia in navi:","notes":["redes"]},
+    {"n":20,"gr":"καὶ εὐθὺς ἐκάλεσεν αὐτούς. καὶ ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω αὐτοῦ.","es":"Y enseguida los llamó. Ellos dejaron a su padre Zebedeo en la barca con los trabajadores asalariados y se fueron detrás de él.","la":"et statim vocavit illos. Et relicto patre suo Zebedæo in navi cum mercenariis, secuti sunt eum.","notes":["asalariados"]},
   ];
 
   const notes = {
+    entregado: ['Juan, entregado', 'παραδοθῆναι es un infinitivo aoristo pasivo de παραδίδωμι, «entregar, poner en manos de otro». La misma familia verbal reaparece en el relato de la pasión. El texto no identifica aquí a quien entrega a Juan.'],
+    evangelio: ['La buena noticia de Dios', 'SBLGNT lee τοῦ θεοῦ («de Dios»); la Vulgata Clementina presenta regni Dei («del reino de Dios»). No se armonizan ambas versiones.'],
+    kairos: ['καιρός', 'No se trata simplemente de tiempo medido (χρόνος), sino de un momento u ocasión decisiva. El perfecto πεπλήρωται presenta el tiempo como ya cumplido.'],
+    reino: ['ἤγγικεν', 'Perfecto de ἐγγίζω: «se ha acercado». La proximidad del reino puede recibir distintas interpretaciones escatológicas; la traducción no decide entre ellas.'],
+    mar: ['Mar de Galilea', 'La denominación θάλασσα se usa para el lago de Galilea. ἀμφιβάλλοντας describe la acción de echar una red, sin precisar en este versículo un tipo único de aparejo.'],
+    pescadores: ['Pescadores de personas', 'ποιήσω ὑμᾶς γενέσθαι contiene un infinitivo de devenir: «haré que lleguen a ser». La imagen aprovecha el oficio de los llamados.'],
+    redes: ['καταρτίζοντας', 'Participio presente activo de καταρτίζω: arreglar, preparar o poner en condiciones. En este contexto se refiere a las redes de pesca.'],
+    asalariados: ['Los trabajadores contratados', 'μισθωτοί son personas que trabajan por salario. Su mención diferencia la escena de Zebedeo de la primera pareja de hermanos.'],
     titulo: ['El comienzo', 'La lectura adoptada por SBLGNT termina en χριστοῦ («Cristo»). Numerosos testigos incluyen además υἱοῦ θεοῦ («Hijo de Dios»), que aparece en la Vulgata. La inclusión de esas palabras es una variante textual importante, no una omisión accidental de nuestra traducción.'],
     cita: ['Isaías y Malaquías', 'Aunque la introducción menciona a Isaías, la primera cita recuerda Mal 3,1 (y Ex 23,20); la segunda procede de Is 40,3. Algunos testigos griegos sustituyen «en Isaías, el profeta» por «en los profetas».'],
     desierto: ['Una voz en el desierto', 'La cita de Isaías introduce el motivo del desierto, que estructura el comienzo de Marcos. La puntuación moderna ayuda a interpretar la frase, pero no proviene de los manuscritos antiguos de la misma manera que las palabras.'],
@@ -57,6 +72,14 @@
     'περιστερὰν': ['περιστερά', 'acusativo singular femenino', 'paloma'],
     'ἐκβάλλει': ['ἐκβάλλω', 'presente indicativo activo, 3.ª persona singular', 'arroja, empuja, expulsa'],
     'πειραζόμενος': ['πειράζω', 'participio presente medio-pasivo, nominativo masculino singular', 'tentado, puesto a prueba'],
+    'Πεπλήρωται': ['πληρόω', 'perfecto indicativo medio-pasivo, 3.ª persona singular', 'se ha cumplido'],
+    'ἤγγικεν': ['ἐγγίζω', 'perfecto indicativo activo, 3.ª persona singular', 'se ha acercado'],
+    'μετανοεῖτε': ['μετανοέω', 'presente imperativo activo, 2.ª persona plural', 'conviértanse, cambien de orientación'],
+    'πιστεύετε': ['πιστεύω', 'presente imperativo activo, 2.ª persona plural', 'crean, confíen'],
+    'ἁλιεῖς': ['ἁλιεύς', 'nominativo plural masculino', 'pescadores'],
+    'δίκτυα': ['δίκτυον', 'acusativo plural neutro', 'redes'],
+    'ἠκολούθησαν': ['ἀκολουθέω', 'aoristo indicativo activo, 3.ª persona plural', 'siguieron'],
+    'μισθωτῶν': ['μισθωτός', 'genitivo plural masculino', 'trabajadores asalariados'],
     'διηκόνουν': ['διακονέω', 'imperfecto indicativo activo, 3.ª persona plural', 'servían, atendían'],
   };
 
@@ -144,6 +167,8 @@
     1: ['1,1–8', 'Juan el Bautista'],
     9: ['1,9–11', 'El bautismo de Jesús'],
     12: ['1,12–13', 'En el desierto'],
+    14: ['1,14–15', 'El anuncio en Galilea'],
+    16: ['1,16–20', 'Los primeros discípulos'],
   };
   passages.forEach(p => {
     if (sections[p.n]) {
