@@ -1,0 +1,20 @@
+{
+  "work": "Evangelio según Marcos",
+  "status": "in_progress",
+  "language": "Greek (Koine)",
+  "base": "Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), CC BY 4.0",
+  "secondary": "Vulgata Clementina, Clementine Vulgate Project, public domain",
+  "translation": "Edición Viva, traducción propia al español general",
+  "editorial_policy": "Conservar la lectura griega SBLGNT, sin armonizarla con la Vulgata; omitir signos editoriales de aparato en la lectura y documentar variantes importantes en notas.",
+  "edited": [
+    {"chapter": 1, "from": 1, "to": 13, "status": "edited_not_revised", "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"}
+  ],
+  "pending": [
+    {"chapter": 1, "from": 14, "to": 45},
+    {"chapter": 2, "from": 1, "to": 28},
+    {"chapters": "3–16", "status": "pending"}
+  ],
+  "next": "Marcos 1,14 y siguientes, avanzando por unidades narrativas, sin saltos de versículos",
+  "last_edit": "2026-11-08",
+  "notes": "1,1–13 traducidos y anotados; glosario selectivo, latín opcional, contador de lectura compartido. Revisión de conjunto pendiente."
+}

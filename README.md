@@ -5,7 +5,8 @@ Biblioteca de ediciones bilingües y anotadas de clásicos literarios. Una lectu
 ## Estado
 
 - **Disponible:** Shakespeare · *Coriolanus*, en edición continua: https://ignacioaragues.github.io/shakespeare-edicion-viva/
-- **En consideración:** Milton · *Paradise Lost*; Marlowe · *Doctor Faustus*; Corneille · *Attila*.
+- **Disponible en curso:** Evangelio según Marcos, 1,1–13: `autores/evangelios/marcos/`. Griego SBLGNT, traducción española original y Vulgata Clementina opcional.
+- **En consideración:** Mateo, Lucas y Juan; Milton · *Paradise Lost*; Marlowe · *Doctor Faustus* y *Tamburlaine the Great*; Corneille · *Attila*; Whitman · *Leaves of Grass*; Dickinson · poemas; Petrarca · *Canzoniere* (selección por confirmar); Chaucer · *The Canterbury Tales*; Ariosto · *Orlando furioso*; Wyspiański · *Wesele*.
 
 La portada general y el lector de Shakespeare son proyectos independientes. Este repositorio **no modifica** el flujo editorial ni las actualizaciones automáticas de Shakespeare.
 
@@ -28,6 +29,8 @@ Sitio HTML/CSS/JS estático, sin instalación ni compilación. Se puede servir d
 
 `mis-lecturas.html` muestra el resumen común y barras diarias/semanales apiladas, con un color estable por obra. Los datos pertenecen a cada navegador/dispositivo; se pueden exportar e importar en JSON, pero no se sincronizan automáticamente. Los nuevos lectores deben declarar `data-reading-id` y `data-reading-title` en `<body>` y cargar `reading-tracker.js` sin modificar el formato del registro.
 
+Marcos usa `data-reading-id="evangelios-marcos"`; el diccionario griego emplea la clave independiente `edicion-viva:dictionary:gr:v1`. La vista latina opcional se recuerda mediante `edicion-viva:marcos:vulgate:v1`. La navegación, paleta y la vista en bloques/columnas mantienen el diseño compartido con Plauto.
+
 ## Criterios editoriales
 
 - Texto original y traducción de apoyo en español general.
@@ -36,3 +39,10 @@ Sitio HTML/CSS/JS estático, sin instalación ni compilación. Se puede servir d
 - Verificar los derechos de cada edición fuente y traducción antes de reproducirlas.
 
 Las obras de dominio público pueden convivir con ediciones críticas y traducciones modernas sujetas a licencias distintas; esos permisos se documentarán obra por obra.
+
+### Fuentes de Marcos
+
+- Griego: M. W. Holmes, *The Greek New Testament: SBL Edition* (2010), [SBLGNT](https://sblgnt.com/), CC BY 4.0. Los signos de aparato se omiten en el texto de lectura, pero se señalan variantes relevantes en las notas.
+- Latín: *Vulgata Clementina*, [Clementine Vulgate Project](https://hermeticcloud.com/library/vulgate/mark/), dominio público. No se fuerza su armonización con SBLGNT.
+- Español: traducción propia y provisional de esta edición, sin copiar versiones modernas.
+- Estado: Marcos 1,1–13, con notas y glosario inicial verificado. No se anuncia el capítulo 1 como completo.

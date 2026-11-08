@@ -4,10 +4,12 @@
   const dayLabels = ['dom', 'lun', 'mar', 'mié', 'jue', 'vie', 'sáb'];
   const links = {
     'plauto-aulularia': './autores/plauto/aulularia/',
+    'evangelios-marcos': './autores/evangelios/marcos/',
     'shakespeare-coriolanus': '../shakespeare-edicion-viva/#coriolanus'
   };
   const colors = {
     'plauto-aulularia': '#78927c',
+    'evangelios-marcos': '#83719b',
     'shakespeare-coriolanus': '#ad7059'
   };
   const fallbackColors = ['#7e89a8', '#b49a68', '#8d7790', '#6f9d9a', '#ac7e85'];

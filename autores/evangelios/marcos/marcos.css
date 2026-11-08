@@ -1,0 +1,59 @@
+/* Los componentes y la paleta proceden del lector compartido de Aulularia. */
+.heading-line h1{font-size:clamp(39px,4.3vw,65px);line-height:1.2}
+.passage-nav{margin:12px 0;display:grid;gap:4px}
+.passage-link{display:block;padding:11px 12px;border-left:2px solid transparent;text-decoration:none;color:var(--green);font:600 12px/1.5 var(--sans);transition:background .15s}
+.passage-link small{display:block;font:400 10px/1.6 var(--sans);color:var(--ink-pale)}
+.passage-link:hover,.passage-link:focus-visible{background:#eae8df;border-color:var(--accent)}
+.edition-actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.edition-actions button{border:0;background:transparent;color:var(--accent);font:700 11px/1.5 var(--sans);padding:6px 0;cursor:pointer}
+.edition-actions button:hover{text-decoration:underline;text-underline-offset:4px}
+.edition-actions button[aria-pressed=true]{color:var(--green)}
+.reader .vulgate-heading,.reader .vulgate{display:none}
+.reader[data-vulgate=true][data-layout=parallel] .reader-columns-heading,
+.reader[data-vulgate=true][data-layout=parallel] .verse{grid-template-columns:49px repeat(3,minmax(0,1fr))}
+.reader[data-vulgate=true][data-layout=parallel] .vulgate-heading{display:flex}
+.reader[data-vulgate=true] .vulgate{display:block;min-width:0;padding:20px 16px 23px;border-left:1px solid #e1e1d8;color:#77786e;font:calc(var(--reading-size) - 1px)/1.93 var(--serif)}
+.reader[data-vulgate=true][data-layout=parallel] .vulgate{grid-column:4;grid-row:auto}
+.reader[data-layout=stacked] .vulgate{grid-column:2;grid-row:3;padding:3px 19px 20px;border:0;background:transparent}
+.reader[data-layout=stacked] .number{grid-row:1/4}
+.reader[data-layout=stacked] .verse>.spanish{padding-bottom:5px}
+.reader .speech .latin{font-family:var(--serif);line-height:1.92}
+.reader .speech .token{border-bottom:1px dotted #bdaba0;text-decoration:none}
+.reader .speech .token:hover,.reader .speech .token:focus-visible{border-bottom:1px solid var(--accent)}
+.verse-section{margin:27px 0 0;padding:22px 0 12px;border-top:1px solid var(--line);scroll-margin-top:90px;color:var(--green)}
+.verse-section:first-child{margin-top:0;border-top:0}
+.verse-section h2{font:400 22px/1.35 var(--serif);margin:0}
+.verse-section p{font:700 10px/1.6 var(--sans);letter-spacing:.12em;text-transform:uppercase;margin:0 0 6px;color:var(--ink-pale)}
+.verse-section+.verse{border-top:1px solid var(--line)}
+.verse{border-bottom:1px solid #e6e4da}
+.verse .number{padding-top:24px}
+.verse .speech,.verse>.spanish{font-size:var(--reading-size)}
+.verse .speech p,.verse .spanish p,.verse .vulgate p{margin:0}
+.word-gloss{margin:15px 0 0;font:13px/1.6 var(--serif);color:var(--ink-mid)}
+.dictionary-entry{padding:12px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center}
+.dictionary-entry strong{display:block;font:17px/1.7 var(--serif)}
+.dictionary-entry small{display:block;color:var(--ink-pale);font:11px/1.5 var(--sans)}
+.dictionary-entry button{border:1px solid var(--line);padding:5px 8px;background:transparent;color:var(--accent);cursor:pointer}
+.dictionary-feedback{font:11px/1.6 var(--sans);color:var(--green)}
+.flashcard{padding:12px 0}
+.flash-form{font:25px/1.8 var(--serif);color:var(--green);margin:18px 0}
+.flash-progress{font:10px var(--sans);color:var(--ink-pale)}
+.flash-answer{font:13px/1.6 var(--sans)}
+.flash-actions{display:flex;flex-wrap:wrap;gap:7px;margin-top:16px}
+.heading-place{white-space:normal}
+@media(max-width:1100px){
+  .reader[data-vulgate=true][data-layout=parallel] .reader-columns-heading,
+  .reader[data-vulgate=true][data-layout=parallel] .verse{grid-template-columns:43px minmax(0,1fr)}
+  .reader[data-vulgate=true][data-layout=parallel] .reader-columns-heading{display:none}
+  .reader[data-vulgate=true][data-layout=parallel] .number{grid-column:1;grid-row:1/4}
+  .reader[data-vulgate=true][data-layout=parallel] .speech{grid-column:2;grid-row:1;padding-bottom:5px}
+  .reader[data-vulgate=true][data-layout=parallel] .verse>.spanish{grid-column:2;grid-row:2;border:0;padding-top:0;padding-bottom:5px;background:transparent}
+  .reader[data-vulgate=true][data-layout=parallel] .vulgate{grid-column:2;grid-row:3;padding-top:0;border:0}
+}
+@media(max-width:640px){
+  .heading-line h1{font-size:38px}
+  .edition-actions{gap:16px}
+  .reader .vulgate{font-size:14px}
+  .reader[data-layout=stacked] .vulgate{padding:3px 14px 18px}
+  .verse-section{margin-top:19px;padding:18px 3px 9px}
+}

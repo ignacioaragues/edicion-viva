@@ -14,10 +14,15 @@ autores/
     index.html
     obras/
       paradise-lost/
+  evangelios/
+    marcos/
+      index.html
+      marcos.css
+      marcos.js
 ```
 
 No migrar Shakespeare por ahora: su edición continua sigue en `ignacioaragues/shakespeare-edicion-viva`, con su propia publicación y automatización. La portada general le enlaza desde `collection.js`.
 
 Cada nueva obra deberá declarar: autor, título original, título español, idioma, género, estado editorial, URL, procedencia y condiciones de uso de su texto fuente, criterios de traducción y notas. Con el crecimiento del catálogo, las fichas se podrán separar de `collection.js` y generar páginas de autor sin cambiar las URL públicas existentes.
 
-Los enlaces de una obra solo deben activarse cuando la edición esté disponible.
+Los enlaces de una obra solo deben activarse cuando la edición esté disponible. Marcos ya tiene un primer pasaje real y conserva `available` exclusivamente por ese motivo; Mateo, Lucas y Juan continúan sin enlace hasta tener contenido verificable.
