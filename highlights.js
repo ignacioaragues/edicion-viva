@@ -24,6 +24,7 @@
     try {
       localStorage.setItem(STORAGE, JSON.stringify(values));
       window.dispatchEvent(new Event('edicion-viva:highlights-updated'));
+      window.EdicionVivaAccount?.syncNow?.().catch(console.warn);
     } catch { announce('No se pudo guardar en este navegador.'); }
   }
   const el = (tag, cls, label) => {
@@ -142,7 +143,8 @@
       if (!part.trim()) continue;
       segments.push({key,start,end,text:part});
     }
-    if (!segments.length || segments.length > 100) return null;
+    if (!segments.length || segments.length > 100 ||
+      segments.reduce((sum,x)=>sum+x.text.length,0) > 4000) return null;
     const excerpt=segments.map(x=>x.text.trim()).join(' … ').slice(0,4000);
     if (excerpt.length < 2) return null;
     const lines=segments.map(x=>x.key.split('|')[0]);
@@ -226,7 +228,6 @@
     const global=document.querySelector('#highlights-collection');
     if (global) {
       const filter=document.querySelector('#highlight-work-filter');
-      const selected=filter?.value||'all';
       if (filter) {
         const previous=filter.value;
         filter.replaceChildren(new Option('Todas las obras','all'));
@@ -235,6 +236,7 @@
         if ([...filter.options].some(x=>x.value===previous)) filter.value=previous;
       }
       global.replaceChildren();
+      const selected=filter?.value||'all';
       const subset=items.filter(x=>selected==='all'||x.workId===selected);
       if (!subset.length) global.append(el('p','ev-highlight-empty','Todavía no hay pasajes resaltados.'));
       else subset.forEach(item=>{
