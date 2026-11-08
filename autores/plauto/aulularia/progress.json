@@ -198,5 +198,17 @@
         ]
       }
     ]
+  },
+  "reader_features": {
+    "spanish_word_glosses": {
+      "status": "implemented",
+      "scope": "Versos publicados hasta el último checkpoint (sin modificar su avance)",
+      "source_file": "glosses.js",
+      "coverage": "1.428 tokens / 536 lemas en la versión cotejada del 8 de noviembre de 2026",
+      "interface": "Glosa breve en español bajo lema y morfología, dentro del popup, alineada a la izquierda",
+      "context_override": "Cuarto elemento opcional de words: [forma, lema, morfología, glosa contextual]",
+      "editorial_review": "Glosas por lema provisionales; afinar acepciones específicas durante la revisión filológica.",
+      "rule": "Todos los nuevos lemas necesitan glosa verificada antes de publicación."
+    }
   }
 }
