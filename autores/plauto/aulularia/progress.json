@@ -98,12 +98,20 @@
       "verses": 7,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), cotejo The Latin Library"
+    },
+    {
+      "section": "II.1",
+      "from": 154,
+      "to": 160,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejo The Latin Library"
     }
   ],
   "pending": [
     {
       "section": "II.1",
-      "from": 154
+      "from": 161
     },
     {
       "section": "later scenes",
@@ -111,6 +119,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "II.1 desde el verso 154",
-  "editorial_note": "II.1 vv. 147–153: siete versos y 47 fichas; faxint optativo arcaico, face imperativo arcaico; revisión integral pendiente."
+  "next": "II.1 desde el verso 161",
+  "editorial_note": "II.1 vv. 154–160: siete versos, 55 fichas; foras feratur (eufemismo funerario), grandior natu (supino de respecto). Revisión integral pendiente."
 }
