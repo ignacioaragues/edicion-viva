@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39; siguiente I.1 v. 40. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–44; siguiente I.1 v. 45. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 39,
-    "next_verse": 40,
+    "reviewed_through_verse": 44,
+    "next_verse": 45,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 auditado. Vv. 36–39: vigiliis ablativo temporal; solet semideponente; subreptum siet perfecto subjuntivo pasivo perifrástico; la agresión sexual de v. 36 se mantiene explícita.",
+    "note": "Prólogo 1–39 y I.1 40–44 auditados. I.1: emissiciis (ablativo plural de emissicius), dignam (predicativo de te), qua causa (interrogativo ablativo); no se alteraron IDs ni estructura DOM.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -275,6 +275,18 @@
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/",
           "https://classics.andrewgadsden.com/library/plautus/aulularia/0"
         ]
+      },
+      {
+        "section": "I.1",
+        "from": 40,
+        "to": 44,
+        "status": "morphology_revised",
+        "tokens": 35,
+        "sources": [
+          "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/",
+          "https://research-repository.st-andrews.ac.uk/handle/10023/14536"
+        ],
+        "note": "Revisión de fichas y lectura sintáctica; cotejo de texto digital y referencia a comentario de Joanne Walker (2005)."
       }
     ]
   },
