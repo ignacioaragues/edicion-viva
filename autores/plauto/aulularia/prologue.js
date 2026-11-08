@@ -229,7 +229,7 @@ const prologueVerses = [
       [
         "mi",
         "ego",
-        "pronombre personal; dativo singular, forma antigua de mihi"
+        "pronombre personal; dativo singular, variante arcaica mi de mihi; destinatario de concredidit"
       ],
       [
         "avos",
@@ -244,12 +244,12 @@ const prologueVerses = [
       [
         "obsecrans",
         "obsecro",
-        "participio presente activo; nominativo singular masculino"
+        "participio presente activo; nominativo singular masculino, referido a avos; simultáneo a concredidit"
       ],
       [
         "concredidit",
         "concredo",
-        "indicativo perfecto activo, 3.ª singular"
+        "indicativo perfecto activo, 3.ª singular; expresa decisión pasada del abuelo"
       ]
     ]
   },
@@ -271,12 +271,12 @@ const prologueVerses = [
       [
         "clam",
         "clam",
-        "preposición/adverbio; aquí con acusativo: a escondidas de"
+        "preposición (también adverbio); aquí rige el acusativo plural omnis: a escondidas de todos"
       ],
       [
         "omnis",
         "omnis",
-        "adjetivo/pronombre sustantivado; acusativo plural masculino, forma antigua por omnes"
+        "adjetivo sustantivado; acusativo plural masculino, grafía arcaica omnis por omnes; régimen de clam"
       ],
       [
         "in",
@@ -303,12 +303,12 @@ const prologueVerses = [
       [
         "defodit",
         "defodio",
-        "indicativo perfecto activo, 3.ª singular; forma coincidente con presente, aquí pasado narrativo"
+        "indicativo perfecto activo, 3.ª singular en el relato; la grafía defodit coincide con el presente, pero la secuencia narrativa favorece el perfecto"
       ],
       [
         "venerans",
         "veneror",
-        "participio presente deponente; nominativo singular masculino"
+        "participio presente deponente (veneror); nominativo singular masculino, referido al abuelo; sentido activo: venerando / suplicando"
       ],
       [
         "me",
@@ -337,7 +337,7 @@ const prologueVerses = [
       ]
     ]
   },
-  {"n":"9","latin":"is quoniam moritur (ita avido ingenio fuit),","spanish":"Como murió (tan codicioso era su carácter),","words":[["is","is","pronombre demostrativo masculino, nominativo singular; sujeto"],["quoniam","quoniam","conjunción causal: puesto que"],["moritur","morior","verbo deponente, indicativo presente histórico, 3.ª singular"],["ita","ita","adverbio de modo o grado: así, tan"],["avido","avidus","adjetivo neutro, ablativo singular; concuerda con ingenio"],["ingenio","ingenium","sustantivo neutro, ablativo singular de cualidad"],["fuit","sum","indicativo perfecto, 3.ª singular"]]},
+  {"n":"9","latin":"is quoniam moritur (ita avido ingenio fuit),","spanish":"Como murió (tan codicioso era su carácter),","words":[["is","is","pronombre demostrativo masculino, nominativo singular; sujeto"],["quoniam","quoniam","conjunción causal: puesto que"],["moritur","morior","verbo deponente (morior), indicativo presente, 3.ª singular; presente histórico en narración pasada, no perfecto"],["ita","ita","adverbio de modo o grado: así, tan"],["avido","avidus","adjetivo neutro, ablativo singular; concuerda con ingenio en ablativo de cualidad (avido ingenio)"],["ingenio","ingenium","sustantivo neutro, ablativo singular de cualidad, con avido; caracteriza la avaricia del abuelo"],["fuit","sum","indicativo perfecto, 3.ª singular"]]},
   {"n":"10","latin":"numquam indicare id filio voluit suo,","spanish":"nunca quiso revelar aquello a su propio hijo;","words":[["numquam","numquam","adverbio de negación temporal"],["indicare","indico","infinitivo presente activo, complemento de voluit"],["id","is","pronombre demostrativo neutro, acusativo singular"],["filio","filius","sustantivo masculino, dativo singular"],["voluit","volo","indicativo perfecto activo, 3.ª singular"],["suo","suus","adjetivo posesivo masculino, dativo singular; concuerda con filio"]]},
   {"n":"11","latin":"inopemque optavit potius eum relinquere,","spanish":"prefirió dejarlo sin recursos","words":[["inopemque","inops + -que","inopem: adjetivo acusativo singular masculino, predicativo de eum; -que: conjunción enclítica"],["optavit","opto","indicativo perfecto activo, 3.ª singular"],["potius","potius","adverbio comparativo: antes, más bien"],["eum","is","pronombre masculino, acusativo singular; sujeto del infinitivo relinquere"],["relinquere","relinquo","infinitivo presente activo, complemento de optavit"]]},
   {"n":"12","latin":"quam eum thensaurum commonstraret filio;","spanish":"antes que mostrarle aquel tesoro a su hijo;","words":[["quam","quam","conjunción comparativa con potius"],["eum","is","demostrativo masculino, acusativo singular; modifica thensaurum"],["thensaurum","thensaurus","sustantivo masculino, acusativo singular; grafía antigua"],["commonstraret","commonstro","subjuntivo imperfecto activo, 3.ª singular; alternativa rechazada tras potius quam"],["filio","filius","sustantivo masculino, dativo singular"]]},

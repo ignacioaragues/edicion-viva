@@ -166,15 +166,15 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada morfológica independiente: prólogo 1–5; siguiente revisión 6–10. Edición principal sigue en II.2 v. 195; siguiente verso pendiente 196.",
+  "editorial_note": "Segunda pasada morfológica: prólogo 1–10; siguiente 11–15. Edición principal II.2 hasta v. 195; próximo 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 5,
-    "next_verse": 6,
+    "reviewed_through_verse": 10,
+    "next_verse": 11,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–5: segunda revisión contextual de 35 tokens (formas, lemas, flexión, enclítica -que y correspondencia); precisados qui, paucis y avoque. Cotejo con Leo 1895 en LateinLex y testimonio The Latin Library. Los vv. 6–39 conservan únicamente comprobación estructural.",
+    "note": "Prólogo 1–10 revisado morfológicamente; vv. 6–10: 33 tokens, incluidas grafías arcaicas mi, avos, thensaurum, omnis, formas deponentes venerans/moritur y ambigüedad gráfica defodit. Cotejo Leo (1895) y Latin Library; revisión bibliográfica profunda pendiente.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -195,6 +195,18 @@
         "sources": [
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ]
+      },
+      {
+        "section": "prologue",
+        "from": 6,
+        "to": 10,
+        "status": "morphology_revised",
+        "tokens": 33,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://catalog.perseus.tufts.edu/catalog/urn:cts:latinLit:phi0119.phi003.perseus-lat1"
         ]
       }
     ]
