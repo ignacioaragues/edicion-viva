@@ -146,12 +146,20 @@
       "verses": 6,
       "status": "edited_not_revised",
       "source": "F. Leo (1895), Perseus; cotejo The Latin Library (consultado 2026-11-08)"
+    },
+    {
+      "section": "II.2",
+      "from": 191,
+      "to": 195,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo The Latin Library, 2026-11-08"
     }
   ],
   "pending": [
     {
       "section": "II.2",
-      "from": 191
+      "from": 196
     },
     {
       "section": "later scenes",
@@ -159,6 +167,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "II.2 desde el verso 191",
-  "editorial_note": "II.2 vv. 185–190: traducción propia, análisis individual y notas documentadas; segunda revisión y pruebas visuales pendientes."
+  "next": "II.2 desde el verso 196",
+  "editorial_note": "II.2 vv. 191–195: traducción propia, análisis por token y notas con referencias; segunda pasada y pruebas visuales pendientes."
 }
