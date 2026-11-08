@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada morfológica: prólogo 1–20; siguiente 21–25. Edición principal II.2 hasta v. 195; próximo 196.",
+  "editorial_note": "Segunda pasada morfológica: prólogo 1–25; siguiente 26–30. Edición principal II.2 hasta v. 195; próximo 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 20,
-    "next_verse": 21,
+    "reviewed_through_verse": 25,
+    "next_verse": 26,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–20 revisado; vv. 16–20: ecqui como adverbio interrogativo indefinido, curare/impertire como infinitivos históricos, factum est pasivo impersonal. Cotejo con texto latino de The Latin Library (consultado 2026-11-09). Revisión de aparatos críticos pendiente.",
+    "note": "Prólogo 1–25 auditado; vv. 21–25: moratum es adjetivo de costumbres (no participio de moror), aliqui adverbio indefinido, huic dativo posesivo, honoris gratia giro causal. Paralelo ritual en Catón Agr. 143.2, sin presuponer dependencia.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -228,6 +228,18 @@
         "tokens": 32,
         "sources": [
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ]
+      },
+      {
+        "section": "prologue",
+        "from": 21,
+        "to": 25,
+        "status": "morphology_revised",
+        "tokens": 41,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://laudatortemporisacti.blogspot.com/2023/03/piety.html"
         ]
       }
     ]
