@@ -405,3 +405,8 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 
 /* Glosa contextual breve bajo el análisis morfológico, como en Marcos. */
 .word-panel .word-gloss{margin:14px 0 0;font:13px/1.6 var(--serif);color:var(--ink-mid);text-align:left}
+
+/* Enlace discreto a tablas externas de conjugación o declinación. */
+.word-panel .word-paradigm{display:inline-flex;align-items:center;margin:7px 0 13px;font:600 11px/1.5 var(--sans);letter-spacing:.01em;color:var(--green);text-decoration:none;border-bottom:1px solid transparent}
+.word-panel .word-paradigm:hover,.word-panel .word-paradigm:focus-visible{color:var(--accent);border-bottom-color:currentColor}
+.word-panel .word-paradigm[hidden]{display:none}
