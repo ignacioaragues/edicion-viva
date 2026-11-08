@@ -20,12 +20,19 @@
       "to": 20,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 1,
+      "from": 21,
+      "to": 28,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
   "pending": [
     {
       "chapter": 1,
-      "from": 21,
+      "from": 29,
       "to": 45
     },
     {
@@ -38,7 +45,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 1,21 y siguientes",
+  "next": "Marcos 1,29 y siguientes",
   "last_edit": "2026-11-08",
-  "notes": "1,1–20 traducidos y anotados; revisión de conjunto pendiente."
+  "notes": "1,1–28 traducidos y anotados; revisión integral y cobertura morfológica exhaustiva pendientes."
 }
