@@ -38,12 +38,24 @@
         "https://biblia.com/bible/sblgnt/mark/1/29-34",
         "https://biblia.com/bible/vulgataclem/mark/1/29-45"
       ]
+    },
+    {
+      "chapter": 1,
+      "from": 35,
+      "to": 39,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/1/35-39",
+        "https://szentiras.hu/biblia/vuc/mrk/1",
+        "https://www.studylight.org/commentaries/eng/egt/mark-1.html"
+      ]
     }
   ],
   "pending": [
     {
       "chapter": 1,
-      "from": 35,
+      "from": 40,
       "to": 45
     },
     {
@@ -56,29 +68,42 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 1,35 y siguientes",
+  "next": "Marcos 1,40 y siguientes",
   "last_edit": "2026-11-08",
-  "notes": "1,1–34 traducidos y anotados; notas de 1,29–34 con referencias textuales externas; revisión académica integral y revisión filológica detallada de las fichas pendiente (cobertura íntegra de los versos publicados ya incorporada).",
+  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente.",
   "review_tracking": {
-    "next_review": "Marcos 1,1–8",
-    "reviewed": [],
+    "next_review": "Marcos 1,3–8",
+    "reviewed": [
+      {
+        "chapter": 1,
+        "from": 1,
+        "to": 2,
+        "kind": "bibliographic_textual_second_pass",
+        "status": "reviewed_references_added",
+        "references": [
+          "Wasserman 2011 DOI:10.1093/jts/flr013",
+          "Lundahl 2024 DOI:10.1017/S0017816023000378",
+          "Wallace 2004 Bible.org"
+        ]
+      }
+    ],
     "policy": "Consultar fuentes académicas y comentarios externos en rondas sucesivas; distinguir revisión bibliográfica de simple cotejo textual."
   },
   "morphology_coverage": {
     "status": "complete_for_published_verses",
     "chapter": 1,
     "from": 1,
-    "through": 34,
-    "token_count": 540,
-    "distinct_surface_forms": 293,
-    "distinct_lemmas": 193,
+    "through": 39,
+    "token_count": 603,
+    "distinct_surface_forms": 318,
+    "distinct_lemmas": 208,
     "source": "Tauber, J. K., ed. (2017), MorphGNT: SBLGNT Edition v6.12; https://github.com/morphgnt/sblgnt; CC BY-SA 3.0; DOI:10.5281/zenodo.376200",
     "assets": [
       "marcos.js",
       "morphology.js",
       "index.html"
     ],
-    "verified": "540/540 published Greek tokens aligned positionally and carrying lemma, POS, morphology code and Spanish lemma gloss; JavaScript syntax passed.",
+    "verified": "603/603 published Greek tokens aligned with lemma, POS, parse and Spanish lemma gloss; JS syntax validated.",
     "editorial_review": "pending_contextual_verification",
     "next": "Extend morphology.js with complete per-token annotations before publishing each later Greek fragment; revise earlier lexical details in subsequent editorial rounds."
   }
