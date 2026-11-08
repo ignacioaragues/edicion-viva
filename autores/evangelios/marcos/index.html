@@ -23,6 +23,7 @@
       <div class="topbar-center">Evangelio según Marcos</div>
       <div class="topbar-actions">
         <a class="source-button" href="../../../mis-lecturas.html">Mis lecturas</a>
+        <a class="source-button" href="../../../cuenta.html" data-account-link>Iniciar sesión</a>
         <a class="top-button library-link" href="../../../index.html" aria-label="Volver a la biblioteca">↗</a>
         <button class="top-button mobile-contents-button" type="button" data-drawer="position" aria-expanded="false">☰ <span>Posición</span></button>
       </div>
@@ -144,7 +145,7 @@
   <aside class="side-drawer" id="side-drawer" aria-label="Diccionario personal" hidden>
     <div class="drawer-heading"><h2>Mi diccionario · Griego</h2><button type="button" id="close-drawer" aria-label="Cerrar diccionario">×</button></div>
     <div class="drawer-content" id="drawer-dictionary">
-      <p class="storage-note">Las palabras se guardan en este navegador. Se pueden exportar e importar para utilizarlas en otro dispositivo.</p>
+      <p class="storage-note">Las palabras se guardan en este navegador. Con tu cuenta, también se sincronizan entre dispositivos.</p>
       <div class="dictionary-tools"><button type="button" id="start-review">Repasar</button><button type="button" id="export-dictionary">Exportar</button><button type="button" id="import-trigger">Importar</button><input type="file" id="import-dictionary" accept=".json,application/json" hidden></div>
       <p class="dictionary-feedback" id="dictionary-feedback" role="status"></p>
       <div class="dictionary-list" id="dictionary-list"></div>
@@ -155,5 +156,6 @@
   <script src="./marcos.js?v=20261108-paradigms" defer></script>
   <script src="../../../reading-layout.js" defer></script>
   <script src="../../../reading-tracker.js" defer></script>
+  <script type="module" src="../../../account-sync.js?v=1"></script>
 </body>
 </html>
