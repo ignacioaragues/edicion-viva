@@ -730,6 +730,12 @@ document.addEventListener('keydown', event => {
 });
 renderDictionary();
 syncPanelButtons();
+window.addEventListener('edicion-viva:dictionary-updated', event => {
+  if (event.detail?.language !== 'la') return;
+  savedWords = readDictionary();
+  renderDictionary();
+  updateSaveButton();
+});
 window.addEventListener('resize', syncPanelButtons);
 
 /* Navegación editorial: no se mezclan tramos discontinuos. */
