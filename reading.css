@@ -29,11 +29,15 @@ h1 { font:normal clamp(50px,7vw,84px)/1.1 var(--serif); letter-spacing:-.055em; 
 .section-heading>div { display:flex; align-items:baseline; gap:20px; }
 .section-heading h2 { font:normal 32px/1.2 var(--serif); letter-spacing:-.04em; margin:0; }
 .section-caption { color:var(--faint); font-weight:normal; text-align:right; }
+.work-legend { display:flex; flex-wrap:wrap; gap:10px 24px; min-height:25px; margin:0 0 18px; }
+.legend-entry { display:inline-flex; align-items:center; gap:8px; color:var(--muted); font:11px/1.5 var(--sans); }
+.color-dot { display:inline-block; width:9px; height:9px; border-radius:2px; flex:none; }
 .daily-chart { display:grid; grid-template-columns:repeat(14,minmax(0,1fr)); align-items:end; gap:11px; min-height:186px; padding:15px 0 0; }
 .day { min-width:0; display:flex; flex-direction:column; align-items:center; gap:8px; }
 .day-bar-wrap { height:126px; width:100%; max-width:35px; background:#ebece4; display:flex; align-items:end; }
-.day-bar { width:100%; min-height:0; background:#8b9f8e; }
-.day.today .day-bar { background:var(--accent); }
+.day-bar { width:100%; min-height:0; display:flex; flex-direction:column-reverse; }
+.day-segment { flex:none; width:100%; }
+.day.today .day-bar-wrap { outline:1px solid var(--accent); outline-offset:2px; }
 .day-name { color:var(--muted); font:10px var(--sans); text-transform:uppercase; }
 .day-date { color:var(--faint); font:10px var(--sans); }
 .day-value { color:var(--sage); font:10px var(--sans); font-variant-numeric:tabular-nums; white-space:nowrap; }
@@ -41,10 +45,11 @@ h1 { font:normal clamp(50px,7vw,84px)/1.1 var(--serif); letter-spacing:-.055em; 
 .week { display:grid; grid-template-columns:105px 1fr 90px; align-items:center; gap:17px; }
 .week-label { font:12px var(--serif); color:var(--muted); }
 .week-track { height:9px; background:#ebece4; }
-.week-fill { height:100%; background:#8b9f8e; }
-.week:last-child .week-fill { background:var(--accent); }
+.week-fill { height:100%; display:flex; }
+.week-segment { display:block; height:100%; }
 .week-value { text-align:right; font:12px var(--serif); font-variant-numeric:tabular-nums; }
 .work-row { display:flex; justify-content:space-between; align-items:baseline; gap:20px; border-bottom:1px solid var(--rule); padding:15px 0; }
+.work-name { display:inline-flex; align-items:baseline; gap:12px; }
 .work-row a { font:20px/1.35 var(--serif); text-decoration:none; }
 .work-row a:hover { color:var(--accent); }
 .work-row strong { font:15px var(--serif); white-space:nowrap; }

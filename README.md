@@ -22,6 +22,12 @@ El catálogo se actualiza editando las entradas de `collection.js`. Las obras co
 
 Sitio HTML/CSS/JS estático, sin instalación ni compilación. Se puede servir directamente desde la raíz. Para alojar esta portada en GitHub Pages, configurar **Settings → Pages → Deploy from a branch → main / (root)**. La publicación de esta portada es independiente de la de Shakespeare.
 
+## Registro de lectura compartido
+
+`reading-tracker.js` gestiona las sesiones de lectura de todas las obras con la clave `edicion-viva:reading:v1` en `localStorage`. Las páginas de Plauto y Shakespeare comparten el origen `https://ignacioaragues.github.io`, aunque se publiquen desde repositorios diferentes. El lector de Shakespeare carga el contador de este repositorio por `../edicion-viva/reading-tracker.js` y solo registra minutos mientras está abierto el lector de *Coriolanus*, no su portada.
+
+`mis-lecturas.html` muestra el resumen común y barras diarias/semanales apiladas, con un color estable por obra. Los datos pertenecen a cada navegador/dispositivo; se pueden exportar e importar en JSON, pero no se sincronizan automáticamente. Los nuevos lectores deben declarar `data-reading-id` y `data-reading-title` en `<body>` y cargar `reading-tracker.js` sin modificar el formato del registro.
+
 ## Criterios editoriales
 
 - Texto original y traducción de apoyo en español general.

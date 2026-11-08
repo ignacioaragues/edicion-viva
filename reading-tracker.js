@@ -94,6 +94,7 @@
   const id = document.body.dataset.readingId;
   if (!id) return;
   const title = document.body.dataset.readingTitle || document.title;
+  const activeSelector = document.body.dataset.readingActiveSelector;
   const device = deviceId();
   const sessionStart = Date.now();
   let lastTick = sessionStart;
@@ -109,16 +110,26 @@
   window.addEventListener('blur', () => { focused = false; });
 
   function currentPosition() {
-    const rows = document.querySelectorAll('.verse');
+    const rows = document.querySelectorAll('.verse, .speech-row');
     let nearest = '';
     for (const row of rows) {
       const box = row.getBoundingClientRect();
       if (box.bottom < 80) continue;
-      const number = row.querySelector('.number')?.textContent?.trim();
-      if (number) nearest = `v. ${number}`;
+      const isSpeech = row.classList.contains('speech-row');
+      const number = row.querySelector(isSpeech ? '.line-gutter span' : '.number')?.textContent?.trim();
+      if (number) {
+        const actAndScene = row.dataset.sceneId?.match(/-(\d+)-(\d+)$/);
+        nearest = isSpeech ? `${actAndScene ? `${actAndScene[1]}.${actAndScene[2]} · ` : ''}líneas ${number}` : `v. ${number}`;
+      }
       if (box.top > window.innerHeight * 0.6) break;
     }
     return nearest || observedPosition;
+  }
+
+  function isReading() {
+    if (!activeSelector) return true;
+    const reader = document.querySelector(activeSelector);
+    return !!reader && !reader.hidden && reader.getClientRects().length > 0;
   }
 
   function display(data) {
@@ -139,7 +150,7 @@
     const now = Date.now();
     const elapsed = Math.min(INTERVAL_MS / 1000, Math.max(0, (now - lastTick) / 1000));
     lastTick = now;
-    if (document.hidden || !focused || now - lastActivity > IDLE_MS) return;
+    if (document.hidden || !focused || !isReading() || now - lastActivity > IDLE_MS) return;
     const data = read();
     const work = data.works[id] || { title, days: {} };
     if (!work.days || typeof work.days !== 'object') work.days = {};
@@ -160,6 +171,8 @@
     lastTick = Date.now();
     if (!document.hidden) activity();
   });
+  window.addEventListener('edicion-viva:reading-exit', tick);
+  window.addEventListener('edicion-viva:reading-enter', () => { lastTick = Date.now(); activity(); });
   display(read());
   const timer = setInterval(tick, INTERVAL_MS);
   window.addEventListener('pagehide', () => { tick(); clearInterval(timer); });
