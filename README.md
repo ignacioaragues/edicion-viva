@@ -41,6 +41,14 @@ Las afirmaciones documentales deben ser verificables. Siempre que corresponda, c
 
 Cuando una fuente no pueda consultarse o verificarse, indicarlo en el checkpoint y posponer esa parte de la revisión, sin presentarla como hecha. Esta norma rige también para la edición de Shakespeare, aunque su lector siga administrándose desde un repositorio independiente.
 
+## Glosas españolas en fichas léxicas
+
+**Estándar visual para todas las ediciones clásicas de Edición Viva (8 nov. 2026):** junto al lema y el análisis morfológico o lingüístico, el popup de cada palabra o expresión anotada mostrará una glosa o traducción breve en español debajo, alineada a la izquierda. Esta ayuda es distinta de la traducción literaria del pasaje y debe respetar el sentido contextual; cuando haya varios sentidos posibles, se pueden explicar en una nota. Las fichas permanecen cerca de la palabra seleccionada y mantienen el estilo sobrio, sin subrayado permanente (solo al pasar el cursor o enfocar con teclado).
+
+En las ediciones con análisis exhaustivo palabra por palabra, todas las palabras publicadas deben tener ficha y glosa; el control de integridad debe impedir la publicación de fragmentos nuevos con entradas ausentes. En otras ediciones, las fichas léxicas selectivas también llevarán glosa; no se impone convertir en popups todas las palabras de obras sin análisis exhaustivo.
+
+*Aulularia*: `autores/plauto/aulularia/glosses.js` contiene glosas orientativas por lema; el cuarto elemento opcional de cada entrada `words` puede suministrar una glosa contextual distinta, `[forma, lema, morfología, glosa contextual]`. Revisar progresivamente la pertinencia de las glosas durante las rondas filológicas.
+
 ## Criterios editoriales
 
 - Texto original y traducción de apoyo en español general.
