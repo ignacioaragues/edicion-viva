@@ -114,12 +114,20 @@
       "verses": 8,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library"
+    },
+    {
+      "section": "II.1",
+      "from": 169,
+      "to": 175,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library"
     }
   ],
   "pending": [
     {
       "section": "II.1",
-      "from": 169
+      "from": 176
     },
     {
       "section": "later scenes",
@@ -127,6 +135,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "II.1 desde el verso 169",
-  "editorial_note": "II.1 vv. 161–168: ocho versos; 64 fichas léxicas; Postumus y vehicla. Revisión integral pendiente."
+  "next": "II.1 desde el verso 176",
+  "editorial_note": "II.1 vv. 169–175: siete versos, 63 fichas individuales; nostin y dictura es. Revisión integral y navegador pendientes."
 }
