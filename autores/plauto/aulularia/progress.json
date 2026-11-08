@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada morfológica: prólogo 1–15; siguiente 16–20. Edición principal II.2 hasta v. 195; próximo 196.",
+  "editorial_note": "Segunda pasada morfológica: prólogo 1–20; siguiente 21–25. Edición principal II.2 hasta v. 195; próximo 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 15,
-    "next_verse": 16,
+    "reviewed_through_verse": 20,
+    "next_verse": 21,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–15 revisado morfológicamente. Vv. 11–15: corregido eum como objeto de relinquere (no sujeto); precisado quo...viveret como relativo final. Cotejo textual externo realizado; revisión bibliográfica exhaustiva pendiente.",
+    "note": "Prólogo 1–20 revisado; vv. 16–20: ecqui como adverbio interrogativo indefinido, curare/impertire como infinitivos históricos, factum est pasivo impersonal. Cotejo con texto latino de The Latin Library (consultado 2026-11-09). Revisión de aparatos críticos pendiente.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -218,6 +218,16 @@
         "sources": [
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+        ]
+      },
+      {
+        "section": "prologue",
+        "from": 16,
+        "to": 20,
+        "status": "morphology_revised",
+        "tokens": 32,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ]
       }
     ]
