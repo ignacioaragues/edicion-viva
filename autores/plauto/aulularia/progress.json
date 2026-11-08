@@ -50,12 +50,20 @@
       "verses": 5,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo Latin Library"
+    },
+    {
+      "section": "I.2",
+      "from": 116,
+      "to": 119,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus Digital Library, Aulularia I.2"
     }
   ],
   "pending": [
     {
-      "section": "I.2",
-      "from": 116
+      "section": "II.1",
+      "from": 120
     },
     {
       "section": "later scenes",
@@ -63,6 +71,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "I.2 desde el verso 116",
-  "editorial_note": "I.2 vv. 111–115: cinco versos, 32 fichas individuales, dos notas; revisión integral pendiente."
+  "next": "II.1 desde el verso 120",
+  "editorial_note": "I.2 vv. 116–119: cuatro versos y dos notas; revisión integral pendiente."
 }
