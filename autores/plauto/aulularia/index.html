@@ -22,6 +22,7 @@
     <div class="topbar-center">Plauto · Aulularia</div>
     <div class="topbar-actions">
       <a class="source-button" href="../../../mis-lecturas.html">Mis lecturas</a>
+      <a class="source-button" href="../../../cuenta.html" data-account-link>Iniciar sesión</a>
       <a class="top-button library-link" href="../../../index.html" title="Biblioteca" aria-label="Volver a la biblioteca">↗</a>
       <button type="button" class="top-button mobile-contents-button" data-drawer="position" aria-expanded="false" aria-label="Mostrar posición y navegación">☰ <span>Posición</span></button>
     </div>
@@ -127,7 +128,7 @@
   <div class="drawer-heading"><h2 id="drawer-title">Mi diccionario</h2><button type="button" id="close-drawer" aria-label="Cerrar diccionario">×</button></div>
   <div id="drawer-dictionary" class="drawer-content">
     <p class="drawer-kicker">MIS PALABRAS LATINAS</p>
-    <p class="storage-note">Se guardan en este navegador. No se sincronizan todavía con otros dispositivos.</p>
+    <p class="storage-note">Se guardan en este navegador. Si iniciás sesión, las palabras se sincronizan entre dispositivos.</p>
     <div class="dictionary-tools"><button type="button" id="start-review">Repasar</button><button type="button" id="export-dictionary">Exportar</button><button type="button" id="import-trigger">Importar</button><input type="file" accept="application/json,.json" id="import-dictionary" aria-label="Importar archivo del diccionario" hidden></div>
     <p class="dictionary-feedback" id="dictionary-feedback" role="status"></p>
     <div id="dictionary-list" class="dictionary-list"></div>
@@ -140,5 +141,6 @@
 <script src="./aulularia.js?v=20261108-paradigms" defer></script>
 <script src="../../../reading-layout.js" defer></script>
 <script src="../../../reading-tracker.js" defer></script>
+<script type="module" src="../../../account-sync.js?v=1"></script>
 </body>
 </html>
