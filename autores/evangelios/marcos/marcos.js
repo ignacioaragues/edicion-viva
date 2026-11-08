@@ -196,6 +196,60 @@
     'διηκόνουν': ['διακονέω', 'imperfecto indicativo activo, 3.ª persona plural', 'servían, atendían'],
   };
 
+
+  // Cobertura de todos los términos griegos (MorphGNT 6.12, CC BY-SA 3.0).
+  // Las fichas son posicionales, para distinguir formas iguales con distintos análisis.
+  const externalMorphology = window.edicionVivaMarcosMorphology;
+  if (!externalMorphology || !externalMorphology.verses || !externalMorphology.glosses) {
+    throw new Error('Falta cargar morphology.js antes de marcos.js');
+  }
+  const morphologyByVerse = externalMorphology.verses;
+
+  function greekGrammar(pos, code) {
+    const category = {
+      'A-': 'adjetivo', 'C-': 'conjunción', 'D-': 'adverbio',
+      'I-': 'interjección', 'N-': 'sustantivo', 'P-': 'preposición',
+      'RA': 'artículo determinado', 'RD': 'pronombre demostrativo',
+      'RI': 'pronombre interrogativo o indefinido', 'RP': 'pronombre personal',
+      'RR': 'pronombre relativo', 'V-': 'verbo', 'X-': 'partícula'
+    }[pos] || 'forma gramatical';
+    const cases = {N:'nominativo',G:'genitivo',D:'dativo',A:'acusativo'};
+    const numbers = {S:'singular',P:'plural'};
+    const genders = {M:'masculino',F:'femenino',N:'neutro'};
+    const degrees = {C:'comparativo',S:'superlativo'};
+    const voices = {A:'activa',M:'media',P:'pasiva'};
+    const tenses = {P:'presente',I:'imperfecto',F:'futuro',A:'aoristo',X:'perfecto',Y:'pluscuamperfecto'};
+    const moods = {I:'indicativo',D:'imperativo',S:'subjuntivo',O:'optativo',N:'infinitivo',P:'participio'};
+    const persons = {'1':'1.ª persona','2':'2.ª persona','3':'3.ª persona'};
+    const parts = [];
+    if (pos === 'V-') {
+      if (code[1] !== '-') parts.push(tenses[code[1]] || 'tiempo por determinar');
+      if (code[3] !== '-') parts.push(moods[code[3]] || 'modo por determinar');
+      if (code[2] !== '-') parts.push('voz ' + (voices[code[2]] || code[2]));
+      if (code[0] !== '-') parts.push(persons[code[0]] || 'persona por determinar');
+    }
+    if (code[4] !== '-') parts.push(cases[code[4]] || 'caso por determinar');
+    if (code[5] !== '-') parts.push(numbers[code[5]] || 'número por determinar');
+    if (code[6] !== '-') parts.push(genders[code[6]] || 'género por determinar');
+    if (code[7] !== '-') parts.push('grado ' + (degrees[code[7]] || code[7]));
+    return category + (parts.length ? '; ' + parts.join(', ') : '');
+  }
+
+  function analyzeWord(form, record) {
+    const [, lemma, pos, parse] = record;
+    const contextual = Object.hasOwn(glossary, form) ? glossary[form][2] : null;
+    return [lemma, greekGrammar(pos, parse), contextual || externalMorphology.glosses[lemma]];
+  }
+
+  // Completar el índice de formas para preservar los diccionarios locales anteriores.
+  for (const records of Object.values(morphologyByVerse)) {
+    for (const record of records) {
+      if (!Object.hasOwn(glossary, record[0])) {
+        glossary[record[0]] = analyzeWord(record[0], record);
+      }
+    }
+  }
+
   const $ = (selector) => document.querySelector(selector);
   const dictionaryKey = 'edicion-viva:dictionary:gr:v1';
   const vulgateKey = 'edicion-viva:marcos:vulgate:v1';
@@ -206,6 +260,7 @@
   const dictionaryPanel = $('#side-drawer');
   const app = $('#app-shell');
   let selectedWord = null;
+  let selectedAnalysis = null;
   let reviewItems = [];
   let reviewIndex = 0;
 
@@ -241,10 +296,11 @@
     panel.style.left = `${left}px`;
     panel.style.top = `${top}px`;
   }
-  function showWord(form, anchor) {
+  function showWord(form, anchor, record) {
     closePanels();
     selectedWord = form;
-    const [lemma, morph, gloss] = glossary[form];
+    selectedAnalysis = analyzeWord(form, record);
+    const [lemma, morph, gloss] = selectedAnalysis;
     $('#word-form').textContent = form;
     $('#word-lemma').textContent = lemma;
     $('#word-morphology').textContent = morph;
@@ -261,19 +317,29 @@
     placePanel(notePanel, anchor);
   }
 
-  function greekContent(container, text) {
-    // Se crean botones solamente para las formas cuyo análisis se ha verificado.
+  function greekContent(container, text, verse) {
+    // Ninguna palabra puede quedar sin ficha: validación en tiempo de renderizado.
+    const records = morphologyByVerse[verse];
+    if (!records) throw new Error('Faltan fichas para Marcos 1,' + verse);
     const tokens = text.split(/(\p{L}[\p{L}\p{M}\u1fbdʼ’]*)/u);
+    let i = 0;
     tokens.forEach(token => {
-      if (Object.hasOwn(glossary, token)) {
-        const button = makeElement('button', 'token', token);
-        button.type = 'button';
-        button.title = `Ficha: ${glossary[token][0]}`;
-        button.setAttribute('aria-label', `${token}. Consultar ficha léxica`);
-        button.addEventListener('click', () => showWord(token, button));
-        container.append(button);
-      } else container.append(document.createTextNode(token));
+      if (!/^\p{L}/u.test(token)) {
+        container.append(document.createTextNode(token));
+        return;
+      }
+      const record = records[i++];
+      if (!record || record[0] !== token) {
+        throw new Error('Análisis ausente o desajustado en Marcos 1,' + verse + ': ' + token);
+      }
+      const button = makeElement('button', 'token', token);
+      button.type = 'button';
+      button.title = 'Ficha: ' + record[1];
+      button.setAttribute('aria-label', token + '. Consultar ficha morfológica');
+      button.addEventListener('click', () => showWord(token, button, record));
+      container.append(button);
     });
+    if (i !== records.length) throw new Error('Sobran fichas para Marcos 1,' + verse);
   }
 
   const sections = {
@@ -296,7 +362,7 @@
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr);
+    greekContent(original, p.gr, p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
@@ -353,7 +419,7 @@
   }
   $('#save-word').addEventListener('click', () => {
     if (!selectedWord) return;
-    dictionary[selectedWord] = glossary[selectedWord];
+    dictionary[selectedWord] = selectedAnalysis;
     persist();
     $('#save-word').setAttribute('aria-pressed', 'true');
     $('#save-word').textContent = '✓ Guardada en mi diccionario';
