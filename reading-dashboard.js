@@ -194,5 +194,6 @@
   });
 
   window.addEventListener('storage', render);
+  window.addEventListener('edicion-viva:reading-updated', render);
   render();
 })();
