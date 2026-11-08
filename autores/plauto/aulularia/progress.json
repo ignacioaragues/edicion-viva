@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–35; siguiente 36–39. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39; siguiente I.1 v. 40. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 35,
-    "next_verse": 36,
+    "reviewed_through_verse": 39,
+    "next_verse": 40,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–35 auditado. Vv. 31–35: faciam ut con subjuntivo, de proxumo (neutro sustantivado), quo final con comparativo, antecedente de qui, avonculus como tío materno.",
+    "note": "Prólogo 1–39 auditado. Vv. 36–39: vigiliis ablativo temporal; solet semideponente; subreptum siet perfecto subjuntivo pasivo perifrástico; la agresión sexual de v. 36 se mantiene explícita.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -263,6 +263,17 @@
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
           "https://classics.andrewgadsden.com/library/plautus/aulularia/0",
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ]
+      },
+      {
+        "section": "prologue",
+        "from": 36,
+        "to": 39,
+        "status": "morphology_revised",
+        "tokens": 26,
+        "sources": [
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/line:prologue.pr/",
+          "https://classics.andrewgadsden.com/library/plautus/aulularia/0"
         ]
       }
     ]
