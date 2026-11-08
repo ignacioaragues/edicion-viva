@@ -14,7 +14,7 @@
   <a class="skip" href="#resumen">Ir al registro</a>
   <header class="masthead">
     <a class="brand" href="./index.html" aria-label="Volver a Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
-    <a class="return" href="./index.html">Biblioteca <span aria-hidden="true">↗</span></a>
+    <nav aria-label="Cuenta y biblioteca"><a class="return" href="./cuenta.html" data-account-link>Iniciar sesión</a> · <a class="return" href="./index.html">Biblioteca ↗</a></nav>
   </header>
   <main>
     <div class="intro">
@@ -47,7 +47,7 @@
 
     <footer class="foot">
       <p>El contador se detiene al salir de la pestaña o después de 90 segundos sin actividad. Este registro es una estimación y comienza a contar desde que se activa esta función.</p>
-      <p>Los datos se guardan en este navegador. Para trasladarlos entre la computadora y el iPad, podés exportarlos e importarlos manualmente; todavía no se sincronizan solos.</p>
+      <p>Sin iniciar sesión, el registro se guarda en este navegador. Si entrás en tu cuenta, se sincroniza automáticamente con los otros dispositivos conectados. También podés exportar e importar un registro manualmente.</p>
       <div class="data-actions">
         <button type="button" id="export-reading">Exportar registro</button>
         <button type="button" id="import-reading">Importar registro</button>
@@ -56,5 +56,6 @@
       <p class="feedback" id="reading-feedback" role="status"></p>
     </footer>
   </main>
+  <script type="module" src="./account-sync.js?v=1"></script>
 </body>
 </html>
