@@ -451,6 +451,12 @@
     $('#save-word').textContent = '✓ Guardada en mi diccionario';
   });
   updateDictionary();
+  window.addEventListener('edicion-viva:dictionary-updated', event => {
+    if (event.detail?.language === 'gr') {
+      dictionary = readDictionary();
+      updateDictionary();
+    }
+  });
 
   function showDictionary() {
     closePanels();
