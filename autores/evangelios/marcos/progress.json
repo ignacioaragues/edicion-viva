@@ -70,9 +70,9 @@
   ],
   "next": "Marcos 1,40 y siguientes",
   "last_edit": "2026-11-09",
-  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas.",
+  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas.",
   "review_tracking": {
-    "next_review": "Marcos 1,21–28",
+    "next_review": "Marcos 1,29–34",
     "reviewed": [
       {
         "chapter": 1,
@@ -145,6 +145,19 @@
           "Holmes (ed.), SBLGNT (2010), Mark 1:14–20, https://biblia.com/bible/sblgnt/mark/1/14-20",
           "A. B. Bruce, Expositor's Greek Testament, Mark 1:20",
           "Cambridge Greek Testament for Schools and Colleges, Mark 1:20"
+        ]
+      },
+      {
+        "chapter": 1,
+        "from": 21,
+        "to": 28,
+        "kind": "bibliographic_textual_second_pass",
+        "status": "reviewed_references_added",
+        "references": [
+          "Joshua Starr, Harvard Theological Review 23/4 (1930)",
+          "Exousia and Conflict in the Gospel of Mark, Religions 14/10 (2023), 1318",
+          "David Pessoa de Lira (2018), DOI:10.22351/nepp.v44i1.3269",
+          "A. B. Bruce, Expositor's Greek Testament, Mark 1:21–28"
         ]
       }
     ],
