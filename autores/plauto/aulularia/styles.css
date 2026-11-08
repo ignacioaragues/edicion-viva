@@ -402,3 +402,6 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
   .side-drawer{top:70px;bottom:12px;right:8px;width:calc(100vw - 16px)}
   .endnote{flex-direction:column}
 }
+
+/* Glosa contextual breve bajo el análisis morfológico, como en Marcos. */
+.word-panel .word-gloss{margin:14px 0 0;font:13px/1.6 var(--serif);color:var(--ink-mid);text-align:left}
