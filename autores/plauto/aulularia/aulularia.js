@@ -399,6 +399,21 @@ function closeNote() {
   notePanel.hidden = true;
 }
 
+function setLatinParadigmLink(word) {
+  const link = document.querySelector('#word-paradigm');
+  const morphology = word[2] || '';
+  // Plauto presenta también enclíticos, expresiones arcaicas y formas irregulares.
+  const verb = /\bverbo\b|\bindicativo\b|\bsubjuntivo\b|\bimperativo\b|\binfinitivo\b|\bparticipio\b|\bgerundio\b|\bgerundivo\b|\bsupino\b|\bforma verbal\b/i.test(morphology);
+  const nominal = /sustantivo|adjetivo|pronombre|determinante|artículo|nominativo|genitivo|dativo|acusativo|ablativo|vocativo/i.test(morphology);
+  const type = verb ? 'conjugación' : nominal ? 'declinación' : 'entrada';
+  const lemma = word[1].split(/\s+\+\s+/)[0].split(/\s*[,/]\s*/)[0];
+  link.textContent = type === 'entrada' ? 'Ver entrada en Wiktionary ↗' :
+    'Ver ' + type + ' en Wiktionary ↗';
+  link.href = 'https://en.wiktionary.org/wiki/' + encodeURIComponent(lemma) + '#Latin';
+  link.title = 'Consultar ' + lemma + ' en Wiktionary; las variantes arcaicas de Plauto pueden no figurar en el paradigma general.';
+  link.hidden = false;
+}
+
 function openWord(button, word, reference) {
   closeNote();
   if (selected) selected.setAttribute('aria-pressed','false');
@@ -412,6 +427,7 @@ function openWord(button, word, reference) {
   const gloss = word[3] || aululariaGlosses[word[1]];
   if (!gloss) throw new Error('Falta una traducción breve para el lema ' + word[1]);
   document.querySelector('#word-gloss').textContent = gloss;
+  setLatinParadigmLink(word);
   wordPanel.hidden = false;
   updateSaveButton();
   positionPopover(button, wordPanel);
