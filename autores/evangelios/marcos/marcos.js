@@ -1,4 +1,4 @@
-/* Marcos 1,1–20 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–28 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -23,9 +23,26 @@
     {"n":18,"gr":"καὶ εὐθὺς ἀφέντες τὰ δίκτυα ἠκολούθησαν αὐτῷ.","es":"Y enseguida dejaron las redes y lo siguieron.","la":"Et protinus relictis retibus, secuti sunt eum.","notes":[]},
     {"n":19,"gr":"καὶ προβὰς ὀλίγον εἶδεν Ἰάκωβον τὸν τοῦ Ζεβεδαίου καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ αὐτοὺς ἐν τῷ πλοίῳ καταρτίζοντας τὰ δίκτυα,","es":"Un poco más adelante vio a Santiago, hijo de Zebedeo, y a Juan, su hermano, que estaban también en la barca reparando las redes.","la":"Et progressus inde pusillum, vidit Jacobum Zebedæi, et Joannem fratrem ejus, et ipsos componentes retia in navi:","notes":["redes"]},
     {"n":20,"gr":"καὶ εὐθὺς ἐκάλεσεν αὐτούς. καὶ ἀφέντες τὸν πατέρα αὐτῶν Ζεβεδαῖον ἐν τῷ πλοίῳ μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω αὐτοῦ.","es":"Y enseguida los llamó. Ellos dejaron a su padre Zebedeo en la barca con los trabajadores asalariados y se fueron detrás de él.","la":"et statim vocavit illos. Et relicto patre suo Zebedæo in navi cum mercenariis, secuti sunt eum.","notes":["asalariados"]},
+    {"n":21,"gr":"Καὶ εἰσπορεύονται εἰς Καφαρναούμ. καὶ εὐθὺς τοῖς σάββασιν ἐδίδασκεν εἰς τὴν συναγωγήν.","es":"Llegaron a Cafarnaúm. Y enseguida, en sábado, enseñaba en la sinagoga.","la":"Et ingrediuntur Capharnaum: et statim sabbatis ingressus in synagogam, docebat eos.","notes":["sinagoga","sabado"]},
+    {"n":22,"gr":"καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ, ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων καὶ οὐχ ὡς οἱ γραμματεῖς.","es":"Se quedaban asombrados de su enseñanza, porque les enseñaba como quien tiene autoridad y no como los escribas.","la":"Et stupebant super doctrina ejus: erat enim docens eos quasi potestatem habens, et non sicut scribæ.","notes":["autoridad"]},
+    {"n":23,"gr":"καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ καὶ ἀνέκραξεν","es":"Y enseguida había en su sinagoga un hombre con un espíritu impuro, que gritó:","la":"Et erat in synagoga eorum homo in spiritu immundo: et exclamavit,","notes":["espirituimpuro"]},
+    {"n":24,"gr":"λέγων· Τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ.","es":"«¿Qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a destruirnos? Sé quién eres: el Santo de Dios».","la":"dicens: Quid nobis et tibi, Jesu Nazarene? venisti perdere nos? scio qui sis, Sanctus Dei.","notes":["idioma"]},
+    {"n":25,"gr":"καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ.","es":"Jesús lo reprendió diciendo: «¡Calla y sal de él!».","la":"Et comminatus est ei Jesus, dicens: Obmutesce, et exi de homine.","notes":["silencio"]},
+    {"n":26,"gr":"καὶ σπαράξαν αὐτὸν τὸ πνεῦμα τὸ ἀκάθαρτον καὶ φωνῆσαν φωνῇ μεγάλῃ ἐξῆλθεν ἐξ αὐτοῦ.","es":"El espíritu impuro lo sacudió violentamente y, dando un gran grito, salió de él.","la":"Et discerpens eum spiritus immundus, et exclamans voce magna, exiit ab eo.","notes":["convulsion"]},
+    {"n":27,"gr":"καὶ ἐθαμβήθησαν ἅπαντες, ὥστε συζητεῖν πρὸς ἑαυτοὺς λέγοντας· Τί ἐστιν τοῦτο; διδαχὴ καινή· κατʼ ἐξουσίαν καὶ τοῖς πνεύμασι τοῖς ἀκαθάρτοις ἐπιτάσσει, καὶ ὑπακούουσιν αὐτῷ.","es":"Todos quedaron sobrecogidos, hasta el punto de discutir entre sí: «¿Qué es esto? ¡Una enseñanza nueva! Ordena con autoridad incluso a los espíritus impuros, y estos lo obedecen».","la":"Et mirati sunt omnes, ita ut conquirerent inter se dicentes: Quidnam est hoc? quænam doctrina hæc nova? quia in potestate etiam spiritibus immundis imperat, et obediunt ei.","notes":["nueva"]},
+    {"n":28,"gr":"καὶ ἐξῆλθεν ἡ ἀκοὴ αὐτοῦ εὐθὺς πανταχοῦ εἰς ὅλην τὴν περίχωρον τῆς Γαλιλαίας.","es":"Y enseguida se difundió su fama por toda la región circundante de Galilea.","la":"Et processit rumor ejus statim in omnem regionem Galilææ.","notes":["rumor"]},
   ];
 
   const notes = {
+    sinagoga: ["La sinagoga","συναγωγή designa el lugar de reunión y enseñanza comunitaria. El relato no identifica aquí una construcción arqueológica concreta."],
+    sabado: ["Los sábados","τοῖς σάββασιν es un dativo plural usado para indicar el tiempo; en este contexto se refiere al sábado."],
+    autoridad: ["Autoridad y enseñanza","ἐξουσία indica autoridad o potestad. El narrador contrapone el modo de enseñar de Jesús al de los escribas, sin explicar en qué consistía la práctica de estos."],
+    espirituimpuro: ["Espíritu impuro","La expresión πνεῦμα ἀκάθαρτον pertenece al vocabulario religioso del relato. No constituye por sí misma un diagnóstico médico moderno."],
+    idioma: ["¿Qué tenemos que ver contigo?","Τί ἡμῖν καὶ σοί es un giro idiomático semítico, literalmente «¿qué [hay] para nosotros y para ti?», que expresa distanciamiento o conflicto; cf. Jue 11,12 (LXX)."],
+    silencio: ["Φιμώθητι","Imperativo aoristo pasivo de φιμόω, literalmente «ser amordazado». La Vulgata traduce Obmutesce («enmudece»)."],
+    convulsion: ["La salida del espíritu","σπαράξαν es participio aoristo de σπαράσσω, «sacudir violentamente». El texto describe una acción del espíritu dentro del marco narrativo."],
+    nueva: ["Enseñanza nueva","διδαχὴ καινή es una frase nominal exclamativa. La puntuación del pasaje es editorial; la relación entre «nueva» y «con autoridad» admite matices."],
+    rumor: ["La fama que se difunde","ἀκοή puede designar noticia, informe o fama. El griego dice «salió su noticia»; la Vulgata emplea rumor."],
     entregado: ['Juan, entregado', 'παραδοθῆναι es un infinitivo aoristo pasivo de παραδίδωμι, «entregar, poner en manos de otro». La misma familia verbal reaparece en el relato de la pasión. El texto no identifica aquí a quien entrega a Juan.'],
     evangelio: ['La buena noticia de Dios', 'SBLGNT lee τοῦ θεοῦ («de Dios»); la Vulgata Clementina presenta regni Dei («del reino de Dios»). No se armonizan ambas versiones.'],
     kairos: ['καιρός', 'No se trata simplemente de tiempo medido (χρόνος), sino de un momento u ocasión decisiva. El perfecto πεπλήρωται presenta el tiempo como ya cumplido.'],
@@ -48,6 +65,42 @@
 
   // Glosario inicial seleccionado. Otras formas se incorporarán en nuevas pasadas editoriales.
   const glossary = {
+    "Καὶ": ["καί","conjunción coordinante","y, también"],
+    "εἰσπορεύονται": ["εἰσπορεύομαι","presente indicativo medio, 3.ª plural","entran, llegan"],
+    "εἰς": ["εἰς","preposición con acusativo","a, hacia, en"],
+    "Καφαρναούμ": ["Καφαρναούμ","nombre propio indeclinable","Cafarnaúm"],
+    "τοῖς": ["ὁ","artículo dativo plural masculino/neutro","los, a los"],
+    "σάββασιν": ["σάββατον","dativo plural neutro","sábado"],
+    "ἐδίδασκεν": ["διδάσκω","imperfecto indicativo activo, 3.ª singular","enseñaba"],
+    "συναγωγήν": ["συναγωγή","acusativo singular femenino","sinagoga"],
+    "ἐξεπλήσσοντο": ["ἐκπλήσσω","imperfecto indicativo medio-pasivo, 3.ª plural","quedaban asombrados"],
+    "διδαχῇ": ["διδαχή","dativo singular femenino","enseñanza"],
+    "ἐξουσίαν": ["ἐξουσία","acusativo singular femenino","autoridad"],
+    "γραμματεῖς": ["γραμματεύς","nominativo plural masculino","escribas"],
+    "ἄνθρωπος": ["ἄνθρωπος","nominativo singular masculino","hombre, persona"],
+    "ἀκαθάρτῳ": ["ἀκάθαρτος","dativo singular neutro","impuro"],
+    "ἀνέκραξεν": ["ἀνακράζω","aoristo indicativo activo, 3.ª singular","gritó"],
+    "Ναζαρηνέ": ["Ναζαρηνός","vocativo singular masculino","Nazareno"],
+    "ἀπολέσαι": ["ἀπόλλυμι","infinitivo aoristo activo","destruir"],
+    "οἶδά": ["οἶδα","perfecto indicativo activo con valor presente, 1.ª singular","sé"],
+    "ἅγιος": ["ἅγιος","nominativo singular masculino","santo"],
+    "ἐπετίμησεν": ["ἐπιτιμάω","aoristo indicativo activo, 3.ª singular","reprendió"],
+    "Φιμώθητι": ["φιμόω","imperativo aoristo pasivo, 2.ª singular","calla, queda amordazado"],
+    "ἔξελθε": ["ἐξέρχομαι","imperativo aoristo activo, 2.ª singular","sal"],
+    "σπαράξαν": ["σπαράσσω","participio aoristo activo, nominativo singular neutro","sacudiendo violentamente"],
+    "ἀκάθαρτον": ["ἀκάθαρτος","nominativo singular neutro","impuro"],
+    "φωνῇ": ["φωνή","dativo singular femenino","voz, grito"],
+    "μεγάλῃ": ["μέγας","dativo singular femenino","grande, fuerte"],
+    "ἐξῆλθεν": ["ἐξέρχομαι","aoristo indicativo activo, 3.ª singular","salió"],
+    "ἐθαμβήθησαν": ["θαμβέω","aoristo indicativo pasivo, 3.ª plural","quedaron sobrecogidos"],
+    "συζητεῖν": ["συζητέω","infinitivo presente activo","discutir, debatir"],
+    "διδαχὴ": ["διδαχή","nominativo singular femenino","enseñanza"],
+    "καινή": ["καινός","nominativo singular femenino","nueva"],
+    "ἐπιτάσσει": ["ἐπιτάσσω","presente indicativo activo, 3.ª singular","ordena"],
+    "ὑπακούουσιν": ["ὑπακούω","presente indicativo activo, 3.ª plural","obedecen"],
+    "ἀκοὴ": ["ἀκοή","nominativo singular femenino","noticia, fama"],
+    "πανταχοῦ": ["πανταχοῦ","adverbio","por todas partes"],
+    "περίχωρον": ["περίχωρος","acusativo singular femenino","región circundante"],
     'Ἀρχὴ': ['ἀρχή', 'nominativo singular femenino', 'comienzo, principio'],
     'εὐαγγελίου': ['εὐαγγέλιον', 'genitivo singular neutro', 'buena noticia, evangelio'],
     'χριστοῦ': ['χριστός', 'genitivo singular masculino', 'ungido, Mesías, Cristo'],
@@ -169,6 +222,7 @@
     12: ['1,12–13', 'En el desierto'],
     14: ['1,14–15', 'El anuncio en Galilea'],
     16: ['1,16–20', 'Los primeros discípulos'],
+    21: ['1,21–28', 'En la sinagoga de Cafarnaúm'],
   };
   passages.forEach(p => {
     if (sections[p.n]) {
