@@ -14,6 +14,8 @@ const K = Object.freeze({
   latin: 'edicion-viva:latin-dictionary:v1',
   greek: 'edicion-viva:dictionary:gr:v1',
   reading: 'edicion-viva:reading:v1',
+  highlights: 'edicion-viva:highlights:v1',
+  highlightsBaseline: 'edicion-viva:cloud-highlights-baseline:v1',
   device: 'edicion-viva:reading-device:v1'
 });
 const EMPTY_READING = { version: 1, works: {} };
@@ -81,6 +83,12 @@ function purgePreviousLocalData() {
   localStorage.removeItem(K.greek);
   localStorage.removeItem(K.reading);
   localStorage.removeItem(K.baseline);
+  localStorage.removeItem(K.highlights);
+  localStorage.removeItem(K.highlightsBaseline);
+  window.dispatchEvent(new Event('edicion-viva:highlights-updated'));
+  window.dispatchEvent(new CustomEvent('edicion-viva:dictionary-updated',{detail:{language:'la'}}));
+  window.dispatchEvent(new CustomEvent('edicion-viva:dictionary-updated',{detail:{language:'gr'}}));
+  window.dispatchEvent(new Event('edicion-viva:reading-updated'));
 }
 function deviceId() {
   let value = localStorage.getItem(K.device);
@@ -215,12 +223,74 @@ async function syncReading() {
     window.dispatchEvent(new Event('edicion-viva:reading-updated'));
   }
 }
+async function syncHighlights() {
+  // Tres vías con baseline: una eliminación local se transmite sin borrar
+  // incorporaciones realizadas en otro dispositivo.
+  const stored = parse(K.highlights, []);
+  const local = Object.fromEntries((Array.isArray(stored) ? stored : []).filter(
+    x => x && typeof x.id === 'string' && /^[0-9a-f-]{36}$/i.test(x.id)
+  ).map(x => [x.id, x]));
+  const baseline = parse(K.highlightsBaseline, {});
+  const { data, error } = await client.from('edition_highlights')
+    .select('id,work_id,work_title,excerpt,location_label,segments,created_at,updated_at')
+    .eq('user_id', user.id).limit(5000);
+  if (error) throw error;
+  const remote = Object.fromEntries((data || []).map(x => [x.id, {
+    id:x.id, workId:x.work_id, workTitle:x.work_title,
+    excerpt:x.excerpt, locationLabel:x.location_label,
+    segments:x.segments, createdAt:x.created_at, updatedAt:x.updated_at
+  }]));
+  const merged = { ...remote }, upserts = [], deletions = [];
+  for (const id of new Set([...Object.keys(baseline),...Object.keys(local)])) {
+    if (!same(local[id],baseline[id])) {
+      if (local[id]) {
+        const item = local[id];
+        if (!same(item, remote[id])) upserts.push({
+          id, user_id:user.id, work_id:item.workId,
+          work_title:item.workTitle, excerpt:item.excerpt,
+          location_label:item.locationLabel || '',
+          segments:item.segments, created_at:item.createdAt,
+          updated_at:item.updatedAt
+        });
+        merged[id] = item;
+      } else {
+        if (remote[id]) deletions.push(id);
+        delete merged[id];
+      }
+    }
+  }
+  if (upserts.length) {
+    const { error: err } = await client.from('edition_highlights').upsert(upserts,
+      { onConflict:'id' });
+    if (err) throw err;
+  }
+  if (deletions.length) {
+    const { error: err } = await client.from('edition_highlights').delete()
+      .eq('user_id',user.id).in('id',deletions);
+    if (err) throw err;
+  }
+  const latestLocal = parse(K.highlights, []);
+  // Preserve highlights saved while the network request was running;
+  // the next scheduled sync will upload them against the old baseline.
+  const concurrent = Array.isArray(latestLocal) && !same(latestLocal, stored);
+  if (!concurrent) {
+    const values = Object.values(merged).sort((a,b)=>
+      (b.createdAt||'').localeCompare(a.createdAt||''));
+    if (!same(values,stored)) {
+      put(K.highlights,values);
+      window.dispatchEvent(new Event('edicion-viva:highlights-updated'));
+    }
+    put(K.highlightsBaseline,merged);
+  }
+}
+
 async function synchronize(force = false) {
   if (!user || working || !initialized || (!force && Date.now() < nextSync)) return;
   working = true;
   try {
     await syncDictionaries();
     await syncReading();
+    await syncHighlights();
     nextSync = Date.now() + 12000;
     status('Sincronizado · ' + visibleEmail(user));
   } catch (error) {
@@ -231,6 +301,10 @@ async function synchronize(force = false) {
 }
 async function startSession(u) {
   if (!u) {
+    if (user || localStorage.getItem(K.account)) {
+      purgePreviousLocalData();
+      localStorage.removeItem(K.account);
+    }
     user = null;
     initialized = false;
     renderAccount();
