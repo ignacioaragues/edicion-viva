@@ -24,7 +24,7 @@ const prologueVerses = [
       [
         "qui",
         "quis",
-        "pronombre interrogativo; nominativo singular masculino; identidad"
+        "pronombre interrogativo; nominativo singular masculino, variante arcaica de quis en interrogativa indirecta (qui sim)"
       ],
       [
         "sim",
@@ -34,7 +34,7 @@ const prologueVerses = [
       [
         "paucis",
         "paucus",
-        "adjetivo sustantivado; ablativo plural neutro; palabras sobreentendidas"
+        "adjetivo sustantivado; ablativo plural neutro de medio o modo, con verbis sobreentendido"
       ],
       [
         "eloquar",
@@ -182,7 +182,7 @@ const prologueVerses = [
       [
         "avoque",
         "avus + -que",
-        "avo: sustantivo masculino dativo singular; -que: conjunción enclítica copulativa"
+        "avo: sustantivo masculino dativo singular; -que: enclítica copulativa coordinada con patri"
       ],
       [
         "iam",
