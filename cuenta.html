@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <meta name="description" content="Cuenta opcional para sincronizar diccionarios y lecturas entre dispositivos en Edición Viva.">
+  <title>Mi cuenta · Edición Viva</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./account.css?v=1">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html" aria-label="Ir a la biblioteca Edición Viva"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
+    <a class="library" href="./index.html">Biblioteca ↗</a>
+  </header>
+  <main>
+    <div class="eyebrow">MI BIBLIOTECA</div>
+    <h1>Mi cuenta<span>.</span></h1>
+    <p class="lead">Una biblioteca abierta. Una cuenta opcional para llevar tus lecturas de un dispositivo a otro.</p>
+    <section class="account-box" aria-label="Iniciar sesión y sincronizar">
+      <div class="small-title">ESTADO DE LA CUENTA</div>
+      <p id="account-status" class="status" data-account-status role="status" aria-live="polite">Comprobando sesión…</p>
+      <div data-account-signed-out>
+        <h2>Entrar con tu correo</h2>
+        <p>Te enviamos un enlace de acceso. No hace falta crear una contraseña.</p>
+        <form id="login-form">
+          <label for="login-email">Correo electrónico</label>
+          <input id="login-email" type="email" autocomplete="email" required placeholder="tu@email.com">
+          <button type="submit" id="login-button">Enviar enlace</button>
+        </form>
+        <p class="feedback" id="login-feedback" role="status"></p>
+      </div>
+      <div data-account-signed-in hidden>
+        <h2>Sesión iniciada</h2>
+        <p class="email" data-account-email></p>
+        <p>Las palabras nuevas y los minutos de lectura se sincronizan automáticamente.</p>
+        <div class="actions">
+          <button type="button" id="sync-button">Sincronizar ahora</button>
+          <button type="button" id="logout-button" class="secondary">Cerrar sesión</button>
+        </div>
+      </div>
+    </section>
+    <section class="below">
+      <h2>¿Qué se sincroniza?</h2>
+      <p>Tu diccionario de latín, el de griego, el registro diario de minutos y la última posición de lectura registrada en cada obra.</p>
+      <p>La primera vez que entres, comenzás con una cuenta vacía. Los datos que hayas acumulado antes en un navegador no se importan automáticamente.</p>
+      <p><strong>Podés leer sin cuenta.</strong> El contenido de la biblioteca sigue abierto. Tu actividad personal no se publica ni se comparte con otros lectores.</p>
+      <p class="small">Al iniciar sesión, los datos personales se guardan en Supabase y se asocian a tu correo. La sesión se mantiene en este navegador hasta que cierres sesión. Para eliminar tu cuenta y sus datos, contactá al administrador del proyecto.</p>
+    </section>
+    <div class="bottom-links"><a href="./mis-lecturas.html">Mis lecturas ↗</a><a href="./index.html">Volver a la biblioteca ↗</a></div>
+  </main>
+  <script type="module" src="./account-sync.js?v=1"></script>
+  <script type="module" src="./account-page.js?v=1"></script>
+</body>
+</html>
