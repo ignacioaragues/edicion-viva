@@ -27,7 +27,7 @@ const verses = [
       ['circumspectatrix','circumspectatrix','sustantivo femenino; vocativo singular'],
       ['cum','cum','preposición con ablativo'],
       ['oculis','oculus','sustantivo masculino; ablativo plural'],
-      ['emissiciis','emissicius','adjetivo masculino; ablativo plural, concuerda con oculis']
+      ['emissiciis','emissicius','adjetivo de primera clase; ablativo plural masculino, concuerda con oculis; ojos que se proyectan o se lanzan a inspeccionar','que se lanzan a fisgonear']
     ]
   },
   {
@@ -57,7 +57,7 @@ const verses = [
       ['atque','atque','conjunción copulativa'],
       ['ut','ut','conjunción final; introduce subjuntivo'],
       ['te','tu','pronombre personal; acusativo singular'],
-      ['dignam','dignus','adjetivo femenino; acusativo singular, referido a te'],
+      ['dignam','dignus','adjetivo femenino; acusativo singular, predicativo de te; dignam malam aetatem: vida merecida, en formulación expresivamente entrecruzada','merecedora'],
       ['mala','malus','adjetivo femenino; vocativo singular, insulto dirigido a Estáfila'],
       ['malam','malus','adjetivo femenino; acusativo singular, concuerda con aetatem'],
       ['aetatem','aetas','sustantivo femenino; acusativo singular'],
@@ -69,7 +69,7 @@ const verses = [
     spanish: 'Pero ¿por qué motivo me has echado ahora de la casa?',
     words: [
       ['Nam','nam','partícula introductoria o enfática'],
-      ['qua','qui, quae, quod','adjetivo interrogativo femenino; ablativo singular, concuerda con causa'],
+      ['qua','qui, quae, quod','determinante interrogativo; ablativo singular femenino, concuerda con causa (qua causa: por qué motivo)','qué'],
       ['me','ego','pronombre personal; acusativo singular'],
       ['nunc','nunc','adverbio de tiempo: ahora'],
       ['causa','causa','sustantivo femenino; ablativo singular (ablativo de causa)'],
