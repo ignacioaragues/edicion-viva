@@ -1,0 +1,22 @@
+/* Resaltados de Edición Viva · estilo compartido de lectura. */
+::highlight(edicion-viva-highlights){background:rgba(224,182,84,.41);color:inherit}
+.ev-highlight-fallback{background:rgba(224,182,84,.20);border-radius:3px}
+.ev-highlights-nav{font:600 11px/1.4 'DM Sans',Arial,sans-serif;color:#6a786a;background:transparent;border:1px solid #d9ddd2;border-radius:3px;padding:8px 11px;cursor:pointer}
+.ev-highlights-nav:hover,.ev-highlights-nav:focus-visible{color:#9d5747;border-color:#b7b0a5}
+.ev-highlight-toolbar{position:fixed;z-index:2147483600;padding:10px 15px;background:#485b4c;color:white;border:0;border-radius:5px;box-shadow:0 6px 19px #22222235;cursor:pointer;font:600 12px 'DM Sans',Arial,sans-serif}
+.ev-highlights-panel{position:fixed;z-index:2147483500;right:15px;top:75px;bottom:15px;width:min(410px,calc(100vw - 30px));overflow:auto;background:#fbfaf6;border:1px solid #dbd8cd;box-shadow:0 12px 50px #30332930;padding:24px 24px 18px;color:#292d2b;font:13px/1.7 'DM Sans',Arial,sans-serif}
+.ev-highlights-panel[hidden],.ev-highlight-toolbar[hidden]{display:none!important}
+.ev-highlights-heading{display:flex;align-items:center;justify-content:space-between;gap:15px;border-bottom:1px solid #e4e3da;padding-bottom:14px}
+.ev-highlights-heading h2{font:400 17px/1.4 'Libre Baskerville',Georgia,serif;margin:0}
+.ev-highlights-close{background:transparent;border:0;color:#76786f;font:27px/1 Arial,sans-serif;cursor:pointer}
+.ev-highlights-hint,.ev-highlight-empty,.ev-highlights-status{font:12px/1.8 'DM Sans',Arial,sans-serif;color:#767d70}
+.ev-highlights-list{display:grid;gap:13px;margin:20px 0}
+.ev-highlight-card{border:1px solid #e3e2d8;background:#fffefa;padding:15px 17px}
+.ev-highlight-meta{font:700 10px/1.6 'DM Sans',Arial,sans-serif;letter-spacing:.05em;color:#8e594c}
+.ev-highlight-card blockquote{font:13px/1.9 'Libre Baskerville',Georgia,serif;color:#424943;margin:10px 0 12px;padding:0;border:0;white-space:pre-line;overflow-wrap:anywhere}
+.ev-highlight-actions{display:flex;align-items:center;gap:15px;flex-wrap:wrap}
+.ev-highlight-actions button,.ev-highlight-actions a,.ev-highlights-all{font:600 11px 'DM Sans',Arial,sans-serif;color:#637869;background:transparent;border:0;padding:3px 0;text-decoration:none;cursor:pointer}
+.ev-highlight-actions .ev-highlight-remove{color:#995a4d}
+.ev-highlight-actions button:hover,.ev-highlight-actions a:hover,.ev-highlights-all:hover{text-decoration:underline}
+.ev-highlights-all{display:block;border-top:1px solid #e4e3da;padding-top:20px;margin-top:18px}
+@media(max-width:600px){.ev-highlights-panel{top:10px;bottom:10px}.ev-highlights-nav{padding:7px 9px;font-size:10px}}
