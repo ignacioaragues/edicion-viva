@@ -179,6 +179,15 @@ const collection = [
     status: 'considering',
     detail: 'En consideración · 154 sonetos',
   },
+  {
+    author: 'Thomas Malory',
+    period: 'PROSA ARTÚRICA INGLESA',
+    work: "Le Morte d'Arthur",
+    translated: 'La muerte de Arturo',
+    language: 'Inglés del siglo XV · Inglés moderno opcional · Español',
+    status: 'considering',
+    detail: 'En consideración · edición de referencia por determinar',
+  },
 ];
 
 const list = document.querySelector('#library-list');
