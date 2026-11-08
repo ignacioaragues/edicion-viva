@@ -240,7 +240,12 @@
       else subset.forEach(item=>{
         const card=buildCard(item,false);
         const link=el('a','ev-highlight-open','Abrir obra ↗');
-        link.href=workLinks[item.workId]||'./index.html';
+        const rowId=item.segments[0]?.key?.split('|')[0] || '';
+        const base=workLinks[item.workId]||'./index.html';
+        // Direct anchors are stable for Plautus and Mark. Shakespeare renders
+        // scenes dynamically and therefore opens its reader at the work level.
+        link.href=base + (rowId && item.workId!=='shakespeare-coriolanus' ?
+          '#' + encodeURIComponent(rowId) : '');
         card.querySelector('.ev-highlight-actions').prepend(link);
         global.append(card);
       });
