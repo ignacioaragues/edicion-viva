@@ -409,7 +409,7 @@ function openWord(button, word, reference) {
   document.querySelector('#word-lemma').textContent = word[1];
   document.querySelector('#word-morphology').textContent = word[2];
   // Breve glosa española por lema, independiente del análisis morfológico.
-  const gloss = aululariaGlosses[word[1]];
+  const gloss = word[3] || aululariaGlosses[word[1]];
   if (!gloss) throw new Error('Falta una traducción breve para el lema ' + word[1]);
   document.querySelector('#word-gloss').textContent = gloss;
   wordPanel.hidden = false;
@@ -432,7 +432,7 @@ function openNote(button, note) {
 // No permitir palabras sin glosa en los fragmentos ya publicados.
 if (typeof aululariaGlosses === 'undefined') throw new Error('No se cargó glosses.js');
 const missingGlosses = [...new Set(verses.flatMap(entry => entry.words
-  .filter(word => !Object.hasOwn(aululariaGlosses, word[1]))
+  .filter(word => !word[3] && !Object.hasOwn(aululariaGlosses, word[1]))
   .map(word => word[1])))];
 if (missingGlosses.length) {
   throw new Error('Faltan glosas españolas para: ' + missingGlosses.join(', '));
