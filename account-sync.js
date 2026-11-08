@@ -292,5 +292,6 @@ window.EdicionVivaAccount = {
   signOut, sendLink, syncNow: () => synchronize(true),
   subscribe(fn) { listeners.add(fn); fn({ user, status: currentStatus }); return () => listeners.delete(fn); }
 };
+window.dispatchEvent(new Event('edicion-viva:account-ready'));
 setInterval(() => { if (!document.hidden) synchronize().catch(console.warn); }, 6000);
 window.addEventListener('pagehide', () => { if (user) synchronize(true).catch(console.warn); });
