@@ -64,6 +64,15 @@ En las ediciones con análisis exhaustivo palabra por palabra, todas las palabra
 
 *Aulularia*: `autores/plauto/aulularia/glosses.js` contiene glosas orientativas por lema; el cuarto elemento opcional de cada entrada `words` puede suministrar una glosa contextual distinta, `[forma, lema, morfología, glosa contextual]`. Revisar progresivamente la pertinencia de las glosas durante las rondas filológicas.
 
+## Resaltados privados de pasajes (Highlights)
+
+- En Marcos y *Aulularia*, y en el lector de *Coriolanus*, seleccionar palabras del original o de la traducción despliega la acción **Resaltar pasaje**. Los resaltados usan un identificador estable de verso o intervención más un rango de caracteres; se restauran con CSS Custom Highlight API al releer, y en navegadores sin esa API se señala el segmento de texto como recurso de compatibilidad.
+- El botón **Resaltados** del lector abre la lista de la obra, desde donde se puede volver al pasaje o borrarlo. La página central [Mis highlights](mis-highlights.html) muestra los de todas las obras y permite filtrarlos.
+- `highlights.js` y `highlights.css` son módulos comunes en el repositorio Edición Viva. El lector de Shakespeare, alojado en un repositorio hermano, los utiliza mediante rutas relativas.
+- Sin cuenta, los resaltados son locales a cada navegador. Tras iniciar sesión, `account-sync.js` sincroniza las altas y bajas con `public.edition_highlights`, que tiene RLS y políticas `auth.uid() = user_id`. No se migran automáticamente los datos locales anteriores al primer inicio de sesión.
+- **Obras futuras:** conservar esta funcionalidad al crear un nuevo lector: identificadores estables en cada unidad textual, `data-reading-id`, scripts y estilos compartidos, y selección del texto original y traducido. No se guardarán citas extensas de obras protegidas en el servidor sin autorización; la aplicación limita cada fragmento a 4000 caracteres, pero los límites específicos de cada licencia se deben revisar por obra.
+- La selección puede requerir adaptar el lector si cambia la estructura DOM de una obra. Las escenas de Shakespeare que no estén abiertas deben seleccionarse desde su índice para volver a un resaltado.
+
 ## Enlaces a paradigmas y flexión
 
 Las fichas léxicas tendrán, debajo de la glosa española, un **enlace pequeño y externo al lema**: «Ver conjugación» para verbos, «Ver declinación» para nombres, adjetivos y pronombres, o «Ver entrada» para voces invariables. Emplear `https://en.wiktionary.org/wiki/` seguido del lema codificado y la sección de idioma correspondiente (por ejemplo `#Latin` o `#Ancient_Greek`), o una fuente académica más específica cuando proporcione un paradigma verificable y apropiado. Mantener siempre un enlace real, nunca uno inventado.
