@@ -106,12 +106,20 @@
       "verses": 7,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), cotejo The Latin Library"
+    },
+    {
+      "section": "II.1",
+      "from": 161,
+      "to": 168,
+      "verses": 8,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library"
     }
   ],
   "pending": [
     {
       "section": "II.1",
-      "from": 161
+      "from": 169
     },
     {
       "section": "later scenes",
@@ -119,6 +127,6 @@
     }
   ],
   "updated": "2026-11-08",
-  "next": "II.1 desde el verso 161",
-  "editorial_note": "II.1 vv. 154–160: siete versos, 55 fichas; foras feratur (eufemismo funerario), grandior natu (supino de respecto). Revisión integral pendiente."
+  "next": "II.1 desde el verso 169",
+  "editorial_note": "II.1 vv. 161–168: ocho versos; 67 fichas léxicas; Postumus y vehicla. Revisión integral pendiente."
 }
