@@ -89,6 +89,7 @@
     <section class="word-panel popover-card" id="word-panel" aria-label="Análisis de la palabra" aria-live="polite" hidden>
       <div class="word-panel-top"><span>ANÁLISIS MORFOLÓGICO</span><button id="close-word" type="button" aria-label="Cerrar análisis">×</button></div>
       <div class="word-detail" id="word-detail"><strong id="word-form"></strong><dl><div><dt>LEMA</dt><dd id="word-lemma"></dd></div><div><dt>MORFOLOGÍA</dt><dd id="word-morphology"></dd></div></dl></div>
+      <p class="word-gloss" id="word-gloss" lang="es"></p>
       <button class="save-word" id="save-word" type="button">+ Guardar en mi diccionario</button>
     </section>
     <section class="note-panel popover-card" id="note-panel" aria-label="Nota a la edición" hidden>
@@ -134,6 +135,7 @@
 </aside>
 
 <script src="./prologue.js"></script>
+<script src="./glosses.js" defer></script>
 <script src="./aulularia.js?v=20261107-unified" defer></script>
 <script src="../../../reading-layout.js" defer></script>
 <script src="../../../reading-tracker.js" defer></script>
