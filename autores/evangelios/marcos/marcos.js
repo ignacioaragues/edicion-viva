@@ -308,6 +308,17 @@
     panel.style.left = `${left}px`;
     panel.style.top = `${top}px`;
   }
+  function setParadigmLink(lemma, partOfSpeech) {
+    const link = $('#word-paradigm');
+    const kind = partOfSpeech === 'V-' ? 'conjugación' :
+      /^(N-|A-|RA|RD|RI|RP|RR)$/.test(partOfSpeech) ? 'declinación' : 'entrada';
+    link.textContent = kind === 'entrada' ? 'Ver entrada en Wiktionary ↗' :
+      'Ver ' + kind + ' en Wiktionary ↗';
+    link.href = 'https://en.wiktionary.org/wiki/' + encodeURIComponent(lemma) + '#Ancient_Greek';
+    link.title = 'Consultar el lema ' + lemma + ' en Wiktionary; los paradigmas disponibles pueden corresponder a variedades distintas del griego koiné.';
+    link.hidden = false;
+  }
+
   function showWord(form, anchor, record) {
     closePanels();
     selectedWord = form;
@@ -317,6 +328,7 @@
     $('#word-lemma').textContent = lemma;
     $('#word-morphology').textContent = morph;
     $('#word-gloss').textContent = gloss;
+    setParadigmLink(lemma, record[2]);
     const save = $('#save-word');
     save.setAttribute('aria-pressed', String(Object.hasOwn(dictionary, form)));
     save.textContent = Object.hasOwn(dictionary, form) ? '✓ Guardada en mi diccionario' : '+ Guardar en mi diccionario';
