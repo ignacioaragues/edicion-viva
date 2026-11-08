@@ -70,9 +70,9 @@
   ],
   "next": "Marcos 1,40 y siguientes",
   "last_edit": "2026-11-08",
-  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral).",
+  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos.",
   "review_tracking": {
-    "next_review": "Marcos 1,7–8",
+    "next_review": "Marcos 1,9–11",
     "reviewed": [
       {
         "chapter": 1,
@@ -97,6 +97,18 @@
           "Josephus, Antiquities 18.116–117",
           "Isaiah 40:3; 2 Kings 1:8; Leviticus 11:21–22; Zechariah 13:4",
           "Cambridge Bible for Schools and Colleges, Isaiah 40:3 and Mark 1:6"
+        ]
+      },
+      {
+        "chapter": 1,
+        "from": 7,
+        "to": 8,
+        "kind": "bibliographic_textual_second_pass",
+        "status": "reviewed_references_added",
+        "references": [
+          "Cambridge Greek Testament for Schools and Colleges, Mark 1:7",
+          "A. B. Bruce, Expositor’s Greek Testament, Mark 1:7–8",
+          "b. Ketubbot 96a (later comparative evidence)"
         ]
       }
     ],
