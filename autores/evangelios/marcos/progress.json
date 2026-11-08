@@ -58,10 +58,28 @@
   ],
   "next": "Marcos 1,35 y siguientes",
   "last_edit": "2026-11-08",
-  "notes": "1,1–34 traducidos y anotados; notas de 1,29–34 con referencias textuales externas; revisión académica integral y cobertura morfológica exhaustiva pendientes.",
+  "notes": "1,1–34 traducidos y anotados; notas de 1,29–34 con referencias textuales externas; revisión académica integral y revisión filológica detallada de las fichas pendiente (cobertura íntegra de los versos publicados ya incorporada).",
   "review_tracking": {
     "next_review": "Marcos 1,1–8",
     "reviewed": [],
     "policy": "Consultar fuentes académicas y comentarios externos en rondas sucesivas; distinguir revisión bibliográfica de simple cotejo textual."
+  },
+  "morphology_coverage": {
+    "status": "complete_for_published_verses",
+    "chapter": 1,
+    "from": 1,
+    "through": 34,
+    "token_count": 540,
+    "distinct_surface_forms": 293,
+    "distinct_lemmas": 193,
+    "source": "Tauber, J. K., ed. (2017), MorphGNT: SBLGNT Edition v6.12; https://github.com/morphgnt/sblgnt; CC BY-SA 3.0; DOI:10.5281/zenodo.376200",
+    "assets": [
+      "marcos.js",
+      "morphology.js",
+      "index.html"
+    ],
+    "verified": "540/540 published Greek tokens aligned positionally and carrying lemma, POS, morphology code and Spanish lemma gloss; JavaScript syntax passed.",
+    "editorial_review": "pending_contextual_verification",
+    "next": "Extend morphology.js with complete per-token annotations before publishing each later Greek fragment; revise earlier lexical details in subsequent editorial rounds."
   }
 }
