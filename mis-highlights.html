@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f7f5ef">
+<meta name="description" content="Pasajes resaltados de las ediciones en Edición Viva">
+<title>Mis highlights · Edición Viva</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./account.css?v=1">
+<link rel="stylesheet" href="./highlights.css?v=1">
+<style>
+.highlight-index{max-width:760px;margin:0 auto;padding:65px 24px 100px}
+.highlight-index h1{font-size:clamp(39px,5vw,56px)}
+.highlight-controls{display:flex;align-items:center;justify-content:space-between;gap:15px;margin:22px 0 28px}
+.highlight-controls label{margin:0;font:600 12px 'DM Sans',sans-serif}
+.highlight-controls select{max-width:250px;border:1px solid #d3d4ca;padding:10px 12px;background:#fffefa;color:#292d2b;font:12px 'DM Sans',sans-serif}
+#highlights-collection{display:grid;gap:14px}
+#highlights-collection .ev-highlight-card{padding:22px 24px}
+#highlights-collection .ev-highlight-card blockquote{font-size:15px}
+.highlight-info{border-top:1px solid #e4e3da;margin-top:35px;padding-top:15px;font-size:12px;color:#636861}
+@media(max-width:550px){.highlight-controls{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<header class="topbar">
+<a class="brand" href="./index.html"><span class="mark">E<span>·</span></span><span>EDICIÓN VIVA</span></a>
+<nav><a class="library" href="./mis-lecturas.html">Mis lecturas</a> · <a class="library" href="./cuenta.html" data-account-link>Iniciar sesión</a> · <a class="library" href="./index.html">Biblioteca ↗</a></nav>
+</header>
+<main class="highlight-index">
+<div class="eyebrow">MI CUADERNO DE LECTURA</div>
+<h1>Mis highlights<span>.</span></h1>
+<p class="lead">Pasajes guardados mientras leés. Tus resaltados de todas las obras, reunidos en un solo lugar.</p>
+<div class="highlight-controls">
+<label for="highlight-work-filter">Filtrar por obra</label>
+<select id="highlight-work-filter"><option value="all">Todas las obras</option></select>
+<span id="highlight-total" class="small-title">0 resaltados</span>
+</div>
+<div id="highlights-collection" aria-live="polite"></div>
+<div class="highlight-info">Los resaltados se guardan en este navegador. Al iniciar sesión se sincronizan entre los dispositivos conectados. La lectura sigue siendo pública.</div>
+<div class="bottom-links"><a href="./mis-lecturas.html">Mis lecturas ↗</a><a href="./index.html">Biblioteca ↗</a></div>
+</main>
+<script defer src="./highlights.js?v=1"></script>
+<script type="module" src="./account-sync.js?v=1"></script>
+</body>
+</html>
