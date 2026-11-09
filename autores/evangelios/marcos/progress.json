@@ -292,7 +292,28 @@
       "No describir a los cuatro portadores como amigos o familiares: el texto no especifica su relación.",
       "Distinguir las variantes de 2,4 de la lectura adoptada por SBLGNT y no trasladar detalles de Lucas 5,19 al texto de Marcos."
     ],
-    "next": "Extraer y cotejar 2,1–12 con MorphGNT 6.12; preparar fichas posicionales y glosas, traducción y Clementina; verificar antes de publicar.",
-    "date": "2026-11-09"
+    "next": "Preparar 196 fichas posicionales con glosas y alineación SBLGNT; redactar traducción y Vulgata, y validar JS y renderización antes de publicar.",
+    "date": "2026-11-09",
+    "morphgnt_inventory": {
+      "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "version": "MorphGNT SBLGNT 6.12",
+      "verse_token_counts": {
+        "1": 12,
+        "2": 16,
+        "3": 9,
+        "4": 22,
+        "5": 15,
+        "6": 13,
+        "7": 14,
+        "8": 22,
+        "9": 20,
+        "10": 18,
+        "11": 13,
+        "12": 22
+      },
+      "total_tokens": 196,
+      "status": "source_rows_counted_only_not_transcribed_or_glossed",
+      "note": "Inventario directo de las 196 filas posicionales de 2,1–12; no constituye cobertura morfológica publicada. Debe cotejarse cada token con el griego de SBLGNT y añadirse glosa contextual antes de publicar."
+    }
   }
 }
