@@ -9,8 +9,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css?v=1">
-  <script defer src="./collection.js?v=1"></script>
+  <link rel="stylesheet" href="./styles.css?v=2">
+  <script defer src="./collection.js?v=2"></script>
 <link rel="stylesheet" href="./highlights.css?v=1">
 </head>
 <body>
@@ -60,7 +60,13 @@
         </div>
         <p>Obras en lectura y futuras ediciones. Solo se puede entrar en las que ya tienen texto disponible.</p>
       </div>
-      <div class="library-list" id="library-list" aria-label="Catálogo de autores y obras">
+      <div class="library-controls">
+        <div class="library-switch" role="group" aria-label="Ordenar el catálogo por obras o autores">
+          <button type="button" data-library-view="works" aria-pressed="true">Obras</button>
+          <button type="button" data-library-view="authors" aria-pressed="false">Autores</button>
+        </div>
+      </div>
+      <div class="library-list" id="library-list" aria-label="Catálogo de obras">
         <div class="library-loading">Cargando el catálogo…</div>
       </div>
       <p class="library-footnote"><span class="asterisk" aria-hidden="true">✳</span> Los títulos en consideración no son todavía ediciones disponibles ni tienen una fecha de publicación anunciada.</p>
