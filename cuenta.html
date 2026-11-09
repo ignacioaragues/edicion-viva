@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./account.css?v=1">
+  <link rel="stylesheet" href="./account.css?v=2">
 </head>
 <body>
   <header class="topbar">
@@ -24,14 +24,60 @@
       <div class="small-title">ESTADO DE LA CUENTA</div>
       <p id="account-status" class="status" data-account-status role="status" aria-live="polite">Comprobando sesión…</p>
       <div data-account-signed-out>
-        <h2>Entrar con tu correo</h2>
-        <p>Te enviamos un enlace de acceso. No hace falta crear una contraseña.</p>
-        <form id="login-form">
-          <label for="login-email">Correo electrónico</label>
-          <input id="login-email" type="email" autocomplete="email" required placeholder="tu@email.com">
-          <button type="submit" id="login-button">Enviar enlace</button>
-        </form>
-        <p class="feedback" id="login-feedback" role="status"></p>
+        <div class="account-modes" aria-label="Opciones de cuenta">
+          <button type="button" class="mode-button active" data-auth-mode="login" aria-pressed="true">Iniciar sesión</button>
+          <button type="button" class="mode-button" data-auth-mode="register" aria-pressed="false">Crear cuenta</button>
+        </div>
+        <section data-auth-panel="login" aria-label="Iniciar sesión">
+          <h2>Bienvenido de nuevo</h2>
+          <p>Entrá con el correo y la contraseña de tu cuenta.</p>
+          <form id="login-form">
+            <label for="login-email">Correo electrónico</label>
+            <input id="login-email" type="email" autocomplete="email" required placeholder="tu@email.com">
+            <label for="login-password">Contraseña</label>
+            <input id="login-password" type="password" autocomplete="current-password" required>
+            <button type="submit" id="login-button">Entrar</button>
+          </form>
+          <p class="feedback" id="login-feedback" role="status" aria-live="polite"></p>
+          <button type="button" class="text-action" data-auth-mode="link">Entrar con un enlace por correo</button>
+          <button type="button" class="text-action" data-auth-mode="recover">Olvidé mi contraseña</button>
+        </section>
+        <section data-auth-panel="register" aria-label="Crear cuenta" hidden>
+          <h2>Crear una cuenta</h2>
+          <p>Es gratuita y opcional. Te permite recuperar tus lecturas y diccionarios en otros dispositivos.</p>
+          <form id="register-form">
+            <label for="register-email">Correo electrónico</label>
+            <input id="register-email" type="email" autocomplete="email" required placeholder="tu@email.com">
+            <label for="register-password">Contraseña (mínimo 8 caracteres)</label>
+            <input id="register-password" type="password" autocomplete="new-password" minlength="8" required>
+            <label for="register-confirm">Repetir contraseña</label>
+            <input id="register-confirm" type="password" autocomplete="new-password" minlength="8" required>
+            <button type="submit" id="register-button">Crear mi cuenta</button>
+          </form>
+          <p class="feedback" id="register-feedback" role="status" aria-live="polite"></p>
+        </section>
+        <section data-auth-panel="link" aria-label="Acceso sin contraseña" hidden>
+          <h2>Acceder sin contraseña</h2>
+          <p>Te enviamos un enlace de un solo uso a tu correo.</p>
+          <form id="link-form">
+            <label for="link-email">Correo electrónico</label>
+            <input id="link-email" type="email" autocomplete="email" required placeholder="tu@email.com">
+            <button type="submit" id="link-button">Enviar enlace</button>
+          </form>
+          <p class="feedback" id="link-feedback" role="status" aria-live="polite"></p>
+          <button type="button" class="text-action" data-auth-mode="login">Volver a iniciar sesión</button>
+        </section>
+        <section data-auth-panel="recover" aria-label="Recuperar contraseña" hidden>
+          <h2>Recuperar contraseña</h2>
+          <p>Te mandamos un enlace para establecer una contraseña nueva.</p>
+          <form id="recover-form">
+            <label for="recover-email">Correo electrónico</label>
+            <input id="recover-email" type="email" autocomplete="email" required placeholder="tu@email.com">
+            <button type="submit" id="recover-button">Enviar instrucciones</button>
+          </form>
+          <p class="feedback" id="recover-feedback" role="status" aria-live="polite"></p>
+          <button type="button" class="text-action" data-auth-mode="login">Volver a iniciar sesión</button>
+        </section>
       </div>
       <div data-account-signed-in hidden>
         <h2>Sesión iniciada</h2>
@@ -42,17 +88,28 @@
           <button type="button" id="logout-button" class="secondary">Cerrar sesión</button>
         </div>
       </div>
+      <section id="reset-panel" aria-label="Elegir nueva contraseña" hidden>
+        <h2>Elegí tu nueva contraseña</h2>
+        <form id="reset-form">
+          <label for="reset-password">Contraseña (mínimo 8 caracteres)</label>
+          <input id="reset-password" type="password" autocomplete="new-password" minlength="8" required>
+          <label for="reset-confirm">Repetir contraseña</label>
+          <input id="reset-confirm" type="password" autocomplete="new-password" minlength="8" required>
+          <button type="submit" id="reset-button">Guardar contraseña</button>
+        </form>
+        <p class="feedback" id="reset-feedback" role="status" aria-live="polite"></p>
+      </section>
     </section>
     <section class="below">
       <h2>¿Qué se sincroniza?</h2>
-      <p>Tu diccionario de latín, el de griego, el registro diario de minutos y la última posición de lectura registrada en cada obra.</p>
+      <p>Tu diccionario de latín, el de griego, tus resaltados, el registro diario de minutos y la última posición de lectura registrada en cada obra.</p>
       <p>La primera vez que entres, comenzás con una cuenta vacía. Los datos que hayas acumulado antes en un navegador no se importan automáticamente.</p>
       <p><strong>Podés leer sin cuenta.</strong> El contenido de la biblioteca sigue abierto. Tu actividad personal no se publica ni se comparte con otros lectores.</p>
       <p class="small">Al iniciar sesión, los datos personales se guardan en Supabase y se asocian a tu correo. La sesión se mantiene en este navegador hasta que cierres sesión. Para eliminar tu cuenta y sus datos, contactá al administrador del proyecto.</p>
     </section>
     <div class="bottom-links"><a href="./mis-lecturas.html">Mis lecturas ↗</a><a href="./mis-highlights.html">Mis highlights ↗</a><a href="./index.html">Biblioteca ↗</a></div>
   </main>
-  <script type="module" src="./account-sync.js?v=2"></script>
-  <script type="module" src="./account-page.js?v=1"></script>
+  <script type="module" src="./account-sync.js?v=3"></script>
+  <script type="module" src="./account-page.js?v=2"></script>
 </body>
 </html>
