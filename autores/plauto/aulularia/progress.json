@@ -174,7 +174,7 @@
     "reviewed_through_verse": 83,
     "next_verse": 84,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 79–83: 37 fichas auditadas; corregido quaesti como dativo arcaico de finalidad, con furibus dativo de interés (doble dativo).",
+    "note": "I.2 79–83: 36 fichas auditadas; corregido quaesti como dativo arcaico de finalidad, con furibus dativo de interés (doble dativo).",
     "checked_structure": [
       {
         "section": "prologue",
@@ -378,7 +378,7 @@
         "from": 79,
         "to": 83,
         "status": "morphology_revised",
-        "tokens": 37,
+        "tokens": 36,
         "sources": [
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
