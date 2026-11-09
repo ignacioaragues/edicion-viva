@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 88; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 93; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 88,
-    "next_verse": 89,
+    "reviewed_through_verse": 93,
+    "next_verse": 94,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 84–88: segunda pasada de 33 tokens; precisadas perífrasis de estado sunt oppletae, quin con mirum, vocativo trivenefica y función de quod di dant.",
+    "note": "I.2 89–93: auditoría individual de 39 tokens; aclarados abi intro, quod eventual, genitivo partitivo causae, relativo quod y futuro pasivo extinguere. Texto y localizadores intactos.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -397,6 +397,18 @@
           "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/"
         ],
         "note": "Análisis revisados sin alterar texto, traducción ni IDs."
+      },
+      {
+        "section": "I.2",
+        "from": 89,
+        "to": 93,
+        "status": "morphology_revised",
+        "tokens": 39,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
+        ],
+        "note": "Cotejo de los cinco versos y todas sus fichas; precisión del valor amenazante del futuro pasivo extinguere."
       }
     ]
   },
