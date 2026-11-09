@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 113; edición principal hasta II.2 195; siguiente verso inédito 196.",
+  "editorial_note": "Segunda pasada hasta I.2 118; edición principal hasta II.2 195; siguiente verso inédito 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 113,
-    "next_verse": 114,
+    "reviewed_through_verse": 118,
+    "next_verse": 119,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 109–113: segunda pasada de 36 fichas; precisadas la apódosis potencial suspicentur, el giro veri simile, el valor de quin con subjuntivo, cum con indicativo concesivo y omnis acusativo plural en -is. Cotejo con Leo 1895/LateinLex y Scaife; aparato crítico no consultado. Sin nuevos versos.",
+    "note": "I.2 114–118: segunda revisión de 34 fichas; precisados videntur + infinitivo, benignius con salutant, ut interrogativo indirecto, y valor medio/recíproco de copulantur dexteras (lectura sintáctica pendiente de comentario crítico). Cotejo Leo 1895/LateinLex y The Latin Library. Sin nuevos versos.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -456,6 +456,18 @@
           "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/"
         ],
         "note": "Auditoría de todas las fichas y cinco precisiones en el lector. Sin versos nuevos; pendiente cotejo del aparato crítico."
+      },
+      {
+        "section": "I.2",
+        "from": 114,
+        "to": 118,
+        "status": "morphology_revised",
+        "tokens": 34,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Cinco fichas precisadas; otras cotejadas; copulantur dexteras queda señalado para cotejo sintáctico especializado."
       }
     ]
   },
