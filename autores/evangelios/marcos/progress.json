@@ -259,5 +259,40 @@
       "status": "published_aligned_98_tokens",
       "note": "98 fichas posicionales incorporadas a morphology.js, con lemas, POS, códigos de flexión y glosas españolas para todos los lemas. Sintaxis comprobada y glosas presentes; resta cotejar griego/puntuación del lector, añadir traducción y Vulgata, notas, y validar alineación en la renderización antes de publicar."
     }
+  },
+  "prepublication_research_next": {
+    "passage": "Marcos 2,1–12",
+    "status": "research_started_not_published",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "note": "Texto griego base; cotejo integral pendiente."
+      },
+      {
+        "author": "Ezra P. Gould",
+        "title": "A Critical and Exegetical Commentary on the Gospel according to St. Mark",
+        "year": 1896,
+        "section": "Mark 2:3–4",
+        "url": "https://www.studylight.org/commentaries/eng/icc/mark-2.html",
+        "note": "Paronomasia ἀπεστέγασαν τὴν στέγην; ἐξορύξαντες y debate textual προσενέγκαι/προσεγγίσαι."
+      },
+      {
+        "author": "A. T. Robertson",
+        "title": "Word Pictures in the New Testament",
+        "section": "Mark 2:4",
+        "url": "https://www.bibliaplus.org/en/commentaries/464/robertsons-word-pictures-of-the-new-testament/mark/2/4",
+        "note": "Observaciones sobre la construcción verbal y el sustantivo κράβαττος; contrastar con la edición base."
+      }
+    ],
+    "editorial_cautions": [
+      "No inferir una estructura arquitectónica exacta del relato: los comentarios proponen reconstrucciones divergentes.",
+      "No describir a los cuatro portadores como amigos o familiares: el texto no especifica su relación.",
+      "Distinguir las variantes de 2,4 de la lectura adoptada por SBLGNT y no trasladar detalles de Lucas 5,19 al texto de Marcos."
+    ],
+    "next": "Extraer y cotejar 2,1–12 con MorphGNT 6.12; preparar fichas posicionales y glosas, traducción y Clementina; verificar antes de publicar.",
+    "date": "2026-11-09"
   }
 }
