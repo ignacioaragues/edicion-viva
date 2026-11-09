@@ -337,9 +337,10 @@
       "En 2,10–11 conservar la interrupción sintáctica del discurso y no resolver sin nota el destinatario de «para que sepan»; Boobyer plantea alternativas exegéticas.",
       "Marcos 2,1: comprobar la variante ἐν οἴκῳ («en casa») frente a εἰς οἶκον («a casa»), sin inferir propiedad ni identificar con certeza la vivienda; la lectura base debe determinarse mediante cotejo directo con SBLGNT. Robertson, Word Pictures, Mark 2:1, https://www.sermonindex.net/commentary/robertsonwp/MRK/2 ; Vincent, Word Studies, Mark 2:1, https://www.biblehub.com/commentaries/vws/mark/2.htm.",
       "Marcos 2,4: no presentar ἀπεστέγασαν y ἐξορύξαντες como dos etapas arquitectónicas demostradas: Bruce considera el participio explicativo, mientras Cambridge describe la remoción de material. El juego verbal ἀπεστέγασαν τὴν στέγην sí es observable directamente; contrastar el texto SBLGNT antes de incorporarlo a nota emergente.",
-      "Marcos 2,5: la lectura SBLGNT ἀφίενταί (presente pasivo indicativo) difiere de ἀφέωνται (perfecto) en otras tradiciones; no asignar automáticamente valor perfecto a la forma SBLGNT. El plural αὐτῶν no identifica inequívocamente a todos sus referentes."
+      "Marcos 2,5: la lectura SBLGNT ἀφίενταί (presente pasivo indicativo) difiere de ἀφέωνται (perfecto) en otras tradiciones; no asignar automáticamente valor perfecto a la forma SBLGNT. El plural αὐτῶν no identifica inequívocamente a todos sus referentes.",
+      "Marcos 2,6–7: διαλογιζόμενοι describe deliberación interior; εἰ μὴ εἷς ὁ θεός expresa excepción («sino solo Dios»), no una condicional independiente."
     ],
-    "next": "Completar 122 fichas de Marcos 2,6–12; cotejar griego SBLGNT y Vulgata, traducir y probar antes de publicar.",
+    "next": "Completar 95 fichas de Marcos 2,8–12; cotejar griego SBLGNT y Vulgata, traducir y probar antes de publicar.",
     "date": "2026-11-10",
     "morphgnt_inventory": {
       "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
@@ -359,16 +360,16 @@
         "12": 22
       },
       "total_tokens": 196,
-      "status": "Marcos 2,1–5: 74 fichas posicionales en draftChapter2 (solo preparación; no activadas)",
+      "status": "Marcos 2,1–7: 101 fichas posicionales en draftChapter2 (solo preparación; no activadas)",
       "note": "Inventario directo de las 196 filas posicionales de 2,1–12; no constituye cobertura morfológica publicada. Debe cotejarse cada token con el griego de SBLGNT y añadirse glosa contextual antes de publicar.",
       "staged_verses": {
         "chapter": 2,
         "from": 1,
-        "to": 5,
-        "token_count": 74,
+        "to": 7,
+        "token_count": 101,
         "status": "draft_only",
-        "remaining_tokens": 122,
-        "review": "Cotejo de forma, lema, POS y flexión con MorphGNT; glosas originales preparadas. Auditoría contextual integral, alineación del lector y pruebas pendientes."
+        "remaining_tokens": 95,
+        "review": "Cotejo mecánico de forma, lema, POS y flexión con MorphGNT y glosas españolas preparadas; auditoría contextual integral y pruebas pendientes."
       }
     },
     "last_research_update": "2026-11-10",
@@ -379,6 +380,13 @@
         "section": "Marcos 2,5",
         "url": "https://studybible.info/SBLGNT/Mark%202%3A5-11",
         "note": "SBLGNT presenta καὶ ἰδὼν y ἀφίενταί σου αἱ ἁμαρτίαι; las variantes de otras ediciones no deben incorporarse silenciosamente al texto base."
+      },
+      {
+        "author": "James K. Tauber (ed.)",
+        "title": "MorphGNT SBLGNT 6.12",
+        "section": "Marcos 2,6–7 (filas 020206–020207)",
+        "url": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "note": "Fuente del análisis morfológico posicional; las glosas españolas son propias y aún no se han integrado en el lector."
       }
     ]
   }
