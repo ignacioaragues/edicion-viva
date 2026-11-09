@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 98; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 103; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 98,
-    "next_verse": 99,
+    "reviewed_through_verse": 103,
+    "next_verse": 104,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 94–98: auditoría de 29 tokens; corregido fures (v. 97) como acusativo plural, sujeto de los infinitivos venisse y abstulisse; comprobados imperativos futuros dicito, gerundivo utenda, infinitivo perfecto aufugisse y ablativo absoluto me absente. Texto latino, traducción y localizadores sin cambios.",
+    "note": "I.2 99–103: cotejo individual de fichas; se precisaron la negación extendida sobre volo intro mitti, ne miseris, el sujeto ea ipsa, ne mittatur, aedis acusativo plural en -is y sis = si vis. El v. 103 conserva rótulos de personajes incorporados al campo latino; pendiente separar en futuras mejoras sin invalidar IDs.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -421,6 +421,17 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Corrección de caso de fures v.97; resto de fichas cotejadas."
+      },
+      {
+        "section": "I.2",
+        "from": 99,
+        "to": 103,
+        "status": "morphology_revised",
+        "sources": [
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
+        ],
+        "note": "Auditoría de fichas y precisiones en 99–103; no se añadió texto nuevo. Revisión del aparato crítico pendiente."
       }
     ]
   },
