@@ -5,6 +5,8 @@ import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 
 const SUPABASE_URL = 'https://nzjdlqanbclsfwwstkwi.supabase.co';
 const PUBLISHABLE_KEY = 'sb_publishable_be96IsfN-3skQErkZtOtQQ_pK0OT1Y9';
+const ACCOUNT_URL = 'https://ignacioaragues.github.io/edicion-viva/cuenta.html';
+let passwordRecoveryPending = new URLSearchParams(location.hash.slice(1)).get('type') === 'recovery';
 const client = createClient(SUPABASE_URL, PUBLISHABLE_KEY, {
   auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true }
 });
@@ -336,17 +338,41 @@ async function signOut() {
   status('Sesión cerrada · lectura pública');
 }
 async function sendLink(email) {
-  const redirect = 'https://ignacioaragues.github.io/edicion-viva/cuenta.html';
   const { error } = await client.auth.signInWithOtp({
-    email, options: { emailRedirectTo: redirect, shouldCreateUser: true }
+    email, options: { emailRedirectTo: ACCOUNT_URL, shouldCreateUser: true }
   });
   if (error) throw error;
+}
+async function createAccount(email, password) {
+  const { data, error } = await client.auth.signUp({
+    email, password, options: { emailRedirectTo: ACCOUNT_URL }
+  });
+  if (error) throw error;
+  return { confirmed: !!data.session };
+}
+async function signInWithPassword(email, password) {
+  const { error } = await client.auth.signInWithPassword({ email, password });
+  if (error) throw error;
+}
+async function recoverPassword(email) {
+  const { error } = await client.auth.resetPasswordForEmail(email, { redirectTo: ACCOUNT_URL });
+  if (error) throw error;
+}
+async function updatePassword(password) {
+  const { error } = await client.auth.updateUser({ password });
+  if (error) throw error;
+  passwordRecoveryPending = false;
+  window.dispatchEvent(new Event('edicion-viva:recovery-finished'));
 }
 async function startup() {
   const { data: { session }, error } = await client.auth.getSession();
   if (error) throw error;
   await startSession(session?.user || null);
-  client.auth.onAuthStateChange((_event, sessionNow) => {
+  client.auth.onAuthStateChange((event, sessionNow) => {
+    if (event === 'PASSWORD_RECOVERY') {
+      passwordRecoveryPending = true;
+      window.dispatchEvent(new Event('edicion-viva:recovery-started'));
+    }
     const nextUser = sessionNow?.user || null;
     // Avoid async Supabase requests inside auth callbacks.
     setTimeout(() => {
@@ -363,7 +389,9 @@ const ready = startup().catch(error => {
 });
 window.EdicionVivaAccount = {
   client, ready, get user() { return user; }, get status() { return currentStatus; },
-  signOut, sendLink, syncNow: () => synchronize(true),
+  get passwordRecoveryPending() { return passwordRecoveryPending; },
+  signOut, sendLink, createAccount, signInWithPassword, recoverPassword, updatePassword,
+  syncNow: () => synchronize(true),
   subscribe(fn) { listeners.add(fn); fn({ user, status: currentStatus }); return () => listeners.delete(fn); }
 };
 window.dispatchEvent(new Event('edicion-viva:account-ready'));
