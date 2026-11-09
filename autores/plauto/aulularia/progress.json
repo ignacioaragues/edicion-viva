@@ -305,12 +305,12 @@
         "from": 50,
         "to": 54,
         "status": "morphology_revised",
-        "tokens": 36,
+        "tokens": 34,
         "sources": [
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
-        "note": "Segunda pasada morfológica: adaxint, serviam, secum, ecfodiam y geram; notas textuales 50 y 53. Conteo de tokens sujeto a validación de correspondencia."
+        "note": "Segunda pasada morfológica: adaxint, serviam, secum, ecfodiam y geram; notas textuales 50 y 53. 34 fichas: 6 + 8 + 6 + 7 + 7, correspondientes a los versos 50–54."
       }
     ]
   },
