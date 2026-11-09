@@ -25,7 +25,7 @@ Sitio HTML/CSS/JS estático, sin instalación ni compilación. Se puede servir d
 
 ## Cuenta opcional y sincronización
 
-Edición Viva sigue siendo **pública y legible sin cuenta**. La página `cuenta.html` permite solicitar un enlace de acceso por correo mediante Supabase Auth. Quien inicie sesión puede sincronizar diccionarios, tiempo acumulado por obra/día/dispositivo y últimas posiciones registradas.
+Edición Viva sigue siendo **pública y legible sin cuenta**. La página `cuenta.html` permite **crear una cuenta con correo y contraseña**, iniciar sesión, recuperar la contraseña y, como alternativa, solicitar un enlace de acceso por correo mediante Supabase Auth. Quien inicie sesión puede sincronizar diccionarios, resaltados, tiempo acumulado por obra/día/dispositivo y últimas posiciones registradas.
 
 - Proyecto Supabase: `nzjdlqanbclsfwwstkwi` (región Singapur); frontend solo con clave **publicable**, nunca `service_role`.
 - Tablas: `public.edition_dictionary_entries` (por palabra y usuario) y `public.edition_reading_devices` (por dispositivo y usuario). Todas con RLS y políticas basadas en `auth.uid()`.
@@ -34,7 +34,7 @@ Edición Viva sigue siendo **pública y legible sin cuenta**. La página `cuenta
 - Las entradas de diccionario se sincronizan mediante detección de cambios frente a un estado base. El registro de lectura se guarda por dispositivo y se fusiona por máximos para evitar duplicar minutos.
 - El texto y los archivos de las obras nunca requieren autenticación.
 
-**Paso obligatorio antes de probar enlaces por correo:** En Supabase → Authentication → URL Configuration, establecer Site URL en `https://ignacioaragues.github.io/edicion-viva/` y añadir como URL de redirección permitida `https://ignacioaragues.github.io/edicion-viva/cuenta.html`. Es una configuración del servidor Auth, no del sitio estático; debe validarse en el panel de Supabase. No declarar la autenticación probada hasta hacer una prueba real de correo y sesión.
+**Paso obligatorio para activar confirmación de registro, recuperación de contraseña y enlaces por correo:** En Supabase → Authentication → URL Configuration, establecer Site URL en `https://ignacioaragues.github.io/edicion-viva/` y añadir como URL de redirección permitida `https://ignacioaragues.github.io/edicion-viva/cuenta.html`. Es una configuración del servidor Auth, no del sitio estático; debe validarse en el panel de Supabase. Mantener activada la confirmación de correo para las cuentas con contraseña. No declarar la autenticación probada hasta hacer una prueba real de registro, confirmación, inicio de sesión y sincronización.
 
 **Límites:** la lectura pública conserva datos solo localmente; la sincronización interdispositivos requiere iniciar sesión en cada equipo. Las posiciones se sincronizan como información del registro y su navegación exacta depende del lector. La primera integración necesita una prueba manual con dos navegadores/dispositivos.
 
