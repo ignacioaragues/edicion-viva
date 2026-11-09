@@ -218,7 +218,7 @@
         "Joel E. Lisboa y Thomas Shepherd, «Comparative Narrative Analysis as a Tool in Determining the Lectio Difficilior in Mark 1:40–45», Neotestamentica 49/1 (2015), pp. 75–89, https://digitalcommons.andrews.edu/pubs/68/ (análisis narrativo comparado de códices D, B y W; no constituye por sí solo prueba de prioridad textual)."
       ]
     },
-    "next_actions": "Cotejar SBLGNT y Clementina completos; completar MorphGNT posicional y glosas de 1,40–45; validar JS y correspondencia antes de cambiar rango y checkpoint.",
+    "next_actions": "Publicar 1,40–45 solo tras cotejar SBLGNT y Vulgata, añadir notas y traducción, comprobar alineación exacta de 98 tokens y sintaxis del lector; luego actualizar checkpoint y catálogo.",
     "last_source_review": "2026-11-09",
     "morphgnt_extraction": {
       "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
@@ -232,8 +232,8 @@
         "45": 29
       },
       "total_tokens": 98,
-      "status": "source_rows_located_not_yet_integrated_into_morphology_js",
-      "note": "Se localizaron y cotejaron las filas de MorphGNT correspondientes a Mc 1,40–45, incluidos lemas y códigos de flexión. Falta elaborar glosas españolas, alinear las formas con la puntuación exacta del lector y ejecutar pruebas antes de publicar."
+      "status": "integrated_in_morphology_js_not_yet_published",
+      "note": "98 fichas posicionales incorporadas a morphology.js, con lemas, POS, códigos de flexión y glosas españolas para todos los lemas. Sintaxis comprobada y glosas presentes; resta cotejar griego/puntuación del lector, añadir traducción y Vulgata, notas, y validar alineación en la renderización antes de publicar."
     }
   }
 }
