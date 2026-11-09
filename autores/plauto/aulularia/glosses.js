@@ -538,5 +538,9 @@ const aululariaGlosses = {
   "viso": "ir a ver, comprobar",
   "vita": "vida",
   "vivo": "vivir",
-  "volo": "querer, desear"
+  "volo": "querer, desear",
+  "noenum": "no, de ningún modo (negación arcaica)",
+  "quis, quid / qui, quae, quod": "qué, cuál (forma interrogativa)",
+  "intemperia": "desmesura, arrebato",
+  "vigilia": "vigilia, guardia nocturna"
 };
