@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.1 78; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 83; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 78,
-    "next_verse": 79,
+    "reviewed_through_verse": 83,
+    "next_verse": 84,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.1 75–78 revisados; siguiente I.2 79–83.",
+    "note": "I.2 79–83: 37 fichas auditadas; corregido quaesti como dativo arcaico de finalidad, con furibus dativo de interés (doble dativo).",
     "checked_structure": [
       {
         "section": "prologue",
@@ -372,6 +372,19 @@
           "https://reader.humanitext.ai/en/library/phi0119.phi003.humanitext-lat2/"
         ],
         "note": "Segunda pasada: probrum depende de celem (v.74), partitudo sujeto de appetit y cui dativo; longam litteram como imagen gráfica del ahorcamiento; <meum> suplemento editorial señalado en Leo. Texto y localizadores sin cambios."
+      },
+      {
+        "section": "I.2",
+        "from": 79,
+        "to": 83,
+        "status": "morphology_revised",
+        "tokens": 37,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://research-repository.st-andrews.ac.uk/handle/10023/14536"
+        ],
+        "note": "Cotejo de texto y análisis de 79–83; quaesti no es genitivo de quaestus sino dativo singular arcaico en construcción de doble dativo con furibus. No se añadieron versos."
       }
     ]
   },
