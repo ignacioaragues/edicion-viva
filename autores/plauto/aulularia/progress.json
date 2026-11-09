@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–64; siguiente I.1 v. 65. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–69; siguiente I.1 v. 70. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 64,
-    "next_verse": 65,
+    "reviewed_through_verse": 69,
+    "next_verse": 70,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 e I.1 40–64 auditados; siguiente I.1 65–69.",
+    "note": "Prólogo 1–39 e I.1 40–69 auditados; siguiente I.1 70–74.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -336,6 +336,18 @@
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
         ],
         "note": "Auditoría individual: objeto de vidisse (scelestiorem), valor intensificador de male, duit subjuntivo arcaico y locución verba dare, coordinación neu, perfecto pasivo resultativo est absconditum, relativo quae y foco de quoque. Nota filológica en v. 62. Sin versos nuevos."
+      },
+      {
+        "section": "I.1",
+        "from": 65,
+        "to": 69,
+        "status": "morphology_revised",
+        "tokens": 42,
+        "sources": [
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
+          "https://books.google.com/books/about/Plauti_comoediae.html?id=kGJtSK4-m2YC"
+        ],
+        "note": "Auditoría de fichas 65–69; se precisó noenum (negación de queo comminisci) y genitivo partitivo malae rei dependiente de quid. Consulta bibliográfica de Leo 1895; aparato no examinado directamente. Sin nuevos versos."
       }
     ]
   },
