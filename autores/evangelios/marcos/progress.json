@@ -80,7 +80,7 @@
   "last_edit": "2026-11-09",
   "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes.",
   "review_tracking": {
-    "next_review": "Marcos 1,40–45: segunda revisión independiente de 1,40 y 1,42–43; auditoría morfológica contextual 1,1–45 pendiente",
+    "next_review": "Marcos 1,42–43: segunda revisión independiente; auditoría morfológica contextual 1,1–45 pendiente",
     "reviewed": [
       {
         "chapter": 1,
@@ -196,12 +196,13 @@
         "from": 40,
         "to": 45,
         "kind": "bibliographic_textual_second_pass",
-        "status": "in_progress_verses_41_44_45_notes_expanded",
+        "status": "in_progress_verses_40_41_44_45_notes_expanded",
         "references": [
           "Kirsopp Lake, 'Ἐμβριμησάμενος and Ὀργισθείς, Mark 1,40–43', Harvard Theological Review 16/2 (1923), 197–198, https://doi.org/10.1017/S0017816000013663",
           "Tomasz B. Bąk, Verbum Vitae 34 (2018), https://doi.org/10.31743/vv.2018.34.09",
           "A. B. Bruce, Expositor's Greek Testament, Mark 1:44; Cambridge Bible for Schools and Colleges, Mark 1:44, https://biblehub.com/commentaries/mark/1-44.htm (contrasting interpretations of εἰς μαρτύριον αὐτοῖς)",
-          "Cambridge Greek Testament for Schools and Colleges, Mark 1:45, https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/1/45; A. B. Bruce, Expositor's Greek Testament, Mark 1:45, https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/1/45"
+          "Cambridge Greek Testament for Schools and Colleges, Mark 1:45, https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/1/45; A. B. Bruce, Expositor's Greek Testament, Mark 1:45, https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/1/45",
+          "Jean-Claude Haelewyck, The Healing of a Leper (Mark 1,40–45): A Textual Commentary, Ephemerides Theologicae Lovanienses 89/1 (2013), 15–36, DOI:10.2143/ETL.89.1.2985320 (variants in 1,40)"
         ]
       }
     ],
