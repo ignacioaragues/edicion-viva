@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–54; siguiente I.1 v. 55. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–59; siguiente I.1 v. 60. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 54,
-    "next_verse": 55,
+    "reviewed_through_verse": 59,
+    "next_verse": 60,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 e I.1 40–54 auditados; próxima revisión I.1 55–59.",
+    "note": "Prólogo 1–39 e I.1 40–59 auditados; próxima revisión I.1 60–64.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -311,6 +311,19 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Segunda pasada morfológica: adaxint, serviam, secum, ecfodiam y geram; notas textuales 50 y 53. 34 fichas: 6 + 8 + 6 + 7 + 7, correspondientes a los versos 50–54."
+      },
+      {
+        "section": "I.1",
+        "from": 55,
+        "to": 59,
+        "status": "morphology_revised",
+        "tokens": 35,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://research-repository.st-andrews.ac.uk/handle/10023/14536"
+        ],
+        "note": "Auditoría individual de 35 tokens; precisiones en astato, istoc, transvorsum, respexis y discipulam; notas sobre deixis y amenaza cómica."
       }
     ]
   },
