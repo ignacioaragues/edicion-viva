@@ -203,5 +203,19 @@
     "verified": "603/603 published Greek tokens aligned with lemma, POS, parse and Spanish lemma gloss; JS syntax validated.",
     "editorial_review": "pending_contextual_verification",
     "next": "Extend morphology.js with complete per-token annotations before publishing each later Greek fragment; revise earlier lexical details in subsequent editorial rounds."
+  },
+  "prepublication_research": {
+    "passage": "Marcos 1,40–45",
+    "status": "sources_checked_text_and_morphology_not_yet_published",
+    "textual_variant_1_41": {
+      "base": "ὀργισθείς (SBLGNT)",
+      "alternative": "σπλαγχνισθείς (mayoría de testigos griegos; NA28)",
+      "editorial_note": "El objeto del enojo no está explicitado. La lectura más difícil no basta por sí sola para decidir originalidad; el testimonio externo es desigual. Conservar ὀργισθείς en texto y documentar ambas posturas en nota al publicar 1,41.",
+      "references": [
+        "Tomasz B. Bąk, Was Jesus Moved by Compassion or Overwhelmed with Anger?, Verbum Vitae 34 (2018), DOI:10.31743/vv.2018.34.09 (defiende ὀργισθείς)",
+        "Nathan C. Johnson, Anger Issues: Mark 1.41 in Ephrem the Syrian, the Old Latin Gospels and Codex Bezae, New Testament Studies 63 (2017), https://www.cambridge.org/core/journals/new-testament-studies/article/abs/anger-issues-mark-141-in-ephrem-the-syrian-the-old-latin-gospels-and-codex-bezae/2000B008216E68452F69AF345A0BFD21 (defiende σπλαγχνισθείς)"
+      ]
+    },
+    "next_actions": "Cotejar SBLGNT y Clementina completos; completar MorphGNT posicional y glosas de 1,40–45; validar JS y correspondencia antes de cambiar rango y checkpoint."
   }
 }
