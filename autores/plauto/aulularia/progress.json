@@ -154,12 +154,20 @@
       "verses": 5,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo The Latin Library, 2026-11-08"
+    },
+    {
+      "section": "II.2",
+      "from": 196,
+      "to": 200,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo, Plauti Comoediae I (1895), Perseus; cotejo The Latin Library, 2026-11-09"
     }
   ],
   "pending": [
     {
       "section": "II.2",
-      "from": 196
+      "from": 201
     },
     {
       "section": "later scenes",
@@ -167,14 +175,14 @@
     }
   ],
   "updated": "2026-11-09",
-  "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 118; edición principal hasta II.2 195; siguiente verso inédito 196.",
+  "next": "II.2 desde el verso 201",
+  "editorial_note": "Se reparó la pantalla vacía causada por cuatro lemas sin glosa; glosas completadas en glosses.js (commits 270b3f7 y b89554d). Añadidos II.2 vv.196–200 con 44 fichas y glosas contextuales. Sin prueba de navegador ni Pages.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 118,
-    "next_verse": 119,
+    "reviewed_through_verse": 119,
+    "next_verse": 120,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 114–118: segunda revisión de 34 fichas; precisados videntur + infinitivo, benignius con salutant, ut interrogativo indirecto, y valor medio/recíproco de copulantur dexteras (lectura sintáctica pendiente de comentario crítico). Cotejo Leo 1895/LateinLex y The Latin Library. Sin nuevos versos.",
+    "note": "I.2 v.119: seis fichas revisadas y ambigüedad formal de recipiam registrada. Próxima revisión II.1 desde v.120.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -468,6 +476,18 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Cinco fichas precisadas; otras cotejadas; copulantur dexteras queda señalado para cotejo sintáctico especializado."
+      },
+      {
+        "section": "I.2",
+        "from": 119,
+        "to": 119,
+        "status": "morphology_revised",
+        "tokens": 6,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Cotejados me, rursum, quantum, potero, tantum y recipiam. Recipiam es futuro indicativo por correlación con potero, aunque formalmente coincide con subjuntivo presente; me recipere tiene valor de regresar. Sin cambios en la forma ni los IDs."
       }
     ]
   },
