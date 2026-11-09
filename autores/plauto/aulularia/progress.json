@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 83; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 88; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 83,
-    "next_verse": 84,
+    "reviewed_through_verse": 88,
+    "next_verse": 89,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 79–83: 36 fichas auditadas; corregido quaesti como dativo arcaico de finalidad, con furibus dativo de interés (doble dativo).",
+    "note": "I.2 84–88: segunda pasada de 33 tokens; precisadas perífrasis de estado sunt oppletae, quin con mirum, vocativo trivenefica y función de quod di dant.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -385,6 +385,18 @@
           "https://research-repository.st-andrews.ac.uk/handle/10023/14536"
         ],
         "note": "Cotejo de texto y análisis de 79–83; quaesti no es genitivo de quaestus sino dativo singular arcaico en construcción de doble dativo con furibus. No se añadieron versos."
+      },
+      {
+        "section": "I.2",
+        "from": 84,
+        "to": 88,
+        "status": "morphology_revised",
+        "tokens": 33,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/"
+        ],
+        "note": "Análisis revisados sin alterar texto, traducción ni IDs."
       }
     ]
   },
