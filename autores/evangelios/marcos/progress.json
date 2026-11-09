@@ -219,6 +219,21 @@
       ]
     },
     "next_actions": "Cotejar SBLGNT y Clementina completos; completar MorphGNT posicional y glosas de 1,40–45; validar JS y correspondencia antes de cambiar rango y checkpoint.",
-    "last_source_review": "2026-11-09"
+    "last_source_review": "2026-11-09",
+    "morphgnt_extraction": {
+      "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "source_version": "MorphGNT SBLGNT 6.12",
+      "verse_token_counts": {
+        "40": 17,
+        "41": 12,
+        "42": 9,
+        "43": 6,
+        "44": 25,
+        "45": 29
+      },
+      "total_tokens": 98,
+      "status": "source_rows_located_not_yet_integrated_into_morphology_js",
+      "note": "Se localizaron y cotejaron las filas de MorphGNT correspondientes a Mc 1,40–45, incluidos lemas y códigos de flexión. Falta elaborar glosas españolas, alinear las formas con la puntuación exacta del lector y ejecutar pruebas antes de publicar."
+    }
   }
 }
