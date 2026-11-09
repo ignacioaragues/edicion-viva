@@ -85,7 +85,7 @@ const verses = [
       ['Tibi','tu','pronombre personal; dativo singular'],
       ['ego','ego','pronombre personal; nominativo singular'],
       ['rationem','ratio','sustantivo femenino; acusativo singular'],
-      ['reddam','reddo','verbo; futuro imperfecto de indicativo, voz activa, 1.ª persona singular'],
+      ['reddam','reddo','verbo; 1.ª persona singular, voz activa: futuro de indicativo o presente de subjuntivo (formas homógrafas); aquí pregunta retórica de valor prospectivo'],
       ['stimulorum','stimulus','sustantivo masculino; genitivo plural'],
       ['seges','seges','sustantivo femenino; vocativo singular (metáfora insultante)']
     ]
@@ -99,7 +99,7 @@ const verses = [
       ['ab','ab','preposición con ablativo'],
       ['ostio','ostium','sustantivo neutro; ablativo singular'],
       ['illuc','illuc','adverbio de dirección: hacia allá'],
-      ['sis','si vis','expresión coloquial de cortesía: «si quieres»; no es sum, sis'],
+      ['sis','si vis','contracción coloquial de si vis («si quieres»), fórmula de cortesía; no es una forma de sum'],
       ['vide','video','verbo; imperativo presente, voz activa, 2.ª persona singular']
     ]
   },
