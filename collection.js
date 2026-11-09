@@ -191,52 +191,133 @@ const collection = [
 ];
 
 const list = document.querySelector('#library-list');
-if (list) {
-  list.replaceChildren();
+const viewButtons = document.querySelectorAll('[data-library-view]');
+
+function isAvailable(item) {
+  return item.status === 'available' && Boolean(item.url);
+}
+
+function titleOf(item) {
+  // En los evangelios, el nombre reconocible en español encabeza la ficha.
+  return item.period === 'TEXTOS BÍBLICOS' ? item.translated : item.work;
+}
+
+function subtitleOf(item) {
+  const subtitle = item.period === 'TEXTOS BÍBLICOS' ? item.work : item.translated;
+  return subtitle && subtitle !== titleOf(item) ? subtitle : '';
+}
+
+function authorGroupOf(item) {
+  // El catálogo agrupa los evangelios como corpus, sin atribuirles una autoría segura.
+  return item.period === 'TEXTOS BÍBLICOS' ? 'Evangelios' : item.author;
+}
+
+function makeElement(tag, className, value) {
+  const element = document.createElement(tag);
+  if (className) element.className = className;
+  if (value !== undefined) element.textContent = value;
+  return element;
+}
+
+function makeNumber(index) {
+  return makeElement('span', 'library-number', String(index + 1).padStart(2, '0'));
+}
+
+function renderWorks() {
   collection.forEach((item, index) => {
-    const available = item.status === 'available' && item.url;
+    const available = isAvailable(item);
     const row = document.createElement(available ? 'a' : 'div');
-    row.className = 'library-row' + (available ? ' library-row-active' : ' library-row-future');
+    row.className = 'library-row ' + (available ? 'library-row-active' : 'library-row-future');
     if (available) {
       row.href = item.url;
-      row.setAttribute('aria-label', `${item.author}: ${item.work}. Entrar en la edición`);
+      row.setAttribute('aria-label', `${titleOf(item)}. Entrar en la edición`);
     }
 
-    const number = document.createElement('span');
-    number.className = 'library-number';
-    number.textContent = String(index + 1).padStart(2, '0');
+    const identity = makeElement('div', 'library-identity');
+    const overline = makeElement('span', 'library-overline', item.period);
+    const title = makeElement('h3', '', titleOf(item));
+    const byline = makeElement('p', 'library-byline');
+    if (item.period !== 'TEXTOS BÍBLICOS') {
+      byline.append(makeElement('span', 'library-work-author', item.author));
+    }
+    if (subtitleOf(item)) {
+      if (byline.childNodes.length) byline.append(document.createTextNode(' · '));
+      byline.append(makeElement('em', 'library-work-translation', subtitleOf(item)));
+    }
+    identity.append(overline, title, byline);
 
-    const identity = document.createElement('div');
-    identity.className = 'library-identity';
-    const overline = document.createElement('span');
-    overline.className = 'library-overline';
-    overline.textContent = item.period;
-    const name = document.createElement('h3');
-    name.textContent = item.author;
-    const work = document.createElement('p');
-    work.innerHTML = `<em>${escapeHtml(item.work)}</em> <span>· ${escapeHtml(item.translated)}</span>`;
-    identity.append(overline, name, work);
-
-    const meta = document.createElement('div');
-    meta.className = 'library-meta';
-    const lang = document.createElement('span');
-    lang.className = 'library-lang';
-    lang.textContent = item.language;
-    const status = document.createElement('span');
-    status.className = 'library-status' + (available ? ' is-live' : '');
-    status.textContent = item.detail;
-    meta.append(lang, status);
-
-    const arrow = document.createElement('span');
-    arrow.className = 'library-arrow';
+    const meta = makeElement('div', 'library-meta');
+    meta.append(
+      makeElement('span', 'library-lang', item.language),
+      makeElement('span', 'library-status' + (available ? ' is-live' : ''), item.detail)
+    );
+    const arrow = makeElement('span', 'library-arrow', available ? '→' : '—');
     arrow.setAttribute('aria-hidden', 'true');
-    arrow.textContent = available ? '→' : '—';
-
-    row.append(number, identity, meta, arrow);
+    row.append(makeNumber(index), identity, meta, arrow);
     list.append(row);
   });
 }
 
-function escapeHtml(value) {
-  return String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+function renderAuthors() {
+  const groups = new Map();
+  collection.forEach(item => {
+    const name = authorGroupOf(item);
+    if (!groups.has(name)) groups.set(name, []);
+    groups.get(name).push(item);
+  });
+
+  const sorted = [...groups].sort(([a], [b]) => a.localeCompare(b, 'es', { sensitivity: 'base' }));
+  sorted.forEach(([author, works], index) => {
+    const row = makeElement('div', 'library-author-row');
+    const identity = makeElement('div', 'library-identity library-author-identity');
+    identity.append(
+      makeElement('span', 'library-overline', works.length === 1 ? '1 OBRA EN CATÁLOGO' : `${works.length} OBRAS EN CATÁLOGO`),
+      makeElement('h3', '', author)
+    );
+    const availableCount = works.filter(isAvailable).length;
+    const availableLabel = availableCount === 1 ? '1 edición disponible' : `${availableCount} ediciones disponibles`;
+    identity.append(makeElement('p', 'library-author-count', availableLabel));
+
+    const workList = makeElement('div', 'library-author-works');
+    works.forEach(item => {
+      const available = isAvailable(item);
+      const work = makeElement(available ? 'a' : 'div',
+        'library-author-work ' + (available ? 'is-available' : 'is-future'));
+      if (available) {
+        work.href = item.url;
+        work.setAttribute('aria-label', `${titleOf(item)}. Entrar en la edición`);
+      }
+      const main = makeElement('span', 'library-author-work-main');
+      main.append(makeElement('span', 'library-author-work-title', titleOf(item)));
+      if (subtitleOf(item)) main.append(makeElement('span', 'library-author-work-subtitle', subtitleOf(item)));
+      const detail = makeElement('span', 'library-author-work-detail',
+        `${item.language} · ${available ? 'Edición disponible' : 'En consideración'}`);
+      const arrow = makeElement('span', 'library-author-work-arrow', available ? '→' : '—');
+      arrow.setAttribute('aria-hidden', 'true');
+      work.append(main, detail, arrow);
+      workList.append(work);
+    });
+
+    row.append(makeNumber(index), identity, workList);
+    list.append(row);
+  });
 }
+
+function setLibraryView(view) {
+  if (!list) return;
+  const selected = view === 'authors' ? 'authors' : 'works';
+  viewButtons.forEach(button => {
+    const active = button.dataset.libraryView === selected;
+    button.setAttribute('aria-pressed', String(active));
+  });
+  list.dataset.view = selected;
+  list.setAttribute('aria-label', selected === 'works' ? 'Catálogo de obras' : 'Catálogo por autores');
+  list.replaceChildren();
+  if (selected === 'authors') renderAuthors();
+  else renderWorks();
+}
+
+viewButtons.forEach(button => {
+  button.addEventListener('click', () => setLibraryView(button.dataset.libraryView));
+});
+setLibraryView('works');
