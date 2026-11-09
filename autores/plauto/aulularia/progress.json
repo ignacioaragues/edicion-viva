@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–69; siguiente I.1 v. 70. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.1 74; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 69,
-    "next_verse": 70,
+    "reviewed_through_verse": 74,
+    "next_verse": 75,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 e I.1 40–69 auditados; siguiente I.1 70–74.",
+    "note": "I.1 70–74 auditados; siguiente I.1 75–78.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -348,6 +348,18 @@
           "https://books.google.com/books/about/Plauti_comoediae.html?id=kGJtSK4-m2YC"
         ],
         "note": "Auditoría de fichas 65–69; se precisó noenum (negación de queo comminisci) y genitivo partitivo malae rei dependiente de quid. Consulta bibliográfica de Leo 1895; aparato no examinado directamente. Sin nuevos versos."
+      },
+      {
+        "section": "I.1",
+        "from": 70,
+        "to": 74,
+        "status": "morphology_revised",
+        "tokens": 33,
+        "sources": [
+          "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A73-146",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
+        ],
+        "note": "Segunda pasada de cinco versos: corrección de intemperiae a lema intemperia (primera declinación); interrogativa indirecta quae ... tenent, variante illunc, valor iterativo decies saepe, y dependencia de filiae respecto de probrum en v. 75. Aparato crítico no consultado."
       }
     ]
   },
