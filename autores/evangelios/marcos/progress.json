@@ -210,12 +210,15 @@
     "textual_variant_1_41": {
       "base": "ὀργισθείς (SBLGNT)",
       "alternative": "σπλαγχνισθείς (mayoría de testigos griegos; NA28)",
-      "editorial_note": "El objeto del enojo no está explicitado. La lectura más difícil no basta por sí sola para decidir originalidad; el testimonio externo es desigual. Conservar ὀργισθείς en texto y documentar ambas posturas en nota al publicar 1,41.",
+      "editorial_note": "El objeto del enojo no está explicitado. La lectura más difícil no basta por sí sola para decidir originalidad; el testimonio externo es desigual. Conservar ὀργισθείς en texto y documentar ambas posturas en nota al publicar 1,41. Lorenz (2016) advierte que varios testigos favorables a «enojado» pueden depender de una tradición latina localizada: contar manuscritos no equivale a contar líneas independientes de transmisión. Lisboa y Shepherd (2015) proponen una comparación narrativa de D, B y W que favorece la lectura del códice B. Evitar presentar lectio difficilior como regla mecánica.",
       "references": [
         "Tomasz B. Bąk, Was Jesus Moved by Compassion or Overwhelmed with Anger?, Verbum Vitae 34 (2018), DOI:10.31743/vv.2018.34.09 (defiende ὀργισθείς)",
-        "Nathan C. Johnson, Anger Issues: Mark 1.41 in Ephrem the Syrian, the Old Latin Gospels and Codex Bezae, New Testament Studies 63 (2017), https://www.cambridge.org/core/journals/new-testament-studies/article/abs/anger-issues-mark-141-in-ephrem-the-syrian-the-old-latin-gospels-and-codex-bezae/2000B008216E68452F69AF345A0BFD21 (defiende σπλαγχνισθείς)"
+        "Nathan C. Johnson, Anger Issues: Mark 1.41 in Ephrem the Syrian, the Old Latin Gospels and Codex Bezae, New Testament Studies 63 (2017), https://www.cambridge.org/core/journals/new-testament-studies/article/abs/anger-issues-mark-141-in-ephrem-the-syrian-the-old-latin-gospels-and-codex-bezae/2000B008216E68452F69AF345A0BFD21 (defiende σπλαγχνισθείς)",
+        "Peter E. Lorenz, «Counting Witnesses for the Angry Jesus in Mark 1:41: Interdependence and Insularity in the Latin Tradition», Tyndale Bulletin 67/2 (2016), DOI:10.53751/001c.29416 (cuestiona independencia geográfica y textual de los testigos latinos de ὀργισθείς).",
+        "Joel E. Lisboa y Thomas Shepherd, «Comparative Narrative Analysis as a Tool in Determining the Lectio Difficilior in Mark 1:40–45», Neotestamentica 49/1 (2015), pp. 75–89, https://digitalcommons.andrews.edu/pubs/68/ (análisis narrativo comparado de códices D, B y W; no constituye por sí solo prueba de prioridad textual)."
       ]
     },
-    "next_actions": "Cotejar SBLGNT y Clementina completos; completar MorphGNT posicional y glosas de 1,40–45; validar JS y correspondencia antes de cambiar rango y checkpoint."
+    "next_actions": "Cotejar SBLGNT y Clementina completos; completar MorphGNT posicional y glosas de 1,40–45; validar JS y correspondencia antes de cambiar rango y checkpoint.",
+    "last_source_review": "2026-11-09"
   }
 }
