@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 108; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 113; edición principal hasta II.2 195; siguiente verso inédito 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 108,
-    "next_verse": 109,
+    "reviewed_through_verse": 113,
+    "next_verse": 114,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 104–108: revisión individual de las 38 fichas; precisadas la sustantivación de noster (107), la oración de infinitivo dividere dependiente de dixit (108) y el genitivo de materia argenti. Cotejo Leo 1895/LateinLex y The Latin Library. Sin versos nuevos.",
+    "note": "I.2 109–113: segunda pasada de 36 fichas; precisadas la apódosis potencial suspicentur, el giro veri simile, el valor de quin con subjuntivo, cum con indicativo concesivo y omnis acusativo plural en -is. Cotejo con Leo 1895/LateinLex y Scaife; aparato crítico no consultado. Sin nuevos versos.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -444,6 +444,18 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Segunda pasada de fichas; tres precisiones sintácticas 107–108; sin alteración de texto ni IDs."
+      },
+      {
+        "section": "I.2",
+        "from": 109,
+        "to": 113,
+        "status": "morphology_revised",
+        "tokens": 36,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/"
+        ],
+        "note": "Auditoría de todas las fichas y cinco precisiones en el lector. Sin versos nuevos; pendiente cotejo del aparato crítico."
       }
     ]
   },
