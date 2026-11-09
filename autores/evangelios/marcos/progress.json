@@ -314,6 +314,20 @@
         "section": "Mark 2:1",
         "url": "https://www.biblehub.com/commentaries/vws/mark/2.htm",
         "note": "Observa la fórmula de noticia ἠκούσθη y la variación preposicional; cotejo con SBLGNT pendiente."
+      },
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: The Gospel according to St Mark",
+        "section": "Mark 2:4",
+        "url": "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/2/4",
+        "note": "El comentario distingue προσενέγκαι de προσεγγίσαι y explica la paronomasia ἀπεστέγασαν τὴν στέγην; considera que ἐξορύξαντες expresa la remoción del material de la cubierta. Las hipótesis sobre escaleras y estructura de la vivienda no son hechos constatados del pasaje."
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 2:4",
+        "url": "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/2/4",
+        "note": "Frente a una lectura secuencial estricta de los verbos, Bruce interpreta ἐξορύξαντες como explicación del modo de destechar; propone varias ubicaciones posibles de Jesús dentro de la vivienda sin resolverlas."
       }
     ],
     "editorial_cautions": [
@@ -321,7 +335,8 @@
       "No describir a los cuatro portadores como amigos o familiares: el texto no especifica su relación.",
       "Distinguir las variantes de 2,4 de la lectura adoptada por SBLGNT y no trasladar detalles de Lucas 5,19 al texto de Marcos.",
       "En 2,10–11 conservar la interrupción sintáctica del discurso y no resolver sin nota el destinatario de «para que sepan»; Boobyer plantea alternativas exegéticas.",
-      "Marcos 2,1: comprobar la variante ἐν οἴκῳ («en casa») frente a εἰς οἶκον («a casa»), sin inferir propiedad ni identificar con certeza la vivienda; la lectura base debe determinarse mediante cotejo directo con SBLGNT. Robertson, Word Pictures, Mark 2:1, https://www.sermonindex.net/commentary/robertsonwp/MRK/2 ; Vincent, Word Studies, Mark 2:1, https://www.biblehub.com/commentaries/vws/mark/2.htm."
+      "Marcos 2,1: comprobar la variante ἐν οἴκῳ («en casa») frente a εἰς οἶκον («a casa»), sin inferir propiedad ni identificar con certeza la vivienda; la lectura base debe determinarse mediante cotejo directo con SBLGNT. Robertson, Word Pictures, Mark 2:1, https://www.sermonindex.net/commentary/robertsonwp/MRK/2 ; Vincent, Word Studies, Mark 2:1, https://www.biblehub.com/commentaries/vws/mark/2.htm.",
+      "Marcos 2,4: no presentar ἀπεστέγασαν y ἐξορύξαντες como dos etapas arquitectónicas demostradas: Bruce considera el participio explicativo, mientras Cambridge describe la remoción de material. El juego verbal ἀπεστέγασαν τὴν στέγην sí es observable directamente; contrastar el texto SBLGNT antes de incorporarlo a nota emergente."
     ],
     "next": "Preparar 196 fichas posicionales con glosas y alineación SBLGNT; redactar traducción y Vulgata, y validar JS y renderización antes de publicar.",
     "date": "2026-11-10",
