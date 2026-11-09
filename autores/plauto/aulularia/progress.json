@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–44; siguiente I.1 v. 45. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–49; siguiente I.1 v. 50. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 44,
-    "next_verse": 45,
+    "reviewed_through_verse": 49,
+    "next_verse": 50,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 y I.1 40–44 auditados. I.1: emissiciis (ablativo plural de emissicius), dignam (predicativo de te), qua causa (interrogativo ablativo); no se alteraron IDs ni estructura DOM.",
+    "note": "Prólogo 1–39 e I.1 40–49 auditados; próxima revisión I.1 50–54.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -287,6 +287,18 @@
           "https://research-repository.st-andrews.ac.uk/handle/10023/14536"
         ],
         "note": "Revisión de fichas y lectura sintáctica; cotejo de texto digital y referencia a comentario de Joanne Walker (2005)."
+      },
+      {
+        "section": "I.1",
+        "from": 45,
+        "to": 49,
+        "status": "morphology_revised",
+        "tokens": 44,
+        "sources": [
+          "https://reader.humanitext.ai/en/library/phi0119.phi003.humanitext-lat2/",
+          "https://dcc.dickinson.edu/tr/grammar/latin/future-tense"
+        ],
+        "note": "Revisión de las fichas de I.1 45–49: reddam admite análisis morfológico de futuro indicativo o presente subjuntivo; sis es contracción coloquial de si vis. No se alteró el texto latino, traducción ni identificadores."
       }
     ]
   },
