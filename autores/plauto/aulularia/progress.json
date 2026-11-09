@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 93; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 98; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 93,
-    "next_verse": 94,
+    "reviewed_through_verse": 98,
+    "next_verse": 99,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 89–93: auditoría individual de 39 tokens; aclarados abi intro, quod eventual, genitivo partitivo causae, relativo quod y futuro pasivo extinguere. Texto y localizadores intactos.",
+    "note": "I.2 94–98: auditoría de 29 tokens; corregido fures (v. 97) como acusativo plural, sujeto de los infinitivos venisse y abstulisse; comprobados imperativos futuros dicito, gerundivo utenda, infinitivo perfecto aufugisse y ablativo absoluto me absente. Texto latino, traducción y localizadores sin cambios.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -409,6 +409,18 @@
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
         ],
         "note": "Cotejo de los cinco versos y todas sus fichas; precisión del valor amenazante del futuro pasivo extinguere."
+      },
+      {
+        "section": "I.2",
+        "from": 94,
+        "to": 98,
+        "status": "morphology_revised",
+        "tokens": 29,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Corrección de caso de fures v.97; resto de fichas cotejadas."
       }
     ]
   },
