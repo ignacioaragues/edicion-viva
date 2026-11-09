@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–49; siguiente I.1 v. 50. Edición principal hasta II.2 v. 195; siguiente 196.",
+  "editorial_note": "Segunda pasada: prólogo 1–39 e I.1 40–54; siguiente I.1 v. 55. Edición principal hasta II.2 v. 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 49,
-    "next_verse": 50,
+    "reviewed_through_verse": 54,
+    "next_verse": 55,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Prólogo 1–39 e I.1 40–49 auditados; próxima revisión I.1 50–54.",
+    "note": "Prólogo 1–39 e I.1 40–54 auditados; próxima revisión I.1 55–59.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -299,6 +299,18 @@
           "https://dcc.dickinson.edu/tr/grammar/latin/future-tense"
         ],
         "note": "Revisión de las fichas de I.1 45–49: reddam admite análisis morfológico de futuro indicativo o presente subjuntivo; sis es contracción coloquial de si vis. No se alteró el texto latino, traducción ni identificadores."
+      },
+      {
+        "section": "I.1",
+        "from": 50,
+        "to": 54,
+        "status": "morphology_revised",
+        "tokens": 36,
+        "sources": [
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Segunda pasada morfológica: adaxint, serviam, secum, ecfodiam y geram; notas textuales 50 y 53. Conteo de tokens sujeto a validación de correspondencia."
       }
     ]
   },
