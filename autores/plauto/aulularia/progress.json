@@ -168,13 +168,13 @@
   ],
   "updated": "2026-11-09",
   "next": "II.2 desde el verso 196",
-  "editorial_note": "Segunda pasada hasta I.2 103; edición principal hasta II.2 195; siguiente 196.",
+  "editorial_note": "Segunda pasada hasta I.2 108; edición principal hasta II.2 195; siguiente 196.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 103,
-    "next_verse": 104,
+    "reviewed_through_verse": 108,
+    "next_verse": 109,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "I.2 99–103: cotejo individual de fichas; se precisaron la negación extendida sobre volo intro mitti, ne miseris, el sujeto ea ipsa, ne mittatur, aedis acusativo plural en -is y sis = si vis. El v. 103 conserva rótulos de personajes incorporados al campo latino; pendiente separar en futuras mejoras sin invalidar IDs.",
+    "note": "I.2 104–108: revisión individual de las 38 fichas; precisadas la sustantivación de noster (107), la oración de infinitivo dividere dependiente de dixit (108) y el genitivo de materia argenti. Cotejo Leo 1895/LateinLex y The Latin Library. Sin versos nuevos.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -432,6 +432,18 @@
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul"
         ],
         "note": "Auditoría de fichas y precisiones en 99–103; no se añadió texto nuevo. Revisión del aparato crítico pendiente."
+      },
+      {
+        "section": "I.2",
+        "from": 104,
+        "to": 108,
+        "status": "morphology_revised",
+        "tokens": 38,
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Segunda pasada de fichas; tres precisiones sintácticas 107–108; sin alteración de texto ni IDs."
       }
     ]
   },
