@@ -182,7 +182,7 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "next": "II.2 desde el verso 207",
   "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente. Segunda pasada II.1 145–149: seis fichas precisadas; texto nuevo pendiente. Segunda pasada II.1 150–154: 39 fichas auditadas, sin cambios textuales; aparato impreso pendiente. Segunda pasada II.1 155–159: 39 fichas auditadas; precisado veniat como relativa de condición estipulada; aparato de Leo pendiente.",
   "morphological_second_pass": {
@@ -622,5 +622,15 @@
       "investigated_on": "2026-11-10",
       "review_status": "leo_1895_direct_text_verified; split_142_required; compatibility_migration_pending"
     }
-  ]
+  ],
+  "identifier_migration": {
+    "status": "foundation_committed_not_migrated",
+    "date": "2026-11-11",
+    "description": "El lector acepta entry.stableId independiente de entry.n; comportamiento existente sin cambios. Pendiente asignar IDs históricos y migrar offsets antes de separar 142–143 y corregir 160–161.",
+    "next_steps": [
+      "Cotejar edición Leo 142–161 y revisar entradas afectadas",
+      "Implementar mapa de localizadores históricos con offsets para 142",
+      "Validar restauración de highlights y marcadores antes de renumerar"
+    ]
+  }
 }
