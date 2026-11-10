@@ -605,5 +605,20 @@
       "editorial_review": "Glosas por lema provisionales; afinar acepciones específicas durante la revisión filológica.",
       "rule": "Todos los nuevos lemas necesitan glosa verificada antes de publicación."
     }
-  }
+  },
+  "integrity_issues": [
+    {
+      "id": "ii1-159-161-numbering-duplicate",
+      "status": "open",
+      "detected": "2026-11-10",
+      "location": "II.1, entradas 159–161",
+      "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161.",
+      "sources": [
+        "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+        "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+      ],
+      "next_action": "Cotejar exhaustivamente con Leo (1895) el tramo anterior para localizar el desplazamiento de numeración y corregir duplicación sin invalidar data-reading-id ni resaltados existentes. No marcar vv.160–164 revisados hasta resolverlo.",
+      "preserve": "No renumerar ni eliminar entradas existentes sin estrategia de compatibilidad de IDs."
+    }
+  ]
 }
