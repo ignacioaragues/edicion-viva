@@ -184,11 +184,11 @@
   ],
   "updated": "2026-11-10",
   "next": "II.2 desde el verso 207",
-  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente.",
+  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 139,
-    "next_verse": 140,
+    "reviewed_through_verse": 144,
+    "next_verse": 145,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
     "note": "II.1 125–129: revisión de 37 fichas, incluida precisión de quod (v.129) como sujeto acusativo de esse en subordinada de infinitivo dependiente de arbitremur; texto y localizadores intactos.",
     "checked_structure": [
@@ -543,6 +543,18 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Revisadas las 30 fichas de 135–139 con el texto accesible; precisados ea y quis interrogativos (136), y optuma predicativo de nulla (139). Cotejo directo del aparato de Leo pendiente; sin versos nuevos."
+      },
+      {
+        "section": "II.1",
+        "from": 140,
+        "to": 144,
+        "status": "morphology_revised",
+        "tokens": 41,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://reader.humanitext.ai/en/library/phi0119.phi003.humanitext-lat2/"
+        ],
+        "note": "Auditoría contextual de 140–144; corregidos quod y optumum en acusativo con infinitivo (143), ted e id como argumentos del supino monitum (144). Grafías advorsari, Tuast y optumum preservadas. Aparato de Leo aún pendiente. No se añadieron versos."
       }
     ]
   },
