@@ -363,7 +363,7 @@
 
   function greekContent(container, text, verse) {
     // Ninguna palabra puede quedar sin ficha: validación en tiempo de renderizado.
-    const records = verse > 100 ? externalMorphology.versesChapter2[verse - 100] : morphologyByVerse[verse];
+    const records = verse > 100 ? externalMorphology.versesChapter2.verses[verse - 100] : morphologyByVerse[verse];
     if (!records) throw new Error('Faltan fichas para Marcos 1,' + verse);
     const tokens = text.split(/(\p{L}[\p{L}\p{M}\u1fbdʼ’]*)/u);
     let i = 0;
