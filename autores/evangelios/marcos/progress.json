@@ -328,6 +328,13 @@
         "section": "Mark 2:4",
         "url": "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/2/4",
         "note": "Frente a una lectura secuencial estricta de los verbos, Bruce interpreta ἐξορύξαντες como explicación del modo de destechar; propone varias ubicaciones posibles de Jesús dentro de la vivienda sin resolverlas."
+      },
+      {
+        "author": "Ludwig-Maximilians-Universität München, Bibelstudium",
+        "title": "Die Wunder Jesu und die Wundererzählungen der Evangelien",
+        "section": "Mk 2,1–12: literarkritische Analyse",
+        "url": "https://www.bibelstudium.gwi.uni-muenchen.de/staatsexamen/neues-testament/ueberarb-repetitorium-staatsexamen-unterrichtsfach/ueberarb-die-wunder-jesu-und-die-wundererzaehlungen-der-evangelien-ngym/",
+        "note": "Presenta como hipótesis redaccional, no como hecho demostrado, que el diálogo sobre perdón de pecados fue incorporado a un relato de curación; observa la transición abrupta de 2,10–11 y admite incertidumbre sobre el inicio de una eventual inserción. Contrastar con otras explicaciones de la sintaxis antes de redactar nota emergente."
       }
     ],
     "editorial_cautions": [
@@ -340,7 +347,8 @@
       "Marcos 2,5: la lectura SBLGNT ἀφίενταί (presente pasivo indicativo) difiere de ἀφέωνται (perfecto) en otras tradiciones; no asignar automáticamente valor perfecto a la forma SBLGNT. El plural αὐτῶν no identifica inequívocamente a todos sus referentes.",
       "Marcos 2,6–7: διαλογιζόμενοι describe deliberación interior; εἰ μὴ εἷς ὁ θεός expresa excepción («sino solo Dios»), no una condicional independiente.",
       "Marcos 2,8: τῷ πνεύματι αὐτοῦ indica el ámbito de conocimiento según el relato; Cambridge añade una interpretación cristológica que no debe confundirse con información gramatical. La repetición de διαλογίζομαι enlaza las deliberaciones de los escribas con la réplica de Jesús.",
-      "Marcos 2,11–12: el triple imperativo de 2,11 (ἔγειρε, ἆρον, ὕπαγε) culmina en la salida ante todos; distinguir la reacción narrativa de la multitud de una constatación histórica independiente. La forma εἴδομεν (2,12) es primera persona plural aoristo de ὁράω."
+      "Marcos 2,11–12: el triple imperativo de 2,11 (ἔγειρε, ἆρον, ὕπαγε) culmina en la salida ante todos; distinguir la reacción narrativa de la multitud de una constatación histórica independiente. La forma εἴδομεν (2,12) es primera persona plural aoristo de ὁράω.",
+      "Marcos 2,10–11: una lectura literario-crítica de LMU München interpreta la transición como posible sutura redaccional; registrar explícitamente su carácter hipotético, sin sustituir la explicación sintáctica por una afirmación de interpolación."
     ],
     "next": "Auditar contextual y mecánicamente las 196 fichas de Marcos 2,1–12, cotejar el griego con SBLGNT y la Vulgata, preparar traducción y notas; integrar y probar antes de publicar.",
     "date": "2026-11-10",
