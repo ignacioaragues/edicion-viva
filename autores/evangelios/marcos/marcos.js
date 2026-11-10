@@ -1,4 +1,4 @@
-/* Marcos 1,1–45 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–3 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -48,9 +48,15 @@
     {"n":43,"gr":"καὶ ἐμβριμησάμενος αὐτῷ εὐθὺς ἐξέβαλεν αὐτόν,","es":"Después de advertirle severamente, lo despidió de inmediato","la":"Et comminatus est ei, statimque ejecit illum,","notes":["severidad"]},
     {"n":44,"gr":"καὶ λέγει αὐτῷ· Ὅρα μηδενὶ μηδὲν εἴπῃς, ἀλλὰ ὕπαγε σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου ἃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς.","es":"y le dijo: «Mira, no le digas nada a nadie. Ve, preséntate ante el sacerdote y ofrece por tu purificación lo que prescribió Moisés, para que les sirva de testimonio».","la":"et dicit ei: Vide nemini dixeris: sed vade, ostende te principi sacerdotum, et offer pro emundatione tua, quæ præcepit Moyses in testimonium illis.","notes":["sacerdote"]},
     {"n":45,"gr":"ὁ δὲ ἐξελθὼν ἤρξατο κηρύσσειν πολλὰ καὶ διαφημίζειν τὸν λόγον, ὥστε μηκέτι αὐτὸν δύνασθαι φανερῶς εἰς πόλιν εἰσελθεῖν, ἀλλὰ ἔξω ἐπʼ ἐρήμοις τόποις ἦν· καὶ ἤρχοντο πρὸς αὐτὸν πάντοθεν.","es":"Pero él, al salir, empezó a proclamarlo insistentemente y a divulgar la noticia, de modo que Jesús ya no podía entrar abiertamente en ninguna ciudad, sino que permanecía afuera, en lugares despoblados. Y acudían a él de todas partes.","la":"At ille egressus cœpit prædicare, et diffamare sermonem, ita ut jam non posset manifeste introire in civitatem, sed foris in desertis locis esset, et conveniebant ad eum undique.","notes":["divulgacion"]},
+    { chapter: 2, n: 1, gr: "Καὶ εἰσελθὼν πάλιν εἰς Καφαρναοὺμ δι’ ἡμερῶν ἠκούσθη ὅτι ἐν οἴκῳ ἐστίν·", es: "Cuando volvió a entrar en Cafarnaúm, al cabo de unos días, se supo que estaba en casa.", la: "Et iterum intravit Capharnaum post dies,", notes: ['mc2casa'] },
+    { chapter: 2, n: 2, gr: "καὶ συνήχθησαν πολλοὶ ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον.", es: "Se reunió tanta gente que ya no quedaba lugar, ni siquiera junto a la puerta, y él les anunciaba el mensaje.", la: "et auditum est quod in domo esset, et convenerunt multi, ita ut non caperet neque ad januam, et loquebatur eis verbum.", notes: ['mc2orden'] },
+    { chapter: 2, n: 3, gr: "καὶ ἔρχονται φέροντες πρὸς αὐτὸν παραλυτικὸν αἰρόμενον ὑπὸ τεσσάρων.", es: "Entonces llegaron unos hombres que le traían a una persona paralizada, transportada entre cuatro.", la: "Et venerunt ad eum ferentes paralyticum, qui a quatuor portabatur.", notes: ['mc2camilla'] },
   ];
 
   const notes = {
+    mc2casa: ["La noticia de la llegada", "El griego de SBLGNT lee ἐν οἴκῳ («en casa»); otras ediciones registran εἰς οἶκον («a casa»). El pasaje no identifica al dueño de la vivienda. A. T. Robertson, Word Pictures in the New Testament, comentario a Marcos 2,1: https://www.sermonindex.net/commentary/robertsonwp/MRK/2; Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,1."],
+    mc2orden: ["Orden del relato y Vulgata", "La división de versículos de la Clementina distribuye de otro modo la noticia de que Jesús estaba en casa: su «et auditum est» aparece en 2,2, mientras que SBLGNT sitúa ἠκούσθη en 2,1. Se conservan ambos textos sin armonizarlos. Textos: Holmes (ed.), SBLGNT, Mc 2,1–2, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; Vulgata Clementina, Mc 2,1–2, https://biblia.com/bible/vulgataclem/mark/2/1-12."],
+    mc2camilla: ["Cuatro portadores", "αἰρόμενον es participio presente pasivo de αἴρω: el paralítico es llevado por cuatro personas. La narración no precisa el vínculo entre ellas. Alfred Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Marcos 2,3, https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/2."],
     lepra: ["Una enfermedad de la piel","λεπρός designa a una persona afectada por una afección cutánea que la tradición bíblica agrupa bajo λέπρα; no equivale necesariamente a la enfermedad de Hansen moderna. Las normas de identificación y purificación se encuentran en Levítico 13–14. Fuente primaria: Lev 13,1–46; 14,1–32."],
     rodillas: ["La súplica de rodillas","γονυπετῶν («arrodillándose», participio presente activo) aparece en SBLGNT, pero falta en el códice Vaticano (B) y en Beza (D); este último presenta además ἐρωτῶν frente a παρακαλῶν («suplicando»). La comparación de testigos no permite atribuir automáticamente prioridad a una sola redacción. ἐὰν θέλῃς introduce una condición relativa a la voluntad, no a la capacidad. Jean-Claude Haelewyck, «The Healing of a Leper (Mark 1,40–45): A Textual Commentary», Ephemerides Theologicae Lovanienses 89/1 (2013), pp. 15–36, DOI:10.2143/ETL.89.1.2985320, https://doi.org/10.2143/ETL.89.1.2985320; cotejo de B y D: https://greeknewtestament.net/mk1-40; Michael W. Holmes (ed.), SBLGNT (2010), Mc 1,40."],
     enojo: ["Enojo o compasión: variante textual","SBLGNT lee ὀργισθεὶς («enojado»); la mayoría de los manuscritos griegos y NA28 leen σπλαγχνισθείς («movido a compasión»). La Clementina, misertus ejus, refleja compasión y no se armoniza. El texto no identifica el objeto del enojo. Bąk defiende la primera lectura (Verbum Vitae 34, 2018, DOI:10.31743/vv.2018.34.09); Johnson argumenta a favor de la segunda (New Testament Studies 63/2, 2017, pp. 183–202, DOI:10.1017/S0028688516000412). Lorenz (Tyndale Bulletin 67/2, 2016, DOI:10.53751/001c.29416) advierte sobre la posible dependencia de los testigos latinos. Kirsopp Lake (1923, Harvard Theological Review 16/2, pp. 197–198, DOI:10.1017/S0017816000013663) propuso incluso una puntuación alternativa que atribuiría el gesto airado al enfermo, no a Jesús: es una hipótesis interpretativa, no la puntuación adoptada aquí. La dificultad de una lectura no prueba por sí sola su originalidad."],
@@ -357,7 +363,7 @@
 
   function greekContent(container, text, verse) {
     // Ninguna palabra puede quedar sin ficha: validación en tiempo de renderizado.
-    const records = morphologyByVerse[verse];
+    const records = verse > 100 ? externalMorphology.versesChapter2[verse - 100] : morphologyByVerse[verse];
     if (!records) throw new Error('Faltan fichas para Marcos 1,' + verse);
     const tokens = text.split(/(\p{L}[\p{L}\p{M}\u1fbdʼ’]*)/u);
     let i = 0;
@@ -392,18 +398,19 @@
     40: ['1,40–45', 'La purificación de un enfermo'],
   };
   passages.forEach(p => {
-    if (sections[p.n]) {
+    if (p.chapter === 2 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,1–3'), makeElement('h2', '', 'Regreso a Cafarnaúm')); verses.append(section); }
+    if (p.chapter !== 2 && sections[p.n]) {
       const section = makeElement('div', 'verse-section');
       section.append(makeElement('p', '', sections[p.n][0]), makeElement('h2', '', sections[p.n][1]));
       verses.append(section);
     }
     const row = makeElement('div', 'verse');
-    row.id = `v${p.n}`;
+    row.id = p.chapter === 2 ? `v2-${p.n}` : `v${p.n}`;
     const number = makeElement('div', 'number', String(p.n));
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr, p.n);
+    greekContent(original, p.gr, p.chapter === 2 ? 100 + p.n : p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
