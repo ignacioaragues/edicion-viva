@@ -468,7 +468,7 @@ for (const entry of verses) {
   if (entry.n) lastNumber = entry.n;
   const row = document.createElement('div');
   row.className = 'verse';
-  row.id = 'v' + (entry.n || lastNumber + '-continuation');
+  row.id = entry.stableId || ('v' + (entry.n || lastNumber + '-continuation'));
   const left = document.createElement('div');
   left.className = 'latin-side';
   const num = document.createElement('span');
