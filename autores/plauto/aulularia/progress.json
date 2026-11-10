@@ -612,13 +612,15 @@
       "status": "open",
       "detected": "2026-11-10",
       "location": "II.1, entradas 159–161",
-      "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161.",
+      "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161. Análisis adicional: la entrada 140 reúne «alia alia peior, frater, est.» y «Idem ego arbitror» en una sola unidad; el testimonio numerado de The Latin Library muestra el cambio de numeración entre los hitos 140 y 145, compatible con una división métrica omitida en el lector. Hipótesis por confirmar directamente en Leo antes de desplazar IDs.",
       "sources": [
         "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
         "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
       ],
-      "next_action": "Cotejar exhaustivamente con Leo (1895) el tramo anterior para localizar el desplazamiento de numeración y corregir duplicación sin invalidar data-reading-id ni resaltados existentes. No marcar vv.160–164 revisados hasta resolverlo.",
-      "preserve": "No renumerar ni eliminar entradas existentes sin estrategia de compatibilidad de IDs."
+      "next_action": "Cotejar con Leo la división métrica de «alia alia peior, frater, est. / Idem ego arbitror» (en torno a 140–141), reconstruir tabla de equivalencias 140–161, definir migración de data-reading-id y offsets de resaltados, y solo entonces corregir el duplicado y continuar revisión.",
+      "preserve": "No renumerar ni eliminar entradas existentes sin estrategia de compatibilidad de IDs.",
+      "investigated_on": "2026-11-10",
+      "review_status": "hypothesis_not_yet_verified_against_leo"
     }
   ]
 }
