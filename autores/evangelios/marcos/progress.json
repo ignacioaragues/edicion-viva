@@ -339,9 +339,10 @@
       "Marcos 2,4: no presentar ἀπεστέγασαν y ἐξορύξαντες como dos etapas arquitectónicas demostradas: Bruce considera el participio explicativo, mientras Cambridge describe la remoción de material. El juego verbal ἀπεστέγασαν τὴν στέγην sí es observable directamente; contrastar el texto SBLGNT antes de incorporarlo a nota emergente.",
       "Marcos 2,5: la lectura SBLGNT ἀφίενταί (presente pasivo indicativo) difiere de ἀφέωνται (perfecto) en otras tradiciones; no asignar automáticamente valor perfecto a la forma SBLGNT. El plural αὐτῶν no identifica inequívocamente a todos sus referentes.",
       "Marcos 2,6–7: διαλογιζόμενοι describe deliberación interior; εἰ μὴ εἷς ὁ θεός expresa excepción («sino solo Dios»), no una condicional independiente.",
-      "Marcos 2,8: τῷ πνεύματι αὐτοῦ indica el ámbito de conocimiento según el relato; Cambridge añade una interpretación cristológica que no debe confundirse con información gramatical. La repetición de διαλογίζομαι enlaza las deliberaciones de los escribas con la réplica de Jesús."
+      "Marcos 2,8: τῷ πνεύματι αὐτοῦ indica el ámbito de conocimiento según el relato; Cambridge añade una interpretación cristológica que no debe confundirse con información gramatical. La repetición de διαλογίζομαι enlaza las deliberaciones de los escribas con la réplica de Jesús.",
+      "Marcos 2,11–12: el triple imperativo de 2,11 (ἔγειρε, ἆρον, ὕπαγε) culmina en la salida ante todos; distinguir la reacción narrativa de la multitud de una constatación histórica independiente. La forma εἴδομεν (2,12) es primera persona plural aoristo de ὁράω."
     ],
-    "next": "Completar 35 fichas de Marcos 2,11–12; cotejar griego SBLGNT y Vulgata, traducir y probar antes de publicar.",
+    "next": "Auditar contextual y mecánicamente las 196 fichas de Marcos 2,1–12, cotejar el griego con SBLGNT y la Vulgata, preparar traducción y notas; integrar y probar antes de publicar.",
     "date": "2026-11-10",
     "morphgnt_inventory": {
       "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
@@ -361,16 +362,16 @@
         "12": 22
       },
       "total_tokens": 196,
-      "status": "Marcos 2,1–10: 161 fichas posicionales preparadas; no publicadas. Pendientes 35 fichas (2,11–12) y auditoría contextual.",
+      "status": "196 fichas posicionales preparadas para Marcos 2,1–12; ninguna publicada. Pendiente auditoría contextual, texto bilingüe y pruebas.",
       "note": "Inventario directo de las 196 filas posicionales de 2,1–12; no constituye cobertura morfológica publicada. Debe cotejarse cada token con el griego de SBLGNT y añadirse glosa contextual antes de publicar.",
       "staged_verses": {
         "chapter": 2,
         "from": 1,
-        "to": 10,
-        "token_count": 161,
+        "to": 12,
+        "token_count": 196,
         "status": "draft_only",
-        "remaining_tokens": 35,
-        "review": "Cotejo mecánico de forma, lema, POS y flexión con MorphGNT y glosas españolas preparadas; auditoría contextual integral y pruebas pendientes."
+        "remaining_tokens": 0,
+        "review": "Formas, lemas, POS y códigos preparados desde MorphGNT; falta auditoría integral de glosas y alineación con SBLGNT y lector."
       }
     },
     "last_research_update": "2026-11-10",
