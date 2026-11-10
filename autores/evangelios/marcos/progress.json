@@ -176,6 +176,17 @@
         "https://biblehub.com/commentaries/mark/2-17.htm",
         "https://www.biblehub.com/commentaries/clarke/mark/2.htm"
       ]
+    },
+    {
+      "chapter": 2,
+      "from": 18,
+      "to": 18,
+      "status": "edited_not_revised",
+      "source": "https://github.com/LogosBible/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://www.catholicshare.com/la/bible/clementine-vulgate/mark/2/",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ]
     }
   ],
   "pending": [
@@ -528,5 +539,7 @@
       }
     ],
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
-  }
+  },
+  "last_research_update": "2026-11-10",
+  "next_actions": "Integrar Marcos 2,19–22 con cobertura morfológica total; continuar segunda pasada filológica desde el inicio."
 }
