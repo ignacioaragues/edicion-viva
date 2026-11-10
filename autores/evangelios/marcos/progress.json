@@ -107,12 +107,23 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/2/8",
         "https://biblia.com/bible/vulgataclem/mark/2/8"
       ]
+    },
+    {
+      "chapter": 2,
+      "from": 9,
+      "to": 9,
+      "status": "edited_not_revised",
+      "source": "https://biblia.com/bible/sblgnt/mark/2/9",
+      "external_references": [
+        "https://biblia.com/bible/vulgataclem/mark/2/9",
+        "https://github.com/morphgnt/sblgnt"
+      ]
     }
   ],
   "pending": [
     {
       "chapter": 2,
-      "from": 9,
+      "from": 10,
       "to": 28
     },
     {
@@ -120,7 +131,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 2,9 y siguientes",
+  "next": "Marcos 2,10–12: completar el episodio y auditar glosas",
   "last_edit": "2026-11-10",
   "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes. Segunda pasada 1,42: duplicación narrativa de la curación/purificación y variante εἰπόντος αὐτοῦ, con fuentes incorporadas a nota emergente; auditoría morfológica contextual aún pendiente. Publicado 2,8 con 22 fichas posicionales verificadas y notas de variantes; auditoría contextual integral y pruebas interactivas pendientes.",
   "review_tracking": {
@@ -258,7 +269,7 @@
     "status": "complete_for_published_verses",
     "chapter": 1,
     "from": 1,
-    "through": "2,7",
+    "through": "2,9",
     "token_count": 802,
     "distinct_surface_forms": 318,
     "distinct_lemmas": 208,
@@ -268,7 +279,7 @@
       "morphology.js",
       "index.html"
     ],
-    "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador)",
+    "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes",
     "editorial_review": "pending_contextual_verification",
     "next": "Completar cobertura de Marcos 2 antes de publicar; auditoría contextual de fichas anteriores pendiente"
   },
@@ -458,6 +469,6 @@
         "note": "Comentario histórico reproducido en el apartado International Critical Commentary; distingue ἐξουσία (autoridad) de mera capacidad y examina el título Hijo del hombre. Su identificación mesiánica es interpretación histórica discutible."
       }
     ],
-    "next_actions": "Publicar 2,6–12 tras cotejo e integración; auditar fichas anteriores"
+    "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   }
 }
