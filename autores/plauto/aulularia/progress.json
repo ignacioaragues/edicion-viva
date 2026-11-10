@@ -609,18 +609,18 @@
   "integrity_issues": [
     {
       "id": "ii1-159-161-numbering-duplicate",
-      "status": "open",
+      "status": "root_cause_verified_fix_pending",
       "detected": "2026-11-10",
       "location": "II.1, entradas 159–161",
-      "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161. Análisis adicional: la entrada 140 reúne «alia alia peior, frater, est.» y «Idem ego arbitror» en una sola unidad; el testimonio numerado de The Latin Library muestra el cambio de numeración entre los hitos 140 y 145, compatible con una división métrica omitida en el lector. Hipótesis por confirmar directamente en Leo antes de desplazar IDs. Cotejo adicional (10 nov): The Latin Library imprime «alia alia peior, frater, est. MEG. Idem ego arbitror» en UNA misma línea numerada 140; por tanto, la hipótesis de que el desfase se debe a dividir ese verso NO queda respaldada por esa fuente. La numeración 145 aparece en «ted id monitum advento», mientras el lector la identifica como 144: localizar el verso o criterio editorial faltante entre 140 y 145 antes de modificar IDs.",
+      "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161. Análisis adicional: la entrada 140 reúne «alia alia peior, frater, est.» y «Idem ego arbitror» en una sola unidad; el testimonio numerado de The Latin Library muestra el cambio de numeración entre los hitos 140 y 145, compatible con una división métrica omitida en el lector. Hipótesis por confirmar directamente en Leo antes de desplazar IDs. Cotejo adicional (10 nov): The Latin Library imprime «alia alia peior, frater, est. MEG. Idem ego arbitror» en UNA misma línea numerada 140; por tanto, la hipótesis de que el desfase se debe a dividir ese verso NO queda respaldada por esa fuente. La numeración 145 aparece en «ted id monitum advento», mientras el lector la identifica como 144: localizar el verso o criterio editorial faltante entre 140 y 145 antes de modificar IDs. COTEJO DIRECTO LEO 1895 (Perseus, 2.1): v.140 incluye «alia alia peior ... Idem ego arbitror»; v.142 es «Da mihi operam amabo»; v.143 es «Tuast, utere atque impera, si quid vis»; v.144 «Id quod ... arbitror»; v.145 «ted id monitum advento». En el lector, la entrada n=142 fusiona los versos canónicos 142 y 143; por eso desde n=143 hay un desfase de -1 hasta n=159. El texto de n=160 reproduce el diálogo de n=161, que corresponde únicamente al verso 161 de Leo. La causa exacta está identificada; no dividir n=140.",
       "sources": [
-        "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
-        "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+        "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2:2.1/",
+        "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
       ],
-      "next_action": "Consultar directamente la división de versos 140–161 en Leo (1895) y su aparato; NO dividir automáticamente el 140. Reconstruir correspondencia completa, conservar/migrar data-reading-id y offsets de resaltados; solo entonces corregir el duplicado 160–161 y continuar.",
+      "next_action": "Dividir el objeto n=142 en dos unidades canónicas 142/143 con fichas, traducción y hablantes independientes; reatribuir visualmente números 143–160 sin alterar data-reading-id ni offsets preexistentes; eliminar solo la representación duplicada del diálogo n=160 mediante alias/migración explícita de resaltados, y verificar todos los identificadores antes de publicar. Reanudar después revisión 160–164 y nuevos versos 207+.",
       "preserve": "No renumerar ni eliminar entradas existentes sin estrategia de compatibilidad de IDs.",
       "investigated_on": "2026-11-10",
-      "review_status": "hypothesis_140_split_not_supported_by_latin_library; leo_verification_pending"
+      "review_status": "leo_1895_direct_text_verified; split_142_required; compatibility_migration_pending"
     }
   ]
 }
