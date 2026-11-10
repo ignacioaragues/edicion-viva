@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–4 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–5 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -52,9 +52,11 @@
     { chapter: 2, n: 2, gr: "καὶ συνήχθησαν πολλοὶ ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον.", es: "Se reunió tanta gente que ya no quedaba lugar, ni siquiera junto a la puerta, y él les anunciaba el mensaje.", la: "et auditum est quod in domo esset, et convenerunt multi, ita ut non caperet neque ad januam, et loquebatur eis verbum.", notes: ['mc2orden'] },
     { chapter: 2, n: 3, gr: "καὶ ἔρχονται φέροντες πρὸς αὐτὸν παραλυτικὸν αἰρόμενον ὑπὸ τεσσάρων.", es: "Entonces llegaron unos hombres que le traían a una persona paralizada, transportada entre cuatro.", la: "Et venerunt ad eum ferentes paralyticum, qui a quatuor portabatur.", notes: ['mc2camilla'] },
     { chapter: 2, n: 4, gr: "καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν τὴν στέγην ὅπου ἦν, καὶ ἐξορύξαντες χαλῶσι τὸν κράβαττον ὅπου ὁ παραλυτικὸς κατέκειτο.", es: "Como no podían acercárselo por la multitud, levantaron la cubierta del techo donde estaba Jesús y, tras abrir un hueco, bajaron la camilla en la que yacía el paralítico.", la: "Et cum non possent offerre eum illi præ turba, nudaverunt tectum ubi erat: et patefacientes submiserunt grabatum in quo paralyticus jacebat.", notes: ['mc2techo'] },
+    { chapter: 2, n: 5, gr: "καὶ ἰδὼν ὁ Ἰησοῦς τὴν πίστιν αὐτῶν λέγει τῷ παραλυτικῷ· Τέκνον, ἀφίενταί σου αἱ ἁμαρτίαι.", es: "Al ver Jesús la confianza de ellos, le dice al paralítico: «Hijo, tus pecados son perdonados».", la: "Cum autem vidisset Jesus fidem illorum, ait paralytico: Fili, dimittuntur tibi peccata tua.", notes: ["mc2perdon"] },
   ];
 
   const notes = {
+    mc2perdon: ["La confianza y el perdón", "πίστιν αὐτῶν («la confianza de ellos») no determina por sí solo si el enfermo está incluido en el plural. SBLGNT lee ἀφίενταί σου (presente pasivo: «son perdonados»); la tradición bizantina presenta también ἀφέωνταί σοι (perfecto). La Clementina traduce dimittuntur tibi peccata tua. La diferencia de tiempo verbal no autoriza por sí sola una conclusión doctrinal. Fuentes: Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 2,5 y aparato, https://studybible.info/SBLGNT/Mark%202%3A5-10; Alfred Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Mc 2,5, https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/2/5."],
     mc2techo: ["El techo abierto", "ἀπεστέγασαν τὴν στέγην repite la raíz del verbo y el sustantivo («destecharon el techo»). ἐξορύξαντες describe la apertura mediante remoción de material, pero el texto no permite reconstruir con certeza la arquitectura de la vivienda. SBLGNT lee προσενέγκαι; existe la variante προσεγγίσαι. La Clementina expresa la acción con nudaverunt tectum y patefacientes, sin reproducir literalmente el juego de raíces. Fuentes: Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,4, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; Alfred Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Mc 2,4, https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/2/4; Vulgata Clementina, Mc 2,4, https://biblia.com/bible/vulgataclem/mark/2/1-5."],
     mc2casa: ["La noticia de la llegada", "El griego de SBLGNT lee ἐν οἴκῳ («en casa»); otras ediciones registran εἰς οἶκον («a casa»). El pasaje no identifica al dueño de la vivienda. A. T. Robertson, Word Pictures in the New Testament, comentario a Marcos 2,1: https://www.sermonindex.net/commentary/robertsonwp/MRK/2; Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,1."],
     mc2orden: ["Orden del relato y Vulgata", "La división de versículos de la Clementina distribuye de otro modo la noticia de que Jesús estaba en casa: su «et auditum est» aparece en 2,2, mientras que SBLGNT sitúa ἠκούσθη en 2,1. Se conservan ambos textos sin armonizarlos. Textos: Holmes (ed.), SBLGNT, Mc 2,1–2, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; Vulgata Clementina, Mc 2,1–2, https://biblia.com/bible/vulgataclem/mark/2/1-12."],
@@ -400,7 +402,7 @@
     40: ['1,40–45', 'La purificación de un enfermo'],
   };
   passages.forEach(p => {
-    if (p.chapter === 2 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,1–4'), makeElement('h2', '', 'Regreso a Cafarnaúm')); verses.append(section); }
+    if (p.chapter === 2 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,1–5'), makeElement('h2', '', 'Regreso a Cafarnaúm')); verses.append(section); }
     if (p.chapter !== 2 && sections[p.n]) {
       const section = makeElement('div', 'verse-section');
       section.append(makeElement('p', '', sections[p.n][0]), makeElement('h2', '', sections[p.n][1]));
