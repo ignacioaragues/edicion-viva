@@ -187,6 +187,17 @@
         "https://www.catholicshare.com/la/bible/clementine-vulgate/mark/2/",
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
       ]
+    },
+    {
+      "chapter": 2,
+      "from": 19,
+      "to": 19,
+      "status": "edited_not_revised",
+      "source": "https://www.biblestudytools.com/sblg/mark/2-19.html",
+      "external_references": [
+        "https://biblehub.com/commentaries/mark/2-19.htm",
+        "https://www.catholicshare.com/la/bible/clementine-vulgate/mark/2/"
+      ]
     }
   ],
   "pending": [
