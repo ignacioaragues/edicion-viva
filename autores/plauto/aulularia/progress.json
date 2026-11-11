@@ -203,12 +203,21 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library, 2026-11-12",
       "note": "51 tokens con fichas y glosas contextuales; notas sobre supino derisum y gnata"
+    },
+    {
+      "section": "II.2",
+      "from": 226,
+      "to": 230,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus Digital Library; numeración cotejada con The Latin Library (2026-11-12)",
+      "note": "47 tokens con fichas y glosas contextuales. Imagen del buey y el asno; locassim y siem arcaicos. Segunda pasada consecutiva sigue en 159."
     }
   ],
   "pending": [
     {
       "section": "II.2",
-      "from": 226
+      "from": 231
     },
     {
       "section": "later scenes",
@@ -216,8 +225,8 @@
     }
   ],
   "updated": "2026-11-12",
-  "next": "II.2 desde el verso 226",
-  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente. Segunda pasada II.1 145–149: seis fichas precisadas; texto nuevo pendiente. Segunda pasada II.1 150–154: 39 fichas auditadas, sin cambios textuales; aparato impreso pendiente. Segunda pasada II.1 155–159: 39 fichas auditadas; precisado veniat como relativa de condición estipulada; aparato de Leo pendiente. Corrección puntual v.164: ambigüedad de sit paratum, sin adelantar segunda pasada consecutiva (sigue en 159). Corrección puntual v.162: media acusativo femenino de uxorem (antes mal clasificado como ablativo); sin avance de revisión consecutiva. Incorporados II.2 vv.207–211 (latín, traducción original y fichas con glosas contextuales); segunda pasada consecutiva sigue en 159. Cotejo con The Latin Library; prueba de navegador pendiente. Incorporados II.2 vv.212–215 con fichas individuales y glosas contextuales; auditoría retrospectiva permanece en 159 por anomalía pendiente en 160–161. Verificación de navegador pendiente. 12 nov: incorporados II.2 vv.216–220, con fichas y glosas contextuales; se movió el bloque vv.212–215 antes de la validación y renderización (antes quedaba tras el bucle). Segunda revisión consecutiva sin nuevo avance certificado; quedan pendientes auditoría 160+ y compatibilidad de resaltados en II.1. Comprobación estructural de tokens 216–220 satisfactoria; navegador pendiente.\n12-XI-2026: añadidos II.2 221–225 con fichas, glosas y notas. Auditoría retrospectiva consecutiva no completada: sigue hasta 159; numeración II.1 pendiente. Validación visual en navegador pendiente.\n12-XI: cotejo puntual de fichas 162–164 (sin correcciones necesarias); duplicación 160–161 impide certificar avance consecutivo. Próximo inédito 226. No se modificó el lector.",
+  "next": "II.2 desde el verso 231",
+  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente. Segunda pasada II.1 145–149: seis fichas precisadas; texto nuevo pendiente. Segunda pasada II.1 150–154: 39 fichas auditadas, sin cambios textuales; aparato impreso pendiente. Segunda pasada II.1 155–159: 39 fichas auditadas; precisado veniat como relativa de condición estipulada; aparato de Leo pendiente. Corrección puntual v.164: ambigüedad de sit paratum, sin adelantar segunda pasada consecutiva (sigue en 159). Corrección puntual v.162: media acusativo femenino de uxorem (antes mal clasificado como ablativo); sin avance de revisión consecutiva. Incorporados II.2 vv.207–211 (latín, traducción original y fichas con glosas contextuales); segunda pasada consecutiva sigue en 159. Cotejo con The Latin Library; prueba de navegador pendiente. Incorporados II.2 vv.212–215 con fichas individuales y glosas contextuales; auditoría retrospectiva permanece en 159 por anomalía pendiente en 160–161. Verificación de navegador pendiente. 12 nov: incorporados II.2 vv.216–220, con fichas y glosas contextuales; se movió el bloque vv.212–215 antes de la validación y renderización (antes quedaba tras el bucle). Segunda revisión consecutiva sin nuevo avance certificado; quedan pendientes auditoría 160+ y compatibilidad de resaltados en II.1. Comprobación estructural de tokens 216–220 satisfactoria; navegador pendiente.\n12-XI-2026: añadidos II.2 221–225 con fichas, glosas y notas. Auditoría retrospectiva consecutiva no completada: sigue hasta 159; numeración II.1 pendiente. Validación visual en navegador pendiente.\n12-XI: cotejo puntual de fichas 162–164 (sin correcciones necesarias); duplicación 160–161 impide certificar avance consecutivo. Próximo inédito 226. No se modificó el lector.\n12-XI: añadidos II.2 226–230 (47 tokens, glosas contextuales). Cotejo de numeración con The Latin Library; acceso directo a Perseus/Leo no disponible en esta ronda, pendiente cotejo de grafías y aparato. Auditoría retrospectiva 160+ no certificada por duplicación y localizadores históricos. Pruebas de navegador pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
