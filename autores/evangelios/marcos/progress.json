@@ -682,7 +682,7 @@
     ],
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
-  "last_research_update": "2026-11-11",
+  "last_research_update": "2026-11-12",
   "next_actions": "Continuar 3,7–12 con texto y fichas posicionales completas; mantener segunda revisión filológica desde 1,1.",
   "research_pending_2_25_28": {
     "status": "partially_published_2_26",
@@ -798,5 +798,38 @@
       }
     ],
     "next_actions": "Cotejar Vulgata Clementina y MorphGNT 6.12 para 3,1–6, producir traducción y fichas posicionales completas antes de publicar; iniciar segunda revisión desde 1,1."
+  },
+  "prepublication_research_3_7_12": {
+    "status": "in_progress_not_published",
+    "date": "2026-11-12",
+    "passage": "Marcos 3,7–12",
+    "verified_sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Marcos 3,7–9",
+        "url": "https://www.biblestudytools.com/sblg/mark/3-7.html",
+        "note": "3,7: ἀνεχώρησεν πρὸς τὴν θάλασσαν; ἠκολούθησεν singular; no introducir marcas de aparato en cuerpo."
+      },
+      {
+        "title": "Cambridge Greek Testament for Schools and Colleges",
+        "section": "Mark 3:7–8",
+        "url": "https://lemma.gebible.app/v/mark/3/7",
+        "note": "ἀναχωρέω no implica por sí mismo huida; en el contexto posterior a 3,6 cabe interpretar una retirada prudente, no presentarla como certeza léxica."
+      },
+      {
+        "title": "Comparación de variantes históricas",
+        "section": "Mark 3:7",
+        "url": "https://www.openbible.com/text/mark/3-7.htm",
+        "note": "El Textus Receptus difiere en orden y forma de ἠκολούθησαν αὐτῷ; preservar SBLGNT y documentar sin confundir tradiciones."
+      }
+    ],
+    "editorial_observations": [
+      "3,7 enlaza la conspiración de 3,6 con la retirada al mar; 3,8 prolonga la enumeración geográfica: no tratar 3,7 como una oración narrativa autónoma sin examinar la continuidad.",
+      "Pendientes: cotejo directo de Clementina y MorphGNT 6.12, fichas completas y traducción propia de 3,7–12; no avanzar checkpoint."
+    ],
+    "morphology_audit": "not_started",
+    "second_passage_review": "pending"
   }
 }
