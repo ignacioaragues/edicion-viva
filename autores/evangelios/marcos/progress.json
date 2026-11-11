@@ -635,12 +635,29 @@
         "title": "A Better Priest and the Problem of Abiathar",
         "url": "https://www.thegospelcoalition.org/themelios/article/a-better-priest-and-the-problem-of-abiathar-literary-and-biblical-theological-re/",
         "note": "Propuesta tipológica de lectura de Abiatar: interpretación teológica, no constatación filológica."
+      },
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 2:26",
+        "url": "https://bible-strong.app/bible/sblgnt/mark/2/26",
+        "note": "Cotejo externo de la lectura ἐπὶ Ἀβιαθὰρ ἀρχιερέως sin artículo, de τοὺς ἱερεῖς y del cierre τοῖς σὺν αὐτῷ οὖσιν. Los signos ⸀ y ⸂ ⸃ son marcas de aparato y no deben trasladarse al texto del lector."
+      },
+      {
+        "author": "Clementine Vulgate Project",
+        "title": "Vulgata Clementina",
+        "section": "Marcus 2:26",
+        "url": "https://biblia.com/bible/vulgataclem/mark/2/25-26",
+        "note": "Texto latino verificado: introivit ... sub Abiathar principe sacerdotum ... panes propositionis manducavit. La construcción latina no se debe armonizar con el griego."
       }
     ],
     "editorial_cautions": [
       "1 Samuel 21 nombra a Ajimélec, mientras Marcos 2,26 nombra a Abiatar; 1 Samuel 22,20 presenta a Abiatar como hijo de Ajimélec.",
       "No omitir ἐπὶ Ἀβιαθὰρ ἀρχιερέως por armonización; registrar la variación manuscrita.",
-      "Pendiente cotejar texto griego y latino y producir todas las fichas MorphGNT antes de publicar 2,25–28."
+      "Pendiente cotejar texto griego y latino y producir todas las fichas MorphGNT antes de publicar 2,25–28.",
+      "La forma SBLGNT de 2,26 carece de artículo ante ἀρχιερέως; no insertar τοῦ de otros testigos. La nota debe explicar el desacuerdo con 1 Samuel 21 sin resolverlo mediante conjetura.",
+      "Se verificó externamente el texto griego y latino de 2,26, pero no la cobertura posicional completa MorphGNT; no publicar todavía ni modificar el rango."
     ]
   }
 }
