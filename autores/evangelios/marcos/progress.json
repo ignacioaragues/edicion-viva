@@ -617,7 +617,7 @@
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
   "last_research_update": "2026-11-11",
-  "next_actions": "Continuar Marcos 2,27–28 y revisión retrospectiva.",
+  "next_actions": "Cotejar 2,27–28 con SBLGNT y Vulgata; completar fichas MorphGNT posicionales y publicar solo tras validación integral.",
   "research_pending_2_25_28": {
     "status": "partially_published_2_26",
     "date": "2026-11-11",
@@ -665,6 +665,41 @@
       "Pendiente cotejar texto griego y latino y producir todas las fichas MorphGNT antes de publicar 2,25–28.",
       "La forma SBLGNT de 2,26 carece de artículo ante ἀρχιερέως; no insertar τοῦ de otros testigos. La nota debe explicar el desacuerdo con 1 Samuel 21 sin resolverlo mediante conjetura.",
       "Se verificó externamente el texto griego y latino de 2,26, pero no la cobertura posicional completa MorphGNT; no publicar todavía ni modificar el rango."
+    ]
+  },
+  "research_pending_2_27_28": {
+    "status": "research_only_not_published",
+    "date": "2026-11-11",
+    "passage": "Marcos 2,27–28",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 2:27–28",
+        "url": "https://www.biblestudytools.com/sblg/mark/2-27.html",
+        "note": "2,27 incluye καὶ antes de οὐχ; 2,28 concluye ὥστε κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου. Cotejar directamente con Faithlife antes de publicar."
+      },
+      {
+        "author": "W. Robertson Nicoll (ed.)",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 2:27",
+        "url": "https://biblehub.com/commentaries/mark/2-27.htm",
+        "note": "Interpreta la máxima como subordinación del sábado al bien humano; distinguir esta interpretación del valor gramatical de διὰ + acusativo."
+      },
+      {
+        "author": "Alfred Plummer / comentarios griegos clásicos (recopilación)",
+        "title": "Comentarios sobre Marcos 2,27",
+        "url": "https://biblehub.com/commentaries/mark/2-27.htm",
+        "note": "Comparar con Génesis 2,3 y con los paralelos sinópticos; no presentar interpretaciones confesionales como hechos."
+      }
+    ],
+    "editorial_notes": [
+      "διὰ + acusativo en ambos miembros señala finalidad/beneficiario: «por causa de / para»; ἄνθρωπος es genérico, no específicamente varón.",
+      "ἐγένετο es aoristo medio de γίνομαι; «fue hecho» es una opción idiomática, no una forma pasiva morfológica.",
+      "2,27 no figura en los paralelos Mt 12,8 y Lc 6,5 de la misma forma; cotejar contexto sin atribuir motivos redaccionales como certeza.",
+      "Investigar críticamente la transmisión de 2,27, incluida la omisión reportada en el códice Bezae, antes de redactar nota de variantes.",
+      "No se han preparado ni auditado las fichas MorphGNT de 2,27–28; no modificar el checkpoint ni el rango."
     ]
   }
 }
