@@ -624,7 +624,7 @@
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
   "last_research_update": "2026-11-11",
-  "next_actions": "Cotejar 2,27–28 con SBLGNT y Vulgata; completar fichas MorphGNT posicionales y publicar solo tras validación integral.",
+  "next_actions": "Publicar Marcos 3,1–6 solo tras cotejo de griego, Vulgata y 100 % de fichas posicionales; iniciar segunda revisión desde 1,1.",
   "research_pending_2_25_28": {
     "status": "partially_published_2_26",
     "date": "2026-11-11",
@@ -708,5 +708,36 @@
       "Investigar críticamente la transmisión de 2,27, incluida la omisión reportada en el códice Bezae, antes de redactar nota de variantes.",
       "No se han preparado ni auditado las fichas MorphGNT de 2,27–28; no modificar el checkpoint ni el rango."
     ]
+  },
+  "research_pending_3_1_6": {
+    "status": "research_started_not_published",
+    "date": "2026-11-11",
+    "passage": "Marcos 3,1–6",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:1–6",
+        "url": "https://biblia.com/bible/sblgnt/mark/3",
+        "note": "Texto griego consultado; contiene marcas editoriales que deben eliminarse del cuerpo del lector."
+      },
+      {
+        "author": "W. Robertson Nicoll (ed.)",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 3:1–6",
+        "url": "https://www.biblehub.com/commentaries/egt/mark/3.htm",
+        "note": "Discute πάλιν, el artículo ante συναγωγή y el perfecto participial ἐξηραμμένην; no inferir con certeza etiología adquirida solo por el participio."
+      },
+      {
+        "author": "Ezra P. Gould",
+        "title": "A Critical and Exegetical Commentary on the Gospel according to St. Mark",
+        "year": 1896,
+        "section": "Mark 3:1–6",
+        "url": "https://www.biblehub.com/commentaries/icc/mark/3.htm",
+        "note": "Examina la variante de artículo ante συναγωγή y la continuidad de la controversia sabática."
+      }
+    ],
+    "next_actions": "Cotejar Vulgata Clementina y MorphGNT 6.12 para 3,1–6, producir traducción y fichas posicionales completas antes de publicar; iniciar segunda revisión desde 1,1."
   }
 }
