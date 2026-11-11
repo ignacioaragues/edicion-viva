@@ -857,5 +857,47 @@
     ],
     "morphology_audit": "3,7–8: fichas posicionales completas; 3,9–12 pendiente",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_3_9_12": {
+    "status": "research_in_progress_not_published",
+    "date": "2026-11-12",
+    "passage": "Marcos 3,9–12",
+    "published_checkpoint_unchanged": "Marcos 3,8",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:9",
+        "url": "https://sblgnt.com/",
+        "note": "La lectura griega debe cotejarse directamente con la edición base antes de incorporación; acceso directo al repositorio textual no logrado en esta ejecución."
+      },
+      {
+        "author": "W. Robertson Nicoll (ed.)",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 3:9",
+        "url": "https://www.biblehub.com/commentaries/mark/3-9.htm",
+        "note": "Interpreta ἵνα πλοιάριον προσκαρτερῇ como una embarcación dispuesta cerca; advierte que el relato no dice si efectivamente se utilizó."
+      },
+      {
+        "title": "Cambridge Bible for Schools and Colleges",
+        "section": "Mark 3:9",
+        "url": "https://www.biblehub.com/commentaries/mark/3-9.htm",
+        "note": "Comenta la función narrativa de la embarcación en la actividad junto al mar; separar esta interpretación de lo explícito en el versículo."
+      },
+      {
+        "title": "BibleHub, lexicón y comentarios griegos",
+        "section": "Mark 3:9",
+        "url": "https://biblehub.com/lexicon/mark/3-9.htm",
+        "note": "πλοιάριον: embarcación pequeña; προσκαρτερῇ: subjuntivo presente de disponibilidad continuada; θλίβωσιν: presión física de la multitud."
+      }
+    ],
+    "editorial_observations": [
+      "La doble construcción ἵνα introduce la disponibilidad de la barca y la prevención del agolpamiento; no afirmar que Jesús se embarcó en 3,9.",
+      "προσκαρτερῇ no describe necesariamente una travesía; la barca debe permanecer disponible.",
+      "La lectura y la puntuación exactas de SBLGNT, la Clementina y los códigos posicionales MorphGNT 6.12 aún requieren cotejo directo; no publicar versículos ni avanzar el rango hasta entonces."
+    ],
+    "morphology_audit": "pending_3_9_12",
+    "second_passage_review": "pending_1_1_onward"
   }
 }
