@@ -346,6 +346,19 @@
         "https://biblia.com/bible/vulgataclem/mark/3/7-8",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/3/7%2C8"
       ]
+    },
+    {
+      "chapter": 3,
+      "from": 8,
+      "to": 8,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/3.html",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/3/7-8",
+        "https://www.bibliaplus.org/en/commentaries/464/robertsons-word-pictures-of-the-new-testament/mark/3/8"
+      ]
     }
   ],
   "pending": [
@@ -354,7 +367,7 @@
       "status": "pending"
     }
   ],
-  "next": "Continuar Marcos 3,8–12; revisar la continuidad sintáctica de 3,7–8 y seguir segunda pasada desde el principio.",
+  "next": "Continuar Marcos 3,9–12 y segunda revisión filológica progresiva.",
   "last_edit": "2026-11-12",
   "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes. Segunda pasada 1,42: duplicación narrativa de la curación/purificación y variante εἰπόντος αὐτοῦ, con fuentes incorporadas a nota emergente; auditoría morfológica contextual aún pendiente. Publicado 2,8 con 22 fichas posicionales verificadas y notas de variantes; auditoría contextual integral y pruebas interactivas pendientes. Marcos 2,27–28 incorporados con fichas posicionales completas y notas sobre διὰ, ἐγένετο, ὥστε y tradición textual; segunda revisión integral pendiente. Publicado Marcos 3,2 con 11 fichas MorphGNT posicionales, cotejo SBLGNT/Clementina y nota sobre vigilancia, interrogativa indirecta y finalidad; navegador pendiente.",
   "review_tracking": {
@@ -492,7 +505,7 @@
     "status": "complete_for_published_verses",
     "chapter": 3,
     "from": 1,
-    "through": "3,7",
+    "through": "3,8",
     "token_count": 833,
     "distinct_surface_forms": 318,
     "distinct_lemmas": 208,
@@ -505,7 +518,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Completar cobertura de Marcos 2 antes de publicar; auditoría contextual de fichas anteriores pendiente",
-    "last_added": "3,7: 22 fichas posicionales cotejadas con MorphGNT 6.12; segunda revisión contextual pendiente."
+    "last_added": "3,8: 24 fichas posicionales cotejadas con MorphGNT 6.12; auditoría contextual integral pendiente."
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -813,7 +826,7 @@
     "next_actions": "Cotejar Vulgata Clementina y MorphGNT 6.12 para 3,1–6, producir traducción y fichas posicionales completas antes de publicar; iniciar segunda revisión desde 1,1."
   },
   "prepublication_research_3_7_12": {
-    "status": "partially_published_3_7",
+    "status": "partially_published_3_7_8",
     "date": "2026-11-12",
     "passage": "Marcos 3,7–12",
     "verified_sources": [
@@ -842,7 +855,7 @@
       "3,7 enlaza la conspiración de 3,6 con la retirada al mar; 3,8 prolonga la enumeración geográfica: no tratar 3,7 como una oración narrativa autónoma sin examinar la continuidad.",
       "Pendientes: cotejo directo de Clementina y MorphGNT 6.12, fichas completas y traducción propia de 3,7–12; no avanzar checkpoint."
     ],
-    "morphology_audit": "3,7: 22 fichas posicionales verificadas; 3,8–12 pendiente",
+    "morphology_audit": "3,7–8: fichas posicionales completas; 3,9–12 pendiente",
     "second_passage_review": "pending"
   }
 }
