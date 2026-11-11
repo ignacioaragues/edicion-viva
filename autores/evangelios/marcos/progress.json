@@ -599,5 +599,37 @@
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
   "last_research_update": "2026-11-11",
-  "next_actions": "Continuar Marcos 2,25–28 y revisión retrospectiva."
+  "next_actions": "Continuar Marcos 2,25–28 y revisión retrospectiva.",
+  "research_pending_2_25_28": {
+    "status": "researched_not_published",
+    "date": "2026-11-11",
+    "passage": "Marcos 2,25–28",
+    "sources": [
+      {
+        "author": "Bruce M. Metzger",
+        "title": "A Textual Commentary on the Greek New Testament",
+        "section": "Mark 2:26",
+        "url": "https://www.bibliaplus.org/en/commentaries/428/a-textual-commentary-on-the-greek-new-testament-by-bruce-m-metzger/mark/2/26",
+        "note": "Testigos D y W omiten la referencia a Abiatar; otros introducen artículo antes de ἀρχιερέως. Cotejar el aparato y no alterar SBLGNT."
+      },
+      {
+        "author": "Daniel B. Wallace",
+        "title": "Mark 2:26 and the Problem of Abiathar",
+        "year": 2005,
+        "url": "https://bible.org/article/mark-226-and-problem-abiathar",
+        "note": "Discute la tensión entre Marcos 2,26 y 1 Samuel 21 (Ajimélec) y las hipótesis de resolución; evitar presentar una armonización como dato histórico."
+      },
+      {
+        "author": "Matthew Emadi",
+        "title": "A Better Priest and the Problem of Abiathar",
+        "url": "https://www.thegospelcoalition.org/themelios/article/a-better-priest-and-the-problem-of-abiathar-literary-and-biblical-theological-re/",
+        "note": "Propuesta tipológica de lectura de Abiatar: interpretación teológica, no constatación filológica."
+      }
+    ],
+    "editorial_cautions": [
+      "1 Samuel 21 nombra a Ajimélec, mientras Marcos 2,26 nombra a Abiatar; 1 Samuel 22,20 presenta a Abiatar como hijo de Ajimélec.",
+      "No omitir ἐπὶ Ἀβιαθὰρ ἀρχιερέως por armonización; registrar la variación manuscrita.",
+      "Pendiente cotejar texto griego y latino y producir todas las fichas MorphGNT antes de publicar 2,25–28."
+    ]
+  }
 }
