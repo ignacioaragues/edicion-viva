@@ -186,21 +186,29 @@
       "verses": 4,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus Digital Library; cotejo The Latin Library, 2026-11-11"
+    },
+    {
+      "section": "II.2",
+      "from": 216,
+      "to": 220,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejado con The Latin Library (2026-11-12); Walker, A commentary on Plautus' Aulularia (2005), https://hdl.handle.net/10023/14536"
     }
   ],
   "pending": [
     {
       "section": "II.2",
-      "from": 216
+      "from": 221
     },
     {
       "section": "later scenes",
       "status": "pending"
     }
   ],
-  "updated": "2026-11-11",
-  "next": "II.2 desde el verso 216",
-  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente. Segunda pasada II.1 145–149: seis fichas precisadas; texto nuevo pendiente. Segunda pasada II.1 150–154: 39 fichas auditadas, sin cambios textuales; aparato impreso pendiente. Segunda pasada II.1 155–159: 39 fichas auditadas; precisado veniat como relativa de condición estipulada; aparato de Leo pendiente. Corrección puntual v.164: ambigüedad de sit paratum, sin adelantar segunda pasada consecutiva (sigue en 159). Corrección puntual v.162: media acusativo femenino de uxorem (antes mal clasificado como ablativo); sin avance de revisión consecutiva. Incorporados II.2 vv.207–211 (latín, traducción original y fichas con glosas contextuales); segunda pasada consecutiva sigue en 159. Cotejo con The Latin Library; prueba de navegador pendiente. Incorporados II.2 vv.212–215 con fichas individuales y glosas contextuales; auditoría retrospectiva permanece en 159 por anomalía pendiente en 160–161. Verificación de navegador pendiente.",
+  "updated": "2026-11-12",
+  "next": "II.2 desde el verso 221",
+  "editorial_note": "Añadidos II.2 vv.201–206 con traducción propia, fichas individuales y glosas contextuales. Revisión independiente II.1 vv.120–124. Notas con fuentes en vv.201 y 205. Validación de navegador pendiente. Segunda pasada de II.1 130–134 (44 tokens); tres precisiones en fichas, sin nuevos versos. Aparato crítico pendiente. Segunda pasada II.1 135–139: tres precisiones morfológicas; texto nuevo pendiente, cotejo de Leo pendiente. Segunda pasada II.1 140–144: precisadas cuatro fichas; sin nuevos versos; aparato crítico de Leo pendiente. Segunda pasada II.1 145–149: seis fichas precisadas; texto nuevo pendiente. Segunda pasada II.1 150–154: 39 fichas auditadas, sin cambios textuales; aparato impreso pendiente. Segunda pasada II.1 155–159: 39 fichas auditadas; precisado veniat como relativa de condición estipulada; aparato de Leo pendiente. Corrección puntual v.164: ambigüedad de sit paratum, sin adelantar segunda pasada consecutiva (sigue en 159). Corrección puntual v.162: media acusativo femenino de uxorem (antes mal clasificado como ablativo); sin avance de revisión consecutiva. Incorporados II.2 vv.207–211 (latín, traducción original y fichas con glosas contextuales); segunda pasada consecutiva sigue en 159. Cotejo con The Latin Library; prueba de navegador pendiente. Incorporados II.2 vv.212–215 con fichas individuales y glosas contextuales; auditoría retrospectiva permanece en 159 por anomalía pendiente en 160–161. Verificación de navegador pendiente. 12 nov: incorporados II.2 vv.216–220, con fichas y glosas contextuales; se movió el bloque vv.212–215 antes de la validación y renderización (antes quedaba tras el bucle). Segunda revisión consecutiva sin nuevo avance certificado; quedan pendientes auditoría 160+ y compatibilidad de resaltados en II.1. Comprobación estructural de tokens 216–220 satisfactoria; navegador pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
