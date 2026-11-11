@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -75,10 +75,12 @@
     {"chapter":2,"n":25,"gr":"καὶ λέγει αὐτοῖς· Οὐδέποτε ἀνέγνωτε τί ἐποίησεν Δαυὶδ ὅτε χρείαν ἔσχεν καὶ ἐπείνασεν αὐτὸς καὶ οἱ μετʼ αὐτοῦ;","es":"Y les dice: «¿Nunca leyeron lo que hizo David cuando tuvo necesidad y pasó hambre, él y quienes estaban con él?","la":"Et ait illis: Numquam legistis quid fecerit David, quando necessitatem habuit, et esuriit ipse, et qui cum eo erant?","notes":["mc2david25"]},
     {"chapter":2,"n":26,"gr":"πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ ἐπὶ Ἀβιαθὰρ ἀρχιερέως καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγεν, οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ τοὺς ἱερεῖς, καὶ ἔδωκεν καὶ τοῖς σὺν αὐτῷ οὖσιν;","es":"¿Cómo entró en la casa de Dios, en tiempos del sumo sacerdote Abiatar, y comió los panes de la presencia, que no está permitido comer sino a los sacerdotes, y dio también a quienes estaban con él?","la":"quomodo introivit in domum Dei sub Abiathar principe sacerdotum, et panes propositionis manducavit, quos non licebat manducare, nisi sacerdotibus, et dedit eis qui cum eo erant?","notes":["mc2abiatar26"]},
     {"chapter":2,"n":27,"gr":"καὶ ἔλεγεν αὐτοῖς· Τὸ σάββατον διὰ τὸν ἄνθρωπον ἐγένετο καὶ οὐχ ὁ ἄνθρωπος διὰ τὸ σάββατον·","es":"Y les decía: «El sábado fue instituido para el ser humano, y no el ser humano para el sábado.","la":"Et dicebat eis: Sabbatum propter hominem factum est, et non homo propter sabbatum.","notes":["mc2sabado27"]},
-    {"chapter":2,"n":28,"gr":"ὥστε κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.","es":"Por eso, el Hijo del hombre es señor incluso del sábado».","la":"Itaque Dominus est Filius hominis, etiam sabbati.","notes":["mc2senor28"]}
+    {"chapter":2,"n":28,"gr":"ὥστε κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.","es":"Por eso, el Hijo del hombre es señor incluso del sábado».","la":"Itaque Dominus est Filius hominis, etiam sabbati.","notes":["mc2senor28"]},
+    {"chapter":3,"n":1,"gr":"Καὶ εἰσῆλθεν πάλιν εἰς συναγωγήν, καὶ ἦν ἐκεῖ ἄνθρωπος ἐξηραμμένην ἔχων τὴν χεῖρα.","es":"Entró otra vez en una sinagoga. Allí había un hombre que tenía una mano reseca.","la":"Et introivit iterum in synagogam: et erat ibi homo habens manum aridam.","notes":["mc3mano1"]}
   ];
 
   const notes = {
+    mc3mano1: ["La mano reseca y la sinagoga", "ἐξηραμμένην es participio perfecto medio-pasivo de ξηραίνω: presenta la mano en un estado de sequedad o atrofia, sin identificar su causa clínica. La expresión εἰς συναγωγήν no lleva artículo en la lectura de SBLGNT; la Clementina dice in synagogam. πάλιν enlaza el episodio con las escenas anteriores de sinagoga y sábado. Fuentes: Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 3,1, https://biblia.com/bible/sblgnt/mark/3/1; Vulgata Clementina, Mc 3,1, https://szentiras.hu/biblia/vuc/mrk/3; cf. Mc 1,21–28 y 2,23–28."],
     mc2sabado27: ["El sábado y el ser humano", "διὰ + acusativo aparece en ambos miembros de la antítesis y señala finalidad o beneficio: el sábado existe para el ser humano, no a la inversa. ἄνθρωπος designa aquí al ser humano genéricamente. ἐγένετο es aoristo medio de γίνομαι, no una forma pasiva, aunque «fue hecho» es traducción idiomática posible. El texto de SBLGNT conserva καὶ οὐχ, frente a la omisión de καὶ en Robinson-Pierpont; el códice Bezae (D) transmite una forma abreviada de la sentencia. Fuentes: Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,27, https://studybible.info/SBLGNT/Mark%202%3A25-27; Wieland Willker, A Textual Commentary on the Greek Gospels, vol. 2, TVU 47, https://www.willker.de/wie/TCG/TC-Mark.pdf; Vulgata Clementina, Mc 2,27, https://biblia.com/bible/vulgataclem/mark/2/27."],
     mc2senor28: ["Señor incluso del sábado", "ὥστε introduce la conclusión de la controversia. κύριος es predicativo y καὶ ante τοῦ σαββάτου tiene valor inclusivo («también / incluso»). ὁ υἱὸς τοῦ ἀνθρώπου es literalmente «el hijo del ser humano», título cuya interpretación en Marcos exige considerar otros pasajes (cf. Mc 2,10; 8,31; 14,62) y Daniel 7,13: la identificación exacta de sus ecos no se deduce solo de esta frase. Los paralelos Mt 12,8 y Lc 6,5 contienen la afirmación del señorío sabático, pero no reproducen la máxima de Mc 2,27. Fuentes: Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,27–28, https://biblia.com/bible/sblgnt/mark/2/27-28; Vulgata Clementina, Mc 2,28, https://biblia.com/bible/vulgataclem/mark/2/27-28."],
     mc2abiatar26: ["Abiatar, Ajimélec y los panes", "El griego ἐπὶ Ἀβιαθὰρ ἀρχιερέως sitúa el episodio en tiempos de Abiatar, sin artículo ante ἀρχιερέως. En 1 Samuel 21,1–6 (numeración hebrea; varía según edición) quien entrega los panes a David es Ajimélec; 1 Samuel 22,20 presenta a Abiatar como hijo suyo. La discrepancia histórica no queda resuelta por el texto. Algunos testigos omiten la referencia a Abiatar o añaden el artículo; se conserva la lectura de SBLGNT. ἄρτοι τῆς προθέσεως son los panes dispuestos ritualmente ante Dios (cf. Levítico 24,5–9). La Clementina dice sub Abiathar principe sacerdotum y panes propositionis. Fuentes: Michael W. Holmes (ed.), SBLGNT (2010), Mc 2,26, https://bible-strong.app/bible/sblgnt/mark/2/26; James K. Tauber, MorphGNT SBLGNT 6.12, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt; Vulgata Clementina, Mc 2,26, https://biblia.com/bible/vulgataclem/mark/2/26; W. Robertson Nicoll (ed.), Expositor’s Greek Testament (1897–1910), Mc 2,26, https://lemma.gebible.app/v/mark/2/26. La lectura que atribuye a Marcos un error histórico y las propuestas de armonización son interpretaciones alternativas, no datos demostrados."],
@@ -420,7 +422,7 @@
 
   function greekContent(container, text, verse) {
     // Ninguna palabra puede quedar sin ficha: validación en tiempo de renderizado.
-    const records = verse > 100 ? externalMorphology.versesChapter2.verses[verse - 100] : morphologyByVerse[verse];
+    const records = verse > 200 ? externalMorphology.versesChapter3.verses[verse - 200] : verse > 100 ? externalMorphology.versesChapter2.verses[verse - 100] : morphologyByVerse[verse];
     if (!records) throw new Error('Faltan fichas para Marcos 1,' + verse);
     const tokens = text.split(/(\p{L}[\p{L}\p{M}\u1fbdʼ’]*)/u);
     let i = 0;
@@ -455,21 +457,22 @@
     40: ['1,40–45', 'La purificación de un enfermo'],
   };
   passages.forEach(p => {
+    if (p.chapter === 3 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '3,1–6'), makeElement('h2', '', 'Una curación en sábado')); verses.append(section); }
     if (p.chapter === 2 && p.n === 18) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,18–22'), makeElement('h2', '', 'El ayuno y las imágenes de lo nuevo')); verses.append(section); }
     if (p.chapter === 2 && p.n === 13) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,13–17'), makeElement('h2', '', 'La vocación de Leví')); verses.append(section); }
     if (p.chapter === 2 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,1–5'), makeElement('h2', '', 'Regreso a Cafarnaúm')); verses.append(section); }
-    if (p.chapter !== 2 && sections[p.n]) {
+    if (!p.chapter && sections[p.n]) {
       const section = makeElement('div', 'verse-section');
       section.append(makeElement('p', '', sections[p.n][0]), makeElement('h2', '', sections[p.n][1]));
       verses.append(section);
     }
     const row = makeElement('div', 'verse');
-    row.id = p.chapter === 2 ? `v2-${p.n}` : `v${p.n}`;
+    row.id = p.chapter ? `v${p.chapter}-${p.n}` : `v${p.n}`;
     const number = makeElement('div', 'number', String(p.n));
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr, p.chapter === 2 ? 100 + p.n : p.n);
+    greekContent(original, p.gr, p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
