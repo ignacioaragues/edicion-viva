@@ -516,6 +516,20 @@
       ],
       "morphology": "15 fichas posicionales; auditoría contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 27,
+      "to": 27,
+      "status": "edited_not_revised",
+      "source": "SBLGNT (Holmes 2010)",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/3.html",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/3/27-30"
+      ],
+      "morphology": "25 fichas posicionales cotejadas; auditoría contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -524,9 +538,9 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,27",
-  "last_edit": "2026-11-12",
-  "notes": "Marcos 3,20–21 incorporados con 28 fichas posicionales; segunda revisión filológica de los pasajes anteriores pendiente.",
+  "next": "Marcos 3,28",
+  "last_edit": "2026-11-13",
+  "notes": "Marcos 3,27 incorporado con 25 fichas posicionales; segunda revisión filológica pendiente.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
@@ -1129,8 +1143,8 @@
     "checkpoint_advanced": true
   },
   "prepublication_research_3_22_27": {
-    "status": "partially_published_3_22_23",
-    "verified_published_through": "3,26",
+    "status": "published_through_3_27",
+    "verified_published_through": "3,27",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
