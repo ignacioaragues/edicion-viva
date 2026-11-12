@@ -23,7 +23,7 @@ const collection = [
     language: 'Latín · Español',
     status: 'available',
     url: './autores/plauto/aulularia/',
-    detail: 'Edición en curso · Prólogo 1–39; I.1, 40–78; I.2, 79–119; II.1, 120–177; II.2, 178–260 (revisión filológica en curso)',
+    detail: 'Edición en curso · Prólogo 1–39; I.1, 40–78; I.2, 79–119; II.1, 120–177; II.2, 178–264 (revisión filológica en curso)',
   },
   {
     author: 'Evangelio según Marcos',
