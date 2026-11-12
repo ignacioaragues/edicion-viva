@@ -1230,5 +1230,40 @@
       ],
       "status": "textual_note_revised_not_full_philological_audit"
     }
-  ]
+  ],
+  "prepublication_research_3_28_30": {
+    "status": "researched_not_published",
+    "verified_published_through": "3,27",
+    "date": "2026-11-13",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:28–30 and apparatus",
+        "url": "https://biblia.com/bible/sblgnt/mark/3"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 3:28–30",
+        "url": "https://lemma.gebible.app/v/mark/3/28"
+      },
+      {
+        "author": "J. A. Bengel",
+        "title": "Gnomon Novi Testamenti",
+        "section": "Mark 3:28–29",
+        "url": "https://www.biblehub.com/commentaries/bengel/mark/3.htm"
+      }
+    ],
+    "observations": [
+      "3,28: πάντα se explicita mediante τὰ ἁμαρτήματα καὶ αἱ βλασφημίαι; la construcción ὅσα ἐὰν βλασφημήσωσιν amplía el alcance de las blasfemias aludidas. Bruce señala más de una posibilidad sintáctica para la aposición.",
+      "3,29: la lectura de SBLGNT αἰωνίου ἁμαρτήματος («pecado eterno») difiere de κρίσεως («juicio») en el texto recibido; no equiparar las dos lecturas ni adoptar la segunda por influencia de traducciones tradicionales.",
+      "3,30: ὅτι ἔλεγον explica narrativamente la advertencia por la acusación reiterada «Πνεῦμα ἀκάθαρτον ἔχει»; no confundir la explicación del narrador con una definición exhaustiva y atemporal del pecado.",
+      "Pendiente: cotejo exacto con Vulgata Clementina y MorphGNT 6.12, glosas posicionales y validación completa antes de publicar 3,28–30. No se adelantó el checkpoint."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
+  }
 }
