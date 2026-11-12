@@ -503,6 +503,19 @@
       ],
       "morphology": "12 fichas posicionales; alineación mecánica completa; auditoría contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 26,
+      "to": 26,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/3-26.html",
+        "https://biblia.com/bible/vulgataclem/mark/3/26-27"
+      ],
+      "morphology": "15 fichas posicionales; auditoría contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -511,7 +524,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,26",
+  "next": "Marcos 3,27",
   "last_edit": "2026-11-12",
   "notes": "Marcos 3,20–21 incorporados con 28 fichas posicionales; segunda revisión filológica de los pasajes anteriores pendiente.",
   "review_tracking": {
@@ -1117,7 +1130,7 @@
   },
   "prepublication_research_3_22_27": {
     "status": "partially_published_3_22_23",
-    "verified_published_through": "3,25",
+    "verified_published_through": "3,26",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
