@@ -386,6 +386,20 @@
         "https://biblehub.com/commentaries/egt/mark/3.htm",
         "https://greeknewtestament.net/mk3-10"
       ]
+    },
+    {
+      "chapter": 3,
+      "from": 11,
+      "to": 12,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.catholicshare.com/la/bible/clementine-vulgate/mark/3/",
+        "https://biblehub.com/text/mark/3-11.htm"
+      ],
+      "morphology": "29 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -886,10 +900,10 @@
     "second_passage_review": "pending"
   },
   "prepublication_research_3_9_12": {
-    "status": "partially_published_3_9_10",
+    "status": "published_through_3_12",
     "date": "2026-11-12",
     "passage": "Marcos 3,9–12",
-    "published_checkpoint_unchanged": "Marcos 3,10",
+    "published_checkpoint_unchanged": "Marcos 3,12",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -924,7 +938,7 @@
       "προσκαρτερῇ no describe necesariamente una travesía; la barca debe permanecer disponible.",
       "La lectura y la puntuación exactas de SBLGNT, la Clementina y los códigos posicionales MorphGNT 6.12 aún requieren cotejo directo; no publicar versículos ni avanzar el rango hasta entonces."
     ],
-    "morphology_audit": "3,9: cobertura posicional completa, revisión contextual pendiente; 3,10–12 pendientes",
+    "morphology_audit": "3,9–12: cobertura posicional completa; segunda revisión filológica pendiente",
     "second_passage_review": "pending_1_1_onward"
   }
 }
