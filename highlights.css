@@ -20,3 +20,11 @@
 .ev-highlight-actions button:hover,.ev-highlight-actions a:hover,.ev-highlights-all:hover{text-decoration:underline}
 .ev-highlights-all{display:block;border-top:1px solid #e4e3da;padding-top:20px;margin-top:18px}
 @media(max-width:600px){.ev-highlights-panel{top:10px;bottom:10px}.ev-highlights-nav{padding:7px 9px;font-size:10px}}
+
+/* Shared header layout: keep Resaltados and account links on one line. */
+body[data-reading-id] .topbar-actions{display:flex;align-items:center;justify-content:flex-end;gap:12px;min-width:max-content;white-space:nowrap;padding-right:18px}
+body[data-reading-id] .topbar-actions .source-button{display:inline-flex;align-items:center;flex:0 0 auto;margin:0;white-space:nowrap;text-decoration:none}
+body[data-reading-id] .topbar-actions .ev-highlights-nav{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;white-space:nowrap;min-height:34px;line-height:1.3}
+body[data-reading-id] .topbar-actions .top-button{flex:0 0 auto}
+@media(max-width:860px){body[data-reading-id] .topbar-actions{min-width:0;gap:7px;padding-right:0}body[data-reading-id] .topbar-actions .ev-highlights-nav{padding:7px 9px}}
+@media(max-width:600px){body[data-reading-id] .topbar-actions{gap:5px}body[data-reading-id] .topbar-actions .source-button{font-size:9px}body[data-reading-id] .topbar-actions .ev-highlights-nav{font-size:10px}}

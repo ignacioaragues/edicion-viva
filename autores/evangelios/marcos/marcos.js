@@ -530,6 +530,42 @@
     verses.append(row);
   });
 
+  // The chapter index follows the published passage data, not a static HTML list.
+  // Newly added chapters and verses become navigable without editing index.html.
+  function buildPassageNavigation() {
+    const nav = document.querySelector('.passage-nav');
+    if (!nav) return;
+    nav.replaceChildren();
+    const titles = {
+      1: {1:'Juan el Bautista',9:'El bautismo de Jesús',12:'En el desierto',14:'El anuncio en Galilea',16:'Los primeros discípulos',21:'En la sinagoga de Cafarnaúm',29:'La casa de Simón y las curaciones',35:'Oración y predicación en Galilea',40:'La purificación de un enfermo'},
+      2: {1:'Regreso a Cafarnaúm',13:'Leví y los comensales',18:'El ayuno y lo nuevo',23:'Las espigas y el sábado'},
+      3: {1:'Una curación en sábado',7:'La multitud junto al mar',13:'La elección de los Doce',20:'Jesús y los suyos'}
+    };
+    const byChapter = new Map();
+    for (const verse of passages) {
+      const chapter = verse.chapter || 1;
+      if (!byChapter.has(chapter)) byChapter.set(chapter, []);
+      byChapter.get(chapter).push(verse.n);
+    }
+    for (const [chapter, numbers] of byChapter) {
+      const heading = makeElement('div','act-label');
+      heading.append(makeElement('span','', 'CAPÍTULO ' + chapter));
+      heading.append(makeElement('span','act-count', String(chapter).padStart(2,'0') + ' / 16'));
+      nav.append(heading);
+      const starts = Object.keys(titles[chapter] || {}).map(Number).filter(n => numbers.includes(n));
+      const segments = [...new Set([Math.min(...numbers), ...starts])].sort((a,b)=>a-b);
+      for (let i=0;i<segments.length;i++) {
+        const start = segments[i], end = i+1<segments.length ? segments[i+1]-1 : Math.max(...numbers);
+        const link = makeElement('a','passage-link');
+        link.href = '#v' + (chapter===1?'':chapter+'-') + start;
+        link.append(document.createTextNode(chapter + ',' + start + (end>start?'–'+end:'')));
+        link.append(makeElement('small','',titles[chapter]?.[start] || 'Continuación'));
+        nav.append(link);
+      }
+    }
+  }
+  buildPassageNavigation();
+
   // Columna latina opcional y diseño en bloques/columnas compartido con Plauto.
   const latinToggle = $('#toggle-vulgate');
   const latinVisible = safeRead(vulgateKey, 'false') === 'true';
