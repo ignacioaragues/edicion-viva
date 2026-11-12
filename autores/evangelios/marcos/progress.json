@@ -473,6 +473,21 @@
       ],
       "morphology": "12 fichas posicionales",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 24,
+      "to": 24,
+      "status": "edited_not_revised",
+      "source": "SBLGNT (Holmes 2010)",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/3/24-25",
+        "https://www.biblehub.com/commentaries/egt/mark/3.htm"
+      ],
+      "morphology": "12 fichas posicionales, alineación mecánica; auditoría contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -481,7 +496,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,24",
+  "next": "Marcos 3,25",
   "last_edit": "2026-11-12",
   "notes": "Marcos 3,20–21 incorporados con 28 fichas posicionales; segunda revisión filológica de los pasajes anteriores pendiente.",
   "review_tracking": {
@@ -622,7 +637,7 @@
     "status": "complete_for_published_verses",
     "chapter": 3,
     "from": 1,
-    "through": "3,23",
+    "through": "3,24",
     "token_count": 845,
     "distinct_surface_forms": 318,
     "distinct_lemmas": 208,
@@ -635,7 +650,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "3,23: 12 fichas posicionales; auditoría contextual pendiente"
+    "last_added": "3,24: 12 fichas posicionales; auditoría contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
