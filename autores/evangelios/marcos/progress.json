@@ -459,6 +459,20 @@
       ],
       "morphology": "21 fichas posicionales alineadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 23,
+      "to": 23,
+      "status": "edited_not_revised",
+      "source": "SBLGNT (Holmes 2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/3/22-23",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/3/23-27"
+      ],
+      "morphology": "12 fichas posicionales",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -467,7 +481,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,23",
+  "next": "Marcos 3,24",
   "last_edit": "2026-11-12",
   "notes": "Marcos 3,20–21 incorporados con 28 fichas posicionales; segunda revisión filológica de los pasajes anteriores pendiente.",
   "review_tracking": {
@@ -608,8 +622,8 @@
     "status": "complete_for_published_verses",
     "chapter": 3,
     "from": 1,
-    "through": "3,22",
-    "token_count": 833,
+    "through": "3,23",
+    "token_count": 845,
     "distinct_surface_forms": 318,
     "distinct_lemmas": 208,
     "source": "Tauber, J. K., ed. (2017), MorphGNT: SBLGNT Edition v6.12; https://github.com/morphgnt/sblgnt; CC BY-SA 3.0; DOI:10.5281/zenodo.376200",
@@ -621,7 +635,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "3,22: 21 fichas posicionales cotejadas con MorphGNT 6.12; auditoría contextual integral pendiente."
+    "last_added": "3,23: 12 fichas posicionales; auditoría contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -1072,8 +1086,8 @@
     "checkpoint_advanced": true
   },
   "prepublication_research_3_22_27": {
-    "status": "partially_published_3_22",
-    "verified_published_through": "3,22",
+    "status": "partially_published_3_22_23",
+    "verified_published_through": "3,23",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
