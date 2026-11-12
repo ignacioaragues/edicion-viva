@@ -400,6 +400,21 @@
       ],
       "morphology": "29 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 13,
+      "to": 15,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblehub.com/sbl/mark/3.htm",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.catholicshare.com/la/bible/clementine-vulgate/mark/3/",
+        "https://tips.translation.bible/story/sil-translators-notes-on-mark-314/"
+      ],
+      "morphology": "32 fichas posicionales; alineación mecánica completa",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -408,7 +423,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,11",
+  "next": "Marcos 3,16",
   "last_edit": "2026-11-12",
   "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes. Segunda pasada 1,42: duplicación narrativa de la curación/purificación y variante εἰπόντος αὐτοῦ, con fuentes incorporadas a nota emergente; auditoría morfológica contextual aún pendiente. Publicado 2,8 con 22 fichas posicionales verificadas y notas de variantes; auditoría contextual integral y pruebas interactivas pendientes. Marcos 2,27–28 incorporados con fichas posicionales completas y notas sobre διὰ, ἐγένετο, ὥστε y tradición textual; segunda revisión integral pendiente. Publicado Marcos 3,2 con 11 fichas MorphGNT posicionales, cotejo SBLGNT/Clementina y nota sobre vigilancia, interrogativa indirecta y finalidad; navegador pendiente.",
   "review_tracking": {
@@ -750,7 +765,7 @@
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
   "last_research_update": "2026-11-12",
-  "next_actions": "Continuar 3,7–12 con texto y fichas posicionales completas; mantener segunda revisión filológica desde 1,1.",
+  "next_actions": "Continuar Marcos 3,16–19; segunda revisión filológica retroactiva desde 1,1.",
   "research_pending_2_25_28": {
     "status": "partially_published_2_26",
     "date": "2026-11-11",
@@ -942,10 +957,10 @@
     "second_passage_review": "pending_1_1_onward"
   },
   "prepublication_research_3_13_19": {
-    "status": "research_in_progress_no_new_verses",
+    "status": "partially_published_through_3_15",
     "date": "2026-11-12",
     "passage": "Marcos 3,13–19",
-    "verified_published_through": "3,12",
+    "verified_published_through": "3,15",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -966,8 +981,8 @@
       "En 3,18 Καναναῖον no debe interpretarse sin más como origen geográfico de Cana o Canaán; cotejar etimología semítica y paralelos en Lc 6,15 y Hch 1,13.",
       "La secuencia 3,13–19 constituye una unidad narrativa; antes de publicar, cotejar la Clementina, la alineación posicional de MorphGNT y preparar glosas originales para todos los tokens."
     ],
-    "morphology_audit": "pending_for_3_13_19",
+    "morphology_audit": "3,13–15: cobertura mecánica completa; 3,16–19 pendiente",
     "second_passage_review": "pending_1_1_onward",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
