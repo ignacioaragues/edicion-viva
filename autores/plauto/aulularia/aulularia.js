@@ -584,7 +584,7 @@ for (const entry of verses) {
   right.className = 'spanish';
   right.textContent = entry.spanish;
   row.append(left,right);
-  row.dataset.section = Number(lastNumber) <= 39 ? 'prologue' : Number(lastNumber) <= 78 ? 'act1scene1' : Number(lastNumber) <= 119 ? 'act1scene2' : Number(lastNumber) <= 177 ? 'act2scene1' : 'act2scene2';
+  row.dataset.section = entry.section || (Number(lastNumber) <= 39 ? 'prologue' : Number(lastNumber) <= 78 ? 'act1scene1' : Number(lastNumber) <= 119 ? 'act1scene2' : Number(lastNumber) <= 177 ? 'act2scene1' : 'act2scene2');
   container.append(row);
 }
 
@@ -808,25 +808,48 @@ window.addEventListener('edicion-viva:dictionary-updated', event => {
 });
 window.addEventListener('resize', syncPanelButtons);
 
-/* Navegación editorial: no se mezclan tramos discontinuos. */
+/* Navegación editorial: se deriva de las secciones realmente publicadas.
+   Los futuros bloques pueden declarar entry.section y se incorporan sin editar el menú. */
 const sectionSelector = document.createElement('select');
 sectionSelector.id = 'section-selector';
 sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
-const maxPrologue = Math.max(0, ...verses.filter(v => Number(v.n) < 40).map(v => Number(v.n)));
-const maxSceneOne = Math.max(40, ...verses.filter(v => Number(v.n) >= 40 && Number(v.n) <= 78).map(v => Number(v.n)));
-const maxSceneTwo = Math.max(79, ...verses.filter(v => Number(v.n) >= 79 && Number(v.n) <= 119).map(v => Number(v.n)));
-const maxSceneThree = Math.max(120,...verses.filter(v => Number(v.n) >= 120 && Number(v.n) <= 177).map(v => Number(v.n)));
-const maxSceneFour = Math.max(178,...verses.filter(v => Number(v.n) >= 178).map(v => Number(v.n)));
-for (const [value,label] of [['prologue','Prólogo · vv. 1–' + maxPrologue],['act1scene1','Acto I · escena 1 · vv. 40–' + maxSceneOne],['act1scene2','Acto I · escena 2 · vv. 79–' + maxSceneTwo],['act2scene1','Acto II · escena 1 · vv. 120–' + maxSceneThree],['act2scene2','Acto II · escena 2 · vv. 178–' + maxSceneFour]]) {
- const option=document.createElement('option');option.value=value;option.textContent=label;sectionSelector.append(option);
+const sectionNames = {
+  prologue:'Prólogo · Lar familiar',
+  act1scene1:'Acto I, escena 1',
+  act1scene2:'Acto I, escena 2',
+  act2scene1:'Acto II, escena 1',
+  act2scene2:'Acto II, escena 2'
+};
+const sectionRanges = new Map();
+for (const row of container.querySelectorAll('.verse[data-section]')) {
+  const section = row.dataset.section;
+  const raw = row.querySelector('.verse-number')?.textContent || row.querySelector('.number')?.textContent || '';
+  const numbers = (raw.match(/\d+/g) || []).map(Number);
+  if (!sectionRanges.has(section)) sectionRanges.set(section, []);
+  sectionRanges.get(section).push(...numbers);
 }
-const sectionNav=document.createElement('nav');sectionNav.className='section-navigation';sectionNav.append(sectionSelector);
+for (const [section,numbers] of sectionRanges) {
+  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
+  const min = numbers.length ? Math.min(...numbers) : '';
+  const max = numbers.length ? Math.max(...numbers) : '';
+  const option = document.createElement('option');
+  option.value = section;
+  option.textContent = name + (numbers.length ? ' · vv. ' + min + '–' + max : '');
+  sectionSelector.append(option);
+}
+const sectionNav=document.createElement('nav');
+sectionNav.className='section-navigation';
+sectionNav.append(sectionSelector);
 document.querySelector('#section-nav-slot').append(sectionNav);
-function selectSection(section){
- for(const row of container.querySelectorAll('.verse'))row.hidden=row.dataset.section!==section;
- const current=document.querySelector('.position-current');if(current)current.textContent=section==='prologue'?'Prólogo · Lar familiar':section==='act1scene1'?'Acto I, escena 1':section==='act1scene2'?'Acto I, escena 2':section==='act2scene1'?'Acto II, escena 1':'Acto II, escena 2';
- const marker=document.querySelector('.position-marker strong');if(marker)marker.textContent=section==='prologue'?'vv. 1–'+maxPrologue:section==='act1scene1'?'vv. 40–'+maxSceneOne:section==='act1scene2'?'vv. 79–'+maxSceneTwo:section==='act2scene1'?'vv. 120–'+maxSceneThree:'vv. 178–'+maxSceneFour;
- closeWord();closeNote();
+function selectSection(section) {
+  for (const row of container.querySelectorAll('.verse')) row.hidden = row.dataset.section !== section;
+  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
+  const current=document.querySelector('.position-current');
+  if (current) current.textContent=name;
+  const numbers=sectionRanges.get(section)||[];
+  const marker=document.querySelector('.position-marker strong');
+  if (marker && numbers.length) marker.textContent='vv. '+Math.min(...numbers)+'–'+Math.max(...numbers);
+  closeWord(); closeNote();
 }
 sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));
-selectSection('prologue');
+if (sectionSelector.options.length) selectSection(sectionSelector.value);
