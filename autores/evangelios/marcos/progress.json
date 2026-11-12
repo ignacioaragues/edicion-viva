@@ -1109,7 +1109,34 @@
     ],
     "morphology_audit": "pending",
     "second_passage_review": "pending_after_1_45",
-    "checkpoint_advanced": true
+    "checkpoint_advanced": true,
+    "additional_review_3_23": {
+      "date": "2026-11-12",
+      "status": "source_checked_not_published",
+      "sources": [
+        {
+          "author": "Michael W. Holmes (ed.)",
+          "title": "The Greek New Testament: SBL Edition",
+          "year": 2010,
+          "section": "Mark 3:23",
+          "url": "https://biblia.com/bible/sblgnt/mark/3/22-26"
+        },
+        {
+          "author": "A. B. Bruce",
+          "title": "The Expositor's Greek Testament",
+          "section": "Mark 3:23–27",
+          "url": "https://www.biblehub.com/commentaries/egt/mark/3.htm"
+        }
+      ],
+      "observations": [
+        "προσκαλεσάμενος es participio aoristo medio, previo al imperfecto ἔλεγεν; la respuesta se dirige a los acusadores convocados.",
+        "ἐν παραβολαῖς designa aquí comparaciones argumentativas, no necesariamente relatos parabólicos desarrollados.",
+        "La repetición Σατανᾶς Σατανᾶν presenta el mismo nombre en nominativo y acusativo: el supuesto agente y el expulsado son Satanás; la pregunta Πῶς δύναται es retórica.",
+        "Cotejada la lectura SBLGNT de 3,23. Pendientes Vulgata Clementina literal y cotejo posicional MorphGNT 6.12; no avanzar checkpoint."
+      ],
+      "morphology_audit": "pending",
+      "checkpoint_advanced": false
+    }
   },
   "retroactive_review_log": [
     {
