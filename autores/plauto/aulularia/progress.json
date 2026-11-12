@@ -375,6 +375,15 @@
       "status": "edited_not_revised",
       "source": "Cotejo The Latin Library (2026-11-13); Leo 1895 base declarada, aparato impreso pendiente",
       "note": "39 tokens con morfología y glosas contextuales; notas sobre milvos/milvom y vadarier. Sin revisión retrospectiva certificada ni QA visual."
+    },
+    {
+      "section": "II.4",
+      "from": 321,
+      "to": 326,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Cotejo textual The Latin Library (consultado 2026-11-13); Leo (1895) base editorial declarada, cotejo directo de aparato pendiente",
+      "note": "45 tokens cotejados con fichas individuales y glosas contextuales; notas sobre nundinae y juego de tres letras (fur). Validación estática de tokens; sin QA visual ni segunda pasada consecutiva."
     }
   ],
   "pending": [
@@ -389,8 +398,8 @@
   ],
   "updated": "2026-11-13",
   "next": {
-    "section": "II.4",
-    "from": 321
+    "section": "II.5",
+    "from": 327
   },
   "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+.",
   "morphological_second_pass": {
@@ -834,6 +843,17 @@
         "sources": [
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
           "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/"
+        ]
+      },
+      {
+        "section": "II.1",
+        "from": 160,
+        "to": 161,
+        "status": "structural_inspection_not_morphology_revised",
+        "date": "2026-11-13",
+        "note": "Comprobado que el objeto identificado como 160 y el 161 contienen el mismo diálogo Num non vis...; el texto canónico coloca eam si iubes en 160. No se certifica auditoría morfológica hasta completar migración de localizadores; revisión consecutiva permanece en 159.",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ]
       }
     ]
