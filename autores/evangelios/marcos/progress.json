@@ -940,5 +940,34 @@
     ],
     "morphology_audit": "3,9–12: cobertura posicional completa; segunda revisión filológica pendiente",
     "second_passage_review": "pending_1_1_onward"
+  },
+  "prepublication_research_3_13_19": {
+    "status": "research_in_progress_no_new_verses",
+    "date": "2026-11-12",
+    "passage": "Marcos 3,13–19",
+    "verified_published_through": "3,12",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:13–19",
+        "url": "https://biblia.com/bible/sblgnt/mark/3/13-19"
+      },
+      {
+        "title": "Lexham English Bible, textual footnotes",
+        "section": "Mark 3:14, 3:16, 3:18",
+        "url": "https://biblia.com/bible/leb/mark/3/13-19"
+      }
+    ],
+    "editorial_observations": [
+      "SBLGNT 3,14 tiene ἐποίησεν δώδεκα sin la glosa ὃυς καὶ ἀποστόλους ὠνόμασεν; registrar la variante que añade la designación de apóstoles, sin interpolarla en el texto base.",
+      "SBLGNT 3,16 incluye καὶ ἐποίησεν τοὺς δώδεκα; algunos testigos omiten esta reiteración. Registrar la variante y evaluar la función discursiva de la repetición.",
+      "En 3,18 Καναναῖον no debe interpretarse sin más como origen geográfico de Cana o Canaán; cotejar etimología semítica y paralelos en Lc 6,15 y Hch 1,13.",
+      "La secuencia 3,13–19 constituye una unidad narrativa; antes de publicar, cotejar la Clementina, la alineación posicional de MorphGNT y preparar glosas originales para todos los tokens."
+    ],
+    "morphology_audit": "pending_for_3_13_19",
+    "second_passage_review": "pending_1_1_onward",
+    "checkpoint_advanced": false
   }
 }
