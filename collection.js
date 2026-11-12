@@ -33,7 +33,7 @@ const collection = [
     language: 'Griego koiné · Español · Latín opcional',
     status: 'available',
     url: './autores/evangelios/marcos/',
-    detail: 'Marcos 1,1–3,12',
+    detail: 'Marcos 1,1–3,15',
   },
   {
     author: 'Evangelio según Mateo',
