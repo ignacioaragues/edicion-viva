@@ -545,6 +545,20 @@
       ],
       "morphology": "43 fichas posicionales, cotejo mecánico 18+20+5",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 31,
+      "to": 31,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/3/31",
+        "https://biblia.com/bible/vulgataclem/mark/3/31-35",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "17 fichas posicionales cotejadas; auditoría contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -553,9 +567,9 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,31",
+  "next": "Marcos 3,32",
   "last_edit": "2026-11-13",
-  "notes": "Marcos 3,28–30 editado; 43 fichas completas; auditoría contextual y segunda pasada pendientes.",
+  "notes": "Marcos 3,31 incorporado; 17 fichas posicionales; revisión contextual pendiente.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
