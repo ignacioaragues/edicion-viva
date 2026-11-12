@@ -428,7 +428,7 @@
         "https://biblia.com/bible/vulgataclem/mark/3/16-19",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/3"
       ],
-      "morphology": "56 fichas posicionales, correspondencia mecánica verificada",
+      "morphology": "58 fichas posicionales (10+20+21+7), correspondencia mecánica verificada",
       "second_review": "pending"
     }
   ],
@@ -440,7 +440,7 @@
   ],
   "next": "Marcos 3,20",
   "last_edit": "2026-11-12",
-  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes. Segunda pasada 1,42: duplicación narrativa de la curación/purificación y variante εἰπόντος αὐτοῦ, con fuentes incorporadas a nota emergente; auditoría morfológica contextual aún pendiente. Publicado 2,8 con 22 fichas posicionales verificadas y notas de variantes; auditoría contextual integral y pruebas interactivas pendientes. Marcos 2,27–28 incorporados con fichas posicionales completas y notas sobre διὰ, ἐγένετο, ὥστε y tradición textual; segunda revisión integral pendiente. Publicado Marcos 3,2 con 11 fichas MorphGNT posicionales, cotejo SBLGNT/Clementina y nota sobre vigilancia, interrogativa indirecta y finalidad; navegador pendiente.",
+  "notes": "1,1–39 traducidos y anotados; 603 fichas morfológicas posicionales completas; revisión bibliográfica retrospectiva iniciada en 1,1–2, con revisión morfológica contextual todavía pendiente. Segunda pasada bibliográfica 1,3–6: notas revisadas sobre Isaías 40,3, bautismo de Juan y vestimenta/alimentación; no se añadieron nuevos versículos en esta pasada (1,40–45 requiere ficha morfológica integral). Segunda pasada 1,7–8: añadida nota sobre κύψας λῦσαι, tarea servil y cautela cronológica de paralelos rabínicos; cotejada la oposición agua/Espíritu sin introducir lectura de fuego ajena a Marcos. Segunda pasada 1,9–11: σχιζομένους, Mc 15,38 e Is 64,1; comparación de la paloma y ecos de Sal 2,7 e Is 42,1, con referencias bibliográficas y distinción entre alusiones e identificación explícita. Segunda pasada 1,14–20: construcción temporal de παραδοθῆναι, infinitivo γενέσθαι y límites de la inferencia socioeconómica a partir de μισθωτοί; fuentes enlazadas en notas. Segunda pasada 1,21–28: autoridad (ἐξουσία), enseñanza nueva (διδαχὴ καινή), ambigüedad de puntuación y vínculo narrativo entre enseñanza y exorcismo; referencias académicas en notas. Segunda pasada 1,35–39: cotejo de comentarios griegos; ampliada la nota de κατεδίωξεν (concordancia singular, intensidad léxica y cautela sobre hostilidad). Publicados 1,40–45 con 98 fichas posicionales cotejadas con SBLGNT, traducción original, Clementina y notas de variante 1,41; la prueba en navegador y la auditoría contextual permanecen pendientes. Segunda pasada 1,42: duplicación narrativa de la curación/purificación y variante εἰπόντος αὐτοῦ, con fuentes incorporadas a nota emergente; auditoría morfológica contextual aún pendiente. Publicado 2,8 con 22 fichas posicionales verificadas y notas de variantes; auditoría contextual integral y pruebas interactivas pendientes. Marcos 2,27–28 incorporados con fichas posicionales completas y notas sobre διὰ, ἐγένετο, ὥστε y tradición textual; segunda revisión integral pendiente. Publicado Marcos 3,2 con 11 fichas MorphGNT posicionales, cotejo SBLGNT/Clementina y nota sobre vigilancia, interrogativa indirecta y finalidad; navegador pendiente. Publicado 3,16–19 con 58 fichas MorphGNT posicionales y notas sobre repetición de los Doce, Boanergés, Cananeo y Judas; revisión contextual y navegador pendientes.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
@@ -570,7 +570,10 @@
         ]
       }
     ],
-    "policy": "Consultar fuentes académicas y comentarios externos en rondas sucesivas; distinguir revisión bibliográfica de simple cotejo textual."
+    "policy": "Consultar fuentes académicas y comentarios externos en rondas sucesivas; distinguir revisión bibliográfica de simple cotejo textual.",
+    "morphology_audit": "3,13–19: cobertura mecánica completa; revisión contextual integral pendiente",
+    "checkpoint_advanced": true,
+    "second_passage_review": "pending_1_1_onward"
   },
   "morphology_coverage": {
     "status": "complete_for_published_verses",
