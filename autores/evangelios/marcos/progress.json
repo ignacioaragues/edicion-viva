@@ -1002,5 +1002,44 @@
     "morphology_audit": "3,13–15: cobertura mecánica completa; 3,16–19 pendiente",
     "second_passage_review": "pending_1_1_onward",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_3_20_21": {
+    "status": "investigated_not_published",
+    "verified_published_through": "3,19",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:20–21",
+        "url": "https://biblia.com/bible/sblgnt/mark/3"
+      },
+      {
+        "title": "Cambridge Greek Testament for Schools and Colleges",
+        "section": "Mark 3:21",
+        "url": "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/3/21"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 3:21",
+        "url": "https://mail.biblehub.com/commentaries/egt/mark/3.htm"
+      },
+      {
+        "author": "William D. Mounce",
+        "title": "Those from [παρά] him (Mark 3:21)",
+        "url": "https://www.billmounce.com/blog/mwm/those-para-him-mark-3-21"
+      }
+    ],
+    "observations": [
+      "3,20: el infinitivo con ὥστε μὴ δύνασθαι expresa resultado: la multitud impide incluso comer pan; el sujeto αὐτούς es plural y no debe reducirse necesariamente a Jesús solo.",
+      "3,21: οἱ παρʼ αὐτοῦ designa a personas de su entorno; la identificación precisa como familiares es plausible a la luz de 3,31, pero no inequívoca por la locución sola. Cambridge y Bruce registran alternativas.",
+      "3,21: κρατῆσαι αὐτόν implica hacerse con el control de su persona; ἐξέστη permite la interpretación de que había perdido el juicio, pero la intensidad de la expresión y el referente de ἔλεγον se discuten.",
+      "La atribución de ἔλεγον a los allegados es la lectura sintáctica más directa; algunos comentaristas proponen rumores de terceros. Mantener explícita la incertidumbre.",
+      "Pendiente: cotejo posicional íntegro con MorphGNT 6.12 y texto Clementino antes de publicar; no modificar el checkpoint hasta validar todos los tokens."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending_1_1_onward",
+    "checkpoint_advanced": false
   }
 }
