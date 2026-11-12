@@ -384,12 +384,23 @@
       "status": "edited_not_revised",
       "source": "Cotejo textual The Latin Library (consultado 2026-11-13); Leo (1895) base editorial declarada, cotejo directo de aparato pendiente",
       "note": "45 tokens cotejados con fichas individuales y glosas contextuales; notas sobre nundinae y juego de tres letras (fur). Validación estática de tokens; sin QA visual ni segunda pasada consecutiva."
+    },
+    {
+      "section": "II.5",
+      "from": 327,
+      "to": 330,
+      "display_units": 5,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, cotejo 2026-11-13; Leo (1895) edición base, aparato crítico directo pendiente",
+      "note": "40 fichas individuales con glosas contextuales; 328a suplemento intercalado; laguna inicial de 329 indicada en nota, no suplida. Sin auditoría retrospectiva certificada ni QA visual."
     }
   ],
   "pending": [
     {
-      "section": "II.4",
-      "from": 321
+      "section": "II.5",
+      "from": 331,
+      "status": "pending"
     },
     {
       "section": "later scenes",
@@ -399,9 +410,9 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.5",
-    "from": 327
+    "from": 331
   },
-  "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+.",
+  "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+. | 2026-11-13: II.5 327–330 incorporados; segunda pasada consecutiva no avanzada, sigue en 159. Se mantiene pendiente migración compatible de II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
