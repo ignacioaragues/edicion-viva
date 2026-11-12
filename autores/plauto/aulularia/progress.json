@@ -394,6 +394,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, cotejo 2026-11-13; Leo (1895) edición base, aparato crítico directo pendiente",
       "note": "40 fichas individuales con glosas contextuales; 328a suplemento intercalado; laguna inicial de 329 indicada en nota, no suplida. Sin auditoría retrospectiva certificada ni QA visual."
+    },
+    {
+      "section": "II.5",
+      "from": 331,
+      "to": 335,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895) identified via Perseus/Scaife; textual cotejo The Latin Library (2026-11-13)",
+      "note": "33 fichas con glosas contextuales; dos notas con referencias sobre pinguior y hucine. Sin prueba visual; aparato crítico impreso no cotejado. La segunda pasada consecutiva no avanzó."
     }
   ],
   "pending": [
@@ -408,10 +417,7 @@
     }
   ],
   "updated": "2026-11-13",
-  "next": {
-    "section": "II.5",
-    "from": 331
-  },
+  "next": "II.5, verso 336; antes auditar consecutivamente II.1, 160–164 resolviendo los localizadores históricos 142–161.",
   "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+. | 2026-11-13: II.5 327–330 incorporados; segunda pasada consecutiva no avanzada, sigue en 159. Se mantiene pendiente migración compatible de II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
