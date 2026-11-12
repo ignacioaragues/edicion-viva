@@ -6,16 +6,6 @@
  */
 const collection = [
   {
-    author: 'William Shakespeare',
-    period: 'TEATRO ISABELINO',
-    work: 'Coriolanus',
-    translated: 'Coriolano',
-    language: 'Inglés · Español',
-    status: 'available',
-    url: 'https://ignacioaragues.github.io/shakespeare-edicion-viva/',
-    detail: 'Edición bilingüe en marcha',
-  },
-  {
     author: 'Tito Maccio Plauto',
     period: 'COMEDIA LATINA',
     work: 'Aulularia',
@@ -23,7 +13,17 @@ const collection = [
     language: 'Latín · Español',
     status: 'available',
     url: './autores/plauto/aulularia/',
-    detail: 'Edición en curso · Prólogo 1–39; I.1, 40–78; I.2, 79–119; II.1, 120–177; II.2, 178–267; II.3, 268–274 (revisión filológica en curso)',
+    detail: 'En curso',
+  },
+  {
+    author: 'William Shakespeare',
+    period: 'TEATRO ISABELINO',
+    work: 'Coriolanus',
+    translated: 'Coriolano',
+    language: 'Inglés · Español',
+    status: 'available',
+    url: 'https://ignacioaragues.github.io/shakespeare-edicion-viva/',
+    detail: 'En curso',
   },
   {
     author: 'Evangelio según Marcos',
@@ -33,7 +33,7 @@ const collection = [
     language: 'Griego koiné · Español · Latín opcional',
     status: 'available',
     url: './autores/evangelios/marcos/',
-    detail: 'Marcos 1,1–3,22',
+    detail: 'En curso',
   },
   {
     author: 'Evangelio según Mateo',
