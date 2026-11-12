@@ -530,6 +530,21 @@
       ],
       "morphology": "25 fichas posicionales cotejadas; auditoría contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 3,
+      "from": 28,
+      "to": 30,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/3",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/3/28-30",
+        "https://www.biblehub.com/commentaries/egt/mark/3.htm"
+      ],
+      "morphology": "43 fichas posicionales, cotejo mecánico 18+20+5",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -538,9 +553,9 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 3,28",
+  "next": "Marcos 3,31",
   "last_edit": "2026-11-13",
-  "notes": "Marcos 3,27 incorporado con 25 fichas posicionales; segunda revisión filológica pendiente.",
+  "notes": "Marcos 3,28–30 editado; 43 fichas completas; auditoría contextual y segunda pasada pendientes.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
@@ -1232,7 +1247,7 @@
     }
   ],
   "prepublication_research_3_28_30": {
-    "status": "researched_not_published",
+    "status": "published",
     "verified_published_through": "3,27",
     "date": "2026-11-13",
     "sources": [
@@ -1262,8 +1277,8 @@
       "3,30: ὅτι ἔλεγον explica narrativamente la advertencia por la acusación reiterada «Πνεῦμα ἀκάθαρτον ἔχει»; no confundir la explicación del narrador con una definición exhaustiva y atemporal del pecado.",
       "Pendiente: cotejo exacto con Vulgata Clementina y MorphGNT 6.12, glosas posicionales y validación completa antes de publicar 3,28–30. No se adelantó el checkpoint."
     ],
-    "morphology_audit": "pending",
+    "morphology_audit": "mechanical_complete_contextual_pending",
     "second_passage_review": "pending",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
