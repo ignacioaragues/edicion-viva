@@ -1096,5 +1096,27 @@
     "morphology_audit": "pending",
     "second_passage_review": "pending_after_1_45",
     "checkpoint_advanced": false
-  }
+  },
+  "retroactive_review_log": [
+    {
+      "passage": "1,1",
+      "date": "2026-11-12",
+      "scope": "segunda pasada parcial: variante υἱοῦ θεοῦ, bibliografía y posiciones críticas; revisión morfológica contextual completa aún pendiente",
+      "sources": [
+        {
+          "author": "Tommy Wasserman",
+          "title": "The ‘Son of God’ was in the Beginning (Mark 1:1)",
+          "year": 2011,
+          "doi": "10.1093/jts/flr013"
+        },
+        {
+          "author": "Alexander Globe",
+          "title": "The Caesarean Omission of the Phrase ‘Son of God’ in Mark 1:1",
+          "year": 1982,
+          "doi": "10.1017/S0017816000018319"
+        }
+      ],
+      "status": "textual_note_revised_not_full_philological_audit"
+    }
+  ]
 }
