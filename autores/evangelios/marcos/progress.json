@@ -1056,5 +1056,45 @@
     "morphology_audit": "pending",
     "second_passage_review": "pending_1_1_onward",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_3_22_27": {
+    "status": "investigated_not_published",
+    "verified_published_through": "3,21",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 3:22–27",
+        "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+      },
+      {
+        "author": "James K. Tauber",
+        "title": "MorphGNT SBLGNT 6.12",
+        "section": "Mark 3:22–27",
+        "url": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      },
+      {
+        "title": "A Student's Guide to New Testament Textual Variants",
+        "section": "Mark 3:22",
+        "url": "https://www.sermonindex.net/commentary/sgnt/MRK/3/"
+      },
+      {
+        "author": "Heinrich A. W. Meyer",
+        "title": "Critical and Exegetical Commentary on the New Testament",
+        "section": "Mark 3:22–27",
+        "url": "https://lemma.gebible.app/v/mark/3/22"
+      }
+    ],
+    "observations": [
+      "3,22: ἔλεγον es imperfecto, con valor de acusación reiterada; καταβάντες especifica el descenso desde Jerusalén, sin determinar por sí solo una misión oficial.",
+      "3,22: Βεελζεβούλ presenta variantes ortográficas (incluida Βεεζεβούλ y la forma latina Beelzebub); no sustituir la lectura de SBLGNT por una etimología conjetural. El aparato abierto consultado registra la alternancia y testimonios.",
+      "3,23–26: la pregunta retórica sobre Satanás se desarrolla mediante dos comparaciones paralelas, reino y casa divididos; la repetición de καί estructura el razonamiento.",
+      "3,27: la imagen de atar al hombre fuerte antes de saquear su casa tiene paralelo en Mateo 12,29 y Lucas 11,21–22, con diferencias narrativas que no deben armonizarse.",
+      "Pendiente antes de publicar: cotejar literalmente la Clementina, alinear cada token SBLGNT con MorphGNT y escribir glosas originales; no avanzar el checkpoint."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending_after_1_45",
+    "checkpoint_advanced": false
   }
 }
