@@ -648,15 +648,28 @@
       ],
       "morphology": "31 fichas posicionales (24+7), alineación mecánica verificada",
       "second_review": "pending"
-    }
-  ],
-  "pending": [
+    },
     {
-      "chapters": "3–16",
-      "status": "pending"
+      "chapter": 4,
+      "from": 10,
+      "to": 12,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/4/9-12",
+        "https://publications.hse.ru/en/articles/802061791"
+      ],
+      "morphology": "52/52 fichas posicionales; correspondencia superficial verificada; revisión contextual pendiente",
+      "second_review": "pending"
     }
   ],
-  "next": "Marcos 4,10",
+  "pending": "Continuar desde Marcos 4,13; segunda revisión filológica integral pendiente.",
+  "next": {
+    "chapter": 4,
+    "verse": 13
+  },
   "last_edit": "2026-11-13",
   "notes": "Marcos 4,4–5 incorporado; 38 fichas posicionales; auditoría contextual pendiente.",
   "review_tracking": {
@@ -1460,5 +1473,12 @@
     "morphology_audit": "mechanical_complete_contextual_pending",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_4_10_12": {
+    "date": "2026-11-13",
+    "status": "published_through_4_12",
+    "notes": "Is 6,9–10; distinción entre sintaxis y exégesis; Yurovitskaya (2022) como hipótesis, no consenso; Vulgata añade nosse y peccata.",
+    "morphology_audit": "mechanical_complete_contextual_pending",
+    "second_passage_review": "pending"
   }
 }
