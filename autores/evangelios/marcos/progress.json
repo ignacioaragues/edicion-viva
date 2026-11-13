@@ -633,6 +633,21 @@
       ],
       "morphology": "17 fichas posicionales cotejadas; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 8,
+      "to": 9,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4/8-9",
+        "https://biblia.com/bible/vulgataclem/mark/4/8-9",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblehub.com/commentaries/egt/mark/4.htm"
+      ],
+      "morphology": "31 fichas posicionales (24+7), alineación mecánica verificada",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -641,7 +656,7 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 4,8",
+  "next": "Marcos 4,10",
   "last_edit": "2026-11-13",
   "notes": "Marcos 4,4–5 incorporado; 38 fichas posicionales; auditoría contextual pendiente.",
   "review_tracking": {
@@ -795,7 +810,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "4,7: 17 fichas posicionales; revisión contextual pendiente"
+    "last_added": "4,8–9: 31 fichas posicionales; revisión contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -1411,8 +1426,8 @@
   },
   "prepublication_research_4_4_9": {
     "date": "2026-11-13",
-    "status": "partially_published_4_4_7",
-    "verified_published_through": "4,7",
+    "status": "published_through_4_9",
+    "verified_published_through": "4,9",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -1441,8 +1456,8 @@
       "4,4: el griego SBLGNT presenta τὰ πετεινά sin «del cielo»; la Vulgata Clementina tiene volucres cæli. Mantener diferencia sin armonizar.",
       "Bruce observa que Marcos explicita el crecimiento y rendimiento de la buena tierra (4,8) y dispone la productividad 30, 60, 100, a diferencia del orden de Mateo. Cotejar literal antes de incorporar."
     ],
-    "pending": "Continuar desde 4,8; cotejar texto y morfología de 4,8–9.",
-    "morphology_audit": "not_started",
+    "pending": "Seguir desde 4,10; segunda pasada integral pendiente.",
+    "morphology_audit": "mechanical_complete_contextual_pending",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
   }
