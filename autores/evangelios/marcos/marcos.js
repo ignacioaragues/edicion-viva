@@ -595,7 +595,7 @@
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr, p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
+    greekContent(original, p.gr, p.chapter === 4 ? 400 + p.n : p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
