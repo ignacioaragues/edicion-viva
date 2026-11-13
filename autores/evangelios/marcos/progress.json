@@ -1527,5 +1527,38 @@
     "morphology_audit": "pending",
     "second_passage_review": "pending",
     "checkpoint_advanced": false
+  },
+  "prepublication_research_4_15": {
+    "date": "2026-11-13",
+    "status": "source_checked_not_published",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 4:15",
+        "url": "https://www.biblestudytools.com/sblg/mark/4-15.html"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 4:15",
+        "url": "https://biblehub.com/commentaries/mark/4-15.htm"
+      },
+      {
+        "title": "Vulgata Clementina",
+        "section": "Mark 4:15",
+        "url": "https://biblia.com/bible/vulgataclem/mark/4/15-19"
+      }
+    ],
+    "observations": [
+      "SBLGNT: οἱ παρὰ τὴν ὁδόν es expresión elíptica: identifica a los oyentes con el terreno del camino; Bruce comenta explícitamente la elipsis.",
+      "ὅταν ἀκούσωσιν: conjunción temporal con subjuntivo aoristo; εὐθὺς destaca la inmediatez de la acción.",
+      "SBLGNT lee εἰς αὐτούς («en ellos»); la Clementina dice in cordibus eorum («en sus corazones»). La lectura griega con ἐν ταῖς καρδίαις αὐτῶν pertenece a otra tradición textual y no debe introducirse en el cuerpo SBLGNT.",
+      "Pendiente la ficha posicional íntegra MorphGNT 6.12 y la validación del lector antes de publicar el versículo. No adelantar checkpoint."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
   }
 }
