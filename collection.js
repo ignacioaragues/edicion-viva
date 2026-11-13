@@ -33,7 +33,7 @@ const collection = [
     language: 'Griego koiné · Español · Latín opcional',
     status: 'available',
     url: './autores/evangelios/marcos/',
-    detail: 'En curso · Marcos 1,1–4,6',
+    detail: 'En curso · Marcos 1,1–4,7',
   },
   {
     author: 'Evangelio según Mateo',
