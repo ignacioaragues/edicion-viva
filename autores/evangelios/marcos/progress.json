@@ -678,12 +678,28 @@
       ],
       "morphology": "19/19 fichas posicionales cotejadas con MorphGNT 6.12; auditoría contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 15,
+      "to": 15,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4/14-15",
+        "https://biblia.com/bible/vulgataclem/mark/4/15-19",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/15",
+        "https://www.bibliaplus.org/en/commentaries/428/a-textual-commentary-on-the-greek-new-testament-by-bruce-m-metzger/mark/4/15",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "26/26 fichas posicionales; auditoría filológica contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,15; revisión contextual integral de morfología y segunda pasada filológica pendientes.",
   "next": {
     "chapter": 4,
-    "verse": 15
+    "verse": 16
   },
   "last_edit": "2026-11-13",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1530,7 +1546,7 @@
   },
   "prepublication_research_4_15": {
     "date": "2026-11-13",
-    "status": "source_checked_not_published",
+    "status": "published_morphology_mechanically_aligned",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -1559,6 +1575,6 @@
     ],
     "morphology_audit": "pending",
     "second_passage_review": "pending",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
