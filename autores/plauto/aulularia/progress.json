@@ -511,6 +511,14 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), text cotejado The Latin Library, 2026-11-14",
       "note": "21 fichas con glosas contextuales; equívoco aula de cocina / olla de oro; si pote y quit. Segunda pasada consecutiva permanece en 159, migración de IDs II.1 pendiente. Sin prueba visual."
+    },
+    {
+      "section": "II.8",
+      "from": 393,
+      "to": 397,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library; 393 entre corchetes y 396 suplemento <si> señalados"
     }
   ],
   "pending": [
@@ -527,9 +535,9 @@
   "updated": "2026-11-14",
   "next": {
     "section": "II.8",
-    "from": 393
+    "from": 398
   },
-  "editorial_note": "II.8 385–389 incorporados; revisar los 32 tokens, notas y navegación en navegador; segunda revisión consecutiva sigue bloqueada en 159 por localizadores históricos de II.1.",
+  "editorial_note": "II.8 vv. 393–397 incorporados; 393 conservado entre corchetes como verso textualmente cuestionado; 396 <si> suplemento. Auditoría retrospectiva permanece en 159; requiere migración de identificadores II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
