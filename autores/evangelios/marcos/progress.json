@@ -604,6 +604,19 @@
       ],
       "morphology": "38 fichas posicionales (18+20), cotejo mecánico",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 6,
+      "to": 6,
+      "status": "edited_not_revised",
+      "source": "https://biblia.com/bible/sblgnt/mark/4",
+      "external_references": [
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.catholicshare.com/bible/clementine-vulgate/mark/4/",
+        "https://biblehub.com/text/mark/4-6.htm"
+      ],
+      "morphology_coverage": "13/13 mechanical; contextual review pending"
     }
   ],
   "pending": [
@@ -1382,8 +1395,8 @@
   },
   "prepublication_research_4_4_9": {
     "date": "2026-11-13",
-    "status": "partially_published_4_4_5",
-    "verified_published_through": "4,5",
+    "status": "partially_published_4_4_6",
+    "verified_published_through": "4,6",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -1412,7 +1425,7 @@
       "4,4: el griego SBLGNT presenta τὰ πετεινά sin «del cielo»; la Vulgata Clementina tiene volucres cæli. Mantener diferencia sin armonizar.",
       "Bruce observa que Marcos explicita el crecimiento y rendimiento de la buena tierra (4,8) y dispone la productividad 30, 60, 100, a diferencia del orden de Mateo. Cotejar literal antes de incorporar."
     ],
-    "pending": "Continuar desde 4,6; cotejar texto y morfología de 4,6–9.",
+    "pending": "Continuar desde 4,7; cotejar texto y morfología de 4,7–9.",
     "morphology_audit": "not_started",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
