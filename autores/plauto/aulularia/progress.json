@@ -457,12 +457,21 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus/LateinLex; cotejo The Latin Library, 2026-11-13",
       "note": "42 tokens analizados con glosas contextuales; nota sobre superi/inferi y cenati/incenati; revisión consecutiva permanece en 159; aparato crítico impreso pendiente."
+    },
+    {
+      "section": "II.7",
+      "from": 369,
+      "to": 370,
+      "verses": 2,
+      "status": "edited_not_revised",
+      "source": "Cotejo The Latin Library, 2026-11-13; Friedrich Leo (1895) edición de referencia, aparato crítico directo pendiente",
+      "note": "14 tokens con lemas, morfología y glosas contextuales; nota sobre rapacidarum y siet. Segunda pasada retrospectiva permanece en 159; no se certificó nueva revisión."
     }
   ],
   "pending": [
     {
-      "section": "II.7",
-      "from": 369,
+      "section": "II.8",
+      "from": 371,
       "status": "pending"
     },
     {
@@ -472,8 +481,8 @@
   ],
   "updated": "2026-11-13",
   "next": {
-    "section": "II.7",
-    "from": 369
+    "section": "II.8",
+    "from": 371
   },
   "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161).",
   "morphological_second_pass": {
