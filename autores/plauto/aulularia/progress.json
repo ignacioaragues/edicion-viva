@@ -516,7 +516,7 @@
   "pending": [
     {
       "section": "II.8",
-      "from": 390,
+      "from": 393,
       "status": "pending"
     },
     {
@@ -524,10 +524,10 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "next": {
     "section": "II.8",
-    "from": 390
+    "from": 393
   },
   "editorial_note": "II.8 385–389 incorporados; revisar los 32 tokens, notas y navegación en navegador; segunda revisión consecutiva sigue bloqueada en 159 por localizadores históricos de II.1.",
   "morphological_second_pass": {
