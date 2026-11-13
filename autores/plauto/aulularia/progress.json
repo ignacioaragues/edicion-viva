@@ -502,6 +502,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), edición base identificada en Perseus; cotejo The Latin Library, 2026-11-13",
       "note": "32 fichas con glosas contextuales; nota sobre tusculum, Lar, gnatae y strepitust. Segunda pasada consecutiva sigue en 159 por conflicto de localizadores en II.1; aparato de Leo y QA visual pendientes."
+    },
+    {
+      "section": "II.8",
+      "from": 390,
+      "to": 392,
+      "verses": 3,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), text cotejado The Latin Library, 2026-11-14",
+      "note": "21 fichas con glosas contextuales; equívoco aula de cocina / olla de oro; si pote y quit. Segunda pasada consecutiva permanece en 159, migración de IDs II.1 pendiente. Sin prueba visual."
     }
   ],
   "pending": [
