@@ -709,12 +709,27 @@
       ],
       "morphology": "19/19 fichas posicionales cotejadas; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 17,
+      "to": 17,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblehub.com/texts/mark/4-17.htm",
+        "https://biblia.com/bible/vulgataclem/mark/4/15-19",
+        "https://lemma.gebible.app/v/mark/4/17"
+      ],
+      "morphology": "19/19 fichas posicionales cotejadas con MorphGNT 6.12; revisión contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,15; revisión contextual integral de morfología y segunda pasada filológica pendientes.",
   "next": {
     "chapter": 4,
-    "verse": 17
+    "verse": 18
   },
   "last_edit": "2026-11-13",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -869,7 +884,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "4,13–14: 19 fichas posicionales; revisión contextual pendiente"
+    "last_added": "4,17: 19/19 fichas posicionales; revisión contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -1595,6 +1610,18 @@
   "prepublication_research_4_16": {
     "date": "2026-11-13",
     "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "19/19 positional",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": true
+  },
+  "prepublication_research_4_17": {
+    "date": "2026-11-13",
+    "status": "published_morphology_mechanically_aligned",
+    "observations": [
+      "πρόσκαιροί: duración limitada, sin raíz duradera.",
+      "γενομένης θλίψεως ἢ διωγμοῦ: genitivo absoluto, con disyunción griega que la Clementina presenta como et.",
+      "σκανδαλίζονται: tropiezan; TR εὐθέως frente a SBLGNT εὐθὺς."
+    ],
     "morphology_audit": "19/19 positional",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
