@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–3 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -112,9 +112,15 @@
     {"chapter":3,"n":33,"gr":"καὶ ἀποκριθεὶς αὐτοῖς λέγει· Τίς ἐστιν ἡ μήτηρ μου ἢ οἱ ἀδελφοί μου;","es":"Él les responde: «¿Quién es mi madre, o quiénes son mis hermanos?».","la":"Et respondens eis, ait: Quæ est mater mea et fratres mei?","notes":["mc3familia33"]},
     {"chapter":3,"n":34,"gr":"καὶ περιβλεψάμενος τοὺς περὶ αὐτὸν κύκλῳ καθημένους λέγει· Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου·","es":"Y, después de mirar a quienes estaban sentados en círculo a su alrededor, dice: «Aquí están mi madre y mis hermanos».","la":"Et circumspiciens eos, qui in circuitu ejus sedebant, ait: Ecce mater mea et fratres mei.","notes":["mc3familia34"]},
     {"chapter":3,"n":35,"gr":"ὃς γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.","es":"Porque quien haga la voluntad de Dios, ese es mi hermano, mi hermana y mi madre.","la":"Qui enim fecerit voluntatem Dei, hic frater meus, et soror mea, et mater est.","notes":["mc3familia35"]}
+    ,{"chapter":4,"n":1,"gr":"Καὶ πάλιν ἤρξατο διδάσκειν παρὰ τὴν θάλασσαν. καὶ συνάγεται πρὸς αὐτὸν ὄχλος πλεῖστος, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα καθῆσθαι ἐν τῇ θαλάσσῃ, καὶ πᾶς ὁ ὄχλος πρὸς τὴν θάλασσαν ἐπὶ τῆς γῆς ἦσαν.","es":"De nuevo comenzó a enseñar junto al mar. Se reúne a su alrededor una multitud enorme, de modo que él sube a una barca y se sienta en el mar, mientras toda la multitud permanece en tierra, junto a la orilla.","la":"Et iterum cœpit docere ad mare: et congregata est ad eum turba multa, ita ut navim ascendens sederet in mari, et omnis turba circa mare super terram erat:","notes":["mc4barca"]},
+    {"chapter":4,"n":2,"gr":"καὶ ἐδίδασκεν αὐτοὺς ἐν παραβολαῖς πολλά καὶ ἔλεγεν αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ·","es":"Les enseñaba muchas cosas por medio de parábolas y, en el curso de su enseñanza, les decía:","la":"et docebat eos in parabolis multa, et dicebat illis in doctrina sua:","notes":["mc4parabolas"]},
+    {"chapter":4,"n":3,"gr":"Ἀκούετε. ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι.","es":"«Escuchen. Miren: salió el sembrador a sembrar».","la":"Audite: ecce exiit seminans ad seminandum.","notes":["mc4escuchen"]}
   ];
 
   const notes = {
+    mc4barca: ["La barca y la multitud","El presente histórico συνάγεται contrasta con ἤρξατο; el singular colectivo ὄχλος aparece con ἦσαν en plural al final del versículo. El griego sitúa la barca ἐν τῇ θαλάσσῃ y a la multitud ἐπὶ τῆς γῆς: la oposición espacial es explícita, no una prueba de condiciones acústicas. Fuentes: Holmes (ed.), SBLGNT (2010), Mc 4,1, https://biblehub.com/sbl/mark/4.htm; Sinopsis griega, https://www.virtualreligion.net/primer/sower_gr.html."],
+    mc4parabolas: ["En parábolas","ἐν παραβολαῖς expresa el modo de enseñanza; πολλά es acusativo neutro plural, «muchas cosas». El imperfecto ἐδίδασκεν presenta la enseñanza como actividad en curso. Fuente: Holmes (ed.), SBLGNT (2010), Mc 4,2, https://biblehub.com/sbl/mark/4.htm."],
+    mc4escuchen: ["Escuchar antes de interpretar","Ἀκούετε es imperativo presente de segunda persona plural; ἰδού introduce la escena y ὁ σπείρων sustantiva el participio: «el que siembra». El infinitivo σπεῖραι expresa el propósito de la salida. Fuente: Holmes (ed.), SBLGNT (2010), Mc 4,3, https://biblehub.com/sbl/mark/4.htm."]
     mc3familia32: ["La familia afuera","La oposición entre ἔξω («afuera») y περὶ αὐτόν («alrededor de él») estructura la escena. Algunos testigos añaden «y tus hermanas», palabras ausentes del SBLGNT, pero las hermanas aparecen en 3,35. Fuentes: Holmes (ed.), SBLGNT (2010), Mc 3,32, https://biblehub.com/sbl/mark/3.htm; A. B. Bruce, Expositor's Greek Testament, Mc 3,32, https://biblehub.com/commentaries/egt/mark/3.htm."],
     mc3familia33: ["La pregunta sobre el parentesco","Τίς ἐστιν («¿quién es?») inicia una pregunta retórica que se resuelve en 3,34–35. No implica que Jesús desconozca la identidad de su familia. Paralelos: Mt 12,48–50 y Lc 8,21. Fuente: Holmes (ed.), SBLGNT (2010), Mc 3,33–35, https://biblehub.com/sbl/mark/3.htm."],
     mc3familia34: ["Una mirada circular","περιβλεψάμενος es participio aoristo medio de περιβλέπομαι; κύκλῳ refuerza la disposición circular. El mismo verbo aparece en Mc 3,5, acompañado allí de ira, sentimiento que no se debe trasladar automáticamente a 3,34. Fuente: A. B. Bruce, Expositor's Greek Testament, Mc 3,34, https://biblehub.com/commentaries/egt/mark/3.htm."],
@@ -569,7 +575,8 @@
     const titles = {
       1: {1:'Juan el Bautista',9:'El bautismo de Jesús',12:'En el desierto',14:'El anuncio en Galilea',16:'Los primeros discípulos',21:'En la sinagoga de Cafarnaúm',29:'La casa de Simón y las curaciones',35:'Oración y predicación en Galilea',40:'La purificación de un enfermo'},
       2: {1:'Regreso a Cafarnaúm',13:'Leví y los comensales',18:'El ayuno y lo nuevo',23:'Las espigas y el sábado'},
-      3: {1:'Una curación en sábado',7:'La multitud junto al mar',13:'La elección de los Doce',20:'Jesús y los suyos'}
+      3: {1:'Una curación en sábado',7:'La multitud junto al mar',13:'La elección de los Doce',20:'Jesús y los suyos'},
+      4: {1:'La enseñanza junto al mar'}
     };
     const byChapter = new Map();
     for (const verse of passages) {
