@@ -439,12 +439,21 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus (atribución base); cotejo The Latin Library, 2026-11-13",
       "note": "37 fichas individuales con glosas contextuales; notas sobre Cererin y temeti; no se certificó segunda pasada retrospectiva; queda en 159. Aparato impreso y QA visual pendientes."
+    },
+    {
+      "section": "II.6",
+      "from": 356,
+      "to": 362,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus reference; textual comparison The Latin Library 2026-11-13",
+      "note": "46 individual morphological entries and contextual Spanish glosses; notes on asseres/ligna and Vulcanus. Retroactive morphology review remains at 159; Leo printed apparatus and browser QA pending."
     }
   ],
   "pending": [
     {
-      "section": "II.6",
-      "from": 350,
+      "section": "II.7",
+      "from": 363,
       "status": "pending"
     },
     {
@@ -454,10 +463,10 @@
   ],
   "updated": "2026-11-13",
   "next": {
-    "section": "II.6",
-    "from": 356
+    "section": "II.7",
+    "from": 363
   },
-  "editorial_note": "II.5 342–345: inventario y sospecha contra los cocineros; revisión consecutiva sigue en 159 debido a la migración pendiente de localizadores históricos de II.1. Sin QA visual ni aparato crítico impreso cotejado.",
+  "editorial_note": "II.6 356–362 published; 46 tokens with individual morphological records and contextual glosses. Retrospective second pass remains at 159 pending safe locator migration of II.1. No browser QA or direct printed apparatus collation.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
