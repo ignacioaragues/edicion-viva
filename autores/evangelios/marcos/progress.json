@@ -1745,14 +1745,17 @@
       "Βλέπετε τί ἀκούετε: atención al contenido escuchado",
       "μέτρῳ / μετρεῖτε / μετρηθήσεται: figura de repetición léxica",
       "TR añade τοῖς ἀκούουσιν al final de 4,24; SBLGNT y Clementina no",
-      "En 4,25 los pasivos no identifican al agente; interpretación contextual vinculada a la comprensión"
+      "En 4,25 los pasivos no identifican al agente; interpretación contextual vinculada a la comprensión",
+      "Cotejo adicional de testimonios transcritos: Sinaiticus en Mc 4,24 no incluye τοῖς ἀκούουσιν; Alexandrinus sí lo presenta. La variante no puede describirse simplemente como oposición uniforme entre manuscritos antiguos y tradición tardía. Fuente: greeknewtestament.net/mk4-24 (transcripciones secundarias; pendiente cotejo con facsímiles/aparato crítico).",
+      "El tokenizador actual de greekContent ya contempla U+2019 (’) y U+1FBD (᾽); antes de modificarlo, comparar exactamente la secuencia Unicode de ἀπ’ en el texto SBLGNT y el campo de superficie de MorphGNT. Evitar normalizaciones globales que alteren offsets de resaltados."
     ],
     "sources": [
       "https://biblehub.com/sbl/mark/4.htm",
       "https://biblia.com/bible/vulgataclem/mark/4/24-25",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
-      "https://tips.translation.bible/story/translation-commentary-on-mark-424-425/"
+      "https://tips.translation.bible/story/translation-commentary-on-mark-424-425/",
+      "https://greeknewtestament.net/mk4-24"
     ]
   }
 }
