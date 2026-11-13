@@ -528,14 +528,18 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo The Latin Library e IntraText (2026-11-14)",
       "note": "Ocho versos de Ántrax; 52 tokens con fichas y glosas contextuales."
+    },
+    {
+      "section": "III.1",
+      "from": 406,
+      "to": 410,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejo The Latin Library y Gadsden Classics (2026-11-14)",
+      "note": "47 fichas y glosas contextuales; optati vires lectura problemática pendiente de colación crítica; coquinatum supino; gymnasium metáfora cómica. Segunda revisión morfológica no avanzada."
     }
   ],
   "pending": [
-    {
-      "section": "II.8",
-      "from": 393,
-      "status": "pending"
-    },
     {
       "section": "later scenes",
       "status": "pending"
@@ -544,9 +548,9 @@
   "updated": "2026-11-14",
   "next": {
     "section": "III.1",
-    "from": 406
+    "from": 411
   },
-  "editorial_note": "II.9 vv.398–405 incorporados; segunda revisión permanece en 159 a la espera de migración compatible de II.1. Corrección de división dramática (2026-11-14): el v. 406 abre el acto III, escena 1 (Congrión), no II.10; cotejo IntraText, índice de actos y texto de Act III. La escena II.9 termina en 405. No se incorporaron versos ni se avanzó la revisión morfológica en esta corrección.",
+  "editorial_note": "III.1 vv.406–410 incorporados; auditoría retrospectiva consecutiva no realizada, checkpoint de segunda pasada permanece sin cambios. Verificar lectura Optati vires en edición crítica y continuar III.1 desde 411 (incluidas subdivisiones 411a y 412a).",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
