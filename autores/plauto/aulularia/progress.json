@@ -480,7 +480,7 @@
   "pending": [
     {
       "section": "II.8",
-      "from": 371,
+      "from": 376,
       "status": "pending"
     },
     {
@@ -491,9 +491,9 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.8",
-    "from": 371
+    "from": 376
   },
-  "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161).",
+  "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161). Avance II.8 371–375 incorporado 2026-11-13; segunda revisión consecutiva permanece en 159 por anomalía de localizadores 160–161.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
