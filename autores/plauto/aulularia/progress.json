@@ -543,10 +543,10 @@
   ],
   "updated": "2026-11-14",
   "next": {
-    "section": "II.10",
+    "section": "III.1",
     "from": 406
   },
-  "editorial_note": "II.9 vv.398–405 incorporados; segunda revisión permanece en 159 a la espera de migración compatible de II.1.",
+  "editorial_note": "II.9 vv.398–405 incorporados; segunda revisión permanece en 159 a la espera de migración compatible de II.1. Corrección de división dramática (2026-11-14): el v. 406 abre el acto III, escena 1 (Congrión), no II.10; cotejo IntraText, índice de actos y texto de Act III. La escena II.9 termina en 405. No se incorporaron versos ni se avanzó la revisión morfológica en esta corrección.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
