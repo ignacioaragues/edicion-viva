@@ -589,6 +589,21 @@
       ],
       "morphology": "52 fichas posicionales; cotejo mecánico completo (33+13+6)",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 4,
+      "to": 5,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4",
+        "https://biblehub.com/vul/mark/4.htm",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://old-tips.translation.bible/story/translation-commentary-on-mark-44/"
+      ],
+      "morphology": "38 fichas posicionales (18+20), cotejo mecánico",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -597,9 +612,9 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 4,4",
+  "next": "Marcos 4,6",
   "last_edit": "2026-11-13",
-  "notes": "Marcos 4,1–3 incorporado; 52 fichas posicionales; revisión contextual pendiente.",
+  "notes": "Marcos 4,4–5 incorporado; 38 fichas posicionales; auditoría contextual pendiente.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
@@ -1367,8 +1382,8 @@
   },
   "prepublication_research_4_4_9": {
     "date": "2026-11-13",
-    "status": "research_only_not_published",
-    "verified_published_through": "4,3",
+    "status": "partially_published_4_4_5",
+    "verified_published_through": "4,5",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -1397,9 +1412,9 @@
       "4,4: el griego SBLGNT presenta τὰ πετεινά sin «del cielo»; la Vulgata Clementina tiene volucres cæli. Mantener diferencia sin armonizar.",
       "Bruce observa que Marcos explicita el crecimiento y rendimiento de la buena tierra (4,8) y dispone la productividad 30, 60, 100, a diferencia del orden de Mateo. Cotejar literal antes de incorporar."
     ],
-    "pending": "Cotejar íntegramente SBLGNT 4,4–9 y Clementina, obtener MorphGNT 6.12 posicional con glosas originales y validar 100 % de tokens; no avanzar checkpoint.",
+    "pending": "Continuar desde 4,6; cotejar texto y morfología de 4,6–9.",
     "morphology_audit": "not_started",
     "second_passage_review": "pending",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
