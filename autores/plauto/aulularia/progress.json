@@ -430,6 +430,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), LateinLex/Perseus; cotejo The Latin Library (2026-11-13)",
       "note": "25 tokens con fichas y glosas contextuales, dos notas; revisión retrospectiva consecutiva permanece en 159, pendiente migración de localizadores II.1; aparato impreso no consultado."
+    },
+    {
+      "section": "II.6",
+      "from": 350,
+      "to": 355,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus (atribución base); cotejo The Latin Library, 2026-11-13",
+      "note": "37 fichas individuales con glosas contextuales; notas sobre Cererin y temeti; no se certificó segunda pasada retrospectiva; queda en 159. Aparato impreso y QA visual pendientes."
     }
   ],
   "pending": [
@@ -446,7 +455,7 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.6",
-    "from": 350
+    "from": 356
   },
   "editorial_note": "II.5 342–345: inventario y sospecha contra los cocineros; revisión consecutiva sigue en 159 debido a la migración pendiente de localizadores históricos de II.1. Sin QA visual ni aparato crítico impreso cotejado.",
   "morphological_second_pass": {
