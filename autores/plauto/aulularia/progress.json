@@ -493,12 +493,21 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895) referencia editorial; cotejo textual The Latin Library, 2026-11-13",
       "note": "29 fichas individuales con glosas contextuales; nota sobre festo/profesto, futuro perfecto y nuptum dare. Auditoría retrospectiva permanece en 159; pruebas visuales pendientes."
+    },
+    {
+      "section": "II.8",
+      "from": 385,
+      "to": 389,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), edición base identificada en Perseus; cotejo The Latin Library, 2026-11-13",
+      "note": "32 fichas con glosas contextuales; nota sobre tusculum, Lar, gnatae y strepitust. Segunda pasada consecutiva sigue en 159 por conflicto de localizadores en II.1; aparato de Leo y QA visual pendientes."
     }
   ],
   "pending": [
     {
       "section": "II.8",
-      "from": 385,
+      "from": 390,
       "status": "pending"
     },
     {
@@ -509,9 +518,9 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.8",
-    "from": 385
+    "from": 390
   },
-  "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161). Avance II.8 371–375 incorporado 2026-11-13; segunda revisión consecutiva permanece en 159 por anomalía de localizadores 160–161.",
+  "editorial_note": "II.8 385–389 incorporados; revisar los 32 tokens, notas y navegación en navegador; segunda revisión consecutiva sigue bloqueada en 159 por localizadores históricos de II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
