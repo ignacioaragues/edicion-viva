@@ -770,12 +770,24 @@
       ],
       "morphology": "22/22 fichas posicionales; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 22,
+      "to": 23,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
+        "https://truthaccordingtoscripture.com/commentaries/egt/mark-4.php",
+        "https://biblia.com/bible/vulgataclem/mark/4/22-23"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 4,21; revisión contextual morfológica y segunda pasada pendientes.",
+  "pending": "Continuar desde Marcos 4,24; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 22
+    "verse": 24
   },
   "last_edit": "2026-11-14",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1710,6 +1722,17 @@
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/21",
       "https://tips.translation.bible/story/translation-commentary-on-mark-421/",
       "https://biblia.com/bible/vulgataclem/mark/4/21-22"
+    ]
+  },
+  "prepublication_research_4_22_23": {
+    "date": "2026-11-14",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "22/22 positional",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
+      "https://biblia.com/bible/vulgataclem/mark/4/22-23"
     ]
   }
 }
