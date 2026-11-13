@@ -403,6 +403,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895) identified via Perseus/Scaife; textual cotejo The Latin Library (2026-11-13)",
       "note": "33 fichas con glosas contextuales; dos notas con referencias sobre pinguior y hucine. Sin prueba visual; aparato crítico impreso no cotejado. La segunda pasada consecutiva no avanzó."
+    },
+    {
+      "section": "II.5",
+      "from": 336,
+      "to": 341,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Leo (1895), Perseus; textual cotejo The Latin Library, 2026-11-13",
+      "note": "47 fichas con glosas contextuales; notas en 336 y 341. Segunda pasada permanece en 159; cotejo de aparato de 338 pendiente."
     }
   ],
   "pending": [
@@ -417,7 +426,10 @@
     }
   ],
   "updated": "2026-11-13",
-  "next": "II.5, verso 336; antes auditar consecutivamente II.1, 160–164 resolviendo los localizadores históricos 142–161.",
+  "next": {
+    "section": "II.5",
+    "from": 342
+  },
   "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+. | 2026-11-13: II.5 327–330 incorporados; segunda pasada consecutiva no avanzada, sigue en 159. Se mantiene pendiente migración compatible de II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
