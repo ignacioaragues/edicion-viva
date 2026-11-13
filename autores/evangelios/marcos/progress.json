@@ -724,14 +724,29 @@
       ],
       "morphology": "19/19 fichas posicionales cotejadas con MorphGNT 6.12; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 18,
+      "to": 18,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4/18",
+        "https://biblia.com/bible/vulgataclem/mark/4/18",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.sermonindex.net/commentary/cambridgegreek/MRK/4/"
+      ],
+      "morphology": "14/14 fichas posicionales; revisión contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,15; revisión contextual integral de morfología y segunda pasada filológica pendientes.",
   "next": {
     "chapter": 4,
-    "verse": 18
+    "verse": 19
   },
-  "last_edit": "2026-11-13",
+  "last_edit": "2026-11-14",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -1625,5 +1640,16 @@
     "morphology_audit": "19/19 positional",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_4_18": {
+    "date": "2026-11-14",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "14/14 positional",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/4/18",
+      "https://biblia.com/bible/vulgataclem/mark/4/18",
+      "https://www.sermonindex.net/commentary/cambridgegreek/MRK/4/"
+    ]
   }
 }
