@@ -574,6 +574,21 @@
       ],
       "morphology": "64 fichas posicionales alineadas; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 1,
+      "to": 3,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblehub.com/sbl/mark/4.htm",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.catholicshare.com/bible/clementine-vulgate/mark/4/",
+        "https://www.virtualreligion.net/primer/sower_gr.html"
+      ],
+      "morphology": "52 fichas posicionales; cotejo mecánico completo (33+13+6)",
+      "second_review": "pending"
     }
   ],
   "pending": [
@@ -582,9 +597,9 @@
       "status": "pending"
     }
   ],
-  "next": "Marcos 4,1",
+  "next": "Marcos 4,4",
   "last_edit": "2026-11-13",
-  "notes": "Marcos 3,31 incorporado; 17 fichas posicionales; revisión contextual pendiente.",
+  "notes": "Marcos 4,1–3 incorporado; 52 fichas posicionales; revisión contextual pendiente.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
     "reviewed": [
@@ -1322,7 +1337,7 @@
   },
   "prepublication_research_4_1_9": {
     "date": "2026-11-13",
-    "status": "sources_consulted_not_published",
+    "status": "partially_published_4_1_3",
     "sources": [
       {
         "author": "A. B. Bruce",
@@ -1348,6 +1363,6 @@
       "Pendientes cotejo literal SBLGNT, Vulgata Clementina y cobertura MorphGNT posicional antes de incorporar 4,1–9."
     ],
     "morphology_audit": "not_started",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
