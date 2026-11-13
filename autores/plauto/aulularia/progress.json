@@ -412,12 +412,21 @@
       "status": "edited_not_revised",
       "source": "Leo (1895), Perseus; textual cotejo The Latin Library, 2026-11-13",
       "note": "47 fichas con glosas contextuales; notas en 336 y 341. Segunda pasada permanece en 159; cotejo de aparato de 338 pendiente."
+    },
+    {
+      "section": "II.5",
+      "from": 342,
+      "to": 345,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus Digital Library; textual cotejo The Latin Library (2026-11-13)",
+      "note": "29 fichas individuales con glosas contextuales, dos notas culturales/gramaticales; aparato crítico directo pendiente. Revisión morfológica retrospectiva consecutiva no realizada, permanece en 159."
     }
   ],
   "pending": [
     {
       "section": "II.5",
-      "from": 331,
+      "from": 346,
       "status": "pending"
     },
     {
@@ -428,9 +437,9 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.5",
-    "from": 342
+    "from": 346
   },
-  "editorial_note": "Avance textual 320; segunda revisión morfológica consecutiva permanece en 159 por incompatibilidad de identificadores II.1. Próxima unidad 321–326; resolver compatibilidad de resaltados y revisar 160+. | 2026-11-13: II.5 327–330 incorporados; segunda pasada consecutiva no avanzada, sigue en 159. Se mantiene pendiente migración compatible de II.1.",
+  "editorial_note": "II.5 342–345: inventario y sospecha contra los cocineros; revisión consecutiva sigue en 159 debido a la migración pendiente de localizadores históricos de II.1. Sin QA visual ni aparato crítico impreso cotejado.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
