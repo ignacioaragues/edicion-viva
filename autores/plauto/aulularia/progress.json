@@ -448,12 +448,21 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus reference; textual comparison The Latin Library 2026-11-13",
       "note": "46 individual morphological entries and contextual Spanish glosses; notes on asseres/ligna and Vulcanus. Retroactive morphology review remains at 159; Leo printed apparatus and browser QA pending."
+    },
+    {
+      "section": "II.7",
+      "from": 363,
+      "to": 368,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus/LateinLex; cotejo The Latin Library, 2026-11-13",
+      "note": "42 tokens analizados con glosas contextuales; nota sobre superi/inferi y cenati/incenati; revisión consecutiva permanece en 159; aparato crítico impreso pendiente."
     }
   ],
   "pending": [
     {
       "section": "II.7",
-      "from": 363,
+      "from": 369,
       "status": "pending"
     },
     {
@@ -464,9 +473,9 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.7",
-    "from": 363
+    "from": 369
   },
-  "editorial_note": "II.6 356–362 published; 46 tokens with individual morphological records and contextual glosses. Retrospective second pass remains at 159 pending safe locator migration of II.1. No browser QA or direct printed apparatus collation.",
+  "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161).",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
