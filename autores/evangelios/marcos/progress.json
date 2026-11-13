@@ -1364,5 +1364,42 @@
     ],
     "morphology_audit": "not_started",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_4_4_9": {
+    "date": "2026-11-13",
+    "status": "research_only_not_published",
+    "verified_published_through": "4,3",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 4:4–9",
+        "url": "https://biblehub.com/sbl/mark/4.htm"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 4:3–9",
+        "url": "https://biblehub.com/commentaries/egt/mark/4.htm"
+      },
+      {
+        "author": "Robert G. Bratcher and Eugene A. Nida",
+        "title": "A Handbook on the Gospel of Mark",
+        "year": 1961,
+        "section": "Mark 4:4",
+        "url": "https://old-tips.translation.bible/story/translation-commentary-on-mark-44/"
+      }
+    ],
+    "observations": [
+      "4,4: ἐν τῷ σπείρειν es infinitivo articular temporal («mientras sembraba»); ὃ μὲν introduce el primer destino de la semilla, frente a ἄλλο en 4,5.",
+      "4,4: παρὰ τὴν ὁδόν permite «junto al camino»; Bratcher y Nida observan que «sobre el camino» puede resultar más natural por el contexto. No convertir esta inferencia en lectura griega diferente.",
+      "4,4: el griego SBLGNT presenta τὰ πετεινά sin «del cielo»; la Vulgata Clementina tiene volucres cæli. Mantener diferencia sin armonizar.",
+      "Bruce observa que Marcos explicita el crecimiento y rendimiento de la buena tierra (4,8) y dispone la productividad 30, 60, 100, a diferencia del orden de Mateo. Cotejar literal antes de incorporar."
+    ],
+    "pending": "Cotejar íntegramente SBLGNT 4,4–9 y Clementina, obtener MorphGNT 6.12 posicional con glosas originales y validar 100 % de tokens; no avanzar checkpoint.",
+    "morphology_audit": "not_started",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
   }
 }
