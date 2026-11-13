@@ -519,6 +519,15 @@
       "verses": 5,
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library; 393 entre corchetes y 396 suplemento <si> señalados"
+    },
+    {
+      "section": "II.9",
+      "from": 398,
+      "to": 405,
+      "verses": 8,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo The Latin Library e IntraText (2026-11-14)",
+      "note": "Ocho versos de Ántrax; 52 tokens con fichas y glosas contextuales."
     }
   ],
   "pending": [
@@ -534,10 +543,10 @@
   ],
   "updated": "2026-11-14",
   "next": {
-    "section": "II.8",
-    "from": 398
+    "section": "II.10",
+    "from": 406
   },
-  "editorial_note": "II.8 vv. 393–397 incorporados; 393 conservado entre corchetes como verso textualmente cuestionado; 396 <si> suplemento. Auditoría retrospectiva permanece en 159; requiere migración de identificadores II.1.",
+  "editorial_note": "II.9 vv.398–405 incorporados; segunda revisión permanece en 159 a la espera de migración compatible de II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
