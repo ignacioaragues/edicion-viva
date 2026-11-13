@@ -1734,5 +1734,25 @@
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
       "https://biblia.com/bible/vulgataclem/mark/4/22-23"
     ]
+  },
+  "prepublication_research_4_24_25": {
+    "date": "2026-11-14",
+    "status": "researched_not_published",
+    "morphology_audit": "MorphGNT 6.12 records retrieved: 15 tokens in 4,24 and 15 in 4,25; insertion not validated",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false,
+    "observations": [
+      "Βλέπετε τί ἀκούετε: atención al contenido escuchado",
+      "μέτρῳ / μετρεῖτε / μετρηθήσεται: figura de repetición léxica",
+      "TR añade τοῖς ἀκούουσιν al final de 4,24; SBLGNT y Clementina no",
+      "En 4,25 los pasivos no identifican al agente; interpretación contextual vinculada a la comprensión"
+    ],
+    "sources": [
+      "https://biblehub.com/sbl/mark/4.htm",
+      "https://biblia.com/bible/vulgataclem/mark/4/24-25",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
+      "https://tips.translation.bible/story/translation-commentary-on-mark-424-425/"
+    ]
   }
 }
