@@ -484,12 +484,21 @@
       "status": "edited_not_revised",
       "source": "Cotejo The Latin Library, 2026-11-13; edición de referencia Friedrich Leo (1895), aparato crítico directo pendiente",
       "note": "26 tokens con morfología y glosa contextual; nota sobre egomet, mecum, intervias y qui emam. Revisión consecutiva permanece en 159; se conserva íntegro el sistema de IDs."
+    },
+    {
+      "section": "II.8",
+      "from": 380,
+      "to": 384,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895) referencia editorial; cotejo textual The Latin Library, 2026-11-13",
+      "note": "29 fichas individuales con glosas contextuales; nota sobre festo/profesto, futuro perfecto y nuptum dare. Auditoría retrospectiva permanece en 159; pruebas visuales pendientes."
     }
   ],
   "pending": [
     {
       "section": "II.8",
-      "from": 376,
+      "from": 385,
       "status": "pending"
     },
     {
@@ -500,7 +509,7 @@
   "updated": "2026-11-13",
   "next": {
     "section": "II.8",
-    "from": 380
+    "from": 385
   },
   "editorial_note": "II.7 363–368 añadidos. La segunda revisión morfológica consecutiva sigue en 159: pendiente corrección compatible de la numeración de II.1 (142–161). Avance II.8 371–375 incorporado 2026-11-13; segunda revisión consecutiva permanece en 159 por anomalía de localizadores 160–161.",
   "morphological_second_pass": {
