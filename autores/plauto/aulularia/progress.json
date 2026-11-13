@@ -466,6 +466,15 @@
       "status": "edited_not_revised",
       "source": "Cotejo The Latin Library, 2026-11-13; Friedrich Leo (1895) edición de referencia, aparato crítico directo pendiente",
       "note": "14 tokens con lemas, morfología y glosas contextuales; nota sobre rapacidarum y siet. Segunda pasada retrospectiva permanece en 159; no se certificó nueva revisión."
+    },
+    {
+      "section": "II.8",
+      "from": 371,
+      "to": 375,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), edición de referencia; cotejo The Latin Library, 2026-11-13",
+      "note": "28 fichas con glosas contextuales; enumeración de precios y genitivo arcaico filiai. Segunda revisión consecutiva sin avance; cotejo directo del aparato de Leo y pruebas visuales pendientes."
     }
   ],
   "pending": [
