@@ -1319,5 +1319,35 @@
       "Bruce, Expositor's Greek Testament, https://biblehub.com/commentaries/egt/mark/3.htm",
       "Vulgata Clementina, https://biblia.com/bible/vulgataclem/mark/3/31-35"
     ]
+  },
+  "prepublication_research_4_1_9": {
+    "date": "2026-11-13",
+    "status": "sources_consulted_not_published",
+    "sources": [
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 4:1–9",
+        "url": "https://biblehub.com/commentaries/egt/mark/4.htm"
+      },
+      {
+        "title": "Synoptic Gospels Primer",
+        "section": "Parable of the Sower, Greek synopsis",
+        "url": "https://www.virtualreligion.net/primer/sower_gr.html"
+      },
+      {
+        "title": "Text-Critical Greek New Testament",
+        "section": "Mark 4:3–9",
+        "url": "https://only.bible/sv/bible/tcgnt/mrk-4.3-9/"
+      }
+    ],
+    "observations": [
+      "4,1: πάλιν retoma la enseñanza junto al mar; el barco separa físicamente al maestro de la multitud, sin demostrar por sí mismo detalles acústicos.",
+      "4,3: ἀκούετε funciona como imperativo de atención; ἰδού introduce la escena del sembrador.",
+      "4,7–8: el contraste entre ausencia de fruto y crecimiento/productividad se acentúa en la redacción de Marcos; los sinópticos presentan diferencias que no deben armonizarse.",
+      "Pendientes cotejo literal SBLGNT, Vulgata Clementina y cobertura MorphGNT posicional antes de incorporar 4,1–9."
+    ],
+    "morphology_audit": "not_started",
+    "checkpoint_advanced": false
   }
 }
