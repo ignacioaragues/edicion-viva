@@ -601,6 +601,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), referencia editorial; cotejo The Latin Library (2026-11-15)",
       "note": "33 fichas individuales con glosas contextuales; qua gratia, omnis acusativo plural arcaico, pervium sintaxis pendiente de aparato. Segunda pasada consecutiva sin avance."
+    },
+    {
+      "section": "III.2",
+      "from": 439,
+      "to": 443,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus base; cotejo The Latin Library, 2026-11-15",
+      "note": "41 tokens con morfología y glosas contextuales; irreal adesses/auferres, futuros perfectos accesseris/iussero; cotejo crítico de aparato y prueba visual pendientes. Segunda pasada permanece en 159."
     }
   ],
   "pending": [
@@ -610,10 +619,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": {
-    "section": "III.2",
-    "from": 439
-  },
+  "next": "III.2, verso 444",
   "editorial_note": "III.2 editado hasta 430; segunda pasada consecutiva sigue en 159; pendiente corrección compatible de localizadores II.1 142–143 y 160–161.",
   "morphological_second_pass": {
     "status": "in_progress",
