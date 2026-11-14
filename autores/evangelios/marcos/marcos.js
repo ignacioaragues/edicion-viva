@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–37 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–38 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -151,9 +151,14 @@
     {"chapter":4,"n":35,"gr":"Καὶ λέγει αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ ὀψίας γενομένης· Διέλθωμεν εἰς τὸ πέραν.","es":"Y aquel mismo día, al caer la tarde, les dice: «Crucemos a la otra orilla».","la":"Et ait illis in illa die, cum sero esset factum: Transeamus contra.","notes":["mc435evening","mc435cross"]},
     {"chapter":4,"n":36,"gr":"καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ, καὶ ἄλλα πλοῖα ἦν μετʼ αὐτοῦ.","es":"Y, dejando a la multitud, se lo llevan tal como estaba en la barca. Había también otras barcas con él.","la":"Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliæ naves erant cum illo.","notes":["mc436aswas","mc436boats"]},
     {"chapter":4,"n":37,"gr":"καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου, καὶ τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον.","es":"Y se desata una gran tempestad de viento; las olas golpeaban la barca, de modo que esta ya empezaba a llenarse de agua.","la":"Et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis.","notes":["mc437storm","mc437waves","mc437variant"]}
+    ,{"chapter":4,"n":38,"gr":"καὶ αὐτὸς ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων· καὶ ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ· Διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα;","es":"Él, mientras tanto, estaba en la popa, durmiendo sobre el cojín. Lo despiertan y le dicen: «Maestro, ¿no te importa que nos estemos hundiendo?»","la":"Et erat ipse in puppi super cervical dormiens: et excitant eum, et dicunt illi: Magister, non ad te pertinet, quia perimus?","notes":["mc438cushion","mc438question","mc438variant"]}
   ];
 
   const notes = {
+    mc438cushion: ["El cojín de popa","προσκεφάλαιον designa un cojín o apoyo para la cabeza. La ubicación en la popa es explícita, pero el material y la función náutica precisa del objeto no pueden deducirse con seguridad. A. B. Bruce, The Expositor’s Greek Testament, Mc 4,38: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/4/38."],
+    mc438question: ["¿No te importa?","οὐ μέλει σοι ὅτι ἀπολλύμεθα; es una pregunta que reprocha la aparente indiferencia del maestro; μέλει construye el experimentante en dativo σοι. Los presentes ἐγείρουσιν y λέγουσιν vivifican el relato. Texto: Holmes, SBLGNT, Mc 4,38: https://biblia.com/bible/sblgnt/mark/4/38-39."],
+    mc438variant: ["Orden y despertar","SBLGNT lee αὐτὸς ἦν, ἐν τῇ πρύμνῃ y ἐγείρουσιν; otras tradiciones transmiten ἦν αὐτός, ἐπὶ τῇ πρύμνῃ y διεγείρουσιν. El testimonio manuscrito no es uniforme; estas variantes no cambian el núcleo de la escena. Cotejo: https://greeknewtestament.net/mk4-38; Clementina: https://biblia.com/bible/vulgataclem/mark/4/38."],
+
     mc437storm: ["Tempestad de viento","λαῖλαψ μεγάλη ἀνέμου presenta una tempestad intensa. El presente histórico γίνεται introduce bruscamente el episodio. Texto: Holmes (ed.), SBLGNT, Mc 4,37: https://www.studybible.info/SBLGNT/Mark%204%3A37-39."],
     mc437waves: ["Las olas golpeaban","ἐπέβαλλεν, imperfecto singular con sujeto neutro plural τὰ κύματα, representa el embate continuado. ὥστε con infinitivo presente γεμίζεσθαι expresa la consecuencia: la barca estaba llenándose, no necesariamente ya llena. Cf. Mc 4,37, SBLGNT: https://biblia.com/bible/sblgnt/mark/4/37."],
     mc437variant: ["Variantes de orden y coordinación","La edición SBLGNT lee μεγάλη ἀνέμου, καὶ τὰ y ἤδη γεμίζεσθαι τὸ πλοῖον; la tradición representada por RP ofrece ἀνέμου μεγάλη, τὰ δὲ y αὐτὸ ἤδη γεμίζεσθαι. La Vulgata Clementina conserva su propia redacción: ita ut impleretur navis. Aparato SBLGNT: https://www.studybible.info/SBLGNT/Mark%204%3A37-39; Clementina: https://biblia.com/bible/vulgataclem/mark/4/37-39."],
