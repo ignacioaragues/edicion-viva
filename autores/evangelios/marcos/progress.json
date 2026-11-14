@@ -810,6 +810,17 @@
       ],
       "morphology": "60/60 fichas posicionales verificadas",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 30,
+      "to": 32,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://biblehub.com/sbl/mark/4.htm",
+        "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
+      ]
     }
   ],
   "pending": "Continuar desde Marcos 4,30; revisión contextual retroactiva pendiente.",
@@ -1804,7 +1815,7 @@
   },
   "prepublication_research_4_30_32": {
     "date": "2026-11-14",
-    "status": "research_expanded_morphology_pending_not_published",
+    "status": "published_morphology_mechanically_aligned",
     "sources": [
       "https://midvash.com/sblgnt/mark/4",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/30-32",
@@ -1821,6 +1832,6 @@
       "En 4,32 λαχάνων significa plantas de huerta/hortalizas; κατασκηνοῦν ὑπὸ τὴν σκιὰν no exige convertir la planta en árbol ni identificar una dependencia literaria segura de Ez 17,23."
     ],
     "second_passage_review": "pending",
-    "morphology": "pending full positional coverage; do not publish yet"
+    "morphology": "57/57 positional"
   }
 }
