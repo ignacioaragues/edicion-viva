@@ -574,6 +574,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), cotejo The Latin Library (2026-11-14)",
       "note": "38 fichas individuales con glosa contextual; tactiost = tactio est; aequom grafía arcaica; fuat subjuntivo arcaico. Auditoría retrospectiva no avanzada."
+    },
+    {
+      "section": "III.2",
+      "from": 427,
+      "to": 430,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), referencia base; cotejo The Latin Library, 2026-11-14",
+      "note": "38 fichas individuales con glosas contextuales; quid ... negoti, me absente, supino coctum frente a participio coctum. Auditoría retrospectiva permanece en 159; problemas II.1 pendientes."
     }
   ],
   "pending": [
@@ -585,9 +594,9 @@
   "updated": "2026-11-14",
   "next": {
     "section": "III.2",
-    "from": 427
+    "from": 431
   },
-  "editorial_note": "III.1 hasta 414; siguiente III.2 415. Segunda pasada consecutiva permanece en 159; pendiente migración de localizadores históricos II.1.",
+  "editorial_note": "III.2 editado hasta 430; segunda pasada consecutiva sigue en 159; pendiente corrección compatible de localizadores II.1 142–143 y 160–161.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
