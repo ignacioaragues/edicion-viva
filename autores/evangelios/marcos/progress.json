@@ -1804,16 +1804,21 @@
   },
   "prepublication_research_4_30_32": {
     "date": "2026-11-14",
-    "status": "research_in_progress_not_published",
+    "status": "research_expanded_morphology_pending_not_published",
     "sources": [
       "https://midvash.com/sblgnt/mark/4",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/30-32",
-      "https://biblehub.com/commentaries/mark/4-32.htm"
+      "https://biblehub.com/commentaries/mark/4-32.htm",
+      "https://biblehub.com/commentaries/mark/4-30.htm",
+      "https://mail.biblehub.com/commentaries/egt/mark/4.htm"
     ],
     "observations": [
       "ὁμοιώσωμεν: plural deliberativo de primera persona",
       "Marcos describe una planta mayor que las hortalizas, sin llamarla árbol; comparar con Mateo y Lucas",
-      "Posible eco de Ezequiel 17,23 en la imagen de aves y sombra; no afirmar dependencia directa sin examen adicional"
+      "Posible eco de Ezequiel 17,23 en la imagen de aves y sombra; no afirmar dependencia directa sin examen adicional",
+      "Cotejo adicional (14-XI-2026): el doble ὅταν σπαρῇ en 4,31–32 articula el contraste entre pequeñez inicial y crecimiento; no confundir la afirmación proverbial «más pequeña» con una clasificación botánica universal.",
+      "En 4,30 SBLGNT lee Πῶς y ἐν τίνι αὐτὴν παραβολῇ θῶμεν; el comentario crítico tradicional documenta alternativas Τίνι y ποίᾳ παραβολῇ παραβάλωμεν αὐτήν (cotejar aparato completo antes de atribuir exhaustivamente testimonios).",
+      "En 4,32 λαχάνων significa plantas de huerta/hortalizas; κατασκηνοῦν ὑπὸ τὴν σκιὰν no exige convertir la planta en árbol ni identificar una dependencia literaria segura de Ez 17,23."
     ],
     "second_passage_review": "pending",
     "morphology": "pending full positional coverage; do not publish yet"
