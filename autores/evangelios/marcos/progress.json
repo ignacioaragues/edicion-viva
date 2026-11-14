@@ -1909,5 +1909,16 @@
     "morphology_audit": "pending",
     "second_passage_review": "pending",
     "checkpoint_advanced": false
+  },
+  "retroactive_morphology_audit_4_33_34": {
+    "date": "2026-11-14",
+    "status": "positional_source_alignment_verified_not_full_philological_review",
+    "source": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+    "verses": {
+      "4:33": 11,
+      "4:34": 14
+    },
+    "finding": "Las 25 fichas coinciden en orden, lema, POS y código flexivo con MorphGNT 6.12. La revisión semántica de glosas y la segunda pasada filológica integral continúan pendientes.",
+    "note": "No se modificaron texto ni IDs del lector; checkpoint permanece en 4:35."
   }
 }
