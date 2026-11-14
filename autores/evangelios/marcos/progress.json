@@ -862,12 +862,28 @@
       ],
       "morphology": "17/17 positional",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 38,
+      "to": 38,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4/38-39",
+        "https://biblia.com/bible/vulgataclem/mark/4/38",
+        "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/4/38",
+        "https://greeknewtestament.net/mk4-38",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "22/22 positional",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,37; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 38
+    "verse": 39
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1980,5 +1996,21 @@
     "morphology_audit": "17/17 positional; lemma, POS, parsing, glosas presentes; segunda revisión pendiente",
     "second_passage_review": "pending",
     "checkpoint_advanced": true
+  },
+  "prepublication_research_4_38": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "22/22 positional; revisión semántica completa pendiente",
+    "second_passage_review": "pending",
+    "observations": [
+      "προσκεφάλαιον: cojín/apoyo de cabeza; material exacto desconocido.",
+      "οὐ μέλει σοι: reproche formulado con dativo de persona.",
+      "SBLGNT αὐτὸς ἦν / ἐν τῇ πρύμνῃ / ἐγείρουσιν frente a variantes de orden, preposición y verbo."
+    ],
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/4/38-39",
+      "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/4/38",
+      "https://greeknewtestament.net/mk4-38"
+    ]
   }
 }
