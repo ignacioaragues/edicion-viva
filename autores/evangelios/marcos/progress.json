@@ -782,12 +782,27 @@
         "https://truthaccordingtoscripture.com/commentaries/egt/mark-4.php",
         "https://biblia.com/bible/vulgataclem/mark/4/22-23"
       ]
+    },
+    {
+      "chapter": 4,
+      "from": 24,
+      "to": 25,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.willker.de/wie/TCG/TC-Mark.pdf",
+        "https://www.bibliacatolica.com.br/vulgata-clementina/evangelium-secundum-marcum/4/"
+      ],
+      "morphology": "30/30 fichas posicionalmente alineadas; revisión contextual pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,24; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 24
+    "verse": 26
   },
   "last_edit": "2026-11-14",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1737,10 +1752,10 @@
   },
   "prepublication_research_4_24_25": {
     "date": "2026-11-14",
-    "status": "researched_not_published",
-    "morphology_audit": "MorphGNT 6.12 records retrieved: 15 tokens in 4,24 and 15 in 4,25; insertion not validated",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "30/30 positional; U+02BC conservado en ἀπʼ",
     "second_passage_review": "pending",
-    "checkpoint_advanced": false,
+    "checkpoint_advanced": true,
     "observations": [
       "Βλέπετε τί ἀκούετε: atención al contenido escuchado",
       "μέτρῳ / μετρεῖτε / μετρηθήσεται: figura de repetición léxica",
