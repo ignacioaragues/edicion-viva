@@ -610,6 +610,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus base; cotejo The Latin Library, 2026-11-15",
       "note": "41 tokens con morfología y glosas contextuales; irreal adesses/auferres, futuros perfectos accesseris/iussero; cotejo crítico de aparato y prueba visual pendientes. Segunda pasada permanece en 159."
+    },
+    {
+      "section": "III.2",
+      "from": 444,
+      "to": 448,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejo The Latin Library, 2026-11-15",
+      "note": "45 fichas morfológicas con glosas contextuales, notas sobre Laverna, pipulo y mercedest. Segunda revisión retrospectiva no certificada; permanece en 159. Revisión visual pendiente."
     }
   ],
   "pending": [
@@ -619,8 +628,8 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.2, verso 444",
-  "editorial_note": "III.2 editado hasta 430; segunda pasada consecutiva sigue en 159; pendiente corrección compatible de localizadores II.1 142–143 y 160–161.",
+  "next": "III.3, verso 449",
+  "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
