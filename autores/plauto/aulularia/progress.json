@@ -583,6 +583,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), referencia base; cotejo The Latin Library, 2026-11-14",
       "note": "38 fichas individuales con glosas contextuales; quid ... negoti, me absente, supino coctum frente a participio coctum. Auditoría retrospectiva permanece en 159; problemas II.1 pendientes."
+    },
+    {
+      "section": "III.2",
+      "from": 431,
+      "to": 434,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), referencia; cotejo The Latin Library y comentario Aulularia (2016), 2026-11-14",
+      "note": "37 fichas con glosas contextuales; interrogativa indirecta, locativo domi y -n en mean. Auditoría retrospectiva permanece en 159; validación visual pendiente."
     }
   ],
   "pending": [
@@ -594,7 +603,7 @@
   "updated": "2026-11-14",
   "next": {
     "section": "III.2",
-    "from": 431
+    "from": 435
   },
   "editorial_note": "III.2 editado hasta 430; segunda pasada consecutiva sigue en 159; pendiente corrección compatible de localizadores II.1 142–143 y 160–161.",
   "morphological_second_pass": {
