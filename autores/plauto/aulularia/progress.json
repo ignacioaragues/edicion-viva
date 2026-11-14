@@ -547,6 +547,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo PDF texto latino Documenta Catholica Omnia (consultado 2026-11-14)",
       "note": "Seis unidades con 35 fichas individuales y glosas contextuales; 411a y 412a conservadas; sin auditoría retrospectiva certificada."
+    },
+    {
+      "section": "III.2",
+      "from": 415,
+      "to": 418,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejo LateinLex III.2 y The Latin Library (2026-11-14)",
+      "note": "37 tokens con análisis individual y glosa contextual; alternancia de interlocutores dentro de los versos, conservada mediante indicación en traducción. Segunda pasada consecutiva permanece en 159."
     }
   ],
   "pending": [
@@ -558,7 +567,7 @@
   "updated": "2026-11-14",
   "next": {
     "section": "III.2",
-    "from": 415
+    "from": 419
   },
   "editorial_note": "III.1 hasta 414; siguiente III.2 415. Segunda pasada consecutiva permanece en 159; pendiente migración de localizadores históricos II.1.",
   "morphological_second_pass": {
