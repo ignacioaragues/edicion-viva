@@ -1795,5 +1795,27 @@
       "https://studybible.info/SBLGNT/Mark%204:26-29",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
     ]
+  },
+  "latin_completion_4_26_29": {
+    "date": "2026-11-14",
+    "status": "completed",
+    "source": "Vulgata Clementina, Clementine Vulgate Project; cotejo con https://www.catholicshare.com/la/bible/clementine-vulgate/mark/4/ y https://www.studybible.info/Clementine_Vulgate/Mark%204%3A26-30",
+    "note": "Columna latina 4,26–29 incorporada sin modificar griego, traducción española, morfología ni checkpoint. La Clementina conserva sus propias formulaciones (p. ej. Ultro enim, Et cum produxerit fructus)."
+  },
+  "prepublication_research_4_30_32": {
+    "date": "2026-11-14",
+    "status": "research_in_progress_not_published",
+    "sources": [
+      "https://midvash.com/sblgnt/mark/4",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/30-32",
+      "https://biblehub.com/commentaries/mark/4-32.htm"
+    ],
+    "observations": [
+      "ὁμοιώσωμεν: plural deliberativo de primera persona",
+      "Marcos describe una planta mayor que las hortalizas, sin llamarla árbol; comparar con Mateo y Lucas",
+      "Posible eco de Ezequiel 17,23 en la imagen de aves y sombra; no afirmar dependencia directa sin examen adicional"
+    ],
+    "second_passage_review": "pending",
+    "morphology": "pending full positional coverage; do not publish yet"
   }
 }
