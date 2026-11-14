@@ -565,6 +565,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library (2026-11-14)",
       "note": "Cuatro versos, 35 fichas morfológicas y glosas contextuales; quoi dativo arcaico, faxim potencial, testist elisión y comparación peyorativa cinaedus. Segunda pasada consecutiva sin avance."
+    },
+    {
+      "section": "III.2",
+      "from": 423,
+      "to": 426,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), cotejo The Latin Library (2026-11-14)",
+      "note": "38 fichas individuales con glosa contextual; tactiost = tactio est; aequom grafía arcaica; fuat subjuntivo arcaico. Auditoría retrospectiva no avanzada."
     }
   ],
   "pending": [
@@ -576,7 +585,7 @@
   "updated": "2026-11-14",
   "next": {
     "section": "III.2",
-    "from": 423
+    "from": 427
   },
   "editorial_note": "III.1 hasta 414; siguiente III.2 415. Segunda pasada consecutiva permanece en 159; pendiente migración de localizadores históricos II.1.",
   "morphological_second_pass": {
