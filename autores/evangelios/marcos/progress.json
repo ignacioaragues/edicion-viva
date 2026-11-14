@@ -878,12 +878,26 @@
       ],
       "morphology": "22/22 positional",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 39,
+      "to": 39,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://www.studybible.info/SBLGNT/Mark%204%3A37-39",
+        "https://biblia.com/bible/vulgataclem/mark/4/39-40",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "19/19 positional",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,37; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 39
+    "verse": 40
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2012,5 +2026,20 @@
       "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/4/38",
       "https://greeknewtestament.net/mk4-38"
     ]
+  },
+  "prepublication_research_4_39": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "sources": [
+      "https://www.studybible.info/SBLGNT/Mark%204%3A37-39",
+      "https://biblia.com/bible/vulgataclem/mark/4/39-40",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+    ],
+    "observations": [
+      "σιώπα: imperativo presente activo; πεφίμωσο: imperativo perfecto pasivo de φιμόω, comparar con Mc 1,25.",
+      "γαλήνη μεγάλη contrapone la gran calma a la gran tempestad de 4,37; Sal 107,29 es un paralelo posible, no dependencia demostrada."
+    ],
+    "morphology": "19/19 positional",
+    "second_passage_review": "pending"
   }
 }
