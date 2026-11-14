@@ -1878,7 +1878,7 @@
   },
   "prepublication_research_4_35_41": {
     "date": "2026-11-14",
-    "status": "research_only_not_published",
+    "status": "morphology_prepared_4_35_36_not_published",
     "sources": [
       {
         "author": "Alfred Plummer",
@@ -1906,7 +1906,7 @@
       "4,41: ἐφοβήθησαν φόβον μέγαν recuerda la formulación de Jonás 1,16 en griego; la relación literaria requiere cotejo directo.",
       "Pendiente: texto exacto SBLGNT, variantes, Vulgata y fichas posicionales MorphGNT de los siete versículos; no publicar ni adelantar checkpoint antes de la validación."
     ],
-    "morphology_audit": "pending",
+    "morphology_audit": "Fichas 4,35–36 preparadas en morphology.js (13 + 17 = 30), con lemas/POS/códigos de MorphGNT 6.12 y glosas españolas iniciales. NO publicadas en marcos.js: falta integrar y validar texto, notas, JS, encabezado y catálogo. Checkpoint sin cambios: 4,35.",
     "second_passage_review": "pending",
     "checkpoint_advanced": false
   },
