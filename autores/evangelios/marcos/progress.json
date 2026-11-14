@@ -1198,7 +1198,7 @@
     ],
     "next_actions": "Integrar 2,10–12 y auditar el texto y las fichas anteriores"
   },
-  "last_research_update": "2026-11-13",
+  "last_research_update": "2026-11-15",
   "next_actions": "Continuar Marcos 3,16–19; segunda revisión filológica retroactiva desde 1,1.",
   "research_pending_2_25_28": {
     "status": "partially_published_2_26",
@@ -1933,5 +1933,38 @@
     },
     "finding": "Las 25 fichas coinciden en orden, lema, POS y código flexivo con MorphGNT 6.12. La revisión semántica de glosas y la segunda pasada filológica integral continúan pendientes.",
     "note": "No se modificaron texto ni IDs del lector; checkpoint permanece en 4:35."
+  },
+  "prepublication_research_4_37": {
+    "date": "2026-11-15",
+    "status": "source_collated_pending_morphology_and_publication",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 4:37",
+        "url": "https://biblia.com/bible/sblgnt/mark/4/37-38"
+      },
+      {
+        "title": "SBL Greek New Testament Apparatus",
+        "section": "Mark 4:37",
+        "url": "https://www.studybible.info/SBLGNT/Mark%204%3A37-39"
+      },
+      {
+        "title": "Transcriptions and critical apparatus (secondary)",
+        "section": "Mark 4:37",
+        "url": "https://greeknewtestament.net/mk4-37"
+      }
+    ],
+    "observations": [
+      "SBLGNT 4,37 tiene 17 tokens léxicos; el texto se cotejó con Biblia.com y BibleHub, eliminando únicamente los signos de aparato externos al texto.",
+      "γίνεται es presente histórico que inicia la tempestad; ἐπέβαλλεν es imperfecto y presenta el impacto repetido o continuo de las olas.",
+      "ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον construye una consecuencia con infinitivo presente pasivo; no equivale necesariamente a una barca ya completamente llena.",
+      "El aparato de SBLGNT consigna variantes de orden μεγάλη ἀνέμου / ἀνέμου μεγάλη, de coordinación καὶ τὰ / τὰ δὲ y de la cláusula final ἤδη γεμίζεσθαι τὸ πλοῖον / αὐτὸ ἤδη γεμίζεσθαι. No atribuir listas exhaustivas de manuscritos sin cotejo directo.",
+      "Pendientes extracción de los 17 registros de MorphGNT 6.12, glosas contextualizadas, traducción propia, integración y validación del lector. Checkpoint permanece en 4,37."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
   }
 }
