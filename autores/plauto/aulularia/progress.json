@@ -619,6 +619,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), cotejo The Latin Library, 2026-11-15",
       "note": "45 fichas morfológicas con glosas contextuales, notas sobre Laverna, pipulo y mercedest. Segunda revisión retrospectiva no certificada; permanece en 159. Revisión visual pendiente."
+    },
+    {
+      "section": "III.3",
+      "from": 449,
+      "to": 453,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus base; cotejo The Latin Library, 2026-11-15",
+      "note": "41 tokens alineados y glosados; notas sobre hoc/mecum y grex venalium. Sintaxis comprobada por tokenización; prueba visual y cotejo de aparato pendientes. Segunda pasada permanece en 159 por anomalía histórica de II.1."
     }
   ],
   "pending": [
@@ -628,7 +637,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.3, verso 449",
+  "next": "III.3, verso 454",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
