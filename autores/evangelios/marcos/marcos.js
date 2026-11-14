@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–38 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–39 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -152,9 +152,12 @@
     {"chapter":4,"n":36,"gr":"καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ, καὶ ἄλλα πλοῖα ἦν μετʼ αὐτοῦ.","es":"Y, dejando a la multitud, se lo llevan tal como estaba en la barca. Había también otras barcas con él.","la":"Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliæ naves erant cum illo.","notes":["mc436aswas","mc436boats"]},
     {"chapter":4,"n":37,"gr":"καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου, καὶ τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον.","es":"Y se desata una gran tempestad de viento; las olas golpeaban la barca, de modo que esta ya empezaba a llenarse de agua.","la":"Et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis.","notes":["mc437storm","mc437waves","mc437variant"]}
     ,{"chapter":4,"n":38,"gr":"καὶ αὐτὸς ἦν ἐν τῇ πρύμνῃ ἐπὶ τὸ προσκεφάλαιον καθεύδων· καὶ ἐγείρουσιν αὐτὸν καὶ λέγουσιν αὐτῷ· Διδάσκαλε, οὐ μέλει σοι ὅτι ἀπολλύμεθα;","es":"Él, mientras tanto, estaba en la popa, durmiendo sobre el cojín. Lo despiertan y le dicen: «Maestro, ¿no te importa que nos estemos hundiendo?»","la":"Et erat ipse in puppi super cervical dormiens: et excitant eum, et dicunt illi: Magister, non ad te pertinet, quia perimus?","notes":["mc438cushion","mc438question","mc438variant"]}
+    ,{"chapter":4,"n":39,"gr":"καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· Σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη.","es":"Entonces, al despertar, reprendió al viento y dijo al mar: «¡Calla! ¡Quédate en silencio!». El viento amainó y sobrevino una gran calma.","la":"Et exsurgens comminatus est vento, et dixit mari: Tace, obmutesce. Et cessavit ventus: et facta est tranquillitas magna.","notes":["mc439imperatives","mc439echo"]}
   ];
 
   const notes = {
+    mc439imperatives: ["Dos órdenes al mar","Σιώπα es imperativo presente activo; πεφίμωσο, imperativo perfecto pasivo de φιμόω, expresa la orden de quedar silenciado. El mismo verbo aparece en Mc 1,25 (φιμώθητι), en una escena de reprensión. Holmes (ed.), SBLGNT, Mc 4,39: https://www.studybible.info/SBLGNT/Mark%204%3A37-39."],
+    mc439echo: ["El viento y la calma","ἐπετίμησεν («reprendió») se dirige al viento; γαλήνη μεγάλη contrasta con λαῖλαψ μεγάλη de 4,37. Puede compararse con Sal 107,29, sin dar por probada una dependencia textual. Holmes (ed.), SBLGNT, Mc 4,37–39: https://www.biblegateway.com/verse/grc/Mark%204%3A39."],
     mc438cushion: ["El cojín de popa","προσκεφάλαιον designa un cojín o apoyo para la cabeza. La ubicación en la popa es explícita, pero el material y la función náutica precisa del objeto no pueden deducirse con seguridad. A. B. Bruce, The Expositor’s Greek Testament, Mc 4,38: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/4/38."],
     mc438question: ["¿No te importa?","οὐ μέλει σοι ὅτι ἀπολλύμεθα; es una pregunta que reprocha la aparente indiferencia del maestro; μέλει construye el experimentante en dativo σοι. Los presentes ἐγείρουσιν y λέγουσιν vivifican el relato. Texto: Holmes, SBLGNT, Mc 4,38: https://biblia.com/bible/sblgnt/mark/4/38-39."],
     mc438variant: ["Orden y despertar","SBLGNT lee αὐτὸς ἦν, ἐν τῇ πρύμνῃ y ἐγείρουσιν; otras tradiciones transmiten ἦν αὐτός, ἐπὶ τῇ πρύμνῃ y διεγείρουσιν. El testimonio manuscrito no es uniforme; estas variantes no cambian el núcleo de la escena. Cotejo: https://greeknewtestament.net/mk4-38; Clementina: https://biblia.com/bible/vulgataclem/mark/4/38."],
