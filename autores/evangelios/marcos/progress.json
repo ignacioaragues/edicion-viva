@@ -892,12 +892,29 @@
       ],
       "morphology": "19/19 positional",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 40,
+      "to": 41,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4/40",
+        "https://www.biblegateway.com/passage/?search=Mark+4&version=SBLGNT",
+        "https://biblia.com/bible/vulgataclem/mark/4/39-40",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/41"
+      ],
+      "morphology": "30/30 positional; 4,40=9; 4,41=21; mechanical alignment checked, semantic second pass pending",
+      "second_review": "pending",
+      "latin_versification": "Clementina 4,40 divided into two display segments to align with Greek 4,40–41; no independent Clementina 4,41"
     }
   ],
   "pending": "Continuar desde Marcos 4,37; segunda revisión filológica pendiente.",
   "next": {
-    "chapter": 4,
-    "verse": 40
+    "chapter": 5,
+    "verse": 1
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2044,7 +2061,7 @@
   },
   "prepublication_research_4_40_41": {
     "date": "2026-11-15",
-    "status": "researched_not_published",
+    "status": "published_morphology_mechanically_aligned",
     "morphology_source_verified": "MorphGNT 6.12: 4,40 = 9 tokens; 4,41 = 21 tokens. Lemas y códigos flexivos cotejados con líneas 2431–2460 del archivo fuente.",
     "sources": [
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
@@ -2060,6 +2077,7 @@
       "La Clementina tradicional reúne bajo 4,40 el contenido de griego 4,40–41: al publicar, documentar la diferencia de versificación y no inventar un 4,41 latino."
     ],
     "second_passage_review": "pending",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true,
+    "morphology_audit": "30/30 positional, token order checked; semantic second pass pending"
   }
 }
