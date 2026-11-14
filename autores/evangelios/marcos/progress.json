@@ -1875,5 +1875,39 @@
     ],
     "morphology": "25/25 positional",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_4_35_41": {
+    "date": "2026-11-14",
+    "status": "research_only_not_published",
+    "sources": [
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: Mark",
+        "section": "4:35–41",
+        "url": "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 4:35–41",
+        "url": "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-4.php"
+      },
+      {
+        "author": "Henry Alford",
+        "title": "The Greek Testament",
+        "section": "Mark 4:35–41",
+        "url": "https://www.studylight.org/commentaries/eng/hac/mark-4.html"
+      }
+    ],
+    "observations": [
+      "4,36: ὡς ἦν describe la salida sin preparación expresa; no reconstruir con certeza las circunstancias materiales.",
+      "4,38: προσκεφάλαιον designa el apoyo o cojín de la popa; su material concreto es conjetural en los comentarios.",
+      "4,39: σιώπα y πεφίμωσο son órdenes distintas; contrastar el segundo con φιμόω en Mc 1,25.",
+      "4,41: ἐφοβήθησαν φόβον μέγαν recuerda la formulación de Jonás 1,16 en griego; la relación literaria requiere cotejo directo.",
+      "Pendiente: texto exacto SBLGNT, variantes, Vulgata y fichas posicionales MorphGNT de los siete versículos; no publicar ni adelantar checkpoint antes de la validación."
+    ],
+    "morphology_audit": "pending",
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
   }
 }
