@@ -1833,5 +1833,33 @@
     ],
     "second_passage_review": "pending",
     "morphology": "57/57 positional"
+  },
+  "latin_completion_4_30_32": {
+    "date": "2026-11-14",
+    "status": "completed",
+    "source": "Vulgata Clementina, Clementine Vulgate Project (dominio público)",
+    "verification": [
+      "https://biblia.com/bible/vulgataclem/mark/4/30-32",
+      "https://www.catholicshare.com/bible/clementine-vulgate/mark/4/"
+    ],
+    "note": "Tres versículos latinos incorporados; el latín mantiene Cui assimilabimus / cui parabolæ comparabimus, sin armonizar el griego SBLGNT. Sin cambios en texto griego, traducción, morfología ni checkpoint."
+  },
+  "prepublication_research_4_33_34": {
+    "date": "2026-11-14",
+    "status": "researched_not_published",
+    "sources": [
+      "https://studybible.info/SBLGNT/Mark%204%3A33",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/33%2C34",
+      "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/89/",
+      "https://www.studylight.org/commentaries/eng/egt/mark-4.html"
+    ],
+    "observations": [
+      "ἐλάλει, ἠδύναντο, ἐπέλυεν: imperfectos que presentan enseñanza y explicación como habituales.",
+      "καθὼς ἠδύναντο ἀκούειν: medida de la capacidad de escucha; no presupone comprensión exhaustiva.",
+      "κατʼ ἰδίαν / τοῖς ἰδίοις: repetición de ἴδιος; el primero indica privacidad, el segundo identifica a los discípulos.",
+      "ἐπέλυεν: explicar o interpretar; distinguir la tensión narrativa con Mc 4,11–12 sin resolverla dogmáticamente."
+    ],
+    "morphology": "pending positional extraction and 100% validation",
+    "second_passage_review": "pending"
   }
 }
