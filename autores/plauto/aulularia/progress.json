@@ -537,6 +537,16 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), cotejo The Latin Library y Gadsden Classics (2026-11-14)",
       "note": "47 fichas y glosas contextuales; optati vires lectura problemática pendiente de colación crítica; coquinatum supino; gymnasium metáfora cómica. Segunda revisión morfológica no avanzada."
+    },
+    {
+      "section": "III.1",
+      "from": 411,
+      "to": 414,
+      "display_units": 6,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus/Scaife; cotejo PDF texto latino Documenta Catholica Omnia (consultado 2026-11-14)",
+      "note": "Seis unidades con 44 fichas individuales y glosas contextuales; 411a y 412a conservadas; sin auditoría retrospectiva certificada."
     }
   ],
   "pending": [
@@ -547,10 +557,10 @@
   ],
   "updated": "2026-11-14",
   "next": {
-    "section": "III.1",
-    "from": 411
+    "section": "III.2",
+    "from": 415
   },
-  "editorial_note": "III.1 vv.406–410 incorporados; auditoría retrospectiva consecutiva no realizada, checkpoint de segunda pasada permanece sin cambios. Verificar lectura Optati vires en edición crítica y continuar III.1 desde 411 (incluidas subdivisiones 411a y 412a).",
+  "editorial_note": "III.1 hasta 414; siguiente III.2 415. Segunda pasada consecutiva permanece en 159; pendiente migración de localizadores históricos II.1.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
