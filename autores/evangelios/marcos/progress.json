@@ -848,12 +848,26 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/35",
         "https://www.studylight.org/commentaries/eng/egt/mark-4.html"
       ]
+    },
+    {
+      "chapter": 4,
+      "from": 37,
+      "to": 37,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://www.studybible.info/SBLGNT/Mark%204%3A37-39",
+        "https://biblia.com/bible/vulgataclem/mark/4/37-39",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "17/17 positional",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 4,37; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 37
+    "verse": 38
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1936,7 +1950,7 @@
   },
   "prepublication_research_4_37": {
     "date": "2026-11-15",
-    "status": "source_collated_pending_morphology_and_publication",
+    "status": "published_morphology_mechanically_aligned",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -1963,8 +1977,8 @@
       "El aparato de SBLGNT consigna variantes de orden μεγάλη ἀνέμου / ἀνέμου μεγάλη, de coordinación καὶ τὰ / τὰ δὲ y de la cláusula final ἤδη γεμίζεσθαι τὸ πλοῖον / αὐτὸ ἤδη γεμίζεσθαι. No atribuir listas exhaustivas de manuscritos sin cotejo directo.",
       "Pendientes extracción de los 17 registros de MorphGNT 6.12, glosas contextualizadas, traducción propia, integración y validación del lector. Checkpoint permanece en 4,37."
     ],
-    "morphology_audit": "pending",
+    "morphology_audit": "17/17 positional; lemma, POS, parsing, glosas presentes; segunda revisión pendiente",
     "second_passage_review": "pending",
-    "checkpoint_advanced": false
+    "checkpoint_advanced": true
   }
 }
