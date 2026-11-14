@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–36 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–37 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -149,10 +149,14 @@
     {"chapter":4,"n":33,"gr":"Καὶ τοιαύταις παραβολαῖς πολλαῖς ἐλάλει αὐτοῖς τὸν λόγον, καθὼς ἠδύναντο ἀκούειν·","es":"Y con muchas parábolas semejantes les comunicaba el mensaje, según lo que podían escuchar.","la":"Et talibus multis parabolis loquebatur eis verbum, prout poterant audire.","notes":["mc433imperfect","mc433capacity"]},
     {"chapter":4,"n":34,"gr":"χωρὶς δὲ παραβολῆς οὐκ ἐλάλει αὐτοῖς, κατʼ ἰδίαν δὲ τοῖς ἰδίοις μαθηταῖς ἐπέλυεν πάντα.","es":"Y no les hablaba sin parábolas; pero en privado les explicaba todo a sus propios discípulos.","la":"Sine parabola autem non loquebatur eis: seorsum autem discipulis suis disserebat omnia.","notes":["mc434private","mc434variant"]},
     {"chapter":4,"n":35,"gr":"Καὶ λέγει αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ ὀψίας γενομένης· Διέλθωμεν εἰς τὸ πέραν.","es":"Y aquel mismo día, al caer la tarde, les dice: «Crucemos a la otra orilla».","la":"Et ait illis in illa die, cum sero esset factum: Transeamus contra.","notes":["mc435evening","mc435cross"]},
-    {"chapter":4,"n":36,"gr":"καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ, καὶ ἄλλα πλοῖα ἦν μετʼ αὐτοῦ.","es":"Y, dejando a la multitud, se lo llevan tal como estaba en la barca. Había también otras barcas con él.","la":"Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliæ naves erant cum illo.","notes":["mc436aswas","mc436boats"]}
+    {"chapter":4,"n":36,"gr":"καὶ ἀφέντες τὸν ὄχλον παραλαμβάνουσιν αὐτὸν ὡς ἦν ἐν τῷ πλοίῳ, καὶ ἄλλα πλοῖα ἦν μετʼ αὐτοῦ.","es":"Y, dejando a la multitud, se lo llevan tal como estaba en la barca. Había también otras barcas con él.","la":"Et dimittentes turbam, assumunt eum ita ut erat in navi: et aliæ naves erant cum illo.","notes":["mc436aswas","mc436boats"]},
+    {"chapter":4,"n":37,"gr":"καὶ γίνεται λαῖλαψ μεγάλη ἀνέμου, καὶ τὰ κύματα ἐπέβαλλεν εἰς τὸ πλοῖον, ὥστε ἤδη γεμίζεσθαι τὸ πλοῖον.","es":"Y se desata una gran tempestad de viento; las olas golpeaban la barca, de modo que esta ya empezaba a llenarse de agua.","la":"Et facta est procella magna venti, et fluctus mittebat in navim, ita ut impleretur navis.","notes":["mc437storm","mc437waves","mc437variant"]}
   ];
 
   const notes = {
+    mc437storm: ["Tempestad de viento","λαῖλαψ μεγάλη ἀνέμου presenta una tempestad intensa. El presente histórico γίνεται introduce bruscamente el episodio. Texto: Holmes (ed.), SBLGNT, Mc 4,37: https://www.studybible.info/SBLGNT/Mark%204%3A37-39."],
+    mc437waves: ["Las olas golpeaban","ἐπέβαλλεν, imperfecto singular con sujeto neutro plural τὰ κύματα, representa el embate continuado. ὥστε con infinitivo presente γεμίζεσθαι expresa la consecuencia: la barca estaba llenándose, no necesariamente ya llena. Cf. Mc 4,37, SBLGNT: https://biblia.com/bible/sblgnt/mark/4/37."],
+    mc437variant: ["Variantes de orden y coordinación","La edición SBLGNT lee μεγάλη ἀνέμου, καὶ τὰ y ἤδη γεμίζεσθαι τὸ πλοῖον; la tradición representada por RP ofrece ἀνέμου μεγάλη, τὰ δὲ y αὐτὸ ἤδη γεμίζεσθαι. La Vulgata Clementina conserva su propia redacción: ita ut impleretur navis. Aparato SBLGNT: https://www.studybible.info/SBLGNT/Mark%204%3A37-39; Clementina: https://biblia.com/bible/vulgataclem/mark/4/37-39."],
     mc435evening: ["Al caer la tarde","ὀψίας γενομένης es un genitivo absoluto temporal. A. Plummer, Cambridge Greek Testament, Mc 4,35: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/35."],
     mc435cross: ["Crucemos","Διέλθωμεν es subjuntivo exhortativo de primera persona plural. El verbo διέρχομαι no se limita a desplazamientos por agua. Plummer, Cambridge Greek Testament, Mc 4,35: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/35."],
     mc436aswas: ["Tal como estaba","ὡς ἦν deja sin precisar los preparativos; las explicaciones sobre la fatiga o la ausencia de equipaje son inferencias, no datos explícitos. A. B. Bruce, Expositor’s Greek Testament, Mc 4,36: https://www.studylight.org/commentaries/eng/egt/mark-4.html."],
