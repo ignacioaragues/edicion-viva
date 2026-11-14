@@ -797,12 +797,25 @@
       ],
       "morphology": "30/30 fichas posicionalmente alineadas; revisión contextual pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 4,
+      "from": 26,
+      "to": 29,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://studybible.info/SBLGNT/Mark%204:26-29",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "60/60 fichas posicionales verificadas",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar desde Marcos 4,24; segunda revisión filológica contextual pendiente.",
+  "pending": "Continuar desde Marcos 4,30; revisión contextual retroactiva pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 26
+    "verse": 30
   },
   "last_edit": "2026-11-14",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1771,6 +1784,16 @@
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-4.php",
       "https://tips.translation.bible/story/translation-commentary-on-mark-424-425/",
       "https://greeknewtestament.net/mk4-24"
+    ]
+  },
+  "prepublication_research_4_26_29": {
+    "date": "2026-11-14",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "60/60 positional",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://studybible.info/SBLGNT/Mark%204:26-29",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
     ]
   }
 }
