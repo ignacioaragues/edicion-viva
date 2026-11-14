@@ -592,6 +592,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), referencia; cotejo The Latin Library y comentario Aulularia (2016), 2026-11-14",
       "note": "37 fichas con glosas contextuales; interrogativa indirecta, locativo domi y -n en mean. Auditoría retrospectiva permanece en 159; validación visual pendiente."
+    },
+    {
+      "section": "III.2",
+      "from": 435,
+      "to": 438,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), referencia editorial; cotejo The Latin Library (2026-11-15)",
+      "note": "33 fichas individuales con glosas contextuales; qua gratia, omnis acusativo plural arcaico, pervium sintaxis pendiente de aparato. Segunda pasada consecutiva sin avance."
     }
   ],
   "pending": [
@@ -600,10 +609,10 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "next": {
     "section": "III.2",
-    "from": 435
+    "from": 439
   },
   "editorial_note": "III.2 editado hasta 430; segunda pasada consecutiva sigue en 159; pendiente corrección compatible de localizadores II.1 142–143 y 160–161.",
   "morphological_second_pass": {
