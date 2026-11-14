@@ -821,12 +821,26 @@
         "https://biblehub.com/sbl/mark/4.htm",
         "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
       ]
+    },
+    {
+      "chapter": 4,
+      "from": 33,
+      "to": 34,
+      "status": "edited_not_revised",
+      "source": "Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/4",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/33%2C34",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "25/25 positional",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar desde Marcos 4,30; revisión contextual retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 4,35; revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 4,
-    "verse": 33
+    "verse": 35
   },
   "last_edit": "2026-11-14",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -1846,7 +1860,7 @@
   },
   "prepublication_research_4_33_34": {
     "date": "2026-11-14",
-    "status": "researched_not_published",
+    "status": "published_morphology_mechanically_aligned",
     "sources": [
       "https://studybible.info/SBLGNT/Mark%204%3A33",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/33%2C34",
@@ -1859,7 +1873,7 @@
       "κατʼ ἰδίαν / τοῖς ἰδίοις: repetición de ἴδιος; el primero indica privacidad, el segundo identifica a los discípulos.",
       "ἐπέλυεν: explicar o interpretar; distinguir la tensión narrativa con Mc 4,11–12 sin resolverla dogmáticamente."
     ],
-    "morphology": "pending positional extraction and 100% validation",
+    "morphology": "25/25 positional",
     "second_passage_review": "pending"
   }
 }
