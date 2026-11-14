@@ -2041,5 +2041,25 @@
     ],
     "morphology": "19/19 positional",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_4_40_41": {
+    "date": "2026-11-15",
+    "status": "researched_not_published",
+    "morphology_source_verified": "MorphGNT 6.12: 4,40 = 9 tokens; 4,41 = 21 tokens. Lemas y códigos flexivos cotejados con líneas 2431–2460 del archivo fuente.",
+    "sources": [
+      "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+      "https://www.biblestudytools.com/sblg/mark/4-40.html",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/4/41",
+      "https://mail.biblehub.com/commentaries/egt/mark/4.htm",
+      "https://biblia.com/bible/vulgataclem/mark/4/39-40"
+    ],
+    "observations": [
+      "δειλοί en 4,40 contrasta con ἐφοβήθησαν φόβον μέγαν en 4,41; no son la misma raíz.",
+      "οὔπω ἔχετε πίστιν: el adverbio marca 'todavía no'; hay variantes textuales para la segunda pregunta.",
+      "4,41 contiene acusativo cognado ἐφοβήθησαν φόβον μέγαν; posible eco de Jonás 1,10/16, sin atribución segura.",
+      "La Clementina tradicional reúne bajo 4,40 el contenido de griego 4,40–41: al publicar, documentar la diferencia de versificación y no inventar un 4,41 latino."
+    ],
+    "second_passage_review": "pending",
+    "checkpoint_advanced": false
   }
 }
