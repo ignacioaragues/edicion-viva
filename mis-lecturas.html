@@ -6,9 +6,9 @@
   <meta name="theme-color" content="#f7f5ef">
   <title>Mis lecturas · Edición Viva</title>
   <meta name="description" content="Registro personal de lectura por días, semanas y obras en Edición Viva.">
-  <link rel="stylesheet" href="./reading.css?v=20261108-1">
+  <link rel="stylesheet" href="./reading.css?v=20261115-weekly-legend">
   <script src="./reading-tracker.js?v=20261108-1" defer></script>
-  <script src="./reading-dashboard.js?v=20261115-dom-sab" defer></script>
+  <script src="./reading-dashboard.js?v=20261115-weekly-legend" defer></script>
 <link rel="stylesheet" href="./highlights.css?v=1">
 </head>
 <body>
@@ -33,7 +33,8 @@
 
     <section class="history" aria-labelledby="days-heading">
       <div class="section-heading"><div><span class="section-number">I</span><h2 id="days-heading">Día por día</h2></div><span class="section-caption">ÚLTIMOS 14 DÍAS</span></div>
-      <div id="work-legend" class="work-legend" aria-label="Colores de las obras"></div>
+      <p class="legend-note">OBRAS LEÍDAS ESTA SEMANA · DOM–SÁB <span>Los días anteriores se muestran en gris si la obra ya no está activa esta semana.</span></p>
+      <div id="work-legend" class="work-legend" aria-label="Obras leídas esta semana, de domingo a sábado"></div>
       <div id="daily-chart" class="daily-chart" role="group" aria-label="Minutos de lectura de cada día"></div>
     </section>
 
