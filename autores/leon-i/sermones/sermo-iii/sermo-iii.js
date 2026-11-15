@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I íntegro y cap. II hasta 'instituit' (cols. 144C–146A)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I–II completos (cols. 144C–146B)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. II from 'Cum enim, sicut evangelica lectione reseratum est'",
+  "next": "Continue Sermo III cap. III from 'Manet ergo dispositio veritatis'",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -112,6 +112,26 @@ window.LEO_SERMO_I = {
       "note": [
         "El peso no agota el fundamento",
         "El edificio eclesial es descrito mediante fundamentum, altitudo y moles. La correspondencia sicut ... ita entre lo que Pedro creyó y lo que Cristo instituyó convierte la confesión de fe en fundamento de continuidad institucional. La lección lacessit lleva la advertencia editorial F. leg. lassescit en PL 54: la traducción interpreta el sentido contextual de debilitamiento sin resolver la variante."
+      ]
+    },
+    {
+      "id": "s3-12",
+      "label": "12 · II",
+      "latin": "Cum enim, sicut evangelica lectione reseratum est, interrogasset Dominus discipulos, quem ipsum, multis diversa opinantibus, crederent, respondissetque beatus Petrus, dicens: Tu es Christus filius Dei vivi: Dominus ait: Beatus es, Simon Bar-Jona, quia caro et sanguis non revelavit tibi, sed Pater meus qui in coelis est.",
+      "spanish": "Pues cuando, como se ha manifestado en la lectura evangélica, el Señor preguntó a los discípulos quién creían que era él, mientras muchos sostenían opiniones diferentes, y el bienaventurado Pedro respondió diciendo: «Tú eres el Cristo, el Hijo del Dios vivo», el Señor dijo: «Dichoso eres, Simón Bar-Joná, porque no te lo revelaron la carne ni la sangre, sino mi Padre que está en los cielos».",
+      "note": [
+        "La respuesta que interrumpe las opiniones",
+        "Multis diversa opinantibus establece un trasfondo de voces discrepantes; la respuesta directa de Pedro lo sustituye por una confesión singular. León recurre a la escena evangélica como prueba argumentativa, no como simple ornamento."
+      ]
+    },
+    {
+      "id": "s3-13",
+      "label": "13 · II",
+      "latin": "Et ego dico tibi quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam. Et tibi dabo claves regni coelorum. Et quodcumque ligaveris super terram, erit ligatum et in coelis: et quodcumque solveris super terram, erit solutum et in coelis.",
+      "spanish": "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella. Te daré las llaves del reino de los cielos. Y todo lo que ates en la tierra quedará atado en los cielos; y todo lo que desates en la tierra quedará desatado en los cielos.",
+      "note": [
+        "De la confesión a la potestad",
+        "La reiteración de et encadena nombre, fundamento, protección, llaves y facultad de atar y desatar. El paralelismo ligaveris / solveris y ligatum / solutum da a la autoridad un alcance simétrico, formulado como promesa de Cristo (Mt 16,16–19)."
       ]
     }
   ],
@@ -1500,6 +1520,256 @@ window.LEO_SERMO_I = {
       "instituo",
       "indicativo perfecto activo tercera persona singular",
       "instituyó"
+    ],
+    "evangelica": [
+      "evangelicus",
+      "adjetivo ablativo femenino singular con lectione",
+      "evangélica"
+    ],
+    "lectione": [
+      "lectio",
+      "sustantivo ablativo femenino singular",
+      "lectura"
+    ],
+    "reseratum": [
+      "resero",
+      "participio perfecto pasivo nominativo neutro singular con est; construcción impersonal",
+      "revelado; manifestado"
+    ],
+    "interrogasset": [
+      "interrogo",
+      "pluscuamperfecto subjuntivo activo tercera persona singular",
+      "hubiera preguntado"
+    ],
+    "Dominus": [
+      "Dominus",
+      "sustantivo nominativo masculino singular",
+      "el Señor"
+    ],
+    "discipulos": [
+      "discipulus",
+      "sustantivo acusativo masculino plural",
+      "a los discípulos"
+    ],
+    "quem": [
+      "quis",
+      "pronombre interrogativo acusativo masculino singular",
+      "a quién"
+    ],
+    "ipsum": [
+      "ipse",
+      "pronombre intensivo acusativo masculino singular",
+      "a él mismo"
+    ],
+    "diversa": [
+      "diversus",
+      "adjetivo acusativo neutro plural; objeto interno de opinantibus",
+      "cosas diferentes"
+    ],
+    "opinantibus": [
+      "opinor",
+      "participio presente deponente ablativo masculino plural",
+      "que opinaban"
+    ],
+    "crederent": [
+      "credo",
+      "imperfecto subjuntivo activo tercera persona plural; interrogativa indirecta",
+      "creían"
+    ],
+    "respondissetque": [
+      "respondeo + que",
+      "pluscuamperfecto subjuntivo activo tercera persona singular con enclítica copulativa",
+      "y hubiera respondido"
+    ],
+    "beatus": [
+      "beatus",
+      "adjetivo nominativo masculino singular",
+      "bienaventurado"
+    ],
+    "dicens": [
+      "dico",
+      "participio presente activo nominativo masculino singular",
+      "diciendo"
+    ],
+    "Tu": [
+      "tu",
+      "pronombre personal nominativo segunda persona singular",
+      "tú"
+    ],
+    "filius": [
+      "filius",
+      "sustantivo nominativo masculino singular",
+      "hijo"
+    ],
+    "Dei": [
+      "Deus",
+      "sustantivo genitivo masculino singular",
+      "de Dios"
+    ],
+    "vivi": [
+      "vivus",
+      "adjetivo genitivo masculino singular con Dei",
+      "vivo"
+    ],
+    "ait": [
+      "aio",
+      "indicativo presente tercera persona singular; verbo defectivo",
+      "dice; dijo"
+    ],
+    "Beatus": [
+      "beatus",
+      "adjetivo nominativo masculino singular",
+      "dichoso"
+    ],
+    "Simon": [
+      "Simon",
+      "nombre propio vocativo masculino singular",
+      "Simón"
+    ],
+    "Bar": [
+      "Bar-Jona",
+      "primer elemento del nombre arameo indeclinable",
+      "Bar"
+    ],
+    "Jona": [
+      "Bar-Jona",
+      "segundo elemento del nombre arameo indeclinable",
+      "Joná"
+    ],
+    "revelavit": [
+      "revelo",
+      "pretérito perfecto indicativo activo tercera persona singular",
+      "reveló"
+    ],
+    "tibi": [
+      "tu",
+      "pronombre personal dativo singular",
+      "a ti"
+    ],
+    "Pater": [
+      "pater",
+      "sustantivo nominativo masculino singular",
+      "padre"
+    ],
+    "meus": [
+      "meus",
+      "adjetivo posesivo nominativo masculino singular",
+      "mi"
+    ],
+    "coelis": [
+      "caelum",
+      "sustantivo ablativo neutro plural con in",
+      "en los cielos"
+    ],
+    "dico": [
+      "dico",
+      "presente indicativo activo primera persona singular",
+      "digo"
+    ],
+    "super": [
+      "super",
+      "preposición con acusativo",
+      "sobre"
+    ],
+    "petram": [
+      "petra",
+      "sustantivo acusativo femenino singular",
+      "piedra"
+    ],
+    "aedificabo": [
+      "aedifico",
+      "futuro indicativo activo primera persona singular",
+      "edificaré"
+    ],
+    "Ecclesiam": [
+      "ecclesia",
+      "sustantivo acusativo femenino singular",
+      "Iglesia"
+    ],
+    "meam": [
+      "meus",
+      "posesivo acusativo femenino singular",
+      "mi"
+    ],
+    "portae": [
+      "porta",
+      "sustantivo nominativo femenino plural",
+      "puertas"
+    ],
+    "inferi": [
+      "inferus",
+      "sustantivo genitivo masculino singular sustantivado",
+      "del infierno"
+    ],
+    "praevalebunt": [
+      "praevaleo",
+      "futuro indicativo activo tercera persona plural",
+      "prevalecerán"
+    ],
+    "adversus": [
+      "adversus",
+      "preposición con acusativo",
+      "contra"
+    ],
+    "eam": [
+      "is",
+      "pronombre personal anafórico acusativo femenino singular",
+      "ella"
+    ],
+    "dabo": [
+      "do",
+      "futuro indicativo activo primera persona singular",
+      "daré"
+    ],
+    "claves": [
+      "clavis",
+      "sustantivo acusativo femenino plural",
+      "llaves"
+    ],
+    "regni": [
+      "regnum",
+      "sustantivo genitivo neutro singular",
+      "del reino"
+    ],
+    "coelorum": [
+      "caelum",
+      "sustantivo genitivo neutro plural",
+      "de los cielos"
+    ],
+    "quodcumque": [
+      "quicumque",
+      "pronombre relativo indefinido acusativo neutro singular",
+      "todo lo que"
+    ],
+    "ligaveris": [
+      "ligo",
+      "futuro perfecto indicativo activo segunda persona singular en prótasis relativa",
+      "hayas atado; ates"
+    ],
+    "terram": [
+      "terra",
+      "sustantivo acusativo femenino singular con super",
+      "tierra"
+    ],
+    "erit": [
+      "sum",
+      "futuro indicativo tercera persona singular",
+      "será"
+    ],
+    "ligatum": [
+      "ligo",
+      "participio perfecto pasivo nominativo neutro singular con erit",
+      "atado"
+    ],
+    "solveris": [
+      "solvo",
+      "futuro perfecto indicativo activo segunda persona singular en prótasis relativa",
+      "hayas desatado; desates"
+    ],
+    "solutum": [
+      "solvo",
+      "participio perfecto pasivo nominativo neutro singular con erit",
+      "desatado"
     ]
   }
 };
