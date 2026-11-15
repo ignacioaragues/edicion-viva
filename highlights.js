@@ -12,7 +12,8 @@
     'evangelios-marcos': '/edicion-viva/autores/evangelios/marcos/',
     'shakespeare-coriolanus': '/shakespeare-edicion-viva/',
     'corneille-attila': '/edicion-viva/autores/corneille/attila/',
-    'leo-i-sermo-1': '/edicion-viva/autores/leon-i/sermones/sermo-i/'
+    'leo-i-sermo-1': '/edicion-viva/autores/leon-i/sermones/sermo-i/',
+    'leo-i-sermo-2': '/edicion-viva/autores/leon-i/sermones/sermo-ii/'
   };
   const isReader = !!workId;
   const read = () => {
