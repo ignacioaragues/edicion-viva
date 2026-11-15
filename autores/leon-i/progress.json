@@ -55,23 +55,23 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I §§1–4, through 'populus acquisitionis' (PL 54 col. 148–149)",
-      "paragraphs": 4,
-      "latin_tokens": 137,
-      "lexical_coverage": "137/137 token occurrences with first-pass contextual lexical cards",
-      "translation": "partial original Spanish translation aligned",
-      "voice_notes": 4,
+      "section": "Sermo IV caput I completo §§1–8, hasta 'in inferiora descendit' (PL 54 col. 148–149)",
+      "paragraphs": 8,
+      "latin_tokens": 251,
+      "lexical_coverage": "251/251 token occurrences have first-pass lexical cards",
+      "translation": "caput I complete original Spanish translation aligned; Sermo IV partial",
+      "voice_notes": 8,
       "complete_work": false,
-      "editorial_caveat": "Caput I partial; variants in unitatem (Vat. 3836) and alternate Petrine quotation wording noted in Ballerini–Migne; full print collation pending."
+      "editorial_caveat": "Caput I complete first pass; textual variants vero/omitted, consecrat/efficit, vobis/nobis and omission of the closing segment in oldest Vatican recorded; full critical collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Omnes enim in Christo regeneratos",
-    "location": "PL 54, Sermo IV, caput I, col. 149A"
+    "beginning": "Cum itaque, dilectissimi, de consortio istius muneris",
+    "location": "PL 54, Sermo IV, caput II, col. 149B"
   },
-  "priority": "Complete Sermo IV caput I from 'Omnes enim in Christo regeneratos', then chapters II–IV before Sermo V",
-  "last_edit": "2026-11-15",
+  "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
+  "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
