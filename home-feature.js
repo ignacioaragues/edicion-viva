@@ -73,7 +73,7 @@
     label.textContent = mode === 'reading' ? 'TU ÚLTIMA LECTURA'
       : mode === 'updated' ? 'ÚLTIMA ACTUALIZACIÓN' : 'EDICIÓN DESTACADA';
     monogram.textContent = item.monogram;
-    author.textContent = item.author.toLocaleUpperCase('es');
+    author.textContent = (item.title === item.author || item.period === 'TEXTOS BÍBLICOS' ? item.period : item.author).toLocaleUpperCase('es');
     title.textContent = item.title || item.work;
     subtitle.textContent = item.subtitle || item.translated || '';
     const position = typeof work?.lastPosition === 'string' ? work.lastPosition.trim() : '';
@@ -82,8 +82,8 @@
         (position ? 'Última posición registrada: ' + position + '. ' : '') +
         'Volvé a ' + (item.title || item.work) + ' desde tu biblioteca de lectura.';
     } else if (mode === 'updated') {
-      description.textContent = item.explanation +
-        (date ? ' · Actualizada el ' + formatDate(date) + '.' : '');
+      description.textContent = item.explanation.replace(/[.\\s]+$/, '') +
+        (date ? ' · Actualizada el ' + formatDate(date) + '.' : '.');
     } else {
       description.textContent = item.explanation;
     }
