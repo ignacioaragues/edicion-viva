@@ -16,19 +16,19 @@
     {
       "group": "sermones",
       "number": 1,
-      "section": "exordium",
-      "paragraphs": 5,
-      "latin_tokens": 70,
-      "lexical_coverage": "70/70 forms annotated (first pass)",
+      "section": "exordium and thanksgiving sentence",
+      "paragraphs": 6,
+      "latin_tokens": 84,
+      "lexical_coverage": "84/84 forms annotated (first pass)",
       "translation": "complete for published fragment",
-      "voice_notes": 5,
+      "voice_notes": 6,
       "complete_work": false
     }
   ],
   "next": {
     "group": "sermones",
     "number": 1,
-    "beginning": "Ago igitur Deo nostro gratias",
+    "beginning": "Vestri quoque favoris arbitrium",
     "location": "PL 54, 141B"
   },
   "priority": "Complete Sermo I, then progress systematically; add themed voice/style reading notes useful for original drama León–Atila, referencing only textual evidence.",
