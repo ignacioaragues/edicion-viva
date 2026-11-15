@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41; 5,1 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -155,9 +155,12 @@
     ,{"chapter":4,"n":39,"gr":"καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· Σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη.","es":"Entonces, al despertar, reprendió al viento y dijo al mar: «¡Calla! ¡Quédate en silencio!». El viento amainó y sobrevino una gran calma.","la":"Et exsurgens comminatus est vento, et dixit mari: Tace, obmutesce. Et cessavit ventus: et facta est tranquillitas magna.","notes":["mc439imperatives","mc439echo"]}
     ,{"chapter":4,"n":40,"gr":"καὶ εἶπεν αὐτοῖς· Τί δειλοί ἐστε; οὔπω ἔχετε πίστιν;","es":"Y les dijo: «¿Por qué tienen miedo? ¿Todavía no tienen fe?»","la":"Et ait illis: Quid timidi estis? necdum habetis fidem?","notes":["mc440fear","mc440variant","mc440latin"]}
     ,{"chapter":4,"n":41,"gr":"καὶ ἐφοβήθησαν φόβον μέγαν, καὶ ἔλεγον πρὸς ἀλλήλους· Τίς ἄρα οὗτός ἐστιν ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;","es":"Y sintieron un temor enorme y se decían unos a otros: «¿Quién será este, que hasta el viento y el mar le obedecen?»","la":"et timuerunt timore magno, et dicebant ad alterutrum: Quis, putas, est iste, quia et ventus et mare obediunt ei?","notes":["mc441fear","mc441jonah","mc440latin"]}
+    ,{"chapter":5,"n":1,"gr":"Καὶ ἦλθον εἰς τὸ πέραν τῆς θαλάσσης εἰς τὴν χώραν τῶν Γερασηνῶν.","es":"Y llegaron a la otra orilla del mar, a la región de los gerasenos.","la":"Et venerunt trans fretum maris in regionem Gerasenorum.","notes":["mc501toponym","mc501shore"]}
   ];
 
   const notes = {
+    mc501toponym: ["Gerasenos, gadarenos y gergesenos","El SBLGNT lee Γερασηνῶν (gerasenos); el aparato compara Γαδαρηνῶν (gadarenos) en Robinson-Pierpont. No es seguro identificar con precisión el desembarco a partir del gentilicio. Holmes, SBLGNT, Mc 5,1: https://biblia.com/bible/sblgnt/mark/5; cf. https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf."],
+    mc501shore: ["La otra orilla","εἰς τὸ πέραν retoma la travesía propuesta en 4,35. El texto repite εἰς para introducir la región de llegada; no especifica una localidad exacta de desembarco. Holmes (ed.), SBLGNT, Mc 4,35 y 5,1: https://biblehub.com/sbl/mark/5.htm."],
     mc440fear: ["Temor y fe","δειλοί expresa temor ante el peligro; οὔπω («todavía no») subraya la dimensión temporal de la pregunta. Holmes (ed.), SBLGNT (2010), Mc 4,40: https://biblia.com/bible/sblgnt/mark/4/40."],
     mc440variant: ["Una pregunta con variantes","El aparato SBLGNT documenta alternativas a οὔπω, entre ellas formulaciones con οὕτως y πῶς. Se conserva la lectura SBLGNT sin armonizar otros textos. Holmes, aparato Mc 4,40: https://www.biblegateway.com/passage/?search=Mark+4&version=SBLGNT."],
     mc440latin: ["Versificación de la Clementina","La Clementina tradicional reúne bajo 4,40 el contenido que el griego divide en 4,40–41. Se separan aquí los segmentos latinos para facilitar la lectura paralela, sin atribuir a la Clementina un 4,41 independiente. Clementine Vulgate Project, Mc 4,40: https://biblia.com/bible/vulgataclem/mark/4/39-40."],
@@ -649,7 +652,7 @@
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr, p.chapter === 4 ? 400 + p.n : p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
+    greekContent(original, p.gr, p.chapter === 4 ? 400 + p.n : p.chapter === 5 ? 500 + p.n : p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
@@ -677,7 +680,8 @@
       1: {1:'Juan el Bautista',9:'El bautismo de Jesús',12:'En el desierto',14:'El anuncio en Galilea',16:'Los primeros discípulos',21:'En la sinagoga de Cafarnaúm',29:'La casa de Simón y las curaciones',35:'Oración y predicación en Galilea',40:'La purificación de un enfermo'},
       2: {1:'Regreso a Cafarnaúm',13:'Leví y los comensales',18:'El ayuno y lo nuevo',23:'Las espigas y el sábado'},
       3: {1:'Una curación en sábado',7:'La multitud junto al mar',13:'La elección de los Doce',20:'Jesús y los suyos'},
-      4: {1:'La enseñanza junto al mar'}
+      4: {1:'La enseñanza junto al mar'},
+      5: {1:'La región de los gerasenos'}
     };
     const byChapter = new Map();
     for (const verse of passages) {
