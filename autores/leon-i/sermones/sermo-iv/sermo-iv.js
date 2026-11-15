@@ -2,7 +2,7 @@ window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
   "source": "Ballerini–Migne, PL 54, Sermo IV, caput I, col. 148–149; primera unidad",
   "status": "partial",
-  "next": "Caput I: In unitate igitur fidei atque baptismatis",
+  "next": "Caput I: Omnes enim in Christo regeneratos",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -32,6 +32,16 @@ window.LEO_SERMO_I = {
       "note": [
         "Jerarquía y unidad",
         "La estructura licet ... tamen reconoce explícitamente los grados de la Iglesia, pero los inscribe en una unidad corporal. La referencia a la cabeza y los miembros fundamenta la relación entre los distintos oficios."
+      ]
+    },
+    {
+      "id": "s4-4",
+      "label": "4",
+      "latin": "In unitate igitur fidei atque baptismatis, indiscreta nobis societas, dilectissimi, et generalis est dignitas, secundum illud beatissimi Petri apostoli sacratissima voce dicentis: Et ipsi tamquam lapides vivi superaedificamini in domos spiritales, sacerdotium sanctum, offerentes spiritales hostias acceptabiles Deo per Jesum Christum; et infra: Vos autem genus electum, regale sacerdotium, gens sancta, populus acquisitionis.",
+      "spanish": "En la unidad de la fe y del bautismo, por tanto, tenemos, queridísimos, una comunión sin distinciones y una dignidad común, según aquello que dice con su santísima voz el bienaventurado apóstol Pedro: «También vosotros, como piedras vivas, sois edificados como casas espirituales, sacerdocio santo, ofreciendo sacrificios espirituales aceptables a Dios por Jesucristo»; y más adelante: «Vosotros, en cambio, sois linaje elegido, sacerdocio real, nación santa, pueblo adquirido».",
+      "note": [
+        "La dignidad de los bautizados",
+        "Indiscreta societas y generalis dignitas amplían a los bautizados la pertenencia al sacerdocio; las citas de 1 Pe 2,5.9 sostienen el argumento, sin suprimir las diferencias ministeriales. El aparato registra in unitatem en Vat. 3836."
       ]
     }
   ],
@@ -435,6 +445,221 @@ window.LEO_SERMO_I = {
       "portio",
       "genitivo femenino singular",
       "parte"
+    ],
+    "unitate": [
+      "unitas",
+      "ablativo femenino singular",
+      "unidad"
+    ],
+    "igitur": [
+      "igitur",
+      "conjunción ilativa",
+      "por tanto"
+    ],
+    "fidei": [
+      "fides",
+      "genitivo femenino singular",
+      "fe"
+    ],
+    "atque": [
+      "atque",
+      "conjunción copulativa",
+      "y"
+    ],
+    "baptismatis": [
+      "baptisma",
+      "genitivo neutro singular",
+      "bautismo"
+    ],
+    "indiscreta": [
+      "indiscretus",
+      "nominativo femenino singular",
+      "sin distinciones"
+    ],
+    "nobis": [
+      "nos",
+      "dativo plural",
+      "para nosotros"
+    ],
+    "societas": [
+      "societas",
+      "nominativo femenino singular",
+      "comunión"
+    ],
+    "generalis": [
+      "generalis",
+      "nominativo femenino singular",
+      "común"
+    ],
+    "dignitas": [
+      "dignitas",
+      "nominativo femenino singular",
+      "dignidad"
+    ],
+    "secundum": [
+      "secundum",
+      "preposición con acusativo",
+      "según"
+    ],
+    "illud": [
+      "ille",
+      "acusativo neutro singular",
+      "aquello"
+    ],
+    "beatissimi": [
+      "beatus",
+      "genitivo masculino singular superlativo",
+      "bienaventurado"
+    ],
+    "Petri": [
+      "Petrus",
+      "genitivo masculino singular",
+      "de Pedro"
+    ],
+    "apostoli": [
+      "apostolus",
+      "genitivo masculino singular",
+      "apóstol"
+    ],
+    "sacratissima": [
+      "sacratus",
+      "ablativo femenino singular superlativo",
+      "santísima"
+    ],
+    "voce": [
+      "vox",
+      "ablativo femenino singular",
+      "voz"
+    ],
+    "dicentis": [
+      "dico",
+      "participio presente genitivo masculino singular",
+      "que dice"
+    ],
+    "Et": [
+      "et",
+      "conjunción",
+      "y"
+    ],
+    "ipsi": [
+      "ipse",
+      "nominativo masculino plural",
+      "vosotros mismos"
+    ],
+    "tamquam": [
+      "tamquam",
+      "comparativa",
+      "como"
+    ],
+    "lapides": [
+      "lapis",
+      "nominativo masculino plural",
+      "piedras"
+    ],
+    "vivi": [
+      "vivus",
+      "nominativo masculino plural",
+      "vivas"
+    ],
+    "superaedificamini": [
+      "superaedifico",
+      "presente indicativo pasivo segunda plural",
+      "sois edificados"
+    ],
+    "domos": [
+      "domus",
+      "acusativo femenino plural",
+      "casas"
+    ],
+    "spiritales": [
+      "spiritalis",
+      "acusativo femenino plural",
+      "espirituales"
+    ],
+    "sacerdotium": [
+      "sacerdotium",
+      "acusativo neutro singular",
+      "sacerdocio"
+    ],
+    "sanctum": [
+      "sanctus",
+      "acusativo neutro singular",
+      "santo"
+    ],
+    "offerentes": [
+      "offero",
+      "participio presente nominativo masculino plural",
+      "ofreciendo"
+    ],
+    "hostias": [
+      "hostia",
+      "acusativo femenino plural",
+      "sacrificios"
+    ],
+    "acceptabiles": [
+      "acceptabilis",
+      "acusativo femenino plural",
+      "aceptables"
+    ],
+    "Jesum": [
+      "Jesus",
+      "acusativo masculino singular",
+      "Jesús"
+    ],
+    "Christum": [
+      "Christus",
+      "acusativo masculino singular",
+      "Cristo"
+    ],
+    "infra": [
+      "infra",
+      "adverbio",
+      "más adelante"
+    ],
+    "Vos": [
+      "vos",
+      "nominativo plural",
+      "vosotros"
+    ],
+    "autem": [
+      "autem",
+      "conjunción adversativa",
+      "en cambio"
+    ],
+    "genus": [
+      "genus",
+      "nominativo neutro singular",
+      "linaje"
+    ],
+    "electum": [
+      "eligo",
+      "participio perfecto pasivo nominativo neutro singular",
+      "elegido"
+    ],
+    "regale": [
+      "regalis",
+      "nominativo neutro singular",
+      "real"
+    ],
+    "gens": [
+      "gens",
+      "nominativo femenino singular",
+      "nación"
+    ],
+    "sancta": [
+      "sanctus",
+      "nominativo femenino singular",
+      "santa"
+    ],
+    "populus": [
+      "populus",
+      "nominativo masculino singular",
+      "pueblo"
+    ],
+    "acquisitionis": [
+      "acquisitio",
+      "genitivo femenino singular",
+      "adquirido"
     ]
   }
 };
