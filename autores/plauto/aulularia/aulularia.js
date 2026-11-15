@@ -1083,55 +1083,88 @@ window.addEventListener('resize', syncPanelButtons);
 
 /* Navegación editorial: se deriva de las secciones realmente publicadas.
    Los futuros bloques pueden declarar entry.section y se incorporan sin editar el menú. */
-const sectionSelector = document.createElement('select');
-sectionSelector.id = 'section-selector';
-sectionSelector.setAttribute('aria-label','Elegir sección de la obra');
 const sectionNames = {
-  prologue:'Prólogo · Lar familiar',
-  act1scene1:'Acto I, escena 1',
-  act1scene2:'Acto I, escena 2',
-  act2scene1:'Acto II, escena 1',
-  act2scene2:'Acto II, escena 2',
-  act2scene3:'Acto II, escena 3',
-  act2scene4:'Acto II, escena 4',
-  act2scene5:'Acto II, escena 5',
-  act2scene6:'Acto II, escena 6',
-  act2scene7:'Acto II, escena 7',
-  act2scene8:'Acto II, escena 8',
-  act2scene9:'Acto II, escena 9',
-  act3scene1:'Acto III, escena 1',
-  act3scene2:'Acto III, escena 2'
+  prologue: 'Prólogo · Lar familiar',
+  act1scene1: 'Acto I, escena 1', act1scene2: 'Acto I, escena 2',
+  act2scene1: 'Acto II, escena 1', act2scene2: 'Acto II, escena 2',
+  act2scene3: 'Acto II, escena 3', act2scene4: 'Acto II, escena 4',
+  act2scene5: 'Acto II, escena 5', act2scene6: 'Acto II, escena 6',
+  act2scene7: 'Acto II, escena 7', act2scene8: 'Acto II, escena 8',
+  act2scene9: 'Acto II, escena 9', act3scene1: 'Acto III, escena 1',
+  act3scene2: 'Acto III, escena 2', act3scene3: 'Acto III, escena 3',
+  act3scene4: 'Acto III, escena 4', act3scene5: 'Acto III, escena 5'
 };
 const sectionRanges = new Map();
 for (const row of container.querySelectorAll('.verse[data-section]')) {
   const section = row.dataset.section;
-  const raw = row.querySelector('.verse-number')?.textContent || row.querySelector('.number')?.textContent || '';
-  const numbers = (raw.match(/\d+/g) || []).map(Number);
+  const raw = row.querySelector('.number')?.textContent || '';
+  const numbers = (raw.match(/\\d+/g) || []).map(Number);
   if (!sectionRanges.has(section)) sectionRanges.set(section, []);
   sectionRanges.get(section).push(...numbers);
 }
-for (const [section,numbers] of sectionRanges) {
-  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
-  const min = numbers.length ? Math.min(...numbers) : '';
-  const max = numbers.length ? Math.max(...numbers) : '';
-  const option = document.createElement('option');
-  option.value = section;
-  option.textContent = name + (numbers.length ? ' · vv. ' + min + '–' + max : '');
-  sectionSelector.append(option);
+const navSlot = document.querySelector('#section-nav-slot');
+const oldActLabel = navSlot.previousElementSibling;
+if (oldActLabel?.classList.contains('act-label')) oldActLabel.hidden = true;
+const sectionNav = document.createElement('nav');
+sectionNav.className = 'section-navigation';
+sectionNav.setAttribute('aria-label', 'Actos y escenas');
+const navButtons = new Map();
+const navGroups = new Map();
+const roman = ['','I','II','III','IV','V'];
+function makeGroup(act) {
+  const heading = document.createElement('button');
+  heading.type = 'button';
+  heading.className = 'act-nav-toggle';
+  heading.textContent = act === 'prologue' ? 'PRÓLOGO' : 'ACTO ' + (roman[Number(act)] || act);
+  const scenes = document.createElement('div');
+  scenes.className = 'act-nav-scenes';
+  const groupId = 'aulularia-scenes-' + act;
+  scenes.id = groupId;
+  heading.setAttribute('aria-controls', groupId);
+  heading.setAttribute('aria-expanded', 'true');
+  heading.addEventListener('click', () => {
+    scenes.hidden = !scenes.hidden;
+    heading.setAttribute('aria-expanded', String(!scenes.hidden));
+  });
+  sectionNav.append(heading, scenes);
+  navGroups.set(act, {heading, scenes});
+  return scenes;
 }
-const sectionNav=document.createElement('nav');
-sectionNav.className='section-navigation';
-sectionNav.append(sectionSelector);
-document.querySelector('#section-nav-slot').append(sectionNav);
+for (const [section, numbers] of sectionRanges) {
+  const match = section.match(/^act(\\d+)scene(\\d+)$/);
+  const act = section === 'prologue' ? 'prologue' : match?.[1] || 'other';
+  const scenes = navGroups.get(act)?.scenes || makeGroup(act);
+  const button = document.createElement('button');
+  button.type = 'button';
+  button.className = 'scene-nav-button';
+  button.dataset.section = section;
+  const name = sectionNames[section] || section.replace(/^act(\\d+)scene(\\d+)$/, 'Acto $1, escena $2');
+  const range = numbers.length ? ' · vv. ' + Math.min(...numbers) + '–' + Math.max(...numbers) : '';
+  button.textContent = (section === 'prologue' ? 'Lar familiar' : match ? 'Escena ' + match[2] : name) + range;
+  button.addEventListener('click', () => selectSection(section));
+  scenes.append(button);
+  navButtons.set(section, button);
+}
+navSlot.append(sectionNav);
 function selectSection(section) {
   for (const row of container.querySelectorAll('.verse')) row.hidden = row.dataset.section !== section;
-  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
-  const current=document.querySelector('.position-current');
-  if (current) current.textContent=name;
-  const numbers=sectionRanges.get(section)||[];
-  const marker=document.querySelector('.position-marker strong');
-  if (marker && numbers.length) marker.textContent='vv. '+Math.min(...numbers)+'–'+Math.max(...numbers);
+  for (const [id, button] of navButtons) {
+    button.classList.toggle('active', id === section);
+    if (id === section) button.setAttribute('aria-current', 'true');
+    else button.removeAttribute('aria-current');
+  }
+  const act = section === 'prologue' ? 'prologue' : section.match(/^act(\\d+)scene/)?.[1] || 'other';
+  const parent = navGroups.get(act);
+  if (parent?.scenes.hidden) {
+    parent.scenes.hidden = false;
+    parent.heading.setAttribute('aria-expanded', 'true');
+  }
+  const name = sectionNames[section] || section.replace(/^act(\\d+)scene(\\d+)$/, 'Acto $1, escena $2');
+  const current = document.querySelector('.position-current');
+  if (current) current.textContent = name;
+  const numbers = sectionRanges.get(section) || [];
+  const marker = document.querySelector('.position-marker strong');
+  if (marker && numbers.length) marker.textContent = 'vv. ' + Math.min(...numbers) + '–' + Math.max(...numbers);
   closeWord(); closeNote();
 }
-sectionSelector.addEventListener('change',()=>selectSection(sectionSelector.value));
-if (sectionSelector.options.length) selectSection(sectionSelector.value);
+if (sectionRanges.size) selectSection(sectionRanges.keys().next().value);
