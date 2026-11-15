@@ -727,6 +727,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), base editorial; cotejo con Simon Laursen, Aulularia (2013), p. 17, https://klassisk.ribekatedralskole.dk/personer/plautus/Aulularia4.pdf",
       "note": "21 fichas individuales con glosas contextuales; nota sobre la posible interpolación de 503–504 según Zwierlein citado en Radicke. Pendiente cotejo directo con aparato de Leo y QA visual. Segunda revisión consecutiva sigue en 159 por migración de localizadores II.1."
+    },
+    {
+      "section": "III.5",
+      "from": 505,
+      "to": 510,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo, Comoediae (1895), digitised scan; collated with LateinLex, The Latin Library and Jan Radicke (GFA)",
+      "note": "Six lines with original Spanish translation, word-level morphology and contextual glosses; occupational vocabulary remains philologically disputed. Automated token count checked; no browser QA performed."
     }
   ],
   "pending": [
@@ -738,7 +747,7 @@
   "updated": "2026-11-15",
   "next": {
     "section": "III.5",
-    "verse": 505
+    "verse": 511
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
