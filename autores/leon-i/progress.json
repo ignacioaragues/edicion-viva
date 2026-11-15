@@ -16,22 +16,23 @@
     {
       "group": "sermones",
       "number": 1,
-      "section": "exordium and thanksgiving sentence",
-      "paragraphs": 6,
-      "latin_tokens": 84,
-      "lexical_coverage": "84/84 forms annotated (first pass)",
-      "translation": "complete for published fragment",
-      "voice_notes": 6,
-      "complete_work": false
+      "section": "complete Sermo I (PL 54, 141A–142B)",
+      "paragraphs": 12,
+      "latin_tokens": 231,
+      "lexical_coverage": "231/231 token occurrences have lexical cards (first pass; 179 surface forms)",
+      "translation": "complete first-pass translation",
+      "voice_notes": 12,
+      "complete_work": true,
+      "editorial_caveat": "Final Per Christum clausula supported by manuscripts ending here (Ballerini–Migne note 9); further critical review remains."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 1,
-    "beginning": "Vestri quoque favoris arbitrium",
-    "location": "PL 54, 141B"
+    "number": 2,
+    "beginning": "Honorabilem mihi, dilectissimi, hodiernum diem fecit divina dignatio",
+    "location": "PL 54, sermon II"
   },
-  "priority": "Complete Sermo I, then progress systematically; add themed voice/style reading notes useful for original drama León–Atila, referencing only textual evidence.",
+  "priority": "Sermo I first-pass edition complete; begin Sermo II, finish one work per run when verified; later audit Sermo I against critical editions.",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
