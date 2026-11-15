@@ -29,6 +29,9 @@ h1 { font:normal clamp(50px,7vw,84px)/1.1 var(--serif); letter-spacing:-.055em; 
 .section-heading>div { display:flex; align-items:baseline; gap:20px; }
 .section-heading h2 { font:normal 32px/1.2 var(--serif); letter-spacing:-.04em; margin:0; }
 .section-caption { color:var(--faint); font-weight:normal; text-align:right; }
+.legend-note { margin:0 0 12px; font:700 9px/1.8 var(--sans); letter-spacing:.12em; color:var(--accent); }
+.legend-note span { font-weight:400; letter-spacing:0; color:var(--muted); margin-left:8px; }
+.legend-empty { font:italic 12px/1.8 var(--serif); color:var(--faint); }
 .work-legend { display:flex; flex-wrap:wrap; gap:10px 24px; min-height:25px; margin:0 0 18px; }
 .legend-entry { display:inline-flex; align-items:center; gap:8px; color:var(--muted); font:11px/1.5 var(--sans); }
 .color-dot { display:inline-block; width:9px; height:9px; border-radius:2px; flex:none; }
