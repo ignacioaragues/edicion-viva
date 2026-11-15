@@ -1021,12 +1021,24 @@
         "https://biblia.com/bible/vulgataclem/mark/5/9-10",
         "https://www.studylight.org/interlinear-study-bible/greek/mark/5-9.html"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 11,
+      "to": 11,
+      "status": "edited_not_revised",
+      "morphology": "10/10 positional MorphGNT 6.12; revisión contextual pendiente",
+      "source": "https://biblia.com/bible/sblgnt/mark/5",
+      "external_references": [
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/5",
+        "https://biblia.com/bible/vulgataclem/mark/5/11-13"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,11; revisión retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,12; revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 11
+    "verse": 12
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2331,6 +2343,21 @@
       "Legión: préstamo de legio, interpretación política específica no demostrada",
       "Singular/plural en la voz del personaje y pronombre neutro plural αὐτά",
       "Clementina ne se expelleret difiere del griego αὐτά"
+    ]
+  },
+  "prepublication_research_5_11": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "10/10 posicional; revisión integral pendiente",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/5",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/5",
+      "https://biblia.com/bible/vulgataclem/mark/5/11-13"
+    ],
+    "observations": [
+      "πρὸς τῷ ὄρει no fija una localización geográfica precisa",
+      "βοσκομένη concuerda con ἀγέλη"
     ]
   }
 }
