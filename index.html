@@ -11,6 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css?v=20261115-lingua-nav">
   <script defer src="./collection.js?v=20261115-leo"></script>
+  <script defer src="./reading-tracker.js?v=20261115-feature"></script>
+  <script defer src="./home-feature.js?v=20261115-feature1"></script>
 <link rel="stylesheet" href="./highlights.css?v=1">
 </head>
 <body>
@@ -40,16 +42,16 @@
         <a class="text-link hero-link" href="#biblioteca">Explorar la biblioteca <span aria-hidden="true">→</span></a>
       </div>
 
-      <aside class="hero-feature" aria-label="Primera edición disponible">
-        <div class="feature-top"><span>PRIMERA EDICIÓN</span><span class="live-status"><span class="status-dot" aria-hidden="true"></span> EN CURSO</span></div>
-        <div class="feature-ornament" aria-hidden="true"><span>S</span><i>.</i></div>
+      <aside class="hero-feature" aria-label="Edición destacada">
+        <div class="feature-top"><span data-feature-label>EDICIÓN DESTACADA</span><span class="live-status"><span class="status-dot" aria-hidden="true"></span> EN CURSO</span></div>
+        <div class="feature-ornament" aria-hidden="true"><span data-feature-monogram>S</span><i>.</i></div>
         <div class="feature-body">
-          <span class="feature-overline">WILLIAM SHAKESPEARE</span>
-          <h2>Coriolanus</h2>
-          <p class="feature-subtitle">Coriolano</p>
-          <p class="feature-description">Roma, la ambición y la voz del pueblo. La primera obra de Edición Viva se está construyendo escena por escena.</p>
+          <span class="feature-overline" data-feature-author>WILLIAM SHAKESPEARE</span>
+          <h2 data-feature-title>Coriolanus</h2>
+          <p class="feature-subtitle" data-feature-subtitle>Coriolano</p>
+          <p class="feature-description" data-feature-description>La tragedia romana de Shakespeare, escena por escena.</p>
         </div>
-        <a class="feature-action" href="https://ignacioaragues.github.io/shakespeare-edicion-viva/">Entrar a la edición de Shakespeare <span aria-hidden="true">→</span></a>
+        <a class="feature-action" data-feature-link href="https://ignacioaragues.github.io/shakespeare-edicion-viva/"><span data-feature-cta>Entrar a la edición</span><span aria-hidden="true">→</span></a>
       </aside>
     </section>
 
