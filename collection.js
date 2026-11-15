@@ -36,6 +36,16 @@ const collection = [
     detail: 'En curso · Marcos 1,1–5,4',
   },
   {
+    author: 'León I el Grande',
+    period: 'PATRÍSTICA LATINA',
+    work: 'Sermones et epistolae',
+    translated: 'Obras · Sermones y correspondencia',
+    language: 'Latín · Español',
+    status: 'available',
+    url: './autores/leon-i/',
+    detail: 'En curso · Sermo I',
+  },
+  {
     author: 'Pierre Corneille',
     period: 'TEATRO CLÁSICO FRANCÉS',
     work: 'Attila',
