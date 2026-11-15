@@ -790,7 +790,26 @@ for (const entry of verses) {
     }
     const word = entry.words[index++];
     if (!word || word[0].toLocaleLowerCase('la') !== chunk.toLocaleLowerCase('la')) {
-      throw new Error('Falta análisis o hay un desajuste en ' + entry.n + ': ' + chunk);
+      // Un desajuste editorial no debe dejar vacía toda la obra.
+      // La palabra permanece visible y pulsable, señalada explícitamente como pendiente.
+      console.error('Aulularia: ficha desalineada', {verso: entry.n, forma: chunk, ficha: word});
+      const pending = document.createElement('button');
+      pending.type = 'button';
+      pending.className = 'token token-pending';
+      pending.textContent = chunk;
+      pending.title = 'Ficha morfológica pendiente de corrección';
+      pending.setAttribute('aria-label', chunk + ': ficha pendiente de corrección');
+      pending.addEventListener('click', () => {
+        document.querySelector('#word-form').textContent = chunk;
+        document.querySelector('#word-lemma').textContent = 'Pendiente de cotejo';
+        document.querySelector('#word-morphology').textContent = 'Esta ficha presenta un desajuste editorial y requiere revisión.';
+        document.querySelector('#word-gloss').textContent = 'Glosa pendiente';
+        document.querySelector('#word-paradigm').hidden = true;
+        wordPanel.hidden = false;
+        positionPopover(pending, wordPanel);
+      });
+      latin.append(pending);
+      continue;
     }
     const button = document.createElement('button');
     button.type = 'button';
@@ -801,7 +820,7 @@ for (const entry of verses) {
     button.addEventListener('click', () => openWord(button, word, reference));
     latin.append(button);
   }
-  if (index !== entry.words.length) throw new Error('Sobran análisis en el verso ' + entry.n);
+  if (index !== entry.words.length) console.error('Aulularia: fichas sobrantes', {verso: entry.n, fichas: entry.words.length, tokens: index});
   const note = notes[entry.n];
   if (note) {
     latin.append(document.createTextNode(' '));
