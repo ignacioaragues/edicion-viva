@@ -2236,5 +2236,45 @@
       "https://greeknewtestament.net/mk5-5",
       "https://biblia.com/bible/vulgataclem/mark/5/3-5"
     ]
+  },
+  "prepublication_research_5_6_10": {
+    "date": "2026-11-15",
+    "status": "researched_not_published",
+    "second_passage_review": "pending",
+    "morphology_audit": "pending — do not publish without 100% positional MorphGNT 6.12 alignment",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 5:6–10",
+        "url": "https://biblia.com/bible/sblgnt/mark/5"
+      },
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: Mark",
+        "section": "5:6–10",
+        "url": "https://sermonindex.net/commentary/cambridgegreek/MRK/5"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 5:6",
+        "url": "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/5/6"
+      },
+      {
+        "title": "MorphGNT SBLGNT 6.12",
+        "url": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      }
+    ],
+    "observations": [
+      "5,6: προσεκύνησεν expresa postración ante Jesús; el sentido específico de adoración no debe imponerse sin discusión contextual.",
+      "5,7: Τί ἐμοὶ καὶ σοί es fórmula de distanciamiento/conflicto; ὁρκίζω σε τὸν θεόν invoca a Dios como garantía de la súplica.",
+      "5,8: ἔλεγεν γάρ (imperfecto + explicación retrospectiva) permite entender que la orden de Jesús antecede al grito de 5,7.",
+      "5,9: Λεγιών es préstamo del latín legio; la asociación militar es lingüística, pero una alegoría antiromana específica sigue siendo hipótesis interpretativa.",
+      "5,10: singular παρεκάλει frente a plural πολλοί ἐσμεν y neutro αὐτά: cambio de número relevante para la voz narrativa; el comentario de Plummer señala variantes plurales en testigos.",
+      "Variantes señaladas por SBLGNT en 5,6–10 requieren cotejo de aparato y testimonios antes de su publicación definitiva."
+    ],
+    "next_step": "Extraer registros 5,6–10 de MorphGNT 6.12; cotejar palabra a palabra, preparar traducción española y latín Clementino, integrar notas con referencias, ejecutar comprobaciones y solo entonces adelantar checkpoint."
   }
 }
