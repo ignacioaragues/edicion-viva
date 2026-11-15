@@ -2411,5 +2411,48 @@
       "Lectura alegórica sobre impureza y cerdos posible como recepción, pero no hecho histórico demostrado por la narración."
     ],
     "next_step": "Obtener los registros posicionales MorphGNT 6.12 para 5,12–13, cotejar token a token y publicar únicamente tras validación sintáctica."
+  },
+  "prepublication_research_5_14_17": {
+    "date": "2026-11-15",
+    "status": "researched_not_published",
+    "second_passage_review": "pending",
+    "morphology_audit": "MorphGNT 6.12 source lines 2668–2729 located; positional integration not yet completed",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 5:14–17",
+        "url": "https://biblia.com/bible/sblgnt/mark/5"
+      },
+      {
+        "author": "James K. Tauber",
+        "title": "MorphGNT SBLGNT 6.12",
+        "section": "Mark 5:14–17 (lines 2668–2729)",
+        "url": "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt"
+      },
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: Mark",
+        "section": "5:15–17",
+        "url": "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 5:14–17",
+        "url": "https://www.biblehub.com/commentaries/egt/mark/5.htm"
+      }
+    ],
+    "observations": [
+      "5,14: οἱ βόσκοντες αὐτούς son los encargados de apacentar los cerdos; εἰς τοὺς ἀγρούς refiere a campos o entorno rural, no necesariamente a aldeas determinadas.",
+      "5,14: τὸ γεγονός es participio perfecto sustantivado ('lo sucedido'); no es equivalente a un simple infinitivo.",
+      "5,15: καθήμενον, ἱματισμένον y σωφρονοῦντα describen el nuevo estado del personaje. El texto de Marcos no dice expresamente que antes estuviera desnudo: eso se menciona en Lc 8,27.",
+      "5,15: ἐσχηκότα es participio perfecto de ἔχω que describe a quien había tenido 'Legión'; ἐφοβήθησαν señala la reacción de temor ante el cambio.",
+      "5,16: διηγήσαντο describe el relato de los testigos sobre el hombre y los cerdos; no identificar sin prueba a todos los testigos con los Doce.",
+      "5,17: ἤρξαντο παρακαλεῖν introduce la petición de que Jesús se marche; atribuir exclusivamente esa petición a pérdidas económicas es interpretación, no motivación expresamente declarada.",
+      "El SBLGNT incluye marcas de aparato en el recurso web que deben eliminarse del cuerpo de lectura; cotejar cada variante en el aparato antes de anotarla."
+    ],
+    "next_step": "Integrar griego 5,14–17, español original, latín Clementina, notas con estas fuentes y 62 registros morfológicos posicionales (5,14:21; 5,15:19; 5,16:13; 5,17:9); validar sintaxis, renderizado y luego avanzar checkpoint."
   }
 }
