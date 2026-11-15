@@ -1007,12 +1007,26 @@
         "https://biblia.com/bible/vulgataclem/mark/5/8",
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 9,
+      "to": 10,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "morphology": "26/26 positional MorphGNT 6.12; segunda revisión semántica pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblia.com/bible/vulgataclem/mark/5/9-10",
+        "https://www.studylight.org/interlinear-study-bible/greek/mark/5-9.html"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,8; revisión retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,11; revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 9
+    "verse": 11
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2264,9 +2278,9 @@
   },
   "prepublication_research_5_6_10": {
     "date": "2026-11-15",
-    "status": "partially_published_5_6_8",
+    "status": "published_5_6_10",
     "second_passage_review": "pending",
-    "morphology_audit": "5,6–8: 43/43 positional; 5,9–10 pending",
+    "morphology_audit": "5,6–10: 69/69 positional; segunda revisión semántica pendiente",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -2300,6 +2314,23 @@
       "5,10: singular παρεκάλει frente a plural πολλοί ἐσμεν y neutro αὐτά: cambio de número relevante para la voz narrativa; el comentario de Plummer señala variantes plurales en testigos.",
       "Variantes señaladas por SBLGNT en 5,6–10 requieren cotejo de aparato y testimonios antes de su publicación definitiva."
     ],
-    "next_step": "Completar 5,9–10 con cotejo MorphGNT y glosas."
+    "next_step": "Continuar con 5,11 y la segunda revisión retroactiva"
+  },
+  "prepublication_research_5_9_10": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "5,9: 15/15; 5,10: 11/11; tokens cotejados con MorphGNT 6.12",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://biblia.com/bible/vulgataclem/mark/5/9-10",
+      "https://www.studylight.org/interlinear-study-bible/greek/mark/5-9.html"
+    ],
+    "observations": [
+      "Legión: préstamo de legio, interpretación política específica no demostrada",
+      "Singular/plural en la voz del personaje y pronombre neutro plural αὐτά",
+      "Clementina ne se expelleret difiere del griego αὐτά"
+    ]
   }
 }
