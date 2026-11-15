@@ -1,0 +1,37 @@
+{
+  "author": "Leo I Magnus",
+  "work": "Opera · sermones et epistolae",
+  "status": "in_progress",
+  "base_edition": "Ballerini–Migne, Patrologia Latina 54 (traditional numbering)",
+  "additional_sources": [
+    "https://la.wikisource.org/wiki/Sermones_-_Migne",
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_I"
+  ],
+  "scope": {
+    "sermons_traditional": 96,
+    "epistolary_entries_traditional": 173,
+    "other_attributed_works": "critical attribution audit required"
+  },
+  "published": [
+    {
+      "group": "sermones",
+      "number": 1,
+      "section": "exordium",
+      "paragraphs": 5,
+      "latin_tokens": 70,
+      "lexical_coverage": "70/70 forms annotated (first pass)",
+      "translation": "complete for published fragment",
+      "voice_notes": 5,
+      "complete_work": false
+    }
+  ],
+  "next": {
+    "group": "sermones",
+    "number": 1,
+    "beginning": "Ago igitur Deo nostro gratias",
+    "location": "PL 54, 141B"
+  },
+  "priority": "Complete Sermo I, then progress systematically; add themed voice/style reading notes useful for original drama León–Atila, referencing only textual evidence.",
+  "last_edit": "2026-11-15",
+  "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
+}
