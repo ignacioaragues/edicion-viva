@@ -42,21 +42,21 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, caput I, opening through 'qui operatur in nobis' (PL 54, col. 144C–145A)",
-      "paragraphs": 3,
-      "latin_tokens": 98,
-      "lexical_coverage": "98/98 token occurrences with first-pass lexical cards",
-      "translation": "partial first-pass translation; remaining Sermo III not yet published",
-      "voice_notes": 3,
+      "section": "Sermo III, caput I, through 'cujus generatio non potest enarrari' (PL 54, col. 144C–145B)",
+      "paragraphs": 7,
+      "latin_tokens": 181,
+      "lexical_coverage": "181/181 token occurrences with first-pass lexical cards",
+      "translation": "partial first-pass Spanish translation; remaining Sermo III not yet published",
+      "voice_notes": 7,
       "complete_work": false,
-      "editorial_caveat": "First three editorial units; chapter I and chapters II–IV remain. Check source variants on subsequent passages; text based on PL54 Wikisource transcription."
+      "editorial_caveat": "Ballerini–Migne text consulted through Melchizedek typology; the opening 'quem' in the source is printed as 'quam' in the earlier reader and requires critical reconciliation. Chapter I ending and chapters II–IV remain."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "Unde et Davidicum psalmum, dilectissimi, non ad nostram elationem",
-    "location": "PL 54, Sermo III, caput I, col. 145A"
+    "beginning": "Denique cum hujus divini sacerdotii sacramentum etiam ad humanas pervenit functiones",
+    "location": "PL 54, Sermo III, caput I, col. 145B"
   },
   "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
   "last_edit": "2026-11-15",
