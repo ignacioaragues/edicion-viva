@@ -136,7 +136,9 @@ a:focus-visible { outline: 3px solid #d59877; outline-offset: 4px; }
   .hero-feature { min-height: 510px; }
 }
 @media (max-width: 760px) {
-  .site-header { height: 69px; padding: 0 22px; }
+  .site-header { height: auto; min-height: 69px; padding: 12px 22px; flex-wrap: wrap; gap: 12px; }
+  .site-header .brand { flex: 0 0 100%; }
+  .header-nav { order: 3; flex: 0 0 100%; width: 100%; overflow-x: auto; white-space: nowrap; padding: 3px 0 7px; scrollbar-width: thin; }
   .brand { min-width: 0; gap: 10px; }
   .brand-mark { font-size: 30px; width: 29px; }
   .brand-words strong { font-size: 10px; }
