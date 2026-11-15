@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css?v=20261115-nav-speakers">
+  <link rel="stylesheet" href="./styles.css?v=20261115-font-controls">
 <link rel="stylesheet" href="../../../highlights.css?v=20261112-shared-header">
 </head>
 <body data-reading-id="plauto-aulularia" data-reading-title="Plauto · Aulularia">
@@ -45,9 +45,6 @@
         <div class="act-label"><span>PRÓLOGO Y ACTO I</span><span class="act-count">01 / 05</span></div>
         <div id="section-nav-slot"></div>
         <div class="sidebar-bottom" id="drawer-position">
-          <div class="side-overline">TU LECTURA</div>
-          <p class="position-current">Prólogo · Lar familiar</p>
-          <div class="position-marker"><span>Fragmento disponible</span><strong>vv. 1–17</strong></div>
           <div class="reading-stats" aria-label="Tiempo de lectura">
             <p class="reading-stats-heading">TIEMPO DE LECTURA</p>
             <p><span>Hoy</span><strong id="reading-today">0 min</strong></p>
@@ -79,7 +76,7 @@
     </div>
 
     <section class="reader" aria-label="Edición bilingüe">
-      <div class="reader-controls"><div class="reader-help">Texto latino y traducción española · notas y análisis disponibles al seleccionar.</div><button type="button" id="toggle-layout" aria-pressed="false">Ver en bloques</button></div>
+      <div class="reader-controls"><div class="font-size-controls" role="group" aria-label="Tamaño de letra del texto"><button type="button" id="font-decrease" aria-label="Reducir tamaño de letra">A−</button><button type="button" id="font-increase" aria-label="Aumentar tamaño de letra">A+</button></div><div class="reader-help">Texto latino y traducción española · notas y análisis disponibles al seleccionar.</div><button type="button" id="toggle-layout" aria-pressed="false">Ver en bloques</button></div>
       <div class="reader-columns-heading">
         <div class="line-gutter-heading">VERSOS</div>
         <div class="column-heading"><span class="lang-code">LA</span><span>Original latino</span></div>
@@ -139,7 +136,7 @@
 
 <script src="./prologue.js"></script>
 <script src="./glosses.js?v=20261109-reader-fix" defer></script>
-<script src="./aulularia.js?v=20261115-act-regex-fix" defer></script>
+<script src="./aulularia.js?v=20261115-font-controls" defer></script>
 <script src="../../../reading-layout.js" defer></script>
 <script src="../../../reading-tracker.js" defer></script>
 <script type="module" src="../../../account-sync.js?v=2"></script>
