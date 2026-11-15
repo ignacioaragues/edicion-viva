@@ -410,3 +410,14 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 .word-panel .word-paradigm{display:inline-flex;align-items:center;margin:7px 0 13px;font:600 11px/1.5 var(--sans);letter-spacing:.01em;color:var(--green);text-decoration:none;border-bottom:1px solid transparent}
 .word-panel .word-paradigm:hover,.word-panel .word-paradigm:focus-visible{color:var(--accent);border-bottom-color:currentColor}
 .word-panel .word-paradigm[hidden]{display:none}
+
+/* Navegación desplegable por actos y escenas, en paridad con Coriolanus. */
+.section-navigation { display:flex; flex-direction:column; gap:2px; margin:10px 0 20px; }
+.act-nav-toggle { width:100%; display:flex; align-items:center; justify-content:space-between; background:transparent; border:0; border-top:1px solid var(--border, #dedbd3); padding:13px 5px 10px; text-align:left; color:var(--muted, #777c74); font:700 11px/1.4 'DM Sans',sans-serif; letter-spacing:.11em; cursor:pointer; }
+.act-nav-toggle::after { content:'⌄'; font-size:15px; transition:transform .15s; }
+.act-nav-toggle[aria-expanded="false"]::after { transform:rotate(-90deg); }
+.act-nav-scenes { display:flex; flex-direction:column; gap:3px; padding:0 0 9px; }
+.act-nav-scenes[hidden] { display:none; }
+.scene-nav-button { width:100%; border:0; border-left:2px solid transparent; background:transparent; padding:9px 9px 9px 15px; text-align:left; font:500 12px/1.5 'DM Sans',sans-serif; color:var(--muted, #70736b); cursor:pointer; }
+.scene-nav-button:hover { background:rgba(145,93,74,.06); }
+.scene-nav-button.active { color:var(--accent, #a2523d); border-left-color:currentColor; background:rgba(145,93,74,.07); font-weight:700; }
