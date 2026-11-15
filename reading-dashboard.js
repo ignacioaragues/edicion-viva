@@ -5,7 +5,10 @@
   const links = {
     'plauto-aulularia': './autores/plauto/aulularia/',
     'evangelios-marcos': './autores/evangelios/marcos/',
-    'shakespeare-coriolanus': '../shakespeare-edicion-viva/#coriolanus'
+    'shakespeare-coriolanus': '../shakespeare-edicion-viva/#coriolanus',
+    'leo-i-sermo-1': './autores/leon-i/sermones/sermo-i/',
+    'leo-i-sermo-2': './autores/leon-i/sermones/sermo-ii/',
+    'corneille-attila': './autores/corneille/attila/'
   };
   const colors = {
     'plauto-aulularia': '#78927c',
