@@ -1059,12 +1059,25 @@
         "https://biblia.com/bible/vulgataclem/mark/5/14-17",
         "https://www.biblehub.com/commentaries/egt/mark/5.htm"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 18,
+      "to": 20,
+      "status": "published_morphology_mechanically_aligned_second_review_pending",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "56/56 positional MorphGNT 6.12 records",
+      "references": [
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+        "https://biblia.com/bible/vulgataclem/mark/5/18-20",
+        "https://biblia.com/bible/sblgnt/mark/5"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,18; segunda revisión retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,21; segunda revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 18
+    "verse": 21
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2466,5 +2479,30 @@
       "El SBLGNT incluye marcas de aparato en el recurso web que deben eliminarse del cuerpo de lectura; cotejar cada variante en el aparato antes de anotarla."
     ],
     "next_step": "Segunda revisión contextual pendiente; continuar desde 5,18"
+  },
+  "prepublication_research_5_18_20": {
+    "status": "incorporated_second_review_pending",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 5:18–20",
+        "url": "https://biblia.com/bible/sblgnt/mark/5"
+      },
+      {
+        "author": "James K. Tauber",
+        "title": "MorphGNT SBLGNT 6.12",
+        "section": "Mark 5:18–20",
+        "url": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      },
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: Mark",
+        "section": "Mark 5:18–20",
+        "url": "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+      }
+    ],
+    "next_step": "Segunda revisión integral pendiente; seguir en 5,21"
   }
 }
