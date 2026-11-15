@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41; 5,1 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41; 5,1–2 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -156,9 +156,12 @@
     ,{"chapter":4,"n":40,"gr":"καὶ εἶπεν αὐτοῖς· Τί δειλοί ἐστε; οὔπω ἔχετε πίστιν;","es":"Y les dijo: «¿Por qué tienen miedo? ¿Todavía no tienen fe?»","la":"Et ait illis: Quid timidi estis? necdum habetis fidem?","notes":["mc440fear","mc440variant","mc440latin"]}
     ,{"chapter":4,"n":41,"gr":"καὶ ἐφοβήθησαν φόβον μέγαν, καὶ ἔλεγον πρὸς ἀλλήλους· Τίς ἄρα οὗτός ἐστιν ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;","es":"Y sintieron un temor enorme y se decían unos a otros: «¿Quién será este, que hasta el viento y el mar le obedecen?»","la":"et timuerunt timore magno, et dicebant ad alterutrum: Quis, putas, est iste, quia et ventus et mare obediunt ei?","notes":["mc441fear","mc441jonah","mc440latin"]}
     ,{"chapter":5,"n":1,"gr":"Καὶ ἦλθον εἰς τὸ πέραν τῆς θαλάσσης εἰς τὴν χώραν τῶν Γερασηνῶν.","es":"Y llegaron a la otra orilla del mar, a la región de los gerasenos.","la":"Et venerunt trans fretum maris in regionem Gerasenorum.","notes":["mc501toponym","mc501shore"]}
+    ,{"chapter":5,"n":2,"gr":"καὶ ἐξελθόντος αὐτοῦ ἐκ τοῦ πλοίου εὐθὺς ὑπήντησεν αὐτῷ ἐκ τῶν μνημείων ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ,","es":"Y, cuando él bajó de la barca, enseguida salió a su encuentro, desde los sepulcros, un hombre con un espíritu impuro.","la":"Et exeunti ei de navi, statim occurrit de monumentis homo in spiritu immundo,","notes":["mc502genitive","mc502tombs"]}
   ];
 
   const notes = {
+    mc502genitive: ["Al desembarcar","ἐξελθόντος αὐτοῦ es un genitivo absoluto temporal: «cuando él salió». El adverbio εὐθύς marca la inmediatez del encuentro. Holmes (ed.), SBLGNT, Mc 5,2: https://www.studybible.info/SBLGNT/Mark%205%3A2-5; A. Plummer, Cambridge Greek Testament, Mc 5,2: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php."],
+    mc502tombs: ["Desde los sepulcros","ἐκ τῶν μνημείων indica procedencia; ἐν πνεύματι ἀκαθάρτῳ caracteriza al hombre en el lenguaje narrativo de Marcos, sin constituir un diagnóstico médico moderno. Cf. Mc 1,23; Holmes (ed.), SBLGNT, Mc 5,2: https://www.studybible.info/SBLGNT/Mark%205%3A2-5."],
     mc501toponym: ["Gerasenos, gadarenos y gergesenos","El SBLGNT lee Γερασηνῶν (gerasenos); el aparato compara Γαδαρηνῶν (gadarenos) en Robinson-Pierpont. No es seguro identificar con precisión el desembarco a partir del gentilicio. Holmes, SBLGNT, Mc 5,1: https://biblia.com/bible/sblgnt/mark/5; cf. https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf."],
     mc501shore: ["La otra orilla","εἰς τὸ πέραν retoma la travesía propuesta en 4,35. El texto repite εἰς para introducir la región de llegada; no especifica una localidad exacta de desembarco. Holmes (ed.), SBLGNT, Mc 4,35 y 5,1: https://biblehub.com/sbl/mark/5.htm."],
     mc440fear: ["Temor y fe","δειλοί expresa temor ante el peligro; οὔπω («todavía no») subraya la dimensión temporal de la pregunta. Holmes (ed.), SBLGNT (2010), Mc 4,40: https://biblia.com/bible/sblgnt/mark/4/40."],
