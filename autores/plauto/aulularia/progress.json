@@ -799,6 +799,15 @@
       "status": "edited_not_revised",
       "source": "Plautus Aulularia III.6, Friedrich Leo 1895 base; cotejo The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Original translation, morphology and contextual gloss for every token; note on Argus, Io, Pirene and interbibere. Token alignment checked. No browser QA; no contiguous retrospective review; numbering migration deferred."
+    },
+    {
+      "section": "III.6",
+      "from": 561,
+      "to": 566,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Plautus Aulularia III.6 The Latin Library, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Original Spanish translation and token-level morphology and glosses; curio/cura note. Leo direct comparison and retrospective review pending; no visual browser QA."
     }
   ],
   "pending": [
@@ -810,7 +819,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "III.6",
-    "verse": 561
+    "verse": 567
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
