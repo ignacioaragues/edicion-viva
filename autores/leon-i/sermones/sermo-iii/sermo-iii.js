@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I (through Melchisedech typology; Wikisource transcript)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I completo (cols. 144C–145B; transcripción cotejada)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. I: Denique cum hujus divini sacerdotii sacramentum...",
+  "next": "Continue Sermo III cap. II: Quamvis ergo, dilectissimi, nos ad explendam nostri officii servitutem...",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -72,6 +72,16 @@ window.LEO_SERMO_I = {
       "note": [
         "El silencio del relato",
         "La ausencia de genealogía de Melquisedec permite interpretar tipológicamente la generación inefable de Cristo."
+      ]
+    },
+    {
+      "id": "s3-8",
+      "label": "8",
+      "latin": "Denique cum hujus divini sacerdotii sacramentum etiam ad humanas pervenit functiones, non per generationum tramitem curritur, nec quod caro et sanguis creavit, eligitur; sed cessante privilegio patrum, et familiarum ordine praetermisso, eos rectores Ecclesia accipit, quos Spiritus sanctus preparavit; ut in populo adoptionis Dei, cujus universitas sacerdotalis atque regalis est, non praerogativa terrenae originis obtineat unctionem, sed dignatio coelestis gratiae gignat antistitem.",
+      "spanish": "En efecto, cuando el misterio de este sacerdocio divino alcanza también las funciones humanas, no se procede por la línea de las generaciones ni se elige lo que han producido la carne y la sangre; antes bien, cesado el privilegio de los padres y dejado de lado el orden de las familias, la Iglesia recibe como dirigentes a aquellos que el Espíritu Santo ha preparado. Así, en el pueblo de la adopción divina, cuya totalidad es sacerdotal y regia, no será la prerrogativa del origen terrenal la que obtenga la unción, sino la dignación de la gracia celestial la que engendre al obispo.",
+      "note": [
+        "Del linaje al discernimiento",
+        "La secuencia non per generationum tramitem ... sed ... quos Spiritus sanctus preparavit sustituye la herencia familiar por la elección espiritual. El contraste final entre praerogativa terrenae originis y dignatio coelestis gratiae culmina en gignat antistitem: el obispo es presentado como fruto de la gracia, no de la sangre. La referencia a la unctio no basta por sí sola para determinar el rito material concreto."
       ]
     }
   ],
@@ -760,6 +770,246 @@ window.LEO_SERMO_I = {
       "enarro",
       "infinitivo presente pasivo",
       "ser narrado"
+    ],
+    "denique": [
+      "denique",
+      "adverbio conclusivo",
+      "en efecto; finalmente"
+    ],
+    "hujus": [
+      "hic",
+      "demostrativo genitivo masculino singular",
+      "de este"
+    ],
+    "divini": [
+      "divinus",
+      "adjetivo genitivo neutro singular",
+      "divino"
+    ],
+    "sacerdotii": [
+      "sacerdotium",
+      "sustantivo genitivo neutro singular",
+      "del sacerdocio"
+    ],
+    "sacramentum": [
+      "sacramentum",
+      "sustantivo nominativo neutro singular",
+      "misterio sagrado"
+    ],
+    "humanas": [
+      "humanus",
+      "adjetivo acusativo femenino plural",
+      "humanas"
+    ],
+    "pervenit": [
+      "pervenio",
+      "indicativo presente activo tercera singular",
+      "llega; alcanza"
+    ],
+    "functiones": [
+      "functio",
+      "sustantivo acusativo femenino plural",
+      "funciones; ejercicio del oficio"
+    ],
+    "generationum": [
+      "generatio",
+      "sustantivo genitivo femenino plural",
+      "de las generaciones"
+    ],
+    "tramitem": [
+      "trames",
+      "sustantivo acusativo masculino singular",
+      "camino; línea sucesoria"
+    ],
+    "curritur": [
+      "curro",
+      "indicativo presente pasivo impersonal tercera singular",
+      "se procede"
+    ],
+    "nec": [
+      "neque",
+      "conjunción coordinante negativa",
+      "ni"
+    ],
+    "quod": [
+      "qui, quae, quod",
+      "pronombre relativo neutro singular acusativo",
+      "lo que"
+    ],
+    "caro": [
+      "caro",
+      "sustantivo nominativo femenino singular",
+      "carne"
+    ],
+    "sanguis": [
+      "sanguis",
+      "sustantivo nominativo masculino singular",
+      "sangre"
+    ],
+    "creavit": [
+      "creo",
+      "indicativo perfecto activo tercera singular",
+      "ha producido"
+    ],
+    "eligitur": [
+      "eligo",
+      "indicativo presente pasivo tercera singular",
+      "es elegido"
+    ],
+    "cessante": [
+      "cesso",
+      "participio presente ablativo neutro singular",
+      "cesado"
+    ],
+    "privilegio": [
+      "privilegium",
+      "sustantivo ablativo neutro singular",
+      "privilegio"
+    ],
+    "patrum": [
+      "pater",
+      "sustantivo genitivo masculino plural",
+      "de los padres"
+    ],
+    "familiarum": [
+      "familia",
+      "sustantivo genitivo femenino plural",
+      "de las familias"
+    ],
+    "ordine": [
+      "ordo",
+      "sustantivo ablativo masculino singular",
+      "orden"
+    ],
+    "praetermisso": [
+      "praetermitto",
+      "participio perfecto pasivo ablativo masculino singular",
+      "dejado de lado"
+    ],
+    "eos": [
+      "is",
+      "demostrativo acusativo masculino plural",
+      "a aquellos"
+    ],
+    "rectores": [
+      "rector",
+      "sustantivo acusativo masculino plural",
+      "dirigentes"
+    ],
+    "ecclesia": [
+      "ecclesia",
+      "sustantivo nominativo femenino singular",
+      "la Iglesia"
+    ],
+    "accipit": [
+      "accipio",
+      "indicativo presente activo tercera singular",
+      "recibe"
+    ],
+    "quos": [
+      "qui",
+      "pronombre relativo acusativo masculino plural",
+      "a quienes"
+    ],
+    "spiritus": [
+      "spiritus",
+      "sustantivo nominativo masculino singular",
+      "Espíritu"
+    ],
+    "sanctus": [
+      "sanctus",
+      "adjetivo nominativo masculino singular",
+      "Santo"
+    ],
+    "preparavit": [
+      "praeparo",
+      "indicativo perfecto activo tercera singular",
+      "preparó"
+    ],
+    "ut": [
+      "ut",
+      "conjunción final con subjuntivo",
+      "para que; de modo que"
+    ],
+    "populo": [
+      "populus",
+      "sustantivo ablativo masculino singular",
+      "pueblo"
+    ],
+    "adoptionis": [
+      "adoptio",
+      "sustantivo genitivo femenino singular",
+      "de la adopción"
+    ],
+    "universitas": [
+      "universitas",
+      "sustantivo nominativo femenino singular",
+      "totalidad"
+    ],
+    "sacerdotalis": [
+      "sacerdotalis",
+      "adjetivo nominativo femenino singular",
+      "sacerdotal"
+    ],
+    "atque": [
+      "atque",
+      "conjunción copulativa",
+      "y"
+    ],
+    "regalis": [
+      "regalis",
+      "adjetivo nominativo femenino singular",
+      "regia"
+    ],
+    "praerogativa": [
+      "praerogativa",
+      "sustantivo nominativo femenino singular",
+      "prerrogativa"
+    ],
+    "terrenae": [
+      "terrenus",
+      "adjetivo genitivo femenino singular",
+      "terrenal"
+    ],
+    "originis": [
+      "origo",
+      "sustantivo genitivo femenino singular",
+      "del origen"
+    ],
+    "obtineat": [
+      "obtineo",
+      "subjuntivo presente activo tercera singular",
+      "obtenga"
+    ],
+    "unctionem": [
+      "unctio",
+      "sustantivo acusativo femenino singular",
+      "unción"
+    ],
+    "dignatio": [
+      "dignatio",
+      "sustantivo nominativo femenino singular",
+      "dignación; favor"
+    ],
+    "coelestis": [
+      "caelestis",
+      "adjetivo genitivo femenino singular",
+      "celestial"
+    ],
+    "gratiae": [
+      "gratia",
+      "sustantivo genitivo femenino singular",
+      "de la gracia"
+    ],
+    "gignat": [
+      "gigno",
+      "subjuntivo presente activo tercera singular",
+      "engendre; produzca"
+    ],
+    "antistitem": [
+      "antistes",
+      "sustantivo acusativo masculino singular",
+      "obispo; prelado"
     ]
   }
 };
