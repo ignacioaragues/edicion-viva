@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I (opening; Wikisource transcript)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I (through Melchisedech typology; Wikisource transcript)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. I: Unde et Davidicum psalmum, dilectissimi...",
+  "next": "Continue Sermo III cap. I: Denique cum hujus divini sacerdotii sacramentum...",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -32,6 +32,46 @@ window.LEO_SERMO_I = {
       "note": [
         "Antítesis y confianza",
         "Tres pares nominales (labor/fragili, sublimitas/humili, dignitas/non merenti) dramatizan la desproporción entre persona y cargo; non de nobis, sed de illo resuelve la tensión sin negar el oficio."
+      ]
+    },
+    {
+      "id": "s3-4",
+      "label": "4",
+      "latin": "Unde et Davidicum psalmum, dilectissimi, non ad nostram elationem, sed ad Christi Domini gloriam consona voce cantavimus.",
+      "spanish": "Por eso también, queridísimos, hemos cantado al unísono un salmo de David, no para nuestra exaltación, sino para gloria de Cristo, el Señor.",
+      "note": [
+        "Una voz colectiva",
+        "Consona voce hace de la recitación común un signo audible de concordia; non ... sed ... niega que la celebración sea autoelogio."
+      ]
+    },
+    {
+      "id": "s3-5",
+      "label": "5",
+      "latin": "Ipse est enim de quo prophetice scriptum est: Tu es sacerdos in aeternum secundum ordinem Melchisedech.",
+      "spanish": "Porque él es aquel de quien se escribió proféticamente: «Tú eres sacerdote para siempre según el orden de Melquisedec».",
+      "note": [
+        "La cita como fundamento",
+        "El centro pasa del ministro humano al sacerdocio permanente de Cristo; Salmo 109(110),4, citado en Hebreos."
+      ]
+    },
+    {
+      "id": "s3-6",
+      "label": "6",
+      "latin": "Hoc est, non secundum ordinem Aaron, cujus sacerdotium per propaginem sui seminis currens, temporalis ministerii fuit, et cum veteris Testamenti lege cessavit; sed secundum ordinem Melchisedech, in quo aeterni Pontificis forma praecessit.",
+      "spanish": "Esto es: no según el orden de Aarón, cuyo sacerdocio, transmitido por la descendencia de su linaje, fue un ministerio temporal y cesó con la ley del Antiguo Testamento, sino según el orden de Melquisedec, en quien se anticipó la figura del Pontífice eterno.",
+      "note": [
+        "Dos órdenes contrapuestos",
+        "La estructura non secundum ... sed secundum contrapone sucesión hereditaria y prefiguración del sacerdocio eterno."
+      ]
+    },
+    {
+      "id": "s3-7",
+      "label": "7",
+      "latin": "Et dum quibus parentibus sit editus non refertur, in eo ille intelligitur ostendi, cujus generatio non potest enarrari.",
+      "spanish": "Y puesto que no se relata de qué padres nació, se entiende que en él se muestra aquel cuya generación no puede narrarse.",
+      "note": [
+        "El silencio del relato",
+        "La ausencia de genealogía de Melquisedec permite interpretar tipológicamente la generación inefable de Cristo."
       ]
     }
   ],
@@ -445,6 +485,281 @@ window.LEO_SERMO_I = {
       "in",
       "preposición con ablativo",
       "en"
+    ],
+    "unde": [
+      "unde",
+      "adverbio ilativo",
+      "por eso"
+    ],
+    "davidicum": [
+      "Davidicus",
+      "adjetivo acusativo masculino singular",
+      "de David"
+    ],
+    "psalmum": [
+      "psalmus",
+      "sustantivo acusativo masculino singular",
+      "salmo"
+    ],
+    "nostram": [
+      "noster",
+      "posesivo acusativo femenino singular",
+      "nuestra"
+    ],
+    "elationem": [
+      "elatio",
+      "sustantivo acusativo femenino singular",
+      "exaltación"
+    ],
+    "christi": [
+      "Christus",
+      "nombre genitivo masculino singular",
+      "de Cristo"
+    ],
+    "domini": [
+      "dominus",
+      "sustantivo genitivo masculino singular",
+      "del Señor"
+    ],
+    "gloriam": [
+      "gloria",
+      "sustantivo acusativo femenino singular",
+      "gloria"
+    ],
+    "consona": [
+      "consonus",
+      "adjetivo ablativo femenino singular",
+      "unánime"
+    ],
+    "voce": [
+      "vox",
+      "sustantivo ablativo femenino singular",
+      "voz"
+    ],
+    "cantavimus": [
+      "canto",
+      "indicativo perfecto activo primera plural",
+      "cantamos"
+    ],
+    "ipse": [
+      "ipse",
+      "pronombre enfático nominativo masculino singular",
+      "él mismo"
+    ],
+    "quo": [
+      "qui",
+      "relativo ablativo masculino singular",
+      "de quien"
+    ],
+    "prophetice": [
+      "prophetice",
+      "adverbio",
+      "proféticamente"
+    ],
+    "scriptum": [
+      "scribo",
+      "participio perfecto pasivo neutro singular",
+      "escrito"
+    ],
+    "tu": [
+      "tu",
+      "pronombre nominativo singular",
+      "tú"
+    ],
+    "es": [
+      "sum",
+      "indicativo presente segunda singular",
+      "eres"
+    ],
+    "sacerdos": [
+      "sacerdos",
+      "sustantivo nominativo masculino singular",
+      "sacerdote"
+    ],
+    "aeternum": [
+      "aeternus",
+      "adjetivo acusativo neutro sustantivado",
+      "eternidad"
+    ],
+    "secundum": [
+      "secundum",
+      "preposición con acusativo",
+      "según"
+    ],
+    "ordinem": [
+      "ordo",
+      "sustantivo acusativo masculino singular",
+      "orden"
+    ],
+    "melchisedech": [
+      "Melchisedech",
+      "nombre propio indeclinable",
+      "Melquisedec"
+    ],
+    "hoc": [
+      "hic",
+      "demostrativo nominativo neutro singular",
+      "esto"
+    ],
+    "aaron": [
+      "Aaron",
+      "nombre propio indeclinable",
+      "Aarón"
+    ],
+    "cujus": [
+      "qui",
+      "relativo genitivo masculino singular",
+      "cuyo"
+    ],
+    "sacerdotium": [
+      "sacerdotium",
+      "sustantivo nominativo neutro singular",
+      "sacerdocio"
+    ],
+    "per": [
+      "per",
+      "preposición con acusativo",
+      "por medio de"
+    ],
+    "propaginem": [
+      "propago",
+      "sustantivo acusativo femenino singular",
+      "descendencia"
+    ],
+    "seminis": [
+      "semen",
+      "sustantivo genitivo neutro singular",
+      "del linaje"
+    ],
+    "currens": [
+      "curro",
+      "participio presente nominativo neutro singular",
+      "que se transmite"
+    ],
+    "temporalis": [
+      "temporalis",
+      "adjetivo genitivo neutro singular",
+      "temporal"
+    ],
+    "ministerii": [
+      "ministerium",
+      "sustantivo genitivo neutro singular",
+      "del ministerio"
+    ],
+    "fuit": [
+      "sum",
+      "indicativo perfecto tercera singular",
+      "fue"
+    ],
+    "cum": [
+      "cum",
+      "preposición con ablativo",
+      "con"
+    ],
+    "veteris": [
+      "vetus",
+      "adjetivo genitivo neutro singular",
+      "antiguo"
+    ],
+    "testamenti": [
+      "testamentum",
+      "sustantivo genitivo neutro singular",
+      "testamento"
+    ],
+    "lege": [
+      "lex",
+      "sustantivo ablativo femenino singular",
+      "ley"
+    ],
+    "cessavit": [
+      "cesso",
+      "indicativo perfecto tercera singular",
+      "cesó"
+    ],
+    "aeterni": [
+      "aeternus",
+      "adjetivo genitivo masculino singular",
+      "eterno"
+    ],
+    "pontificis": [
+      "pontifex",
+      "sustantivo genitivo masculino singular",
+      "del pontífice"
+    ],
+    "forma": [
+      "forma",
+      "sustantivo nominativo femenino singular",
+      "figura"
+    ],
+    "praecessit": [
+      "praecedo",
+      "indicativo perfecto tercera singular",
+      "precedió"
+    ],
+    "dum": [
+      "dum",
+      "conjunción causal",
+      "puesto que"
+    ],
+    "quibus": [
+      "qui",
+      "interrogativo ablativo masculino plural",
+      "de qué"
+    ],
+    "parentibus": [
+      "parens",
+      "sustantivo ablativo masculino plural",
+      "padres"
+    ],
+    "sit": [
+      "sum",
+      "subjuntivo presente tercera singular",
+      "sea"
+    ],
+    "editus": [
+      "edo",
+      "participio perfecto pasivo nominativo masculino singular",
+      "nacido"
+    ],
+    "refertur": [
+      "refero",
+      "indicativo presente pasivo tercera singular",
+      "se relata"
+    ],
+    "eo": [
+      "is",
+      "demostrativo ablativo masculino singular",
+      "él"
+    ],
+    "ille": [
+      "ille",
+      "demostrativo nominativo masculino singular",
+      "aquel"
+    ],
+    "intelligitur": [
+      "intellego",
+      "indicativo presente pasivo tercera singular",
+      "se entiende"
+    ],
+    "ostendi": [
+      "ostendo",
+      "infinitivo presente pasivo",
+      "ser mostrado"
+    ],
+    "generatio": [
+      "generatio",
+      "sustantivo nominativo femenino singular",
+      "generación"
+    ],
+    "potest": [
+      "possum",
+      "indicativo presente tercera singular",
+      "puede"
+    ],
+    "enarrari": [
+      "enarro",
+      "infinitivo presente pasivo",
+      "ser narrado"
     ]
   }
 };
