@@ -56,6 +56,8 @@
   }).filter(Boolean);
 
   const byId = new Map(editions.map(item => [item.readingId, item]));
+  const leo = byId.get('leo-i-sermo-1');
+  if (leo) byId.set('leo-i-sermo-2', { ...leo, readingId: 'leo-i-sermo-2', title: 'Sermo II', subtitle: 'De natali eiusdem II', readingUrl: './autores/leon-i/sermones/sermo-ii/' });
   const fallback = editions.find(item => item.readingId === 'shakespeare-coriolanus') || editions[0];
   const CACHE_KEY = 'edicion-viva:featured-commits:v1';
   const CACHE_TTL = 15 * 60 * 1000;
