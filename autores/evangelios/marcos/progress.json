@@ -982,12 +982,24 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
         "https://greeknewtestament.net/mk5-5"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 6,
+      "to": 7,
+      "status": "edited_not_revised",
+      "morphology": "32/32 fichas posicionales con glosas; segunda revisión pendiente",
+      "source": "https://biblia.com/bible/sblgnt/mark/5/6-10",
+      "external_references": [
+        "https://biblia.com/bible/vulgataclem/mark/5/6-10",
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,6; revisión filológica retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,8; revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 6
+    "verse": 8
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2239,9 +2251,9 @@
   },
   "prepublication_research_5_6_10": {
     "date": "2026-11-15",
-    "status": "researched_not_published",
+    "status": "partially_published_5_6_7",
     "second_passage_review": "pending",
-    "morphology_audit": "pending — do not publish without 100% positional MorphGNT 6.12 alignment",
+    "morphology_audit": "5,6–7: 32/32 fichas posicionales; 5,8–10 pendiente",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -2275,6 +2287,6 @@
       "5,10: singular παρεκάλει frente a plural πολλοί ἐσμεν y neutro αὐτά: cambio de número relevante para la voz narrativa; el comentario de Plummer señala variantes plurales en testigos.",
       "Variantes señaladas por SBLGNT en 5,6–10 requieren cotejo de aparato y testimonios antes de su publicación definitiva."
     ],
-    "next_step": "Extraer registros 5,6–10 de MorphGNT 6.12; cotejar palabra a palabra, preparar traducción española y latín Clementino, integrar notas con referencias, ejecutar comprobaciones y solo entonces adelantar checkpoint."
+    "next_step": "Completar 5,8–10 con cotejo MorphGNT y glosas."
   }
 }
