@@ -763,6 +763,15 @@
       "status": "edited_not_revised",
       "source": "Plautus Aulularia, The Latin Library III.5–III.6; base Leo 1895",
       "note": "Translation, contextual glossary and word-by-word morphology; editorial note on marriage and dowry. No browser QA."
+    },
+    {
+      "section": "III.6",
+      "from": 541,
+      "to": 544,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia III.6 vv.541–544, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Leo (1895) base",
+      "note": "Original Spanish translation, morphological entries and contextual glosses. Smaller unit than target; no visual QA. Numbering migration deferred until post-completion second pass."
     }
   ],
   "pending": [
@@ -774,7 +783,7 @@
   "updated": "2026-11-15",
   "next": {
     "section": "III.6",
-    "verse": 541
+    "verse": 545
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
