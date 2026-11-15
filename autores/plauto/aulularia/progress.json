@@ -772,6 +772,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia III.6 vv.541–544, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Leo (1895) base",
       "note": "Original Spanish translation, morphological entries and contextual glosses. Smaller unit than target; no visual QA. Numbering migration deferred until post-completion second pass."
+    },
+    {
+      "section": "III.6",
+      "from": 545,
+      "to": 550,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia III.6, Friedrich Leo 1895 base; cotejo The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Original translation, morphology and contextual glosses for every token, note on quod nunc habes and senatu. Word count verified; external browser QA not performed. Review stays at 159; identifier migration deferred until second revision as requested."
     }
   ],
   "pending": [
@@ -780,10 +789,10 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "next": {
     "section": "III.6",
-    "verse": 545
+    "verse": 551
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
