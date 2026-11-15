@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, capita I–III (cols. 144C–147A)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, capita I–III complete; caput IV through col. 147B",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. IV from 'His itaque modis, dilectissimi'",
+  "next": "Continue caput IV from 'Cum ergo cohortationes nostras auribus vestrae sanctitatis adhibemus'",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -202,6 +202,26 @@ window.LEO_SERMO_I = {
       "note": [
         "La fe como sujeto activo",
         "Haec repetido convierte a la fe en sujeto de acciones. Neque ... nec cierra el capítulo contraponiéndola a dos amenazas diferenciadas."
+      ]
+    },
+    {
+      "id": "s3-21",
+      "label": "21 · IV",
+      "latin": "His itaque modis, dilectissimi, rationabili obsequio celebratur hodierna festivitas, ut in persona humilitatis meae ille intelligatur, ille honoretur, in quo et omnium pastorum sollicitudo cum commendatarum sibi ovium custodia perseverat, et cujus dignitas etiam in indigno haerede non deficit.",
+      "spanish": "De este modo, queridísimos, la festividad de hoy se celebra mediante un homenaje razonable: que en mi humilde persona se reconozca y se honre a aquel en quien perdura la solicitud de todos los pastores, junto con la custodia de las ovejas que les fueron confiadas, y cuya dignidad no disminuye ni siquiera en un heredero indigno.",
+      "note": [
+        "El referente del homenaje",
+        "Ille ... ille remite a Pedro, no a la persona del orador. La fórmula in indigno haerede distingue la dignidad transmitida de los méritos del sucesor; el aparato registra igitur por itaque y la omisión de etiam."
+      ]
+    },
+    {
+      "id": "s3-22",
+      "label": "22 · IV",
+      "latin": "Unde venerabilium quoque fratrum et consacerdotum meorum desiderata mihi et honoranda praesentia hinc sacratior est atque devotior, si pietatem hujus officii in quo adesse dignati sunt, ei principaliter deferunt, quem non solum hujus sedis praesulem, sed et omnium episcoporum noverunt esse primatem.",
+      "spanish": "Por eso, la presencia de mis venerables hermanos y compañeros en el sacerdocio, deseada por mí y digna de honor, resulta tanto más sagrada y devota si atribuyen principalmente el homenaje de este oficio, al que se han dignado asistir, a aquel a quien reconocen no solo como pastor de esta sede, sino también como primado de todos los obispos.",
+      "note": [
+        "Jerarquía ante los colegas",
+        "El tratamiento venerabilium fratrum et consacerdotum precede a la afirmación de primacía. La estructura non solum ... sed et amplía el ámbito de Pedro. El aparato registra referunt como variante de deferunt."
       ]
     }
   ],
@@ -2440,6 +2460,221 @@ window.LEO_SERMO_I = {
       "perfidia",
       "nominativo femenino singular",
       "infidelidad"
+    ],
+    "His": [
+      "hic",
+      "ablativo masculino plural demostrativo",
+      "por estos"
+    ],
+    "modis": [
+      "modus",
+      "ablativo masculino plural",
+      "modos"
+    ],
+    "rationabili": [
+      "rationabilis",
+      "ablativo neutro singular",
+      "razonable"
+    ],
+    "obsequio": [
+      "obsequium",
+      "ablativo neutro singular",
+      "homenaje"
+    ],
+    "celebratur": [
+      "celebro",
+      "presente indicativo pasivo tercera singular",
+      "se celebra"
+    ],
+    "hodierna": [
+      "hodiernus",
+      "nominativo femenino singular",
+      "de hoy"
+    ],
+    "festivitas": [
+      "festivitas",
+      "nominativo femenino singular",
+      "festividad"
+    ],
+    "persona": [
+      "persona",
+      "ablativo femenino singular",
+      "persona"
+    ],
+    "humilitatis": [
+      "humilitas",
+      "genitivo femenino singular",
+      "humildad"
+    ],
+    "intelligatur": [
+      "intellego",
+      "presente subjuntivo pasivo tercera singular",
+      "sea reconocido"
+    ],
+    "honoretur": [
+      "honoro",
+      "presente subjuntivo pasivo tercera singular",
+      "sea honrado"
+    ],
+    "omnium": [
+      "omnis",
+      "genitivo masculino plural",
+      "de todos"
+    ],
+    "pastorum": [
+      "pastor",
+      "genitivo masculino plural",
+      "de los pastores"
+    ],
+    "sollicitudo": [
+      "sollicitudo",
+      "nominativo femenino singular",
+      "solicitud"
+    ],
+    "commendatarum": [
+      "commendo",
+      "participio perfecto pasivo genitivo femenino plural",
+      "encomendadas"
+    ],
+    "custodia": [
+      "custodia",
+      "ablativo femenino singular",
+      "custodia"
+    ],
+    "perseverat": [
+      "persevero",
+      "presente indicativo activo tercera singular",
+      "perdura"
+    ],
+    "indigno": [
+      "indignus",
+      "ablativo masculino singular",
+      "indigno"
+    ],
+    "haerede": [
+      "heres",
+      "ablativo masculino singular",
+      "heredero"
+    ],
+    "deficit": [
+      "deficio",
+      "presente indicativo activo tercera singular",
+      "disminuye"
+    ],
+    "venerabilium": [
+      "venerabilis",
+      "genitivo masculino plural",
+      "venerables"
+    ],
+    "quoque": [
+      "quoque",
+      "adverbio",
+      "también"
+    ],
+    "fratrum": [
+      "frater",
+      "genitivo masculino plural",
+      "hermanos"
+    ],
+    "consacerdotum": [
+      "consacerdos",
+      "genitivo masculino plural",
+      "compañeros sacerdotes"
+    ],
+    "meorum": [
+      "meus",
+      "genitivo masculino plural",
+      "míos"
+    ],
+    "desiderata": [
+      "desidero",
+      "participio perfecto pasivo nominativo femenino singular",
+      "deseada"
+    ],
+    "honoranda": [
+      "honoro",
+      "gerundivo nominativo femenino singular",
+      "digna de honor"
+    ],
+    "praesentia": [
+      "praesentia",
+      "nominativo femenino singular",
+      "presencia"
+    ],
+    "hinc": [
+      "hinc",
+      "adverbio",
+      "por ello"
+    ],
+    "sacratior": [
+      "sacratus",
+      "comparativo nominativo femenino singular",
+      "más sagrada"
+    ],
+    "devotior": [
+      "devotus",
+      "comparativo nominativo femenino singular",
+      "más devota"
+    ],
+    "pietatem": [
+      "pietas",
+      "acusativo femenino singular",
+      "homenaje piadoso"
+    ],
+    "adesse": [
+      "adsum",
+      "infinitivo presente activo",
+      "estar presente"
+    ],
+    "dignati": [
+      "dignor",
+      "participio perfecto deponente nominativo masculino plural",
+      "se han dignado"
+    ],
+    "ei": [
+      "is",
+      "dativo masculino singular",
+      "a él"
+    ],
+    "principaliter": [
+      "principaliter",
+      "adverbio",
+      "principalmente"
+    ],
+    "deferunt": [
+      "defero",
+      "presente indicativo activo tercera plural",
+      "atribuyen"
+    ],
+    "solum": [
+      "solum",
+      "adverbio",
+      "solamente"
+    ],
+    "sedis": [
+      "sedes",
+      "genitivo femenino singular",
+      "de la sede"
+    ],
+    "praesulem": [
+      "praesul",
+      "acusativo masculino singular",
+      "prelado"
+    ],
+    "episcoporum": [
+      "episcopus",
+      "genitivo masculino plural",
+      "de los obispos"
+    ],
+    "noverunt": [
+      "nosco",
+      "perfecto indicativo activo tercera plural",
+      "han reconocido"
+    ],
+    "primatem": [
+      "primas",
+      "acusativo masculino singular",
+      "primado"
     ]
   }
 };
