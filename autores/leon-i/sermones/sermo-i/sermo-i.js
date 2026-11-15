@@ -6,7 +6,7 @@ window.LEO_SERMO_I = {
   work:"León I · Sermón I",
   source:"Patrologia Latina 54, col. 141A–B (Ballerini–Migne)",
   status:"first_pass",
-  next:"Ago igitur Deo nostro gratias",
+  next:"Vestri quoque favoris arbitrium",
   paragraphs:[
     {id:"s1-1",label:"1",
       latin:"Laudem Domini loquatur os meum, et nomen sanctum ejus anima mea ac spiritus, caro et lingua benedicat.",
@@ -27,9 +27,22 @@ window.LEO_SERMO_I = {
     {id:"s1-5",label:"5",
       latin:"quia fecit mihi mirabilia magna solus, ut praesentem me crederet vestrae sanctitatis affectio, quem fecerat necessitas longae peregrinationis absentem.",
       spanish:"porque solo él obró en mi favor grandes maravillas, hasta el punto de que el afecto de vuestra santidad me consideró presente, cuando la necesidad de un largo viaje me había mantenido ausente.",
-      note:["La presencia producida por el afecto","León explica que no estaba físicamente presente y atribuye a sus destinatarios una presencia afectiva. El editor registra variantes crederet / cerneret: la edición de referencia opta por crederet. Peregrinatio nombra aquí un viaje prolongado, no necesariamente una peregrinación religiosa."]}
+      note:["La presencia producida por el afecto","León explica que no estaba físicamente presente y atribuye a sus destinatarios una presencia afectiva. El editor registra variantes crederet / cerneret: la edición de referencia opta por crederet. Peregrinatio nombra aquí un viaje prolongado, no necesariamente una peregrinación religiosa."]},
+    {id:"s1-6",label:"6",latin:"Ago igitur Deo nostro gratias, et semper acturus sum pro omnibus quae retribuit mihi.",spanish:"Doy, pues, gracias a nuestro Dios, y siempre se las daré por todo cuanto me ha concedido.",note:["Gratitud permanente","El futuro perifrástico acturus sum convierte el agradecimiento en un compromiso continuado. Ballerini–Migne prefiere retribuit frente a tribuit en el aparato de variantes."]}
   ],
   lexicon:{
+    "Ago":["ago","verbo; indicativo presente activo, 1.ª persona singular","doy"],
+    "igitur":["igitur","conjunción ilativa","pues"],
+    "Deo":["Deus","sustantivo masculino; dativo singular","a Dios"],
+    "nostro":["noster","posesivo masculino; dativo singular","nuestro"],
+    "gratias":["gratia","sustantivo femenino; acusativo plural en gratias agere","gracias"],
+    "semper":["semper","adverbio temporal","siempre"],
+    "acturus":["ago","participio futuro activo, nominativo singular masculino, con sum","que daré"],
+    "sum":["sum","verbo; indicativo presente, 1.ª persona singular","soy"],
+    "pro":["pro","preposición con ablativo","por"],
+    "omnibus":["omnis","adjetivo sustantivado neutro; ablativo plural","todo"],
+    "quae":["qui, quae, quod","pronombre relativo neutro; acusativo plural","cuanto"],
+    "retribuit":["retribuo","verbo; indicativo perfecto activo, 3.ª persona singular","ha concedido"],
     "Laudem":["laus","sustantivo femenino; acusativo singular, complemento de loquatur","alabanza"],
     "Domini":["Dominus","sustantivo masculino; genitivo singular","del Señor"],
     "loquatur":["loquor","verbo deponente; subjuntivo presente, 3.ª persona singular; valor exhortativo","que proclame"],
