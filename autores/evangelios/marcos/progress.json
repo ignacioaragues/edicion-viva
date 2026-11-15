@@ -909,12 +909,27 @@
       "morphology": "30/30 positional; 4,40=9; 4,41=21; mechanical alignment checked, semantic second pass pending",
       "second_review": "pending",
       "latin_versification": "Clementina 4,40 divided into two display segments to align with Greek 4,40–41; no independent Clementina 4,41"
+    },
+    {
+      "chapter": 5,
+      "from": 1,
+      "to": 1,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010)",
+      "external_references": [
+        "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+        "https://biblia.com/bible/sblgnt/mark/5",
+        "https://biblia.com/bible/vulgataclem/mark/5/1-5",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "12/12 positional; lemma POS parsing and gloss mechanically aligned; full contextual audit pending",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar desde Marcos 4,37; segunda revisión filológica pendiente.",
+  "pending": "Continuar desde Marcos 5,2; segunda revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 1
+    "verse": 2
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2079,5 +2094,21 @@
     "second_passage_review": "pending",
     "checkpoint_advanced": true,
     "morphology_audit": "30/30 positional, token order checked; semantic second pass pending"
+  },
+  "prepublication_research_5_1": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "observations": [
+      "SBLGNT lee Γερασηνῶν; el aparato editorial registra Γαδαρηνῶν en Robinson-Pierpont. La identificación topográfica precisa es debatida.",
+      "εἰς τὸ πέραν conecta con la travesía de Marcos 4,35; la repetición de εἰς introduce el territorio.",
+      "Clementina: Et venerunt trans fretum maris in regionem Gerasenorum."
+    ],
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/5",
+      "https://biblia.com/bible/vulgataclem/mark/5/1-5",
+      "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf"
+    ],
+    "morphology_audit": "12/12 fichas posicionales; segunda revisión semántica pendiente",
+    "second_passage_review": "pending"
   }
 }
