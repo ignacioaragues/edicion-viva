@@ -55,23 +55,23 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I, §§1–3, through 'cujuslibet humilitas portionis' (PL 54, col. 148–149)",
-      "paragraphs": 3,
-      "latin_tokens": 84,
-      "lexical_coverage": "84/84 first-pass contextual lexical cards",
+      "section": "Sermo IV caput I §§1–4, through 'populus acquisitionis' (PL 54 col. 148–149)",
+      "paragraphs": 4,
+      "latin_tokens": 137,
+      "lexical_coverage": "137/137 token occurrences with first-pass contextual lexical cards",
       "translation": "partial original Spanish translation aligned",
-      "voice_notes": 3,
+      "voice_notes": 4,
       "complete_work": false,
-      "editorial_caveat": "First-pass text normalized from Wikisource Ballerini–Migne; verify apparatus and typography against print; remainder of chapter I and chapters II–IV unpublished."
+      "editorial_caveat": "Caput I partial; variants in unitatem (Vat. 3836) and alternate Petrine quotation wording noted in Ballerini–Migne; full print collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "In unitate igitur fidei atque baptismatis",
-    "location": "PL 54, Sermo IV, caput I, col. 149"
+    "beginning": "Omnes enim in Christo regeneratos",
+    "location": "PL 54, Sermo IV, caput I, col. 149A"
   },
-  "priority": "Continue Sermo IV caput I from 'In unitate igitur fidei atque baptismatis'; finish whole Sermo IV before opening V",
+  "priority": "Complete Sermo IV caput I from 'Omnes enim in Christo regeneratos', then chapters II–IV before Sermo V",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
