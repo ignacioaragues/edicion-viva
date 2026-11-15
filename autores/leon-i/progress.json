@@ -42,21 +42,21 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, caput I, through 'cujus generatio non potest enarrari' (PL 54, col. 144C–145B)",
-      "paragraphs": 7,
-      "latin_tokens": 181,
-      "lexical_coverage": "181/181 token occurrences with first-pass lexical cards",
+      "section": "Sermo III, caput I complete, through 'gignat antistitem' (PL 54, col. 144C–145B)",
+      "paragraphs": 8,
+      "latin_tokens": 243,
+      "lexical_coverage": "243/243 token occurrences with first-pass lexical cards",
       "translation": "partial first-pass Spanish translation; remaining Sermo III not yet published",
-      "voice_notes": 7,
+      "voice_notes": 8,
       "complete_work": false,
-      "editorial_caveat": "Ballerini–Migne text consulted through Melchizedek typology; the opening 'quem' in the source is printed as 'quam' in the earlier reader and requires critical reconciliation. Chapter I ending and chapters II–IV remain."
+      "editorial_caveat": "Caput I complete in first pass; chapters II–IV remain. Earlier quem/quam in §3 requires critical reconciliation; preparavit retained from Wikisource source; source text's typographical variants normalized for reader."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "Denique cum hujus divini sacerdotii sacramentum etiam ad humanas pervenit functiones",
-    "location": "PL 54, Sermo III, caput I, col. 145B"
+    "beginning": "Quamvis ergo, dilectissimi, nos ad explendam nostri officii servitutem",
+    "location": "PL 54, Sermo III, caput II, col. 145B–C"
   },
   "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
   "last_edit": "2026-11-15",
