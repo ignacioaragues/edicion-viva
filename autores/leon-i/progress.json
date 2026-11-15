@@ -42,23 +42,23 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, capita I–III complete; caput IV through 'omnium episcoporum noverunt esse primatem' (PL 54, col. 147B)",
-      "paragraphs": 22,
-      "latin_tokens": 755,
-      "lexical_coverage": "755/755 token occurrences with first-pass contextual lexical cards",
-      "translation": "partial first-pass Spanish translation; capita I–III complete and caput IV §§21–22",
-      "voice_notes": 22,
-      "complete_work": false,
-      "editorial_caveat": "Caput IV opened; apparatus: igitur/itaque, omission of etiam, referunt/deferunt. Earlier quem/quam, lacessit/lassescit and cap. III variants remain for critical revision."
+      "section": "complete Sermo III, PL 54 col. 144C–148A, capita I–IV",
+      "paragraphs": 28,
+      "latin_tokens": 965,
+      "lexical_coverage": "965/965 token occurrences have first-pass contextual lexical cards",
+      "translation": "complete first-pass Spanish translation",
+      "voice_notes": 28,
+      "complete_work": true,
+      "editorial_caveat": "First pass complete; critical review remains for quem/quam, lacessit/lassescit, praeficitur/praefinitur, discernitur/decernitur, igitur/itaque, referunt/deferunt; cap. IV Wikisource vitiæ and placeus provisionally read vitae and placens, requiring printed PL/critical collation."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 3,
-    "beginning": "Cum ergo cohortationes nostras auribus vestrae sanctitatis adhibemus",
-    "location": "PL 54, Sermo III, caput IV, col. 147B"
+    "number": 4,
+    "beginning": "Sermo IV, caput I",
+    "location": "PL 54, Sermo IV; locate and collate primary source before publication"
   },
-  "priority": "Complete remainder of Sermo III caput IV through final Amen before beginning Sermo IV",
+  "priority": "Begin Sermo IV only after inspecting its source; keep the first three sermons marked complete in first pass, pending critical review",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
