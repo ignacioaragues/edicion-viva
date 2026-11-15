@@ -994,12 +994,25 @@
         "https://biblia.com/bible/vulgataclem/mark/5/6-10",
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 8,
+      "to": 8,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "morphology": "11/11 positional MorphGNT 6.12; semantic second pass pending",
+      "external_references": [
+        "https://studybible.info/SBLGNT/Mark%205%3A8",
+        "https://biblia.com/bible/vulgataclem/mark/5/8",
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+      ]
     }
   ],
   "pending": "Continuar desde Marcos 5,8; revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 8
+    "verse": 9
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2251,9 +2264,9 @@
   },
   "prepublication_research_5_6_10": {
     "date": "2026-11-15",
-    "status": "partially_published_5_6_7",
+    "status": "partially_published_5_6_8",
     "second_passage_review": "pending",
-    "morphology_audit": "5,6–7: 32/32 fichas posicionales; 5,8–10 pendiente",
+    "morphology_audit": "5,6–8: 43/43 positional; 5,9–10 pending",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -2287,6 +2300,6 @@
       "5,10: singular παρεκάλει frente a plural πολλοί ἐσμεν y neutro αὐτά: cambio de número relevante para la voz narrativa; el comentario de Plummer señala variantes plurales en testigos.",
       "Variantes señaladas por SBLGNT en 5,6–10 requieren cotejo de aparato y testimonios antes de su publicación definitiva."
     ],
-    "next_step": "Completar 5,8–10 con cotejo MorphGNT y glosas."
+    "next_step": "Completar 5,9–10 con cotejo MorphGNT y glosas."
   }
 }
