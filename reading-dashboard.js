@@ -41,7 +41,7 @@
   // sus registros individuales, posición, progreso y sincronización.
   function categoryId(id) {
     if (/^(?:leo|leon)-i-sermo(?:-|$)/.test(id)) return 'leo-i-sermones';
-    if (/^(?:leo|leon)-i-(?:epist|epistola|epistula|carta|letter)/.test(id)) return 'leo-i-epistolas';
+    if (/^(?:leo|leon)-i-(?:epist|ep-|carta|letter)/.test(id)) return 'leo-i-epistolas';
     return id;
   }
 
