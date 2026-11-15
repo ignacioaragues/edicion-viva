@@ -955,12 +955,26 @@
       ],
       "morphology": "15/15 tokens posicionales cotejados; revisión semántica integral pendiente",
       "second_review": "pending"
+    },
+    {
+      "chapter": 5,
+      "from": 4,
+      "to": 4,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://www.sblgnt.com/",
+        "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+        "https://www.billmounce.com/blog/mwm/translating-the-word-missing-the-context-mark-5-4"
+      ],
+      "morphology": "23/23 positional; order and glosses checked; full contextual audit pending",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar desde Marcos 5,4; segunda revisión filológica retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,5; revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 4
+    "verse": 5
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2175,7 +2189,7 @@
   },
   "prepublication_research_5_4": {
     "date": "2026-11-15",
-    "status": "research_complete_pending_text_and_morphology",
+    "status": "published_morphology_mechanically_aligned",
     "observations": [
       "El SBLGNT presenta διὰ τὸ con una serie de infinitivos que explican por qué fracasaban los intentos de inmovilizarlo; no basta interpretar literalmente 'porque había sido atado'.",
       "πέδαις = grilletes; ἁλύσεσι = cadenas, sin identificar de manera segura material o función exacta.",
@@ -2190,7 +2204,7 @@
       "https://biblia.com/bible/vulgataclem/mark/5/3-5",
       "https://greeknewtestament.net/mk5-4"
     ],
-    "morphology_audit": "pending; no publicar sin cotejo posicional con MorphGNT 6.12",
+    "morphology_audit": "23/23 tokens en orden, lemas POS parsing y glosas; segunda revisión semántica pendiente",
     "second_passage_review": "pending"
   }
 }
