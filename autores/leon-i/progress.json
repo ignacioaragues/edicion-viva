@@ -42,21 +42,21 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, caput I complete, through 'gignat antistitem' (PL 54, col. 144C–145B)",
-      "paragraphs": 8,
-      "latin_tokens": 243,
-      "lexical_coverage": "243/243 token occurrences with first-pass lexical cards",
-      "translation": "partial first-pass Spanish translation; remaining Sermo III not yet published",
-      "voice_notes": 8,
+      "section": "Sermo III, caput I complete; caput II opening through 'fragilitate tardamur' (PL 54, 145C)",
+      "paragraphs": 9,
+      "latin_tokens": 270,
+      "lexical_coverage": "270/270 token occurrences with first-pass lexical cards",
+      "translation": "partial first-pass Spanish translation; caput II opening is a syntactically incomplete concessive clause",
+      "voice_notes": 9,
       "complete_work": false,
-      "editorial_caveat": "Caput I complete in first pass; chapters II–IV remain. Earlier quem/quam in §3 requires critical reconciliation; preparavit retained from Wikisource source; source text's typographical variants normalized for reader."
+      "editorial_caveat": "Caput I complete in first pass; chapters II–IV remain. Earlier quem/quam in §3 requires critical reconciliation; preparavit retained from Wikisource source; source text's typographical variants normalized for reader. Caput II opening ends at semicolon inside a longer concessive period; next passage must complete the sentence."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "Quamvis ergo, dilectissimi, nos ad explendam nostri officii servitutem",
-    "location": "PL 54, Sermo III, caput II, col. 145B–C"
+    "beginning": "habentes tamen incessabilem propitiationem omnipotentis et perpetui Sacerdotis",
+    "location": "PL 54, Sermo III, caput II, col. 145C"
   },
   "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
   "last_edit": "2026-11-15",
