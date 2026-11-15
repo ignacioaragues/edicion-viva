@@ -1084,12 +1084,19 @@
         "https://biblehub.com/commentaries/egt/mark/5.htm",
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 23,
+      "to": 24,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
-  "pending": "Continuar desde Marcos 5,23; revisión contextual retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,25; segunda revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 23
+    "verse": 25
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2527,6 +2534,39 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
       "https://biblehub.com/commentaries/egt/mark/5.htm"
+    ]
+  },
+  "prepublication_research_5_23_24": {
+    "status": "incorporated_second_review_pending",
+    "morphology_audit": "33/33 fichas posicionales cotejadas mecánicamente con MorphGNT SBLGNT 6.12",
+    "second_passage_review": "pending",
+    "latin": "optional_not_included",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 5:23–24",
+        "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+      },
+      {
+        "author": "James K. Tauber",
+        "title": "MorphGNT SBLGNT 6.12",
+        "section": "Mark 5:23–24",
+        "url": "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      },
+      {
+        "author": "Alfred Plummer",
+        "title": "Cambridge Greek Testament for Schools and Colleges: Mark",
+        "section": "5:23–24",
+        "url": "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "5:23",
+        "url": "https://truthaccordingtoscripture.com/commentaries/egt/mark-5.php"
+      }
     ]
   }
 }
