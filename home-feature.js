@@ -82,7 +82,7 @@
         (position ? 'Última posición registrada: ' + position + '. ' : '') +
         'Volvé a ' + (item.title || item.work) + ' desde tu biblioteca de lectura.';
     } else if (mode === 'updated') {
-      description.textContent = item.explanation.replace(/[.\\s]+$/, '') +
+      description.textContent = item.explanation.replace(/[.\s]+$/, '') +
         (date ? ' · Actualizada el ' + formatDate(date) + '.' : '.');
     } else {
       description.textContent = item.explanation;
