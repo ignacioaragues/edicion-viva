@@ -736,6 +736,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo, Comoediae (1895), digitised scan; collated with LateinLex, The Latin Library and Jan Radicke (GFA)",
       "note": "Six lines with original Spanish translation, word-level morphology and contextual glosses; occupational vocabulary remains philologically disputed. Automated token count checked; no browser QA performed."
+    },
+    {
+      "section": "III.5",
+      "from": 511,
+      "to": 520,
+      "verses": 10,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Comoediae I p.140 and apparatus, https://resources.warburg.sas.ac.uk/pdf/eph720b2450290.pdf; Jan Radicke, https://journals.ub.uni-heidelberg.de/index.php/gfa/article/download/93457/88162",
+      "note": "Aligned original translation and morphology/gloss for every token; variant forms and textual uncertainties documented. Token counts checked; browser rendering not tested."
     }
   ],
   "pending": [
@@ -747,7 +756,7 @@
   "updated": "2026-11-15",
   "next": {
     "section": "III.5",
-    "verse": 511
+    "verse": 521
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
