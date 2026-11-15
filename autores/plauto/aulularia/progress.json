@@ -808,6 +808,15 @@
       "status": "edited_not_revised",
       "source": "Plautus Aulularia III.6 The Latin Library, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Original Spanish translation and token-level morphology and glosses; curio/cura note. Leo direct comparison and retrospective review pending; no visual browser QA."
+    },
+    {
+      "section": "III.6",
+      "from": 567,
+      "to": 574,
+      "verses": 8,
+      "status": "edited_not_revised",
+      "source": "F. Leo (1895), Perseus reference; textual comparison with The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Original translation, full token morphology and contextual glosses; note on caedundum, adferrier and madidum. Retroactive morphology not advanced; visual QA pending. Numeration reserved for later pass."
     }
   ],
   "pending": [
@@ -819,7 +828,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "III.6",
-    "verse": 567
+    "verse": 575
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
