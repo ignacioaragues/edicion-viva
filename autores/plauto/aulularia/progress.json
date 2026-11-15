@@ -700,6 +700,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), digital attribution; cotejo The Latin Library, 2026-11-15",
       "note": "26 fichas morfológicas con glosas contextuales, nota sobre neque lex neque sutor y relativa est qui possit. Cotejo directo del aparato impreso y QA visual pendientes. No se certifica nueva segunda pasada: último verso consecutivo 159."
+    },
+    {
+      "section": "III.5",
+      "from": 489,
+      "to": 495,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library, 2026-11-15",
+      "note": "48 fichas individuales; 2 notas filológicas; revisión retrospectiva consecutiva sigue en 159, pendiente migración II.1"
     }
   ],
   "pending": [
@@ -711,9 +720,9 @@
   "updated": "2026-11-15",
   "next": {
     "section": "III.5",
-    "verse": 489
+    "verse": 496
   },
-  "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
+  "editorial_note": "III.5 489–495 publicados; la revisión retrospectiva consecutiva sigue en 159 por migración pendiente de identificadores II.1 (142–161).",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
