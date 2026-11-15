@@ -8,12 +8,17 @@
     'shakespeare-coriolanus': '../shakespeare-edicion-viva/#coriolanus',
     'leo-i-sermo-1': './autores/leon-i/sermones/sermo-i/',
     'leo-i-sermo-2': './autores/leon-i/sermones/sermo-ii/',
+    'leo-i-sermones': './autores/leon-i/#corpus',
+    'leo-i-epistolas': './autores/leon-i/#corpus',
     'corneille-attila': './autores/corneille/attila/'
   };
   const colors = {
     'plauto-aulularia': '#78927c',
     'evangelios-marcos': '#83719b',
-    'shakespeare-coriolanus': '#ad7059'
+    'shakespeare-coriolanus': '#ad7059',
+    'leo-i-sermones': '#71928b',
+    'leo-i-epistolas': '#b79c63',
+    'corneille-attila': '#8d789b'
   };
   const fallbackColors = ['#7e89a8', '#b49a68', '#8d7790', '#6f9d9a', '#ac7e85'];
   const formatDate = date => `${date.getDate()}/${date.getMonth()+1}`;
@@ -32,42 +37,89 @@
     return node;
   }
 
+  // Agrupar únicamente para el informe: cada sermón y epístola conserva
+  // sus registros individuales, posición, progreso y sincronización.
+  function categoryId(id) {
+    if (/^(?:leo|leon)-i-sermo(?:-|$)/.test(id)) return 'leo-i-sermones';
+    if (/^(?:leo|leon)-i-(?:epist|epistola|epistula|carta|letter)/.test(id)) return 'leo-i-epistolas';
+    return id;
+  }
+
   function workEntries(data) {
-    return Object.entries(data.works || {}).filter(([, work]) => reading.secondsForWork(work) > 0)
-      .sort(([idA, a], [idB, b]) => reading.secondsForWork(b) - reading.secondsForWork(a) || idA.localeCompare(idB));
+    const groups = new Map();
+    for (const [id, work] of Object.entries(data.works || {})) {
+      if (!work || reading.secondsForWork(work) <= 0) continue;
+      const category = categoryId(id);
+      if (!groups.has(category)) {
+        groups.set(category, { title:
+          category === 'leo-i-sermones' ? 'León I · Sermones' :
+          category === 'leo-i-epistolas' ? 'León I · Epístolas' :
+          work.title || id,
+          members: [], totalSeconds: 0
+        });
+      }
+      const entry = groups.get(category);
+      entry.members.push(work);
+      entry.totalSeconds += reading.secondsForWork(work);
+    }
+    return [...groups].sort(([idA, a], [idB, b]) =>
+      b.totalSeconds - a.totalSeconds || idA.localeCompare(idB));
   }
 
-  function colorFor(id, entries) {
+  function secondsOn(work, day) {
+    return work.members.reduce((sum, member) => sum + reading.secondsForDay(member, day), 0);
+  }
+
+  // Semana calendario local: domingo a sábado, consistente con el resumen.
+  function thisWeekSeconds(work) {
+    const today = dateOffset(0);
+    let total = 0;
+    for (let i = 0; i <= today.getDay(); i++) {
+      total += secondsOn(work, reading.dayKey(dateOffset(-i)));
+    }
+    return total;
+  }
+
+  function colorFor(id) {
     if (colors[id]) return colors[id];
-    const others = entries.filter(([workId]) => !colors[workId]);
-    return fallbackColors[Math.max(0, others.findIndex(([workId]) => workId === id)) % fallbackColors.length];
+    let hash = 0;
+    for (const character of id) hash = (hash * 31 + character.charCodeAt(0)) >>> 0;
+    return fallbackColors[hash % fallbackColors.length];
   }
 
-  function segmentsFor(data, date, entries) {
+  function segmentsFor(date, entries, weekIds = null) {
     return entries.map(([id, work]) => ({ id, title: work.title || id,
-      seconds: reading.secondsForDay(work, date), color: colorFor(id, entries) }))
+      seconds: secondsOn(work, date),
+      // La ventana histórica sigue mostrando todos los minutos, pero no
+      // crea nuevas categorías en la leyenda de la semana actual.
+      color: weekIds && !weekIds.has(id) ? '#bcc1b8' : colorFor(id) }))
       .filter(item => item.seconds > 0);
   }
 
   function renderLegend(entries) {
     const target = document.getElementById('work-legend');
     target.replaceChildren();
+    if (!entries.length) {
+      target.append(make('span', 'legend-empty', 'Todavía no hay lecturas esta semana.'));
+      return;
+    }
     entries.forEach(([id, work]) => {
       const entry = make('span', 'legend-entry');
       const dot = make('i', 'color-dot');
-      dot.style.backgroundColor = colorFor(id, entries);
+      dot.style.backgroundColor = colorFor(id);
       dot.setAttribute('aria-hidden', 'true');
       entry.append(dot, make('span', '', work.title || id));
       target.append(entry);
     });
   }
 
-  function renderDaily(data, entries) {
+  function renderDaily(entries, thisWeekEntries) {
     const target = document.getElementById('daily-chart');
     target.replaceChildren();
+    const active = new Set(thisWeekEntries.map(([id]) => id));
     const items = Array.from({ length: 14 }, (_, i) => {
       const date = dateOffset(i - 13);
-      const segments = segmentsFor(data, reading.dayKey(date), entries);
+      const segments = segmentsFor(reading.dayKey(date), entries, active);
       return { date, segments, seconds: segments.reduce((sum, item) => sum + item.seconds, 0) };
     });
     const max = Math.max(60, ...items.map(item => item.seconds));
@@ -105,13 +157,13 @@
         const date = new Date(sunday);
         date.setDate(date.getDate() + d);
         entries.forEach(([id, work]) => workSeconds.set(id,
-          workSeconds.get(id) + reading.secondsForDay(work, reading.dayKey(date))));
+          workSeconds.get(id) + secondsOn(work, reading.dayKey(date))));
       }
       const saturday = new Date(sunday);
       saturday.setDate(saturday.getDate() + 6);
       const seconds = [...workSeconds.values()].reduce((sum, value) => sum + value, 0);
       return { label:`${formatDate(sunday)} – ${formatDate(saturday)}`, seconds,
-        segments: entries.map(([id, work]) => ({ id, title: work.title || id, seconds: workSeconds.get(id), color: colorFor(id, entries) }))
+        segments: entries.map(([id, work]) => ({ id, title: work.title || id, seconds: workSeconds.get(id), color: colorFor(id) }))
           .filter(item => item.seconds > 0) };
     });
     const max = Math.max(60,...weeks.map(item => item.seconds));
@@ -144,12 +196,12 @@
       const row = make('div','work-row');
       const title = make('span', 'work-name');
       const dot = make('i', 'color-dot');
-      dot.style.backgroundColor = colorFor(id, entries);
+      dot.style.backgroundColor = colorFor(id);
       dot.setAttribute('aria-hidden', 'true');
       const name = make(links[id] ? 'a':'span', '', work.title || id);
       if (links[id]) name.href = links[id];
       title.append(dot, name);
-      row.append(title,make('strong','',reading.format(reading.secondsForWork(work))));
+      row.append(title,make('strong','',reading.format(work.totalSeconds)));
       target.append(row);
     });
   }
@@ -157,6 +209,9 @@
   function render() {
     const data = reading.read();
     const entries = workEntries(data);
+    const thisWeekEntries = entries
+      .filter(([, work]) => thisWeekSeconds(work) > 0)
+      .sort((a, b) => thisWeekSeconds(b[1]) - thisWeekSeconds(a[1]) || a[0].localeCompare(b[0]));
     document.getElementById('today-total').textContent = reading.format(reading.secondsForDate(data,reading.dayKey()));
     let week = 0;
     const today = dateOffset(0);
@@ -166,8 +221,8 @@
     document.getElementById('week-total').textContent = reading.format(week);
     document.getElementById('all-total').textContent = reading.format(
       Object.values(data.works).reduce((sum,work) => sum + reading.secondsForWork(work),0));
-    renderLegend(entries);
-    renderDaily(data, entries);
+    renderLegend(thisWeekEntries);
+    renderDaily(entries, thisWeekEntries);
     renderWeekly(data, entries);
     renderWorks(entries);
   }
