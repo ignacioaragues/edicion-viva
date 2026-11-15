@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, caput I, col. 148–149; primera unidad",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, caput I, col. 148–149; cotejo con aparato",
   "status": "partial",
-  "next": "Caput I: Omnes enim in Christo regeneratos",
+  "next": "Caput II: Cum itaque, dilectissimi, de consortio istius muneris",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -42,6 +42,46 @@ window.LEO_SERMO_I = {
       "note": [
         "La dignidad de los bautizados",
         "Indiscreta societas y generalis dignitas amplían a los bautizados la pertenencia al sacerdocio; las citas de 1 Pe 2,5.9 sostienen el argumento, sin suprimir las diferencias ministeriales. El aparato registra in unitatem en Vat. 3836."
+      ]
+    },
+    {
+      "id": "s4-5",
+      "label": "5",
+      "latin": "Omnes enim in Christo regeneratos, crucis signum efficit reges, sancti vero Spiritus unctio consecrat sacerdos: ut praeter istam specialem nostri ministerii servitutem, universi spiritales et rationabiles Christiani agnoscant se regii generis, et sacerdotalis officii esse consortes.",
+      "spanish": "A todos los regenerados en Cristo, el signo de la cruz los hace reyes, y la unción del Espíritu Santo los consagra sacerdotes: para que, además de este servicio particular de nuestro ministerio, todos los cristianos espirituales y dotados de razón reconozcan que participan de un linaje regio y de un oficio sacerdotal.",
+      "note": [
+        "La dignidad común y el ministerio particular",
+        "La oposición entre universi Christiani y specialem nostri ministerii servitutem distingue la dignidad común de la función ministerial. El aparato registra la omisión de vero en dos códices y de nostri en un Vaticano; el Casinense lee efficit por consecrat."
+      ]
+    },
+    {
+      "id": "s4-6",
+      "label": "6",
+      "latin": "Quid enim tam regium quam subditum Deo animum corporis sui esse rectorem? Et quid tam sacerdotale quam vovere Domino conscientiam puram, et immaculatas pietatis hostias de altari cordis offerre?",
+      "spanish": "¿Qué hay, en efecto, tan regio como que un ánimo sometido a Dios gobierne su propio cuerpo? ¿Y qué hay tan sacerdotal como consagrar al Señor una conciencia pura y ofrecer desde el altar del corazón sacrificios de piedad sin mancha?",
+      "note": [
+        "Dos interrogaciones paralelas",
+        "Quid ... tam ... quam transforma realeza y sacerdocio en prácticas éticas: gobierno de sí y ofrenda interior. El altar del corazón traslada el vocabulario ritual a la conciencia."
+      ]
+    },
+    {
+      "id": "s4-7",
+      "label": "7",
+      "latin": "Quod cum omnibus per Dei gratiam commune sit factum, religiosum tamen vobis atque laudabile est, de die provectionis nostrae quasi de proprio honore gaudere;",
+      "spanish": "Aunque esto se haya hecho común a todos por la gracia de Dios, es, sin embargo, piadoso y digno de alabanza que os alegréis por el día de nuestra elevación como si se tratara de un honor propio;",
+      "note": [
+        "Concesión y elogio",
+        "Cum ... tamen retoma la dignidad universal para justificar la alegría particular del auditorio. Vobis tiene respaldo en tres códices vaticanos, uno boloñés y la primera edición; otras fuentes ofrecen nobis."
+      ]
+    },
+    {
+      "id": "s4-8",
+      "label": "8",
+      "latin": "ut unum celebretur in toto Ecclesiae corpore pontificii sacramentum, quod, effuso benedictionis unguento, copiosius quidem in superiora profluxit, sed non parce etiam in inferiora descendit.",
+      "spanish": "para que en todo el cuerpo de la Iglesia se celebre como uno solo el misterio del pontificado, que, derramado el ungüento de la bendición, fluyó ciertamente con mayor abundancia hacia las partes superiores, pero descendió también generosamente hacia las inferiores.",
+      "note": [
+        "La unción descendente",
+        "Copiosius ... in superiora / non parce ... in inferiora articula la jerarquía sin excluir a los demás miembros. El Vaticano más antiguo omite, según el aparato, el tramo final del capítulo desde ut unum."
       ]
     }
   ],
@@ -113,8 +153,8 @@ window.LEO_SERMO_I = {
     ],
     "vobis": [
       "vos",
-      "ablativo plural",
-      "vosotros"
+      "dativo plural",
+      "para vosotros"
     ],
     "pietatem": [
       "pietas",
@@ -319,7 +359,7 @@ window.LEO_SERMO_I = {
     "corporis": [
       "corpus",
       "genitivo neutro singular",
-      "cuerpo"
+      "del cuerpo"
     ],
     "subsistat": [
       "subsisto",
@@ -573,7 +613,7 @@ window.LEO_SERMO_I = {
     ],
     "spiritales": [
       "spiritalis",
-      "acusativo femenino plural",
+      "nominativo masculino plural",
       "espirituales"
     ],
     "sacerdotium": [
@@ -660,6 +700,406 @@ window.LEO_SERMO_I = {
       "acquisitio",
       "genitivo femenino singular",
       "adquirido"
+    ],
+    "Omnes": [
+      "omnis",
+      "acusativo masculino plural",
+      "a todos"
+    ],
+    "regeneratos": [
+      "regenero",
+      "participio perfecto pasivo acusativo masculino plural",
+      "regenerados"
+    ],
+    "crucis": [
+      "crux",
+      "genitivo femenino singular",
+      "de la cruz"
+    ],
+    "signum": [
+      "signum",
+      "nominativo neutro singular",
+      "signo"
+    ],
+    "efficit": [
+      "efficio",
+      "presente indicativo activo tercera singular",
+      "hace"
+    ],
+    "reges": [
+      "rex",
+      "acusativo masculino plural",
+      "reyes"
+    ],
+    "sancti": [
+      "sanctus",
+      "genitivo masculino singular",
+      "santo"
+    ],
+    "vero": [
+      "vero",
+      "conector adversativo",
+      "en cambio"
+    ],
+    "Spiritus": [
+      "Spiritus",
+      "genitivo masculino singular",
+      "del Espíritu"
+    ],
+    "unctio": [
+      "unctio",
+      "nominativo femenino singular",
+      "unción"
+    ],
+    "consecrat": [
+      "consecro",
+      "presente indicativo activo tercera singular",
+      "consagra"
+    ],
+    "sacerdos": [
+      "sacerdos",
+      "acusativo masculino plural, forma del texto transmitido",
+      "sacerdotes"
+    ],
+    "praeter": [
+      "praeter",
+      "preposición con acusativo",
+      "además de"
+    ],
+    "istam": [
+      "iste",
+      "acusativo femenino singular",
+      "esta"
+    ],
+    "specialem": [
+      "specialis",
+      "acusativo femenino singular",
+      "particular"
+    ],
+    "nostri": [
+      "noster",
+      "genitivo neutro singular",
+      "nuestro"
+    ],
+    "ministerii": [
+      "ministerium",
+      "genitivo neutro singular",
+      "ministerio"
+    ],
+    "servitutem": [
+      "servitus",
+      "acusativo femenino singular",
+      "servicio"
+    ],
+    "universi": [
+      "universus",
+      "nominativo masculino plural",
+      "todos"
+    ],
+    "rationabiles": [
+      "rationabilis",
+      "nominativo masculino plural",
+      "dotados de razón"
+    ],
+    "Christiani": [
+      "Christianus",
+      "nominativo masculino plural",
+      "cristianos"
+    ],
+    "agnoscant": [
+      "agnosco",
+      "presente subjuntivo activo tercera plural",
+      "reconozcan"
+    ],
+    "se": [
+      "sui",
+      "acusativo reflexivo",
+      "a sí mismos"
+    ],
+    "regii": [
+      "regius",
+      "genitivo neutro singular",
+      "regio"
+    ],
+    "generis": [
+      "genus",
+      "genitivo neutro singular",
+      "linaje"
+    ],
+    "sacerdotalis": [
+      "sacerdotalis",
+      "genitivo neutro singular",
+      "sacerdotal"
+    ],
+    "officii": [
+      "officium",
+      "genitivo neutro singular",
+      "oficio"
+    ],
+    "esse": [
+      "sum",
+      "infinitivo presente",
+      "ser"
+    ],
+    "consortes": [
+      "consors",
+      "acusativo masculino plural",
+      "partícipes"
+    ],
+    "Quid": [
+      "quis",
+      "interrogativo neutro singular",
+      "qué"
+    ],
+    "tam": [
+      "tam",
+      "adverbio de grado",
+      "tan"
+    ],
+    "regium": [
+      "regius",
+      "nominativo neutro singular",
+      "regio"
+    ],
+    "quam": [
+      "quam",
+      "conjunción comparativa",
+      "como"
+    ],
+    "subditum": [
+      "subdo",
+      "participio perfecto pasivo acusativo masculino singular",
+      "sometido"
+    ],
+    "animum": [
+      "animus",
+      "acusativo masculino singular",
+      "ánimo"
+    ],
+    "sui": [
+      "suus",
+      "genitivo neutro singular",
+      "propio"
+    ],
+    "rectorem": [
+      "rector",
+      "acusativo masculino singular",
+      "gobernante"
+    ],
+    "sacerdotale": [
+      "sacerdotalis",
+      "nominativo neutro singular",
+      "sacerdotal"
+    ],
+    "vovere": [
+      "voveo",
+      "infinitivo presente activo",
+      "consagrar"
+    ],
+    "Domino": [
+      "Dominus",
+      "dativo masculino singular",
+      "al Señor"
+    ],
+    "conscientiam": [
+      "conscientia",
+      "acusativo femenino singular",
+      "conciencia"
+    ],
+    "puram": [
+      "purus",
+      "acusativo femenino singular",
+      "pura"
+    ],
+    "immaculatas": [
+      "immaculatus",
+      "acusativo femenino plural",
+      "sin mancha"
+    ],
+    "pietatis": [
+      "pietas",
+      "genitivo femenino singular",
+      "de piedad"
+    ],
+    "altari": [
+      "altare",
+      "ablativo neutro singular",
+      "altar"
+    ],
+    "cordis": [
+      "cor",
+      "genitivo neutro singular",
+      "del corazón"
+    ],
+    "offerre": [
+      "offero",
+      "infinitivo presente activo",
+      "ofrecer"
+    ],
+    "Quod": [
+      "qui",
+      "nominativo neutro singular relativo recapitulativo",
+      "lo cual"
+    ],
+    "cum": [
+      "cum",
+      "conjunción concesiva con subjuntivo",
+      "aunque"
+    ],
+    "omnibus": [
+      "omnis",
+      "dativo masculino plural",
+      "a todos"
+    ],
+    "gratiam": [
+      "gratia",
+      "acusativo femenino singular",
+      "gracia"
+    ],
+    "commune": [
+      "communis",
+      "nominativo neutro singular",
+      "común"
+    ],
+    "factum": [
+      "facio",
+      "participio perfecto pasivo nominativo neutro singular",
+      "hecho"
+    ],
+    "religiosum": [
+      "religiosus",
+      "nominativo neutro singular",
+      "piadoso"
+    ],
+    "laudabile": [
+      "laudabilis",
+      "nominativo neutro singular",
+      "digno de alabanza"
+    ],
+    "die": [
+      "dies",
+      "ablativo masculino singular",
+      "día"
+    ],
+    "provectionis": [
+      "provectio",
+      "genitivo femenino singular",
+      "de la elevación"
+    ],
+    "nostrae": [
+      "noster",
+      "genitivo femenino singular",
+      "nuestra"
+    ],
+    "quasi": [
+      "quasi",
+      "conjunción comparativa",
+      "como si"
+    ],
+    "proprio": [
+      "proprius",
+      "ablativo masculino singular",
+      "propio"
+    ],
+    "honore": [
+      "honor",
+      "ablativo masculino singular",
+      "honor"
+    ],
+    "gaudere": [
+      "gaudeo",
+      "infinitivo presente activo",
+      "alegrarse"
+    ],
+    "celebretur": [
+      "celebro",
+      "presente subjuntivo pasivo tercera singular",
+      "sea celebrado"
+    ],
+    "toto": [
+      "totus",
+      "ablativo neutro singular",
+      "todo"
+    ],
+    "Ecclesiae": [
+      "ecclesia",
+      "genitivo femenino singular",
+      "de la Iglesia"
+    ],
+    "corpore": [
+      "corpus",
+      "ablativo neutro singular",
+      "cuerpo"
+    ],
+    "pontificii": [
+      "pontificius",
+      "genitivo neutro singular",
+      "pontifical"
+    ],
+    "sacramentum": [
+      "sacramentum",
+      "nominativo neutro singular",
+      "misterio"
+    ],
+    "effuso": [
+      "effundo",
+      "participio perfecto pasivo ablativo neutro singular",
+      "derramado"
+    ],
+    "benedictionis": [
+      "benedictio",
+      "genitivo femenino singular",
+      "de bendición"
+    ],
+    "unguento": [
+      "unguentum",
+      "ablativo neutro singular",
+      "ungüento"
+    ],
+    "copiosius": [
+      "copiose",
+      "adverbio comparativo",
+      "más abundantemente"
+    ],
+    "quidem": [
+      "quidem",
+      "partícula enfática",
+      "ciertamente"
+    ],
+    "superiora": [
+      "superior",
+      "acusativo neutro plural",
+      "partes superiores"
+    ],
+    "profluxit": [
+      "profluo",
+      "perfecto indicativo activo tercera singular",
+      "fluyó"
+    ],
+    "sed": [
+      "sed",
+      "conjunción adversativa",
+      "pero"
+    ],
+    "parce": [
+      "parce",
+      "adverbio de modo",
+      "escasamente"
+    ],
+    "etiam": [
+      "etiam",
+      "adverbio aditivo",
+      "también"
+    ],
+    "inferiora": [
+      "inferior",
+      "acusativo neutro plural",
+      "partes inferiores"
+    ],
+    "descendit": [
+      "descendo",
+      "perfecto indicativo activo tercera singular",
+      "descendió"
     ]
   }
 };
