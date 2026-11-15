@@ -790,6 +790,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Aulularia III.6; cotejo The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Original translation, per-token morphology and contextual glosses; note on Geryon and Argus, distributive senis. No browser QA; retrospective review remains at 159; renumbering deferred."
+    },
+    {
+      "section": "III.6",
+      "from": 556,
+      "to": 560,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Plautus Aulularia III.6, Friedrich Leo 1895 base; cotejo The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Original translation, morphology and contextual gloss for every token; note on Argus, Io, Pirene and interbibere. Token alignment checked. No browser QA; no contiguous retrospective review; numbering migration deferred."
     }
   ],
   "pending": [
@@ -801,7 +810,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "III.6",
-    "verse": 556
+    "verse": 561
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
