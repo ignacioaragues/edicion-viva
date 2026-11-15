@@ -42,23 +42,23 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, capita I–II complete through 'erit solutum et in coelis' (PL 54, 146A–B)",
-      "paragraphs": 13,
-      "latin_tokens": 468,
-      "lexical_coverage": "468/468 token occurrences with first-pass contextual lexical cards",
-      "translation": "partial first-pass Spanish translation; capita I–II complete, III–IV pending",
-      "voice_notes": 13,
+      "section": "Sermo III, capita I–III complete through 'nec pagana potuerit superare perfidia' (PL 54, col. 147A)",
+      "paragraphs": 20,
+      "latin_tokens": 674,
+      "lexical_coverage": "674/674 token occurrences with first-pass contextual lexical cards",
+      "translation": "partial first-pass Spanish translation; capita I–III complete, IV pending",
+      "voice_notes": 20,
       "complete_work": false,
-      "editorial_caveat": "Capita I–II complete. Biblical quotation Matthew 16:16–19; textual alternatives remain in earlier §§3,11 (quem/quam, lacessit/lassescit). Capita III–IV pending."
+      "editorial_caveat": "Capita I–III complete; manuscript variants in cap. III include omission of petrae, praefinitur for praeficitur, decernitur for discernitur, corrumpere/perrumpere. Earlier quem/quam and lacessit/lassescit remain under review."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "Manet ergo dispositio veritatis",
-    "location": "PL 54, Sermo III, caput III, col. 146B"
+    "beginning": "His itaque modis, dilectissimi",
+    "location": "PL 54, Sermo III, caput IV, col. 147A"
   },
-  "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
+  "priority": "Complete Sermo III caput IV and its final Amen before beginning Sermo IV",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
