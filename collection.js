@@ -36,6 +36,16 @@ const collection = [
     detail: 'En curso · Marcos 1,1–5,4',
   },
   {
+    author: 'Pierre Corneille',
+    period: 'TEATRO CLÁSICO FRANCÉS',
+    work: 'Attila',
+    translated: 'Atila',
+    language: 'Francés · Español',
+    status: 'available',
+    url: './autores/corneille/attila/',
+    detail: 'En curso · I.1, vv. 1–28',
+  },
+  {
     author: 'Evangelio según Mateo',
     period: 'TEXTOS BÍBLICOS',
     work: 'Κατὰ Μαθθαῖον',
@@ -89,15 +99,7 @@ const collection = [
     status: 'considering',
     detail: 'En consideración',
   },
-  {
-    author: 'Pierre Corneille',
-    period: 'TEATRO CLÁSICO FRANCÉS',
-    work: 'Attila',
-    translated: 'Atila',
-    language: 'Francés · Español',
-    status: 'considering',
-    detail: 'En consideración',
-  },
+
   {
     author: 'Walt Whitman',
     period: 'POESÍA ESTADOUNIDENSE',
