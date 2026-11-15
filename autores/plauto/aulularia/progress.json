@@ -673,6 +673,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia III.4, 470–474; cotejo directo de Leo 1895 pendiente",
       "note": "42 fichas individuales con glosas; dos notas. Se preservan las marcas editoriales ~ y corchetes. Revisión consecutiva permanece en 159."
+    },
+    {
+      "section": "III.5",
+      "from": 475,
+      "to": 479,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "F. Leo (1895), LateinLex; cotejo The Latin Library y Packhum, 2026-11-15",
+      "note": "27 fichas individuales con glosas contextuales; dos notas con referencias. La frase condicional continúa en 480. Revisión retrospectiva permanece en 159."
     }
   ],
   "pending": [
@@ -682,7 +691,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.5, verso 475",
+  "next": "III.5, verso 480",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
