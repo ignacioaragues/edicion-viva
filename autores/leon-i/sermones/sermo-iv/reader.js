@@ -47,7 +47,7 @@
   }
   function showWord(form,item,section,anchor){
     hidePopups();
-    chosen={form,lemma:item[0],morphology:item[1],gloss:item[2],reference:"Sermo III · §"+section};
+    chosen={form,lemma:item[0],morphology:item[1],gloss:item[2],reference:"Sermo IV · §"+section};
     $("#word-form").textContent=form;
     $("#word-lemma").textContent=item[0];
     $("#word-morphology").textContent=item[1];
@@ -97,7 +97,7 @@
     const old=read(),id=idOf(chosen),found=old.findIndex(w=>w.id===id);
     if(found>=0)old.splice(found,1);
     else old.push({id,language:"latín",form:chosen.form,lemma:chosen.lemma,
-       morphology:chosen.morphology,gloss:chosen.gloss,work:"León I · Sermo III",reference:chosen.reference,addedAt:new Date().toISOString()});
+       morphology:chosen.morphology,gloss:chosen.gloss,work:"León I · Sermo IV",reference:chosen.reference,addedAt:new Date().toISOString()});
     if(!store(old)){$("#dictionary-feedback").textContent="No se pudo guardar en este navegador.";return;}
     refreshSaved();showDictionary();
   });
