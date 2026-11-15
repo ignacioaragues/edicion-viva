@@ -664,6 +664,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), edición base; cotejo The Latin Library y Aulularia4.pdf, 2026-11-15",
       "note": "36 tokens con fichas y glosas contextuales; notas sobre med, condigne y manufestarium; variante circum/cirum pendiente cotejo de aparato. Revisión retrospectiva no certificada, último verso 159."
+    },
+    {
+      "section": "III.4",
+      "from": 470,
+      "to": 474,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia III.4, 470–474; cotejo directo de Leo 1895 pendiente",
+      "note": "41 fichas individuales con glosas; dos notas. Se preservan las marcas editoriales ~ y corchetes. Revisión consecutiva permanece en 159."
     }
   ],
   "pending": [
@@ -673,7 +682,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.4, verso 470",
+  "next": "III.5, verso 475",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
