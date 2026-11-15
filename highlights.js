@@ -10,7 +10,8 @@
   const workLinks = {
     'plauto-aulularia': '/edicion-viva/autores/plauto/aulularia/',
     'evangelios-marcos': '/edicion-viva/autores/evangelios/marcos/',
-    'shakespeare-coriolanus': '/shakespeare-edicion-viva/'
+    'shakespeare-coriolanus': '/shakespeare-edicion-viva/',
+    'corneille-attila': '/edicion-viva/autores/corneille/attila/'
   };
   const isReader = !!workId;
   const read = () => {
