@@ -9,7 +9,7 @@ function render(type) {
     const available=type==='sermones'&&(n===1||n===2);
     const item=document.createElement(available?'a':'span');
     item.textContent=(type==='sermones'?'Sermo ':'Ep. ')+toRoman(n);
-    const sub=document.createElement('small');sub.textContent=available?(n===1?'Edición completa':'Capítulo I disponible'):'Pendiente';
+    const sub=document.createElement('small');sub.textContent=available?(n===1?'Edición completa':'Capítulo I y comienzo del II'):'Pendiente';
     item.append(sub);
     if(available)item.href=n===1?'./sermones/sermo-i/':'./sermones/sermo-ii/';
     container.append(item);
