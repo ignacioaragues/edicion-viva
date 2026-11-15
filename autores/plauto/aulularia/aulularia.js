@@ -1098,7 +1098,7 @@ const sectionRanges = new Map();
 for (const row of container.querySelectorAll('.verse[data-section]')) {
   const section = row.dataset.section;
   const raw = row.querySelector('.number')?.textContent || '';
-  const numbers = (raw.match(/\\d+/g) || []).map(Number);
+  const numbers = (raw.match(/\d+/g) || []).map(Number);
   if (!sectionRanges.has(section)) sectionRanges.set(section, []);
   sectionRanges.get(section).push(...numbers);
 }
@@ -1131,14 +1131,14 @@ function makeGroup(act) {
   return scenes;
 }
 for (const [section, numbers] of sectionRanges) {
-  const match = section.match(/^act(\\d+)scene(\\d+)$/);
+  const match = section.match(/^act(\d+)scene(\d+)$/);
   const act = section === 'prologue' ? 'prologue' : match?.[1] || 'other';
   const scenes = navGroups.get(act)?.scenes || makeGroup(act);
   const button = document.createElement('button');
   button.type = 'button';
   button.className = 'scene-nav-button';
   button.dataset.section = section;
-  const name = sectionNames[section] || section.replace(/^act(\\d+)scene(\\d+)$/, 'Acto $1, escena $2');
+  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
   const range = numbers.length ? ' · vv. ' + Math.min(...numbers) + '–' + Math.max(...numbers) : '';
   button.textContent = (section === 'prologue' ? 'Lar familiar' : match ? 'Escena ' + match[2] : name) + range;
   button.addEventListener('click', () => selectSection(section));
@@ -1153,13 +1153,13 @@ function selectSection(section) {
     if (id === section) button.setAttribute('aria-current', 'true');
     else button.removeAttribute('aria-current');
   }
-  const act = section === 'prologue' ? 'prologue' : section.match(/^act(\\d+)scene/)?.[1] || 'other';
+  const act = section === 'prologue' ? 'prologue' : section.match(/^act(\d+)scene/)?.[1] || 'other';
   const parent = navGroups.get(act);
   if (parent?.scenes.hidden) {
     parent.scenes.hidden = false;
     parent.heading.setAttribute('aria-expanded', 'true');
   }
-  const name = sectionNames[section] || section.replace(/^act(\\d+)scene(\\d+)$/, 'Acto $1, escena $2');
+  const name = sectionNames[section] || section.replace(/^act(\d+)scene(\d+)$/, 'Acto $1, escena $2');
   const current = document.querySelector('.position-current');
   if (current) current.textContent = name;
   const numbers = sectionRanges.get(section) || [];
