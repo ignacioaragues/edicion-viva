@@ -1047,12 +1047,24 @@
         "https://biblia.com/bible/vulgataclem/mark/5/12-13",
         "https://www.biblehub.com/commentaries/egt/mark/5.htm"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 14,
+      "to": 17,
+      "status": "published_morphology_mechanically_aligned_second_review_pending",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "62/62 positional records MorphGNT 6.12",
+      "references": [
+        "https://biblia.com/bible/vulgataclem/mark/5/14-17",
+        "https://www.biblehub.com/commentaries/egt/mark/5.htm"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,14; revisión retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,18; segunda revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 14
+    "verse": 18
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2414,9 +2426,9 @@
   },
   "prepublication_research_5_14_17": {
     "date": "2026-11-15",
-    "status": "researched_not_published",
+    "status": "published_5_14_17",
     "second_passage_review": "pending",
-    "morphology_audit": "MorphGNT 6.12 source lines 2668–2729 located; positional integration not yet completed",
+    "morphology_audit": "62/62 fichas posicionales comprobadas mecánicamente; revisión contextual integral pendiente",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
@@ -2453,6 +2465,6 @@
       "5,17: ἤρξαντο παρακαλεῖν introduce la petición de que Jesús se marche; atribuir exclusivamente esa petición a pérdidas económicas es interpretación, no motivación expresamente declarada.",
       "El SBLGNT incluye marcas de aparato en el recurso web que deben eliminarse del cuerpo de lectura; cotejar cada variante en el aparato antes de anotarla."
     ],
-    "next_step": "Integrar griego 5,14–17, español original, latín Clementina, notas con estas fuentes y 62 registros morfológicos posicionales (5,14:21; 5,15:19; 5,16:13; 5,17:9); validar sintaxis, renderizado y luego avanzar checkpoint."
+    "next_step": "Segunda revisión contextual pendiente; continuar desde 5,18"
   }
 }
