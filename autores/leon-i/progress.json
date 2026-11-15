@@ -29,23 +29,23 @@
     {
       "group": "sermones",
       "number": 2,
-      "section": "Caput I complete, PL 54 143A–143B; Caput II opening unit published, PL 54 143B",
-      "paragraphs": 7,
-      "latin_tokens": 192,
-      "lexical_coverage": "192/192 occurrences with contextual first-pass lexical cards",
-      "translation": "Caput I and first unit of Caput II, original Spanish first pass",
-      "voice_notes": 7,
-      "complete_work": false,
-      "editorial_caveat": "Ballerini–Migne apparatus: provexit emendation against provehit; oneris / honoris; principium / principatum. First-pass text pending later critical review."
+      "section": "complete Sermo II, PL 54 143A–144B, Capita I–II",
+      "paragraphs": 14,
+      "latin_tokens": 389,
+      "lexical_coverage": "389/389 token occurrences with first-pass contextual lexical cards",
+      "translation": "complete first-pass Spanish translation",
+      "voice_notes": 14,
+      "complete_work": true,
+      "editorial_caveat": "Ballerini–Migne apparatus consulted; variants include frequentiam/frequentationem, interesse/esse, vos/nos, obsecrate/exorate, fidem nostram/vestram, aedificationi/defensioni. Further critical revision pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 2,
-    "beginning": "Nam quod proprie ad affectum animi mei pertinet",
-    "location": "PL 54, col. 143B–144B, Caput II remainder; finish through Amen"
+    "number": 3,
+    "beginning": "Verify Sermo III incipit against PL 54",
+    "location": "PL 54, Sermo III"
   },
-  "priority": "Finish Sermo II chapter II, including final Amen, before starting Sermo III",
+  "priority": "Start Sermo III only after verifying source text and variants",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
