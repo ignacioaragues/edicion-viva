@@ -1,11 +1,9 @@
-/* León I, Sermo II, caput I. Traducción y análisis originales.
- * Fuente: Ballerini–Migne PL 54, 143A–143B; ver aparato editorial.
- * Primera entrega: capítulo I completo; capítulo II aún pendiente. */
+/* León I · Sermo II, capítulo I completo y comienzo del capítulo II. */
 window.LEO_SERMO_I = {
   "work": "León I · Sermón II",
-  "source": "Ballerini–Migne, PL 54, col. 143A–143B",
-  "status": "partial_chapter_I_complete",
-  "next": "Sermo II, Caput II: Magnificate ergo, dilectissimi",
+  "source": "Ballerini–Migne, PL 54, cols. 143A–143B (Caput I) and 143B (Caput II beginning)",
+  "status": "partial_chapter_II_started",
+  "next": "Nam quod proprie ad affectum animi mei pertinet",
   "paragraphs": [
     {
       "id": "s2-1",
@@ -65,6 +63,16 @@ window.LEO_SERMO_I = {
       "note": [
         "Medida y juicio",
         "Qualitate / mensura rechaza una contabilidad de méritos. La condición si ... observaret / sustineret evoca el Salmo 129/130,3; vita tentatio remite a Job 7,1."
+      ]
+    },
+    {
+      "id": "s2-7",
+      "label": "7",
+      "latin": "Magnificate ergo, dilectissimi, Dominum mecum, et exaltemus nomen ejus in invicem, ut tota ratio celebritatis hodiernae ad laudem sui referatur auctoris.",
+      "spanish": "Ensalzad, pues, queridísimos, al Señor conmigo, y exaltemos juntos su nombre, para que toda la razón de la celebración de hoy se atribuya a la alabanza de su autor.",
+      "note": [
+        "La alabanza compartida",
+        "El imperativo magnificate y el subjuntivo exhortativo exaltemus transforman el aniversario del obispo en un acto común de alabanza. La fórmula inicial remite al Salmo 33/34,4."
       ]
     }
   ],
@@ -743,6 +751,91 @@ window.LEO_SERMO_I = {
       "sustineo",
       "imperfecto subjuntivo activo 3.ª singular",
       "resistiría"
+    ],
+    "magnificate": [
+      "magnifico",
+      "imperativo presente activo 2.ª plural",
+      "engrandeced"
+    ],
+    "ergo": [
+      "ergo",
+      "conector consecutivo",
+      "pues"
+    ],
+    "dominum": [
+      "Dominus",
+      "acusativo masculino singular",
+      "al Señor"
+    ],
+    "mecum": [
+      "ego cum",
+      "pronombre ablativo singular con cum enclítico",
+      "conmigo"
+    ],
+    "exaltemus": [
+      "exalto",
+      "presente subjuntivo exhortativo activo 1.ª plural",
+      "exaltemos"
+    ],
+    "nomen": [
+      "nomen",
+      "acusativo neutro singular",
+      "nombre"
+    ],
+    "ejus": [
+      "is ea id",
+      "genitivo singular",
+      "suyo"
+    ],
+    "invicem": [
+      "invicem",
+      "adverbio recíproco",
+      "mutuamente"
+    ],
+    "tota": [
+      "totus",
+      "nominativo femenino singular",
+      "toda"
+    ],
+    "ratio": [
+      "ratio",
+      "nominativo femenino singular",
+      "razón"
+    ],
+    "celebritatis": [
+      "celebritas",
+      "genitivo femenino singular",
+      "celebración"
+    ],
+    "hodiernae": [
+      "hodiernus",
+      "genitivo femenino singular",
+      "de hoy"
+    ],
+    "ad": [
+      "ad",
+      "preposición con acusativo",
+      "hacia"
+    ],
+    "laudem": [
+      "laus",
+      "acusativo femenino singular",
+      "alabanza"
+    ],
+    "sui": [
+      "suus",
+      "genitivo masculino singular",
+      "de su"
+    ],
+    "referatur": [
+      "refero",
+      "presente subjuntivo pasivo 3.ª singular",
+      "sea atribuida"
+    ],
+    "auctoris": [
+      "auctor",
+      "genitivo masculino singular",
+      "autor"
     ]
   }
 };
