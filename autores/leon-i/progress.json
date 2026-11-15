@@ -42,21 +42,21 @@
     {
       "group": "sermones",
       "number": 3,
-      "section": "Sermo III, caput I complete; caput II opening through 'fragilitate tardamur' (PL 54, 145C)",
-      "paragraphs": 9,
-      "latin_tokens": 270,
-      "lexical_coverage": "270/270 token occurrences with first-pass lexical cards",
-      "translation": "partial first-pass Spanish translation; caput II opening is a syntactically incomplete concessive clause",
-      "voice_notes": 9,
+      "section": "Sermo III, caput I complete; caput II through 'quod in Petro Christus instituit' (PL 54, 146A)",
+      "paragraphs": 11,
+      "latin_tokens": 373,
+      "lexical_coverage": "373/373 token occurrences with first-pass contextual lexical cards",
+      "translation": "partial first-pass Spanish translation; caput II now includes completed concession and Petrine foundation argument",
+      "voice_notes": 11,
       "complete_work": false,
-      "editorial_caveat": "Caput I complete in first pass; chapters II–IV remain. Earlier quem/quam in §3 requires critical reconciliation; preparavit retained from Wikisource source; source text's typographical variants normalized for reader. Caput II opening ends at semicolon inside a longer concessive period; next passage must complete the sentence."
+      "editorial_caveat": "Caput I complete; caput II through §11. PL 54 'lacessit' has editorial suggestion 'lassescit' (not silently emended). Earlier quem/quam in §3 requires critical reconciliation; chapters III–IV and end of II remain."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "habentes tamen incessabilem propitiationem omnipotentis et perpetui Sacerdotis",
-    "location": "PL 54, Sermo III, caput II, col. 145C"
+    "beginning": "Cum enim, sicut evangelica lectione reseratum est",
+    "location": "PL 54, Sermo III, caput II, col. 146A"
   },
   "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
   "last_edit": "2026-11-15",
