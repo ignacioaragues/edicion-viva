@@ -826,6 +826,15 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia III.6, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml; Leo 1895 apparatus not directly collated",
       "note": "Original Spanish translation; morphology and contextual glosses for all 40 tokens; notes on commutet coloniam, faxo, perdiderit and lavatum. Retroactive audit unchanged at 159. No browser QA. Numbering correction deferred."
+    },
+    {
+      "section": "III.6",
+      "from": 580,
+      "to": 586,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "Plautus Aulularia III.6 580–586, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo (1895) via Perseus cited but direct apparatus collation pending",
+      "note": "End of III.6. Original Spanish translation; 54 token-level morphology and contextual glosses; Fides/fiducia and factu note. Retroactive review remains 159 pending structural correction; browser QA pending."
     }
   ],
   "pending": [
@@ -836,8 +845,8 @@
   ],
   "updated": "2026-11-16",
   "next": {
-    "section": "III.6",
-    "verse": 580
+    "section": "IV.1",
+    "verse": 587
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
