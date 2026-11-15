@@ -924,12 +924,27 @@
       ],
       "morphology": "12/12 positional; lemma POS parsing and gloss mechanically aligned; full contextual audit pending",
       "second_review": "pending"
+    },
+    {
+      "chapter": 5,
+      "from": 2,
+      "to": 2,
+      "status": "edited_not_revised",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://www.studybible.info/SBLGNT/Mark%205%3A2-5",
+        "https://biblia.com/bible/vulgataclem/mark/5/2-5",
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+        "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt"
+      ],
+      "morphology": "16/16 fichas posicionales de MorphGNT; revisión semántica integral pendiente",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar desde Marcos 5,2; segunda revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 2
+    "verse": 3
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2110,5 +2125,20 @@
     ],
     "morphology_audit": "12/12 fichas posicionales; segunda revisión semántica pendiente",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_5_2": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "16/16 tokens posicionales; revisión integral pendiente",
+    "observations": [
+      "ἐξελθόντος αὐτοῦ: genitivo absoluto temporal",
+      "εὐθύς: inmediatez del encuentro",
+      "ἐκ τῶν μνημείων: procedencia; no reconstruir detalles arqueológicos no documentados",
+      "ἐν πνεύματι ἀκαθάρτῳ: caracterización narrativa, no diagnóstico médico"
+    ],
+    "sources": [
+      "https://www.studybible.info/SBLGNT/Mark%205%3A2-5",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php"
+    ]
   }
 }
