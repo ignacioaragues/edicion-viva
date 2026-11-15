@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, capita I–III complete; caput IV through col. 147B",
-  "status": "partial_first_pass",
-  "next": "Continue caput IV from 'Cum ergo cohortationes nostras auribus vestrae sanctitatis adhibemus'",
+  "source": "Ballerini–Migne, PL 54, Sermo III, capita I–IV, col. 144C–148A",
+  "status": "complete_first_pass",
+  "next": "Sermo IV, caput I, pending primary-source collation",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -222,6 +222,66 @@ window.LEO_SERMO_I = {
       "note": [
         "Jerarquía ante los colegas",
         "El tratamiento venerabilium fratrum et consacerdotum precede a la afirmación de primacía. La estructura non solum ... sed et amplía el ámbito de Pedro. El aparato registra referunt como variante de deferunt."
+      ]
+    },
+    {
+      "id": "s3-23",
+      "label": "23 · IV",
+      "latin": "Cum ergo cohortationes nostras auribus vestrae sanctitatis adhibemus, ipsum vobis, cujus vice fungimur, loqui credite: quia et illius vos affectu monemus, et non aliud vobis, quam quod docuit, praedicamus: obsecrantes, ut succincti lumbos mentis vestrae castam et sobriam vitam in timore Dei ducatis, nec concupiscentiis carnis mens principatus sui oblita, consentiat.",
+      "spanish": "Cuando dirigimos nuestras exhortaciones a los oídos de vuestra santidad, creed que os habla aquel en cuyo lugar ejercemos nuestro ministerio: pues os amonestamos con su afecto y no os predicamos otra cosa que lo que él enseñó. Os suplicamos que, ceñidos los lomos de vuestra mente, llevéis una vida casta y sobria en el temor de Dios, y que la mente, olvidada de su propia soberanía, no consienta a los deseos de la carne.",
+      "note": [
+        "Hablar en nombre de Pedro",
+        "El imperativo credite y cujus vice fungimur reclaman que el auditorio reconozca en la exhortación de León la voz de Pedro. La imagen succincti lumbos mentis vestrae reelabora 1 Pe 1,13; el participio obsecrantes pasa de la autoridad declarada a la súplica."
+      ]
+    },
+    {
+      "id": "s3-24",
+      "label": "24 · IV",
+      "latin": "Brevia et caduca sunt terrenarum gaudia voluptatum, quae ad aeternitatem vocatos, a semitis vitae conantur avertere.",
+      "spanish": "Breves y pasajeros son los gozos de los placeres terrenales, que intentan apartar de los senderos de la vida a quienes han sido llamados a la eternidad.",
+      "note": [
+        "Contraste temporal y variante",
+        "Brevia et caduca contrapone el placer pasajero a la vocación eterna. La transcripción de Wikisource presenta «a semitis vitiæ»; se adopta provisionalmente «vitae» por el sentido del período, pendiente de cotejo material con PL 54 y testimonios críticos."
+      ]
+    },
+    {
+      "id": "s3-25",
+      "label": "25 · IV",
+      "latin": "Fidelis ergo et religiosus animus, ea quae sunt coelestia, concupiscat, et divinarum promissionum avidus, in amorem se incorruptibilis boni, et in spem verae lucis attollat.",
+      "spanish": "Que el alma fiel y religiosa desee, por tanto, las cosas celestiales y, ávida de las promesas divinas, se eleve hacia el amor del bien incorruptible y hacia la esperanza de la luz verdadera.",
+      "note": [
+        "Reorientar el deseo",
+        "Concupiscat y avidus recuperan el lenguaje del deseo, pero cambian su objeto: de los placeres terrenos a las promesas divinas. Los subjuntivos concupiscat y attollat funcionan como exhortación."
+      ]
+    },
+    {
+      "id": "s3-26",
+      "label": "26 · IV",
+      "latin": "Certi autem estote, dilectissimi, quod labor vester, quo vitiis resistitis, et carnalibus desideriis repugnatis, placens in conspectu Dei est atque pretiosus, nec solum vobis, sed etiam mihi apud Dei misericordiam profuturus: quia de profectu Dominici gregis gloriatur cura pastoris.",
+      "spanish": "Tened por seguro, queridísimos, que vuestro esfuerzo, con el que resistís a los vicios y combatís los deseos carnales, es agradable y precioso ante Dios; y que será provechoso no solo para vosotros, sino también para mí ante la misericordia divina, porque el cuidado del pastor encuentra motivo de gloria en el progreso del rebaño del Señor.",
+      "note": [
+        "El progreso ajeno como mérito pastoral",
+        "La correlación nec solum vobis, sed etiam mihi une el esfuerzo moral del auditorio con la responsabilidad del obispo. De profectu ... gregis gloriatur cura pastoris define una relación recíproca, no meramente jerárquica. Wikisource imprime «placeus», aquí normalizado provisionalmente a «placens»."
+      ]
+    },
+    {
+      "id": "s3-27",
+      "label": "27 · IV",
+      "latin": "Corona enim mea, sicut Apostolus ait, et gaudium vos estis; si fides vestra, quae ab initio Evangelii in universo mundo praedicata est, in dilectione et sanctitate permanserit.",
+      "spanish": "Pues vosotros sois mi corona y mi alegría, como dice el Apóstol, si vuestra fe, proclamada en el mundo entero desde los comienzos del Evangelio, permanece en el amor y en la santidad.",
+      "note": [
+        "El auditorio como corona",
+        "La cita de 1 Tes 2,19 transforma a los oyentes en corona y alegría del pastor. La condición si ... permanserit impide que el elogio sea incondicional; Rom 1,8 sustenta la referencia a la fe romana difundida por el mundo."
+      ]
+    },
+    {
+      "id": "s3-28",
+      "label": "28 · IV",
+      "latin": "Nam licet omnem Ecclesiam, quae in toto est orbe terrarum, cunctis oporteat florere virtutibus, vos tamen praecipue inter caeteros populos decet meritis pietatis excellere, quos in ipsa apostolicae petrae arce fundatos, et Dominus noster Jesus Christus cum omnibus redemit, et beatus apostolus Petrus prae omnibus erudivit. Per eumdem Christum Dominum nostrum. Amen.",
+      "spanish": "Porque, aunque convenga que toda la Iglesia extendida por el mundo florezca en todas las virtudes, a vosotros, más que a los demás pueblos, os corresponde sobresalir por los méritos de la piedad: asentados como estáis en la propia fortaleza de la piedra apostólica, nuestro Señor Jesucristo os redimió junto con todos y el bienaventurado apóstol Pedro os instruyó por encima de todos. Por el mismo Cristo, Señor nuestro. Amén.",
+      "note": [
+        "Universalidad y exigencia romana",
+        "Licet ... tamen contrapone la obligación común de toda la Iglesia con una exigencia especial a los romanos. Cum omnibus / prae omnibus distingue redención universal e instrucción privilegiada, y el sermón concluye con la fórmula cristológica."
       ]
     }
   ],
@@ -2675,6 +2735,611 @@ window.LEO_SERMO_I = {
       "primas",
       "acusativo masculino singular",
       "primado"
+    ],
+    "cohortationes": [
+      "cohortatio",
+      "acusativo femenino plural",
+      "exhortaciones"
+    ],
+    "nostras": [
+      "noster",
+      "acusativo femenino plural",
+      "nuestras"
+    ],
+    "auribus": [
+      "auris",
+      "dativo femenino plural",
+      "a los oídos"
+    ],
+    "vestrae": [
+      "vester",
+      "genitivo femenino singular",
+      "de vuestra"
+    ],
+    "sanctitatis": [
+      "sanctitas",
+      "genitivo femenino singular",
+      "santidad"
+    ],
+    "adhibemus": [
+      "adhibeo",
+      "presente indicativo activo primera plural",
+      "dirigimos"
+    ],
+    "vobis": [
+      "vos",
+      "dativo plural",
+      "a vosotros"
+    ],
+    "vice": [
+      "vicis",
+      "ablativo femenino singular",
+      "en lugar de"
+    ],
+    "fungimur": [
+      "fungor",
+      "presente indicativo deponente primera plural",
+      "ejercemos"
+    ],
+    "loqui": [
+      "loquor",
+      "infinitivo presente deponente",
+      "hablar"
+    ],
+    "credite": [
+      "credo",
+      "imperativo presente activo segunda plural",
+      "creed"
+    ],
+    "vos": [
+      "vos",
+      "acusativo plural",
+      "a vosotros"
+    ],
+    "affectu": [
+      "affectus",
+      "ablativo masculino singular",
+      "con afecto"
+    ],
+    "monemus": [
+      "moneo",
+      "presente indicativo activo primera plural",
+      "amonestamos"
+    ],
+    "aliud": [
+      "alius",
+      "acusativo neutro singular",
+      "otra cosa"
+    ],
+    "docuit": [
+      "doceo",
+      "perfecto indicativo activo tercera singular",
+      "enseñó"
+    ],
+    "praedicamus": [
+      "praedico",
+      "presente indicativo activo primera plural",
+      "predicamos"
+    ],
+    "obsecrantes": [
+      "obsecro",
+      "participio presente activo nominativo masculino plural",
+      "suplicando"
+    ],
+    "succincti": [
+      "succingo",
+      "participio perfecto pasivo nominativo masculino plural",
+      "ceñidos"
+    ],
+    "lumbos": [
+      "lumbus",
+      "acusativo masculino plural",
+      "lomos"
+    ],
+    "mentis": [
+      "mens",
+      "genitivo femenino singular",
+      "de la mente"
+    ],
+    "castam": [
+      "castus",
+      "acusativo femenino singular",
+      "casta"
+    ],
+    "sobriam": [
+      "sobrius",
+      "acusativo femenino singular",
+      "sobria"
+    ],
+    "vitam": [
+      "vita",
+      "acusativo femenino singular",
+      "vida"
+    ],
+    "timore": [
+      "timor",
+      "ablativo masculino singular",
+      "temor"
+    ],
+    "ducatis": [
+      "duco",
+      "presente subjuntivo activo segunda plural",
+      "llevéis"
+    ],
+    "concupiscentiis": [
+      "concupiscentia",
+      "dativo femenino plural",
+      "a los deseos"
+    ],
+    "carnis": [
+      "caro",
+      "genitivo femenino singular",
+      "de la carne"
+    ],
+    "mens": [
+      "mens",
+      "nominativo femenino singular",
+      "mente"
+    ],
+    "principatus": [
+      "principatus",
+      "genitivo masculino singular",
+      "de su soberanía"
+    ],
+    "oblita": [
+      "obliviscor",
+      "participio perfecto deponente nominativo femenino singular",
+      "olvidada"
+    ],
+    "consentiat": [
+      "consentio",
+      "presente subjuntivo activo tercera singular",
+      "consienta"
+    ],
+    "Brevia": [
+      "brevis",
+      "nominativo neutro plural",
+      "breves"
+    ],
+    "caduca": [
+      "caducus",
+      "nominativo neutro plural",
+      "pasajeros"
+    ],
+    "terrenarum": [
+      "terrenus",
+      "genitivo femenino plural",
+      "terrenales"
+    ],
+    "gaudia": [
+      "gaudium",
+      "nominativo neutro plural",
+      "alegrías"
+    ],
+    "voluptatum": [
+      "voluptas",
+      "genitivo femenino plural",
+      "de los placeres"
+    ],
+    "aeternitatem": [
+      "aeternitas",
+      "acusativo femenino singular",
+      "eternidad"
+    ],
+    "vocatos": [
+      "voco",
+      "participio perfecto pasivo acusativo masculino plural",
+      "llamados"
+    ],
+    "semitis": [
+      "semita",
+      "ablativo femenino plural",
+      "senderos"
+    ],
+    "vitae": [
+      "vita",
+      "genitivo femenino singular",
+      "de la vida"
+    ],
+    "conantur": [
+      "conor",
+      "presente indicativo deponente tercera plural",
+      "intentan"
+    ],
+    "avertere": [
+      "averto",
+      "infinitivo presente activo",
+      "apartar"
+    ],
+    "Fidelis": [
+      "fidelis",
+      "nominativo masculino singular",
+      "fiel"
+    ],
+    "religiosus": [
+      "religiosus",
+      "nominativo masculino singular",
+      "religioso"
+    ],
+    "animus": [
+      "animus",
+      "nominativo masculino singular",
+      "alma o espíritu"
+    ],
+    "coelestia": [
+      "coelestis",
+      "acusativo neutro plural sustantivado",
+      "cosas celestiales"
+    ],
+    "concupiscat": [
+      "concupisco",
+      "presente subjuntivo activo tercera singular",
+      "desee"
+    ],
+    "divinarum": [
+      "divinus",
+      "genitivo femenino plural",
+      "divinas"
+    ],
+    "promissionum": [
+      "promissio",
+      "genitivo femenino plural",
+      "de las promesas"
+    ],
+    "avidus": [
+      "avidus",
+      "nominativo masculino singular",
+      "ávido"
+    ],
+    "amorem": [
+      "amor",
+      "acusativo masculino singular",
+      "amor"
+    ],
+    "se": [
+      "sui",
+      "acusativo reflexivo",
+      "a sí mismo"
+    ],
+    "incorruptibilis": [
+      "incorruptibilis",
+      "genitivo neutro singular",
+      "incorruptible"
+    ],
+    "boni": [
+      "bonum",
+      "genitivo neutro singular",
+      "del bien"
+    ],
+    "spem": [
+      "spes",
+      "acusativo femenino singular",
+      "esperanza"
+    ],
+    "verae": [
+      "verus",
+      "genitivo femenino singular",
+      "verdadera"
+    ],
+    "lucis": [
+      "lux",
+      "genitivo femenino singular",
+      "de la luz"
+    ],
+    "attollat": [
+      "attollo",
+      "presente subjuntivo activo tercera singular",
+      "se eleve"
+    ],
+    "Certi": [
+      "certus",
+      "nominativo masculino plural",
+      "seguros"
+    ],
+    "autem": [
+      "autem",
+      "conjunción adversativa",
+      "por otra parte"
+    ],
+    "estote": [
+      "sum",
+      "imperativo futuro segunda plural",
+      "estad"
+    ],
+    "vester": [
+      "vester",
+      "nominativo masculino singular",
+      "vuestro"
+    ],
+    "vitiis": [
+      "vitium",
+      "dativo neutro plural",
+      "a los vicios"
+    ],
+    "resistitis": [
+      "resisto",
+      "presente indicativo activo segunda plural",
+      "resistís"
+    ],
+    "carnalibus": [
+      "carnalis",
+      "dativo neutro plural",
+      "carnales"
+    ],
+    "desideriis": [
+      "desiderium",
+      "dativo neutro plural",
+      "a los deseos"
+    ],
+    "repugnatis": [
+      "repugno",
+      "presente indicativo activo segunda plural",
+      "combatís"
+    ],
+    "placens": [
+      "placeo",
+      "participio presente activo nominativo masculino singular",
+      "agradable"
+    ],
+    "conspectu": [
+      "conspectus",
+      "ablativo masculino singular",
+      "presencia"
+    ],
+    "pretiosus": [
+      "pretiosus",
+      "nominativo masculino singular",
+      "precioso"
+    ],
+    "apud": [
+      "apud",
+      "preposición con acusativo",
+      "ante"
+    ],
+    "misericordiam": [
+      "misericordia",
+      "acusativo femenino singular",
+      "misericordia"
+    ],
+    "profuturus": [
+      "prosum",
+      "participio futuro activo nominativo masculino singular",
+      "que será provechoso"
+    ],
+    "profectu": [
+      "profectus",
+      "ablativo masculino singular",
+      "progreso"
+    ],
+    "Dominici": [
+      "Dominicus",
+      "genitivo masculino singular",
+      "del Señor"
+    ],
+    "gloriatur": [
+      "glorior",
+      "presente indicativo deponente tercera singular",
+      "se gloría"
+    ],
+    "cura": [
+      "cura",
+      "nominativo femenino singular",
+      "cuidado"
+    ],
+    "pastoris": [
+      "pastor",
+      "genitivo masculino singular",
+      "del pastor"
+    ],
+    "Corona": [
+      "corona",
+      "nominativo femenino singular",
+      "corona"
+    ],
+    "mea": [
+      "meus",
+      "nominativo femenino singular",
+      "mía"
+    ],
+    "Apostolus": [
+      "apostolus",
+      "nominativo masculino singular",
+      "apóstol"
+    ],
+    "gaudium": [
+      "gaudium",
+      "nominativo neutro singular",
+      "alegría"
+    ],
+    "estis": [
+      "sum",
+      "presente indicativo segunda plural",
+      "sois"
+    ],
+    "vestra": [
+      "vester",
+      "nominativo femenino singular",
+      "vuestra"
+    ],
+    "initio": [
+      "initium",
+      "ablativo neutro singular",
+      "comienzo"
+    ],
+    "Evangelii": [
+      "evangelium",
+      "genitivo neutro singular",
+      "del Evangelio"
+    ],
+    "universo": [
+      "universus",
+      "ablativo masculino singular",
+      "entero"
+    ],
+    "praedicata": [
+      "praedico",
+      "participio perfecto pasivo nominativo femenino singular",
+      "proclamada"
+    ],
+    "dilectione": [
+      "dilectio",
+      "ablativo femenino singular",
+      "en el amor"
+    ],
+    "sanctitate": [
+      "sanctitas",
+      "ablativo femenino singular",
+      "en la santidad"
+    ],
+    "permanserit": [
+      "permaneo",
+      "futuro perfecto indicativo activo tercera singular",
+      "hubiere permanecido"
+    ],
+    "Nam": [
+      "nam",
+      "conjunción causal",
+      "pues"
+    ],
+    "licet": [
+      "licet",
+      "conjunción concesiva",
+      "aunque"
+    ],
+    "omnem": [
+      "omnis",
+      "acusativo femenino singular",
+      "toda"
+    ],
+    "toto": [
+      "totus",
+      "ablativo masculino singular",
+      "todo"
+    ],
+    "orbe": [
+      "orbis",
+      "ablativo masculino singular",
+      "mundo"
+    ],
+    "terrarum": [
+      "terra",
+      "genitivo femenino plural",
+      "de las tierras"
+    ],
+    "cunctis": [
+      "cunctus",
+      "ablativo femenino plural",
+      "todas"
+    ],
+    "oporteat": [
+      "oportet",
+      "presente subjuntivo impersonal tercera singular",
+      "convenga"
+    ],
+    "florere": [
+      "floreo",
+      "infinitivo presente activo",
+      "florecer"
+    ],
+    "virtutibus": [
+      "virtus",
+      "ablativo femenino plural",
+      "virtudes"
+    ],
+    "praecipue": [
+      "praecipue",
+      "adverbio",
+      "especialmente"
+    ],
+    "inter": [
+      "inter",
+      "preposición con acusativo",
+      "entre"
+    ],
+    "caeteros": [
+      "ceterus",
+      "acusativo masculino plural",
+      "los demás"
+    ],
+    "populos": [
+      "populus",
+      "acusativo masculino plural",
+      "pueblos"
+    ],
+    "decet": [
+      "decet",
+      "presente indicativo impersonal tercera singular",
+      "corresponde"
+    ],
+    "meritis": [
+      "meritum",
+      "ablativo neutro plural",
+      "méritos"
+    ],
+    "pietatis": [
+      "pietas",
+      "genitivo femenino singular",
+      "de piedad"
+    ],
+    "excellere": [
+      "excello",
+      "infinitivo presente activo",
+      "sobresalir"
+    ],
+    "arce": [
+      "arx",
+      "ablativo femenino singular",
+      "fortaleza"
+    ],
+    "fundatos": [
+      "fundo",
+      "participio perfecto pasivo acusativo masculino plural",
+      "fundados"
+    ],
+    "noster": [
+      "noster",
+      "nominativo masculino singular",
+      "nuestro"
+    ],
+    "Jesus": [
+      "Iesus",
+      "nominativo masculino singular",
+      "Jesús"
+    ],
+    "redemit": [
+      "redimo",
+      "perfecto indicativo activo tercera singular",
+      "redimió"
+    ],
+    "apostolus": [
+      "apostolus",
+      "nominativo masculino singular",
+      "apóstol"
+    ],
+    "erudivit": [
+      "erudio",
+      "perfecto indicativo activo tercera singular",
+      "instruyó"
+    ],
+    "eumdem": [
+      "idem",
+      "acusativo masculino singular",
+      "el mismo"
+    ],
+    "Christum": [
+      "Christus",
+      "acusativo masculino singular",
+      "Cristo"
+    ],
+    "nostrum": [
+      "noster",
+      "acusativo masculino singular",
+      "nuestro"
+    ],
+    "Amen": [
+      "amen",
+      "aclamación litúrgica indeclinable",
+      "amén"
     ]
   }
 };
