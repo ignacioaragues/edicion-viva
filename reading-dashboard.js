@@ -92,23 +92,22 @@
   function renderWeekly(data, entries) {
     const target = document.getElementById('weekly-chart');
     target.replaceChildren();
-    const currentMonday = dateOffset(0);
-    const shift = (currentMonday.getDay() + 6) % 7;
-    currentMonday.setDate(currentMonday.getDate() - shift);
+    const currentSunday = dateOffset(0);
+    currentSunday.setDate(currentSunday.getDate() - currentSunday.getDay());
     const weeks = Array.from({length:8}, (_, i) => {
-      const monday = new Date(currentMonday);
-      monday.setDate(monday.getDate() - (7 - i) * 7);
+      const sunday = new Date(currentSunday);
+      sunday.setDate(sunday.getDate() - (7 - i) * 7);
       const workSeconds = new Map(entries.map(([id]) => [id, 0]));
       for (let d = 0; d < 7; d++) {
-        const date = new Date(monday);
+        const date = new Date(sunday);
         date.setDate(date.getDate() + d);
         entries.forEach(([id, work]) => workSeconds.set(id,
           workSeconds.get(id) + reading.secondsForDay(work, reading.dayKey(date))));
       }
-      const sunday = new Date(monday);
-      sunday.setDate(sunday.getDate() + 6);
+      const saturday = new Date(sunday);
+      saturday.setDate(saturday.getDate() + 6);
       const seconds = [...workSeconds.values()].reduce((sum, value) => sum + value, 0);
-      return { label:`${formatDate(monday)} – ${formatDate(sunday)}`, seconds,
+      return { label:`${formatDate(sunday)} – ${formatDate(saturday)}`, seconds,
         segments: entries.map(([id, work]) => ({ id, title: work.title || id, seconds: workSeconds.get(id), color: colorFor(id, entries) }))
           .filter(item => item.seconds > 0) };
     });
@@ -157,7 +156,10 @@
     const entries = workEntries(data);
     document.getElementById('today-total').textContent = reading.format(reading.secondsForDate(data,reading.dayKey()));
     let week = 0;
-    for (let i=0;i<7;i++) week += reading.secondsForDate(data,reading.dayKey(dateOffset(-i)));
+    const today = dateOffset(0);
+    for (let i=0; i<=today.getDay(); i++) {
+      week += reading.secondsForDate(data, reading.dayKey(dateOffset(-i)));
+    }
     document.getElementById('week-total').textContent = reading.format(week);
     document.getElementById('all-total').textContent = reading.format(
       Object.values(data.works).reduce((sum,work) => sum + reading.secondsForWork(work),0));
