@@ -53,12 +53,12 @@ a:focus-visible { outline: 3px solid #d59877; outline-offset: 4px; }
 .feature-ornament i { font-style: normal; font-size: 56px; color: var(--accent); margin-left: 10px; align-self: flex-end; }
 .feature-body { text-align: center; margin: auto 0 28px; }
 .feature-overline { font-size: 9px; font-weight: 700; color: var(--accent); letter-spacing: .18em; }
-.feature-body h2 { font: 400 39px/1.25 var(--serif); letter-spacing: -.055em; margin: 17px 0 6px; }
+.feature-body h2 { font: 400 clamp(27px, 2.7vw, 39px)/1.25 var(--serif); letter-spacing: -.055em; margin: 17px 0 6px; overflow-wrap: anywhere; }
 .feature-subtitle { font: italic 13px var(--serif); color: #939a90; margin: 0; }
 .feature-description { font-size: 12px; line-height: 1.8; color: #747b71; max-width: 340px; margin: 23px auto 0; }
 .feature-action { padding: 18px 19px; display: flex; justify-content: space-between; align-items: center; background: var(--deep); color: #fff; font-size: 11px; font-weight: 600; text-decoration: none; transition: background .2s; }
 .feature-action:hover { background: #486454; }
-.feature-action span { font-size: 17px; font-weight: 400; }
+.feature-action span[aria-hidden="true"] { font-size: 17px; font-weight: 400; }
 
 .library-section { border-top: 1px solid var(--line); padding: 108px clamp(24px, 5.6vw, 80px) 122px; background: var(--paper-soft); scroll-margin-top: 50px; }
 .library-section > * { max-width: 1440px; margin-left: auto; margin-right: auto; }
