@@ -2359,5 +2359,43 @@
       "πρὸς τῷ ὄρει no fija una localización geográfica precisa",
       "βοσκομένη concuerda con ἀγέλη"
     ]
+  },
+  "prepublication_research_5_12_13": {
+    "date": "2026-11-15",
+    "status": "researched_not_published",
+    "second_passage_review": "pending",
+    "morphology_audit": "pending: do not publish until MorphGNT 6.12 positional records verified",
+    "sources": [
+      {
+        "author": "Michael W. Holmes (ed.)",
+        "title": "The Greek New Testament: SBL Edition",
+        "year": 2010,
+        "section": "Mark 5:12–13",
+        "url": "https://www.biblestudytools.com/sblg/mark/5-13.html"
+      },
+      {
+        "title": "Vulgata Clementina",
+        "section": "Mc 5,12–13",
+        "url": "https://biblia.com/bible/vulgataclem/mark/5/12-13"
+      },
+      {
+        "author": "A. B. Bruce",
+        "title": "The Expositor's Greek Testament",
+        "section": "Mark 5:12–13",
+        "url": "https://www.biblehub.com/commentaries/egt/mark/5.htm"
+      },
+      {
+        "title": "Translation commentary on Mark 5:11–12",
+        "url": "https://tips.translation.bible/tip_verse/mark-512/page/2/"
+      }
+    ],
+    "observations": [
+      "5,12: SBLGNT lee καὶ παρεκάλεσαν αὐτὸν λέγοντες· Πέμψον ἡμᾶς εἰς τοὺς χοίρους, ἵνα εἰς αὐτοὺς εἰσέλθωμεν. El plural παρεκάλεσαν hace explícito el paso de la voz singular al colectivo.",
+      "5,12: el Textus Receptus añade πάντες οἱ δαίμονες tras αὐτόν; SBLGNT no incluye esa aclaración. Documentar sin introducirla en el cuerpo griego.",
+      "5,13: ἐπέτρεψεν expresa autorización, no una orden explícita de precipitarse al agua; ὡς δισχίλιοι es una cifra aproximada; ἐπνίγοντο es imperfecto que presenta el ahogamiento en desarrollo.",
+      "5,13: la Clementina agrega statim Jesus y presenta magno impetu grex præcipitatus est; conservar las diferencias en vez de armonizarla con el SBLGNT.",
+      "Lectura alegórica sobre impureza y cerdos posible como recepción, pero no hecho histórico demostrado por la narración."
+    ],
+    "next_step": "Obtener los registros posicionales MorphGNT 6.12 para 5,12–13, cotejar token a token y publicar únicamente tras validación sintáctica."
   }
 }
