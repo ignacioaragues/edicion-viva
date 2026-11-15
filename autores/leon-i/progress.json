@@ -7,7 +7,8 @@
     "https://la.wikisource.org/wiki/Sermones_-_Migne",
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_I",
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_II",
-    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_III"
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_III",
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IV"
   ],
   "scope": {
     "sermons_traditional": 96,
@@ -50,15 +51,27 @@
       "voice_notes": 28,
       "complete_work": true,
       "editorial_caveat": "First pass complete; critical review remains for quem/quam, lacessit/lassescit, praeficitur/praefinitur, discernitur/decernitur, igitur/itaque, referunt/deferunt; cap. IV Wikisource vitiæ and placeus provisionally read vitae and placens, requiring printed PL/critical collation."
+    },
+    {
+      "group": "sermones",
+      "number": 4,
+      "section": "Sermo IV caput I, §§1–3, through 'cujuslibet humilitas portionis' (PL 54, col. 148–149)",
+      "paragraphs": 3,
+      "latin_tokens": 84,
+      "lexical_coverage": "84/84 first-pass contextual lexical cards",
+      "translation": "partial original Spanish translation aligned",
+      "voice_notes": 3,
+      "complete_work": false,
+      "editorial_caveat": "First-pass text normalized from Wikisource Ballerini–Migne; verify apparatus and typography against print; remainder of chapter I and chapters II–IV unpublished."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Sermo IV, caput I",
-    "location": "PL 54, Sermo IV; locate and collate primary source before publication"
+    "beginning": "In unitate igitur fidei atque baptismatis",
+    "location": "PL 54, Sermo IV, caput I, col. 149"
   },
-  "priority": "Begin Sermo IV only after inspecting its source; keep the first three sermons marked complete in first pass, pending critical review",
+  "priority": "Continue Sermo IV caput I from 'In unitate igitur fidei atque baptismatis'; finish whole Sermo IV before opening V",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
