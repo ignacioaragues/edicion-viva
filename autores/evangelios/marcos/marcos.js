@@ -164,7 +164,7 @@
     {"chapter":5,"n":7,"gr":"καὶ κράξας φωνῇ μεγάλῃ λέγει· Τί ἐμοὶ καὶ σοί, Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; ὁρκίζω σε τὸν θεόν, μή με βασανίσῃς.","es":"Y, gritando con voz fuerte, dice: «¿Qué tengo yo que ver contigo, Jesús, Hijo del Dios Altísimo? Te conjuro por Dios: no me atormentes».","la":"et clamans voce magna dixit: Quid mihi et tibi, Jesu Fili Dei altissimi? adjuro te per Deum, ne me torqueas.","notes":["mc507formula","mc507oath"]}
     ,{"chapter":5,"n":8,"gr":"ἔλεγεν γὰρ αὐτῷ· Ἔξελθε τὸ πνεῦμα τὸ ἀκάθαρτον ἐκ τοῦ ἀνθρώπου.","es":"Porque le estaba diciendo: «Sal del hombre, espíritu impuro».","la":"Dicebat enim illi: Exi spiritus immunde ab homine.","notes":["mc508aspect"]}
 ,
-    {"chapter":5,"n":9,"gr":"καὶ ἐπηρώτα αὐτόν· Τί ὄνομά σοι; καὶ λέγει αὐτῷ· Λεγιὼν ὄνομά μοι, ὅτι πολλοί ἐσμεν·","es":"Y le preguntaba: «¿Cómo te llamás?». Y le responde: «Mi nombre es Legión, porque somos muchos».","la":"Et interrogabat eum: Quod tibi nomen est? Et dicit ei: Legio mihi nomen est, quia multi sumus.","notes":["mc509legion","mc509variants"]},
+    {"chapter":5,"n":9,"gr":"καὶ ἐπηρώτα αὐτόν· Τί ὄνομά σοι; καὶ λέγει αὐτῷ· Λεγιὼν ὄνομά μοι, ὅτι πολλοί ἐσμεν·","es":"Y le preguntaba: «¿Cómo te llamas?». Y le responde: «Mi nombre es Legión, porque somos muchos».","la":"Et interrogabat eum: Quod tibi nomen est? Et dicit ei: Legio mihi nomen est, quia multi sumus.","notes":["mc509legion","mc509variants"]},
     {"chapter":5,"n":10,"gr":"καὶ παρεκάλει αὐτὸν πολλὰ ἵνα μὴ αὐτὰ ἀποστείλῃ ἔξω τῆς χώρας.","es":"Y le suplicaba insistentemente que no los enviara fuera de aquella región.","la":"Et deprecabatur eum multum, ne se expelleret extra regionem.","notes":["mc510number"]}
   ];
 
