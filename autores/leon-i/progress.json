@@ -6,7 +6,8 @@
   "additional_sources": [
     "https://la.wikisource.org/wiki/Sermones_-_Migne",
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_I",
-    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_II"
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_II",
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_III"
   ],
   "scope": {
     "sermons_traditional": 96,
@@ -37,15 +38,27 @@
       "voice_notes": 14,
       "complete_work": true,
       "editorial_caveat": "Ballerini–Migne apparatus consulted; variants include frequentiam/frequentationem, interesse/esse, vos/nos, obsecrate/exorate, fidem nostram/vestram, aedificationi/defensioni. Further critical revision pending."
+    },
+    {
+      "group": "sermones",
+      "number": 3,
+      "section": "Sermo III, caput I, opening through 'qui operatur in nobis' (PL 54, col. 144C–145A)",
+      "paragraphs": 3,
+      "latin_tokens": 98,
+      "lexical_coverage": "98/98 token occurrences with first-pass lexical cards",
+      "translation": "partial first-pass translation; remaining Sermo III not yet published",
+      "voice_notes": 3,
+      "complete_work": false,
+      "editorial_caveat": "First three editorial units; chapter I and chapters II–IV remain. Check source variants on subsequent passages; text based on PL54 Wikisource transcription."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 3,
-    "beginning": "Verify Sermo III incipit against PL 54",
-    "location": "PL 54, Sermo III"
+    "beginning": "Unde et Davidicum psalmum, dilectissimi, non ad nostram elationem",
+    "location": "PL 54, Sermo III, caput I, col. 145A"
   },
-  "priority": "Start Sermo III only after verifying source text and variants",
+  "priority": "Complete Sermo III before beginning Sermo IV; preserve partial status until its final Amen",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
