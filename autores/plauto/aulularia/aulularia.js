@@ -1168,3 +1168,27 @@ function selectSection(section) {
   closeWord(); closeNote();
 }
 if (sectionRanges.size) selectSection(sectionRanges.keys().next().value);
+
+
+/* Preferencia de tamaño de lectura: controles propios del lector. */
+(function initReadingFontControls() {
+  const minus = document.getElementById('font-decrease');
+  const plus = document.getElementById('font-increase');
+  if (!minus || !plus) return;
+  const key = 'edicion-viva-reading-font-size';
+  const min = 14, max = 26, initial = 17;
+  let size = initial;
+  try {
+    const stored = Number(localStorage.getItem(key));
+    if (Number.isFinite(stored) && stored >= min && stored <= max) size = stored;
+  } catch (_) { /* almacenamiento no disponible */ }
+  function apply() {
+    document.documentElement.style.setProperty('--reading-size', size + 'px');
+    minus.disabled = size <= min;
+    plus.disabled = size >= max;
+    try { localStorage.setItem(key, String(size)); } catch (_) { /* opcional */ }
+  }
+  minus.addEventListener('click', () => { size = Math.max(min, size - 1); apply(); });
+  plus.addEventListener('click', () => { size = Math.min(max, size + 1); apply(); });
+  apply();
+})();
