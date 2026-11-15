@@ -1,0 +1,32 @@
+/* Ajustes propios del lector de teatro francés; la retícula y la tipografía
+   son compartidas con Aulularia para mantener unidad en Edición Viva. */
+.scene-index{display:flex;flex-direction:column;gap:11px;margin-bottom:28px}
+.scene-index a{display:block;padding:13px 12px;border:1px solid #e4e2d6;border-radius:5px;text-decoration:none;background:#fffdf8;color:#505a50;font:700 11px/1.6 'DM Sans',sans-serif}
+.scene-index a:hover{border-color:#b99786}
+.scene-index small{display:block;color:#969e94;font:10px/1.8 'DM Sans',sans-serif}
+.scene-pending{color:#a0a49d;font:10px/1.7 'DM Sans',sans-serif}
+.word-gloss{font:italic 12px/1.65 'Libre Baskerville',Georgia,serif;color:#6f766d;padding-top:10px;margin:12px 0 0;border-top:1px solid #e5e1d8}
+.word-paradigm{display:inline-block;margin-top:10px;color:#9d5747;font:600 11px/1.5 'DM Sans',sans-serif;text-decoration:none}
+.word-paradigm:hover{text-decoration:underline}
+.context-note{margin:38px 0 0;padding:27px 31px 28px;border-top:2px solid #b1b4aa;background:#f3f1e9}
+.context-note>span{font:700 9px 'DM Sans',sans-serif;letter-spacing:.17em;color:#9d5747}
+.context-note h2{font:400 21px/1.45 'Libre Baskerville',Georgia,serif;margin:10px 0 12px}
+.context-note p{font:12px/1.95 'Libre Baskerville',Georgia,serif;color:#626960;margin:0}
+.dict-record{border-bottom:1px solid #e6e5dd;padding:13px 0;display:grid;gap:7px}
+.dict-record strong{font:700 14px 'Libre Baskerville',Georgia,serif}
+.dict-record small{font:11px/1.6 'DM Sans',sans-serif;color:#7a8079}
+.dict-record button{justify-self:end;background:none;border:none;font:600 10px 'DM Sans',sans-serif;color:#9d5747;cursor:pointer}
+.dict-record button:hover{text-decoration:underline}
+.verse .spanish{white-space:normal}
+.verse .speech .note-anchor{margin-top:6px}
+@media(max-width:860px){
+ .sidebar.open{position:fixed;display:block;left:0;top:65px;bottom:0;width:min(285px,90vw);z-index:39;background:#f4f2eb;box-shadow:8px 0 20px #0002}
+ .sidebar.open .sidebar-inner{position:static;height:100%;padding:18px}
+ .sidebar.open .sidebar-content{display:flex}
+ .context-note{padding:21px 19px}
+}
+@media(max-width:640px){
+ .heading-place{white-space:normal;text-align:right}
+ .scene-index a{min-height:50px}
+ .context-note h2{font-size:18px}
+}
