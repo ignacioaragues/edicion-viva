@@ -1033,12 +1033,26 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/5",
         "https://biblia.com/bible/vulgataclem/mark/5/11-13"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 12,
+      "to": 13,
+      "status": "edited_not_revised",
+      "morphology": "43/43 positional MorphGNT 6.12 records; contextual review pending",
+      "source": "Michael W. Holmes (ed.), SBLGNT (2010)",
+      "external_references": [
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.biblestudytools.com/sblg/mark/5-13.html",
+        "https://biblia.com/bible/vulgataclem/mark/5/12-13",
+        "https://www.biblehub.com/commentaries/egt/mark/5.htm"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,12; revisión retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,14; revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 12
+    "verse": 14
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2362,9 +2376,9 @@
   },
   "prepublication_research_5_12_13": {
     "date": "2026-11-15",
-    "status": "researched_not_published",
+    "status": "published_5_12_13",
     "second_passage_review": "pending",
-    "morphology_audit": "pending: do not publish until MorphGNT 6.12 positional records verified",
+    "morphology_audit": "43/43 fichas posicionales cotejadas; segunda revisión contextual pendiente",
     "sources": [
       {
         "author": "Michael W. Holmes (ed.)",
