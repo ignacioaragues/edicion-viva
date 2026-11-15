@@ -709,6 +709,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library, 2026-11-15",
       "note": "48 fichas individuales; 2 notas filológicas; revisión retrospectiva consecutiva sigue en 159, pendiente migración II.1"
+    },
+    {
+      "section": "III.5",
+      "from": 496,
+      "to": 500,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus/LateinLex; cotejo The Latin Library, 2026-11-15",
+      "note": "37 fichas con glosas contextuales, traducción original y notas sobre la escucha de Euclión y la caricatura de la uxor dotata (Radicke). Sintaxis JS validada. Segunda pasada consecutiva permanece en 159: migración II.1 pendiente. QA visual no verificada."
     }
   ],
   "pending": [
@@ -720,7 +729,7 @@
   "updated": "2026-11-15",
   "next": {
     "section": "III.5",
-    "verse": 496
+    "verse": 501
   },
   "editorial_note": "III.5 489–495 publicados; la revisión retrospectiva consecutiva sigue en 159 por migración pendiente de identificadores II.1 (142–161).",
   "morphological_second_pass": {
