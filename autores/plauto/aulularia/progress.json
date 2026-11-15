@@ -682,6 +682,15 @@
       "status": "edited_not_revised",
       "source": "F. Leo (1895), LateinLex; cotejo The Latin Library y Packhum, 2026-11-15",
       "note": "27 fichas individuales con glosas contextuales; dos notas con referencias. La frase condicional continúa en 480. Revisión retrospectiva permanece en 159."
+    },
+    {
+      "section": "III.5",
+      "from": 480,
+      "to": 484,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus reference; direct cotejo The Latin Library (2026-11-15)",
+      "note": "32 fichas con glosas contextuales; notas sobre condicional hipotética, subjuntivos y metuont arcaico. Segunda revisión retrospectiva no certificada: permanece en 159 por migración de IDs II.1 pendiente. Prueba visual y cotejo directo del aparato de Leo pendientes."
     }
   ],
   "pending": [
@@ -691,7 +700,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.5, verso 480",
+  "next": "III.5, verso 485",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
