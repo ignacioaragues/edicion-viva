@@ -655,6 +655,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), texto contrastado con The Latin Library y MQDQ (2026-11-15)",
       "note": "42 fichas con glosas contextuales, dos notas sobre qui final y contraste pauper/opulentus; validación de alineación léxica. Segunda pasada retrospectiva permanece en 159; prueba visual pendiente."
+    },
+    {
+      "section": "III.4",
+      "from": 465,
+      "to": 469,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), edición base; cotejo The Latin Library y Aulularia4.pdf, 2026-11-15",
+      "note": "36 tokens con fichas y glosas contextuales; notas sobre med, condigne y manufestarium; variante circum/cirum pendiente cotejo de aparato. Revisión retrospectiva no certificada, último verso 159."
     }
   ],
   "pending": [
@@ -664,7 +673,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.4, verso 465",
+  "next": "III.4, verso 470",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
