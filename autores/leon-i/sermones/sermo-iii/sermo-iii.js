@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I–II completos (cols. 144C–146B)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, capita I–III (cols. 144C–147A)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. III from 'Manet ergo dispositio veritatis'",
+  "next": "Continue Sermo III cap. IV from 'His itaque modis, dilectissimi'",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -132,6 +132,76 @@ window.LEO_SERMO_I = {
       "note": [
         "De la confesión a la potestad",
         "La reiteración de et encadena nombre, fundamento, protección, llaves y facultad de atar y desatar. El paralelismo ligaveris / solveris y ligatum / solutum da a la autoridad un alcance simétrico, formulado como promesa de Cristo (Mt 16,16–19)."
+      ]
+    },
+    {
+      "id": "s3-14",
+      "label": "14 · III",
+      "latin": "Manet ergo dispositio veritatis, et beatus Petrus in accepta fortitudine petrae perseverans, suscepta Ecclesiae gubernacula non reliquit.",
+      "spanish": "Permanece, por tanto, la disposición de la verdad, y el bienaventurado Pedro, perseverando en la firmeza de la piedra que recibió, no abandonó el gobierno de la Iglesia.",
+      "note": [
+        "Gobierno que perdura",
+        "Manet y non reliquit atribuyen continuidad presente a la misión de Pedro; gubernacula, literalmente «timones», expresa el gobierno mediante una imagen náutica."
+      ]
+    },
+    {
+      "id": "s3-15",
+      "label": "15 · III",
+      "latin": "Sic enim prae caeteris est ordinatus, ut dum Petra dicitur, dum fundamentum pronuntiatur, dum regni coelorum janitor constituitur, dum ligandorum solvendorumque arbiter, mansura etiam in coelis judiciorum suorum definitione, praeficitur, qualis ipsi cum Christo esset societas, per ipsa appellationum ejus mysteria nosceremus.",
+      "spanish": "Pues fue establecido por encima de los demás de tal manera que, al ser llamado piedra, proclamado fundamento, constituido portero del reino de los cielos y designado árbitro de lo que debe atarse y desatarse —con decisiones destinadas a permanecer también en los cielos—, pudiéramos reconocer, por el misterio de sus títulos, qué clase de comunión tenía con Cristo.",
+      "note": [
+        "Los nombres como argumento",
+        "La anáfora dum encadena cuatro títulos de Pedro. Ut ... nosceremus hace de las denominaciones una prueba de su relación con Cristo; praeficitur cierra la serie verbal."
+      ]
+    },
+    {
+      "id": "s3-16",
+      "label": "16 · III",
+      "latin": "Qui nunc plenius et potentius ea quae sibi commissa sunt peragit, et omnes partes officiorum atque curarum in ipso et cum ipso, per quem est glorificatus, exsequitur.",
+      "spanish": "Él realiza ahora con mayor plenitud y poder cuanto le fue encomendado, y cumple todos los aspectos de sus deberes y cuidados en aquel y junto a aquel por quien ha sido glorificado.",
+      "note": [
+        "El presente de Pedro",
+        "Nunc, plenius et potentius y los presentes peragit/exsequitur sitúan el ejercicio de Pedro en el ahora; in ipso et cum ipso remite a Cristo."
+      ]
+    },
+    {
+      "id": "s3-17",
+      "label": "17 · III",
+      "latin": "Si quid itaque a nobis recte agitur, recteque discernitur, si quid a misericordia Dei quotidianis supplicationibus obtinetur, illius est operum atque meritorum, cujus in sede sua vivit potestas, et excellit auctoritas.",
+      "spanish": "Así pues, si algo hacemos correctamente y correctamente lo discernimos, si algo obtenemos de la misericordia de Dios mediante súplicas cotidianas, se debe a las obras y los méritos de aquel cuya potestad vive y cuya autoridad sobresale en su sede.",
+      "note": [
+        "La autoría desplazada",
+        "Si quid repetido y recte ... recteque conducen del nosotros a illius est. Potestas y auctoritas distinguen dos términos del lenguaje institucional."
+      ]
+    },
+    {
+      "id": "s3-18",
+      "label": "18 · III",
+      "latin": "Hoc enim obtinuit, dilectissimi, illa confessio, quae a Deo Patre apostolico inspirata cordi, omnia humanarum opinionum incerta transcendit, et firmitatem petrae, quae nullis impulsionibus quateretur, accepit.",
+      "spanish": "Porque eso obtuvo, queridísimos, aquella confesión que, inspirada por Dios Padre en el corazón del apóstol, trascendió todas las incertidumbres de las opiniones humanas y recibió la firmeza de la piedra, que ningún golpe podría sacudir.",
+      "note": [
+        "La confesión frente a la opinión",
+        "Omnia ... incerta se contrapone a firmitatem petrae: la firmeza de la confesión se distingue de la incertidumbre de las opiniones humanas."
+      ]
+    },
+    {
+      "id": "s3-19",
+      "label": "19 · III",
+      "latin": "In universa namque Ecclesia, Tu es Christus Filius Dei vivi, quotidie Petrus dicit, et omnis lingua, quae confitetur Dominum, magisterio hujus vocis imbuitur.",
+      "spanish": "En efecto, en toda la Iglesia Pedro dice cada día «Tú eres el Cristo, el Hijo del Dios vivo», y toda lengua que confiesa al Señor queda impregnada por la enseñanza de esa voz.",
+      "note": [
+        "Una voz cotidiana",
+        "Quotidie Petrus dicit presenta la confesión de Pedro como acto reiterado en la Iglesia. Omnis lingua amplía el alcance de esa voz."
+      ]
+    },
+    {
+      "id": "s3-20",
+      "label": "20 · III",
+      "latin": "Haec fides diabolum vincit, et captivorum ejus vincula dissolvit. Haec erutos mundo inserit coelo, et portae inferi adversus eam praevalere non possunt. Tanta enim divinitus soliditate munita est, ut eam neque haeretica umquam corrumpere pravitas, nec pagana potuerit superare perfidia.",
+      "spanish": "Esta fe vence al diablo y desata las cadenas de sus cautivos. Esta fe introduce en el cielo a quienes ha arrancado del mundo, y las puertas del infierno no pueden prevalecer contra ella. Pues está protegida por una solidez tan divina que ni la perversidad herética ha podido corromperla jamás ni la infidelidad pagana ha logrado vencerla.",
+      "note": [
+        "La fe como sujeto activo",
+        "Haec repetido convierte a la fe en sujeto de acciones. Neque ... nec cierra el capítulo contraponiéndola a dos amenazas diferenciadas."
       ]
     }
   ],
@@ -1770,6 +1840,606 @@ window.LEO_SERMO_I = {
       "solvo",
       "participio perfecto pasivo nominativo neutro singular con erit",
       "desatado"
+    ],
+    "Manet": [
+      "maneo",
+      "presente indicativo activo tercera singular",
+      "permanece"
+    ],
+    "dispositio": [
+      "dispositio",
+      "nominativo femenino singular",
+      "disposición"
+    ],
+    "veritatis": [
+      "veritas",
+      "genitivo femenino singular",
+      "de la verdad"
+    ],
+    "accepta": [
+      "accipio",
+      "participio perfecto pasivo ablativo femenino singular",
+      "recibida"
+    ],
+    "fortitudine": [
+      "fortitudo",
+      "ablativo femenino singular",
+      "fortaleza"
+    ],
+    "petrae": [
+      "petra",
+      "genitivo femenino singular",
+      "de la piedra"
+    ],
+    "perseverans": [
+      "persevero",
+      "participio presente nominativo masculino singular",
+      "perseverando"
+    ],
+    "suscepta": [
+      "suscipio",
+      "participio perfecto pasivo acusativo neutro plural",
+      "asumidos"
+    ],
+    "gubernacula": [
+      "gubernaculum",
+      "acusativo neutro plural",
+      "timones; gobierno"
+    ],
+    "Sic": [
+      "sic",
+      "adverbio",
+      "así"
+    ],
+    "prae": [
+      "prae",
+      "preposición con ablativo",
+      "por delante de"
+    ],
+    "caeteris": [
+      "ceterus",
+      "ablativo masculino plural",
+      "los demás"
+    ],
+    "ordinatus": [
+      "ordino",
+      "participio perfecto pasivo nominativo masculino singular",
+      "establecido"
+    ],
+    "Petra": [
+      "petra",
+      "nominativo femenino singular",
+      "piedra"
+    ],
+    "dicitur": [
+      "dico",
+      "presente indicativo pasivo tercera singular",
+      "es llamado"
+    ],
+    "fundamentum": [
+      "fundamentum",
+      "nominativo neutro singular",
+      "fundamento"
+    ],
+    "pronuntiatur": [
+      "pronuntio",
+      "presente indicativo pasivo tercera singular",
+      "es proclamado"
+    ],
+    "janitor": [
+      "ianitor",
+      "nominativo masculino singular",
+      "portero"
+    ],
+    "constituitur": [
+      "constituo",
+      "presente indicativo pasivo tercera singular",
+      "es constituido"
+    ],
+    "ligandorum": [
+      "ligo",
+      "gerundivo genitivo neutro plural",
+      "de las cosas por atar"
+    ],
+    "solvendorumque": [
+      "solvo",
+      "gerundivo genitivo neutro plural con enclítica -que",
+      "y de las cosas por desatar"
+    ],
+    "arbiter": [
+      "arbiter",
+      "nominativo masculino singular",
+      "árbitro"
+    ],
+    "mansura": [
+      "maneo",
+      "participio futuro ablativo femenino singular",
+      "destinada a permanecer"
+    ],
+    "judiciorum": [
+      "iudicium",
+      "genitivo neutro plural",
+      "de las decisiones"
+    ],
+    "definitione": [
+      "definitio",
+      "ablativo femenino singular",
+      "determinación"
+    ],
+    "praeficitur": [
+      "praeficio",
+      "presente indicativo pasivo tercera singular",
+      "es puesto al frente"
+    ],
+    "qualis": [
+      "qualis",
+      "interrogativo indirecto nominativo femenino singular",
+      "qué clase de"
+    ],
+    "ipsi": [
+      "ipse",
+      "dativo masculino singular",
+      "para él"
+    ],
+    "esset": [
+      "sum",
+      "imperfecto subjuntivo tercera singular",
+      "era; existía"
+    ],
+    "societas": [
+      "societas",
+      "nominativo femenino singular",
+      "comunión"
+    ],
+    "ipsa": [
+      "ipse",
+      "acusativo neutro plural",
+      "los mismos"
+    ],
+    "appellationum": [
+      "appellatio",
+      "genitivo femenino plural",
+      "de las denominaciones"
+    ],
+    "ejus": [
+      "is",
+      "genitivo singular",
+      "de él"
+    ],
+    "mysteria": [
+      "mysterium",
+      "acusativo neutro plural",
+      "misterios"
+    ],
+    "nosceremus": [
+      "nosco",
+      "imperfecto subjuntivo activo primera plural",
+      "pudiéramos reconocer"
+    ],
+    "nunc": [
+      "nunc",
+      "adverbio",
+      "ahora"
+    ],
+    "plenius": [
+      "plene",
+      "comparativo adverbial",
+      "más plenamente"
+    ],
+    "potentius": [
+      "potenter",
+      "comparativo adverbial",
+      "más poderosamente"
+    ],
+    "ea": [
+      "is",
+      "acusativo neutro plural",
+      "las cosas"
+    ],
+    "commissa": [
+      "committo",
+      "participio perfecto pasivo nominativo neutro plural",
+      "encomendadas"
+    ],
+    "sunt": [
+      "sum",
+      "presente indicativo tercera plural; auxiliar pasivo",
+      "son; han sido"
+    ],
+    "peragit": [
+      "perago",
+      "presente indicativo activo tercera singular",
+      "lleva a cabo"
+    ],
+    "omnes": [
+      "omnis",
+      "acusativo femenino plural",
+      "todas"
+    ],
+    "partes": [
+      "pars",
+      "acusativo femenino plural",
+      "partes"
+    ],
+    "officiorum": [
+      "officium",
+      "genitivo neutro plural",
+      "de los deberes"
+    ],
+    "curarum": [
+      "cura",
+      "genitivo femenino plural",
+      "de los cuidados"
+    ],
+    "ipso": [
+      "ipse",
+      "ablativo masculino singular",
+      "él mismo"
+    ],
+    "glorificatus": [
+      "glorifico",
+      "participio perfecto pasivo nominativo masculino singular",
+      "glorificado"
+    ],
+    "exsequitur": [
+      "exsequor",
+      "presente indicativo deponente tercera singular",
+      "cumple"
+    ],
+    "itaque": [
+      "itaque",
+      "conjunción conclusiva",
+      "por tanto"
+    ],
+    "a": [
+      "a",
+      "preposición con ablativo",
+      "por; de"
+    ],
+    "recte": [
+      "recte",
+      "adverbio",
+      "correctamente"
+    ],
+    "agitur": [
+      "ago",
+      "presente indicativo pasivo tercera singular",
+      "se hace"
+    ],
+    "recteque": [
+      "recte",
+      "adverbio con enclítica -que",
+      "y correctamente"
+    ],
+    "discernitur": [
+      "discerno",
+      "presente indicativo pasivo tercera singular",
+      "se discierne"
+    ],
+    "quotidianis": [
+      "quotidianus",
+      "ablativo femenino plural",
+      "cotidianas"
+    ],
+    "supplicationibus": [
+      "supplicatio",
+      "ablativo femenino plural",
+      "súplicas"
+    ],
+    "obtinetur": [
+      "obtineo",
+      "presente indicativo pasivo tercera singular",
+      "se obtiene"
+    ],
+    "operum": [
+      "opus",
+      "genitivo neutro plural",
+      "de las obras"
+    ],
+    "meritorum": [
+      "meritum",
+      "genitivo neutro plural",
+      "de los méritos"
+    ],
+    "sede": [
+      "sedes",
+      "ablativo femenino singular",
+      "en la sede"
+    ],
+    "sua": [
+      "suus",
+      "ablativo femenino singular",
+      "su"
+    ],
+    "vivit": [
+      "vivo",
+      "presente indicativo activo tercera singular",
+      "vive"
+    ],
+    "potestas": [
+      "potestas",
+      "nominativo femenino singular",
+      "potestad"
+    ],
+    "excellit": [
+      "excello",
+      "presente indicativo activo tercera singular",
+      "sobresale"
+    ],
+    "auctoritas": [
+      "auctoritas",
+      "nominativo femenino singular",
+      "autoridad"
+    ],
+    "obtinuit": [
+      "obtineo",
+      "perfecto indicativo activo tercera singular",
+      "obtuvo"
+    ],
+    "illa": [
+      "ille",
+      "nominativo femenino singular",
+      "aquella"
+    ],
+    "confessio": [
+      "confessio",
+      "nominativo femenino singular",
+      "confesión"
+    ],
+    "Deo": [
+      "Deus",
+      "ablativo masculino singular",
+      "Dios"
+    ],
+    "Patre": [
+      "pater",
+      "ablativo masculino singular",
+      "Padre"
+    ],
+    "apostolico": [
+      "apostolicus",
+      "dativo neutro singular",
+      "apostólico"
+    ],
+    "inspirata": [
+      "inspiro",
+      "participio perfecto pasivo nominativo femenino singular",
+      "inspirada"
+    ],
+    "cordi": [
+      "cor",
+      "dativo neutro singular",
+      "al corazón"
+    ],
+    "omnia": [
+      "omnis",
+      "acusativo neutro plural",
+      "todas"
+    ],
+    "humanarum": [
+      "humanus",
+      "genitivo femenino plural",
+      "humanas"
+    ],
+    "opinionum": [
+      "opinio",
+      "genitivo femenino plural",
+      "de las opiniones"
+    ],
+    "incerta": [
+      "incertum",
+      "acusativo neutro plural",
+      "incertidumbres"
+    ],
+    "transcendit": [
+      "transcendo",
+      "perfecto indicativo activo tercera singular",
+      "trascendió"
+    ],
+    "firmitatem": [
+      "firmitas",
+      "acusativo femenino singular",
+      "firmeza"
+    ],
+    "nullis": [
+      "nullus",
+      "ablativo masculino plural",
+      "ningunos"
+    ],
+    "impulsionibus": [
+      "impulsio",
+      "ablativo femenino plural",
+      "golpes"
+    ],
+    "quateretur": [
+      "quatio",
+      "imperfecto subjuntivo pasivo tercera singular",
+      "fuera sacudida"
+    ],
+    "accepit": [
+      "accipio",
+      "perfecto indicativo activo tercera singular",
+      "recibió"
+    ],
+    "universa": [
+      "universus",
+      "ablativo femenino singular",
+      "toda"
+    ],
+    "namque": [
+      "namque",
+      "conjunción explicativa",
+      "en efecto"
+    ],
+    "quotidie": [
+      "quotidie",
+      "adverbio",
+      "cada día"
+    ],
+    "dicit": [
+      "dico",
+      "presente indicativo activo tercera singular",
+      "dice"
+    ],
+    "omnis": [
+      "omnis",
+      "nominativo femenino singular",
+      "toda"
+    ],
+    "lingua": [
+      "lingua",
+      "nominativo femenino singular",
+      "lengua"
+    ],
+    "confitetur": [
+      "confiteor",
+      "presente indicativo deponente tercera singular",
+      "confiesa"
+    ],
+    "Dominum": [
+      "Dominus",
+      "acusativo masculino singular",
+      "al Señor"
+    ],
+    "magisterio": [
+      "magisterium",
+      "ablativo neutro singular",
+      "enseñanza"
+    ],
+    "vocis": [
+      "vox",
+      "genitivo femenino singular",
+      "de la voz"
+    ],
+    "imbuitur": [
+      "imbuo",
+      "presente indicativo pasivo tercera singular",
+      "queda impregnada"
+    ],
+    "Haec": [
+      "hic",
+      "nominativo femenino singular",
+      "esta"
+    ],
+    "fides": [
+      "fides",
+      "nominativo femenino singular",
+      "fe"
+    ],
+    "diabolum": [
+      "diabolus",
+      "acusativo masculino singular",
+      "diablo"
+    ],
+    "vincit": [
+      "vinco",
+      "presente indicativo activo tercera singular",
+      "vence"
+    ],
+    "captivorum": [
+      "captivus",
+      "genitivo masculino plural sustantivado",
+      "de los cautivos"
+    ],
+    "vincula": [
+      "vinculum",
+      "acusativo neutro plural",
+      "cadenas"
+    ],
+    "dissolvit": [
+      "dissolvo",
+      "presente indicativo activo tercera singular",
+      "desata"
+    ],
+    "erutos": [
+      "eruo",
+      "participio perfecto pasivo acusativo masculino plural sustantivado",
+      "los arrancados"
+    ],
+    "mundo": [
+      "mundus",
+      "ablativo masculino singular",
+      "del mundo"
+    ],
+    "inserit": [
+      "insero",
+      "presente indicativo activo tercera singular",
+      "introduce"
+    ],
+    "coelo": [
+      "caelum",
+      "dativo neutro singular",
+      "al cielo"
+    ],
+    "praevalere": [
+      "praevaleo",
+      "infinitivo presente activo",
+      "prevalecer"
+    ],
+    "possunt": [
+      "possum",
+      "presente indicativo activo tercera plural",
+      "pueden"
+    ],
+    "Tanta": [
+      "tantus",
+      "ablativo femenino singular",
+      "tan grande"
+    ],
+    "divinitus": [
+      "divinitus",
+      "adverbio",
+      "por acción divina"
+    ],
+    "soliditate": [
+      "soliditas",
+      "ablativo femenino singular",
+      "solidez"
+    ],
+    "munita": [
+      "munio",
+      "participio perfecto pasivo nominativo femenino singular",
+      "protegida"
+    ],
+    "haeretica": [
+      "haereticus",
+      "nominativo femenino singular",
+      "herética"
+    ],
+    "umquam": [
+      "umquam",
+      "adverbio",
+      "jamás"
+    ],
+    "corrumpere": [
+      "corrumpo",
+      "infinitivo presente activo",
+      "corromper"
+    ],
+    "pravitas": [
+      "pravitas",
+      "nominativo femenino singular",
+      "perversidad"
+    ],
+    "pagana": [
+      "paganus",
+      "nominativo femenino singular",
+      "pagana"
+    ],
+    "potuerit": [
+      "possum",
+      "perfecto subjuntivo activo tercera singular",
+      "haya podido"
+    ],
+    "superare": [
+      "supero",
+      "infinitivo presente activo",
+      "vencer"
+    ],
+    "perfidia": [
+      "perfidia",
+      "nominativo femenino singular",
+      "infidelidad"
     ]
   }
 };
