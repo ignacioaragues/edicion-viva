@@ -2172,5 +2172,25 @@
       "negación enfática οὐδὲ ... οὐκέτι οὐδεὶς",
       "variante οὔτε ἁλύσεσιν sin οὐκέτι en RP"
     ]
+  },
+  "prepublication_research_5_4": {
+    "date": "2026-11-15",
+    "status": "research_complete_pending_text_and_morphology",
+    "observations": [
+      "El SBLGNT presenta διὰ τὸ con una serie de infinitivos que explican por qué fracasaban los intentos de inmovilizarlo; no basta interpretar literalmente 'porque había sido atado'.",
+      "πέδαις = grilletes; ἁλύσεσι = cadenas, sin identificar de manera segura material o función exacta.",
+      "Los perfectos δεδέσθαι, διεσπάσθαι y συντετρῖφθαι y el imperfecto ἴσχυεν merecen anotación diferenciada; δαμάσαι expresa dominar o someter.",
+      "La Clementina lee quoniam sæpe compedibus et catenis vinctus, dirupisset catenas, et compedes comminuisset, et nemo poterat eum domare.",
+      "La tradición textual presenta diferencias menores de orden y formas verbales; contrastar el aparato SBLGNT antes de anotarlas."
+    ],
+    "sources": [
+      "https://www.biblestudytools.com/sblg/mark/5-4.html",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+      "https://www.billmounce.com/blog/mwm/translating-the-word-missing-the-context-mark-5-4",
+      "https://biblia.com/bible/vulgataclem/mark/5/3-5",
+      "https://greeknewtestament.net/mk5-4"
+    ],
+    "morphology_audit": "pending; no publicar sin cotejo posicional con MorphGNT 6.12",
+    "second_passage_review": "pending"
   }
 }
