@@ -770,6 +770,8 @@ notes['336'] = {number:336,type:'LÉXICO Y COMICIDAD',heading:'Hasta quedarse ro
 notes['341'] = {number:341,type:'MORFOLOGÍA',heading:'Adferto y la orden práctica',text:'Adferto es imperativo futuro de adfero en -to, frecuente en órdenes y prescripciones; abs te conserva la variante preposicional abs. La advertencia vuelve absurda la tarea del cocinero: deberá llevar desde su propia casa lo que necesite. Plauto, Aulularia II.5, 339–341; texto cotejado https://www.thelatinlibrary.com/plautus/aulularia.shtml; Leo, Plauti comoediae I (1895), https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003/.'};
 
 let lastNumber = '';
+let previousSpeaker = '';
+let previousSection = '';
 for (const entry of verses) {
   if (entry.n) lastNumber = entry.n;
   const row = document.createElement('div');
@@ -782,12 +784,18 @@ for (const entry of verses) {
   num.textContent = entry.n;
   const speech = document.createElement('div');
   speech.className = 'speech';
-  if (entry.speaker) {
+  // El nombre encabeza el parlamento, no cada verso del mismo hablante.
+  // Una nueva escena vuelve a mostrarlo; las intervenciones mixtas conservan su rótulo.
+  const currentSection = entry.section || (Number(lastNumber) <= 39 ? 'prologue' : 'legacy');
+  const currentSpeaker = (entry.speaker || '').trim();
+  if (currentSpeaker && (currentSpeaker !== previousSpeaker || currentSection !== previousSection || currentSpeaker.includes('/'))) {
     const who = document.createElement('span');
     who.className = 'speaker';
-    who.textContent = entry.speaker;
+    who.textContent = currentSpeaker;
     speech.append(who);
   }
+  previousSpeaker = currentSpeaker;
+  previousSection = currentSection;
   const latin = document.createElement('p');
   latin.className = 'latin';
   const reference = (Number(lastNumber) <= 39 ? 'Prólogo' : Number(lastNumber) <= 78 ? 'I.1' : Number(lastNumber) <= 119 ? 'I.2' : Number(lastNumber) <= 177 ? 'II.1' : 'II.2') + ', v. ' + lastNumber;
