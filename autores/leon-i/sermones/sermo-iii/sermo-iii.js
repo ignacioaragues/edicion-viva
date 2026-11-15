@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I completo (cols. 144C–145B; transcripción cotejada)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I íntegro y comienzo del cap. II (cols. 144C–145C)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. II: Quamvis ergo, dilectissimi, nos ad explendam nostri officii servitutem...",
+  "next": "Continue Sermo III cap. II within same sentence: habentes tamen incessabilem propitiationem omnipotentis et perpetui Sacerdotis...",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -82,6 +82,16 @@ window.LEO_SERMO_I = {
       "note": [
         "Del linaje al discernimiento",
         "La secuencia non per generationum tramitem ... sed ... quos Spiritus sanctus preparavit sustituye la herencia familiar por la elección espiritual. El contraste final entre praerogativa terrenae originis y dignatio coelestis gratiae culmina en gignat antistitem: el obispo es presentado como fruto de la gracia, no de la sangre. La referencia a la unctio no basta por sí sola para determinar el rito material concreto."
+      ]
+    },
+    {
+      "id": "s3-9",
+      "label": "9 · II",
+      "latin": "Quamvis ergo, dilectissimi, nos ad explendam nostri officii servitutem, et infirmi inveniamur et segnes, dum si quid devote et strenue agere cupimus, ipsius nostrae conditionis fragilitate tardamur;",
+      "spanish": "Aunque, por tanto, queridísimos, nos encontremos débiles y poco diligentes para cumplir el servicio de nuestro oficio, y, cuando deseamos actuar con devoción y energía, nos retrase la fragilidad de nuestra propia condición;",
+      "note": [
+        "La concesión inicial",
+        "Quamvis introduce una concesión que solo se resolverá con tamen en la continuación: León reconoce la fragilidad de los ministros, sin negar la legitimidad de su servicio. Servitutem denomina expresamente el oficio como obligación de servir. El período queda abierto en este corte editorial y debe leerse con su continuación."
       ]
     }
   ],
@@ -1010,6 +1020,96 @@ window.LEO_SERMO_I = {
       "antistes",
       "sustantivo acusativo masculino singular",
       "obispo; prelado"
+    ],
+    "quamvis": [
+      "quamvis",
+      "conjunción concesiva con subjuntivo",
+      "aunque"
+    ],
+    "ergo": [
+      "ergo",
+      "adverbio ilativo",
+      "por tanto"
+    ],
+    "explendam": [
+      "expleo",
+      "gerundivo acusativo femenino singular con servitutem",
+      "que debe cumplirse"
+    ],
+    "servitutem": [
+      "servitus",
+      "sustantivo acusativo femenino singular",
+      "servicio; obligación de servir"
+    ],
+    "infirmi": [
+      "infirmus",
+      "adjetivo nominativo masculino plural",
+      "débiles"
+    ],
+    "inveniamur": [
+      "invenio",
+      "subjuntivo presente pasivo primera plural",
+      "nos encontremos"
+    ],
+    "segnes": [
+      "segnis",
+      "adjetivo nominativo masculino plural",
+      "poco diligentes"
+    ],
+    "devote": [
+      "devote",
+      "adverbio",
+      "con devoción"
+    ],
+    "strenue": [
+      "strenue",
+      "adverbio",
+      "con energía"
+    ],
+    "agere": [
+      "ago",
+      "infinitivo presente activo",
+      "actuar"
+    ],
+    "cupimus": [
+      "cupio",
+      "indicativo presente activo primera plural",
+      "deseamos"
+    ],
+    "ipsius": [
+      "ipse",
+      "pronombre intensivo genitivo femenino singular",
+      "de la propia"
+    ],
+    "nostrae": [
+      "noster",
+      "adjetivo posesivo genitivo femenino singular",
+      "nuestra"
+    ],
+    "conditionis": [
+      "conditio",
+      "sustantivo genitivo femenino singular",
+      "de la condición"
+    ],
+    "fragilitate": [
+      "fragilitas",
+      "sustantivo ablativo femenino singular de causa",
+      "por la fragilidad"
+    ],
+    "tardamur": [
+      "tardo",
+      "indicativo presente pasivo primera plural",
+      "somos retrasados"
+    ],
+    "nos": [
+      "nos",
+      "pronombre personal acusativo primera plural",
+      "nos"
+    ],
+    "nostri": [
+      "noster",
+      "adjetivo posesivo genitivo neutro singular con officii",
+      "de nuestro"
     ]
   }
 };
