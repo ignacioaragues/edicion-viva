@@ -646,6 +646,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus; cotejo The Latin Library, 2026-11-15",
       "note": "Cierre de escena con dos hablantes en un verso; 10 tokens y glosas contextuales; nota sobre abi repetido. Segunda revisión consecutiva sin avance, permanece en 159. Prueba visual pendiente."
+    },
+    {
+      "section": "III.4",
+      "from": 460,
+      "to": 464,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), texto contrastado con The Latin Library y MQDQ (2026-11-15)",
+      "note": "42 fichas con glosas contextuales, dos notas sobre qui final y contraste pauper/opulentus; validación de alineación léxica. Segunda pasada retrospectiva permanece en 159; prueba visual pendiente."
     }
   ],
   "pending": [
@@ -655,7 +664,7 @@
     }
   ],
   "updated": "2026-11-15",
-  "next": "III.4, verso 460",
+  "next": "III.4, verso 465",
   "editorial_note": "III.2 editado hasta 448; segunda pasada consecutiva permanece en 159; anomalías de numeración II.1 pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
