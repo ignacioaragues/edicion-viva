@@ -165,6 +165,13 @@
   add('royal','royal','adjetivo masculino singular','real');
   add('droit','droit','sustantivo masculino singular','derecho');
   add('égal','égal','adjetivo masculino singular; sustantivado en d’égal','igual');
+  add('attendre','attendre','infinitivo presente','esperar');
+  add('au','à + le','contracción de preposición y artículo definido masculino','al');
+  add('sa','son','determinante posesivo femenino singular','su');
+  add('son','son','determinante posesivo masculino singular','su');
+  add('d’estime','de + estime','preposición elidida + sustantivo femenino singular','de estima');
+  add('m’oblige','me + obliger','pronombre objeto 1.ª singular + indicativo presente, 3.ª singular','me obliga');
+  add('car','car','conjunción causal','pues / porque');
   // Contracciones con apóstrofo: análisis explícito sin perder la forma impresa.
   add('qu’on','que + on','conjunción que + pronombre indefinido on','que se / que alguien');
   add('qu’ils','que + ils','conjunción que + pronombre personal plural','que ellos');
