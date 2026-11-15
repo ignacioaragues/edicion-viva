@@ -754,6 +754,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia III.5, https://www.thelatinlibrary.com/plautus/aulularia.shtml; base Friedrich Leo 1895",
       "note": "Ten lines with original Spanish translation and per-token morphology and glosses; contextual note on payment and argentarius. Word count alignment checked, browser QA not performed."
+    },
+    {
+      "section": "III.5–III.6",
+      "from": 531,
+      "to": 540,
+      "verses": 10,
+      "status": "edited_not_revised",
+      "source": "Plautus Aulularia, The Latin Library III.5–III.6; base Leo 1895",
+      "note": "Translation, contextual glossary and word-by-word morphology; editorial note on marriage and dowry. No browser QA."
     }
   ],
   "pending": [
@@ -764,8 +773,8 @@
   ],
   "updated": "2026-11-15",
   "next": {
-    "section": "III.5",
-    "verse": 531
+    "section": "III.6",
+    "verse": 541
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
