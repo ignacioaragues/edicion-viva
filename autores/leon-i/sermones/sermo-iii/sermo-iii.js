@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón III",
-  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I íntegro y comienzo del cap. II (cols. 144C–145C)",
+  "source": "Ballerini–Migne, PL 54, Sermo III, cap. I íntegro y cap. II hasta 'instituit' (cols. 144C–146A)",
   "status": "partial_first_pass",
-  "next": "Continue Sermo III cap. II within same sentence: habentes tamen incessabilem propitiationem omnipotentis et perpetui Sacerdotis...",
+  "next": "Continue Sermo III cap. II from 'Cum enim, sicut evangelica lectione reseratum est'",
   "paragraphs": [
     {
       "id": "s3-1",
@@ -92,6 +92,26 @@ window.LEO_SERMO_I = {
       "note": [
         "La concesión inicial",
         "Quamvis introduce una concesión que solo se resolverá con tamen en la continuación: León reconoce la fragilidad de los ministros, sin negar la legitimidad de su servicio. Servitutem denomina expresamente el oficio como obligación de servir. El período queda abierto en este corte editorial y debe leerse con su continuación."
+      ]
+    },
+    {
+      "id": "s3-10",
+      "label": "10 · II",
+      "latin": "Habentes tamen incessabilem propitiationem omnipotentis et perpetui Sacerdotis, qui similis nostri, aequalis Patri, divinitatem usque ad humana submisit, humanitatem usque ad divina provexit, digne et pie de ipsius constitutione gaudemus: quoniam etsi multis pastoribus curam suarum ovium delegavit, ipse tamen dilecti gregis custodiam non reliquit.",
+      "spanish": "Sin embargo, puesto que contamos con la intercesión incesante del Sacerdote omnipotente y eterno, que, semejante a nosotros e igual al Padre, hizo descender la divinidad hasta lo humano y elevó la humanidad hasta lo divino, nos alegramos digna y piadosamente por lo que él ha establecido: porque, aunque haya confiado a muchos pastores el cuidado de sus ovejas, él mismo no ha abandonado la custodia del rebaño amado.",
+      "note": [
+        "El pastor que no abandona",
+        "Habentes tamen responde a quamvis del segmento anterior. La doble inversión divinitatem ... ad humana / humanitatem ... ad divina articula la mediación de Cristo; etsi ... delegavit / ipse tamen ... non reliquit distingue la delegación del cuidado pastoral de la custodia permanente del pastor supremo."
+      ]
+    },
+    {
+      "id": "s3-11",
+      "label": "11 · II",
+      "latin": "De cujus principali aeternoque praesidio, etiam apostolicae opis munimen accepimus, quod utique ab opere suo non vacat: et firmitas fundamenti, cui totius Ecclesiae superstruitur altitudo, nulla incumbentis sibi templi mole lacessit. Soliditas enim illius fidei, quae in apostolorum principe est laudata, perpetua est; et sicut permanet quod in Christo Petrus credidit, ita permanet quod in Petro Christus instituit.",
+      "spanish": "De su protección soberana y eterna hemos recibido también la defensa del auxilio apostólico, que ciertamente no cesa en su actividad; y la firmeza del fundamento sobre el que se levanta la altura de toda la Iglesia no se debilita bajo el peso del templo que descansa sobre él. Pues la solidez de aquella fe, alabada en el príncipe de los apóstoles, es perpetua; y así como permanece lo que Pedro creyó acerca de Cristo, permanece también lo que Cristo instituyó en Pedro.",
+      "note": [
+        "El peso no agota el fundamento",
+        "El edificio eclesial es descrito mediante fundamentum, altitudo y moles. La correspondencia sicut ... ita entre lo que Pedro creyó y lo que Cristo instituyó convierte la confesión de fe en fundamento de continuidad institucional. La lección lacessit lleva la advertencia editorial F. leg. lassescit en PL 54: la traducción interpreta el sentido contextual de debilitamiento sin resolver la variante."
       ]
     }
   ],
@@ -229,7 +249,7 @@ window.LEO_SERMO_I = {
     "enim": [
       "enim",
       "conjunción explicativa pospositiva",
-      "en efecto"
+      "pues"
     ],
     "observantiam": [
       "observantia",
@@ -628,8 +648,8 @@ window.LEO_SERMO_I = {
     ],
     "cujus": [
       "qui",
-      "relativo genitivo masculino singular",
-      "cuyo"
+      "pronombre relativo genitivo masculino singular",
+      "de quien; de cuyo"
     ],
     "sacerdotium": [
       "sacerdotium",
@@ -842,9 +862,9 @@ window.LEO_SERMO_I = {
       "ni"
     ],
     "quod": [
-      "qui, quae, quod",
-      "pronombre relativo neutro singular acusativo",
-      "lo que"
+      "qui",
+      "pronombre relativo nominativo neutro singular, referido a munimen",
+      "que"
     ],
     "caro": [
       "caro",
@@ -1110,6 +1130,376 @@ window.LEO_SERMO_I = {
       "noster",
       "adjetivo posesivo genitivo neutro singular con officii",
       "de nuestro"
+    ],
+    "habentes": [
+      "habeo",
+      "participio presente activo nominativo masculino plural, concordante con nos",
+      "teniendo; contando con"
+    ],
+    "incessabilem": [
+      "incessabilis",
+      "adjetivo acusativo femenino singular con propitiationem",
+      "incesante"
+    ],
+    "propitiationem": [
+      "propitiatio",
+      "sustantivo acusativo femenino singular",
+      "intercesión propiciatoria"
+    ],
+    "omnipotentis": [
+      "omnipotens",
+      "adjetivo genitivo masculino singular con Sacerdotis",
+      "omnipotente"
+    ],
+    "perpetui": [
+      "perpetuus",
+      "adjetivo genitivo masculino singular con Sacerdotis",
+      "perpetuo; eterno"
+    ],
+    "Sacerdotis": [
+      "sacerdos",
+      "sustantivo genitivo masculino singular",
+      "del sacerdote"
+    ],
+    "similis": [
+      "similis",
+      "adjetivo nominativo masculino singular",
+      "semejante"
+    ],
+    "aequalis": [
+      "aequalis",
+      "adjetivo nominativo masculino singular",
+      "igual"
+    ],
+    "Patri": [
+      "pater",
+      "sustantivo dativo masculino singular",
+      "al Padre"
+    ],
+    "divinitatem": [
+      "divinitas",
+      "sustantivo acusativo femenino singular",
+      "la divinidad"
+    ],
+    "usque": [
+      "usque",
+      "adverbio, con ad: límite de extensión",
+      "hasta"
+    ],
+    "humana": [
+      "humanus",
+      "adjetivo sustantivado acusativo neutro plural tras ad",
+      "lo humano"
+    ],
+    "submisit": [
+      "submitto",
+      "indicativo perfecto activo tercera persona singular",
+      "hizo descender"
+    ],
+    "humanitatem": [
+      "humanitas",
+      "sustantivo acusativo femenino singular",
+      "la humanidad"
+    ],
+    "divina": [
+      "divinus",
+      "adjetivo sustantivado acusativo neutro plural tras ad",
+      "lo divino"
+    ],
+    "provexit": [
+      "proveho",
+      "indicativo perfecto activo tercera persona singular",
+      "elevó"
+    ],
+    "digne": [
+      "digne",
+      "adverbio",
+      "dignamente"
+    ],
+    "pie": [
+      "pie",
+      "adverbio",
+      "piadosamente"
+    ],
+    "constitutione": [
+      "constitutio",
+      "sustantivo ablativo femenino singular, con de",
+      "disposición; institución"
+    ],
+    "gaudemus": [
+      "gaudeo",
+      "indicativo presente activo primera persona plural",
+      "nos alegramos"
+    ],
+    "quoniam": [
+      "quoniam",
+      "conjunción causal",
+      "porque"
+    ],
+    "etsi": [
+      "etsi",
+      "conjunción concesiva",
+      "aunque"
+    ],
+    "multis": [
+      "multus",
+      "adjetivo dativo masculino plural con pastoribus",
+      "a muchos"
+    ],
+    "pastoribus": [
+      "pastor",
+      "sustantivo dativo masculino plural",
+      "a los pastores"
+    ],
+    "curam": [
+      "cura",
+      "sustantivo acusativo femenino singular",
+      "el cuidado"
+    ],
+    "suarum": [
+      "suus",
+      "adjetivo posesivo genitivo femenino plural con ovium",
+      "de sus"
+    ],
+    "ovium": [
+      "ovis",
+      "sustantivo genitivo femenino plural",
+      "de las ovejas"
+    ],
+    "delegavit": [
+      "delego",
+      "indicativo perfecto activo tercera persona singular",
+      "encomendó; delegó"
+    ],
+    "dilecti": [
+      "dilectus",
+      "participio adjetival genitivo masculino singular con gregis",
+      "amado"
+    ],
+    "gregis": [
+      "grex",
+      "sustantivo genitivo masculino singular",
+      "del rebaño"
+    ],
+    "custodiam": [
+      "custodia",
+      "sustantivo acusativo femenino singular",
+      "custodia"
+    ],
+    "reliquit": [
+      "relinquo",
+      "indicativo perfecto activo tercera persona singular",
+      "abandonó"
+    ],
+    "principali": [
+      "principalis",
+      "adjetivo ablativo neutro singular con praesidio",
+      "principal; soberano"
+    ],
+    "aeternoque": [
+      "aeternus + -que",
+      "adjetivo ablativo neutro singular y enclítica copulativa",
+      "y eterno"
+    ],
+    "praesidio": [
+      "praesidium",
+      "sustantivo ablativo neutro singular con de",
+      "protección; amparo"
+    ],
+    "apostolicae": [
+      "apostolicus",
+      "adjetivo genitivo femenino singular con opis",
+      "apostólico"
+    ],
+    "opis": [
+      "ops",
+      "sustantivo genitivo femenino singular",
+      "de ayuda; de auxilio"
+    ],
+    "munimen": [
+      "munimen",
+      "sustantivo acusativo neutro singular",
+      "defensa; protección"
+    ],
+    "accepimus": [
+      "accipio",
+      "indicativo perfecto activo primera persona plural",
+      "hemos recibido"
+    ],
+    "utique": [
+      "utique",
+      "adverbio afirmativo",
+      "ciertamente"
+    ],
+    "ab": [
+      "ab",
+      "preposición con ablativo",
+      "de; desde"
+    ],
+    "opere": [
+      "opus",
+      "sustantivo ablativo neutro singular",
+      "actividad; obra"
+    ],
+    "suo": [
+      "suus",
+      "adjetivo posesivo ablativo neutro singular con opere",
+      "su"
+    ],
+    "vacat": [
+      "vaco",
+      "indicativo presente activo tercera persona singular",
+      "cesa; está libre"
+    ],
+    "firmitas": [
+      "firmitas",
+      "sustantivo nominativo femenino singular",
+      "firmeza"
+    ],
+    "fundamenti": [
+      "fundamentum",
+      "sustantivo genitivo neutro singular",
+      "del fundamento"
+    ],
+    "cui": [
+      "qui",
+      "pronombre relativo dativo neutro singular",
+      "sobre el cual"
+    ],
+    "totius": [
+      "totus",
+      "adjetivo genitivo femenino singular con Ecclesiae",
+      "de toda"
+    ],
+    "Ecclesiae": [
+      "ecclesia",
+      "sustantivo genitivo femenino singular",
+      "de la Iglesia"
+    ],
+    "superstruitur": [
+      "superstruo",
+      "indicativo presente pasivo tercera persona singular",
+      "se construye encima"
+    ],
+    "altitudo": [
+      "altitudo",
+      "sustantivo nominativo femenino singular",
+      "altura"
+    ],
+    "nulla": [
+      "nullus",
+      "adjetivo ablativo femenino singular con mole",
+      "por ninguna"
+    ],
+    "incumbentis": [
+      "incumbo",
+      "participio presente activo genitivo neutro singular con templi",
+      "que descansa encima"
+    ],
+    "sibi": [
+      "sui",
+      "pronombre reflexivo dativo singular",
+      "sobre sí"
+    ],
+    "templi": [
+      "templum",
+      "sustantivo genitivo neutro singular",
+      "del templo"
+    ],
+    "mole": [
+      "moles",
+      "sustantivo ablativo femenino singular",
+      "peso; masa"
+    ],
+    "lacessit": [
+      "lacesso",
+      "indicativo presente activo tercera persona singular; lectura de PL 54, con conjetura lassescit",
+      "hostiga; aquí: debilita (lectura discutida)"
+    ],
+    "Soliditas": [
+      "soliditas",
+      "sustantivo nominativo femenino singular",
+      "solidez"
+    ],
+    "illius": [
+      "ille",
+      "pronombre demostrativo genitivo femenino singular",
+      "de aquella"
+    ],
+    "fidei": [
+      "fides",
+      "sustantivo genitivo femenino singular",
+      "de la fe"
+    ],
+    "quae": [
+      "qui",
+      "pronombre relativo nominativo femenino singular",
+      "que"
+    ],
+    "apostolorum": [
+      "apostolus",
+      "sustantivo genitivo masculino plural",
+      "de los apóstoles"
+    ],
+    "principe": [
+      "princeps",
+      "sustantivo ablativo masculino singular con in",
+      "en el príncipe"
+    ],
+    "laudata": [
+      "laudo",
+      "participio perfecto pasivo nominativo femenino singular",
+      "alabada"
+    ],
+    "perpetua": [
+      "perpetuus",
+      "adjetivo nominativo femenino singular",
+      "perpetua"
+    ],
+    "sicut": [
+      "sicut",
+      "conjunción comparativa",
+      "así como"
+    ],
+    "permanet": [
+      "permaneo",
+      "indicativo presente activo tercera persona singular",
+      "permanece"
+    ],
+    "Christo": [
+      "Christus",
+      "sustantivo ablativo masculino singular con in",
+      "en Cristo; acerca de Cristo"
+    ],
+    "Petrus": [
+      "Petrus",
+      "nombre propio nominativo masculino singular",
+      "Pedro"
+    ],
+    "credidit": [
+      "credo",
+      "indicativo perfecto activo tercera persona singular",
+      "creyó"
+    ],
+    "ita": [
+      "ita",
+      "adverbio correlativo con sicut",
+      "así"
+    ],
+    "Petro": [
+      "Petrus",
+      "nombre propio ablativo masculino singular con in",
+      "en Pedro"
+    ],
+    "Christus": [
+      "Christus",
+      "nombre propio nominativo masculino singular",
+      "Cristo"
+    ],
+    "instituit": [
+      "instituo",
+      "indicativo perfecto activo tercera persona singular",
+      "instituyó"
     ]
   }
 };
