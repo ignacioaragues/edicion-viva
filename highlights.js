@@ -11,7 +11,8 @@
     'plauto-aulularia': '/edicion-viva/autores/plauto/aulularia/',
     'evangelios-marcos': '/edicion-viva/autores/evangelios/marcos/',
     'shakespeare-coriolanus': '/shakespeare-edicion-viva/',
-    'corneille-attila': '/edicion-viva/autores/corneille/attila/'
+    'corneille-attila': '/edicion-viva/autores/corneille/attila/',
+    'leo-i-sermo-1': '/edicion-viva/autores/leon-i/sermones/sermo-i/'
   };
   const isReader = !!workId;
   const read = () => {
