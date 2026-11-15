@@ -5,7 +5,8 @@
   "base_edition": "Ballerini–Migne, Patrologia Latina 54 (traditional numbering)",
   "additional_sources": [
     "https://la.wikisource.org/wiki/Sermones_-_Migne",
-    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_I"
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_I",
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_II"
   ],
   "scope": {
     "sermons_traditional": 96,
@@ -24,15 +25,27 @@
       "voice_notes": 12,
       "complete_work": true,
       "editorial_caveat": "Final Per Christum clausula supported by manuscripts ending here (Ballerini–Migne note 9); further critical review remains."
+    },
+    {
+      "group": "sermones",
+      "number": 2,
+      "section": "Caput I complete, PL 54 143A–143B; Caput II not yet published",
+      "paragraphs": 6,
+      "latin_tokens": 171,
+      "lexical_coverage": "171/171 occurrences; 135 surface forms with contextual first-pass cards",
+      "translation": "Caput I complete, original Spanish first pass",
+      "voice_notes": 6,
+      "complete_work": false,
+      "editorial_caveat": "Ballerini–Migne apparatus: provexit emendation against provehit; oneris / honoris; principium / principatum. First-pass text pending later critical review."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 2,
-    "beginning": "Honorabilem mihi, dilectissimi, hodiernum diem fecit divina dignatio",
-    "location": "PL 54, sermon II"
+    "beginning": "Magnificate ergo, dilectissimi, Dominum mecum",
+    "location": "PL 54, col. 143B–144B, Caput II; finish Sermo II including Amen"
   },
-  "priority": "Sermo I first-pass edition complete; begin Sermo II, finish one work per run when verified; later audit Sermo I against critical editions.",
+  "priority": "Complete Sermo II chapter II and closing Amen before starting Sermo III; maintain first-pass critical checks.",
   "last_edit": "2026-11-15",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
