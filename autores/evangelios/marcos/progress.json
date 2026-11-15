@@ -969,12 +969,25 @@
       ],
       "morphology": "23/23 positional; order and glosses checked; full contextual audit pending",
       "second_review": "pending"
+    },
+    {
+      "chapter": 5,
+      "from": 5,
+      "to": 5,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "19/19 positional; revisión semántica integral pendiente",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/5-5.html",
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+        "https://greeknewtestament.net/mk5-5"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,5; revisión filológica retroactiva pendiente.",
+  "pending": "Continuar desde Marcos 5,6; revisión filológica retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 5
+    "verse": 6
   },
   "last_edit": "2026-11-15",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2206,5 +2219,22 @@
     ],
     "morphology_audit": "23/23 tokens en orden, lemas POS parsing y glosas; segunda revisión semántica pendiente",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_5_5": {
+    "date": "2026-11-15",
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "19/19 posicional; lema POS parsing glosa; segunda revisión pendiente",
+    "second_passage_review": "pending",
+    "observations": [
+      "διὰ παντός: iteración; ἦν con dos participios presentes, imperfecto perifrástico",
+      "κατακόπτω: golpearse/herirse; no precisar lesiones",
+      "Variante de orden sepulcros/colinas"
+    ],
+    "sources": [
+      "https://www.biblestudytools.com/sblg/mark/5-5.html",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+      "https://greeknewtestament.net/mk5-5",
+      "https://biblia.com/bible/vulgataclem/mark/5/3-5"
+    ]
   }
 }
