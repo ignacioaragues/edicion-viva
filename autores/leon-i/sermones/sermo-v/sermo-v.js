@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón V",
-  "source": "Ballerini–Migne, PL 54, Sermo V, capita I–II (caput II partial), col. 153A–D",
+  "source": "Ballerini–Migne, PL 54, Sermo V, capita I–II, col. 153A–154B",
   "status": "partial",
-  "next": "Caput II: In hac ergo materia trepidationis",
+  "next": "Caput III: Adest igitur, dilectissimi, quod non temere, sed fideliter confitemur",
   "paragraphs": [
     {
       "id": "s5-1",
@@ -82,6 +82,26 @@ window.LEO_SERMO_I = {
       "note": [
         "Universalidad de la cura",
         "Quamvis ... tamen contrapone responsabilidades locales y universales; cura communis y oneris describen el primado como deber de rendir cuentas."
+      ]
+    },
+    {
+      "id": "s5-9",
+      "label": "9",
+      "latin": "In hac ergo materia trepidationis, quae nobis esset dependendae fiducia servitutis, nisi non dormitaret, neque obdormiret qui custodit Israel, et qui discipulis suis ait: Ecce ego vobiscum sum omnibus diebus usque ad consummationem saeculi: nisi dignaretur non solum custos ovium, sed ipsorum etiam pastor esse pastorum; qui corporeo quidem intuitu non videtur, sed spiritali corde sentitur; absens carne, qua potuit esse conspicuus; praesens deitate, qua ubique semper est totus.",
+      "spanish": "En esta situación que provoca temor, ¿qué confianza podríamos tener para cumplir nuestro servicio si no permaneciera despierto, sin dormirse, quien guarda a Israel y dijo a sus discípulos: «Yo estoy con ustedes todos los días hasta la consumación del mundo»? ¿Y si no se dignara ser no solo guardián de las ovejas, sino también pastor de los propios pastores? No se lo ve con los ojos del cuerpo, pero se lo percibe con el corazón espiritual; ausente en la carne, con la que pudo hacerse visible; presente en la divinidad, por la que está siempre entero en todas partes.",
+      "note": [
+        "Pastor de los pastores",
+        "La pregunta dependendae fiducia servitutis expresa inseguridad frente al cargo; la antítesis absens carne / praesens deitate fundamenta la continuidad del gobierno pastoral."
+      ]
+    },
+    {
+      "id": "s5-10",
+      "label": "10",
+      "latin": "Quia enim justus ex fide vivit, et haec est justitia credentis, ut recipiat animo quod non cernit aspectu; ascendens Dominus in altum captivam duxit captivitatem, dedit dona hominibus, fidem scilicet, et spem, et charitatem quae inde magna sunt, inde fortia, inde pretiosa, quia quod carnis oculis non attingitur, id miro mentis affectu et creditur, et speratur, et amatur.",
+      "spanish": "Pues el justo vive de la fe, y esta es la justicia del creyente: acoger en el ánimo lo que no percibe con la vista. Al ascender a lo alto, el Señor llevó cautiva a la cautividad y dio dones a los hombres: la fe, la esperanza y la caridad, que por eso son grandes, fuertes y preciosas, porque aquello que los ojos de la carne no alcanzan es creído, esperado y amado con una admirable disposición del espíritu.",
+      "note": [
+        "Cadencia ternaria",
+        "Fidem, spem, charitatem culmina en creditur, speratur, amatur: la repetición da forma verbal a la vida interior de la comunidad."
       ]
     }
   ],
@@ -1170,6 +1190,441 @@ window.LEO_SERMO_I = {
       "magnus",
       "acusativo neutro plural comparativo",
       "cosas mayores"
+    ],
+    "In": [
+      "in",
+      "preposición con ablativo",
+      "en"
+    ],
+    "hac": [
+      "hic",
+      "ablativo femenino singular",
+      "esta"
+    ],
+    "ergo": [
+      "ergo",
+      "conjunción ilativa",
+      "por tanto"
+    ],
+    "materia": [
+      "materia",
+      "ablativo femenino singular",
+      "situación"
+    ],
+    "trepidationis": [
+      "trepidatio",
+      "genitivo femenino singular",
+      "del temor"
+    ],
+    "quae": [
+      "qui",
+      "relativo nominativo femenino singular",
+      "la cual"
+    ],
+    "esset": [
+      "sum",
+      "imperfecto subjuntivo 3.ª singular",
+      "habría"
+    ],
+    "dependendae": [
+      "dependeo",
+      "gerundivo genitivo femenino singular",
+      "que debe cumplirse"
+    ],
+    "fiducia": [
+      "fiducia",
+      "nominativo femenino singular",
+      "confianza"
+    ],
+    "servitutis": [
+      "servitus",
+      "genitivo femenino singular",
+      "del servicio"
+    ],
+    "nisi": [
+      "nisi",
+      "conjunción condicional",
+      "si no"
+    ],
+    "dormitaret": [
+      "dormito",
+      "imperfecto subjuntivo 3.ª singular",
+      "velara"
+    ],
+    "obdormiret": [
+      "obdormio",
+      "imperfecto subjuntivo 3.ª singular",
+      "se durmiera"
+    ],
+    "custodit": [
+      "custodio",
+      "presente indicativo 3.ª singular",
+      "guarda"
+    ],
+    "Israel": [
+      "Israel",
+      "nombre propio indeclinable",
+      "Israel"
+    ],
+    "discipulis": [
+      "discipulus",
+      "dativo masculino plural",
+      "a los discípulos"
+    ],
+    "ait": [
+      "aio",
+      "presente indicativo 3.ª singular",
+      "dice"
+    ],
+    "Ecce": [
+      "ecce",
+      "partícula demostrativa",
+      "he aquí"
+    ],
+    "ego": [
+      "ego",
+      "nominativo singular",
+      "yo"
+    ],
+    "vobiscum": [
+      "vos cum",
+      "pronombre ablativo plural con preposición",
+      "con ustedes"
+    ],
+    "sum": [
+      "sum",
+      "presente indicativo 1.ª singular",
+      "estoy"
+    ],
+    "diebus": [
+      "dies",
+      "ablativo masculino plural",
+      "días"
+    ],
+    "usque": [
+      "usque",
+      "adverbio",
+      "hasta"
+    ],
+    "consummationem": [
+      "consummatio",
+      "acusativo femenino singular",
+      "consumación"
+    ],
+    "saeculi": [
+      "saeculum",
+      "genitivo neutro singular",
+      "del mundo"
+    ],
+    "dignaretur": [
+      "dignor",
+      "imperfecto subjuntivo deponente 3.ª singular",
+      "se dignara"
+    ],
+    "solum": [
+      "solum",
+      "adverbio",
+      "solamente"
+    ],
+    "custos": [
+      "custos",
+      "nominativo masculino singular",
+      "guardián"
+    ],
+    "ovium": [
+      "ovis",
+      "genitivo femenino plural",
+      "de las ovejas"
+    ],
+    "ipsorum": [
+      "ipse",
+      "genitivo masculino plural",
+      "de los propios"
+    ],
+    "pastor": [
+      "pastor",
+      "nominativo masculino singular",
+      "pastor"
+    ],
+    "pastorum": [
+      "pastor",
+      "genitivo masculino plural",
+      "de los pastores"
+    ],
+    "corporeo": [
+      "corporeus",
+      "ablativo masculino singular",
+      "corporal"
+    ],
+    "quidem": [
+      "quidem",
+      "partícula enfática",
+      "ciertamente"
+    ],
+    "intuitu": [
+      "intuitus",
+      "ablativo masculino singular",
+      "mirada"
+    ],
+    "videtur": [
+      "video",
+      "presente indicativo pasivo 3.ª singular",
+      "es visto"
+    ],
+    "spiritali": [
+      "spiritalis",
+      "ablativo neutro singular",
+      "espiritual"
+    ],
+    "corde": [
+      "cor",
+      "ablativo neutro singular",
+      "corazón"
+    ],
+    "sentitur": [
+      "sentio",
+      "presente indicativo pasivo 3.ª singular",
+      "es percibido"
+    ],
+    "absens": [
+      "absum",
+      "participio presente nominativo masculino singular",
+      "ausente"
+    ],
+    "qua": [
+      "qui",
+      "ablativo femenino singular",
+      "por la cual"
+    ],
+    "potuit": [
+      "possum",
+      "perfecto indicativo 3.ª singular",
+      "pudo"
+    ],
+    "conspicuus": [
+      "conspicuus",
+      "nominativo masculino singular",
+      "visible"
+    ],
+    "praesens": [
+      "praesum",
+      "participio presente nominativo masculino singular",
+      "presente"
+    ],
+    "deitate": [
+      "deitas",
+      "ablativo femenino singular",
+      "divinidad"
+    ],
+    "ubique": [
+      "ubique",
+      "adverbio",
+      "en todas partes"
+    ],
+    "semper": [
+      "semper",
+      "adverbio",
+      "siempre"
+    ],
+    "totus": [
+      "totus",
+      "nominativo masculino singular",
+      "entero"
+    ],
+    "Quia": [
+      "quia",
+      "conjunción causal",
+      "porque"
+    ],
+    "justus": [
+      "iustus",
+      "nominativo masculino singular",
+      "justo"
+    ],
+    "fide": [
+      "fides",
+      "ablativo femenino singular",
+      "fe"
+    ],
+    "vivit": [
+      "vivo",
+      "presente indicativo 3.ª singular",
+      "vive"
+    ],
+    "haec": [
+      "hic",
+      "nominativo femenino singular",
+      "esta"
+    ],
+    "justitia": [
+      "iustitia",
+      "nominativo femenino singular",
+      "justicia"
+    ],
+    "credentis": [
+      "credo",
+      "participio presente genitivo masculino singular",
+      "del creyente"
+    ],
+    "recipiat": [
+      "recipio",
+      "presente subjuntivo 3.ª singular",
+      "acoja"
+    ],
+    "animo": [
+      "animus",
+      "ablativo masculino singular",
+      "ánimo"
+    ],
+    "quod": [
+      "qui",
+      "nominativo neutro singular relativo",
+      "lo cual"
+    ],
+    "cernit": [
+      "cerno",
+      "presente indicativo 3.ª singular",
+      "percibe"
+    ],
+    "aspectu": [
+      "aspectus",
+      "ablativo masculino singular",
+      "vista"
+    ],
+    "ascendens": [
+      "ascendo",
+      "participio presente nominativo masculino singular",
+      "ascendiendo"
+    ],
+    "Dominus": [
+      "Dominus",
+      "nominativo masculino singular",
+      "Señor"
+    ],
+    "altum": [
+      "altum",
+      "acusativo neutro singular",
+      "lo alto"
+    ],
+    "captivam": [
+      "captivus",
+      "acusativo femenino singular",
+      "cautiva"
+    ],
+    "duxit": [
+      "duco",
+      "perfecto indicativo 3.ª singular",
+      "llevó"
+    ],
+    "captivitatem": [
+      "captivitas",
+      "acusativo femenino singular",
+      "cautividad"
+    ],
+    "dedit": [
+      "do",
+      "perfecto indicativo 3.ª singular",
+      "dio"
+    ],
+    "dona": [
+      "donum",
+      "acusativo neutro plural",
+      "dones"
+    ],
+    "hominibus": [
+      "homo",
+      "dativo masculino plural",
+      "a los hombres"
+    ],
+    "fidem": [
+      "fides",
+      "acusativo femenino singular",
+      "fe"
+    ],
+    "scilicet": [
+      "scilicet",
+      "adverbio explicativo",
+      "a saber"
+    ],
+    "spem": [
+      "spes",
+      "acusativo femenino singular",
+      "esperanza"
+    ],
+    "charitatem": [
+      "caritas",
+      "acusativo femenino singular",
+      "caridad"
+    ],
+    "inde": [
+      "inde",
+      "adverbio",
+      "por eso"
+    ],
+    "magna": [
+      "magnus",
+      "nominativo neutro plural",
+      "grandes"
+    ],
+    "fortia": [
+      "fortis",
+      "nominativo neutro plural",
+      "fuertes"
+    ],
+    "pretiosa": [
+      "pretiosus",
+      "nominativo neutro plural",
+      "preciosas"
+    ],
+    "carnis": [
+      "caro",
+      "genitivo femenino singular",
+      "de la carne"
+    ],
+    "oculis": [
+      "oculus",
+      "dativo masculino plural",
+      "ojos"
+    ],
+    "attingitur": [
+      "attingo",
+      "presente indicativo pasivo 3.ª singular",
+      "es alcanzado"
+    ],
+    "id": [
+      "is",
+      "nominativo neutro singular",
+      "eso"
+    ],
+    "miro": [
+      "mirus",
+      "ablativo masculino singular",
+      "admirable"
+    ],
+    "mentis": [
+      "mens",
+      "genitivo femenino singular",
+      "de la mente"
+    ],
+    "affectu": [
+      "affectus",
+      "ablativo masculino singular",
+      "disposición"
+    ],
+    "creditur": [
+      "credo",
+      "presente indicativo pasivo 3.ª singular",
+      "es creído"
+    ],
+    "speratur": [
+      "spero",
+      "presente indicativo pasivo 3.ª singular",
+      "es esperado"
+    ],
+    "amatur": [
+      "amo",
+      "presente indicativo pasivo 3.ª singular",
+      "es amado"
     ]
   }
 };
