@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, caput I, col. 148–149; cotejo con aparato",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–149",
   "status": "partial",
-  "next": "Caput II: Cum itaque, dilectissimi, de consortio istius muneris",
+  "next": "Caput II: cum multo utilius multoque sit dignius",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -82,6 +82,16 @@ window.LEO_SERMO_I = {
       "note": [
         "La unción descendente",
         "Copiosius ... in superiora / non parce ... in inferiora articula la jerarquía sin excluir a los demás miembros. El Vaticano más antiguo omite, según el aparato, el tramo final del capítulo desde ut unum."
+      ]
+    },
+    {
+      "id": "s4-9",
+      "label": "9",
+      "latin": "Cum itaque, dilectissimi, de consortio istius muneris magna sit nobis materia communium gaudiorum, verior tamen nobis et excellentior erit causa laetandi, si non in nostrae humilitatis consideratione remoremini;",
+      "spanish": "Así pues, queridísimos, aunque la participación en este don nos ofrece abundante motivo de alegría común, tendremos una razón más verdadera y elevada para alegrarnos si no os detenéis en la consideración de nuestra humilde persona.",
+      "note": [
+        "La alegría como argumento",
+        "Magna ... verior tamen ... excellentior desplaza el foco de la celebración desde el obispo hacia una causa superior. La condición si non ... remoremini pide al auditorio que no se detenga en la humilitas del hablante."
       ]
     }
   ],
@@ -1100,6 +1110,91 @@ window.LEO_SERMO_I = {
       "descendo",
       "perfecto indicativo activo tercera singular",
       "descendió"
+    ],
+    "itaque": [
+      "itaque",
+      "conector ilativo",
+      "así pues"
+    ],
+    "consortio": [
+      "consortium",
+      "ablativo neutro singular",
+      "participación"
+    ],
+    "istius": [
+      "iste",
+      "genitivo neutro singular",
+      "de este"
+    ],
+    "muneris": [
+      "munus",
+      "genitivo neutro singular",
+      "don"
+    ],
+    "magna": [
+      "magnus",
+      "nominativo femenino singular",
+      "grande"
+    ],
+    "materia": [
+      "materia",
+      "nominativo femenino singular",
+      "motivo"
+    ],
+    "communium": [
+      "communis",
+      "genitivo neutro plural",
+      "comunes"
+    ],
+    "gaudiorum": [
+      "gaudium",
+      "genitivo neutro plural",
+      "alegrías"
+    ],
+    "verior": [
+      "verus",
+      "comparativo nominativo femenino singular",
+      "más verdadera"
+    ],
+    "excellentior": [
+      "excellens",
+      "comparativo nominativo femenino singular",
+      "más elevada"
+    ],
+    "erit": [
+      "sum",
+      "futuro indicativo tercera singular",
+      "será"
+    ],
+    "causa": [
+      "causa",
+      "nominativo femenino singular",
+      "razón"
+    ],
+    "laetandi": [
+      "laetor",
+      "gerundio genitivo",
+      "de alegrarse"
+    ],
+    "si": [
+      "si",
+      "conjunción condicional",
+      "si"
+    ],
+    "humilitatis": [
+      "humilitas",
+      "genitivo femenino singular",
+      "humildad"
+    ],
+    "consideratione": [
+      "consideratio",
+      "ablativo femenino singular",
+      "consideración"
+    ],
+    "remoremini": [
+      "remoror",
+      "presente subjuntivo deponente segunda plural",
+      "os detengáis"
     ]
   }
 };
