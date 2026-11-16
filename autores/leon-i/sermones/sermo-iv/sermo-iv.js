@@ -2,7 +2,7 @@ window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
   "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–150B",
   "status": "partial",
-  "next": "Caput II: Qui cum dixisset: Tu es Christus Filius Dei vivi",
+  "next": "Caput II: Et ego, inquit, dico tibi",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -152,6 +152,26 @@ window.LEO_SERMO_I = {
       "note": [
         "Primacía y paralelismo",
         "Primus ... primus vincula el orden de la confesión con la precedencia apostólica. El aparato registra erat en Quesnel frente al est adoptado."
+      ]
+    },
+    {
+      "id": "s4-16",
+      "label": "16",
+      "latin": "Qui cum dixisset: Tu es Christus Filius Dei vivi, respondit ei Jesus: Beatus es Simon Bar-Jona, quia caro et sanguis non revelavit tibi, sed Pater meus qui in coelis est.",
+      "spanish": "Cuando dijo: «Tú eres el Cristo, el Hijo del Dios vivo», Jesús le respondió: «Bienaventurado eres, Simón Bar-Joná, porque no te lo revelaron la carne ni la sangre, sino mi Padre que está en los cielos».",
+      "note": [
+        "Confesión y respuesta",
+        "Mateo 16,16–17: la confesión recibe como respuesta una bienaventuranza; caro et sanguis se contraponen a la revelación del Padre."
+      ]
+    },
+    {
+      "id": "s4-17",
+      "label": "17",
+      "latin": "id est, ideo beatus es, quia te Pater meus docuit, nec terrena opinio te fefellit, sed inspiratio coelestis instruxit: et non caro nec sanguis, sed ille me tibi, cujus sum unigenitus Filius, indicavit.",
+      "spanish": "Es decir: eres bienaventurado porque mi Padre te enseñó; no te engañó una opinión terrena, sino que te instruyó una inspiración celestial. No fueron la carne ni la sangre, sino aquel de quien soy Hijo unigénito, quien me dio a conocer a ti.",
+      "note": [
+        "Interpretación de la respuesta",
+        "Id est introduce una explicación puesta por León en boca de Cristo. Nec ... sed contrapone opinión terrena e inspiración celestial. El aparato (nota 15) registra quia Pater meus te docuit y te instruxit."
       ]
     }
   ],
@@ -1925,6 +1945,181 @@ window.LEO_SERMO_I = {
       "dignitas",
       "ablativo femenino singular",
       "en dignidad"
+    ],
+    "Qui": [
+      "qui",
+      "nominativo masculino singular relativo",
+      "quien"
+    ],
+    "dixisset": [
+      "dico",
+      "pluscuamperfecto subjuntivo activo 3.ª singular",
+      "hubiera dicho"
+    ],
+    "Tu": [
+      "tu",
+      "nominativo singular",
+      "tú"
+    ],
+    "es": [
+      "sum",
+      "presente indicativo 2.ª singular",
+      "eres"
+    ],
+    "Filius": [
+      "filius",
+      "nominativo singular",
+      "hijo"
+    ],
+    "respondit": [
+      "respondeo",
+      "perfecto indicativo 3.ª singular",
+      "respondió"
+    ],
+    "ei": [
+      "is",
+      "dativo singular",
+      "a él"
+    ],
+    "Jesus": [
+      "Iesus",
+      "nominativo singular",
+      "Jesús"
+    ],
+    "Beatus": [
+      "beatus",
+      "nominativo singular",
+      "bienaventurado"
+    ],
+    "Simon": [
+      "Simon",
+      "vocativo singular",
+      "Simón"
+    ],
+    "Bar-Jona": [
+      "Bar-Iona",
+      "nombre propio",
+      "Bar-Joná"
+    ],
+    "quia": [
+      "quia",
+      "conjunción causal",
+      "porque"
+    ],
+    "sanguis": [
+      "sanguis",
+      "nominativo singular",
+      "sangre"
+    ],
+    "revelavit": [
+      "revelo",
+      "perfecto indicativo 3.ª singular",
+      "reveló"
+    ],
+    "tibi": [
+      "tu",
+      "dativo singular",
+      "a ti"
+    ],
+    "Pater": [
+      "pater",
+      "nominativo singular",
+      "Padre"
+    ],
+    "meus": [
+      "meus",
+      "nominativo masculino singular",
+      "mi"
+    ],
+    "coelis": [
+      "caelum",
+      "ablativo plural",
+      "cielos"
+    ],
+    "id": [
+      "is",
+      "nominativo neutro singular",
+      "esto"
+    ],
+    "ideo": [
+      "ideo",
+      "adverbio",
+      "por eso"
+    ],
+    "beatus": [
+      "beatus",
+      "nominativo singular",
+      "bienaventurado"
+    ],
+    "te": [
+      "tu",
+      "acusativo singular",
+      "a ti"
+    ],
+    "docuit": [
+      "doceo",
+      "perfecto indicativo 3.ª singular",
+      "enseñó"
+    ],
+    "terrena": [
+      "terrenus",
+      "nominativo femenino singular",
+      "terrena"
+    ],
+    "opinio": [
+      "opinio",
+      "nominativo singular",
+      "opinión"
+    ],
+    "fefellit": [
+      "fallo",
+      "perfecto indicativo 3.ª singular",
+      "engañó"
+    ],
+    "inspiratio": [
+      "inspiratio",
+      "nominativo singular",
+      "inspiración"
+    ],
+    "coelestis": [
+      "caelestis",
+      "nominativo femenino singular",
+      "celestial"
+    ],
+    "instruxit": [
+      "instruo",
+      "perfecto indicativo 3.ª singular",
+      "instruyó"
+    ],
+    "ille": [
+      "ille",
+      "nominativo singular",
+      "aquel"
+    ],
+    "me": [
+      "ego",
+      "acusativo singular",
+      "a mí"
+    ],
+    "cujus": [
+      "qui",
+      "genitivo singular",
+      "de quien"
+    ],
+    "sum": [
+      "sum",
+      "presente indicativo 1.ª singular",
+      "soy"
+    ],
+    "unigenitus": [
+      "unigenitus",
+      "nominativo singular",
+      "unigénito"
+    ],
+    "indicavit": [
+      "indico",
+      "perfecto indicativo 3.ª singular",
+      "dio a conocer"
     ]
   }
 };
