@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–150B",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–150C",
   "status": "partial",
-  "next": "Caput II: Et ego, inquit, dico tibi",
+  "next": "Caput III: Hanc confessionem portae inferi non tenebunt",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -173,6 +173,36 @@ window.LEO_SERMO_I = {
         "Interpretación de la respuesta",
         "Id est introduce una explicación puesta por León en boca de Cristo. Nec ... sed contrapone opinión terrena e inspiración celestial. El aparato (nota 15) registra quia Pater meus te docuit y te instruxit."
       ]
+    },
+    {
+      "id": "s4-18",
+      "label": "18",
+      "latin": "Et ego, inquit, dico tibi: hoc est, sicut Pater meus tibi manifestavit divinitatem meam, ita et ergo tibi notam facio excellentiam tuam: Quia tu es Petrus:",
+      "spanish": "Y yo, dice, te digo: esto es, así como mi Padre te manifestó mi divinidad, así también yo te doy a conocer tu excelencia: porque tú eres Pedro.",
+      "note": [
+        "Cristo y Pedro",
+        "El paralelismo sicut ... ita pone en relación la revelación del Padre y la declaración de Cristo. La lectura et ergo se conserva provisionalmente."
+      ]
+    },
+    {
+      "id": "s4-19",
+      "label": "19",
+      "latin": "id est, cum ego sim inviolabilis petra, ego lapis angularis, qui facio utraque unum, ego fundamentum praeter quod nemo potest aliud ponere; tamen tu quoque petra es, quia mea virtute solidaris, ut quae mihi potestate sunt propria, sint tibi mecum participatione communia.",
+      "spanish": "Es decir: aunque yo soy la roca inviolable, yo la piedra angular que hace de ambas partes una sola, yo el fundamento fuera del cual nadie puede poner otro, también tú eres roca, porque recibes firmeza de mi poder, de modo que aquello que me pertenece por potestad te sea común conmigo por participación.",
+      "note": [
+        "Cristo y Pedro",
+        "La triple anáfora ego reserva a Cristo la fuente de autoridad; tamen tu quoque presenta a Pedro como partícipe, no como fuente autónoma."
+      ]
+    },
+    {
+      "id": "s4-20",
+      "label": "20",
+      "latin": "Et super hanc petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam. Super hanc, inquit, fortitudinem aeternum exstruam templum, et Ecclesiae meae coelo inferenda sublimitas in hujus fidei firmitate consurget.",
+      "spanish": "Y sobre esta roca edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella. Sobre esta fortaleza, dice, levantaré un templo eterno, y la elevación de mi Iglesia, destinada a ser llevada al cielo, se alzará sobre la firmeza de esta fe.",
+      "note": [
+        "Cristo y Pedro",
+        "La glosa fortitudinem ... firmitate transforma la roca de Mateo 16,18 en imagen de estabilidad de la confesión."
+      ]
     }
   ],
   "lexicon": {
@@ -232,9 +262,9 @@ window.LEO_SERMO_I = {
       "doy"
     ],
     "quod": [
-      "quod",
-      "conjunción causal",
-      "porque"
+      "qui",
+      "acusativo neutro singular",
+      "que"
     ],
     "in": [
       "in",
@@ -303,8 +333,8 @@ window.LEO_SERMO_I = {
     ],
     "hujus": [
       "hic",
-      "genitivo masculino singular",
-      "de este"
+      "genitivo femenino singular",
+      "de esta"
     ],
     "diei": [
       "dies",
@@ -474,7 +504,7 @@ window.LEO_SERMO_I = {
     "sicut": [
       "sicut",
       "conjunción comparativa",
-      "como"
+      "así como"
     ],
     "ait": [
       "aio",
@@ -493,7 +523,7 @@ window.LEO_SERMO_I = {
     ],
     "unum": [
       "unus",
-      "nominativo neutro singular predicativo",
+      "acusativo neutro singular",
       "uno"
     ],
     "sumus": [
@@ -523,8 +553,8 @@ window.LEO_SERMO_I = {
     ],
     "ita": [
       "ita",
-      "adverbio de modo",
-      "tan"
+      "adverbio correlativo",
+      "así"
     ],
     "est": [
       "sum",
@@ -589,7 +619,7 @@ window.LEO_SERMO_I = {
     "fidei": [
       "fides",
       "genitivo femenino singular",
-      "fe"
+      "de la fe"
     ],
     "atque": [
       "atque",
@@ -854,7 +884,7 @@ window.LEO_SERMO_I = {
     "praeter": [
       "praeter",
       "preposición con acusativo",
-      "además de"
+      "fuera de"
     ],
     "istam": [
       "iste",
@@ -1033,8 +1063,8 @@ window.LEO_SERMO_I = {
     ],
     "cum": [
       "cum",
-      "preposición con ablativo",
-      "con"
+      "conjunción concesiva",
+      "aunque"
     ],
     "omnibus": [
       "omnis",
@@ -1353,8 +1383,8 @@ window.LEO_SERMO_I = {
     ],
     "qui": [
       "qui",
-      "nominativo masculino singular relativo",
-      "quien"
+      "nominativo relativo",
+      "que"
     ],
     "ipso": [
       "ipse",
@@ -1429,7 +1459,7 @@ window.LEO_SERMO_I = {
     "participatione": [
       "participatio",
       "ablativo femenino singular",
-      "participación"
+      "por participación"
     ],
     "transierit": [
       "transeo",
@@ -1603,7 +1633,7 @@ window.LEO_SERMO_I = {
     ],
     "Petrus": [
       "Petrus",
-      "nominativo masculino singular",
+      "nominativo singular",
       "Pedro"
     ],
     "eligitur": [
@@ -1668,7 +1698,7 @@ window.LEO_SERMO_I = {
     ],
     "sint": [
       "sum",
-      "presente subjuntivo tercera plural",
+      "presente subjuntivo 3.ª plural",
       "sean"
     ],
     "multique": [
@@ -2120,6 +2150,301 @@ window.LEO_SERMO_I = {
       "indico",
       "perfecto indicativo 3.ª singular",
       "dio a conocer"
+    ],
+    "inquit": [
+      "inquam",
+      "presente indicativo defectivo 3.ª singular",
+      "dice"
+    ],
+    "hoc": [
+      "hic",
+      "nominativo neutro singular",
+      "esto"
+    ],
+    "manifestavit": [
+      "manifesto",
+      "perfecto indicativo activo 3.ª singular",
+      "manifestó"
+    ],
+    "divinitatem": [
+      "divinitas",
+      "acusativo femenino singular",
+      "divinidad"
+    ],
+    "meam": [
+      "meus",
+      "acusativo femenino singular",
+      "mi"
+    ],
+    "ergo": [
+      "ergo",
+      "conjunción",
+      "por tanto"
+    ],
+    "notam": [
+      "notus",
+      "acusativo femenino singular",
+      "conocida"
+    ],
+    "facio": [
+      "facio",
+      "presente indicativo activo 1.ª singular",
+      "hago"
+    ],
+    "excellentiam": [
+      "excellentia",
+      "acusativo femenino singular",
+      "excelencia"
+    ],
+    "tuam": [
+      "tuus",
+      "acusativo femenino singular",
+      "tu"
+    ],
+    "ego": [
+      "ego",
+      "nominativo singular",
+      "yo"
+    ],
+    "sim": [
+      "sum",
+      "presente subjuntivo 1.ª singular",
+      "sea"
+    ],
+    "inviolabilis": [
+      "inviolabilis",
+      "nominativo singular",
+      "inviolable"
+    ],
+    "petra": [
+      "petra",
+      "nominativo singular",
+      "roca"
+    ],
+    "lapis": [
+      "lapis",
+      "nominativo singular",
+      "piedra"
+    ],
+    "angularis": [
+      "angularis",
+      "nominativo singular",
+      "angular"
+    ],
+    "utraque": [
+      "uterque",
+      "acusativo neutro plural",
+      "ambas cosas"
+    ],
+    "fundamentum": [
+      "fundamentum",
+      "nominativo neutro singular",
+      "fundamento"
+    ],
+    "nemo": [
+      "nemo",
+      "nominativo singular",
+      "nadie"
+    ],
+    "potest": [
+      "possum",
+      "presente indicativo 3.ª singular",
+      "puede"
+    ],
+    "aliud": [
+      "alius",
+      "acusativo neutro singular",
+      "otro"
+    ],
+    "ponere": [
+      "pono",
+      "infinitivo presente",
+      "poner"
+    ],
+    "quoque": [
+      "quoque",
+      "adverbio",
+      "también"
+    ],
+    "mea": [
+      "meus",
+      "ablativo femenino singular",
+      "mi"
+    ],
+    "virtute": [
+      "virtus",
+      "ablativo femenino singular",
+      "poder"
+    ],
+    "solidaris": [
+      "solido",
+      "presente pasivo 2.ª singular",
+      "recibes firmeza"
+    ],
+    "quae": [
+      "qui",
+      "nominativo neutro plural",
+      "las cosas que"
+    ],
+    "mihi": [
+      "ego",
+      "dativo singular",
+      "a mí"
+    ],
+    "potestate": [
+      "potestas",
+      "ablativo femenino singular",
+      "por potestad"
+    ],
+    "sunt": [
+      "sum",
+      "presente indicativo 3.ª plural",
+      "son"
+    ],
+    "propria": [
+      "proprius",
+      "nominativo neutro plural",
+      "propias"
+    ],
+    "mecum": [
+      "ego",
+      "ablativo con cum",
+      "conmigo"
+    ],
+    "communia": [
+      "communis",
+      "nominativo neutro plural",
+      "comunes"
+    ],
+    "super": [
+      "super",
+      "preposición con acusativo",
+      "sobre"
+    ],
+    "hanc": [
+      "hic",
+      "acusativo femenino singular",
+      "esta"
+    ],
+    "petram": [
+      "petra",
+      "acusativo femenino singular",
+      "roca"
+    ],
+    "aedificabo": [
+      "aedifico",
+      "futuro indicativo 1.ª singular",
+      "edificaré"
+    ],
+    "Ecclesiam": [
+      "ecclesia",
+      "acusativo femenino singular",
+      "Iglesia"
+    ],
+    "portae": [
+      "porta",
+      "nominativo femenino plural",
+      "puertas"
+    ],
+    "inferi": [
+      "inferus",
+      "genitivo singular",
+      "del infierno"
+    ],
+    "praevalebunt": [
+      "praevaleo",
+      "futuro indicativo 3.ª plural",
+      "prevalecerán"
+    ],
+    "adversus": [
+      "adversus",
+      "preposición con acusativo",
+      "contra"
+    ],
+    "eam": [
+      "is",
+      "acusativo femenino singular",
+      "ella"
+    ],
+    "fortitudinem": [
+      "fortitudo",
+      "acusativo femenino singular",
+      "fortaleza"
+    ],
+    "aeternum": [
+      "aeternus",
+      "acusativo neutro singular",
+      "eterno"
+    ],
+    "exstruam": [
+      "exstruo",
+      "futuro indicativo 1.ª singular",
+      "levantaré"
+    ],
+    "templum": [
+      "templum",
+      "acusativo neutro singular",
+      "templo"
+    ],
+    "coelo": [
+      "caelum",
+      "dativo singular",
+      "al cielo"
+    ],
+    "inferenda": [
+      "infero",
+      "gerundivo nominativo femenino singular",
+      "destinada a ser llevada"
+    ],
+    "sublimitas": [
+      "sublimitas",
+      "nominativo femenino singular",
+      "elevación"
+    ],
+    "firmitate": [
+      "firmitas",
+      "ablativo femenino singular",
+      "firmeza"
+    ],
+    "consurget": [
+      "consurgo",
+      "futuro indicativo 3.ª singular",
+      "se alzará"
+    ],
+    "In": [
+      "in",
+      "preposición con ablativo",
+      "en"
+    ],
+    "Cum": [
+      "cum",
+      "conjunción",
+      "cuando"
+    ],
+    "dico": [
+      "dico",
+      "presente indicativo 1.ª singular",
+      "digo"
+    ],
+    "Quia": [
+      "quia",
+      "conjunción causal",
+      "porque"
+    ],
+    "tu": [
+      "tu",
+      "nominativo singular",
+      "tú"
+    ],
+    "Super": [
+      "super",
+      "preposición con acusativo",
+      "sobre"
+    ],
+    "meae": [
+      "meus",
+      "genitivo femenino singular",
+      "de mi"
     ]
   }
 };
