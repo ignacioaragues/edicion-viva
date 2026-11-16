@@ -1110,12 +1110,19 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
         "https://www.biblehub.com/commentaries/egt/mark/5.htm"
       ]
+    },
+    {
+      "chapter": 5,
+      "from": 30,
+      "to": 32,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
-  "pending": "Continuar desde Marcos 5,30; segunda revisión filológica pendiente.",
+  "pending": "Continuar desde Marcos 5,33; segunda revisión retroactiva pendiente.",
   "next": {
     "chapter": 5,
-    "verse": 30
+    "verse": 33
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2612,5 +2619,18 @@
     ],
     "latin": "pending_optional",
     "second_passage_review": "pending"
+  },
+  "prepublication_research_5_30_32": {
+    "status": "incorporated_second_review_pending",
+    "morphology_audit": "44/44 fichas posicionales verificadas mecánicamente con MorphGNT SBLGNT 6.12",
+    "second_passage_review": "pending",
+    "latin": "optional_not_included",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://tips.translation.bible/tip_verse/mark-530/",
+      "https://biblehub.com/commentaries/egt/mark/5.htm",
+      "https://biblehub.com/commentaries/meyer/mark/5.htm"
+    ]
   }
 }
