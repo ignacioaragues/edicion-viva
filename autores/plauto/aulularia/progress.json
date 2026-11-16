@@ -871,6 +871,15 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia IV.1, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); Friedrich Leo 1895 direct collation pending",
       "note": "Cierre de monólogo de Estróbilo; 4 versos, traducción original, 38 fichas con glosa contextual. Arbitrarier infinitivo deponente arcaico en -ier; speculatum supino de finalidad. Auditoría retrospectiva permanece en 159; QA visual pendiente."
+    },
+    {
+      "section": "IV.2",
+      "from": 608,
+      "to": 611,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.2 (consultado 2026-11-16), https://www.thelatinlibrary.com/plautus/aulularia.shtml; cotejo directo Leo pendiente",
+      "note": "40 fichas con glosas contextuales; quoiquam dativo arcaico; indicassis forma sincopada; ne exclamativo en 610; invenerit ambiguo futuro perfecto/perfecto subjuntivo. No se ha certificado QA visual ni cotejo directo con Leo."
     }
   ],
   "pending": [
@@ -880,7 +889,10 @@
     }
   ],
   "updated": "2026-11-16",
-  "next": "IV.2, desde el verso 608; revisar retrospectivamente 160–164 tras migración de identificadores 142–161",
+  "next": {
+    "section": "IV.2",
+    "from": 612
+  },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
     "status": "in_progress",
