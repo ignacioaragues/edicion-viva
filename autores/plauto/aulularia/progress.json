@@ -907,6 +907,15 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia IV.2 v.623, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); direct Friedrich Leo 1895 collation pending",
       "note": "Cierre de monólogo: oposición tibi/mihi, faciam/bibam, futuro perfecto fecero. 11 fichas y glosas contextuales. Auditoría retrospectiva 159 sin avance; validación visual pendiente."
+    },
+    {
+      "section": "IV.3",
+      "from": 624,
+      "to": 627,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (2026-11-16); direct Leo collation pending",
+      "note": "34 tokens, complete contextual glosses, omen of corvos and onomatopoeic croccibat. Retrospective audit unchanged at 159 pending identifier-safe migration of 142-161. No browser QA."
     }
   ],
   "pending": [
@@ -917,8 +926,8 @@
   ],
   "updated": "2026-11-16",
   "next": {
-    "section": "IV.3",
-    "from": 624
+    "section": "IV.4",
+    "from": 628
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
