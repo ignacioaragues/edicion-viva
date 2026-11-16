@@ -68,12 +68,12 @@
     {
       "group": "sermones",
       "number": 5,
-      "section": "Sermo V capita I–II complete (§§1–10), PL 54 col. 153A–154B",
-      "paragraphs": 10,
-      "latin_tokens": 415,
-      "lexical_coverage": "415/415 token occurrences with first-pass contextual lexical cards",
-      "translation": "capita I–II translated; capita III–V pending",
-      "voice_notes": 10,
+      "section": "Sermo V capita I–III complete (§§1–13), PL 54 col. 153A–154D",
+      "paragraphs": 13,
+      "latin_tokens": 588,
+      "lexical_coverage": "588/588 first-pass lexical cards; contextual homographs require second-pass audit",
+      "translation": "capita I–III translated; capita IV–V pending",
+      "voice_notes": 13,
       "complete_work": false,
       "editorial_caveat": "First pass only. Source Wikisource has transcription errors (e.g. gergibus for gregibus), and printed apparatus/modern critical collation pending; historical Prosper attribution noted. Scriptural citations are in commentary, not yet inline in Latin."
     }
@@ -81,10 +81,10 @@
   "next": {
     "group": "sermones",
     "number": 5,
-    "beginning": "Adest igitur, dilectissimi, quod non temere, sed fideliter confitemur",
-    "location": "PL 54, Sermo V, caput III, col. 154B"
+    "beginning": "Non est itaque nobis, dilectissimi, praesumptuosa festivitas",
+    "location": "PL 54, Sermo V, caput IV, col. 154D"
   },
-  "priority": "Complete Sermo V capita III–V before Sermo VI",
+  "priority": "Finish Sermo V capita IV–V before starting VI",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
