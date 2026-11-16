@@ -55,21 +55,21 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV capita I–II completos (§§1–20); caput III parcial (§§21–26)",
-      "paragraphs": 26,
-      "latin_tokens": 749,
-      "lexical_coverage": "749/749 token occurrences with first-pass lexical cards",
-      "translation": "capita I–II complete; caput III through Manet ergo Petri privilegium; Sermo IV partial",
-      "voice_notes": 26,
+      "section": "Sermo IV capita I–II completos (§§1–20); caput III parcial (§§21–28)",
+      "paragraphs": 28,
+      "latin_tokens": 791,
+      "lexical_coverage": "791/791 token occurrences with first-pass lexical cards",
+      "translation": "capita I–II completos; caput III through Simon ... ut cerneret sicut triticum; Sermo IV partial",
+      "voice_notes": 28,
       "complete_work": false,
-      "editorial_caveat": "Caput II completed in first pass; et ergo at 150B retained pending critical collation. Other previously registered variants require revision. Caput III Wikisource lignaveris corrected provisionally to ligaveris; printed collation pending."
+      "editorial_caveat": "Caput III §28 cerneret retained per Ballerini–Migne; cribraret variant noted. Critical printed collation remains pending; prior variants et ergo and lignaveris/ligaveris still pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Nec nimia est vel severitas, vel remissio",
-    "location": "PL 54, Sermo IV, caput III, col. 151A–B"
+    "beginning": "Ego autem rogavi pro te, ne deficiat fides tua",
+    "location": "PL 54, Sermo IV, caput III, col. 151B"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
   "last_edit": "2026-11-16",
