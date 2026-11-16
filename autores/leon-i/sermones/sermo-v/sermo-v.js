@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón V",
-  "source": "Ballerini–Migne, PL 54, Sermo V, capita I–II, col. 153A–154B",
+  "source": "Ballerini–Migne, PL 54, Sermo V, capita I–III, col. 153A–154D",
   "status": "partial",
-  "next": "Caput III: Adest igitur, dilectissimi, quod non temere, sed fideliter confitemur",
+  "next": "Caput IV: Non est itaque nobis, dilectissimi, praesumptuosa festivitas",
   "paragraphs": [
     {
       "id": "s5-1",
@@ -102,6 +102,36 @@ window.LEO_SERMO_I = {
       "note": [
         "Cadencia ternaria",
         "Fidem, spem, charitatem culmina en creditur, speratur, amatur: la repetición da forma verbal a la vida interior de la comunidad."
+      ]
+    },
+    {
+      "id": "s5-11",
+      "label": "11",
+      "latin": "Adest igitur, dilectissimi, quod non temere, sed fideliter confitemur, in medio credentium Dominus Jesus Christus: et quamvis ad dexteram Dei Patris sedeat, donec ponat inimicos suos scabellum pedum suorum, non deest tamen Pontifex summus a suorum congregatione pontificum, meritoque illi totius Ecclesiae et omnium sacerdotum ore cantatur: Juravit Dominus, et non poenitebit eum: Tu es Sacerdos in aeternum secundum ordinem Melchisedech.",
+      "spanish": "Está presente, pues, en medio de los creyentes el Señor Jesucristo, como confesamos no temerariamente sino con fe. Y aunque esté sentado a la derecha del Padre hasta poner a sus enemigos como escabel de sus pies, el sumo Pontífice no está ausente de la asamblea de sus sacerdotes. Con razón toda la Iglesia y todos los sacerdotes le cantan: «El Señor juró y no se arrepentirá: tú eres sacerdote para siempre según el orden de Melquisedec».",
+      "note": [
+        "Presencia y autoridad",
+        "Quamvis ... non deest opone la exaltación celestial a la presencia efectiva de Cristo entre los ministros."
+      ]
+    },
+    {
+      "id": "s5-12",
+      "label": "12",
+      "latin": "Ipse enim verus et aeternus est Antistes, cujus administratio nec commutationem potest habere, nec finem. Ipse est cujus formam Melchisedech pontifex praeferebat, non Judaicas hostias offerens Deo, sed illius sacramenti immolans sacrificium, quod Redemptor noster in suo corpore et sanguine consecravit. Ipse est cujus sacerdotium Pater non secundum ordinem Aaron cum legis tempore transiturum, sed secundum ordinem Melchisedech perenniter celebrandum cum firmamento insolubilis jurationis instituit.",
+      "spanish": "Él es el verdadero y eterno pontífice, cuyo ministerio no puede cambiar ni terminar. Él es aquel cuya figura anticipaba el pontífice Melquisedec: no ofrecía víctimas judías, sino el sacrificio del sacramento consagrado por nuestro Redentor en su cuerpo y sangre. Él es aquel cuyo sacerdocio instituyó el Padre, no según el orden de Aarón, destinado a pasar con la Ley, sino según el de Melquisedec, destinado a celebrarse perpetuamente bajo un juramento irrevocable.",
+      "note": [
+        "Triple anáfora",
+        "Ipse ... Ipse ... Ipse construye una demostración por reiteración, contrastando lo transitorio con lo permanente."
+      ]
+    },
+    {
+      "id": "s5-13",
+      "label": "13",
+      "latin": "Nam quia jusjurandum inter homines iis definitionibus adhibetur, quae perpetuis pactionibus sanciuntur, divini quoque juramenti testificatio in his invenitur promissis, quae incommutabilibus sunt fixa decretis: et quia poenitentia mutationem indicat voluntatis, in eo Deus non poenitet, in quo secundum aeternum placitum non potest aliud velle quam voluit.",
+      "spanish": "Pues entre los hombres el juramento se aplica a disposiciones sancionadas por pactos perpetuos; también el testimonio del juramento divino se encuentra en las promesas fijadas por decretos inmutables. Y como arrepentirse implica un cambio de voluntad, Dios no se arrepiente de aquello en lo que, conforme a su designio eterno, no puede querer algo distinto de lo que quiso.",
+      "note": [
+        "Razón jurídica",
+        "El léxico de pactos y decretos sirve para argumentar la permanencia del sacerdocio."
       ]
     }
   ],
@@ -1625,6 +1655,531 @@ window.LEO_SERMO_I = {
       "amo",
       "presente indicativo pasivo 3.ª singular",
       "es amado"
+    ],
+    "Adest": [
+      "adsum",
+      "presente indicativo 3.ª singular",
+      "está presente"
+    ],
+    "temere": [
+      "temere",
+      "adverbio",
+      "temerariamente"
+    ],
+    "medio": [
+      "medius",
+      "ablativo neutro singular",
+      "medio"
+    ],
+    "credentium": [
+      "credo",
+      "participio presente genitivo plural",
+      "creyentes"
+    ],
+    "Jesus": [
+      "Iesus",
+      "nominativo singular",
+      "Jesús"
+    ],
+    "Christus": [
+      "Christus",
+      "nominativo masculino singular",
+      "Cristo"
+    ],
+    "quamvis": [
+      "quamvis",
+      "conjunción concesiva",
+      "aunque"
+    ],
+    "dexteram": [
+      "dextera",
+      "acusativo femenino singular",
+      "derecha"
+    ],
+    "Dei": [
+      "Deus",
+      "sustantivo genitivo masculino singular",
+      "de Dios"
+    ],
+    "Patris": [
+      "pater",
+      "genitivo masculino singular",
+      "del Padre"
+    ],
+    "sedeat": [
+      "sedeo",
+      "presente subjuntivo 3.ª singular",
+      "esté sentado"
+    ],
+    "donec": [
+      "donec",
+      "conjunción",
+      "hasta que"
+    ],
+    "ponat": [
+      "pono",
+      "presente subjuntivo 3.ª singular",
+      "ponga"
+    ],
+    "inimicos": [
+      "inimicus",
+      "acusativo masculino plural",
+      "enemigos"
+    ],
+    "suos": [
+      "suus",
+      "acusativo masculino plural",
+      "suyos"
+    ],
+    "scabellum": [
+      "scabellum",
+      "acusativo neutro singular",
+      "escabel"
+    ],
+    "pedum": [
+      "pes",
+      "genitivo masculino plural",
+      "de los pies"
+    ],
+    "suorum": [
+      "suus",
+      "adjetivo posesivo genitivo neutro plural",
+      "suyos"
+    ],
+    "deest": [
+      "desum",
+      "presente indicativo 3.ª singular",
+      "falta"
+    ],
+    "Pontifex": [
+      "pontifex",
+      "nominativo masculino singular",
+      "pontífice"
+    ],
+    "summus": [
+      "summus",
+      "nominativo masculino singular",
+      "supremo"
+    ],
+    "congregatione": [
+      "congregatio",
+      "ablativo femenino singular",
+      "asamblea"
+    ],
+    "pontificum": [
+      "pontifex",
+      "genitivo masculino plural",
+      "pontífices"
+    ],
+    "meritoque": [
+      "merito",
+      "adverbio con -que",
+      "y con razón"
+    ],
+    "illi": [
+      "ille",
+      "dativo masculino singular",
+      "a él"
+    ],
+    "totius": [
+      "totus",
+      "genitivo masculino singular",
+      "de todo"
+    ],
+    "sacerdotum": [
+      "sacerdos",
+      "genitivo masculino plural",
+      "sacerdotes"
+    ],
+    "ore": [
+      "os",
+      "ablativo neutro singular",
+      "voz"
+    ],
+    "cantatur": [
+      "canto",
+      "presente indicativo pasivo 3.ª singular",
+      "se canta"
+    ],
+    "Juravit": [
+      "iuro",
+      "perfecto indicativo 3.ª singular",
+      "juró"
+    ],
+    "poenitebit": [
+      "paenitet",
+      "futuro indicativo 3.ª singular",
+      "se arrepentirá"
+    ],
+    "eum": [
+      "is",
+      "acusativo masculino singular",
+      "a él"
+    ],
+    "Tu": [
+      "tu",
+      "nominativo singular",
+      "tú"
+    ],
+    "es": [
+      "sum",
+      "presente indicativo 2.ª singular",
+      "eres"
+    ],
+    "Sacerdos": [
+      "sacerdos",
+      "acusativo masculino plural, forma del texto transmitido",
+      "sacerdotes"
+    ],
+    "aeternum": [
+      "aeternus",
+      "acusativo neutro singular",
+      "eterno"
+    ],
+    "secundum": [
+      "secundum",
+      "preposición con acusativo",
+      "según"
+    ],
+    "ordinem": [
+      "ordo",
+      "sustantivo acusativo masculino singular",
+      "orden"
+    ],
+    "Melchisedech": [
+      "Melchisedech",
+      "nombre propio indeclinable",
+      "Melquisedec"
+    ],
+    "Ipse": [
+      "ipse",
+      "pronombre enfático nominativo masculino singular",
+      "él mismo"
+    ],
+    "verus": [
+      "verus",
+      "nominativo masculino singular",
+      "verdadero"
+    ],
+    "aeternus": [
+      "aeternus",
+      "nominativo masculino singular",
+      "eterno"
+    ],
+    "Antistes": [
+      "antistes",
+      "nominativo masculino singular",
+      "pontífice"
+    ],
+    "commutationem": [
+      "commutatio",
+      "acusativo femenino singular",
+      "cambio"
+    ],
+    "potest": [
+      "possum",
+      "presente indicativo 3.ª singular",
+      "puede"
+    ],
+    "habere": [
+      "habeo",
+      "infinitivo presente",
+      "tener"
+    ],
+    "finem": [
+      "finis",
+      "acusativo masculino singular",
+      "fin"
+    ],
+    "formam": [
+      "forma",
+      "acusativo femenino singular",
+      "figura"
+    ],
+    "praeferebat": [
+      "praefero",
+      "imperfecto indicativo 3.ª singular",
+      "anticipaba"
+    ],
+    "Judaicas": [
+      "Iudaicus",
+      "acusativo femenino plural",
+      "judías"
+    ],
+    "offerens": [
+      "offero",
+      "participio presente nominativo masculino singular",
+      "ofreciendo"
+    ],
+    "Deo": [
+      "Deus",
+      "dativo masculino singular",
+      "a Dios"
+    ],
+    "illius": [
+      "ille",
+      "genitivo masculino singular",
+      "de aquel"
+    ],
+    "sacramenti": [
+      "sacramentum",
+      "genitivo neutro singular",
+      "del sacramento"
+    ],
+    "immolans": [
+      "immolo",
+      "participio presente nominativo masculino singular",
+      "inmolando"
+    ],
+    "sacrificium": [
+      "sacrificium",
+      "acusativo neutro singular",
+      "sacrificio"
+    ],
+    "Redemptor": [
+      "redemptor",
+      "nominativo masculino singular",
+      "Redentor"
+    ],
+    "noster": [
+      "noster",
+      "nominativo masculino singular",
+      "nuestro"
+    ],
+    "suo": [
+      "suus",
+      "adjetivo posesivo ablativo neutro singular con opere",
+      "su"
+    ],
+    "corpore": [
+      "corpus",
+      "ablativo neutro singular",
+      "cuerpo"
+    ],
+    "sanguine": [
+      "sanguis",
+      "ablativo masculino singular",
+      "sangre"
+    ],
+    "consecravit": [
+      "consecro",
+      "perfecto indicativo 3.ª singular",
+      "consagró"
+    ],
+    "sacerdotium": [
+      "sacerdotium",
+      "acusativo neutro singular",
+      "sacerdocio"
+    ],
+    "Pater": [
+      "pater",
+      "nominativo singular",
+      "Padre"
+    ],
+    "Aaron": [
+      "Aaron",
+      "nombre propio indeclinable",
+      "Aarón"
+    ],
+    "legis": [
+      "lex",
+      "genitivo femenino singular",
+      "de la Ley"
+    ],
+    "transiturum": [
+      "transeo",
+      "participio futuro acusativo neutro singular",
+      "destinado a pasar"
+    ],
+    "perenniter": [
+      "perenniter",
+      "adverbio",
+      "perpetuamente"
+    ],
+    "celebrandum": [
+      "celebro",
+      "gerundivo acusativo neutro singular",
+      "destinado a celebrarse"
+    ],
+    "firmamento": [
+      "firmamentum",
+      "ablativo neutro singular",
+      "garantía"
+    ],
+    "insolubilis": [
+      "insolubilis",
+      "genitivo femenino singular",
+      "irrevocable"
+    ],
+    "jurationis": [
+      "iuratio",
+      "genitivo femenino singular",
+      "del juramento"
+    ],
+    "instituit": [
+      "instituo",
+      "indicativo perfecto activo tercera persona singular",
+      "instituyó"
+    ],
+    "jusjurandum": [
+      "iusiurandum",
+      "nominativo neutro singular",
+      "juramento"
+    ],
+    "inter": [
+      "inter",
+      "preposición con acusativo",
+      "entre"
+    ],
+    "homines": [
+      "homo",
+      "nominativo masculino plural",
+      "los hombres"
+    ],
+    "iis": [
+      "is",
+      "dativo femenino plural",
+      "a aquellas"
+    ],
+    "definitionibus": [
+      "definitio",
+      "dativo femenino plural",
+      "disposiciones"
+    ],
+    "adhibetur": [
+      "adhibeo",
+      "presente indicativo pasivo 3.ª singular",
+      "se aplica"
+    ],
+    "perpetuis": [
+      "perpetuus",
+      "ablativo femenino plural",
+      "perpetuos"
+    ],
+    "pactionibus": [
+      "pactio",
+      "ablativo femenino plural",
+      "pactos"
+    ],
+    "sanciuntur": [
+      "sancio",
+      "presente indicativo pasivo 3.ª plural",
+      "se sancionan"
+    ],
+    "divini": [
+      "divinus",
+      "adjetivo genitivo neutro singular",
+      "divino"
+    ],
+    "quoque": [
+      "quoque",
+      "adverbio",
+      "también"
+    ],
+    "juramenti": [
+      "iuramentum",
+      "genitivo neutro singular",
+      "del juramento"
+    ],
+    "testificatio": [
+      "testificatio",
+      "nominativo femenino singular",
+      "testimonio"
+    ],
+    "his": [
+      "hic",
+      "ablativo masculino plural demostrativo",
+      "por estos"
+    ],
+    "invenitur": [
+      "invenio",
+      "presente indicativo pasivo 3.ª singular",
+      "se encuentra"
+    ],
+    "promissis": [
+      "promissum",
+      "ablativo neutro plural",
+      "promesas"
+    ],
+    "incommutabilibus": [
+      "incommutabilis",
+      "ablativo neutro plural",
+      "inmutables"
+    ],
+    "fixa": [
+      "figo",
+      "participio perfecto pasivo nominativo neutro plural",
+      "fijadas"
+    ],
+    "decretis": [
+      "decretum",
+      "ablativo neutro plural",
+      "decretos"
+    ],
+    "poenitentia": [
+      "paenitentia",
+      "nominativo femenino singular",
+      "arrepentimiento"
+    ],
+    "mutationem": [
+      "mutatio",
+      "acusativo femenino singular",
+      "cambio"
+    ],
+    "indicat": [
+      "indico",
+      "presente indicativo 3.ª singular",
+      "indica"
+    ],
+    "voluntatis": [
+      "voluntas",
+      "genitivo femenino singular",
+      "de la voluntad"
+    ],
+    "eo": [
+      "is",
+      "ablativo masculino singular",
+      "él"
+    ],
+    "Deus": [
+      "Deus",
+      "nominativo masculino singular",
+      "Dios"
+    ],
+    "poenitet": [
+      "paenitet",
+      "presente indicativo impersonal",
+      "se arrepiente"
+    ],
+    "quo": [
+      "qui",
+      "relativo ablativo masculino singular",
+      "de quien"
+    ],
+    "placitum": [
+      "placitum",
+      "acusativo neutro singular",
+      "designio"
+    ],
+    "aliud": [
+      "alius",
+      "acusativo neutro singular",
+      "otro"
+    ],
+    "velle": [
+      "volo",
+      "infinitivo presente",
+      "querer"
+    ],
+    "quam": [
+      "quam",
+      "conjunción comparativa",
+      "como"
+    ],
+    "voluit": [
+      "volo",
+      "perfecto indicativo activo tercera singular",
+      "quiso"
     ]
   }
 };
