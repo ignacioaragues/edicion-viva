@@ -1168,12 +1168,19 @@
       "to": 2,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 6,
+      "from": 3,
+      "to": 4,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
-  "pending": "Continuar desde Marcos 6,3; revisión filológica retroactiva y Vulgata pendientes.",
+  "pending": "Continuar en Marcos 6,5; segunda revisión filológica de 6,3–4 pendiente.",
   "next": {
     "chapter": 6,
-    "verse": 3
+    "verse": 5
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2737,6 +2744,18 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
       "https://www.biblehub.com/commentaries/meyer/mark/6.htm"
+    ]
+  },
+  "prepublication_research_6_3_4": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "57/57 fichas posicionales cotejadas con MorphGNT 6.12",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.cambridge.org/core/journals/new-testament-studies/article/marks-mothers-and-the-matronymic-linking-the-son-of-mary-mk-63-to-the-daughter-of-herodias-mk-622/C789C196C3EE0F16BCDB5A2C726302ED",
+      "https://biblehub.com/commentaries/egt/mark/6.htm"
     ]
   }
 }
