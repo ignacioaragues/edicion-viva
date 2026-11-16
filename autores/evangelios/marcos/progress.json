@@ -1150,12 +1150,23 @@
       "to": 40,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 5,
+      "from": 41,
+      "to": 43,
+      "status": "edited_not_revised",
+      "morphology": "47/47 fichas posicionales MorphGNT 6.12",
+      "references": [
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+      ]
     }
   ],
-  "pending": "Continuar desde Marcos 5,41; segunda revisión contextual pendiente.",
+  "pending": "Continuar desde Marcos 6,1; Vulgata y segunda revisión pendientes.",
   "next": {
-    "chapter": 5,
-    "verse": 41
+    "chapter": 6,
+    "verse": 1
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2702,5 +2713,11 @@
       "https://biblehub.com/commentaries/icc/mark/5.htm",
       "https://ccel.org/ccel/robertson_at/word.v.v.html"
     ]
+  },
+  "prepublication_research_5_41_43": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "47/47",
+    "second_passage_review": "pending",
+    "latin": "pending"
   }
 }
