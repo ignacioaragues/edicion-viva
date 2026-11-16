@@ -68,23 +68,23 @@
     {
       "group": "sermones",
       "number": 5,
-      "section": "Sermo V capita I–III complete (§§1–13), PL 54 col. 153A–154D",
-      "paragraphs": 13,
-      "latin_tokens": 588,
-      "lexical_coverage": "588/588 first-pass lexical cards; contextual homographs require second-pass audit",
-      "translation": "capita I–III translated; capita IV–V pending",
-      "voice_notes": 13,
-      "complete_work": false,
-      "editorial_caveat": "First pass only. Source Wikisource has transcription errors (e.g. gergibus for gregibus), and printed apparatus/modern critical collation pending; historical Prosper attribution noted. Scriptural citations are in commentary, not yet inline in Latin."
+      "section": "complete Sermo V, PL 54 col. 153–156, capita I–V",
+      "paragraphs": 19,
+      "latin_tokens": 888,
+      "lexical_coverage": "888/888 token occurrences with first-pass contextual lexical cards; homograph audit pending",
+      "translation": "complete first-pass Spanish translation",
+      "voice_notes": 19,
+      "complete_work": true,
+      "editorial_caveat": "First pass complete. Printed/critical collation pending; Wikisource transcription irregularities and historical Prosper attribution noted. Verify manuscript/printed readings and biblical references in second pass."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 5,
-    "beginning": "Non est itaque nobis, dilectissimi, praesumptuosa festivitas",
-    "location": "PL 54, Sermo V, caput IV, col. 154D"
+    "number": 6,
+    "beginning": "Sermo VI — locate verified Latin incipit",
+    "location": "PL 54, Sermo VI"
   },
-  "priority": "Finish Sermo V capita IV–V before starting VI",
+  "priority": "Begin Sermo VI; second-pass critical review of Sermo V remains",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
