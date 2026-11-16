@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón V",
-  "source": "Ballerini–Migne, PL 54, Sermo V, caput I, col. 153A–C",
+  "source": "Ballerini–Migne, PL 54, Sermo V, capita I–II (caput II partial), col. 153A–D",
   "status": "partial",
-  "next": "Caput II: Quae conditio si omnes sacerdotes generaliter tenet",
+  "next": "Caput II: In hac ergo materia trepidationis",
   "paragraphs": [
     {
       "id": "s5-1",
@@ -62,6 +62,26 @@ window.LEO_SERMO_I = {
       "note": [
         "El pontífice no está exento",
         "Nemo ... pontifex y pro suis incluyen al propio oficiante entre quienes necesitan expiación."
+      ]
+    },
+    {
+      "id": "s5-7",
+      "label": "7",
+      "latin": "Quae conditio si omnes sacerdotes generaliter tenet, quanto magis nos et onerat et obstringit; quibus ipsa suscepti operis magnitudo creberrima est offensionis occasio.",
+      "spanish": "Y si esta condición afecta en general a todos los sacerdotes, ¡cuánto más nos carga y nos obliga a nosotros, para quienes la propia magnitud de la tarea asumida es una ocasión frecuentísima de tropiezo!",
+      "note": [
+        "La autoridad como carga",
+        "Quanto magis invierte la idea de privilegio: el mayor cargo aumenta el riesgo de falta."
+      ]
+    },
+    {
+      "id": "s5-8",
+      "label": "8",
+      "latin": "Quamvis enim singuli quique pastores speciali sollicitudine gregibus suis praesint, sciantque se pro commissis sibi ovibus reddituros esse rationem, nobis tamen cum omnibus cura communis est; neque cujusquam administratio, non nostri laboris est portio: ut dum ad beati apostoli Petri sedem ex toto orbe concurritur, et illa universalis Ecclesiae a Domino eidem commendata dilectio etiam ex nostra dispensatione deposcitur; tanto amplius nobis instare oneris sentiamus, quanto cunctis majora debemus.",
+      "spanish": "Pues, aunque cada pastor presida su propio rebaño con una solicitud particular y sepa que habrá de rendir cuentas por las ovejas que le han sido confiadas, nosotros compartimos la responsabilidad por todos: no hay administración ajena que no forme parte de nuestro trabajo. Así, mientras desde el mundo entero se acude a la sede del bienaventurado apóstol Pedro y se reclama también de nuestra gestión aquel amor universal por la Iglesia que el Señor le encomendó, sentimos que el peso que recae sobre nosotros es tanto mayor cuanto más debemos a todos.",
+      "note": [
+        "Universalidad de la cura",
+        "Quamvis ... tamen contrapone responsabilidades locales y universales; cura communis y oneris describen el primado como deber de rendir cuentas."
       ]
     }
   ],
@@ -830,6 +850,326 @@ window.LEO_SERMO_I = {
       "peccatum",
       "ablativo neutro plural",
       "pecados"
+    ],
+    "Quae": [
+      "qui",
+      "relativo nominativo femenino singular",
+      "la cual"
+    ],
+    "conditio": [
+      "conditio",
+      "nominativo femenino singular",
+      "condición"
+    ],
+    "omnes": [
+      "omnis",
+      "acusativo masculino plural",
+      "todos"
+    ],
+    "sacerdotes": [
+      "sacerdos",
+      "nominativo masculino plural",
+      "sacerdotes"
+    ],
+    "generaliter": [
+      "generaliter",
+      "adverbio",
+      "en general"
+    ],
+    "tenet": [
+      "teneo",
+      "presente indicativo activo 3.ª singular",
+      "afecta"
+    ],
+    "quanto": [
+      "quantus",
+      "ablativo neutro singular",
+      "cuánto"
+    ],
+    "magis": [
+      "magis",
+      "adverbio",
+      "más"
+    ],
+    "onerat": [
+      "onero",
+      "presente indicativo activo 3.ª singular",
+      "carga"
+    ],
+    "obstringit": [
+      "obstringo",
+      "presente indicativo activo 3.ª singular",
+      "obliga"
+    ],
+    "ipsa": [
+      "ipse",
+      "nominativo femenino singular",
+      "misma"
+    ],
+    "suscepti": [
+      "suscipio",
+      "participio perfecto pasivo genitivo neutro singular",
+      "asumida"
+    ],
+    "operis": [
+      "opus",
+      "genitivo neutro singular",
+      "tarea"
+    ],
+    "magnitudo": [
+      "magnitudo",
+      "nominativo femenino singular",
+      "magnitud"
+    ],
+    "creberrima": [
+      "creber",
+      "nominativo femenino singular superlativo",
+      "frecuentísima"
+    ],
+    "offensionis": [
+      "offensio",
+      "genitivo femenino singular",
+      "del tropiezo"
+    ],
+    "occasio": [
+      "occasio",
+      "nominativo femenino singular",
+      "ocasión"
+    ],
+    "Quamvis": [
+      "quamvis",
+      "conjunción concesiva",
+      "aunque"
+    ],
+    "singuli": [
+      "singuli",
+      "nominativo masculino plural distributivo",
+      "cada uno"
+    ],
+    "quique": [
+      "quisque",
+      "nominativo masculino plural con enclítico -que",
+      "cada uno"
+    ],
+    "pastores": [
+      "pastor",
+      "nominativo masculino plural",
+      "pastores"
+    ],
+    "speciali": [
+      "specialis",
+      "ablativo femenino singular",
+      "particular"
+    ],
+    "sollicitudine": [
+      "sollicitudo",
+      "ablativo femenino singular",
+      "solicitud"
+    ],
+    "gregibus": [
+      "grex",
+      "dativo masculino plural",
+      "rebaños"
+    ],
+    "praesint": [
+      "praesum",
+      "presente subjuntivo activo 3.ª plural",
+      "presidan"
+    ],
+    "sciantque": [
+      "scio",
+      "presente subjuntivo activo 3.ª plural con -que",
+      "y sepan"
+    ],
+    "se": [
+      "sui",
+      "ablativo reflexivo",
+      "sí mismo"
+    ],
+    "commissis": [
+      "committo",
+      "participio perfecto pasivo ablativo femenino plural",
+      "confiadas"
+    ],
+    "sibi": [
+      "sui",
+      "dativo reflexivo",
+      "a sí"
+    ],
+    "ovibus": [
+      "ovis",
+      "ablativo femenino plural",
+      "ovejas"
+    ],
+    "reddituros": [
+      "reddo",
+      "participio futuro activo acusativo masculino plural",
+      "que rendirán"
+    ],
+    "esse": [
+      "sum",
+      "infinitivo presente",
+      "ser"
+    ],
+    "tamen": [
+      "tamen",
+      "adverbio adversativo",
+      "sin embargo"
+    ],
+    "omnibus": [
+      "omnis",
+      "dativo masculino plural",
+      "a todos"
+    ],
+    "cura": [
+      "cura",
+      "nominativo femenino singular",
+      "cuidado"
+    ],
+    "communis": [
+      "communis",
+      "nominativo masculino singular",
+      "común"
+    ],
+    "cujusquam": [
+      "quisquam",
+      "genitivo singular",
+      "de cualquiera"
+    ],
+    "administratio": [
+      "administratio",
+      "nominativo femenino singular",
+      "administración"
+    ],
+    "nostri": [
+      "noster",
+      "genitivo neutro singular",
+      "nuestro"
+    ],
+    "laboris": [
+      "labor",
+      "genitivo masculino singular",
+      "del trabajo"
+    ],
+    "portio": [
+      "portio",
+      "nominativo femenino singular",
+      "parte"
+    ],
+    "dum": [
+      "dum",
+      "conjunción temporal",
+      "mientras"
+    ],
+    "beati": [
+      "beatus",
+      "genitivo masculino singular",
+      "bienaventurado"
+    ],
+    "apostoli": [
+      "apostolus",
+      "genitivo masculino singular",
+      "apóstol"
+    ],
+    "Petri": [
+      "Petrus",
+      "genitivo masculino singular",
+      "de Pedro"
+    ],
+    "sedem": [
+      "sedes",
+      "acusativo femenino singular",
+      "sede"
+    ],
+    "toto": [
+      "totus",
+      "ablativo masculino singular",
+      "todo"
+    ],
+    "orbe": [
+      "orbis",
+      "ablativo masculino singular",
+      "mundo"
+    ],
+    "concurritur": [
+      "concurro",
+      "presente indicativo pasivo impersonal",
+      "se acude"
+    ],
+    "illa": [
+      "ille",
+      "nominativo femenino singular",
+      "aquella"
+    ],
+    "universalis": [
+      "universalis",
+      "nominativo femenino singular",
+      "universal"
+    ],
+    "Ecclesiae": [
+      "ecclesia",
+      "genitivo femenino singular",
+      "de la Iglesia"
+    ],
+    "eidem": [
+      "idem",
+      "dativo masculino singular",
+      "a él mismo"
+    ],
+    "commendata": [
+      "commendo",
+      "participio perfecto pasivo nominativo femenino singular",
+      "encomendada"
+    ],
+    "dilectio": [
+      "dilectio",
+      "nominativo femenino singular",
+      "amor"
+    ],
+    "dispensatione": [
+      "dispensatio",
+      "ablativo femenino singular",
+      "gestión"
+    ],
+    "deposcitur": [
+      "deposco",
+      "presente indicativo pasivo 3.ª singular",
+      "se reclama"
+    ],
+    "tanto": [
+      "tantus",
+      "ablativo neutro singular",
+      "tanto"
+    ],
+    "amplius": [
+      "amplius",
+      "adverbio comparativo",
+      "más"
+    ],
+    "instare": [
+      "insto",
+      "infinitivo presente activo",
+      "pesar sobre"
+    ],
+    "oneris": [
+      "onus",
+      "genitivo neutro singular",
+      "de carga"
+    ],
+    "sentiamus": [
+      "sentio",
+      "presente subjuntivo activo 1.ª plural",
+      "sintamos"
+    ],
+    "cunctis": [
+      "cunctus",
+      "dativo masculino plural",
+      "a todos"
+    ],
+    "majora": [
+      "magnus",
+      "acusativo neutro plural comparativo",
+      "cosas mayores"
     ]
   }
 };
