@@ -925,6 +925,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.4 https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); direct collation with Leo 1895 pending",
       "note": "45 tokens individually aligned with morphological analyses and contextual Spanish glosses. Notes on lumbrice, praestrigiator and partitive commerci. Retrospective second pass not advanced: legacy 142–161 IDs still require safe migration. Browser QA pending."
+    },
+    {
+      "section": "IV.4",
+      "from": 633,
+      "to": 640,
+      "verses": 8,
+      "status": "edited_not_revised",
+      "source": "The Latin Library (2026-11-16); cross-check Masaryk University Aulularia PDF; Friedrich Leo direct apparatus pending",
+      "note": "8 verse units with complete individual morphology and contextual glosses; insult trifur, pun pone/datare; token alignment verified; retrospective audit still at 159 pending ID migration; browser QA pending."
     }
   ],
   "pending": [
@@ -934,10 +943,7 @@
     }
   ],
   "updated": "2026-11-16",
-  "next": {
-    "section": "IV.4",
-    "from": 633
-  },
+  "next": "IV.4, desde el verso 641",
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
     "status": "in_progress",
