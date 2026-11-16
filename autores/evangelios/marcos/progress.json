@@ -1161,12 +1161,19 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php",
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 1,
+      "to": 2,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
-  "pending": "Continuar desde Marcos 6,1; Vulgata y segunda revisión pendientes.",
+  "pending": "Continuar desde Marcos 6,3; revisión filológica retroactiva y Vulgata pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 1
+    "verse": 3
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2719,5 +2726,17 @@
     "morphology_audit": "47/47",
     "second_passage_review": "pending",
     "latin": "pending"
+  },
+  "prepublication_research_6_1_2": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "48/48 fichas posicionales",
+    "second_passage_review": "pending",
+    "latin": "pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
+      "https://www.biblehub.com/commentaries/meyer/mark/6.htm"
+    ]
   }
 }
