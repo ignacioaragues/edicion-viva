@@ -862,6 +862,15 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia IV.1, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); Friedrich Leo 1895 direct collation pending",
       "note": "Original Spanish and token-level morphology/contextual glosses; line 599 begins after a textual break; censione bubula is comic imagery of corporal punishment. Retroactive audit not advanced; no browser QA."
+    },
+    {
+      "section": "IV.1",
+      "from": 604,
+      "to": 607,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.1, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); Friedrich Leo 1895 direct collation pending",
+      "note": "Cierre de monólogo de Estróbilo; 4 versos, traducción original, 38 fichas con glosa contextual. Arbitrarier infinitivo deponente arcaico en -ier; speculatum supino de finalidad. Auditoría retrospectiva permanece en 159; QA visual pendiente."
     }
   ],
   "pending": [
@@ -871,10 +880,7 @@
     }
   ],
   "updated": "2026-11-16",
-  "next": {
-    "section": "IV.1",
-    "verse": 604
-  },
+  "next": "IV.2, desde el verso 608; revisar retrospectivamente 160–164 tras migración de identificadores 142–161",
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
     "status": "in_progress",
