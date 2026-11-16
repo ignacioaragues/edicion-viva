@@ -943,6 +943,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.4 (consulted 2026-11-16), https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo 1895 direct collation pending",
       "note": "45 individually aligned token analyses and contextual Spanish glosses; third-hand joke and accusative maximam with ellipsis; syntax and browser QA not certified. Retrospective review not advanced beyond 159 due to pending stable-ID migration."
+    },
+    {
+      "section": "IV.4",
+      "from": 646,
+      "to": 650,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.4 (consulted 2026-11-17), https://www.thelatinlibrary.com/plautus/aulularia.shtml; Leo 1895 metadata https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0119.phi003.perseus-lat1; direct Leo collation pending",
+      "note": "40 word-level morphological entries with contextual Spanish glosses, original translation and note on -dum, lubet and physical search. Browser tests and full-source collation pending. Retrospective audit not certified this round; checkpoint stays at 159."
     }
   ],
   "pending": [
@@ -951,9 +960,9 @@
       "status": "pending"
     }
   ],
-  "updated": "2026-11-16",
-  "next": "IV.4, desde el verso 646",
-  "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto. | 2026-11-16: vv. 641–645 incorporated, 45 glossed morphology entries; pending direct Leo collation and browser QA. Consecutive second pass remains at 159.",
+  "updated": "2026-11-17",
+  "next": "IV.4, desde el verso 651",
+  "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto. | 2026-11-16: vv. 641–645 incorporated, 45 glossed morphology entries; pending direct Leo collation and browser QA. Consecutive second pass remains at 159. | 2026-11-17: vv. 646–650 added; second pass remains 159, awaiting identifier compatibility work.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
