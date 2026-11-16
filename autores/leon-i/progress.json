@@ -10,7 +10,8 @@
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_III",
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IV",
     "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_V",
-    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_VI"
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_VI",
+    "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_VII"
   ],
   "scope": {
     "sermons_traditional": 96,
@@ -89,15 +90,27 @@
       "voice_notes": 7,
       "complete_work": true,
       "editorial_caveat": "Wikisource Ballerini–Migne text checked against its visible apparatus: et bonitas absent from first edition; Vallicellian testetur and omission of doxological words. Critical print collation pending."
+    },
+    {
+      "group": "sermones",
+      "number": 7,
+      "section": "complete Sermo VII, De Collectis II, PL 54 col. 159A–B",
+      "paragraphs": 5,
+      "latin_tokens": 123,
+      "lexical_coverage": "123/123 first-pass contextual lexical cards; homograph audit pending",
+      "translation": "complete first-pass Spanish translation",
+      "voice_notes": 5,
+      "complete_work": true,
+      "editorial_caveat": "Base Ballerini–Migne Wikisource. Apparatus: first edition eleemosynam for alimoniam; collectiones for collectas in some witnesses, collationes rejected. Source collation against printed PL and other witnesses pending; biblical citations supplied in commentary rather than embedded in Latin."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 7,
-    "beginning": "Sermo VII — verify Latin incipit",
-    "location": "PL 54, Sermo VII"
+    "number": 8,
+    "beginning": "Sermo VIII — verify Latin incipit",
+    "location": "PL 54, Sermo VIII"
   },
-  "priority": "Begin Sermo VII; review Sermo VI apparatus and morphology in second pass",
+  "priority": "Begin Sermo VIII; second-pass critical collation of Sermo VII",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
