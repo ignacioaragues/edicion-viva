@@ -1212,12 +1212,24 @@
         "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
         "https://gamefunjr.com/library/robert/robertmar6.htm"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 14,
+      "to": 16,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "54 fichas posicionales verificadas",
+      "external_references": [
+        "https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
+        "https://research.stmarys.ac.uk/3503/1/Shedd-Beheading-John-the-Baptist.pdf"
+      ]
     }
   ],
-  "pending": "Continuar en Marcos 6,7; Vulgata opcional y segunda revisión filológica integral pendientes.",
+  "pending": "Continuar en Marcos 6,17; Vulgata opcional y segunda revisión filológica integral pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 14
+    "verse": 17
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2830,6 +2842,20 @@
     "sources": [
       "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
       "https://gamefunjr.com/library/robert/robertmar6.htm"
+    ]
+  },
+  "prepublication_research_6_14_16": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": {
+      "14": 28,
+      "15": 15,
+      "16": 11
+    },
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
+      "https://research.stmarys.ac.uk/3503/1/Shedd-Beheading-John-the-Baptist.pdf"
     ]
   }
 }
