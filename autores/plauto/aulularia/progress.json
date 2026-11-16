@@ -997,6 +997,15 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia IV.6, Packhum and The Latin Library, consulted 2026-11-17; direct Leo 1895 collation pending",
       "note": "10 aligned verses, 66 word-level analyses and contextual glosses; no retrospective morphology certified, pending safe stable-ID migration."
+    },
+    {
+      "section": "IV.6",
+      "from": 677,
+      "to": 681,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.6, The Latin Library; Leo 1895 direct collation pending",
+      "tokens": 38
     }
   ],
   "pending": [
@@ -1006,8 +1015,8 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.6, versos 677–681 (Estróbilo); second-pass II.1 160–164 after stable-ID migration",
-  "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto. | 2026-11-16: vv. 641–645 incorporated, 45 glossed morphology entries; pending direct Leo collation and browser QA. Consecutive second pass remains at 159. | 2026-11-17: vv. 646–650 added; second pass remains 159, awaiting identifier compatibility work.",
+  "next": "IV.7, versos 682–691; second-pass II.1 160–164 after stable-ID migration",
+  "editorial_note": "IV.6 677–681: 38 fichas con glosas contextuales; segunda pasada permanece hasta 159; cotejo directo Leo y revisión visual pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
