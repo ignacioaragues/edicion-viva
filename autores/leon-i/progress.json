@@ -68,12 +68,12 @@
     {
       "group": "sermones",
       "number": 5,
-      "section": "Sermo V caput I complete (§§1–6), PL 54 col. 153A–C; capita II–V pending",
-      "paragraphs": 6,
-      "latin_tokens": 196,
-      "lexical_coverage": "196/196 first-pass contextual lexical cards",
-      "translation": "caput I translated; capita II–V pending",
-      "voice_notes": 6,
+      "section": "Sermo V caput I complete (§§1–6), caput II partial (§§7–8), PL 54 col. 153A–D",
+      "paragraphs": 8,
+      "latin_tokens": 288,
+      "lexical_coverage": "288/288 token occurrences with first-pass lexical cards",
+      "translation": "caput I complete and caput II first two units translated; remaining caput II and capita III–V pending",
+      "voice_notes": 8,
       "complete_work": false,
       "editorial_caveat": "First-pass Latin from Ballerini–Migne Wikisource, normalized ae/oe and omitted inline scriptural references in Latin display; critical collation and restoration of references pending. Historical Prosper attribution noted in apparatus."
     }
@@ -81,8 +81,8 @@
   "next": {
     "group": "sermones",
     "number": 5,
-    "beginning": "Quae conditio si omnes sacerdotes generaliter tenet",
-    "location": "PL 54, Sermo V, caput II, col. 153C"
+    "beginning": "In hac ergo materia trepidationis",
+    "location": "PL 54, Sermo V, caput II, col. 153D–154A"
   },
   "priority": "Finish Sermo V capita II–V before Sermo VI",
   "last_edit": "2026-11-16",
