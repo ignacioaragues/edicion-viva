@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–149",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–149C",
   "status": "partial",
-  "next": "Caput II: cum multo utilius multoque sit dignius",
+  "next": "Caput II: Et tamen de toto mundo unus Petrus eligitur",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -92,6 +92,26 @@ window.LEO_SERMO_I = {
       "note": [
         "La alegría como argumento",
         "Magna ... verior tamen ... excellentior desplaza el foco de la celebración desde el obispo hacia una causa superior. La condición si non ... remoremini pide al auditorio que no se detenga en la humilitas del hablante."
+      ]
+    },
+    {
+      "id": "s4-10",
+      "label": "10",
+      "latin": "cum multo utilius multoque sit dignius ad beatissimi Petri apostoli gloriam contemplandam aciem mentis attollere, et hunc diem in illius potissimum veneratione celebrare, qui ab ipso omnium charismatum fonte tam copiosis est irrigationibus inundatus, ut cum multa solus acceperit, nihil in quemquam sine ipsius participatione transierit.",
+      "spanish": "pues es mucho más provechoso y mucho más digno elevar la mirada de la mente para contemplar la gloria del bienaventurado apóstol Pedro y celebrar este día principalmente en su veneración: él fue inundado por corrientes tan abundantes procedentes de la fuente misma de todos los dones, que, aunque recibió muchos él solo, nada pasó a nadie sin su participación.",
+      "note": [
+        "Elevar la mirada hacia Pedro",
+        "La doble comparación multo utilius multoque dignius dirige la atención del auditorio desde la persona del obispo hacia Pedro. La metáfora de la fuente y las corrientes expresa una distribución mediada de los dones, no una posesión autónoma."
+      ]
+    },
+    {
+      "id": "s4-11",
+      "label": "11",
+      "latin": "Verbum caro factum jam habitabat in nobis, et reparando humano generi totum se Christus impenderat. Nihil indispositum sapientiae, nihil erat arduum potestati. Famulabantur elementa, ministrabant spiritus, angeli serviebant, nec ullo modo poterat inefficax esse sacramentum, quod simul ipsius Deitatis unitas operabatur et Trinitas.",
+      "spanish": "El Verbo hecho carne habitaba ya entre nosotros, y Cristo se había entregado por entero a restaurar el género humano. Nada quedaba sin ordenar para su sabiduría, nada era difícil para su poder. Los elementos le obedecían, los espíritus le prestaban servicio, los ángeles lo servían, y de ningún modo podía resultar ineficaz el misterio que obraban conjuntamente la unidad de la divinidad y la Trinidad.",
+      "note": [
+        "Poder absoluto antes de la elección",
+        "La anáfora nihil ... nihil y la triple enumeración famulabantur / ministrabant / serviebant establecen la suficiencia de Cristo; el posterior et tamen hará más marcada la singular elección de Pedro."
       ]
     }
   ],
@@ -1195,6 +1215,321 @@ window.LEO_SERMO_I = {
       "remoror",
       "presente subjuntivo deponente segunda plural",
       "os detengáis"
+    ],
+    "multo": [
+      "multus",
+      "ablativo neutro singular de medida",
+      "mucho"
+    ],
+    "utilius": [
+      "utiliter",
+      "comparativo adverbial",
+      "más provechosamente"
+    ],
+    "multoque": [
+      "multus + -que",
+      "ablativo de medida con enclítica",
+      "y mucho"
+    ],
+    "dignius": [
+      "digne",
+      "comparativo adverbial",
+      "más dignamente"
+    ],
+    "gloriam": [
+      "gloria",
+      "acusativo femenino singular",
+      "gloria"
+    ],
+    "contemplandam": [
+      "contemplor",
+      "gerundivo acusativo femenino singular",
+      "para contemplar"
+    ],
+    "aciem": [
+      "acies",
+      "acusativo femenino singular",
+      "mirada / agudeza"
+    ],
+    "mentis": [
+      "mens",
+      "genitivo femenino singular",
+      "de la mente"
+    ],
+    "attollere": [
+      "attollo",
+      "infinitivo presente activo",
+      "elevar"
+    ],
+    "hunc": [
+      "hic",
+      "acusativo masculino singular",
+      "este"
+    ],
+    "diem": [
+      "dies",
+      "acusativo masculino singular",
+      "día"
+    ],
+    "illius": [
+      "ille",
+      "genitivo masculino singular",
+      "de aquel"
+    ],
+    "potissimum": [
+      "potissimum",
+      "adverbio",
+      "principalmente"
+    ],
+    "veneratione": [
+      "veneratio",
+      "ablativo femenino singular",
+      "veneración"
+    ],
+    "celebrare": [
+      "celebro",
+      "infinitivo presente activo",
+      "celebrar"
+    ],
+    "qui": [
+      "qui",
+      "nominativo masculino singular relativo",
+      "quien"
+    ],
+    "ipso": [
+      "ipse",
+      "ablativo masculino singular",
+      "mismo"
+    ],
+    "omnium": [
+      "omnis",
+      "genitivo plural",
+      "de todos"
+    ],
+    "charismatum": [
+      "charisma",
+      "genitivo neutro plural",
+      "dones"
+    ],
+    "fonte": [
+      "fons",
+      "ablativo masculino singular",
+      "fuente"
+    ],
+    "copiosis": [
+      "copiosus",
+      "ablativo femenino plural",
+      "abundantes"
+    ],
+    "irrigationibus": [
+      "irrigatio",
+      "ablativo femenino plural",
+      "corrientes"
+    ],
+    "inundatus": [
+      "inundo",
+      "participio perfecto pasivo nominativo masculino singular",
+      "inundado"
+    ],
+    "multa": [
+      "multus",
+      "acusativo neutro plural",
+      "muchas cosas"
+    ],
+    "solus": [
+      "solus",
+      "nominativo masculino singular",
+      "él solo"
+    ],
+    "acceperit": [
+      "accipio",
+      "perfecto subjuntivo activo 3.ª singular",
+      "haya recibido"
+    ],
+    "nihil": [
+      "nihil",
+      "pronombre indeclinable",
+      "nada"
+    ],
+    "quemquam": [
+      "quisquam",
+      "acusativo singular",
+      "nadie"
+    ],
+    "sine": [
+      "sine",
+      "preposición con ablativo",
+      "sin"
+    ],
+    "ipsius": [
+      "ipse",
+      "genitivo masculino singular",
+      "de él"
+    ],
+    "participatione": [
+      "participatio",
+      "ablativo femenino singular",
+      "participación"
+    ],
+    "transierit": [
+      "transeo",
+      "perfecto subjuntivo activo 3.ª singular",
+      "haya pasado"
+    ],
+    "Verbum": [
+      "verbum",
+      "nominativo neutro singular",
+      "Verbo"
+    ],
+    "caro": [
+      "caro",
+      "nominativo femenino singular",
+      "carne"
+    ],
+    "jam": [
+      "iam",
+      "adverbio",
+      "ya"
+    ],
+    "habitabat": [
+      "habito",
+      "imperfecto indicativo activo 3.ª singular",
+      "habitaba"
+    ],
+    "reparando": [
+      "reparo",
+      "gerundivo dativo masculino singular",
+      "para restaurar"
+    ],
+    "humano": [
+      "humanus",
+      "dativo masculino singular",
+      "humano"
+    ],
+    "generi": [
+      "genus",
+      "dativo neutro singular",
+      "género"
+    ],
+    "totum": [
+      "totus",
+      "acusativo masculino singular",
+      "entero"
+    ],
+    "Christus": [
+      "Christus",
+      "nominativo masculino singular",
+      "Cristo"
+    ],
+    "impenderat": [
+      "impendo",
+      "pluscuamperfecto indicativo activo 3.ª singular",
+      "había entregado"
+    ],
+    "Nihil": [
+      "nihil",
+      "pronombre neutro indeclinable",
+      "nada"
+    ],
+    "indispositum": [
+      "indispositus",
+      "nominativo neutro singular",
+      "sin ordenar"
+    ],
+    "sapientiae": [
+      "sapientia",
+      "dativo femenino singular",
+      "para la sabiduría"
+    ],
+    "erat": [
+      "sum",
+      "imperfecto indicativo 3.ª singular",
+      "era"
+    ],
+    "arduum": [
+      "arduus",
+      "nominativo neutro singular",
+      "difícil"
+    ],
+    "potestati": [
+      "potestas",
+      "dativo femenino singular",
+      "para el poder"
+    ],
+    "Famulabantur": [
+      "famulor",
+      "imperfecto indicativo deponente 3.ª plural",
+      "servían"
+    ],
+    "elementa": [
+      "elementum",
+      "nominativo neutro plural",
+      "elementos"
+    ],
+    "ministrabant": [
+      "ministro",
+      "imperfecto indicativo activo 3.ª plural",
+      "prestaban servicio"
+    ],
+    "spiritus": [
+      "spiritus",
+      "nominativo masculino plural",
+      "espíritus"
+    ],
+    "angeli": [
+      "angelus",
+      "nominativo masculino plural",
+      "ángeles"
+    ],
+    "serviebant": [
+      "servio",
+      "imperfecto indicativo activo 3.ª plural",
+      "servían"
+    ],
+    "ullo": [
+      "ullus",
+      "ablativo masculino singular",
+      "algún"
+    ],
+    "modo": [
+      "modus",
+      "ablativo masculino singular",
+      "modo"
+    ],
+    "poterat": [
+      "possum",
+      "imperfecto indicativo 3.ª singular",
+      "podía"
+    ],
+    "inefficax": [
+      "inefficax",
+      "nominativo neutro singular",
+      "ineficaz"
+    ],
+    "simul": [
+      "simul",
+      "adverbio",
+      "conjuntamente"
+    ],
+    "Deitatis": [
+      "deitas",
+      "genitivo femenino singular",
+      "de la divinidad"
+    ],
+    "unitas": [
+      "unitas",
+      "nominativo femenino singular",
+      "unidad"
+    ],
+    "operabatur": [
+      "operor",
+      "imperfecto indicativo deponente 3.ª singular",
+      "obraba"
+    ],
+    "Trinitas": [
+      "trinitas",
+      "nominativo femenino singular",
+      "Trinidad"
     ]
   }
 };
