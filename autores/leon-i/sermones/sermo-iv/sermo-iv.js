@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–150C",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III (III partial), col. 148–151A",
   "status": "partial",
-  "next": "Caput III: Hanc confessionem portae inferi non tenebunt",
+  "next": "Caput III: Transivit quidem etiam in alios apostolos",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -202,6 +202,36 @@ window.LEO_SERMO_I = {
       "note": [
         "Cristo y Pedro",
         "La glosa fortitudinem ... firmitate transforma la roca de Mateo 16,18 en imagen de estabilidad de la confesión."
+      ]
+    },
+    {
+      "id": "s4-21",
+      "label": "21",
+      "latin": "Hanc confessionem portae inferi non tenebunt, mortis vincula non ligabunt: vox enim ista, vox vitae est.",
+      "spanish": "Esta confesión no será retenida por las puertas del infierno ni atada por los vínculos de la muerte: pues esta voz es voz de vida.",
+      "note": [
+        "Voz de vida",
+        "La anáfora vox ... vox y el paralelismo non tenebunt ... non ligabunt relacionan la confesión con la victoria sobre la muerte."
+      ]
+    },
+    {
+      "id": "s4-22",
+      "label": "22",
+      "latin": "Et sicut confessores suos in coelestia provehit, ita negatores ad inferna demergit.",
+      "spanish": "Y así como eleva a los que lo confiesan hacia las alturas celestiales, así hunde a quienes lo niegan en las profundidades infernales.",
+      "note": [
+        "Dos direcciones",
+        "La correlación sicut ... ita y los verbos provehit / demergit oponen el ascenso de los confesores al descenso de los negadores."
+      ]
+    },
+    {
+      "id": "s4-23",
+      "label": "23",
+      "latin": "Propter quod dicitur beatissimo Petro: Tibi dabo claves regni coelorum. Et quaecumque ligaveris super terram, erunt ligata et in coelis; et quaecumque solveris super terram, erunt soluta et in coelis.",
+      "spanish": "Por eso se dice al bienaventurado Pedro: «Te daré las llaves del reino de los cielos. Y cuanto ates en la tierra quedará atado también en los cielos; y cuanto desates en la tierra quedará desatado también en los cielos».",
+      "note": [
+        "Las llaves",
+        "La cita de Mateo 16,19 vincula la potestad de atar y desatar con una correspondencia entre tierra y cielo. La transcripción de Wikisource lee lignaveris; se adopta provisionalmente ligaveris, pendiente de cotejo impreso."
       ]
     }
   ],
@@ -2445,6 +2475,166 @@ window.LEO_SERMO_I = {
       "meus",
       "genitivo femenino singular",
       "de mi"
+    ],
+    "Bar": [
+      "Bar",
+      "elemento arameo indeclinable de nombre propio",
+      "hijo de"
+    ],
+    "Jona": [
+      "Jona",
+      "nombre propio indeclinable",
+      "Jonás"
+    ],
+    "confessionem": [
+      "confessio",
+      "acusativo femenino singular",
+      "confesión"
+    ],
+    "tenebunt": [
+      "teneo",
+      "futuro indicativo 3.ª plural",
+      "retendrán"
+    ],
+    "mortis": [
+      "mors",
+      "genitivo femenino singular",
+      "de la muerte"
+    ],
+    "vincula": [
+      "vinculum",
+      "nominativo neutro plural",
+      "ataduras"
+    ],
+    "ligabunt": [
+      "ligo",
+      "futuro indicativo 3.ª plural",
+      "atarán"
+    ],
+    "vox": [
+      "vox",
+      "nominativo femenino singular",
+      "voz"
+    ],
+    "ista": [
+      "iste",
+      "nominativo femenino singular",
+      "esta"
+    ],
+    "vitae": [
+      "vita",
+      "genitivo femenino singular",
+      "de vida"
+    ],
+    "confessores": [
+      "confessor",
+      "acusativo masculino plural",
+      "a los confesores"
+    ],
+    "suos": [
+      "suus",
+      "acusativo masculino plural",
+      "suyos"
+    ],
+    "coelestia": [
+      "caelestis",
+      "acusativo neutro plural sustantivado",
+      "regiones celestiales"
+    ],
+    "provehit": [
+      "proveho",
+      "presente indicativo 3.ª singular",
+      "eleva"
+    ],
+    "negatores": [
+      "negator",
+      "acusativo masculino plural",
+      "a los que niegan"
+    ],
+    "inferna": [
+      "infernus",
+      "acusativo neutro plural sustantivado",
+      "regiones inferiores"
+    ],
+    "demergit": [
+      "demergo",
+      "presente indicativo 3.ª singular",
+      "hunde"
+    ],
+    "Propter": [
+      "propter",
+      "preposición con acusativo",
+      "por"
+    ],
+    "dicitur": [
+      "dico",
+      "presente indicativo pasivo 3.ª singular",
+      "se dice"
+    ],
+    "beatissimo": [
+      "beatus",
+      "dativo masculino singular superlativo",
+      "al bienaventuradísimo"
+    ],
+    "Petro": [
+      "Petrus",
+      "dativo masculino singular",
+      "a Pedro"
+    ],
+    "dabo": [
+      "do",
+      "futuro indicativo 1.ª singular",
+      "daré"
+    ],
+    "claves": [
+      "clavis",
+      "acusativo femenino plural",
+      "llaves"
+    ],
+    "regni": [
+      "regnum",
+      "genitivo neutro singular",
+      "del reino"
+    ],
+    "coelorum": [
+      "caelum",
+      "genitivo neutro plural",
+      "de los cielos"
+    ],
+    "quaecumque": [
+      "quicumque",
+      "acusativo neutro plural",
+      "cuantas cosas"
+    ],
+    "ligaveris": [
+      "ligo",
+      "futuro perfecto indicativo 2.ª singular",
+      "hayas atado"
+    ],
+    "terram": [
+      "terra",
+      "acusativo femenino singular",
+      "tierra"
+    ],
+    "erunt": [
+      "sum",
+      "futuro indicativo 3.ª plural",
+      "serán"
+    ],
+    "ligata": [
+      "ligo",
+      "participio perfecto pasivo nominativo neutro plural",
+      "atadas"
+    ],
+    "solveris": [
+      "solvo",
+      "futuro perfecto indicativo 2.ª singular",
+      "hayas desatado"
+    ],
+    "soluta": [
+      "solvo",
+      "participio perfecto pasivo nominativo neutro plural",
+      "desatadas"
     ]
   }
 };
