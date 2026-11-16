@@ -880,6 +880,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.2 (consultado 2026-11-16), https://www.thelatinlibrary.com/plautus/aulularia.shtml; cotejo directo Leo pendiente",
       "note": "40 fichas con glosas contextuales; quoiquam dativo arcaico; indicassis forma sincopada; ne exclamativo en 610; invenerit ambiguo futuro perfecto/perfecto subjuntivo. No se ha certificado QA visual ni cotejo directo con Leo."
+    },
+    {
+      "section": "IV.2",
+      "from": 612,
+      "to": 615,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.2, https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); Friedrich Leo 1895 direct collation pending",
+      "note": "40 fichas con glosas contextuales; fide en tuae fide pendiente de cotejo crítico. Revisión retrospectiva consecutiva sin avanzar por problema de numeración 160–161. QA visual pendiente."
     }
   ],
   "pending": [
