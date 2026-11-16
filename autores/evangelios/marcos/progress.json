@@ -1175,12 +1175,25 @@
       "to": 4,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 6,
+      "from": 5,
+      "to": 6,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "27/27 fichas posicionales cotejadas con MorphGNT 6.12",
+      "external_references": [
+        "https://tips.translation.bible/story/translation-commentary-on-mark-65-66/",
+        "https://www.biblehub.com/commentaries/meyer/mark/6.htm",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/6"
+      ]
     }
   ],
-  "pending": "Continuar en Marcos 6,5; segunda revisión filológica de 6,3–4 pendiente.",
+  "pending": "Continuar en Marcos 6,7; Vulgata opcional y segunda revisión filológica integral pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 5
+    "verse": 7
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2756,6 +2769,17 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.cambridge.org/core/journals/new-testament-studies/article/marks-mothers-and-the-matronymic-linking-the-son-of-mary-mk-63-to-the-daughter-of-herodias-mk-622/C789C196C3EE0F16BCDB5A2C726302ED",
       "https://biblehub.com/commentaries/egt/mark/6.htm"
+    ]
+  },
+  "prepublication_research_6_5_6": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "27/27 fichas",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://tips.translation.bible/story/translation-commentary-on-mark-65-66/",
+      "https://www.biblehub.com/commentaries/meyer/mark/6.htm",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/6"
     ]
   }
 }
