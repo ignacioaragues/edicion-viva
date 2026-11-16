@@ -1,4 +1,4 @@
-/* Lector del Sermón VI de León. Conserva la estructura .verse de Edición Viva,
+/* Lector del Sermón VIII de León. Conserva la estructura .verse de Edición Viva,
    compatible con resaltados, estadísticas de lectura y vista en bloques. */
 (() => {
   "use strict";
@@ -33,11 +33,11 @@
     popup.hidden=true;note.hidden=true;
     document.querySelectorAll(".token[aria-pressed]").forEach(el=>el.removeAttribute("aria-pressed"));
   }
-  function renderWords(text,node,section){
+  function renderWords(text,node,section,overrides={}){
     const token=/[\p{L}\p{M}]+/gu;let last=0;
     for(const m of text.matchAll(token)) {
       if(m.index>last)node.append(document.createTextNode(text.slice(last,m.index)));
-      const value=lex(m[0]),word=document.createElement("button");
+      const value=overrides[m[0]]||lex(m[0]),word=document.createElement("button");
       word.type="button";word.className="token";word.textContent=m[0];word.setAttribute("aria-label","Ver ficha de "+m[0]);
       if(value)word.addEventListener("click",()=>showWord(m[0],value,section,word));
       else {word.disabled=true;console.warn("Sin ficha:",m[0],section);}
@@ -62,7 +62,7 @@
     const row=document.createElement("div");row.id=p.id;row.className="verse";
     const n=document.createElement("span");n.className="number";n.textContent=p.label;
     const original=document.createElement("div");original.className="speech";
-    const la=document.createElement("p");la.className="latin";la.lang="la";renderWords(p.latin,la,p.label);original.append(la);
+    const la=document.createElement("p");la.className="latin";la.lang="la";renderWords(p.latin,la,p.label,p.lexicon||{});original.append(la);
     if(p.note){
       const button=document.createElement("button");button.className="note-anchor";button.type="button";
       button.textContent="n";button.setAttribute("aria-label","Nota del pasaje "+p.label);
