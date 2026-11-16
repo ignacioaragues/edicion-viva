@@ -916,6 +916,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (2026-11-16); direct Leo collation pending",
       "note": "34 tokens, complete contextual glosses, omen of corvos and onomatopoeic croccibat. Retrospective audit unchanged at 159 pending identifier-safe migration of 142-161. No browser QA."
+    },
+    {
+      "section": "IV.4",
+      "from": 628,
+      "to": 632,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.4 https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); direct collation with Leo 1895 pending",
+      "note": "45 tokens individually aligned with morphological analyses and contextual Spanish glosses. Notes on lumbrice, praestrigiator and partitive commerci. Retrospective second pass not advanced: legacy 142–161 IDs still require safe migration. Browser QA pending."
     }
   ],
   "pending": [
@@ -927,7 +936,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "IV.4",
-    "from": 628
+    "from": 633
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
