@@ -835,6 +835,15 @@
       "status": "edited_not_revised",
       "source": "Plautus Aulularia III.6 580–586, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo (1895) via Perseus cited but direct apparatus collation pending",
       "note": "End of III.6. Original Spanish translation; 54 token-level morphology and contextual glosses; Fides/fiducia and factu note. Retroactive review remains 159 pending structural correction; browser QA pending."
+    },
+    {
+      "section": "IV.1",
+      "from": 587,
+      "to": 591,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Friedrich Leo (1895), Perseus (attribution); cotejo textual The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (2026-11-16)",
+      "note": "Estróbilo, apertura de monólogo. Traducción propia y glosas contextuales por token. Pendiente colación directa de Leo, QA visual y auditoría retrospectiva; numeración previa sin modificar."
     }
   ],
   "pending": [
@@ -846,7 +855,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "IV.1",
-    "verse": 587
+    "verse": 592
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
