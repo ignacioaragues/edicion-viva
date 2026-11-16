@@ -6,12 +6,12 @@ function render(type) {
   container.replaceChildren();
   const count=type==='sermones'?96:173;
   for(let n=1;n<=count;n++){
-    const available=type==='sermones'&&(n>=1&&n<=5);
+    const available=type==='sermones'&&(n>=1&&n<=6);
     const item=document.createElement(available?'a':'span');
     item.textContent=(type==='sermones'?'Sermo ':'Ep. ')+toRoman(n);
-    const sub=document.createElement('small');sub.textContent=available?(n===5?'Edición parcial':'Edición completa'):'Pendiente';
+    const sub=document.createElement('small');sub.textContent=available?('Edición completa'):'Pendiente';
     item.append(sub);
-    if(available)item.href=n===1?'./sermones/sermo-i/':n===2?'./sermones/sermo-ii/':n===3?'./sermones/sermo-iii/' :n===4?'./sermones/sermo-iv/':'./sermones/sermo-v/';
+    if(available)item.href=n===1?'./sermones/sermo-i/':n===2?'./sermones/sermo-ii/':n===3?'./sermones/sermo-iii/' :n===4?'./sermones/sermo-iv/':n===5?'./sermones/sermo-v/':'./sermones/sermo-vi/';
     container.append(item);
   }
 }
