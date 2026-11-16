@@ -844,6 +844,15 @@
       "status": "edited_not_revised",
       "source": "Friedrich Leo (1895), Perseus (attribution); cotejo textual The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (2026-11-16)",
       "note": "Estróbilo, apertura de monólogo. Traducción propia y glosas contextuales por token. Pendiente colación directa de Leo, QA visual y auditoría retrospectiva; numeración previa sin modificar."
+    },
+    {
+      "section": "IV.1",
+      "from": 592,
+      "to": 598,
+      "verses": 7,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.1; Leo (1895) reference, direct apparatus collation pending",
+      "note": "Bracketed passage; 598 lacuna and <eum> preserved; contextual glosses for every token. No consecutive retroactive morphology certified because numbering issue at 160–161 remains."
     }
   ],
   "pending": [
@@ -855,7 +864,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "IV.1",
-    "verse": 592
+    "verse": 599
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
