@@ -68,23 +68,23 @@
     {
       "group": "sermones",
       "number": 5,
-      "section": "Sermo V caput I complete (§§1–6), caput II partial (§§7–8), PL 54 col. 153A–D",
-      "paragraphs": 8,
-      "latin_tokens": 288,
-      "lexical_coverage": "288/288 token occurrences with first-pass lexical cards",
-      "translation": "caput I complete and caput II first two units translated; remaining caput II and capita III–V pending",
-      "voice_notes": 8,
+      "section": "Sermo V capita I–II complete (§§1–10), PL 54 col. 153A–154B",
+      "paragraphs": 10,
+      "latin_tokens": 415,
+      "lexical_coverage": "415/415 token occurrences with first-pass contextual lexical cards",
+      "translation": "capita I–II translated; capita III–V pending",
+      "voice_notes": 10,
       "complete_work": false,
-      "editorial_caveat": "First-pass Latin from Ballerini–Migne Wikisource, normalized ae/oe and omitted inline scriptural references in Latin display; critical collation and restoration of references pending. Historical Prosper attribution noted in apparatus."
+      "editorial_caveat": "First pass only. Source Wikisource has transcription errors (e.g. gergibus for gregibus), and printed apparatus/modern critical collation pending; historical Prosper attribution noted. Scriptural citations are in commentary, not yet inline in Latin."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 5,
-    "beginning": "In hac ergo materia trepidationis",
-    "location": "PL 54, Sermo V, caput II, col. 153D–154A"
+    "beginning": "Adest igitur, dilectissimi, quod non temere, sed fideliter confitemur",
+    "location": "PL 54, Sermo V, caput III, col. 154B"
   },
-  "priority": "Finish Sermo V capita II–V before Sermo VI",
+  "priority": "Complete Sermo V capita III–V before Sermo VI",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
