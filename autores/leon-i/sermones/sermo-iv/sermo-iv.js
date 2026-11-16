@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–149C",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–II, col. 148–150B",
   "status": "partial",
-  "next": "Caput II: Et tamen de toto mundo unus Petrus eligitur",
+  "next": "Caput II: Qui cum dixisset: Tu es Christus Filius Dei vivi",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -112,6 +112,46 @@ window.LEO_SERMO_I = {
       "note": [
         "Poder absoluto antes de la elección",
         "La anáfora nihil ... nihil y la triple enumeración famulabantur / ministrabant / serviebant establecen la suficiencia de Cristo; el posterior et tamen hará más marcada la singular elección de Pedro."
+      ]
+    },
+    {
+      "id": "s4-12",
+      "label": "12",
+      "latin": "Et tamen de toto mundo unus Petrus eligitur, qui et universarum gentium vocationi, et omnibus apostolis, cunctisque Ecclesiae Patribus praeponatur: ut quamvis in populo Dei multi sacerdotes sint multique pastores, omnes tamen proprie regat Petrus, quos principaliter regit et Christus.",
+      "spanish": "Y, sin embargo, de todo el mundo es elegido uno solo, Pedro, para ser puesto al frente de la vocación de todas las naciones, de todos los apóstoles y de todos los padres de la Iglesia: de modo que, aunque en el pueblo de Dios haya muchos sacerdotes y muchos pastores, Pedro gobierne de manera particular a todos aquellos a quienes Cristo también gobierna de manera principal.",
+      "note": [
+        "Elección singular y pluralidad pastoral",
+        "Et tamen contrapone la suficiencia de Cristo a la elección singular. Quamvis ... tamen admite la pluralidad de pastores sin abandonar la primacía de Pedro. El aparato registra que Quesnel omitió multique pastores."
+      ]
+    },
+    {
+      "id": "s4-13",
+      "label": "13",
+      "latin": "Magnum et mirabile, dilectissimi, huic viro consortium potentiae suae tribuit divina dignatio; et si quid cum eo commune caeteris voluit esse principibus, numquam nisi per ipsum dedit quidquid aliis non negavit.",
+      "spanish": "Grande y admirable, queridísimos, es la participación en su propio poder que la benevolencia divina concedió a este hombre; y, si quiso que algo fuese común a él y a los demás dirigentes, nunca concedió a los otros nada que no pasara por él.",
+      "note": [
+        "Poder compartido, mediación singular",
+        "Si quid ... commune reconoce el poder compartido, mientras numquam nisi per ipsum lo hace depender de la mediación de Pedro. Consortium no equivale a un poder independiente de Cristo."
+      ]
+    },
+    {
+      "id": "s4-14",
+      "label": "14",
+      "latin": "Omnes denique apostolos Dominus quid de se homines opinentur interrogat; et tamdiu sermo respondentium communis est, quamdiu humanae ignorantiae ambiguitas explicatur.",
+      "spanish": "Finalmente, el Señor pregunta a todos los apóstoles qué opinan los hombres acerca de él; y la respuesta sigue siendo común mientras se expone la incertidumbre de la ignorancia humana.",
+      "note": [
+        "De lo colectivo a lo singular",
+        "Tamdiu ... quamdiu prolonga la respuesta colectiva antes de destacar la confesión de Pedro. Ballerini–Migne registra ignorantiae en testimonios antiguos frente a intelligentiae en otros."
+      ]
+    },
+    {
+      "id": "s4-15",
+      "label": "15",
+      "latin": "At ubi quid habeat sensus discipulorum exigitur, primus est in Domini confessione, qui primus est in apostolica dignitate.",
+      "spanish": "Pero cuando se les pide manifestar lo que piensan los discípulos, el primero en confesar al Señor es quien ocupa el primer lugar en la dignidad apostólica.",
+      "note": [
+        "Primacía y paralelismo",
+        "Primus ... primus vincula el orden de la confesión con la precedencia apostólica. El aparato registra erat en Quesnel frente al est adoptado."
       ]
     }
   ],
@@ -363,7 +403,7 @@ window.LEO_SERMO_I = {
     ],
     "ut": [
       "ut",
-      "conjunción final o consecutiva",
+      "conjunción consecutiva",
       "de modo que"
     ],
     "ex": [
@@ -403,8 +443,8 @@ window.LEO_SERMO_I = {
     ],
     "omnes": [
       "omnis",
-      "nominativo plural",
-      "todos"
+      "acusativo masculino plural",
+      "a todos"
     ],
     "tamen": [
       "tamen",
@@ -483,7 +523,7 @@ window.LEO_SERMO_I = {
     ],
     "non": [
       "non",
-      "adverbio de negación",
+      "adverbio",
       "no"
     ],
     "connexionem": [
@@ -843,8 +883,8 @@ window.LEO_SERMO_I = {
     ],
     "se": [
       "sui",
-      "acusativo reflexivo",
-      "a sí mismos"
+      "ablativo reflexivo",
+      "sí mismo"
     ],
     "regii": [
       "regius",
@@ -973,12 +1013,12 @@ window.LEO_SERMO_I = {
     ],
     "cum": [
       "cum",
-      "conjunción concesiva con subjuntivo",
-      "aunque"
+      "preposición con ablativo",
+      "con"
     ],
     "omnibus": [
       "omnis",
-      "dativo masculino plural",
+      "dativo plural",
       "a todos"
     ],
     "gratiam": [
@@ -988,7 +1028,7 @@ window.LEO_SERMO_I = {
     ],
     "commune": [
       "communis",
-      "nominativo neutro singular",
+      "acusativo neutro singular",
       "común"
     ],
     "factum": [
@@ -1048,7 +1088,7 @@ window.LEO_SERMO_I = {
     ],
     "toto": [
       "totus",
-      "ablativo neutro singular",
+      "ablativo masculino singular",
       "todo"
     ],
     "Ecclesiae": [
@@ -1530,6 +1570,361 @@ window.LEO_SERMO_I = {
       "trinitas",
       "nominativo femenino singular",
       "Trinidad"
+    ],
+    "mundo": [
+      "mundus",
+      "ablativo masculino singular",
+      "mundo"
+    ],
+    "unus": [
+      "unus",
+      "nominativo masculino singular",
+      "uno"
+    ],
+    "Petrus": [
+      "Petrus",
+      "nominativo masculino singular",
+      "Pedro"
+    ],
+    "eligitur": [
+      "eligo",
+      "presente indicativo pasivo tercera singular",
+      "es elegido"
+    ],
+    "universarum": [
+      "universus",
+      "genitivo femenino plural",
+      "de todas"
+    ],
+    "gentium": [
+      "gens",
+      "genitivo femenino plural",
+      "naciones"
+    ],
+    "vocationi": [
+      "vocatio",
+      "dativo femenino singular",
+      "a la vocación"
+    ],
+    "apostolis": [
+      "apostolus",
+      "dativo masculino plural",
+      "apóstoles"
+    ],
+    "cunctisque": [
+      "cunctus + -que",
+      "dativo masculino plural con enclítica",
+      "y a todos"
+    ],
+    "Patribus": [
+      "pater",
+      "dativo masculino plural",
+      "padres"
+    ],
+    "praeponatur": [
+      "praepono",
+      "presente subjuntivo pasivo tercera singular",
+      "sea puesto al frente"
+    ],
+    "quamvis": [
+      "quamvis",
+      "conjunción concesiva",
+      "aunque"
+    ],
+    "populo": [
+      "populus",
+      "ablativo masculino singular",
+      "pueblo"
+    ],
+    "multi": [
+      "multus",
+      "nominativo masculino plural",
+      "muchos"
+    ],
+    "sacerdotes": [
+      "sacerdos",
+      "nominativo masculino plural",
+      "sacerdotes"
+    ],
+    "sint": [
+      "sum",
+      "presente subjuntivo tercera plural",
+      "sean"
+    ],
+    "multique": [
+      "multus + -que",
+      "nominativo masculino plural con enclítica",
+      "y muchos"
+    ],
+    "pastores": [
+      "pastor",
+      "nominativo masculino plural",
+      "pastores"
+    ],
+    "proprie": [
+      "proprie",
+      "adverbio",
+      "particularmente"
+    ],
+    "regat": [
+      "rego",
+      "presente subjuntivo activo tercera singular",
+      "gobierne"
+    ],
+    "quos": [
+      "qui",
+      "acusativo masculino plural relativo",
+      "a quienes"
+    ],
+    "principaliter": [
+      "principaliter",
+      "adverbio",
+      "principalmente"
+    ],
+    "regit": [
+      "rego",
+      "presente indicativo activo tercera singular",
+      "gobierna"
+    ],
+    "Magnum": [
+      "magnus",
+      "nominativo neutro singular",
+      "grande"
+    ],
+    "mirabile": [
+      "mirabilis",
+      "nominativo neutro singular",
+      "admirable"
+    ],
+    "huic": [
+      "hic",
+      "dativo masculino singular",
+      "a este"
+    ],
+    "viro": [
+      "vir",
+      "dativo masculino singular",
+      "hombre"
+    ],
+    "consortium": [
+      "consortium",
+      "acusativo neutro singular",
+      "participación"
+    ],
+    "potentiae": [
+      "potentia",
+      "genitivo femenino singular",
+      "del poder"
+    ],
+    "suae": [
+      "suus",
+      "genitivo femenino singular",
+      "propio"
+    ],
+    "tribuit": [
+      "tribuo",
+      "perfecto indicativo activo tercera singular",
+      "concedió"
+    ],
+    "divina": [
+      "divinus",
+      "nominativo femenino singular",
+      "divina"
+    ],
+    "dignatio": [
+      "dignatio",
+      "nominativo femenino singular",
+      "benevolencia"
+    ],
+    "quid": [
+      "quis",
+      "acusativo neutro singular indefinido",
+      "algo"
+    ],
+    "eo": [
+      "is",
+      "ablativo masculino singular",
+      "él"
+    ],
+    "caeteris": [
+      "ceterus",
+      "dativo masculino plural",
+      "a los demás"
+    ],
+    "voluit": [
+      "volo",
+      "perfecto indicativo activo tercera singular",
+      "quiso"
+    ],
+    "principibus": [
+      "princeps",
+      "dativo masculino plural",
+      "dirigentes"
+    ],
+    "numquam": [
+      "numquam",
+      "adverbio",
+      "nunca"
+    ],
+    "nisi": [
+      "nisi",
+      "conjunción restrictiva",
+      "sino"
+    ],
+    "ipsum": [
+      "ipse",
+      "acusativo masculino singular",
+      "él mismo"
+    ],
+    "dedit": [
+      "do",
+      "perfecto indicativo activo tercera singular",
+      "dio"
+    ],
+    "quidquid": [
+      "quidquid",
+      "pronombre indefinido neutro",
+      "todo lo que"
+    ],
+    "aliis": [
+      "alius",
+      "dativo masculino plural",
+      "a otros"
+    ],
+    "negavit": [
+      "nego",
+      "perfecto indicativo activo tercera singular",
+      "negó"
+    ],
+    "denique": [
+      "denique",
+      "adverbio",
+      "finalmente"
+    ],
+    "apostolos": [
+      "apostolus",
+      "acusativo masculino plural",
+      "a los apóstoles"
+    ],
+    "Dominus": [
+      "dominus",
+      "nominativo masculino singular",
+      "Señor"
+    ],
+    "homines": [
+      "homo",
+      "nominativo masculino plural",
+      "los hombres"
+    ],
+    "opinentur": [
+      "opinor",
+      "presente subjuntivo deponente tercera plural",
+      "opinen"
+    ],
+    "interrogat": [
+      "interrogo",
+      "presente indicativo activo tercera singular",
+      "pregunta"
+    ],
+    "tamdiu": [
+      "tamdiu",
+      "adverbio correlativo",
+      "mientras"
+    ],
+    "sermo": [
+      "sermo",
+      "nominativo masculino singular",
+      "discurso"
+    ],
+    "respondentium": [
+      "respondeo",
+      "participio presente genitivo plural",
+      "de quienes responden"
+    ],
+    "communis": [
+      "communis",
+      "nominativo masculino singular",
+      "común"
+    ],
+    "quamdiu": [
+      "quamdiu",
+      "adverbio correlativo",
+      "mientras"
+    ],
+    "humanae": [
+      "humanus",
+      "genitivo femenino singular",
+      "humana"
+    ],
+    "ignorantiae": [
+      "ignorantia",
+      "genitivo femenino singular",
+      "de ignorancia"
+    ],
+    "ambiguitas": [
+      "ambiguitas",
+      "nominativo femenino singular",
+      "incertidumbre"
+    ],
+    "explicatur": [
+      "explico",
+      "presente indicativo pasivo tercera singular",
+      "se expone"
+    ],
+    "At": [
+      "at",
+      "conjunción adversativa",
+      "pero"
+    ],
+    "ubi": [
+      "ubi",
+      "conjunción temporal",
+      "cuando"
+    ],
+    "habeat": [
+      "habeo",
+      "presente subjuntivo activo tercera singular",
+      "tenga"
+    ],
+    "sensus": [
+      "sensus",
+      "nominativo masculino singular",
+      "pensamiento"
+    ],
+    "discipulorum": [
+      "discipulus",
+      "genitivo masculino plural",
+      "de los discípulos"
+    ],
+    "exigitur": [
+      "exigo",
+      "presente indicativo pasivo tercera singular",
+      "se exige"
+    ],
+    "primus": [
+      "primus",
+      "nominativo masculino singular",
+      "primero"
+    ],
+    "Domini": [
+      "dominus",
+      "genitivo masculino singular",
+      "del Señor"
+    ],
+    "confessione": [
+      "confessio",
+      "ablativo femenino singular",
+      "en la confesión"
+    ],
+    "apostolica": [
+      "apostolicus",
+      "ablativo femenino singular",
+      "apostólica"
+    ],
+    "dignitate": [
+      "dignitas",
+      "ablativo femenino singular",
+      "en dignidad"
     ]
   }
 };
