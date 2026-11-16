@@ -898,6 +898,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.2, https://www.thelatinlibrary.com/plautus/aulularia.shtml (consultado 2026-11-16); cotejo directo con Friedrich Leo 1895 pendiente",
       "note": "64 fichas con glosa contextual; juego Fides/fidelis/fidelia, suplemento <virginis> (619), flexión de Fide (617) por cotejar. Correspondencia token-ficha validada; QA visual pendiente. Segunda pasada consecutiva permanece en 159 por problema histórico de numeración."
+    },
+    {
+      "section": "IV.2",
+      "from": 623,
+      "to": 623,
+      "verses": 1,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.2 v.623, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); direct Friedrich Leo 1895 collation pending",
+      "note": "Cierre de monólogo: oposición tibi/mihi, faciam/bibam, futuro perfecto fecero. 11 fichas y glosas contextuales. Auditoría retrospectiva 159 sin avance; validación visual pendiente."
     }
   ],
   "pending": [
@@ -908,8 +917,8 @@
   ],
   "updated": "2026-11-16",
   "next": {
-    "section": "IV.2",
-    "from": 623
+    "section": "IV.3",
+    "from": 624
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
