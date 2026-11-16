@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III (III partial), col. 148–151A",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III (III partial), col. 148–151B",
   "status": "partial",
-  "next": "Caput III: Nec nimia est vel severitas, vel remissio",
+  "next": "Caput III: Ego autem rogavi pro te, ne deficiat fides tua",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -263,6 +263,26 @@ window.LEO_SERMO_I = {
         "Privilegio condicionado por la equidad",
         "Ubicumque ... ex ipsius ... aequitate liga la permanencia del privilegio con la rectitud del juicio: la autoridad se formula en términos de criterio, no solo de precedencia."
       ]
+    },
+    {
+      "id": "s4-27",
+      "label": "27",
+      "latin": "Nec nimia est vel severitas, vel remissio, ubi nihil erit ligatum, nihil solutum, nisi quod beatus Petrus aut solverit aut ligaverit.",
+      "spanish": "No hay severidad excesiva ni indulgencia excesiva allí donde nada quedará atado ni desatado sino lo que el bienaventurado Pedro haya desatado o atado.",
+      "note": [
+        "Juicio y peligro",
+        "Severitas/remissio delimita dos excesos; nihil ... nihil y aut ... aut estructuran la jurisdicción atribuida a Pedro."
+      ]
+    },
+    {
+      "id": "s4-28",
+      "label": "28",
+      "latin": "Instante autem passione sua, Dominus, quae discipulorum erat turbatura constantiam, Simon, inquit, Simon, ecce Satanas expostulavit vos, ut cerneret sicut triticum.",
+      "spanish": "Pero, al aproximarse su pasión, que iba a perturbar la firmeza de los discípulos, el Señor dijo: «Simón, Simón, mirá, Satanás ha reclamado poder zarandearlos como trigo».",
+      "note": [
+        "Juicio y peligro",
+        "El vocativo duplicado Simon, Simon dramatiza el peligro compartido. La edición base lee cerneret; otras ediciones, cribraret."
+      ]
     }
   ],
   "lexicon": {
@@ -323,7 +343,7 @@ window.LEO_SERMO_I = {
     ],
     "quod": [
       "qui",
-      "pronombre relativo neutro singular",
+      "relativo neutro singular",
       "lo que"
     ],
     "in": [
@@ -513,8 +533,8 @@ window.LEO_SERMO_I = {
     ],
     "ut": [
       "ut",
-      "conjunción consecutiva",
-      "de modo que"
+      "conjunción final",
+      "para que"
     ],
     "ex": [
       "ex",
@@ -564,7 +584,7 @@ window.LEO_SERMO_I = {
     "sicut": [
       "sicut",
       "conjunción comparativa",
-      "así como"
+      "como"
     ],
     "ait": [
       "aio",
@@ -843,8 +863,8 @@ window.LEO_SERMO_I = {
     ],
     "autem": [
       "autem",
-      "conjunción adversativa",
-      "en cambio"
+      "conjunción pospositiva",
+      "pero"
     ],
     "genus": [
       "genus",
@@ -1333,7 +1353,7 @@ window.LEO_SERMO_I = {
     ],
     "erit": [
       "sum",
-      "futuro indicativo tercera singular",
+      "futuro indicativo 3.ª singular",
       "será"
     ],
     "causa": [
@@ -1498,7 +1518,7 @@ window.LEO_SERMO_I = {
     ],
     "nihil": [
       "nihil",
-      "pronombre indeclinable",
+      "pronombre neutro indeclinable",
       "nada"
     ],
     "quemquam": [
@@ -1594,7 +1614,7 @@ window.LEO_SERMO_I = {
     "erat": [
       "sum",
       "imperfecto indicativo 3.ª singular",
-      "era"
+      "estaba"
     ],
     "arduum": [
       "arduus",
@@ -1693,7 +1713,7 @@ window.LEO_SERMO_I = {
     ],
     "Petrus": [
       "Petrus",
-      "nominativo singular",
+      "nominativo masculino singular",
       "Pedro"
     ],
     "eligitur": [
@@ -1878,7 +1898,7 @@ window.LEO_SERMO_I = {
     ],
     "nisi": [
       "nisi",
-      "conjunción restrictiva",
+      "conjunción exceptiva",
       "sino"
     ],
     "ipsum": [
@@ -1988,8 +2008,8 @@ window.LEO_SERMO_I = {
     ],
     "ubi": [
       "ubi",
-      "conjunción temporal",
-      "cuando"
+      "adverbio relativo",
+      "donde"
     ],
     "habeat": [
       "habeo",
@@ -2083,7 +2103,7 @@ window.LEO_SERMO_I = {
     ],
     "Simon": [
       "Simon",
-      "vocativo singular",
+      "vocativo masculino singular",
       "Simón"
     ],
     "Bar-Jona": [
@@ -2138,7 +2158,7 @@ window.LEO_SERMO_I = {
     ],
     "beatus": [
       "beatus",
-      "nominativo singular",
+      "nominativo masculino singular",
       "bienaventurado"
     ],
     "te": [
@@ -2214,7 +2234,7 @@ window.LEO_SERMO_I = {
     "inquit": [
       "inquam",
       "presente indicativo defectivo 3.ª singular",
-      "dice"
+      "dijo"
     ],
     "hoc": [
       "hic",
@@ -2343,8 +2363,8 @@ window.LEO_SERMO_I = {
     ],
     "quae": [
       "qui",
-      "nominativo neutro plural",
-      "las cosas que"
+      "relativo nominativo femenino singular",
+      "la cual"
     ],
     "mihi": [
       "ego",
@@ -2785,6 +2805,121 @@ window.LEO_SERMO_I = {
       "iudicium",
       "nominativo neutro singular",
       "juicio"
+    ],
+    "Nec": [
+      "neque",
+      "conjunción negativa",
+      "ni"
+    ],
+    "nimia": [
+      "nimius",
+      "nominativo femenino singular",
+      "excesiva"
+    ],
+    "severitas": [
+      "severitas",
+      "nominativo femenino singular",
+      "severidad"
+    ],
+    "vel": [
+      "vel",
+      "conjunción disyuntiva",
+      "o"
+    ],
+    "remissio": [
+      "remissio",
+      "nominativo femenino singular",
+      "indulgencia"
+    ],
+    "ligatum": [
+      "ligo",
+      "participio perfecto pasivo neutro singular",
+      "atado"
+    ],
+    "solutum": [
+      "solvo",
+      "participio perfecto pasivo neutro singular",
+      "desatado"
+    ],
+    "aut": [
+      "aut",
+      "conjunción disyuntiva",
+      "o"
+    ],
+    "solverit": [
+      "solvo",
+      "futuro perfecto activo 3.ª singular",
+      "haya desatado"
+    ],
+    "ligaverit": [
+      "ligo",
+      "futuro perfecto activo 3.ª singular",
+      "haya atado"
+    ],
+    "Instante": [
+      "insto",
+      "participio presente ablativo femenino singular",
+      "al aproximarse"
+    ],
+    "passione": [
+      "passio",
+      "ablativo femenino singular",
+      "pasión"
+    ],
+    "sua": [
+      "suus",
+      "ablativo femenino singular",
+      "su"
+    ],
+    "turbatura": [
+      "turbo",
+      "participio futuro activo femenino singular",
+      "iba a perturbar"
+    ],
+    "constantiam": [
+      "constantia",
+      "acusativo femenino singular",
+      "firmeza"
+    ],
+    "ecce": [
+      "ecce",
+      "partícula deíctica",
+      "mirá"
+    ],
+    "Satanas": [
+      "Satanas",
+      "nominativo masculino singular",
+      "Satanás"
+    ],
+    "expostulavit": [
+      "expostulo",
+      "perfecto indicativo 3.ª singular",
+      "reclamó"
+    ],
+    "vos": [
+      "vos",
+      "acusativo plural",
+      "a ustedes"
+    ],
+    "cerneret": [
+      "cerno",
+      "imperfecto subjuntivo activo 3.ª singular",
+      "zarandeara (sentido contextual)"
+    ],
+    "triticum": [
+      "triticum",
+      "acusativo neutro singular",
+      "trigo"
+    ],
+    "Hanc": [
+      "hic",
+      "acusativo femenino singular",
+      "esta"
+    ],
+    "Tibi": [
+      "tu",
+      "dativo singular",
+      "a ti"
     ]
   }
 };
