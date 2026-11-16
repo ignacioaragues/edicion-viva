@@ -1261,12 +1261,19 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
         "https://www.studylight.org/commentaries/eng/icc/mark-6.html"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 22,
+      "to": 23,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
     }
   ],
-  "pending": "Continuar en Marcos 6,22; Vulgata opcional y segunda revisión filológica pendientes.",
+  "pending": "Continuar en Marcos 6,24; Vulgata opcional y segunda revisión filológica pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 22
+    "verse": 24
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2928,6 +2935,22 @@
       "https://www.biblestudytools.com/sblg/mark/6-21.html",
       "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
       "https://www.studylight.org/commentaries/eng/icc/mark-6.html"
+    ]
+  },
+  "prepublication_research_6_22_23": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": {
+      "22": 29,
+      "23": 15
+    },
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.jbtc.org/v28/TC-2023_Fellows.pdf",
+      "https://lemma.gebible.app/v/mark/6/22",
+      "https://www.misselbrook.org.uk/GNT/Mark.pdf"
     ]
   }
 }
