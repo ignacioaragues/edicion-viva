@@ -12,7 +12,14 @@ window.LEO_SERMO_I = {
       "note": [
         "Norma heredada",
         "La construcción impersonal est ... ut presenta la observancia como deber comunitario, y dilectissimi conserva la cercanía pastoral."
-      ]
+      ],
+      "lexicon": {
+        "quae": [
+          "qui",
+          "nominativo neutro plural relativo",
+          "las cosas que"
+        ]
+      }
     },
     {
       "id": "s8-2",
@@ -32,7 +39,19 @@ window.LEO_SERMO_I = {
       "note": [
         "Antítesis y combate",
         "Quantum ... tantum contrapone dos alegrías y daños; el campo semántico del combate hace de la caridad una acción contra el mal."
-      ]
+      ],
+      "lexicon": {
+        "quantum": [
+          "quantum",
+          "adverbio correlativo de grado",
+          "cuanto"
+        ],
+        "tantum": [
+          "tantum",
+          "adverbio correlativo de grado",
+          "tanto"
+        ]
+      }
     },
     {
       "id": "s8-4",
@@ -42,7 +61,19 @@ window.LEO_SERMO_I = {
       "note": [
         "Autoridad citada",
         "León introduce una prohibición paulina y dos preguntas antitéticas; no presenta estas preguntas como invención propia."
-      ]
+      ],
+      "lexicon": {
+        "Quae": [
+          "qui",
+          "nominativo femenino singular interrogativo",
+          "qué"
+        ],
+        "quae": [
+          "qui",
+          "nominativo femenino singular interrogativo",
+          "qué"
+        ]
+      }
     },
     {
       "id": "s8-5",
@@ -62,7 +93,14 @@ window.LEO_SERMO_I = {
       "note": [
         "Mandato concreto",
         "Volumus pasa de la justificación doctrinal a una decisión organizativa, con día, lugares y modalidad de la ofrenda."
-      ]
+      ],
+      "lexicon": {
+        "quo": [
+          "qui",
+          "ablativo masculino singular relativo",
+          "en el cual"
+        ]
+      }
     },
     {
       "id": "s8-7",
@@ -72,7 +110,14 @@ window.LEO_SERMO_I = {
       "note": [
         "Igualdad sin igualar fortunas",
         "Non ... sed desplaza el criterio de valoración del monto material a la disposición interior."
-      ]
+      ],
+      "lexicon": {
+        "omnium": [
+          "omnis",
+          "genitivo plural masculino",
+          "de todos"
+        ]
+      }
     },
     {
       "id": "s8-8",
@@ -102,7 +147,14 @@ window.LEO_SERMO_I = {
       "note": [
         "Cierre judicial",
         "Curam pauperum y retributionis examine enlazan atención concreta y juicio futuro, cerrando el argumento en forma de promesa."
-      ]
+      ],
+      "lexicon": {
+        "quam": [
+          "qui",
+          "acusativo femenino singular relativo",
+          "la cual"
+        ]
+      }
     }
   ],
   "lexicon": {
