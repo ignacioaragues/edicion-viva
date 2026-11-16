@@ -55,23 +55,23 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV capita I–II completos (§§1–20); caput III parcial (§§21–28)",
-      "paragraphs": 28,
-      "latin_tokens": 791,
-      "lexical_coverage": "791/791 token occurrences with first-pass lexical cards",
-      "translation": "capita I–II completos; caput III through Simon ... ut cerneret sicut triticum; Sermo IV partial",
-      "voice_notes": 28,
+      "section": "Sermo IV capita I–III completos (§§1–31); caput IV pendiente",
+      "paragraphs": 31,
+      "latin_tokens": 882,
+      "lexical_coverage": "882/882 token occurrences with first-pass lexical cards",
+      "translation": "capita I–III completos; caput IV pendiente",
+      "voice_notes": 31,
       "complete_work": false,
-      "editorial_caveat": "Caput III §28 cerneret retained per Ballerini–Migne; cribraret variant noted. Critical printed collation remains pending; prior variants et ergo and lignaveris/ligaveris still pending."
+      "editorial_caveat": "Caput III complete in first pass; cerneret/cribraret and appended ne intretis in tentationem noted. Printed critical collation remains pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Ego autem rogavi pro te, ne deficiat fides tua",
-    "location": "PL 54, Sermo IV, caput III, col. 151B"
+    "beginning": "Cum itaque, dilectissimi, tantum nobis videamus praesidium divinitus institutum",
+    "location": "PL 54, Sermo IV, caput IV, col. 152A"
   },
-  "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
+  "priority": "Complete Sermo IV caput IV before beginning Sermo V",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
