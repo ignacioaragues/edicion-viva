@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,18 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,20 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -217,9 +217,14 @@
     ,{"chapter":6,"n":16,"gr":"ἀκούσας δὲ ὁ Ἡρῴδης ἔλεγεν· Ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτος ἠγέρθη.","es":"Pero Herodes, al oírlo, decía: «Juan, al que yo mandé decapitar, ha resucitado».","la":"","notes":["mc616herod"]}
     ,{"chapter":6,"n":17,"gr":"Αὐτὸς γὰρ ὁ Ἡρῴδης ἀποστείλας ἐκράτησεν τὸν Ἰωάννην καὶ ἔδησεν αὐτὸν ἐν φυλακῇ διὰ Ἡρῳδιάδα τὴν γυναῖκα Φιλίππου τοῦ ἀδελφοῦ αὐτοῦ, ὅτι αὐτὴν ἐγάμησεν·","es":"En efecto, el propio Herodes había mandado detener a Juan y lo había encadenado en prisión por causa de Herodías, la mujer de su hermano Felipe, con quien se había casado.","la":"","notes":["mc617family","mc617prison"]}
     ,{"chapter":6,"n":18,"gr":"ἔλεγεν γὰρ ὁ Ἰωάννης τῷ Ἡρῴδῃ ὅτι Οὐκ ἔξεστίν σοι ἔχειν τὴν γυναῖκα τοῦ ἀδελφοῦ σου.","es":"Porque Juan le decía a Herodes: «No te está permitido tener a la mujer de tu hermano».","la":"","notes":["mc618law"]}
+    ,{"chapter":6,"n":19,"gr":"ἡ δὲ Ἡρῳδιὰς ἐνεῖχεν αὐτῷ καὶ ἤθελεν αὐτὸν ἀποκτεῖναι, καὶ οὐκ ἠδύνατο·","es":"Herodías le guardaba rencor y quería matarlo, pero no podía.","la":"","notes":["mc619resentment"]}
+    ,{"chapter":6,"n":20,"gr":"ὁ γὰρ Ἡρῴδης ἐφοβεῖτο τὸν Ἰωάννην, εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον, καὶ συνετήρει αὐτόν, καὶ ἀκούσας αὐτοῦ πολλὰ ἠπόρει, καὶ ἡδέως αὐτοῦ ἤκουεν.","es":"Porque Herodes temía a Juan, pues sabía que era un hombre justo y santo, y lo protegía. Cuando lo escuchaba, quedaba muy perplejo, pero lo escuchaba con gusto.","la":"","notes":["mc620protect","mc620variant"]}
   ];
 
   const notes = {
+    mc619resentment: ["El rencor de Herodías", "Los imperfectos ἐνεῖχεν, ἤθελεν y ἠδύνατο expresan hostilidad, deseo e incapacidad continuados. Cf. Alfred Plummer, Cambridge Greek Testament, Mc 6,19: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
+    mc620protect: ["Temor y protección", "Marcos presenta a Herodes como temeroso de Juan, a quien considera justo y santo y mantiene protegido (συνετήρει). Sus motivos últimos no quedan demostrados. Cf. Holmes (ed.), SBLGNT, Mc 6,20: https://biblia.com/bible/sblgnt/mark/6."],
+    mc620variant: ["Variante textual", "SBLGNT adopta πολλὰ ἠπόρει («quedaba muy perplejo»), frente a la lectura alternativa πολλὰ ἐποίει («hacía muchas cosas»). No deben sumarse ambas lecturas. Cf. Holmes (ed.), SBLGNT, Mc 6,20: https://biblia.com/bible/sblgnt/mark/6; MorphGNT 6.12: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."],
     mc617family: ["Herodías, Felipe y el testimonio de Josefo","Marcos llama Felipe al primer esposo de Herodías; Flavio Josefo lo llama Herodes, hijo de Herodes el Grande y Mariamne (Antigüedades judías 18.136). La designación moderna «Herodes Felipe» es una hipótesis armonizadora y no debe confundirse sin más con Felipe el tetrarca. Cf. Cambridge Greek Testament, Mc 6,17: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php; análisis histórico: https://www.scielo.org.za/pdf/hts/v75n4/57.pdf."],
     mc617prison: ["La prisión de Juan","Josefo sitúa el encarcelamiento de Juan en la fortaleza de Maqueronte (Antigüedades judías 18.116–119); Marcos no da ese nombre. La información de Josefo es una fuente histórica independiente, no un detalle contenido en el versículo. Cf. Cambridge Greek Testament, Mc 6,17: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
     mc618law: ["El reproche de Juan y su marco jurídico","El imperfecto ἔλεγεν presenta la denuncia como sostenida o reiterada: «le decía». οὐκ ἔξεστίν σοι expresa prohibición, en relación con Levítico 18,16 y 20,21. El levirato de Deuteronomio 25,5–10 constituye un caso especial, no una excepción general. Cf. Cambridge Greek Testament, Mc 6,18: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
