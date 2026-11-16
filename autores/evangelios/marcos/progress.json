@@ -1201,14 +1201,25 @@
         "https://ccel.org/ccel/robertson_at/wp_mark/wp_mark.vii.html",
         "https://old-tips.translation.bible/story/translation-commentary-on-mark-68-69/"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 10,
+      "to": 13,
+      "status": "edited_not_revised",
+      "morphology": "53 fichas posicionales verificadas",
+      "external_references": [
+        "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
+        "https://gamefunjr.com/library/robert/robertmar6.htm"
+      ]
     }
   ],
   "pending": "Continuar en Marcos 6,7; Vulgata opcional y segunda revisión filológica integral pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 10
+    "verse": 14
   },
-  "last_edit": "2026-11-16",
+  "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -2804,6 +2815,21 @@
       "https://www.studylight.org/commentaries/eng/egt/mark-6.html",
       "https://ccel.org/ccel/robertson_at/wp_mark/wp_mark.vii.html",
       "https://old-tips.translation.bible/story/translation-commentary-on-mark-68-69/"
+    ]
+  },
+  "prepublication_research_6_10_13": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": {
+      "10": 14,
+      "11": 23,
+      "12": 5,
+      "13": 11
+    },
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php",
+      "https://gamefunjr.com/library/robert/robertmar6.htm"
     ]
   }
 }
