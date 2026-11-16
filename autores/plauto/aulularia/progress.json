@@ -853,6 +853,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.1; Leo (1895) reference, direct apparatus collation pending",
       "note": "Bracketed passage; 598 lacuna and <eum> preserved; contextual glosses for every token. No consecutive retroactive morphology certified because numbering issue at 160–161 remains."
+    },
+    {
+      "section": "IV.1",
+      "from": 599,
+      "to": 603,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.1, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-16); Friedrich Leo 1895 direct collation pending",
+      "note": "Original Spanish and token-level morphology/contextual glosses; line 599 begins after a textual break; censione bubula is comic imagery of corporal punishment. Retroactive audit not advanced; no browser QA."
     }
   ],
   "pending": [
@@ -864,7 +873,7 @@
   "updated": "2026-11-16",
   "next": {
     "section": "IV.1",
-    "verse": 599
+    "verse": 604
   },
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto.",
   "morphological_second_pass": {
