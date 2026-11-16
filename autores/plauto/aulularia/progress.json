@@ -961,6 +961,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.4 (consulted 2026-11-17), https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo (1895) direct collation pending",
       "note": "36 token-level analyses, contextual Spanish glosses, aligned original translation and note on unnamed object, deponent perscrutatus es and penes + accusative. Retrospective review remains 159; browser QA and direct Leo collation pending."
+    },
+    {
+      "section": "IV.4",
+      "from": 655,
+      "to": 657,
+      "verses": 3,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, IV.4; Masaryk University Latin text, checked 2026-11-17; direct Leo (1895) collation pending",
+      "note": "33 tokens with individual morphology and contextual glosses; original translation, note on alter intus and abierit. The exceptional perscrutavi form requires direct critical collation. Retrospective review remains at 159; no visual/browser QA."
     }
   ],
   "pending": [
@@ -970,7 +979,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.4, desde el verso 655",
+  "next": "IV.4, verses 658–660; then IV.5. Resume consecutive morphology audit from 160 after safe identifier migration.",
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto. | 2026-11-16: vv. 641–645 incorporated, 45 glossed morphology entries; pending direct Leo collation and browser QA. Consecutive second pass remains at 159. | 2026-11-17: vv. 646–650 added; second pass remains 159, awaiting identifier compatibility work.",
   "morphological_second_pass": {
     "status": "in_progress",
