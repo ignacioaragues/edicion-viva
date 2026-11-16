@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III (III partial), col. 148–151B",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III, col. 148–152A",
   "status": "partial",
-  "next": "Caput III: Ego autem rogavi pro te, ne deficiat fides tua",
+  "next": "Caput IV: Cum itaque, dilectissimi, tantum nobis videamus praesidium divinitus institutum",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -282,6 +282,36 @@ window.LEO_SERMO_I = {
       "note": [
         "Juicio y peligro",
         "El vocativo duplicado Simon, Simon dramatiza el peligro compartido. La edición base lee cerneret; otras ediciones, cribraret."
+      ]
+    },
+    {
+      "id": "s4-29",
+      "label": "29",
+      "latin": "Ego autem rogavi pro te, ne deficiat fides tua. Et tu aliquando conversus confirma fratres tuos, ut non intretis in tentationem.",
+      "spanish": "Yo, en cambio, he rogado por ti para que tu fe no desfallezca. Y tú, una vez convertido, fortalece a tus hermanos, para que no caigan en la tentación.",
+      "note": [
+        "Del singular al plural",
+        "Pro te y fides tua destacan la intercesión particular; fratres tuos y el plural intretis muestran su finalidad comunitaria. La cláusula final figura en la tradición leonina, aunque no en ese lugar de la versión evangélica habitual."
+      ]
+    },
+    {
+      "id": "s4-30",
+      "label": "30",
+      "latin": "Commune erat omnibus apostolis periculum de tentatione formidinis, et divinae protectionis auxilio pariter indigebant, quoniam diabolus omnes exagitare, omnes cupiebat elidere; et tamen specialis a Domino Petri cura suscipitur, et pro fide Petri proprie supplicatur, tamquam aliorum status certior sit futurus, si mens principis victa non fuerit.",
+      "spanish": "El peligro de la prueba del miedo era común a todos los apóstoles, y todos necesitaban por igual el auxilio de la protección divina, pues el diablo quería agitar a todos y abatirlos a todos; y, sin embargo, el Señor asume un cuidado especial de Pedro y ruega particularmente por su fe, como si la situación de los demás hubiera de ser más segura si el ánimo del principal no resultaba vencido.",
+      "note": [
+        "Lo común y lo singular",
+        "Commune, omnibus, pariter y omnes ... omnes preparan el contraste et tamen specialis: la estabilidad del principal se presenta como condición de seguridad del conjunto."
+      ]
+    },
+    {
+      "id": "s4-31",
+      "label": "31",
+      "latin": "In Petro ergo omnium fortitudo munitur, et divinae gratiae ita ordinatur auxilium, ut firmitas, quae per Christum Petro tribuitur, per Petrum apostolis conferatur.",
+      "spanish": "Así pues, en Pedro queda protegida la fortaleza de todos, y el auxilio de la gracia divina se dispone de tal manera que la firmeza que Cristo concede a Pedro se transmite por medio de Pedro a los apóstoles.",
+      "note": [
+        "Origen y mediación",
+        "El paralelismo per Christum Petro / per Petrum apostolis distingue la fuente de la firmeza de su transmisión."
       ]
     }
   ],
@@ -2920,6 +2950,261 @@ window.LEO_SERMO_I = {
       "tu",
       "dativo singular",
       "a ti"
+    ],
+    "Ego": [
+      "ego",
+      "nominativo singular",
+      "yo"
+    ],
+    "rogavi": [
+      "rogo",
+      "perfecto indicativo activo 1.ª singular",
+      "he rogado"
+    ],
+    "pro": [
+      "pro",
+      "preposición con ablativo",
+      "por"
+    ],
+    "ne": [
+      "ne",
+      "conjunción final negativa",
+      "para que no"
+    ],
+    "deficiat": [
+      "deficio",
+      "presente subjuntivo activo 3.ª singular",
+      "desfallezca"
+    ],
+    "fides": [
+      "fides",
+      "nominativo femenino singular",
+      "fe"
+    ],
+    "tua": [
+      "tuus",
+      "nominativo femenino singular",
+      "tuya"
+    ],
+    "aliquando": [
+      "aliquando",
+      "adverbio",
+      "una vez"
+    ],
+    "conversus": [
+      "converto",
+      "participio perfecto pasivo nominativo masculino singular",
+      "convertido"
+    ],
+    "confirma": [
+      "confirmo",
+      "imperativo presente 2.ª singular",
+      "fortalece"
+    ],
+    "fratres": [
+      "frater",
+      "acusativo masculino plural",
+      "hermanos"
+    ],
+    "tuos": [
+      "tuus",
+      "acusativo masculino plural",
+      "tuyos"
+    ],
+    "intretis": [
+      "intro",
+      "presente subjuntivo activo 2.ª plural",
+      "entréis"
+    ],
+    "tentationem": [
+      "tentatio",
+      "acusativo femenino singular",
+      "tentación"
+    ],
+    "Commune": [
+      "communis",
+      "acusativo neutro singular",
+      "común"
+    ],
+    "periculum": [
+      "periculum",
+      "nominativo neutro singular",
+      "peligro"
+    ],
+    "tentatione": [
+      "tentatio",
+      "ablativo femenino singular",
+      "prueba"
+    ],
+    "formidinis": [
+      "formido",
+      "genitivo femenino singular",
+      "del miedo"
+    ],
+    "divinae": [
+      "divinus",
+      "genitivo femenino singular",
+      "divina"
+    ],
+    "protectionis": [
+      "protectio",
+      "genitivo femenino singular",
+      "de protección"
+    ],
+    "auxilio": [
+      "auxilium",
+      "ablativo neutro singular",
+      "auxilio"
+    ],
+    "pariter": [
+      "pariter",
+      "adverbio",
+      "por igual"
+    ],
+    "indigebant": [
+      "indigeo",
+      "imperfecto indicativo activo 3.ª plural",
+      "necesitaban"
+    ],
+    "quoniam": [
+      "quoniam",
+      "conjunción causal",
+      "puesto que"
+    ],
+    "diabolus": [
+      "diabolus",
+      "nominativo masculino singular",
+      "diablo"
+    ],
+    "exagitare": [
+      "exagito",
+      "infinitivo presente activo",
+      "agitar"
+    ],
+    "cupiebat": [
+      "cupio",
+      "imperfecto indicativo activo 3.ª singular",
+      "quería"
+    ],
+    "elidere": [
+      "elido",
+      "infinitivo presente activo",
+      "abatir"
+    ],
+    "specialis": [
+      "specialis",
+      "nominativo femenino singular",
+      "especial"
+    ],
+    "a": [
+      "a",
+      "preposición con ablativo",
+      "por"
+    ],
+    "cura": [
+      "cura",
+      "nominativo femenino singular",
+      "cuidado"
+    ],
+    "suscipitur": [
+      "suscipio",
+      "presente indicativo pasivo 3.ª singular",
+      "se asume"
+    ],
+    "fide": [
+      "fides",
+      "ablativo femenino singular",
+      "por la fe"
+    ],
+    "supplicatur": [
+      "supplico",
+      "presente indicativo pasivo impersonal",
+      "se ruega"
+    ],
+    "aliorum": [
+      "alius",
+      "genitivo masculino plural",
+      "de los demás"
+    ],
+    "status": [
+      "status",
+      "nominativo masculino singular",
+      "situación"
+    ],
+    "certior": [
+      "certus",
+      "comparativo nominativo masculino singular",
+      "más seguro"
+    ],
+    "futurus": [
+      "sum",
+      "participio futuro nominativo masculino singular",
+      "habrá de ser"
+    ],
+    "mens": [
+      "mens",
+      "nominativo femenino singular",
+      "ánimo"
+    ],
+    "principis": [
+      "princeps",
+      "genitivo masculino singular",
+      "del principal"
+    ],
+    "victa": [
+      "vinco",
+      "participio perfecto pasivo nominativo femenino singular",
+      "vencida"
+    ],
+    "fuerit": [
+      "sum",
+      "perfecto subjuntivo activo 3.ª singular",
+      "hubiera sido"
+    ],
+    "fortitudo": [
+      "fortitudo",
+      "nominativo femenino singular",
+      "fortaleza"
+    ],
+    "munitur": [
+      "munio",
+      "presente indicativo pasivo 3.ª singular",
+      "es protegida"
+    ],
+    "gratiae": [
+      "gratia",
+      "genitivo femenino singular",
+      "de gracia"
+    ],
+    "ordinatur": [
+      "ordino",
+      "presente indicativo pasivo 3.ª singular",
+      "se dispone"
+    ],
+    "auxilium": [
+      "auxilium",
+      "nominativo neutro singular",
+      "auxilio"
+    ],
+    "firmitas": [
+      "firmitas",
+      "nominativo femenino singular",
+      "firmeza"
+    ],
+    "tribuitur": [
+      "tribuo",
+      "presente indicativo pasivo 3.ª singular",
+      "se concede"
+    ],
+    "Petrum": [
+      "Petrus",
+      "acusativo masculino singular",
+      "Pedro"
+    ],
+    "conferatur": [
+      "confero",
+      "presente subjuntivo pasivo 3.ª singular",
+      "sea transmitida"
     ]
   }
 };
