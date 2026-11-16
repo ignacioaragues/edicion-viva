@@ -55,12 +55,12 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I completo y caput II §§9–15 (hasta 'apostolica dignitate')",
-      "paragraphs": 15,
-      "latin_tokens": 478,
-      "lexical_coverage": "478/478 token occurrences with first-pass lexical cards",
-      "translation": "caput I and caput II through §15 translated; Sermo IV partial",
-      "voice_notes": 15,
+      "section": "Sermo IV caput I completo y caput II §§9–17 (hasta 'indicavit')",
+      "paragraphs": 17,
+      "latin_tokens": 541,
+      "lexical_coverage": "541/541 token occurrences with first-pass lexical cards",
+      "translation": "caput I and caput II through §17 translated; Sermo IV partial",
+      "voice_notes": 17,
       "complete_work": false,
       "editorial_caveat": "Caput II variants multique pastores omitted by Quesnel; ignorantiae/intelligentiae; est/erat recorded from Ballerini–Migne apparatus. Further critical review pending."
     }
@@ -68,7 +68,7 @@
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Qui cum dixisset: Tu es Christus Filius Dei vivi",
+    "beginning": "Et ego, inquit, dico tibi",
     "location": "PL 54, Sermo IV, caput II, col. 150B"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
