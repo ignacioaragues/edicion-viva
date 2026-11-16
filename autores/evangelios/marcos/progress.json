@@ -1188,12 +1188,25 @@
         "https://www.biblehub.com/commentaries/meyer/mark/6.htm",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/6"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 7,
+      "to": 9,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "morphology": "47 fichas posicionales verificadas",
+      "external_references": [
+        "https://www.studylight.org/commentaries/eng/egt/mark-6.html",
+        "https://ccel.org/ccel/robertson_at/wp_mark/wp_mark.vii.html",
+        "https://old-tips.translation.bible/story/translation-commentary-on-mark-68-69/"
+      ]
     }
   ],
   "pending": "Continuar en Marcos 6,7; Vulgata opcional y segunda revisión filológica integral pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 7
+    "verse": 10
   },
   "last_edit": "2026-11-16",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2780,6 +2793,17 @@
       "https://tips.translation.bible/story/translation-commentary-on-mark-65-66/",
       "https://www.biblehub.com/commentaries/meyer/mark/6.htm",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/6"
+    ]
+  },
+  "prepublication_research_6_7_9": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "47/47 fichas posicionales",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.studylight.org/commentaries/eng/egt/mark-6.html",
+      "https://ccel.org/ccel/robertson_at/wp_mark/wp_mark.vii.html",
+      "https://old-tips.translation.bible/story/translation-commentary-on-mark-68-69/"
     ]
   }
 }
