@@ -68,23 +68,23 @@
     {
       "group": "sermones",
       "number": 5,
-      "section": "Sermo V caput I partial (§1), PL 54 col. 153A",
-      "paragraphs": 1,
-      "latin_tokens": 13,
-      "lexical_coverage": "13/13 first-pass contextual lexical cards",
-      "translation": "opening sentence translated; remaining caput I and capita II–V pending",
-      "voice_notes": 1,
+      "section": "Sermo V caput I complete (§§1–6), PL 54 col. 153A–C; capita II–V pending",
+      "paragraphs": 6,
+      "latin_tokens": 196,
+      "lexical_coverage": "196/196 first-pass contextual lexical cards",
+      "translation": "caput I translated; capita II–V pending",
+      "voice_notes": 6,
       "complete_work": false,
-      "editorial_caveat": "Sermo V attribution note in PL 54 reports earlier Prosper inscription; Ballerini defend Leo attribution. Critical collation pending."
+      "editorial_caveat": "First-pass Latin from Ballerini–Migne Wikisource, normalized ae/oe and omitted inline scriptural references in Latin display; critical collation and restoration of references pending. Historical Prosper attribution noted in apparatus."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 5,
-    "beginning": "Quod quia ex divino venit munere",
-    "location": "PL 54, Sermo V, caput I, col. 153A"
+    "beginning": "Quae conditio si omnes sacerdotes generaliter tenet",
+    "location": "PL 54, Sermo V, caput II, col. 153C"
   },
-  "priority": "Complete Sermo V caput I–V before Sermo VI",
+  "priority": "Finish Sermo V capita II–V before Sermo VI",
   "last_edit": "2026-11-16",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
