@@ -2,7 +2,7 @@ window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
   "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III (III partial), col. 148–151A",
   "status": "partial",
-  "next": "Caput III: Transivit quidem etiam in alios apostolos",
+  "next": "Caput III: Nec nimia est vel severitas, vel remissio",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -233,6 +233,36 @@ window.LEO_SERMO_I = {
         "Las llaves",
         "La cita de Mateo 16,19 vincula la potestad de atar y desatar con una correspondencia entre tierra y cielo. La transcripción de Wikisource lee lignaveris; se adopta provisionalmente ligaveris, pendiente de cotejo impreso."
       ]
+    },
+    {
+      "id": "s4-24",
+      "label": "24",
+      "latin": "Transivit quidem etiam in alios apostolos jus potestatis istius, et ad omnes Ecclesiae principes decreti hujus constitutio commeavit; sed non frustra uni commendatur, quod omnibus intimetur.",
+      "spanish": "Ciertamente, el derecho de esta potestad pasó también a los demás apóstoles, y la disposición de este decreto llegó a todos los dirigentes de la Iglesia; pero no sin motivo se encomienda a uno solo lo que se comunica a todos.",
+      "note": [
+        "Potestad común y encargo singular",
+        "El giro quidem ... sed reconoce la transmisión a los demás apóstoles antes de destacar el encargo singular a Pedro. La contraposición uni / omnibus organiza el argumento sin negar la participación colectiva."
+      ]
+    },
+    {
+      "id": "s4-25",
+      "label": "25",
+      "latin": "Petro enim ideo hoc singulariter creditur, quia cunctis Ecclesiae rectoribus Petri forma praeponitur.",
+      "spanish": "Pues esto se confía singularmente a Pedro precisamente porque el modelo de Pedro se antepone a todos los gobernantes de la Iglesia.",
+      "note": [
+        "La forma de Pedro",
+        "Forma no designa aquí simplemente una apariencia: Pedro es presentado como modelo o pauta para quienes rigen la Iglesia; ideo ... quia explicita la razón del privilegio."
+      ]
+    },
+    {
+      "id": "s4-26",
+      "label": "26",
+      "latin": "Manet ergo Petri privilegium, ubicumque ex ipsius fertur aequitate judicium.",
+      "spanish": "Permanece, por tanto, el privilegio de Pedro allí donde se dicta sentencia conforme a su equidad.",
+      "note": [
+        "Privilegio condicionado por la equidad",
+        "Ubicumque ... ex ipsius ... aequitate liga la permanencia del privilegio con la rectitud del juicio: la autoridad se formula en términos de criterio, no solo de precedencia."
+      ]
     }
   ],
   "lexicon": {
@@ -293,8 +323,8 @@ window.LEO_SERMO_I = {
     ],
     "quod": [
       "qui",
-      "acusativo neutro singular",
-      "que"
+      "pronombre relativo neutro singular",
+      "lo que"
     ],
     "in": [
       "in",
@@ -363,8 +393,8 @@ window.LEO_SERMO_I = {
     ],
     "hujus": [
       "hic",
-      "genitivo femenino singular",
-      "de esta"
+      "genitivo neutro singular",
+      "de este"
     ],
     "diei": [
       "dies",
@@ -489,7 +519,7 @@ window.LEO_SERMO_I = {
     "ex": [
       "ex",
       "preposición con ablativo",
-      "de"
+      "conforme a"
     ],
     "diversis": [
       "diversus",
@@ -524,7 +554,7 @@ window.LEO_SERMO_I = {
     "omnes": [
       "omnis",
       "acusativo masculino plural",
-      "a todos"
+      "todos"
     ],
     "tamen": [
       "tamen",
@@ -603,7 +633,7 @@ window.LEO_SERMO_I = {
     ],
     "non": [
       "non",
-      "adverbio",
+      "adverbio de negación",
       "no"
     ],
     "connexionem": [
@@ -1098,7 +1128,7 @@ window.LEO_SERMO_I = {
     ],
     "omnibus": [
       "omnis",
-      "dativo plural",
+      "dativo masculino plural",
       "a todos"
     ],
     "gratiam": [
@@ -1213,7 +1243,7 @@ window.LEO_SERMO_I = {
     ],
     "quidem": [
       "quidem",
-      "partícula enfática",
+      "partícula concesiva",
       "ciertamente"
     ],
     "superiora": [
@@ -1238,7 +1268,7 @@ window.LEO_SERMO_I = {
     ],
     "etiam": [
       "etiam",
-      "adverbio aditivo",
+      "adverbio",
       "también"
     ],
     "inferiora": [
@@ -1263,8 +1293,8 @@ window.LEO_SERMO_I = {
     ],
     "istius": [
       "iste",
-      "genitivo neutro singular",
-      "de este"
+      "genitivo femenino singular",
+      "de esta"
     ],
     "muneris": [
       "munus",
@@ -1884,7 +1914,7 @@ window.LEO_SERMO_I = {
     "apostolos": [
       "apostolus",
       "acusativo masculino plural",
-      "a los apóstoles"
+      "apóstoles"
     ],
     "Dominus": [
       "dominus",
@@ -2208,7 +2238,7 @@ window.LEO_SERMO_I = {
     ],
     "ergo": [
       "ergo",
-      "conjunción",
+      "conjunción ilativa",
       "por tanto"
     ],
     "notam": [
@@ -2635,6 +2665,126 @@ window.LEO_SERMO_I = {
       "solvo",
       "participio perfecto pasivo nominativo neutro plural",
       "desatadas"
+    ],
+    "Transivit": [
+      "transeo",
+      "perfecto indicativo activo 3.ª singular",
+      "pasó"
+    ],
+    "alios": [
+      "alius",
+      "acusativo masculino plural",
+      "otros"
+    ],
+    "jus": [
+      "ius",
+      "nominativo neutro singular",
+      "derecho"
+    ],
+    "potestatis": [
+      "potestas",
+      "genitivo femenino singular",
+      "de la potestad"
+    ],
+    "principes": [
+      "princeps",
+      "acusativo masculino plural",
+      "dirigentes"
+    ],
+    "decreti": [
+      "decretum",
+      "genitivo neutro singular",
+      "del decreto"
+    ],
+    "constitutio": [
+      "constitutio",
+      "nominativo femenino singular",
+      "disposición"
+    ],
+    "commeavit": [
+      "commeo",
+      "perfecto indicativo activo 3.ª singular",
+      "llegó"
+    ],
+    "frustra": [
+      "frustra",
+      "adverbio",
+      "en vano"
+    ],
+    "uni": [
+      "unus",
+      "dativo masculino singular",
+      "a uno solo"
+    ],
+    "commendatur": [
+      "commendo",
+      "presente indicativo pasivo 3.ª singular",
+      "se encomienda"
+    ],
+    "intimetur": [
+      "intimo",
+      "presente subjuntivo pasivo 3.ª singular",
+      "se comunique"
+    ],
+    "singulariter": [
+      "singulariter",
+      "adverbio",
+      "singularmente"
+    ],
+    "creditur": [
+      "credo",
+      "presente indicativo pasivo 3.ª singular",
+      "se confía"
+    ],
+    "cunctis": [
+      "cunctus",
+      "dativo masculino plural",
+      "a todos"
+    ],
+    "rectoribus": [
+      "rector",
+      "dativo masculino plural",
+      "a los dirigentes"
+    ],
+    "forma": [
+      "forma",
+      "nominativo femenino singular",
+      "modelo"
+    ],
+    "praeponitur": [
+      "praepono",
+      "presente indicativo pasivo 3.ª singular",
+      "se antepone"
+    ],
+    "Manet": [
+      "maneo",
+      "presente indicativo activo 3.ª singular",
+      "permanece"
+    ],
+    "privilegium": [
+      "privilegium",
+      "nominativo neutro singular",
+      "privilegio"
+    ],
+    "ubicumque": [
+      "ubicumque",
+      "adverbio relativo",
+      "dondequiera que"
+    ],
+    "fertur": [
+      "fero",
+      "presente indicativo pasivo 3.ª singular",
+      "se dicta"
+    ],
+    "aequitate": [
+      "aequitas",
+      "ablativo femenino singular",
+      "equidad"
+    ],
+    "judicium": [
+      "iudicium",
+      "nominativo neutro singular",
+      "juicio"
     ]
   }
 };
