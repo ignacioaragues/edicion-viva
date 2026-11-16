@@ -55,12 +55,12 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I completo y caput II §9 (hasta 'remoremini')",
-      "paragraphs": 9,
-      "latin_tokens": 279,
-      "lexical_coverage": "279/279 token occurrences with first-pass lexical cards",
+      "section": "Sermo IV caput I completo y caput II §§9–11 (hasta 'Trinitas')",
+      "paragraphs": 11,
+      "latin_tokens": 368,
+      "lexical_coverage": "368/368 token occurrences with first-pass lexical cards",
       "translation": "caput I and opening of caput II translated; Sermo IV partial",
-      "voice_notes": 9,
+      "voice_notes": 11,
       "complete_work": false,
       "editorial_caveat": "Caput I complete first pass; textual variants vero/omitted, consecrat/efficit, vobis/nobis and omission of the closing segment in oldest Vatican recorded; full critical collation pending."
     }
@@ -68,8 +68,8 @@
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "cum multo utilius multoque sit dignius",
-    "location": "PL 54, Sermo IV, caput II, col. 149B"
+    "beginning": "Et tamen de toto mundo unus Petrus eligitur",
+    "location": "PL 54, Sermo IV, caput II, col. 149C"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
   "last_edit": "2026-11-16",
