@@ -55,21 +55,21 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV capita I–II completos (§§1–20); caput III pendiente",
-      "paragraphs": 20,
-      "latin_tokens": 641,
-      "lexical_coverage": "641/641 token occurrences with first-pass lexical cards",
-      "translation": "capita I–II complete first-pass Spanish translation; Sermo IV partial",
-      "voice_notes": 20,
+      "section": "Sermo IV capita I–II completos (§§1–20); caput III iniciado (§§21–23)",
+      "paragraphs": 23,
+      "latin_tokens": 700,
+      "lexical_coverage": "700/700 token occurrences with first-pass lexical cards",
+      "translation": "capita I–II complete; caput III opening translated; Sermo IV partial",
+      "voice_notes": 23,
       "complete_work": false,
-      "editorial_caveat": "Caput II completed in first pass; et ergo at 150B retained pending critical collation. Other previously registered variants require revision."
+      "editorial_caveat": "Caput II completed in first pass; et ergo at 150B retained pending critical collation. Other previously registered variants require revision. Caput III Wikisource lignaveris corrected provisionally to ligaveris; printed collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Hanc confessionem portae inferi non tenebunt",
-    "location": "PL 54, Sermo IV, caput III, col. 150C–151A"
+    "beginning": "Transivit quidem etiam in alios apostolos",
+    "location": "PL 54, Sermo IV, caput III, col. 151A"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
   "last_edit": "2026-11-16",
