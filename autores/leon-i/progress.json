@@ -55,21 +55,21 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I completo y caput II §§9–17 (hasta 'indicavit')",
-      "paragraphs": 17,
-      "latin_tokens": 541,
-      "lexical_coverage": "541/541 token occurrences with first-pass lexical cards",
-      "translation": "caput I and caput II through §17 translated; Sermo IV partial",
-      "voice_notes": 17,
+      "section": "Sermo IV capita I–II completos (§§1–20); caput III pendiente",
+      "paragraphs": 20,
+      "latin_tokens": 641,
+      "lexical_coverage": "641/641 token occurrences with first-pass lexical cards",
+      "translation": "capita I–II complete first-pass Spanish translation; Sermo IV partial",
+      "voice_notes": 20,
       "complete_work": false,
-      "editorial_caveat": "Caput II variants multique pastores omitted by Quesnel; ignorantiae/intelligentiae; est/erat recorded from Ballerini–Migne apparatus. Further critical review pending."
+      "editorial_caveat": "Caput II completed in first pass; et ergo at 150B retained pending critical collation. Other previously registered variants require revision."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Et ego, inquit, dico tibi",
-    "location": "PL 54, Sermo IV, caput II, col. 150B"
+    "beginning": "Hanc confessionem portae inferi non tenebunt",
+    "location": "PL 54, Sermo IV, caput III, col. 150C–151A"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
   "last_edit": "2026-11-16",
