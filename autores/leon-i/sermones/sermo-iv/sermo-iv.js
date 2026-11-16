@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–III, col. 148–152A",
-  "status": "partial",
-  "next": "Caput IV: Cum itaque, dilectissimi, tantum nobis videamus praesidium divinitus institutum",
+  "source": "Ballerini–Migne, PL 54, Sermo IV, capita I–IV, col. 148–152B",
+  "status": "complete",
+  "next": "Sermo V: source collation pending",
   "paragraphs": [
     {
       "id": "s4-1",
@@ -312,6 +312,56 @@ window.LEO_SERMO_I = {
       "note": [
         "Origen y mediación",
         "El paralelismo per Christum Petro / per Petrum apostolis distingue la fuente de la firmeza de su transmisión."
+      ]
+    },
+    {
+      "id": "s4-32",
+      "label": "32",
+      "latin": "Cum itaque, dilectissimi, tantum nobis videamus praesidium divinitus institutum, rationabiliter et juste in ducis nostri meritis et dignitate laetamur, gratias agentes sempiterno Regi Redemptori nostro Domino Jesu Christo, quod tantam potentiam dedit ei quem totius Ecclesiae principem fecit,",
+      "spanish": "Así pues, queridísimos, al ver que se ha dispuesto para nosotros una protección tan grande por voluntad divina, nos alegramos con razón y justicia de los méritos y la dignidad de nuestro guía, y damos gracias al Rey eterno, nuestro Redentor, el Señor Jesucristo, porque concedió tan gran potestad a aquel a quien hizo cabeza de toda la Iglesia.",
+      "note": [
+        "Gratitud y poder recibido",
+        "La gratitud a Cristo precede a la celebración de la autoridad de Pedro."
+      ]
+    },
+    {
+      "id": "s4-33",
+      "label": "33",
+      "latin": "ut si quid etiam nostris temporibus recte per nos agitur, recteque disponitur, illius operibus, illius sit gubernaculis deputandum, cui dictum est: Et tu conversus confirma fratres tuos; et cui post resurrectionem suam Dominus ad trinam aeterni amoris professionem, mystica insinuatione ter dixit: Pasce oves meas.",
+      "spanish": "de modo que, si también en nuestros tiempos hacemos algo rectamente o disponemos algo con acierto, debe atribuirse a sus obras y a su dirección: a él se le dijo «Y tú, una vez convertido, fortalece a tus hermanos»; y a él, después de su resurrección, el Señor le dijo tres veces, mediante una indicación misteriosa, para que profesara tres veces su amor eterno: «Apacienta mis ovejas».",
+      "note": [
+        "Acción presente y autoridad apostólica",
+        "Per nos admite la actuación de León, mientras illius ... illius atribuye su buen resultado a Pedro."
+      ]
+    },
+    {
+      "id": "s4-34",
+      "label": "34",
+      "latin": "Quod nunc quoque proculdubio facit, et mandatum Domini pius pastor exsequitur, confirmans nos cohortationibus suis, et pro nobis orare non cessans, ut nulla tentatione superemur.",
+      "spanish": "Esto lo hace sin duda también ahora: el piadoso pastor cumple el mandato del Señor, nos fortalece con sus exhortaciones y no deja de orar por nosotros para que ninguna prueba nos venza.",
+      "note": [
+        "La presencia de Pedro",
+        "Nunc quoque y los verbos en presente representan a Pedro como pastor que sigue actuando."
+      ]
+    },
+    {
+      "id": "s4-35",
+      "label": "35",
+      "latin": "Si autem hanc pietatis suae curam omni populo Dei, sicut credendum est, ubique praetendit, quanto magis nobis alumnis suis opem suam dignabitur impendere, apud quos in sacro beatae dormitionis toro eadem qua praesedit carne requiescit?",
+      "spanish": "Y si extiende por todas partes este cuidado piadoso a todo el pueblo de Dios, como es de creer, ¿cuánto más se dignará prestar su ayuda a nosotros, sus discípulos, entre quienes descansa, en el lecho sagrado de su bienaventurado reposo, con la misma carne con que presidió?",
+      "note": [
+        "Argumento de proximidad",
+        "Quanto magis convierte la cura universal en fundamento de una protección particular."
+      ]
+    },
+    {
+      "id": "s4-36",
+      "label": "36",
+      "latin": "Illi ergo hunc servitutis nostrae natalitium diem, illi ascribamus hoc festum, cujus patrocinio sedis ipsius meruimus esse consortes, auxiliante nobis per omnia gratia Domini nostri Jesu Christi, qui vivit et regnat cum Deo Patre, et Spiritu sancto, in saecula saeculorum. Amen.",
+      "spanish": "A él, por tanto, atribuyamos este aniversario de nuestro servicio; a él, esta fiesta, pues gracias a su patrocinio merecimos compartir su sede, con la ayuda constante de la gracia de nuestro Señor Jesucristo, que vive y reina con Dios Padre y el Espíritu Santo por los siglos de los siglos. Amén.",
+      "note": [
+        "Cierre y servicio",
+        "Illi ... illi transfiere el honor a Pedro; servitutis nostrae caracteriza el cargo como servicio."
       ]
     }
   ],
@@ -3205,6 +3255,526 @@ window.LEO_SERMO_I = {
       "confero",
       "presente subjuntivo pasivo 3.ª singular",
       "sea transmitida"
+    ],
+    "tantum": [
+      "tantus",
+      "acusativo neutro singular",
+      "tan grande"
+    ],
+    "videamus": [
+      "video",
+      "presente subjuntivo 1.ª plural",
+      "veamos"
+    ],
+    "praesidium": [
+      "praesidium",
+      "acusativo neutro singular",
+      "protección"
+    ],
+    "divinitus": [
+      "divinitus",
+      "adverbio",
+      "por disposición divina"
+    ],
+    "institutum": [
+      "instituo",
+      "participio perfecto pasivo acusativo neutro singular",
+      "establecida"
+    ],
+    "rationabiliter": [
+      "rationabiliter",
+      "adverbio",
+      "razonablemente"
+    ],
+    "juste": [
+      "iuste",
+      "adverbio",
+      "justamente"
+    ],
+    "ducis": [
+      "dux",
+      "genitivo singular",
+      "del guía"
+    ],
+    "meritis": [
+      "meritum",
+      "ablativo neutro plural",
+      "méritos"
+    ],
+    "laetamur": [
+      "laetor",
+      "presente indicativo deponente 1.ª plural",
+      "nos alegramos"
+    ],
+    "agentes": [
+      "ago",
+      "participio presente nominativo plural",
+      "dando"
+    ],
+    "sempiterno": [
+      "sempiternus",
+      "dativo masculino singular",
+      "eterno"
+    ],
+    "Regi": [
+      "rex",
+      "dativo masculino singular",
+      "al Rey"
+    ],
+    "Redemptori": [
+      "redemptor",
+      "dativo masculino singular",
+      "al Redentor"
+    ],
+    "nostro": [
+      "noster",
+      "dativo masculino singular",
+      "nuestro"
+    ],
+    "Jesu": [
+      "Iesus",
+      "dativo masculino singular",
+      "Jesús"
+    ],
+    "tantam": [
+      "tantus",
+      "acusativo femenino singular",
+      "tan grande"
+    ],
+    "potentiam": [
+      "potentia",
+      "acusativo femenino singular",
+      "potestad"
+    ],
+    "quem": [
+      "qui",
+      "acusativo masculino singular",
+      "a quien"
+    ],
+    "principem": [
+      "princeps",
+      "acusativo masculino singular",
+      "cabeza"
+    ],
+    "fecit": [
+      "facio",
+      "perfecto indicativo 3.ª singular",
+      "hizo"
+    ],
+    "nostris": [
+      "noster",
+      "ablativo masculino plural",
+      "nuestros"
+    ],
+    "temporibus": [
+      "tempus",
+      "ablativo neutro plural",
+      "tiempos"
+    ],
+    "recte": [
+      "recte",
+      "adverbio",
+      "rectamente"
+    ],
+    "nos": [
+      "nos",
+      "acusativo plural",
+      "nosotros"
+    ],
+    "agitur": [
+      "ago",
+      "presente indicativo pasivo 3.ª singular",
+      "se hace"
+    ],
+    "recteque": [
+      "recte",
+      "adverbio con -que",
+      "y rectamente"
+    ],
+    "disponitur": [
+      "dispono",
+      "presente indicativo pasivo 3.ª singular",
+      "se dispone"
+    ],
+    "operibus": [
+      "opus",
+      "dativo neutro plural",
+      "a las obras"
+    ],
+    "gubernaculis": [
+      "gubernaculum",
+      "dativo neutro plural",
+      "a la dirección"
+    ],
+    "deputandum": [
+      "deputo",
+      "gerundivo nominativo neutro singular",
+      "atribuible"
+    ],
+    "cui": [
+      "qui",
+      "dativo masculino singular",
+      "a quien"
+    ],
+    "dictum": [
+      "dico",
+      "participio perfecto pasivo neutro singular",
+      "dicho"
+    ],
+    "post": [
+      "post",
+      "preposición con acusativo",
+      "después de"
+    ],
+    "resurrectionem": [
+      "resurrectio",
+      "acusativo femenino singular",
+      "resurrección"
+    ],
+    "suam": [
+      "suus",
+      "acusativo femenino singular",
+      "su"
+    ],
+    "trinam": [
+      "trinus",
+      "acusativo femenino singular",
+      "triple"
+    ],
+    "aeterni": [
+      "aeternus",
+      "genitivo masculino singular",
+      "eterno"
+    ],
+    "amoris": [
+      "amor",
+      "genitivo masculino singular",
+      "del amor"
+    ],
+    "professionem": [
+      "professio",
+      "acusativo femenino singular",
+      "profesión"
+    ],
+    "mystica": [
+      "mysticus",
+      "ablativo femenino singular",
+      "misteriosa"
+    ],
+    "insinuatione": [
+      "insinuatio",
+      "ablativo femenino singular",
+      "indicación"
+    ],
+    "ter": [
+      "ter",
+      "adverbio",
+      "tres veces"
+    ],
+    "dixit": [
+      "dico",
+      "perfecto indicativo 3.ª singular",
+      "dijo"
+    ],
+    "Pasce": [
+      "pasco",
+      "imperativo presente 2.ª singular",
+      "apacienta"
+    ],
+    "oves": [
+      "ovis",
+      "acusativo femenino plural",
+      "ovejas"
+    ],
+    "meas": [
+      "meus",
+      "acusativo femenino plural",
+      "mis"
+    ],
+    "nunc": [
+      "nunc",
+      "adverbio",
+      "ahora"
+    ],
+    "proculdubio": [
+      "proculdubio",
+      "adverbio",
+      "sin duda"
+    ],
+    "facit": [
+      "facio",
+      "presente indicativo 3.ª singular",
+      "hace"
+    ],
+    "mandatum": [
+      "mandatum",
+      "acusativo neutro singular",
+      "mandato"
+    ],
+    "pius": [
+      "pius",
+      "nominativo masculino singular",
+      "piadoso"
+    ],
+    "pastor": [
+      "pastor",
+      "nominativo masculino singular",
+      "pastor"
+    ],
+    "exsequitur": [
+      "exsequor",
+      "presente indicativo deponente 3.ª singular",
+      "cumple"
+    ],
+    "confirmans": [
+      "confirmo",
+      "participio presente nominativo masculino singular",
+      "fortaleciendo"
+    ],
+    "cohortationibus": [
+      "cohortatio",
+      "ablativo femenino plural",
+      "exhortaciones"
+    ],
+    "suis": [
+      "suus",
+      "ablativo femenino plural",
+      "suyas"
+    ],
+    "orare": [
+      "oro",
+      "infinitivo presente",
+      "orar"
+    ],
+    "cessans": [
+      "cesso",
+      "participio presente nominativo masculino singular",
+      "dejando de"
+    ],
+    "nulla": [
+      "nullus",
+      "ablativo femenino singular",
+      "ninguna"
+    ],
+    "superemur": [
+      "supero",
+      "presente subjuntivo pasivo 1.ª plural",
+      "seamos vencidos"
+    ],
+    "Si": [
+      "si",
+      "conjunción condicional",
+      "si"
+    ],
+    "curam": [
+      "cura",
+      "acusativo femenino singular",
+      "cuidado"
+    ],
+    "omni": [
+      "omnis",
+      "dativo masculino singular",
+      "a todo"
+    ],
+    "credendum": [
+      "credo",
+      "gerundivo nominativo neutro singular",
+      "debe creerse"
+    ],
+    "ubique": [
+      "ubique",
+      "adverbio",
+      "por todas partes"
+    ],
+    "praetendit": [
+      "praetendo",
+      "presente indicativo 3.ª singular",
+      "extiende"
+    ],
+    "quanto": [
+      "quantus",
+      "ablativo neutro singular",
+      "cuánto"
+    ],
+    "magis": [
+      "magis",
+      "adverbio",
+      "más"
+    ],
+    "alumnis": [
+      "alumnus",
+      "dativo masculino plural",
+      "a los discípulos"
+    ],
+    "opem": [
+      "ops",
+      "acusativo femenino singular",
+      "ayuda"
+    ],
+    "dignabitur": [
+      "dignor",
+      "futuro indicativo deponente 3.ª singular",
+      "se dignará"
+    ],
+    "impendere": [
+      "impendo",
+      "infinitivo presente",
+      "prestar"
+    ],
+    "apud": [
+      "apud",
+      "preposición con acusativo",
+      "entre"
+    ],
+    "sacro": [
+      "sacer",
+      "ablativo masculino singular",
+      "sagrado"
+    ],
+    "beatae": [
+      "beatus",
+      "genitivo femenino singular",
+      "bienaventurado"
+    ],
+    "dormitionis": [
+      "dormitio",
+      "genitivo femenino singular",
+      "del reposo"
+    ],
+    "toro": [
+      "torus",
+      "ablativo masculino singular",
+      "lecho"
+    ],
+    "eadem": [
+      "idem",
+      "ablativo femenino singular",
+      "la misma"
+    ],
+    "qua": [
+      "qui",
+      "ablativo femenino singular",
+      "con la cual"
+    ],
+    "praesedit": [
+      "praesideo",
+      "perfecto indicativo 3.ª singular",
+      "presidió"
+    ],
+    "carne": [
+      "caro",
+      "ablativo femenino singular",
+      "carne"
+    ],
+    "requiescit": [
+      "requiesco",
+      "presente indicativo 3.ª singular",
+      "descansa"
+    ],
+    "Illi": [
+      "ille",
+      "dativo masculino singular",
+      "a él"
+    ],
+    "servitutis": [
+      "servitus",
+      "genitivo femenino singular",
+      "del servicio"
+    ],
+    "natalitium": [
+      "natalitius",
+      "acusativo masculino singular",
+      "aniversario"
+    ],
+    "illi": [
+      "ille",
+      "dativo masculino singular",
+      "a él"
+    ],
+    "ascribamus": [
+      "ascribo",
+      "presente subjuntivo exhortativo 1.ª plural",
+      "atribuyamos"
+    ],
+    "festum": [
+      "festum",
+      "acusativo neutro singular",
+      "fiesta"
+    ],
+    "patrocinio": [
+      "patrocinium",
+      "ablativo neutro singular",
+      "patrocinio"
+    ],
+    "sedis": [
+      "sedes",
+      "genitivo femenino singular",
+      "de la sede"
+    ],
+    "meruimus": [
+      "mereo",
+      "perfecto indicativo 1.ª plural",
+      "merecimos"
+    ],
+    "auxiliante": [
+      "auxilior",
+      "participio presente ablativo femenino singular",
+      "ayudando"
+    ],
+    "omnia": [
+      "omnis",
+      "acusativo neutro plural",
+      "todas las cosas"
+    ],
+    "gratia": [
+      "gratia",
+      "ablativo femenino singular",
+      "gracia"
+    ],
+    "Christi": [
+      "Christus",
+      "genitivo masculino singular",
+      "de Cristo"
+    ],
+    "vivit": [
+      "vivo",
+      "presente indicativo 3.ª singular",
+      "vive"
+    ],
+    "regnat": [
+      "regno",
+      "presente indicativo 3.ª singular",
+      "reina"
+    ],
+    "Patre": [
+      "pater",
+      "ablativo masculino singular",
+      "Padre"
+    ],
+    "Spiritu": [
+      "spiritus",
+      "ablativo masculino singular",
+      "Espíritu"
+    ],
+    "sancto": [
+      "sanctus",
+      "ablativo masculino singular",
+      "Santo"
+    ],
+    "saecula": [
+      "saeculum",
+      "acusativo neutro plural",
+      "siglos"
+    ],
+    "saeculorum": [
+      "saeculum",
+      "genitivo neutro plural",
+      "de los siglos"
+    ],
+    "Amen": [
+      "amen",
+      "interjección litúrgica",
+      "amén"
     ]
   }
 };
