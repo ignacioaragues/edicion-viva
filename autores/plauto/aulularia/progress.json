@@ -979,6 +979,15 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.4, 658–660 (consulted 2026-11-17); direct collation with Friedrich Leo 1895 pending",
       "note": "29 token-level morphology fichas with contextual Spanish glosses, translation and note on fugin/abin and socienno. Retrospective review unchanged at 159; browser and Pages verification pending."
+    },
+    {
+      "section": "IV.5",
+      "from": 661,
+      "to": 666,
+      "verses": 6,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.5, The Latin Library, https://www.thelatinlibrary.com/plautus/aulularia.shtml (consulted 2026-11-17); direct Friedrich Leo (1895) apparatus collation pending",
+      "note": "42 individual morphology entries with contextual Spanish glosses, original aligned translation, note on mavelim, foris/foras, ecferet. No retrospective verses certified this run; consecutive second pass stays at 159, blocked by stable-ID migration 142–161. Browser/Pages QA pending."
     }
   ],
   "pending": [
@@ -988,7 +997,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.5, versos 661–666; review II.1 160–161 after stable highlight-ID migration",
+  "next": "IV.6, versos 667–676; second-pass II.1 160–164 after compatibility-safe ID migration",
   "editorial_note": "III.5 501–504 añadido; 505 inicia catálogo de oficios, requiere especial cautela textual. La segunda pasada morfológica sigue en 159 y el problema de II.1 continúa abierto. | 2026-11-16: vv. 641–645 incorporated, 45 glossed morphology entries; pending direct Leo collation and browser QA. Consecutive second pass remains at 159. | 2026-11-17: vv. 646–650 added; second pass remains 159, awaiting identifier compatibility work.",
   "morphological_second_pass": {
     "status": "in_progress",
