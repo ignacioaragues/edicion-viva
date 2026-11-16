@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,20 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,21 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -219,9 +219,13 @@
     ,{"chapter":6,"n":18,"gr":"ἔλεγεν γὰρ ὁ Ἰωάννης τῷ Ἡρῴδῃ ὅτι Οὐκ ἔξεστίν σοι ἔχειν τὴν γυναῖκα τοῦ ἀδελφοῦ σου.","es":"Porque Juan le decía a Herodes: «No te está permitido tener a la mujer de tu hermano».","la":"","notes":["mc618law"]}
     ,{"chapter":6,"n":19,"gr":"ἡ δὲ Ἡρῳδιὰς ἐνεῖχεν αὐτῷ καὶ ἤθελεν αὐτὸν ἀποκτεῖναι, καὶ οὐκ ἠδύνατο·","es":"Herodías le guardaba rencor y quería matarlo, pero no podía.","la":"","notes":["mc619resentment"]}
     ,{"chapter":6,"n":20,"gr":"ὁ γὰρ Ἡρῴδης ἐφοβεῖτο τὸν Ἰωάννην, εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον, καὶ συνετήρει αὐτόν, καὶ ἀκούσας αὐτοῦ πολλὰ ἠπόρει, καὶ ἡδέως αὐτοῦ ἤκουεν.","es":"Porque Herodes temía a Juan, pues sabía que era un hombre justo y santo, y lo protegía. Cuando lo escuchaba, quedaba muy perplejo, pero lo escuchaba con gusto.","la":"","notes":["mc620protect","mc620variant"]}
+    ,{"chapter":6,"n":21,"gr":"Καὶ γενομένης ἡμέρας εὐκαίρου ὅτε Ἡρῴδης τοῖς γενεσίοις αὐτοῦ δεῖπνον ἐποίησεν τοῖς μεγιστᾶσιν αὐτοῦ καὶ τοῖς χιλιάρχοις καὶ τοῖς πρώτοις τῆς Γαλιλαίας,","es":"Llegó un día propicio: con motivo de su cumpleaños, Herodes ofreció un banquete a sus altos dignatarios, a los jefes militares y a las personalidades principales de Galilea.","la":"","notes":["mc621occasion","mc621birthday","mc621guests"]}
   ];
 
   const notes = {
+    mc621occasion: ["El día propicio", "El genitivo absoluto γενομένης ἡμέρας εὐκαίρου introduce la ocasión favorable para el propósito de Herodías, retomando la hostilidad de 6,19. Cf. Alfred Plummer, Cambridge Greek Testament, comentario a Mc 6,21: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
+    mc621birthday: ["El cumpleaños de Herodes", "τοῖς γενεσίοις se entiende aquí como fiesta de cumpleaños. La distinción antigua entre γενέσια (conmemoración funeraria) y γενέθλια (cumpleaños) no es rígida en el griego posterior; cf. Plummer, Cambridge Greek Testament, Mc 6,21: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
+    mc621guests: ["Los invitados", "μεγιστᾶνες designa altos dignatarios; χιλίαρχοι, mandos militares (literalmente, jefes de mil); οἱ πρῶτοι, los principales de Galilea. La enumeración dibuja el círculo político y militar del banquete, sin identificar personas concretas. Cf. E. P. Gould, International Critical Commentary, Mark 6,21: https://www.studylight.org/commentaries/eng/icc/mark-6.html."],
     mc619resentment: ["El rencor de Herodías", "Los imperfectos ἐνεῖχεν, ἤθελεν y ἠδύνατο expresan hostilidad, deseo e incapacidad continuados. Cf. Alfred Plummer, Cambridge Greek Testament, Mc 6,19: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
     mc620protect: ["Temor y protección", "Marcos presenta a Herodes como temeroso de Juan, a quien considera justo y santo y mantiene protegido (συνετήρει). Sus motivos últimos no quedan demostrados. Cf. Holmes (ed.), SBLGNT, Mc 6,20: https://biblia.com/bible/sblgnt/mark/6."],
     mc620variant: ["Variante textual", "SBLGNT adopta πολλὰ ἠπόρει («quedaba muy perplejo»), frente a la lectura alternativa πολλὰ ἐποίει («hacía muchas cosas»). No deben sumarse ambas lecturas. Cf. Holmes (ed.), SBLGNT, Mc 6,20: https://biblia.com/bible/sblgnt/mark/6; MorphGNT 6.12: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."],
