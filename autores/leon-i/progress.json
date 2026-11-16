@@ -55,21 +55,21 @@
     {
       "group": "sermones",
       "number": 4,
-      "section": "Sermo IV caput I completo y caput II §§9–11 (hasta 'Trinitas')",
-      "paragraphs": 11,
-      "latin_tokens": 368,
-      "lexical_coverage": "368/368 token occurrences with first-pass lexical cards",
-      "translation": "caput I and opening of caput II translated; Sermo IV partial",
-      "voice_notes": 11,
+      "section": "Sermo IV caput I completo y caput II §§9–15 (hasta 'apostolica dignitate')",
+      "paragraphs": 15,
+      "latin_tokens": 478,
+      "lexical_coverage": "478/478 token occurrences with first-pass lexical cards",
+      "translation": "caput I and caput II through §15 translated; Sermo IV partial",
+      "voice_notes": 15,
       "complete_work": false,
-      "editorial_caveat": "Caput I complete first pass; textual variants vero/omitted, consecrat/efficit, vobis/nobis and omission of the closing segment in oldest Vatican recorded; full critical collation pending."
+      "editorial_caveat": "Caput II variants multique pastores omitted by Quesnel; ignorantiae/intelligentiae; est/erat recorded from Ballerini–Migne apparatus. Further critical review pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 4,
-    "beginning": "Et tamen de toto mundo unus Petrus eligitur",
-    "location": "PL 54, Sermo IV, caput II, col. 149C"
+    "beginning": "Qui cum dixisset: Tu es Christus Filius Dei vivi",
+    "location": "PL 54, Sermo IV, caput II, col. 150B"
   },
   "priority": "Complete Sermo IV capita II–IV before beginning Sermo V",
   "last_edit": "2026-11-16",
