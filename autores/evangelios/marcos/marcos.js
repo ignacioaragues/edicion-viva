@@ -1,4 +1,4 @@
-/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41; 5,1–43 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
+/* Marcos 1,1–45; 2,1–28; 3,1–35; 4,1–41; 5,1–43; 6,1–2 · SBLGNT (signos de aparato omitidos), Vulgata Clementina, traducción propia. */
 (() => {
   'use strict';
 
@@ -199,9 +199,13 @@
     ,{"chapter":5,"n":41,"gr":"καὶ κρατήσας τῆς χειρὸς τοῦ παιδίου λέγει αὐτῇ· Ταλιθα κουμ, ὅ ἐστιν μεθερμηνευόμενον· Τὸ κοράσιον, σοὶ λέγω, ἔγειρε.","es":"Tomando a la niña de la mano, le dijo: «Talithá kum», que significa: «Niña, a ti te digo: levántate».","la":"","notes":["mc541aramaic"]}
     ,{"chapter":5,"n":42,"gr":"καὶ εὐθὺς ἀνέστη τὸ κοράσιον καὶ περιεπάτει, ἦν γὰρ ἐτῶν δώδεκα. καὶ ἐξέστησαν εὐθὺς ἐκστάσει μεγάλῃ.","es":"Enseguida la niña se levantó y caminaba, pues tenía doce años. Todos quedaron profundamente asombrados.","la":"","notes":["mc542tenses"]}
     ,{"chapter":5,"n":43,"gr":"καὶ διεστείλατο αὐτοῖς πολλὰ ἵνα μηδεὶς γνοῖ τοῦτο, καὶ εἶπεν δοθῆναι αὐτῇ φαγεῖν.","es":"Él les ordenó insistentemente que nadie se enterara de aquello, y dijo que le dieran algo de comer.","la":"","notes":["mc543secrecy"]}
+    ,{"chapter":6,"n":1,"gr":"Καὶ ἐξῆλθεν ἐκεῖθεν, καὶ ἔρχεται εἰς τὴν πατρίδα αὐτοῦ, καὶ ἀκολουθοῦσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ.","es":"Salió de allí y llegó a su tierra natal, acompañado por sus discípulos.","la":"","notes":["mc601home"]}
+    ,{"chapter":6,"n":2,"gr":"καὶ γενομένου σαββάτου ἤρξατο διδάσκειν ἐν τῇ συναγωγῇ· καὶ οἱ πολλοὶ ἀκούοντες ἐξεπλήσσοντο λέγοντες· Πόθεν τούτῳ ταῦτα, καὶ τίς ἡ σοφία ἡ δοθεῖσα τούτῳ, καὶ αἱ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ γινόμεναι;","es":"Cuando llegó el sábado, comenzó a enseñar en la sinagoga. Muchos de los que lo escuchaban quedaban asombrados y decían: «¿De dónde le viene todo esto? ¿Qué sabiduría es esta que se le ha dado? ¿Y cómo se realizan por sus manos semejantes obras poderosas?»","la":"","notes":["mc602wisdom"]}
   ];
 
   const notes = {
+    mc601home: ["La tierra natal", "πατρίς significa tierra o lugar de origen; el versículo no nombra expresamente Nazaret, identificada por el contexto y la tradición sinóptica (cf. Mt 13,54). ἀκολουθοῦσιν es presente histórico. A. B. Bruce, The Expositor’s Greek Testament, comentario a Mc 6,1: https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php."],
+    mc602wisdom: ["Asombro y preguntas", "γενομένου σαββάτου es genitivo absoluto temporal; ἐξεπλήσσοντο es imperfecto que presenta una reacción sostenida. πόθεν τούτῳ ταῦτα pregunta por el origen de lo oído y de las obras atribuidas a Jesús. Las afirmaciones sobre el propósito del viaje son conjeturas del comentarista, no datos expresos del relato. A. B. Bruce, The Expositor’s Greek Testament, Mc 6,2: https://www.truthaccordingtoscripture.com/commentaries/egt/mark-6.php; H. A. W. Meyer, Kritisch-exegetischer Kommentar, Mc 6: https://www.biblehub.com/commentaries/meyer/mark/6.htm."],
     mc541aramaic: ["Talithá kum: arameo conservado", "Marcos conserva las palabras arameas Ταλιθα κουμ y las interpreta en griego añadiendo σοὶ λέγω («te digo»). Hay variantes manuscritas con κουμι. Alfred Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 5,41: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php; Michael W. Holmes (ed.), SBLGNT, Mc 5,41: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."],
     mc542tenses: ["El levantarse y el caminar", "El aoristo ἀνέστη presenta el levantarse como acontecimiento, mientras que el imperfecto περιεπάτει describe la marcha en desarrollo. Los doce años de la niña se corresponden narrativamente con los doce años de enfermedad de la mujer (5,25). Plummer, Cambridge Greek Testament, Mc 5,42: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php."],
     mc543secrecy: ["Silencio y alimento", "διεστείλατο πολλὰ intensifica la orden; el texto no explica por qué se pide silencio. φαγεῖν es infinitivo aoristo de «comer». Plummer, Cambridge Greek Testament, Mc 5,43: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-5.php."],
@@ -746,7 +750,7 @@
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';
-    greekContent(original, p.gr, p.chapter === 4 ? 400 + p.n : p.chapter === 5 ? 500 + p.n : p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
+    greekContent(original, p.gr, p.chapter === 4 ? 400 + p.n : p.chapter === 5 ? 500 + p.n : p.chapter === 6 ? 600 + p.n : p.chapter ? (p.chapter - 1) * 100 + p.n : p.n);
     speech.append(original);
     p.notes.forEach((noteId, i) => {
       const anchor = makeElement('button', 'note-anchor', String(i + 1));
@@ -775,7 +779,8 @@
       2: {1:'Regreso a Cafarnaúm',13:'Leví y los comensales',18:'El ayuno y lo nuevo',23:'Las espigas y el sábado'},
       3: {1:'Una curación en sábado',7:'La multitud junto al mar',13:'La elección de los Doce',20:'Jesús y los suyos'},
       4: {1:'La enseñanza junto al mar'},
-      5: {1:'La región de los gerasenos'}
+      5: {1:'La región de los gerasenos'},
+      6: {1:'Jesús en su tierra natal'}
     };
     const byChapter = new Map();
     for (const verse of passages) {
