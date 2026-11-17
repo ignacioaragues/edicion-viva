@@ -76,3 +76,11 @@
 - Segunda parte: acto I y II.1–3 completos, II.4 hasta el renglón 70. Trama: balance de conquistas, ruptura del pacto de Segismundo, derrota cristiana, enfermedad de Zenócrate.
 - Acotaciones bilingües sin número, conservando las divisiones de escenas. **Total publicado: 3028 unidades de línea fuente** (2315 de Parte I, 713 de Parte II).
 - Sin notas ni fichas nuevas. Fuente inglesa Dyce PG 1589. Próximo: **Parte II II.4.71**.
+
+## Undécima pasada de traducción (17-11-2026)
+- **300 renglones nuevos**: segunda parte II.4.71–142 (72), III.1.1–79 (79), III.2.1–149 (149).
+- Quedan completos los actos I y II y la escena III.1. La escena III.2 avanza hasta el renglón 149.
+- Acontecimientos: muerte y funeral de Zenócrate; coronación de Calapino; retorno a las armas y enseñanza militar de Tamerlán a sus hijos.
+- Sin notas filológicas ni fichas nuevas. Acotaciones bilingües fuera de la numeración, en particular la música, muerte de Zenócrate, coronación y herida autoinfligida de Tamerlán.
+- **3328 unidades de línea** entre ambas partes: 2315 de la primera y 1013 de la segunda. Base de la continuación: Dyce / PG 1589, con colación textual posterior pendiente.
+- Próximo renglón: **Parte II, III.2.150**.
