@@ -18,6 +18,12 @@
   // La URL del catálogo sigue siendo la fuente autorizada para los enlaces.
   const editions = [
     {
+      catalogueUrl: './autores/marlowe/tamburlaine/',
+      readingId: 'marlowe-tamburlaine-1', monogram: 'T',
+      explanation: 'Las dos partes de la tragedia de Marlowe, en edición bilingüe.',
+      repository: 'ignacioaragues/edicion-viva', sourcePath: 'autores/marlowe/tamburlaine/'
+    },
+    {
       catalogueUrl: './autores/plauto/aulularia/',
       readingId: 'plauto-aulularia', monogram: 'P',
       explanation: 'Comedia latina de Plauto, en lectura bilingüe con notas y léxico.',
@@ -58,8 +64,8 @@
   const byId = new Map(editions.map(item => [item.readingId, item]));
   const leo = byId.get('leo-i-sermo-1');
   if (leo) byId.set('leo-i-sermo-2', { ...leo, readingId: 'leo-i-sermo-2', title: 'Sermo II', subtitle: 'De natali eiusdem II', readingUrl: './autores/leon-i/sermones/sermo-ii/' });
-  const fallback = editions.find(item => item.readingId === 'shakespeare-coriolanus') || editions[0];
-  const CACHE_KEY = 'edicion-viva:featured-commits:v1';
+  const fallback = editions.find(item => item.readingId === 'marlowe-tamburlaine-1') || editions[0];
+  const CACHE_KEY = 'edicion-viva:featured-commits:v2';
   const CACHE_TTL = 15 * 60 * 1000;
   let accountUser = null;
   let recentUpdate = null;
@@ -146,20 +152,23 @@
     if (dates.some(item => !item)) return false;
     dates.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
     recentUpdate = dates[0];
+    window.dispatchEvent(new CustomEvent('edicion-viva:updates-loaded', {
+      detail: { entries: dates.map(({ item, date }) => ({ url: item.url, date })) }
+    }));
     updateCard();
     return true;
   }
 
   async function loadUpdates() {
     try {
-      const cache = JSON.parse(sessionStorage.getItem(CACHE_KEY) || 'null');
-      if (cache && Date.now() - cache.checkedAt < CACHE_TTL && useUpdates(cache.entries)) return;
+      const cache = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
+      if (cache && useUpdates(cache.entries) && Date.now() - cache.checkedAt < CACHE_TTL) return;
     } catch { /* Sin caché de la sesión */ }
     try {
       // Exigir datos para todas las ediciones antes de anunciar cuál es la última.
       const entries = await Promise.all(editions.map(fetchLastChange));
       if (useUpdates(entries)) {
-        try { sessionStorage.setItem(CACHE_KEY, JSON.stringify({ checkedAt: Date.now(), entries })); }
+        try { localStorage.setItem(CACHE_KEY, JSON.stringify({ checkedAt: Date.now(), entries })); }
         catch { /* El destacado sigue funcionando sin almacenamiento */ }
       }
     } catch (error) {
