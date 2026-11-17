@@ -6,6 +6,17 @@
  */
 const collection = [
   {
+    author: 'Christopher Marlowe',
+    period: 'TEATRO ISABELINO',
+    work: 'Tamburlaine the Great',
+    translated: 'Tamerlán el Grande · partes I y II',
+    language: 'Inglés · Español',
+    status: 'available',
+    url: './autores/marlowe/tamburlaine/',
+    detail: 'Partes I y II completas en primera traducción · revisión filológica y literaria pendiente',
+  },
+
+  {
     author: 'Tito Maccio Plauto',
     period: 'COMEDIA LATINA',
     work: 'Aulularia',
@@ -101,17 +112,6 @@ const collection = [
     detail: 'En consideración',
   },
   {
-    author: 'Christopher Marlowe',
-    period: 'TEATRO ISABELINO',
-    work: 'Tamburlaine the Great',
-    translated: 'Tamerlán el Grande · partes I y II',
-    language: 'Inglés · Español',
-    status: 'available',
-    url: './autores/marlowe/tamburlaine/',
-    detail: 'Partes I y II completas en primera traducción · revisión filológica y literaria pendiente',
-  },
-
-  {
     author: 'Walt Whitman',
     period: 'POESÍA ESTADOUNIDENSE',
     work: 'Leaves of Grass',
@@ -206,6 +206,38 @@ const collection = [
 const list = document.querySelector('#library-list');
 const viewButtons = document.querySelectorAll('[data-library-view]');
 
+// La portada comparte las fechas de commits verificadas con el destacado.
+// Las lecturas locales/sincronizadas tienen prioridad cuando son más recientes.
+const updateDates = new Map();
+const readingIds = new Map([
+  ['./autores/marlowe/tamburlaine/', ['marlowe-tamburlaine-1']],
+  ['./autores/plauto/aulularia/', ['plauto-aulularia']],
+  ['https://ignacioaragues.github.io/shakespeare-edicion-viva/', ['shakespeare-coriolanus']],
+  ['./autores/evangelios/marcos/', ['evangelios-marcos']],
+  ['./autores/leon-i/', ['leo-i-']],
+  ['./autores/corneille/attila/', ['corneille-attila']]
+]);
+
+function activityTime(item, works) {
+  const updated = Date.parse(updateDates.get(item.url) || '') || 0;
+  const keys = readingIds.get(item.url) || [];
+  const read = Object.entries(works).reduce((latest, [id, record]) => {
+    if (!keys.some(key => key.endsWith('-') ? id.startsWith(key) : id === key)) return latest;
+    const date = Date.parse(record?.lastReadAt || '') || 0;
+    return Math.max(latest, date);
+  }, 0);
+  return Math.max(updated, read);
+}
+
+function orderedWorks() {
+  const works = window.EdicionVivaReading?.read()?.works || {};
+  return [...collection].sort((a, b) => {
+    if (isAvailable(a) !== isAvailable(b)) return isAvailable(a) ? -1 : 1;
+    if (!isAvailable(a)) return 0; // Las futuras conservan su orden editorial.
+    return activityTime(b, works) - activityTime(a, works);
+  });
+}
+
 function isAvailable(item) {
   return item.status === 'available' && Boolean(item.url);
 }
@@ -237,7 +269,7 @@ function makeNumber(index) {
 }
 
 function renderWorks() {
-  collection.forEach((item, index) => {
+  orderedWorks().forEach((item, index) => {
     const available = isAvailable(item);
     const row = document.createElement(available ? 'a' : 'div');
     row.className = 'library-row ' + (available ? 'library-row-active' : 'library-row-future');
@@ -333,4 +365,16 @@ function setLibraryView(view) {
 viewButtons.forEach(button => {
   button.addEventListener('click', () => setLibraryView(button.dataset.libraryView));
 });
+function refreshWorks() {
+  if (list?.dataset.view === 'works') setLibraryView('works');
+}
+window.addEventListener('edicion-viva:updates-loaded', event => {
+  for (const entry of event.detail?.entries || []) {
+    if (entry?.url && Number.isFinite(Date.parse(entry.date))) {
+      updateDates.set(entry.url, entry.date);
+    }
+  }
+  refreshWorks();
+});
+window.addEventListener('edicion-viva:reading-updated', refreshWorks);
 setLibraryView('works');
