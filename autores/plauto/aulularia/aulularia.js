@@ -991,7 +991,8 @@ for (const entry of verses) {
     button.textContent = chunk;
     button.setAttribute('aria-label', chunk + ': ver análisis morfológico');
     button.setAttribute('aria-pressed','false');
-    button.addEventListener('click', () => openWord(button, word, reference));
+    const tokenReference = entry.displayNumber === '142–143' && index > 4 ? 'II.1, v. 143' : reference;
+    button.addEventListener('click', () => openWord(button, word, tokenReference));
     latin.append(button);
   }
   if (index !== entry.words.length) console.error('Aulularia: fichas sobrantes', {verso: entry.n, fichas: entry.words.length, tokens: index});
