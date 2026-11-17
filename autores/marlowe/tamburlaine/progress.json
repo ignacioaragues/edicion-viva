@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Both parts complete in first translation draft. Philological review underway: Part I Prologue P1–8 and I.1.1–92 reviewed with selective scholarly notes and critical readings. Next pass I.1.93–142. Full early-witness collation and literary revision of remainder pending.",
+  "editorialReview": "Both parts complete in first translation draft. Philological review underway: Part I Prologue P1–8 and I.1.1–142 reviewed with selective critical notes and scholarly readings. Next pass I.1.143–189 (47 units), followed by I.2.1–3 (3 units) for target 50. Full early-witness collation and literary revision of remainder pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 100,
+    "reviewedUnits": 150,
     "reviewed": [
       {
         "part": 1,
@@ -444,28 +444,37 @@
         "start": 43,
         "end": 92,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 1,
+        "start": 93,
+        "end": 142,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I I.1.43–92",
+      "scope": "Part I I.1.93–142",
       "unitsReviewed": 50,
       "existingNotesRevised": 0,
-      "newNotes": 8,
+      "newNotes": 9,
       "readingCardsAdded": 1,
-      "translationLinesRevised": 6,
+      "translationLinesRevised": 8,
       "sourceBasis": [
-        "Alexander Dyce, Tamburlaine the Great, Project Gutenberg 1094, I.1.43–92",
-        "1590 first printing, Folger EarlyPrint transcription A4r–A4v, wln 59–108 (original readings for [task] and all Africa)",
-        "David McInnis, Introduction, Tamburlaine: A Critical Reader (2020), pp. 13–14 (context on Mycetes' rhetoric and authority)"
+        "Alexander Dyce, Tamburlaine the Great, Project Gutenberg eBook #1094, Act I scene 1",
+        "1590 first printing, Folger EarlyPrint, A4v–A5v, witness to I.1.93–142; variant in I.1.117 at A5r wln 134",
+        "David McInnis, Introduction, Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 13–15",
+        "Rüdiger Schmitt, Greece i. Greco-Persian Political Relations, Encyclopaedia Iranica, published 2002, updated 2016"
       ],
-      "note": "Full primary-witness collation of the whole play remains pending. Notes are anchored to precise source phrases; preserve local scene display and user highlights."
+      "note": "Nine anchored lexical, textual, historical and interpretive notes, plus one scene-local reading card. English text and line numbering unchanged; review of the remaining scenes pending."
     },
     "next": {
       "part": 1,
       "act": 1,
       "scene": 1,
-      "line": 93
+      "line": 143
     }
   }
 }
