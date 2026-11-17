@@ -260,3 +260,10 @@
 - Cotejados Dyce, PG #1094 y testimonio **1590**, Folger EarlyPrint B8r–C1r, wln 0846–0899, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
 - Variante **«state»** de 1590 frente a **«fate»** de Dyce en II.6.18. El verbo **«resolve»** de II.6.27 significa *disolverse en los elementos*; el del v. 34 significa *decidirse*. Esta dificultad está documentada en M. L. Stapleton, *Tamburlaine*, nota a II.6.25–28, https://users.pfw.edu/stapletm/msa/docs/CaseMarlowev2Tam.pdf, y en Dyce.
 - La edición mantiene el original inglés, numeración, hablantes, acotaciones, navegación y resaltados; la revisión se carga como `philology-17.js`, después de las capas XI–XVI.
+
+## Decimoctava pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** revisadas: Parte I, II.6.37–40 (4, escena cerrada) y II.7.1–46 (46). Acumulado **900 / 4.641 (19,4 %)**. Siguiente **II.7.47–67 (21) y III.1.1–29 (29)**.
+- **41 correcciones de traducción** y 9 versos confirmados sin cambios. Se verificaron las 50 líneas inglesas del texto base antes de asignar sus traducciones; **17 notas filológicas** de ancla literal y **2 fichas de lectura** sobre la astrología de Cosroe y la cosmología de Tamerlán.
+- Comparación textual: Alexander Dyce, ed., Project Gutenberg #1094; impreso de **1590**, Folger EarlyPrint **C1r–C2r, wln 0900–0952**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html. Se registra «Emperiall heauen» (1590, wln 0921) frente a «empyreal heaven» (Dyce, II.7.15), sin amalgamar testigos.
+- Apoyo filológico externo: Christopher Matusiak, ed. (2011), «Nature that framed us of four elements», *Representative Poetry Online*, University of Toronto, https://rpo.library.utoronto.ca/content/tamburlaine-great-part-one-nature-framed-us-four-elements. Su anotación sobre «restless spheres» y «wear ourselves» se distingue de nuestras interpretaciones propias.
+- Conservados inglés, rótulos de personajes, acotaciones, identificadores y navegación. Se añadió `philology-18.js` después de las capas XI–XVII; las notas continúan apareciendo como subrayados discretos.
