@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,33 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,34 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -232,9 +232,13 @@
     ,{"chapter":6,"n":31,"gr":"καὶ λέγει αὐτοῖς· Δεῦτε ὑμεῖς αὐτοὶ κατʼ ἰδίαν εἰς ἔρημον τόπον καὶ ἀναπαύσασθε ὀλίγον. ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν εὐκαίρουν.","es":"Y les dice: «Vengan ustedes solos a un lugar apartado y descansen un poco». Porque eran tantos los que iban y venían que ni siquiera tenían tiempo para comer.","la":"","notes":["mc631rest","mc631leisure","mc631variants"]}
     ,{"chapter":6,"n":32,"gr":"καὶ ἀπῆλθον ἐν τῷ πλοίῳ εἰς ἔρημον τόπον κατʼ ἰδίαν.","es":"Y se fueron en la barca a un lugar apartado, ellos solos.","la":"","notes":["mc632retreat","mc632variants"]}
     ,{"chapter":6,"n":33,"gr":"καὶ εἶδον αὐτοὺς ὑπάγοντας καὶ ἐπέγνωσαν πολλοί, καὶ πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ καὶ προῆλθον αὐτούς.","es":"Pero muchos los vieron marcharse y los reconocieron; desde todas las ciudades acudieron corriendo por tierra hasta allí y llegaron antes que ellos.","la":"","notes":["mc633route","mc633text"]}
+    ,{"chapter":6,"n":34,"gr":"καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπʼ αὐτοὺς ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα, καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά.","es":"Al desembarcar, vio una gran multitud y sintió compasión por ellos, porque eran como ovejas sin pastor. Y comenzó a enseñarles muchas cosas.","la":"","notes":["mc634shepherd","mc634compassion","mc634variant"]}
   ];
 
   const notes = {
+    mc634shepherd: ["Ovejas sin pastor","La comparación evoca el lenguaje de liderazgo de Nm 27,17 y Ez 34,5; no permite decidir por sí sola cuál de esos textos es la alusión principal. Véanse Nm 27,17 y Ez 34,5; texto griego de Ez 34: https://www.greekdoc.com/DOCUMENTS/polyglot/eze34.html."],
+    mc634compassion: ["Compasión y enseñanza","ἐσπλαγχνίσθη (aoristo pasivo deponente de σπλαγχνίζομαι) expresa una reacción de compasión; la acción que sigue es enseñar (ἤρξατο διδάσκειν), antes del reparto de alimentos. Holmes, SBLGNT, Mc 6,34: https://biblia.com/bible/sblgnt/mark/6/34-36."],
+    mc634variant: ["Lecturas alternativas","SBLGNT lee εἶδεν πολὺν ὄχλον sin ὁ Ἰησοῦς y ἐπʼ αὐτούς; otras ediciones imprimen ὁ Ἰησοῦς y ἐπʼ αὐτοῖς. Son diferencias editoriales documentadas, sin atribución aquí a manuscritos específicos. Comparación: https://greekdoc.com/DOCUMENTS/nt-poly/mk06.html."],
     mc633route: ["La multitud se adelanta","πεζῇ significa «por tierra», en contraste con la travesía en barca de 6,32. Los aoristos συνέδραμον y προῆλθον describen la carrera conjunta y la llegada anticipada; no identifican una ruta geográfica precisa. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,33: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/33."],
     mc633text: ["Tradición manuscrita","SBLGNT conserva καὶ προῆλθον αὐτούς («y llegaron antes que ellos»). Otros testigos añaden καὶ συνῆλθον πρὸς αὐτόν («y se reunieron con él»); la combinación de ambas frases se ha explicado como posible conflación de lecturas, interpretación editorial y no hecho seguro. M. W. Holmes (ed.), SBLGNT (2010), Mc 6,33: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; aparato comparativo: https://greeknewtestament.net/mk6-33."],
     mc632retreat: ["Retirada en barca","La repetición de εἰς ἔρημον τόπον y κατʼ ἰδίαν de 6,31 señala que emprenden la retirada solicitada, sin identificar por sí sola una localidad concreta. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,32: https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
