@@ -27,3 +27,9 @@
 - Publicados 300 versos nuevos: I.2.132–259, II.1.1–69, II.2.1–75 y II.3.1–28. Todas las escenas anteriores a II.3 están completas en primera traducción.
 - Se mantuvo la base de Dyce (Project Gutenberg 1094) para la continuación; la colación con Neilson (1911) y 1590 queda para la revisión filológica.
 - No se añadieron notas ni fichas en esta pasada. Próximo verso: **II.3.29**.
+
+## Tercera pasada de traducción (17-11-2026)
+- Se incorporaron 300 versos nuevos: II.3.29–66 (38), II.4.1–42 (42), II.5.1–106 (106), II.6.1–40 (40), II.7.1–67 (67), III.1.1–7 (7).
+- Se completó la primera traducción del **acto II** y se abrió el acto III con Bajazet. Total acumulado: **928 versos**, contando el prólogo de 8.
+- Solo traducción (sin notas ni fichas nuevas), con acotaciones bilingües fuera del conteo y numeración por escena. El texto inglés añadido sigue provisionalmente la edición de Dyce (Project Gutenberg 1094). Cotejo futuro con Neilson y el impreso de 1590.
+- Próximo pasaje: **Parte I, III.1.8**.

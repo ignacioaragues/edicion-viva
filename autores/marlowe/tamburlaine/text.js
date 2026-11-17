@@ -1,6 +1,6 @@
-/* Christopher Marlowe, Tamburlaine the Great, Part I: prologue, Act I complete, Act II scenes 1–2 complete, II.3.1–28.
- * Prologue and I.1.1–20 from Neilson 1911; translated scenes through II.3.28 use Dyce (Project Gutenberg 1094), pending collation with Neilson/1590.
- * Original preliminary Spanish translation; each line preserves scene numbering. */
+/* Christopher Marlowe, Tamburlaine the Great, Part I: prologue; Acts I–II complete; III.1.1–7.
+ * Base through Acts I–II: Alexander Dyce (Project Gutenberg 1094), apart from Neilson 1911 prologue and I.1.1–20; collation outstanding.
+ * Original Spanish translation, preliminary; verse numbers scoped by act/scene. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -1565,9 +1565,9 @@ window.TAMBURLAINE_EDITION = {
   },
   "next": {
     "part": 1,
-    "act": 2,
-    "scene": 3,
-    "line": 29
+    "act": 3,
+    "scene": 1,
+    "line": 8
   },
   "scene2": [
     {
@@ -3503,6 +3503,118 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 0,
       "en": "Enter Cosroe, Tamburlaine, Theridamas, Techelles, Usumcasane, Ortygius and others.",
       "es": "Entran Cosroe, Tamerlán, Teridamas, Tequeles, Usumcasane, Ortigio y otros."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 48,
+      "en": "Enter a messenger.",
+      "es": "Entra un mensajero."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 66,
+      "en": "Exeunt to battle.",
+      "es": "Salen hacia la batalla."
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "afterLine": 0,
+      "en": "Enter Mycetes with his crown in his hand.",
+      "es": "Entra Micetes con su corona en la mano."
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "afterLine": 15,
+      "en": "Enter Tamburlaine.",
+      "es": "Entra Tamerlán."
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "afterLine": 40,
+      "en": "Exit.",
+      "es": "Sale."
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "afterLine": 42,
+      "en": "Trumpets sound from the battle; he runs out.",
+      "es": "Suenan trompetas de combate; sale corriendo."
+    },
+    {
+      "act": 2,
+      "scene": 5,
+      "afterLine": 0,
+      "en": "Enter Cosroe, Tamburlaine, Menaphon, Meander, Ortygius, Theridamas, Techelles, Usumcasane and others.",
+      "es": "Entran Cosroe, Tamerlán, Menafón, Meandro, Ortigio, Teridamas, Tequeles, Usumcasane y otros."
+    },
+    {
+      "act": 2,
+      "scene": 5,
+      "afterLine": 49,
+      "en": "Exeunt all except Tamburlaine, Theridamas, Techelles and Usumcasane.",
+      "es": "Salen todos excepto Tamerlán, Teridamas, Tequeles y Usumcasane."
+    },
+    {
+      "act": 2,
+      "scene": 5,
+      "afterLine": 104,
+      "en": "Exit Techelles.",
+      "es": "Sale Tequeles."
+    },
+    {
+      "act": 2,
+      "scene": 5,
+      "afterLine": 106,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "afterLine": 0,
+      "en": "Enter Cosroe, Meander, Ortygius, Menaphon and soldiers.",
+      "es": "Entran Cosroe, Meandro, Ortigio, Menafón y soldados."
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "afterLine": 40,
+      "en": "Exeunt with drums.",
+      "es": "Salen mientras suenan los tambores."
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "afterLine": 0,
+      "en": "Battle alarms; enter Cosroe wounded, Tamburlaine, Theridamas, Techelles, Usumcasane and others.",
+      "es": "Se oyen alarmas de batalla; entran Cosroe herido, Tamerlán, Teridamas, Tequeles, Usumcasane y otros."
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "afterLine": 52,
+      "en": "Cosroe dies; Tamburlaine takes his crown and places it on his own head.",
+      "es": "Cosroe muere; Tamerlán le quita la corona y se la coloca."
+    },
+    {
+      "act": 2,
+      "scene": 7,
+      "afterLine": 67,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 3,
+      "scene": 1,
+      "afterLine": 0,
+      "en": "Enter Bajazeth, the kings of Fez, Morocco and Algiers, with pashas and others in great pomp.",
+      "es": "Entran Bajazet, los reyes de Fez, Marruecos y Argel, con bajás y otros, en medio de gran pompa."
     }
   ],
   "act2Scenes": {
@@ -4714,6 +4826,2118 @@ window.TAMBURLAINE_EDITION = {
         "speaker": "",
         "en": "As I shall be commended and excus'd",
         "es": "que se me alabará y disculpará"
+      },
+      {
+        "id": "II3-29",
+        "number": 29,
+        "speaker": "",
+        "en": "For turning my poor charge to his direction:",
+        "es": "por haber puesto mi humilde contingente bajo su mando;"
+      },
+      {
+        "id": "II3-30",
+        "number": 30,
+        "speaker": "",
+        "en": "And these his two renowmed friends, my lord,",
+        "es": "y estos dos célebres amigos suyos, señor,"
+      },
+      {
+        "id": "II3-31",
+        "number": 31,
+        "speaker": "",
+        "en": "Would make one thirst and strive to be retain'd",
+        "es": "harían que cualquiera ansiara y procurara ser admitido"
+      },
+      {
+        "id": "II3-32",
+        "number": 32,
+        "speaker": "",
+        "en": "In such a great degree of amity.",
+        "es": "en una amistad tan elevada."
+      },
+      {
+        "id": "II3-33",
+        "number": 33,
+        "speaker": "TECHELLES",
+        "en": "With duty and with amity we yield",
+        "es": "Con lealtad y amistad ofrecemos"
+      },
+      {
+        "id": "II3-34",
+        "number": 34,
+        "speaker": "",
+        "en": "Our utmost service to the fair Cosroe.",
+        "es": "nuestro más completo servicio al noble Cosroe."
+      },
+      {
+        "id": "II3-35",
+        "number": 35,
+        "speaker": "COSROE",
+        "en": "Which I esteem as portion of my crown.",
+        "es": "Y yo lo considero parte de mi corona."
+      },
+      {
+        "id": "II3-36",
+        "number": 36,
+        "speaker": "",
+        "en": "Usumcasane and Techelles both,",
+        "es": "Usumcasane y Tequeles, ambos,"
+      },
+      {
+        "id": "II3-37",
+        "number": 37,
+        "speaker": "",
+        "en": "When she that rules in Rhamnus' golden gates,",
+        "es": "cuando la diosa que reina en las puertas doradas de Ramnunte"
+      },
+      {
+        "id": "II3-38",
+        "number": 38,
+        "speaker": "",
+        "en": "And makes a passage for all prosperous arms,",
+        "es": "y abre camino a todas las armas victoriosas"
+      },
+      {
+        "id": "II3-39",
+        "number": 39,
+        "speaker": "",
+        "en": "Shall make me solely emperor of Asia,",
+        "es": "me convierta en único emperador de Asia,"
+      },
+      {
+        "id": "II3-40",
+        "number": 40,
+        "speaker": "",
+        "en": "Then shall your meeds and valours be advanc'd",
+        "es": "vuestras recompensas y vuestro valor serán elevados"
+      },
+      {
+        "id": "II3-41",
+        "number": 41,
+        "speaker": "",
+        "en": "To rooms of honour and nobility.",
+        "es": "a los puestos del honor y la nobleza."
+      },
+      {
+        "id": "II3-42",
+        "number": 42,
+        "speaker": "TAMBURLAINE",
+        "en": "Then haste, Cosroe, to be king alone,",
+        "es": "Apresúrate entonces, Cosroe, a ser el único rey,"
+      },
+      {
+        "id": "II3-43",
+        "number": 43,
+        "speaker": "",
+        "en": "That I with these my friends and all my men",
+        "es": "para que yo, con estos amigos y todos mis hombres,"
+      },
+      {
+        "id": "II3-44",
+        "number": 44,
+        "speaker": "",
+        "en": "May triumph in our long-expected fate.",
+        "es": "pueda celebrar nuestro destino largamente esperado."
+      },
+      {
+        "id": "II3-45",
+        "number": 45,
+        "speaker": "",
+        "en": "The king, your brother, is now hard at hand:",
+        "es": "El rey, tu hermano, ya está muy cerca:"
+      },
+      {
+        "id": "II3-46",
+        "number": 46,
+        "speaker": "",
+        "en": "Meet with the fool, and rid your royal shoulders",
+        "es": "enfréntate a ese necio y descarga tus hombros reales"
+      },
+      {
+        "id": "II3-47",
+        "number": 47,
+        "speaker": "",
+        "en": "Of such a burden as outweighs the sands",
+        "es": "de un peso mayor que todas las arenas"
+      },
+      {
+        "id": "II3-48",
+        "number": 48,
+        "speaker": "",
+        "en": "And all the craggy rocks of Caspia.",
+        "es": "y las rocas escarpadas del Caspio."
+      },
+      {
+        "id": "II3-49",
+        "number": 49,
+        "speaker": "MESSENGER",
+        "en": "My lord,",
+        "es": "Señor mío,"
+      },
+      {
+        "id": "II3-50",
+        "number": 50,
+        "speaker": "",
+        "en": "We have discovered the enemy",
+        "es": "hemos descubierto al enemigo,"
+      },
+      {
+        "id": "II3-51",
+        "number": 51,
+        "speaker": "",
+        "en": "Ready to charge you with a mighty army.",
+        "es": "dispuesto a atacaros con un poderoso ejército."
+      },
+      {
+        "id": "II3-52",
+        "number": 52,
+        "speaker": "COSROE",
+        "en": "Come, Tamburlaine; now whet thy winged sword,",
+        "es": "Ven, Tamerlán; afila ahora tu espada alada"
+      },
+      {
+        "id": "II3-53",
+        "number": 53,
+        "speaker": "",
+        "en": "And lift thy lofty arm into the clouds,",
+        "es": "y eleva tu poderoso brazo hasta las nubes,"
+      },
+      {
+        "id": "II3-54",
+        "number": 54,
+        "speaker": "",
+        "en": "That it may reach the king of Persia's crown,",
+        "es": "para que alcance la corona del rey de Persia"
+      },
+      {
+        "id": "II3-55",
+        "number": 55,
+        "speaker": "",
+        "en": "And set it safe on my victorious head.",
+        "es": "y la coloque a salvo sobre mi cabeza victoriosa."
+      },
+      {
+        "id": "II3-56",
+        "number": 56,
+        "speaker": "TAMBURLAINE",
+        "en": "See where it is, the keenest curtle-axe",
+        "es": "¡Mirad aquí el hacha de guerra más afilada"
+      },
+      {
+        "id": "II3-57",
+        "number": 57,
+        "speaker": "",
+        "en": "That e'er made passage thorough Persian arms!",
+        "es": "que jamás abrió camino entre las armas persas!"
+      },
+      {
+        "id": "II3-58",
+        "number": 58,
+        "speaker": "",
+        "en": "These are the wings shall make it fly as swift",
+        "es": "Estos son los brazos que la harán volar tan veloz"
+      },
+      {
+        "id": "II3-59",
+        "number": 59,
+        "speaker": "",
+        "en": "As doth the lightning or the breath of heaven,",
+        "es": "como el relámpago o el aliento del cielo,"
+      },
+      {
+        "id": "II3-60",
+        "number": 60,
+        "speaker": "",
+        "en": "And kill as sure as it swiftly flies.",
+        "es": "y matar con tanta certeza como rapidez."
+      },
+      {
+        "id": "II3-61",
+        "number": 61,
+        "speaker": "COSROE",
+        "en": "Thy words assure me of kind success:",
+        "es": "Tus palabras me aseguran un éxito favorable."
+      },
+      {
+        "id": "II3-62",
+        "number": 62,
+        "speaker": "",
+        "en": "Go, valiant soldier, go before, and charge",
+        "es": "Ve, valiente guerrero, marcha al frente y ataca"
+      },
+      {
+        "id": "II3-63",
+        "number": 63,
+        "speaker": "",
+        "en": "The fainting army of that foolish king.",
+        "es": "al desfalleciente ejército de ese rey necio."
+      },
+      {
+        "id": "II3-64",
+        "number": 64,
+        "speaker": "TAMBURLAINE",
+        "en": "Usumcasane and Techelles, come:",
+        "es": "Usumcasane y Tequeles, venid:"
+      },
+      {
+        "id": "II3-65",
+        "number": 65,
+        "speaker": "",
+        "en": "We are enow to scare the enemy,",
+        "es": "somos suficientes para aterrorizar al enemigo,"
+      },
+      {
+        "id": "II3-66",
+        "number": 66,
+        "speaker": "",
+        "en": "And more than needs to make an emperor.",
+        "es": "y más de los necesarios para crear un emperador."
+      }
+    ],
+    "4": [
+      {
+        "id": "II4-1",
+        "number": 1,
+        "speaker": "MYCETES",
+        "en": "Accurs'd be he that first invented war!",
+        "es": "¡Maldito sea quien inventó primero la guerra!"
+      },
+      {
+        "id": "II4-2",
+        "number": 2,
+        "speaker": "",
+        "en": "They knew not, ah, they knew not, simple men,",
+        "es": "No sabían, ay, no sabían aquellos hombres ingenuos"
+      },
+      {
+        "id": "II4-3",
+        "number": 3,
+        "speaker": "",
+        "en": "How those were hit by pelting cannon-shot",
+        "es": "cómo quienes reciben el impacto de los cañonazos"
+      },
+      {
+        "id": "II4-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Stand staggering like a quivering aspen-leaf",
+        "es": "quedan tambaleándose como una hoja temblorosa de álamo"
+      },
+      {
+        "id": "II4-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Fearing the force of Boreas' boisterous blasts!",
+        "es": "ante la fuerza de las violentas ráfagas de Bóreas."
+      },
+      {
+        "id": "II4-6",
+        "number": 6,
+        "speaker": "",
+        "en": "In what a lamentable case were I,",
+        "es": "¡En qué situación tan lamentable estaría yo"
+      },
+      {
+        "id": "II4-7",
+        "number": 7,
+        "speaker": "",
+        "en": "If nature had not given me wisdom's lore!",
+        "es": "si la naturaleza no me hubiera dotado de sabiduría!"
+      },
+      {
+        "id": "II4-8",
+        "number": 8,
+        "speaker": "",
+        "en": "For kings are clouts that every man shoots at,",
+        "es": "Pues los reyes somos blancos a los que todos disparan;"
+      },
+      {
+        "id": "II4-9",
+        "number": 9,
+        "speaker": "",
+        "en": "Our crown the pin that thousands seek to cleave:",
+        "es": "nuestra corona es la diana que miles quieren partir."
+      },
+      {
+        "id": "II4-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Therefore in policy I think it good",
+        "es": "Por eso, por prudencia, considero conveniente"
+      },
+      {
+        "id": "II4-11",
+        "number": 11,
+        "speaker": "",
+        "en": "To hide it close; a goodly stratagem,",
+        "es": "esconderla muy bien: una magnífica estratagema,"
+      },
+      {
+        "id": "II4-12",
+        "number": 12,
+        "speaker": "",
+        "en": "And far from any man that is a fool:",
+        "es": "impropia de cualquiera que sea un necio."
+      },
+      {
+        "id": "II4-13",
+        "number": 13,
+        "speaker": "",
+        "en": "So shall not I be known; or if I be,",
+        "es": "Así no me reconocerán; y, aunque me reconozcan,"
+      },
+      {
+        "id": "II4-14",
+        "number": 14,
+        "speaker": "",
+        "en": "They cannot take away my crown from me.",
+        "es": "no podrán quitarme la corona."
+      },
+      {
+        "id": "II4-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Here will I hide it in this simple hole.",
+        "es": "La esconderé aquí, en este sencillo agujero."
+      },
+      {
+        "id": "II4-16",
+        "number": 16,
+        "speaker": "TAMBURLAINE",
+        "en": "What, fearful coward, straggling from the camp,",
+        "es": "¿Qué es esto, cobarde tembloroso, apartado del campamento,"
+      },
+      {
+        "id": "II4-17",
+        "number": 17,
+        "speaker": "",
+        "en": "When kings themselves are present in the field?",
+        "es": "cuando hasta los reyes están presentes en el campo de batalla?"
+      },
+      {
+        "id": "II4-18",
+        "number": 18,
+        "speaker": "MYCETES",
+        "en": "Thou liest.",
+        "es": "Mientes."
+      },
+      {
+        "id": "II4-19",
+        "number": 19,
+        "speaker": "TAMBURLAINE",
+        "en": "Base villain, darest thou give me the lie?",
+        "es": "¡Miserable villano! ¿Te atreves a llamarme mentiroso?"
+      },
+      {
+        "id": "II4-20",
+        "number": 20,
+        "speaker": "MYCETES",
+        "en": "Away! I am the king; go; touch me not.",
+        "es": "¡Fuera! Soy el rey. Vete, no me toques."
+      },
+      {
+        "id": "II4-21",
+        "number": 21,
+        "speaker": "",
+        "en": "Thou break'st the law of arms, unless thou kneel,",
+        "es": "Violas las leyes de la guerra si no te arrodillas"
+      },
+      {
+        "id": "II4-22",
+        "number": 22,
+        "speaker": "",
+        "en": "And cry me \"mercy, noble king!\"",
+        "es": "y me imploras: «¡Piedad, noble rey!»."
+      },
+      {
+        "id": "II4-23",
+        "number": 23,
+        "speaker": "TAMBURLAINE",
+        "en": "Are you the witty king of Persia?",
+        "es": "¿Eres tú el ingenioso rey de Persia?"
+      },
+      {
+        "id": "II4-24",
+        "number": 24,
+        "speaker": "MYCETES",
+        "en": "Ay, marry, am I: have you any suit to me?",
+        "es": "Pues claro que sí. ¿Tienes alguna petición que hacerme?"
+      },
+      {
+        "id": "II4-25",
+        "number": 25,
+        "speaker": "TAMBURLAINE",
+        "en": "I would entreat you to speak but three wise words.",
+        "es": "Te rogaría que pronunciaras siquiera tres palabras sensatas."
+      },
+      {
+        "id": "II4-26",
+        "number": 26,
+        "speaker": "MYCETES",
+        "en": "So I can when I see my time.",
+        "es": "Puedo hacerlo cuando llegue el momento oportuno."
+      },
+      {
+        "id": "II4-27",
+        "number": 27,
+        "speaker": "TAMBURLAINE",
+        "en": "Is this your crown?",
+        "es": "¿Es esta tu corona?"
+      },
+      {
+        "id": "II4-28",
+        "number": 28,
+        "speaker": "MYCETES",
+        "en": "Ay: didst thou ever see a fairer?",
+        "es": "Sí. ¿Has visto alguna vez otra más hermosa?"
+      },
+      {
+        "id": "II4-29",
+        "number": 29,
+        "speaker": "TAMBURLAINE",
+        "en": "You will not sell it, will you?",
+        "es": "Supongo que no querrás venderla, ¿verdad?"
+      },
+      {
+        "id": "II4-30",
+        "number": 30,
+        "speaker": "MYCETES",
+        "en": "Such another word, and I will have thee executed. Come,",
+        "es": "Una palabra más como esa y haré que te ejecuten. Vamos,"
+      },
+      {
+        "id": "II4-31",
+        "number": 31,
+        "speaker": "",
+        "en": "give it me.",
+        "es": "devuélvemela."
+      },
+      {
+        "id": "II4-32",
+        "number": 32,
+        "speaker": "TAMBURLAINE",
+        "en": "No; I took it prisoner.",
+        "es": "No. La he hecho prisionera."
+      },
+      {
+        "id": "II4-33",
+        "number": 33,
+        "speaker": "MYCETES",
+        "en": "You lie; I gave it you.",
+        "es": "Mientes: yo te la entregué."
+      },
+      {
+        "id": "II4-34",
+        "number": 34,
+        "speaker": "TAMBURLAINE",
+        "en": "Then 'tis mine.",
+        "es": "Entonces es mía."
+      },
+      {
+        "id": "II4-35",
+        "number": 35,
+        "speaker": "MYCETES",
+        "en": "No; I mean I let you keep it.",
+        "es": "No: quiero decir que te permití sostenerla."
+      },
+      {
+        "id": "II4-36",
+        "number": 36,
+        "speaker": "TAMBURLAINE",
+        "en": "Well, I mean you shall have it again.",
+        "es": "Bien, y yo quiero decir que volverás a tenerla."
+      },
+      {
+        "id": "II4-37",
+        "number": 37,
+        "speaker": "",
+        "en": "Here, take it for a while: I lend it thee,",
+        "es": "Toma, consérvala un tiempo: te la presto"
+      },
+      {
+        "id": "II4-38",
+        "number": 38,
+        "speaker": "",
+        "en": "Till I may see thee hemm'd with armed men;",
+        "es": "hasta que te vea rodeado de hombres armados."
+      },
+      {
+        "id": "II4-39",
+        "number": 39,
+        "speaker": "",
+        "en": "Then shalt thou see me pull it from thy head:",
+        "es": "Entonces verás cómo te la arranco de la cabeza."
+      },
+      {
+        "id": "II4-40",
+        "number": 40,
+        "speaker": "",
+        "en": "Thou art no match for mighty Tamburlaine.",
+        "es": "No eres rival para el poderoso Tamerlán."
+      },
+      {
+        "id": "II4-41",
+        "number": 41,
+        "speaker": "MYCETES",
+        "en": "O gods, is this Tamburlaine the thief?",
+        "es": "¡Oh, dioses! ¿Es este Tamerlán, el ladrón?"
+      },
+      {
+        "id": "II4-42",
+        "number": 42,
+        "speaker": "",
+        "en": "I marvel much he stole it not away.",
+        "es": "Me sorprende mucho que no se haya llevado la corona."
+      }
+    ],
+    "5": [
+      {
+        "id": "II5-1",
+        "number": 1,
+        "speaker": "TAMBURLAINE",
+        "en": "Hold thee, Cosroe; wear two imperial crowns;",
+        "es": "Toma, Cosroe: lleva dos coronas imperiales."
+      },
+      {
+        "id": "II5-2",
+        "number": 2,
+        "speaker": "",
+        "en": "Think thee invested now as royally,",
+        "es": "Considérate investido ahora con tanta majestad,"
+      },
+      {
+        "id": "II5-3",
+        "number": 3,
+        "speaker": "",
+        "en": "Even by the mighty hand of Tamburlaine,",
+        "es": "por la poderosa mano del propio Tamerlán,"
+      },
+      {
+        "id": "II5-4",
+        "number": 4,
+        "speaker": "",
+        "en": "As if as many kings as could encompass thee",
+        "es": "como si te hubieran coronado emperador"
+      },
+      {
+        "id": "II5-5",
+        "number": 5,
+        "speaker": "",
+        "en": "With greatest pomp had crown'd thee emperor.",
+        "es": "cuantos reyes pudieran rodearte con la mayor pompa."
+      },
+      {
+        "id": "II5-6",
+        "number": 6,
+        "speaker": "COSROE",
+        "en": "So do I, thrice-renowmed man-at-arms;",
+        "es": "Así lo hago, guerrero tres veces ilustre;"
+      },
+      {
+        "id": "II5-7",
+        "number": 7,
+        "speaker": "",
+        "en": "And none shall keep the crown but Tamburlaine:",
+        "es": "y nadie salvo Tamerlán conservará esta corona."
+      },
+      {
+        "id": "II5-8",
+        "number": 8,
+        "speaker": "",
+        "en": "Thee do I make my regent of Persia,",
+        "es": "A ti te nombro regente de Persia"
+      },
+      {
+        "id": "II5-9",
+        "number": 9,
+        "speaker": "",
+        "en": "And general-lieutenant of my armies.—",
+        "es": "y lugarteniente general de mis ejércitos."
+      },
+      {
+        "id": "II5-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Meander, you, that were our brother's guide,",
+        "es": "Meandro, tú, que fuiste guía de nuestro hermano"
+      },
+      {
+        "id": "II5-11",
+        "number": 11,
+        "speaker": "",
+        "en": "And chiefest counsellor in all his acts,",
+        "es": "y principal consejero en todas sus empresas,"
+      },
+      {
+        "id": "II5-12",
+        "number": 12,
+        "speaker": "",
+        "en": "Since he is yielded to the stroke of war,",
+        "es": "puesto que él ha sucumbido al golpe de la guerra,"
+      },
+      {
+        "id": "II5-13",
+        "number": 13,
+        "speaker": "",
+        "en": "On your submission we with thanks excuse,",
+        "es": "aceptamos tu sumisión con gratitud y te perdonamos,"
+      },
+      {
+        "id": "II5-14",
+        "number": 14,
+        "speaker": "",
+        "en": "And give you equal place in our affairs.",
+        "es": "y te otorgamos igual lugar en nuestros asuntos."
+      },
+      {
+        "id": "II5-15",
+        "number": 15,
+        "speaker": "MEANDER",
+        "en": "Most happy emperor, in humblest terms",
+        "es": "Felicísimo emperador, con la mayor humildad"
+      },
+      {
+        "id": "II5-16",
+        "number": 16,
+        "speaker": "",
+        "en": "I vow my service to your majesty,",
+        "es": "prometo servir a vuestra majestad"
+      },
+      {
+        "id": "II5-17",
+        "number": 17,
+        "speaker": "",
+        "en": "With utmost virtue of my faith and duty.",
+        "es": "con toda la fidelidad y el deber de que soy capaz."
+      },
+      {
+        "id": "II5-18",
+        "number": 18,
+        "speaker": "COSROE",
+        "en": "Thanks, good Meander.—Then, Cosroe, reign,",
+        "es": "Gracias, buen Meandro. ¡Reina, pues, Cosroe,"
+      },
+      {
+        "id": "II5-19",
+        "number": 19,
+        "speaker": "",
+        "en": "And govern Persia in her former pomp.",
+        "es": "y gobierna Persia con su antigua magnificencia!"
+      },
+      {
+        "id": "II5-20",
+        "number": 20,
+        "speaker": "",
+        "en": "Now send embassage to thy neighbour kings,",
+        "es": "Envía ahora embajadas a los reyes vecinos,"
+      },
+      {
+        "id": "II5-21",
+        "number": 21,
+        "speaker": "",
+        "en": "And let them know the Persian king is chang'd,",
+        "es": "y hazles saber que el rey de Persia ha cambiado:"
+      },
+      {
+        "id": "II5-22",
+        "number": 22,
+        "speaker": "",
+        "en": "From one that knew not what a king should do,",
+        "es": "de uno que no sabía qué debía hacer un rey"
+      },
+      {
+        "id": "II5-23",
+        "number": 23,
+        "speaker": "",
+        "en": "To one that can command what 'longs thereto.",
+        "es": "a otro que sabe ordenar cuanto corresponde a su cargo."
+      },
+      {
+        "id": "II5-24",
+        "number": 24,
+        "speaker": "",
+        "en": "And now we will to fair Persepolis",
+        "es": "Y ahora iremos a la hermosa Persépolis"
+      },
+      {
+        "id": "II5-25",
+        "number": 25,
+        "speaker": "",
+        "en": "With twenty thousand expert soldiers.",
+        "es": "con veinte mil soldados experimentados."
+      },
+      {
+        "id": "II5-26",
+        "number": 26,
+        "speaker": "",
+        "en": "The lords and captains of my brother's camp",
+        "es": "Los nobles y capitanes del campamento de mi hermano,"
+      },
+      {
+        "id": "II5-27",
+        "number": 27,
+        "speaker": "",
+        "en": "With little slaughter take Meander's course,",
+        "es": "casi sin derramamiento de sangre, siguen el ejemplo de Meandro"
+      },
+      {
+        "id": "II5-28",
+        "number": 28,
+        "speaker": "",
+        "en": "And gladly yield them to my gracious rule.—",
+        "es": "y se someten gustosos a mi gobierno benévolo."
+      },
+      {
+        "id": "II5-29",
+        "number": 29,
+        "speaker": "",
+        "en": "Ortygius and Menaphon, my trusty friends,",
+        "es": "Ortigio y Menafón, mis amigos leales,"
+      },
+      {
+        "id": "II5-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Now will I gratify your former good,",
+        "es": "ahora recompensaré vuestros servicios pasados"
+      },
+      {
+        "id": "II5-31",
+        "number": 31,
+        "speaker": "",
+        "en": "And grace your calling with a greater sway.",
+        "es": "y honraré vuestros cargos con mayor autoridad."
+      },
+      {
+        "id": "II5-32",
+        "number": 32,
+        "speaker": "ORTYGIUS",
+        "en": "And as we ever aim'd at your behoof,",
+        "es": "Y así como siempre procuramos vuestro beneficio"
+      },
+      {
+        "id": "II5-33",
+        "number": 33,
+        "speaker": "",
+        "en": "And sought your state all honour it deserv'd,",
+        "es": "y buscamos para vuestra condición todo el honor merecido,"
+      },
+      {
+        "id": "II5-34",
+        "number": 34,
+        "speaker": "",
+        "en": "So will we with our powers and our lives",
+        "es": "también con nuestras fuerzas y nuestras vidas"
+      },
+      {
+        "id": "II5-35",
+        "number": 35,
+        "speaker": "",
+        "en": "Endeavour to preserve and prosper it.",
+        "es": "nos esforzaremos por conservarla y hacerla prosperar."
+      },
+      {
+        "id": "II5-36",
+        "number": 36,
+        "speaker": "COSROE",
+        "en": "I will not thank thee, sweet Ortygius;",
+        "es": "No voy a darte las gracias, querido Ortigio;"
+      },
+      {
+        "id": "II5-37",
+        "number": 37,
+        "speaker": "",
+        "en": "Better replies shall prove my purposes.—",
+        "es": "mis actos mostrarán mejor cuáles son mis intenciones."
+      },
+      {
+        "id": "II5-38",
+        "number": 38,
+        "speaker": "",
+        "en": "And now, Lord Tamburlaine, my brother's camp",
+        "es": "Y ahora, señor Tamerlán, el campamento de mi hermano"
+      },
+      {
+        "id": "II5-39",
+        "number": 39,
+        "speaker": "",
+        "en": "I leave to thee and to Theridamas,",
+        "es": "te lo confío a ti y a Teridamas,"
+      },
+      {
+        "id": "II5-40",
+        "number": 40,
+        "speaker": "",
+        "en": "To follow me to fair Persepolis;",
+        "es": "para que me sigáis a la hermosa Persépolis."
+      },
+      {
+        "id": "II5-41",
+        "number": 41,
+        "speaker": "",
+        "en": "Then will we march to all those Indian mines",
+        "es": "Después marcharemos a todas esas minas de la India"
+      },
+      {
+        "id": "II5-42",
+        "number": 42,
+        "speaker": "",
+        "en": "My witless brother to the Christians lost,",
+        "es": "que mi insensato hermano perdió frente a los cristianos,"
+      },
+      {
+        "id": "II5-43",
+        "number": 43,
+        "speaker": "",
+        "en": "And ransom them with fame and usury:",
+        "es": "y las recuperaremos con gloria e intereses."
+      },
+      {
+        "id": "II5-44",
+        "number": 44,
+        "speaker": "",
+        "en": "And, till thou overtake me, Tamburlaine,",
+        "es": "Y hasta que me alcances, Tamerlán,"
+      },
+      {
+        "id": "II5-45",
+        "number": 45,
+        "speaker": "",
+        "en": "(Staying to order all the scatter'd troops,)",
+        "es": "tras quedarte a organizar las tropas dispersas,"
+      },
+      {
+        "id": "II5-46",
+        "number": 46,
+        "speaker": "",
+        "en": "Farewell, lord regent and his happy friends.",
+        "es": "adiós, señor regente y afortunados amigos suyos."
+      },
+      {
+        "id": "II5-47",
+        "number": 47,
+        "speaker": "",
+        "en": "I long to sit upon my brother's throne.",
+        "es": "Ardo en deseos de sentarme en el trono de mi hermano."
+      },
+      {
+        "id": "II5-48",
+        "number": 48,
+        "speaker": "MEANDER",
+        "en": "Your majesty shall shortly have your wish,",
+        "es": "Vuestra majestad verá pronto cumplido su deseo"
+      },
+      {
+        "id": "II5-49",
+        "number": 49,
+        "speaker": "",
+        "en": "And ride in triumph through Persepolis.",
+        "es": "y desfilará triunfante por Persépolis."
+      },
+      {
+        "id": "II5-50",
+        "number": 50,
+        "speaker": "TAMBURLAINE",
+        "en": "And ride in triumph through Persepolis!—",
+        "es": "¡Y desfilará triunfante por Persépolis!"
+      },
+      {
+        "id": "II5-51",
+        "number": 51,
+        "speaker": "",
+        "en": "Is it not brave to be a king, Techelles?—",
+        "es": "¿No es magnífico ser rey, Tequeles?"
+      },
+      {
+        "id": "II5-52",
+        "number": 52,
+        "speaker": "",
+        "en": "Usumcasane and Theridamas,",
+        "es": "Usumcasane y Teridamas,"
+      },
+      {
+        "id": "II5-53",
+        "number": 53,
+        "speaker": "",
+        "en": "Is it not passing brave to be a king,",
+        "es": "¿no es extraordinariamente magnífico ser rey"
+      },
+      {
+        "id": "II5-54",
+        "number": 54,
+        "speaker": "",
+        "en": "And ride in triumph through Persepolis?",
+        "es": "y desfilar triunfante por Persépolis?"
+      },
+      {
+        "id": "II5-55",
+        "number": 55,
+        "speaker": "TECHELLES",
+        "en": "O, my lord, it is sweet and full of pomp!",
+        "es": "¡Oh, señor mío, es dulce y está lleno de pompa!"
+      },
+      {
+        "id": "II5-56",
+        "number": 56,
+        "speaker": "USUMCASANE",
+        "en": "To be a king is half to be a god.",
+        "es": "Ser rey es ser medio dios."
+      },
+      {
+        "id": "II5-57",
+        "number": 57,
+        "speaker": "THERIDAMAS",
+        "en": "A god is not so glorious as a king:",
+        "es": "Un dios no es tan glorioso como un rey:"
+      },
+      {
+        "id": "II5-58",
+        "number": 58,
+        "speaker": "",
+        "en": "I think the pleasure they enjoy in heaven,",
+        "es": "creo que los placeres de que disfrutan en el cielo"
+      },
+      {
+        "id": "II5-59",
+        "number": 59,
+        "speaker": "",
+        "en": "Cannot compare with kingly joys in earth;—",
+        "es": "no pueden compararse con las alegrías reales de la tierra."
+      },
+      {
+        "id": "II5-60",
+        "number": 60,
+        "speaker": "",
+        "en": "To wear a crown enchas'd with pearl and gold,",
+        "es": "Llevar una corona engastada de perlas y oro,"
+      },
+      {
+        "id": "II5-61",
+        "number": 61,
+        "speaker": "",
+        "en": "Whose virtues carry with it life and death;",
+        "es": "cuyo poder abarca la vida y la muerte;"
+      },
+      {
+        "id": "II5-62",
+        "number": 62,
+        "speaker": "",
+        "en": "To ask and have, command and be obey'd;",
+        "es": "pedir y obtener, mandar y ser obedecido;"
+      },
+      {
+        "id": "II5-63",
+        "number": 63,
+        "speaker": "",
+        "en": "When looks breed love, with looks to gain the prize,—",
+        "es": "cuando las miradas despiertan amor, obtener el premio con la mirada:"
+      },
+      {
+        "id": "II5-64",
+        "number": 64,
+        "speaker": "",
+        "en": "Such power attractive shines in princes' eyes.",
+        "es": "tal poder de atracción brilla en los ojos de los príncipes."
+      },
+      {
+        "id": "II5-65",
+        "number": 65,
+        "speaker": "TAMBURLAINE",
+        "en": "Why, say, Theridamas, wilt thou be a king?",
+        "es": "Dime, pues, Teridamas, ¿quieres ser rey?"
+      },
+      {
+        "id": "II5-66",
+        "number": 66,
+        "speaker": "THERIDAMAS",
+        "en": "Nay, though I praise it, I can live without it.",
+        "es": "No; aunque lo alabe, puedo vivir sin ello."
+      },
+      {
+        "id": "II5-67",
+        "number": 67,
+        "speaker": "TAMBURLAINE",
+        "en": "What say my other friends? will you be kings?",
+        "es": "¿Y qué dicen mis otros amigos? ¿Queréis ser reyes?"
+      },
+      {
+        "id": "II5-68",
+        "number": 68,
+        "speaker": "TECHELLES",
+        "en": "I, if I could, with all my heart, my lord.",
+        "es": "Yo sí, si pudiera, de todo corazón, señor."
+      },
+      {
+        "id": "II5-69",
+        "number": 69,
+        "speaker": "TAMBURLAINE",
+        "en": "Why, that's well said, Techelles: so would I;—",
+        "es": "¡Bien dicho, Tequeles! Yo también querría."
+      },
+      {
+        "id": "II5-70",
+        "number": 70,
+        "speaker": "",
+        "en": "And so would you, my masters, would you not?",
+        "es": "Y vosotros también, señores, ¿no es cierto?"
+      },
+      {
+        "id": "II5-71",
+        "number": 71,
+        "speaker": "USUMCASANE",
+        "en": "What, then, my lord?",
+        "es": "¿Y entonces qué, señor?"
+      },
+      {
+        "id": "II5-72",
+        "number": 72,
+        "speaker": "TAMBURLAINE",
+        "en": "Why, then, Casane, shall we wish for aught",
+        "es": "Pues entonces, Casane, ¿vamos a desear algo"
+      },
+      {
+        "id": "II5-73",
+        "number": 73,
+        "speaker": "",
+        "en": "The world affords in greatest novelty,",
+        "es": "de cuanto el mundo ofrece en sus mayores maravillas"
+      },
+      {
+        "id": "II5-74",
+        "number": 74,
+        "speaker": "",
+        "en": "And rest attemptless, faint, and destitute?",
+        "es": "y quedarnos sin intentarlo, débiles y desamparados?"
+      },
+      {
+        "id": "II5-75",
+        "number": 75,
+        "speaker": "",
+        "en": "Methinks we should not. I am strongly mov'd,",
+        "es": "Creo que no. Siento con fuerza"
+      },
+      {
+        "id": "II5-76",
+        "number": 76,
+        "speaker": "",
+        "en": "That if I should desire the Persian crown,",
+        "es": "que, si deseara la corona persa,"
+      },
+      {
+        "id": "II5-77",
+        "number": 77,
+        "speaker": "",
+        "en": "I could attain it with a wondrous ease:",
+        "es": "podría alcanzarla con extraordinaria facilidad."
+      },
+      {
+        "id": "II5-78",
+        "number": 78,
+        "speaker": "",
+        "en": "And would not all our soldiers soon consent,",
+        "es": "¿Y no consentirían pronto todos nuestros soldados"
+      },
+      {
+        "id": "II5-79",
+        "number": 79,
+        "speaker": "",
+        "en": "If we should aim at such a dignity?",
+        "es": "si aspiráramos a semejante dignidad?"
+      },
+      {
+        "id": "II5-80",
+        "number": 80,
+        "speaker": "THERIDAMAS",
+        "en": "I know they would with our persuasions.",
+        "es": "Sé que, con nuestra persuasión, lo harían."
+      },
+      {
+        "id": "II5-81",
+        "number": 81,
+        "speaker": "TAMBURLAINE",
+        "en": "Why, then, Theridamas, I'll first assay",
+        "es": "Pues entonces, Teridamas, intentaré primero"
+      },
+      {
+        "id": "II5-82",
+        "number": 82,
+        "speaker": "",
+        "en": "To get the Persian kingdom to myself;",
+        "es": "conquistar para mí el reino de Persia;"
+      },
+      {
+        "id": "II5-83",
+        "number": 83,
+        "speaker": "",
+        "en": "Then thou for Parthia; they for Scythia and Media;",
+        "es": "después tú tendrás Partia, y ellos Escitia y Media;"
+      },
+      {
+        "id": "II5-84",
+        "number": 84,
+        "speaker": "",
+        "en": "And, if I prosper, all shall be as sure",
+        "es": "y, si triunfo, todo será tan seguro"
+      },
+      {
+        "id": "II5-85",
+        "number": 85,
+        "speaker": "",
+        "en": "As if the Turk, the Pope, Afric, and Greece,",
+        "es": "como si el turco, el papa, África y Grecia"
+      },
+      {
+        "id": "II5-86",
+        "number": 86,
+        "speaker": "",
+        "en": "Came creeping to us with their crowns a-piece.",
+        "es": "vinieran arrastrándose a ofrecernos sus coronas."
+      },
+      {
+        "id": "II5-87",
+        "number": 87,
+        "speaker": "TECHELLES",
+        "en": "Then shall we send to this triumphing king,",
+        "es": "¿Enviaremos entonces un mensaje a ese rey triunfante"
+      },
+      {
+        "id": "II5-88",
+        "number": 88,
+        "speaker": "",
+        "en": "And bid him battle for his novel crown?",
+        "es": "para desafiarlo por su corona recién adquirida?"
+      },
+      {
+        "id": "II5-89",
+        "number": 89,
+        "speaker": "USUMCASANE",
+        "en": "Nay, quickly, then, before his room be hot.",
+        "es": "Sí, y deprisa, antes de que se acomode en el trono."
+      },
+      {
+        "id": "II5-90",
+        "number": 90,
+        "speaker": "TAMBURLAINE",
+        "en": "'Twill prove a pretty jest, in faith, my friends.",
+        "es": "Será una broma divertida, os lo aseguro, amigos."
+      },
+      {
+        "id": "II5-91",
+        "number": 91,
+        "speaker": "THERIDAMAS",
+        "en": "A jest to charge on twenty thousand men!",
+        "es": "¡Una broma, atacar a veinte mil hombres!"
+      },
+      {
+        "id": "II5-92",
+        "number": 92,
+        "speaker": "",
+        "en": "I judge the purchase more important far.",
+        "es": "Yo considero mucho más importante la empresa."
+      },
+      {
+        "id": "II5-93",
+        "number": 93,
+        "speaker": "TAMBURLAINE",
+        "en": "Judge by thyself, Theridamas, not me;",
+        "es": "Juzga por ti, Teridamas, no por mí;"
+      },
+      {
+        "id": "II5-94",
+        "number": 94,
+        "speaker": "",
+        "en": "For presently Techelles here shall haste",
+        "es": "porque ahora mismo Tequeles se apresurará"
+      },
+      {
+        "id": "II5-95",
+        "number": 95,
+        "speaker": "",
+        "en": "To bid him battle ere he pass too far,",
+        "es": "a desafiarlo antes de que avance demasiado"
+      },
+      {
+        "id": "II5-96",
+        "number": 96,
+        "speaker": "",
+        "en": "And lose more labour than the gain will quite:",
+        "es": "y nos cueste un esfuerzo mayor que la recompensa."
+      },
+      {
+        "id": "II5-97",
+        "number": 97,
+        "speaker": "",
+        "en": "Then shalt thou see this Scythian Tamburlaine",
+        "es": "Entonces verás a este escita, Tamerlán,"
+      },
+      {
+        "id": "II5-98",
+        "number": 98,
+        "speaker": "",
+        "en": "Make but a jest to win the Persian crown.—",
+        "es": "tomar como un juego la conquista de la corona persa."
+      },
+      {
+        "id": "II5-99",
+        "number": 99,
+        "speaker": "",
+        "en": "Techelles, take a thousand horse with thee,",
+        "es": "Tequeles, lleva contigo mil jinetes"
+      },
+      {
+        "id": "II5-100",
+        "number": 100,
+        "speaker": "",
+        "en": "And bid him turn him back to war with us,",
+        "es": "y ordénale que vuelva para combatirnos:"
+      },
+      {
+        "id": "II5-101",
+        "number": 101,
+        "speaker": "",
+        "en": "That only made him king to make us sport:",
+        "es": "lo hicimos rey únicamente para divertirnos."
+      },
+      {
+        "id": "II5-102",
+        "number": 102,
+        "speaker": "",
+        "en": "We will not steal upon him cowardly,",
+        "es": "No lo atacaremos furtivamente como cobardes,"
+      },
+      {
+        "id": "II5-103",
+        "number": 103,
+        "speaker": "",
+        "en": "But give him warning and more warriors:",
+        "es": "sino que le daremos aviso y además más guerreros."
+      },
+      {
+        "id": "II5-104",
+        "number": 104,
+        "speaker": "",
+        "en": "Haste thee, Techelles; we will follow thee.",
+        "es": "Date prisa, Tequeles; te seguiremos."
+      },
+      {
+        "id": "II5-105",
+        "number": 105,
+        "speaker": "",
+        "en": "What saith Theridamas?",
+        "es": "¿Qué dice Teridamas?"
+      },
+      {
+        "id": "II5-106",
+        "number": 106,
+        "speaker": "THERIDAMAS",
+        "en": "Go on, for me.",
+        "es": "Por mí, adelante."
+      }
+    ],
+    "6": [
+      {
+        "id": "II6-1",
+        "number": 1,
+        "speaker": "COSROE",
+        "en": "What means this devilish shepherd, to aspire",
+        "es": "¿Qué pretende ese pastor diabólico, que aspira"
+      },
+      {
+        "id": "II6-2",
+        "number": 2,
+        "speaker": "",
+        "en": "With such a giantly presumption,",
+        "es": "con una presunción tan gigantesca"
+      },
+      {
+        "id": "II6-3",
+        "number": 3,
+        "speaker": "",
+        "en": "To cast up hills against the face of heaven,",
+        "es": "a amontonar montañas contra el rostro del cielo"
+      },
+      {
+        "id": "II6-4",
+        "number": 4,
+        "speaker": "",
+        "en": "And dare the force of angry Jupiter?",
+        "es": "y desafiar la fuerza del airado Júpiter?"
+      },
+      {
+        "id": "II6-5",
+        "number": 5,
+        "speaker": "",
+        "en": "But, as he thrust them underneath the hills,",
+        "es": "Pero así como el dios los sepultó bajo las montañas"
+      },
+      {
+        "id": "II6-6",
+        "number": 6,
+        "speaker": "",
+        "en": "And press'd out fire from their burning jaws,",
+        "es": "y arrancó fuego de sus fauces ardientes,"
+      },
+      {
+        "id": "II6-7",
+        "number": 7,
+        "speaker": "",
+        "en": "So will I send this monstrous slave to hell,",
+        "es": "yo enviaré a este esclavo monstruoso al infierno,"
+      },
+      {
+        "id": "II6-8",
+        "number": 8,
+        "speaker": "",
+        "en": "Where flames shall ever feed upon his soul.",
+        "es": "donde las llamas devorarán eternamente su alma."
+      },
+      {
+        "id": "II6-9",
+        "number": 9,
+        "speaker": "MEANDER",
+        "en": "Some powers divine, or else infernal, mix'd",
+        "es": "Alguna fuerza divina, o acaso infernal, mezcló"
+      },
+      {
+        "id": "II6-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Their angry seeds at his conception;",
+        "es": "sus semillas iracundas en el instante de su concepción,"
+      },
+      {
+        "id": "II6-11",
+        "number": 11,
+        "speaker": "",
+        "en": "For he was never sprung of human race,",
+        "es": "pues nunca pudo nacer de estirpe humana;"
+      },
+      {
+        "id": "II6-12",
+        "number": 12,
+        "speaker": "",
+        "en": "Since with the spirit of his fearful pride,",
+        "es": "con el espíritu de su temible orgullo"
+      },
+      {
+        "id": "II6-13",
+        "number": 13,
+        "speaker": "",
+        "en": "He dares so doubtlessly resolve of rule,",
+        "es": "se atreve a decidir con absoluta certeza que reinará"
+      },
+      {
+        "id": "II6-14",
+        "number": 14,
+        "speaker": "",
+        "en": "And by profession be ambitious.",
+        "es": "y profesa abiertamente su ambición."
+      },
+      {
+        "id": "II6-15",
+        "number": 15,
+        "speaker": "ORTYGIUS",
+        "en": "What god, or fiend, or spirit of the earth,",
+        "es": "Sea cual sea el dios, demonio o espíritu terrestre,"
+      },
+      {
+        "id": "II6-16",
+        "number": 16,
+        "speaker": "",
+        "en": "Or monster turned to a manly shape,",
+        "es": "o el monstruo transformado en figura humana,"
+      },
+      {
+        "id": "II6-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Or of what mould or mettle he be made,",
+        "es": "sea cual sea la materia o el metal de que esté hecho"
+      },
+      {
+        "id": "II6-18",
+        "number": 18,
+        "speaker": "",
+        "en": "What star or fate soever govern him,",
+        "es": "y cualquiera que sea el astro o destino que lo gobierne,"
+      },
+      {
+        "id": "II6-19",
+        "number": 19,
+        "speaker": "",
+        "en": "Let us put on our meet encountering minds;",
+        "es": "revistámonos del ánimo adecuado para enfrentarlo."
+      },
+      {
+        "id": "II6-20",
+        "number": 20,
+        "speaker": "",
+        "en": "And, in detesting such a devilish thief,",
+        "es": "Y, detestando a semejante ladrón diabólico,"
+      },
+      {
+        "id": "II6-21",
+        "number": 21,
+        "speaker": "",
+        "en": "In love of honour and defence of right,",
+        "es": "por amor al honor y en defensa del derecho,"
+      },
+      {
+        "id": "II6-22",
+        "number": 22,
+        "speaker": "",
+        "en": "Be arm'd against the hate of such a foe,",
+        "es": "armémonos contra el odio de tal enemigo,"
+      },
+      {
+        "id": "II6-23",
+        "number": 23,
+        "speaker": "",
+        "en": "Whether from earth, or hell, or heaven he grow.",
+        "es": "proceda de la tierra, del infierno o del cielo."
+      },
+      {
+        "id": "II6-24",
+        "number": 24,
+        "speaker": "COSROE",
+        "en": "Nobly resolv'd, my good Ortygius;",
+        "es": "Noble decisión, mi buen Ortigio;"
+      },
+      {
+        "id": "II6-25",
+        "number": 25,
+        "speaker": "",
+        "en": "And, since we all have suck'd one wholesome air,",
+        "es": "y, puesto que todos hemos respirado el mismo aire saludable"
+      },
+      {
+        "id": "II6-26",
+        "number": 26,
+        "speaker": "",
+        "en": "And with the same proportion of elements",
+        "es": "y estamos compuestos en igual proporción de elementos,"
+      },
+      {
+        "id": "II6-27",
+        "number": 27,
+        "speaker": "",
+        "en": "Resolve, I hope we are resembled,",
+        "es": "espero que nuestras voluntades sean semejantes,"
+      },
+      {
+        "id": "II6-28",
+        "number": 28,
+        "speaker": "",
+        "en": "Vowing our loves to equal death and life.",
+        "es": "y que juremos compartir el amor en la vida y en la muerte."
+      },
+      {
+        "id": "II6-29",
+        "number": 29,
+        "speaker": "",
+        "en": "Let's cheer our soldiers to encounter him,",
+        "es": "Animemos a nuestros soldados a enfrentarse con él,"
+      },
+      {
+        "id": "II6-30",
+        "number": 30,
+        "speaker": "",
+        "en": "That grievous image of ingratitude,",
+        "es": "esa dolorosa imagen de la ingratitud,"
+      },
+      {
+        "id": "II6-31",
+        "number": 31,
+        "speaker": "",
+        "en": "That fiery thirster after sovereignty,",
+        "es": "ese ardiente sediento de soberanía,"
+      },
+      {
+        "id": "II6-32",
+        "number": 32,
+        "speaker": "",
+        "en": "And burn him in the fury of that flame",
+        "es": "y consumámoslo en la furia de la llama"
+      },
+      {
+        "id": "II6-33",
+        "number": 33,
+        "speaker": "",
+        "en": "That none can quench but blood and empery.",
+        "es": "que solo pueden apagar la sangre y el imperio."
+      },
+      {
+        "id": "II6-34",
+        "number": 34,
+        "speaker": "",
+        "en": "Resolve, my lords and loving soldiers, now",
+        "es": "Decidíos ahora, señores y queridos soldados,"
+      },
+      {
+        "id": "II6-35",
+        "number": 35,
+        "speaker": "",
+        "en": "To save your king and country from decay.",
+        "es": "a salvar a vuestro rey y a vuestra patria de la ruina."
+      },
+      {
+        "id": "II6-36",
+        "number": 36,
+        "speaker": "",
+        "en": "Then strike up, drum; and all the stars that make",
+        "es": "Que suene el tambor, y que todas las estrellas que trazan"
+      },
+      {
+        "id": "II6-37",
+        "number": 37,
+        "speaker": "",
+        "en": "The loathsome circle of my dated life,",
+        "es": "el odioso círculo de mi vida limitada"
+      },
+      {
+        "id": "II6-38",
+        "number": 38,
+        "speaker": "",
+        "en": "Direct my weapon to his barbarous heart,",
+        "es": "dirijan mi arma hacia su corazón bárbaro,"
+      },
+      {
+        "id": "II6-39",
+        "number": 39,
+        "speaker": "",
+        "en": "That thus opposeth him against the gods,",
+        "es": "que así se alza contra los dioses"
+      },
+      {
+        "id": "II6-40",
+        "number": 40,
+        "speaker": "",
+        "en": "And scorns the powers that govern Persia!",
+        "es": "y desprecia los poderes que gobiernan Persia."
+      }
+    ],
+    "7": [
+      {
+        "id": "II7-1",
+        "number": 1,
+        "speaker": "COSROE",
+        "en": "Barbarous and bloody Tamburlaine,",
+        "es": "¡Bárbaro y sanguinario Tamerlán,"
+      },
+      {
+        "id": "II7-2",
+        "number": 2,
+        "speaker": "",
+        "en": "Thus to deprive me of my crown and life!—",
+        "es": "que así me privas de la corona y de la vida!"
+      },
+      {
+        "id": "II7-3",
+        "number": 3,
+        "speaker": "",
+        "en": "Treacherous and false Theridamas,",
+        "es": "¡Traicionero y desleal Teridamas,"
+      },
+      {
+        "id": "II7-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Even at the morning of my happy state,",
+        "es": "justo al amanecer de mi reinado feliz,"
+      },
+      {
+        "id": "II7-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Scarce being seated in my royal throne,",
+        "es": "cuando apenas me había sentado en el trono real,"
+      },
+      {
+        "id": "II7-6",
+        "number": 6,
+        "speaker": "",
+        "en": "To work my downfall and untimely end!",
+        "es": "provocáis mi caída y mi muerte prematura!"
+      },
+      {
+        "id": "II7-7",
+        "number": 7,
+        "speaker": "",
+        "en": "An uncouth pain torments my grieved soul;",
+        "es": "Un dolor desconocido atormenta mi alma afligida;"
+      },
+      {
+        "id": "II7-8",
+        "number": 8,
+        "speaker": "",
+        "en": "And death arrests the organ of my voice,",
+        "es": "y la muerte paraliza el órgano de mi voz,"
+      },
+      {
+        "id": "II7-9",
+        "number": 9,
+        "speaker": "",
+        "en": "Who, entering at the breach thy sword hath made,",
+        "es": "pues, entrando por la herida que abrió tu espada,"
+      },
+      {
+        "id": "II7-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Sacks every vein and artier of my heart.—",
+        "es": "saquea cada vena y arteria de mi corazón."
+      },
+      {
+        "id": "II7-11",
+        "number": 11,
+        "speaker": "",
+        "en": "Bloody and insatiate Tamburlaine!",
+        "es": "¡Tamerlán sanguinario e insaciable!"
+      },
+      {
+        "id": "II7-12",
+        "number": 12,
+        "speaker": "TAMBURLAINE",
+        "en": "The thirst of reign and sweetness of a crown,",
+        "es": "La sed de reinar y la dulzura de una corona,"
+      },
+      {
+        "id": "II7-13",
+        "number": 13,
+        "speaker": "",
+        "en": "That caus'd the eldest son of heavenly Ops",
+        "es": "que llevaron al hijo mayor de la celestial Ops"
+      },
+      {
+        "id": "II7-14",
+        "number": 14,
+        "speaker": "",
+        "en": "To thrust his doting father from his chair,",
+        "es": "a expulsar del trono a su padre senil"
+      },
+      {
+        "id": "II7-15",
+        "number": 15,
+        "speaker": "",
+        "en": "And place himself in the empyreal heaven,",
+        "es": "y a ocupar su lugar en el cielo empíreo,"
+      },
+      {
+        "id": "II7-16",
+        "number": 16,
+        "speaker": "",
+        "en": "Mov'd me to manage arms against thy state.",
+        "es": "me impulsaron a tomar las armas contra tu Estado."
+      },
+      {
+        "id": "II7-17",
+        "number": 17,
+        "speaker": "",
+        "en": "What better precedent than mighty Jove?",
+        "es": "¿Qué mejor precedente que el poderoso Júpiter?"
+      },
+      {
+        "id": "II7-18",
+        "number": 18,
+        "speaker": "",
+        "en": "Nature, that fram'd us of four elements",
+        "es": "La naturaleza, que nos formó con cuatro elementos"
+      },
+      {
+        "id": "II7-19",
+        "number": 19,
+        "speaker": "",
+        "en": "Warring within our breasts for regiment,",
+        "es": "que luchan dentro de nuestro pecho por el dominio,"
+      },
+      {
+        "id": "II7-20",
+        "number": 20,
+        "speaker": "",
+        "en": "Doth teach us all to have aspiring minds:",
+        "es": "nos enseña a todos a tener espíritus ambiciosos."
+      },
+      {
+        "id": "II7-21",
+        "number": 21,
+        "speaker": "",
+        "en": "Our souls, whose faculties can comprehend",
+        "es": "Nuestras almas, cuyas facultades pueden comprender"
+      },
+      {
+        "id": "II7-22",
+        "number": 22,
+        "speaker": "",
+        "en": "The wondrous architecture of the world,",
+        "es": "la maravillosa arquitectura del mundo"
+      },
+      {
+        "id": "II7-23",
+        "number": 23,
+        "speaker": "",
+        "en": "And measure every wandering planet's course,",
+        "es": "y medir la trayectoria de cada planeta errante,"
+      },
+      {
+        "id": "II7-24",
+        "number": 24,
+        "speaker": "",
+        "en": "Still climbing after knowledge infinite,",
+        "es": "ascienden sin cesar en busca de un conocimiento infinito,"
+      },
+      {
+        "id": "II7-25",
+        "number": 25,
+        "speaker": "",
+        "en": "And always moving as the restless spheres,",
+        "es": "y, moviéndose siempre como las esferas inquietas,"
+      },
+      {
+        "id": "II7-26",
+        "number": 26,
+        "speaker": "",
+        "en": "Will us to wear ourselves, and never rest,",
+        "es": "nos impulsan a consumirnos sin descansar jamás"
+      },
+      {
+        "id": "II7-27",
+        "number": 27,
+        "speaker": "",
+        "en": "Until we reach the ripest fruit of all,",
+        "es": "hasta alcanzar el fruto más maduro de todos:"
+      },
+      {
+        "id": "II7-28",
+        "number": 28,
+        "speaker": "",
+        "en": "That perfect bliss and sole felicity,",
+        "es": "esa dicha perfecta y única felicidad,"
+      },
+      {
+        "id": "II7-29",
+        "number": 29,
+        "speaker": "",
+        "en": "The sweet fruition of an earthly crown.",
+        "es": "el dulce disfrute de una corona terrenal."
+      },
+      {
+        "id": "II7-30",
+        "number": 30,
+        "speaker": "THERIDAMAS",
+        "en": "And that made me to join with Tamburlaine;",
+        "es": "Y eso me hizo unirme a Tamerlán;"
+      },
+      {
+        "id": "II7-31",
+        "number": 31,
+        "speaker": "",
+        "en": "For he is gross and like the massy earth",
+        "es": "pues es torpe y semejante a la pesada tierra"
+      },
+      {
+        "id": "II7-32",
+        "number": 32,
+        "speaker": "",
+        "en": "That moves not upwards, nor by princely deeds",
+        "es": "quien no se eleva ni, mediante hazañas principescas,"
+      },
+      {
+        "id": "II7-33",
+        "number": 33,
+        "speaker": "",
+        "en": "Doth mean to soar above the highest sort.",
+        "es": "aspira a remontarse por encima de los más encumbrados."
+      },
+      {
+        "id": "II7-34",
+        "number": 34,
+        "speaker": "TECHELLES",
+        "en": "And that made us, the friends of Tamburlaine,",
+        "es": "Y eso nos llevó, a los amigos de Tamerlán,"
+      },
+      {
+        "id": "II7-35",
+        "number": 35,
+        "speaker": "",
+        "en": "To lift our swords against the Persian king.",
+        "es": "a levantar nuestras espadas contra el rey persa."
+      },
+      {
+        "id": "II7-36",
+        "number": 36,
+        "speaker": "USUMCASANE",
+        "en": "For as, when Jove did thrust old Saturn down,",
+        "es": "Pues así como, cuando Júpiter derribó al viejo Saturno,"
+      },
+      {
+        "id": "II7-37",
+        "number": 37,
+        "speaker": "",
+        "en": "Neptune and Dis gain'd each of them a crown,",
+        "es": "Neptuno y Dis obtuvieron cada uno una corona,"
+      },
+      {
+        "id": "II7-38",
+        "number": 38,
+        "speaker": "",
+        "en": "So do we hope to reign in Asia,",
+        "es": "también nosotros esperamos reinar en Asia"
+      },
+      {
+        "id": "II7-39",
+        "number": 39,
+        "speaker": "",
+        "en": "If Tamburlaine be plac'd in Persia.",
+        "es": "cuando Tamerlán ocupe el trono de Persia."
+      },
+      {
+        "id": "II7-40",
+        "number": 40,
+        "speaker": "COSROE",
+        "en": "The strangest men that ever nature made!",
+        "es": "¡Los hombres más extraños que jamás creó la naturaleza!"
+      },
+      {
+        "id": "II7-41",
+        "number": 41,
+        "speaker": "",
+        "en": "I know not how to take their tyrannies.",
+        "es": "No sé cómo soportar sus tiranías."
+      },
+      {
+        "id": "II7-42",
+        "number": 42,
+        "speaker": "",
+        "en": "My bloodless body waxeth chill and cold,",
+        "es": "Mi cuerpo exangüe se vuelve gélido,"
+      },
+      {
+        "id": "II7-43",
+        "number": 43,
+        "speaker": "",
+        "en": "And with my blood my life slides through my wound;",
+        "es": "y con mi sangre se escapa la vida por la herida;"
+      },
+      {
+        "id": "II7-44",
+        "number": 44,
+        "speaker": "",
+        "en": "My soul begins to take her flight to hell,",
+        "es": "mi alma empieza a emprender el vuelo hacia el infierno"
+      },
+      {
+        "id": "II7-45",
+        "number": 45,
+        "speaker": "",
+        "en": "And summons all my senses to depart:",
+        "es": "y llama a todos mis sentidos a abandonarme."
+      },
+      {
+        "id": "II7-46",
+        "number": 46,
+        "speaker": "",
+        "en": "The heat and moisture, which did feed each other,",
+        "es": "El calor y la humedad, que antes se alimentaban mutuamente,"
+      },
+      {
+        "id": "II7-47",
+        "number": 47,
+        "speaker": "",
+        "en": "For want of nourishment to feed them both,",
+        "es": "faltos ahora del sustento que nutría a ambos,"
+      },
+      {
+        "id": "II7-48",
+        "number": 48,
+        "speaker": "",
+        "en": "Are dry and cold; and now doth ghastly Death",
+        "es": "se han vuelto sequedad y frío; y la espantosa Muerte"
+      },
+      {
+        "id": "II7-49",
+        "number": 49,
+        "speaker": "",
+        "en": "With greedy talents gripe my bleeding heart,",
+        "es": "aprieta con sus garras codiciosas mi corazón sangrante"
+      },
+      {
+        "id": "II7-50",
+        "number": 50,
+        "speaker": "",
+        "en": "And like a harpy tires on my life.—",
+        "es": "y, como una arpía, desgarra mi vida."
+      },
+      {
+        "id": "II7-51",
+        "number": 51,
+        "speaker": "",
+        "en": "Theridamas and Tamburlaine, I die:",
+        "es": "Teridamas y Tamerlán, estoy muriendo:"
+      },
+      {
+        "id": "II7-52",
+        "number": 52,
+        "speaker": "",
+        "en": "And fearful vengeance light upon you both!",
+        "es": "¡que una venganza terrible caiga sobre ambos!"
+      },
+      {
+        "id": "II7-53",
+        "number": 53,
+        "speaker": "TAMBURLAINE",
+        "en": "Not all the curses which the Furies breathe",
+        "es": "Ni todas las maldiciones que exhalan las Furias"
+      },
+      {
+        "id": "II7-54",
+        "number": 54,
+        "speaker": "",
+        "en": "Shall make me leave so rich a prize as this.",
+        "es": "me harán renunciar a una presa tan valiosa como esta."
+      },
+      {
+        "id": "II7-55",
+        "number": 55,
+        "speaker": "",
+        "en": "Theridamas, Techelles, and the rest,",
+        "es": "Teridamas, Tequeles y todos los demás,"
+      },
+      {
+        "id": "II7-56",
+        "number": 56,
+        "speaker": "",
+        "en": "Who think you now is king of Persia?",
+        "es": "¿quién creéis que es ahora el rey de Persia?"
+      },
+      {
+        "id": "II7-57",
+        "number": 57,
+        "speaker": "ALL",
+        "en": "Tamburlaine! Tamburlaine!",
+        "es": "¡Tamerlán! ¡Tamerlán!"
+      },
+      {
+        "id": "II7-58",
+        "number": 58,
+        "speaker": "TAMBURLAINE",
+        "en": "Though Mars himself, the angry god of arms,",
+        "es": "Aunque el propio Marte, el colérico dios de la guerra,"
+      },
+      {
+        "id": "II7-59",
+        "number": 59,
+        "speaker": "",
+        "en": "And all the earthly potentates conspire",
+        "es": "y todos los poderosos de la tierra conspirasen"
+      },
+      {
+        "id": "II7-60",
+        "number": 60,
+        "speaker": "",
+        "en": "To dispossess me of this diadem,",
+        "es": "para despojarme de esta diadema,"
+      },
+      {
+        "id": "II7-61",
+        "number": 61,
+        "speaker": "",
+        "en": "Yet will I wear it in despite of them,",
+        "es": "la llevaré pese a todos ellos,"
+      },
+      {
+        "id": "II7-62",
+        "number": 62,
+        "speaker": "",
+        "en": "As great commander of this eastern world,",
+        "es": "como gran señor de este mundo oriental,"
+      },
+      {
+        "id": "II7-63",
+        "number": 63,
+        "speaker": "",
+        "en": "If you but say that Tamburlaine shall reign.",
+        "es": "con tal de que proclaméis que Tamerlán reinará."
+      },
+      {
+        "id": "II7-64",
+        "number": 64,
+        "speaker": "ALL",
+        "en": "Long live Tamburlaine, and reign in Asia!",
+        "es": "¡Larga vida a Tamerlán, que reine en Asia!"
+      },
+      {
+        "id": "II7-65",
+        "number": 65,
+        "speaker": "TAMBURLAINE",
+        "en": "So; now it is more surer on my head",
+        "es": "Así está ahora más segura sobre mi cabeza"
+      },
+      {
+        "id": "II7-66",
+        "number": 66,
+        "speaker": "",
+        "en": "Than if the gods had held a parliament,",
+        "es": "que si los dioses hubieran reunido un parlamento"
+      },
+      {
+        "id": "II7-67",
+        "number": 67,
+        "speaker": "",
+        "en": "And all pronounc'd me king of Persia.",
+        "es": "y todos me hubiesen proclamado rey de Persia."
+      }
+    ]
+  },
+  "act3Scenes": {
+    "1": [
+      {
+        "id": "III1-1",
+        "number": 1,
+        "speaker": "BAJAZETH",
+        "en": "Great kings of Barbary, and my portly bassoes,",
+        "es": "Grandes reyes de Berbería y mis magníficos bajás,"
+      },
+      {
+        "id": "III1-2",
+        "number": 2,
+        "speaker": "",
+        "en": "We hear the Tartars and the eastern thieves,",
+        "es": "oímos que los tártaros y los ladrones de Oriente,"
+      },
+      {
+        "id": "III1-3",
+        "number": 3,
+        "speaker": "",
+        "en": "Under the conduct of one Tamburlaine,",
+        "es": "bajo el mando de un tal Tamerlán,"
+      },
+      {
+        "id": "III1-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Presume a bickering with your emperor,",
+        "es": "se atreven a disputar con vuestro emperador"
+      },
+      {
+        "id": "III1-5",
+        "number": 5,
+        "speaker": "",
+        "en": "And think to rouse us from our dreadful siege",
+        "es": "y piensan apartarnos de nuestro temible asedio"
+      },
+      {
+        "id": "III1-6",
+        "number": 6,
+        "speaker": "",
+        "en": "Of the famous Grecian Constantinople.",
+        "es": "a la célebre Constantinopla de los griegos."
+      },
+      {
+        "id": "III1-7",
+        "number": 7,
+        "speaker": "",
+        "en": "You know our army is invincible;",
+        "es": "Sabéis que nuestro ejército es invencible;"
       }
     ]
   }
