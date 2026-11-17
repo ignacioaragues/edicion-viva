@@ -937,7 +937,7 @@ for (const entry of verses) {
   left.className = 'latin-side';
   const num = document.createElement('span');
   num.className = 'number';
-  num.textContent = entry.n;
+  num.textContent = entry.displayNumber || entry.n;
   const speech = document.createElement('div');
   speech.className = 'speech';
   // El nombre encabeza el parlamento, no cada verso del mismo hablante.
