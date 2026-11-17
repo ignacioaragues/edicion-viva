@@ -133,10 +133,26 @@
   "next": {
     "group": "sermones",
     "number": 10,
-    "beginning": "Verify Sermo X opening in Ballerini–Migne",
-    "location": "PL 54 Sermo X"
+    "beginning": "Caput II: Quamvis autem laudabile sit intemperantiam fugere",
+    "location": "PL 54 col. 164C",
+    "editorial_state": "Sermo X translation draft covers all 15 discourse units, but chapter I alone now has provisional Latin/Spanish alignment in CHAPTER-I-ALIGNED.md; first unit has contextual morphology table. Not in interactive reader; work incomplete."
   },
-  "priority": "Begin Sermo X after checking primary text",
+  "priority": "Complete and verify Sermo X: morphology for I.2–I.5, then Latin/Spanish aligned chapters II–IV and reader integration. Do not mark complete until all token cards and reader checks pass.",
   "last_edit": "2026-11-17",
-  "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
+  "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
+  "in_progress_work": {
+    "group": "sermones",
+    "number": 10,
+    "title": "De Collectis V",
+    "status": "partial_working_edition_not_in_reader",
+    "aligned_chapters": [
+      1
+    ],
+    "aligned_units": 5,
+    "translation_draft_units": 15,
+    "morphology_units_with_contextual_table": 1,
+    "reader_published": false,
+    "source": "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_X",
+    "work_file": "autores/leon-i/sermones/sermo-x/CHAPTER-I-ALIGNED.md"
+  }
 }
