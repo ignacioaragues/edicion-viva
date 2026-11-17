@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–162A; caput I y caput II parcial",
+  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–162B; capita I–II completa, III–IV pendientes",
   "status": "partial",
-  "next": "Caput II: Misereantur pauperum",
+  "next": "Caput III: Ad horum ergo operum, dilectissimi, piam curam",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -1643,6 +1643,455 @@ window.LEO_SERMO_I = {
           "abscedo",
           "presente subjuntivo 3.ª singular",
           "se aparte"
+        ]
+      }
+    },
+    {
+      "id": "s9-11",
+      "label": "11",
+      "latin": "Misereantur pauperum, qui sibi volunt parcere Christum. Faciles sint in alimenta miserorum, qui cupiunt ad societatem pervenire felicium. Non sit vilis homini homo, nec in quoquam despiciatur illa natura, quam rerum conditor suam fecit. Cui enim laborantium licet negare quod Christus sibi profitetur impendi? Juvatur conservus, et gratiam refert Dominus. Cibus egeni, regni coelestis est pretium; et largitor temporalium haeres efficitur aeternorum.",
+      "spanish": "Tengan misericordia de los pobres quienes desean que Cristo tenga misericordia de ellos. Sean generosos al procurar alimento a los necesitados quienes aspiran a alcanzar la compañía de los bienaventurados. Que ningún ser humano considere despreciable a otro, ni se menosprecie en nadie esa naturaleza que el creador de todas las cosas hizo suya. ¿A cuál de los que sufren se le puede negar aquello que Cristo declara que se le entrega a él? Se ayuda a un compañero de servidumbre y el Señor devuelve su gracia. El alimento del indigente es el precio del reino celestial; quien reparte bienes temporales se convierte en heredero de los eternos.",
+      "note": [
+        "Del semejante a Cristo",
+        "La doble prohibición Non sit ... nec ... universaliza el deber; Cui enim ...? lo vuelve exigible. Juvatur conservus, et gratiam refert Dominus condensa en dos miembros la reciprocidad entre auxilio humano y reconocimiento divino. El aparato prefiere felicium a fidelium y registra pertinere por pervenire."
+      ],
+      "lexicon": {
+        "Misereantur": [
+          "misereor",
+          "presente subjuntivo deponente 3.ª plural",
+          "tengan misericordia"
+        ],
+        "pauperum": [
+          "pauper",
+          "genitivo plural",
+          "de los pobres"
+        ],
+        "qui": [
+          "qui",
+          "nominativo masculino plural relativo",
+          "quienes"
+        ],
+        "sibi": [
+          "sui",
+          "dativo reflexivo",
+          "para sí"
+        ],
+        "volunt": [
+          "volo",
+          "presente indicativo 3.ª plural",
+          "quieren"
+        ],
+        "parcere": [
+          "parco",
+          "infinitivo presente activo",
+          "perdonar"
+        ],
+        "Christum": [
+          "Christus",
+          "acusativo masculino singular",
+          "a Cristo"
+        ],
+        "Faciles": [
+          "facilis",
+          "nominativo masculino plural",
+          "generosos"
+        ],
+        "sint": [
+          "sum",
+          "presente subjuntivo 3.ª plural",
+          "sean"
+        ],
+        "alimenta": [
+          "alimentum",
+          "acusativo neutro plural",
+          "alimentos"
+        ],
+        "miserorum": [
+          "miser",
+          "genitivo masculino plural",
+          "de los necesitados"
+        ],
+        "cupiunt": [
+          "cupio",
+          "presente indicativo 3.ª plural",
+          "desean"
+        ],
+        "societatem": [
+          "societas",
+          "acusativo femenino singular",
+          "compañía"
+        ],
+        "pervenire": [
+          "pervenio",
+          "infinitivo presente activo",
+          "alcanzar"
+        ],
+        "felicium": [
+          "felix",
+          "genitivo masculino plural",
+          "de los bienaventurados"
+        ],
+        "Non": [
+          "non",
+          "adverbio de negación",
+          "no"
+        ],
+        "sit": [
+          "sum",
+          "presente subjuntivo 3.ª singular",
+          "sea"
+        ],
+        "vilis": [
+          "vilis",
+          "nominativo masculino singular",
+          "despreciable"
+        ],
+        "homini": [
+          "homo",
+          "dativo masculino singular",
+          "para el hombre"
+        ],
+        "homo": [
+          "homo",
+          "nominativo masculino singular",
+          "hombre"
+        ],
+        "nec": [
+          "nec",
+          "conjunción negativa",
+          "ni"
+        ],
+        "quoquam": [
+          "quisquam",
+          "ablativo masculino singular",
+          "en nadie"
+        ],
+        "despiciatur": [
+          "despicio",
+          "presente subjuntivo pasivo 3.ª singular",
+          "sea despreciada"
+        ],
+        "illa": [
+          "ille",
+          "nominativo femenino singular",
+          "aquella"
+        ],
+        "natura": [
+          "natura",
+          "nominativo femenino singular",
+          "naturaleza"
+        ],
+        "quam": [
+          "qui",
+          "acusativo femenino singular relativo",
+          "que"
+        ],
+        "rerum": [
+          "res",
+          "genitivo femenino plural",
+          "de las cosas"
+        ],
+        "conditor": [
+          "conditor",
+          "nominativo masculino singular",
+          "creador"
+        ],
+        "suam": [
+          "suus",
+          "acusativo femenino singular",
+          "suya"
+        ],
+        "fecit": [
+          "facio",
+          "perfecto indicativo 3.ª singular",
+          "hizo"
+        ],
+        "Cui": [
+          "quis",
+          "dativo masculino singular interrogativo",
+          "a cuál"
+        ],
+        "enim": [
+          "enim",
+          "partícula explicativa",
+          "pues"
+        ],
+        "laborantium": [
+          "laboro",
+          "participio presente genitivo plural",
+          "de quienes sufren"
+        ],
+        "licet": [
+          "licet",
+          "presente impersonal",
+          "es lícito"
+        ],
+        "negare": [
+          "nego",
+          "infinitivo presente activo",
+          "negar"
+        ],
+        "quod": [
+          "qui",
+          "acusativo neutro singular relativo",
+          "lo que"
+        ],
+        "Christus": [
+          "Christus",
+          "nominativo masculino singular",
+          "Cristo"
+        ],
+        "profitetur": [
+          "profiteor",
+          "presente indicativo deponente 3.ª singular",
+          "declara"
+        ],
+        "impendi": [
+          "impendo",
+          "infinitivo presente pasivo",
+          "ser entregado"
+        ],
+        "Juvatur": [
+          "iuvo",
+          "presente indicativo pasivo 3.ª singular",
+          "es ayudado"
+        ],
+        "conservus": [
+          "conservus",
+          "nominativo masculino singular",
+          "compañero de servidumbre"
+        ],
+        "gratiam": [
+          "gratia",
+          "acusativo femenino singular",
+          "gracia"
+        ],
+        "refert": [
+          "refero",
+          "presente indicativo 3.ª singular",
+          "devuelve"
+        ],
+        "Dominus": [
+          "dominus",
+          "nominativo masculino singular",
+          "Señor"
+        ],
+        "Cibus": [
+          "cibus",
+          "nominativo masculino singular",
+          "alimento"
+        ],
+        "egeni": [
+          "egenus",
+          "genitivo masculino singular",
+          "del indigente"
+        ],
+        "regni": [
+          "regnum",
+          "genitivo neutro singular",
+          "del reino"
+        ],
+        "coelestis": [
+          "caelestis",
+          "genitivo neutro singular",
+          "celestial"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "pretium": [
+          "pretium",
+          "nominativo neutro singular",
+          "precio"
+        ],
+        "largitor": [
+          "largitor",
+          "nominativo masculino singular",
+          "distribuidor"
+        ],
+        "temporalium": [
+          "temporalis",
+          "genitivo neutro plural",
+          "de los bienes temporales"
+        ],
+        "haeres": [
+          "heres",
+          "nominativo masculino singular",
+          "heredero"
+        ],
+        "efficitur": [
+          "efficio",
+          "presente indicativo pasivo 3.ª singular",
+          "se convierte"
+        ],
+        "aeternorum": [
+          "aeternus",
+          "genitivo neutro plural",
+          "de los eternos"
+        ]
+      }
+    },
+    {
+      "id": "s9-12",
+      "label": "12",
+      "latin": "Unde autem exigua ista impendia tanta aestimari taxatione meruerunt, nisi quia pondera operum charitatis lance pensantur, et cum amatur ab homine quod Deus diligit, merito in ejus ascenditur regnum, in cujus transitur affectum?",
+      "spanish": "Pero ¿por qué estos pequeños desembolsos merecieron ser valorados tan altamente, sino porque el peso de las obras de caridad se mide en una balanza y, cuando el ser humano ama lo que Dios ama, asciende con razón a su reino, pues participa de su afecto?",
+      "note": [
+        "La balanza y el afecto",
+        "La pregunta Unde ... nisi quia? explica el valor desproporcionado de una ayuda material pequeña mediante una imagen de pesaje. El argumento concluye con la correspondencia entre el amor humano y el divino, no con una equivalencia monetaria literal."
+      ],
+      "lexicon": {
+        "Unde": [
+          "unde",
+          "adverbio interrogativo",
+          "de dónde"
+        ],
+        "autem": [
+          "autem",
+          "partícula adversativa",
+          "pero"
+        ],
+        "exigua": [
+          "exiguus",
+          "nominativo neutro plural",
+          "pequeños"
+        ],
+        "ista": [
+          "iste",
+          "nominativo neutro plural",
+          "estos"
+        ],
+        "impendia": [
+          "impendium",
+          "nominativo neutro plural",
+          "desembolsos"
+        ],
+        "tanta": [
+          "tantus",
+          "ablativo femenino singular",
+          "tan grande"
+        ],
+        "aestimari": [
+          "aestimo",
+          "infinitivo presente pasivo",
+          "ser valorados"
+        ],
+        "taxatione": [
+          "taxatio",
+          "ablativo femenino singular",
+          "valoración"
+        ],
+        "meruerunt": [
+          "mereo",
+          "perfecto indicativo 3.ª plural",
+          "merecieron"
+        ],
+        "nisi": [
+          "nisi",
+          "conjunción exceptiva",
+          "sino"
+        ],
+        "quia": [
+          "quia",
+          "conjunción causal",
+          "porque"
+        ],
+        "pondera": [
+          "pondus",
+          "nominativo neutro plural",
+          "pesos"
+        ],
+        "operum": [
+          "opus",
+          "genitivo neutro plural",
+          "de las obras"
+        ],
+        "charitatis": [
+          "caritas",
+          "genitivo femenino singular",
+          "de la caridad"
+        ],
+        "lance": [
+          "lanx",
+          "ablativo femenino singular",
+          "en una balanza"
+        ],
+        "pensantur": [
+          "penso",
+          "presente indicativo pasivo 3.ª plural",
+          "son pesados"
+        ],
+        "cum": [
+          "cum",
+          "conjunción temporal",
+          "cuando"
+        ],
+        "amatur": [
+          "amo",
+          "presente indicativo pasivo 3.ª singular",
+          "es amado"
+        ],
+        "ab": [
+          "ab",
+          "preposición con ablativo",
+          "por"
+        ],
+        "homine": [
+          "homo",
+          "ablativo masculino singular",
+          "el ser humano"
+        ],
+        "quod": [
+          "qui",
+          "acusativo neutro singular relativo",
+          "lo que"
+        ],
+        "Deus": [
+          "deus",
+          "nominativo masculino singular",
+          "Dios"
+        ],
+        "diligit": [
+          "diligo",
+          "presente indicativo 3.ª singular",
+          "ama"
+        ],
+        "merito": [
+          "merito",
+          "adverbio",
+          "con razón"
+        ],
+        "ejus": [
+          "is",
+          "genitivo singular",
+          "de él"
+        ],
+        "ascenditur": [
+          "ascendo",
+          "presente indicativo pasivo impersonal",
+          "se asciende"
+        ],
+        "regnum": [
+          "regnum",
+          "acusativo neutro singular",
+          "reino"
+        ],
+        "cujus": [
+          "qui",
+          "genitivo masculino singular relativo",
+          "de quien"
+        ],
+        "transitur": [
+          "transeo",
+          "presente indicativo pasivo impersonal",
+          "se pasa"
+        ],
+        "affectum": [
+          "affectus",
+          "acusativo masculino singular",
+          "afecto"
         ]
       }
     }
