@@ -30882,7 +30882,7 @@ window.TAMBURLAINE_EDITION = {
     {
       "act": 4,
       "scene": 3,
-      "afterLine": 85,
+      "afterLine": 84,
       "en": "The soldiers run away with the concubines.",
       "es": "Los soldados se llevan a las concubinas."
     },
