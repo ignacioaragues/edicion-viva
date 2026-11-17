@@ -1055,6 +1055,16 @@
       "tokens": 61,
       "source": "The Latin Library IV.8, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo 1895 direct collation pending",
       "note": "Traducción propia y 61 fichas con glosas contextuales; presentes históricos y acusativo direccional domum. Revisión morfológica retrospectiva no certificada, permanece en 159; prueba visual y cotejo directo Leo pendientes."
+    },
+    {
+      "section": "IV.9",
+      "from": 713,
+      "to": 716,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "tokens": 46,
+      "source": "The Latin Library IV.9, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo 1895 direct collation pending",
+      "note": "Euclión lamenta la pérdida de la olla. Fichas y glosas contextuales para 46 tokens; nota sobre subjuntivos deliberativos e interrogativas indirectas. Sintaxis de mi auxilio, sitis pendiente de cotejo crítico. Revisión consecutiva sigue en 159, no certificada 160–161 por migración de localizadores pendiente."
     }
   ],
   "pending": [
@@ -1064,7 +1074,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.9, desde el verso 713; revisión morfológica retrospectiva consecutiva desde 160, pendiente migración de IDs 142–161.",
+  "next": "IV.9, desde el verso 717; segunda revisión consecutiva desde 160 tras resolver IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
