@@ -1596,6 +1596,66 @@ window.TAMBURLAINE_EDITION = {
       "Cortesía ante una prisionera",
       "«Appal» significa aquí causar espanto o turbación. La petición cortés con que Tamerlán se dirige a Zenócrate contrasta con la acotación que la muestra entrando junto al conquistador y con el tesoro incautado. La promesa de custodiar los bienes no equivale a una liberación de la cautiva.",
       "appal your thoughts"
+    ],
+    "I2-10": [
+      "«Rapine» y la joven indefensa",
+      "«Lawless rapine» nombra el despojo violento e ilegal, y «silly» tiene aquí su valor histórico de inocente, vulnerable o indefensa, no el moderno de «tonta». Zenócrate califica como saqueo lo que Tamerlán presenta como botín legítimo.",
+      "lawless rapine"
+    ],
+    "I2-15": [
+      "El sello y la firma del soberano",
+      "«Privy-signet» es el sello personal o privado del soberano; «his hand» significa su mano como firma o señal manuscrita de autorización. La pareja sirve para justificar el salvoconducto que la comitiva dice haber obtenido del «mighty Turk».",
+      "privy-signet"
+    ],
+    "I2-18": [
+      "El «Cham», o gran kan",
+      "«Cham» es una grafía histórica del título kan o gran kan, no el nombre propio de una persona. Magnetes suma sus presentes y cartas a los permisos del sultán para presentar a los viajeros como portadores de garantías diplomáticas.",
+      "puissant Cham"
+    ],
+    "I2-22": [
+      "Revocar el poder ajeno",
+      "«Countermanded» significa contravenidas o anuladas por una orden superior. Tamerlán, que todavía no es rey reconocido, se autoproclama «a greater man» para situar su poder efectivo por encima de los salvoconductos de otros soberanos.",
+      "countermanded by a greater man"
+    ],
+    "I2-29": [
+      "Un Estado que todavía necesita «criarse»",
+      "«Wean my state» presenta el poder naciente de Tamerlán mediante una metáfora de crianza o destete: amigos, hombres y reinos van fortaleciendo una autoridad todavía en formación. «State» se refiere aquí a su condición o poder, no a un Estado moderno plenamente constituido.",
+      "wean my state"
+    ],
+    "I2-33": [
+      "«Import»: indicar o dar a entender",
+      "«For so you do import» responde a la forma «my lord» con la que Zenócrate se dirige a Tamerlán: su porte o conducta indican una condición señorial que él reivindicará enseguida por sus obras. «Import» no significa aquí «importar» en su uso español corriente.",
+      "so you do import"
+    ],
+    "I2-37": [
+      "El lecho del conquistador",
+      "«Must grace his bed» formula como destino obligatorio de Zenócrate ocupar el lecho del futuro conquistador. La expresión acompaña una promesa de grandeza, pero se pronuncia en una escena de captura y no constituye, por sí sola, consentimiento de la prisionera.",
+      "Must grace his bed"
+    ],
+    "I2-41": [
+      "«Weeds»: prendas, no plantas",
+      "«Weeds» conserva el sentido histórico de ropas o vestimentas. El imperativo «Lie here» apunta a una acción visible de despojarse del atuendo de pastor y adoptar una apariencia guerrera; el texto no prescribe exactamente cómo se ejecuta el cambio de traje. McInnis (2020), «Introduction», pp. 12–13, comenta esta transformación.",
+      "ye weeds"
+    ],
+    "I2-42": [
+      "«Curtle-axe»: sable, no hacha de combate",
+      "Aunque su grafía contiene «axe», «curtle-axe» o «curtelax» designa una espada corta y curva, afín al cutlass; no es una simple hacha. La traducción se corrige a «sable curvo». La edición de 1590 (Folger EarlyPrint, A7r, wln 0254) escribe «curtle=axe».",
+      "curtle-axe"
+    ],
+    "I2-45": [
+      "«Success» y «loss unvalued»",
+      "Tamerlán contrapone su éxito militar a una pérdida de valor incalculable, comprensible desde la perspectiva de la comitiva despojada. Propone que ambos puedan convertir a Zenócrate en emperatriz. El referente exacto de «loss» admite matices, por lo que no se sustituye sin aviso por una interpretación única.",
+      "loss unvalued"
+    ],
+    "I2-50": [
+      "Exhalaciones y terremotos en la física antigua",
+      "Las «windy exhalations» remiten a una explicación aristotélica de los terremotos: vientos o emanaciones atrapadas en cavidades terrestres forcejean por salir y producen sacudidas. No se alude a placas tectónicas. Tom Rutter, «Tamburlaine the Weather Man», en McInnis (ed., 2020), pp. 111–113, explica ese marco meteorológico.",
+      "windy exhalations"
+    ],
+    "I2-52": [
+      "La mirada épica de Tequeles",
+      "Tequeles compara a Tamerlán armado con un león principesco que se despereza y atemoriza a las bestias. La metáfora convierte el cambio de indumentaria de los versos 41–43 en una transformación de presencia y de poder ante la mirada de sus seguidores.",
+      "princely lions"
     ]
   },
   "lex": {
@@ -1778,14 +1838,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 4,
       "speaker": "",
       "en": "Than if you were arriv'd in Syria,",
-      "es": "que si hubierais llegado a Siria"
+      "es": "que si hubiera llegado a Siria,"
     },
     {
       "id": "I2-5",
       "number": 5,
       "speaker": "",
       "en": "Even in the circle of your father's arms,",
-      "es": "y estuvierais rodeada por los brazos de vuestro padre,"
+      "es": "incluso entre los brazos de su padre,"
     },
     {
       "id": "I2-6",
@@ -1806,7 +1866,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 8,
       "speaker": "",
       "en": "(If, as thou seem'st, thou art so mean a man,)",
-      "es": "Si eres tan humilde como aparentas,"
+      "es": "(si de verdad es un hombre tan humilde como aparentas),"
     },
     {
       "id": "I2-9",
@@ -1820,14 +1880,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 10,
       "speaker": "",
       "en": "By lawless rapine from a silly maid,",
-      "es": "con el saqueo ilegal de una doncella indefensa."
+      "es": "mediante el saqueo injusto de una joven indefensa,"
     },
     {
       "id": "I2-11",
       "number": 11,
       "speaker": "",
       "en": "Who, travelling with these Median lords",
-      "es": "Yo, que viajaba con estos nobles medos"
+      "es": "que viajaba acompañada de estos nobles medos"
     },
     {
       "id": "I2-12",
@@ -1841,28 +1901,28 @@ window.TAMBURLAINE_EDITION = {
       "number": 13,
       "speaker": "",
       "en": "Where, all my youth, I have been governed,",
-      "es": "donde me he criado durante toda mi juventud,"
+      "es": "donde he vivido bajo su tutela desde niña,"
     },
     {
       "id": "I2-14",
       "number": 14,
       "speaker": "",
       "en": "Have pass'd the army of the mighty Turk,",
-      "es": "atravesé el ejército del poderoso turco"
+      "es": "y he atravesado el ejército del poderoso turco,"
     },
     {
       "id": "I2-15",
       "number": 15,
       "speaker": "",
       "en": "Bearing his privy-signet and his hand",
-      "es": "llevando su sello privado y su autorización"
+      "es": "con su sello privado y su firma,"
     },
     {
       "id": "I2-16",
       "number": 16,
       "speaker": "",
       "en": "To safe-conduct us thorough Africa.",
-      "es": "para que nos dieran salvoconducto por África."
+      "es": "que garantizaban nuestro paso seguro por África."
     },
     {
       "id": "I2-17",
@@ -1876,7 +1936,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 18,
       "speaker": "",
       "en": "Besides rich presents from the puissant Cham,",
-      "es": "además de valiosos presentes del poderoso kan,"
+      "es": "además de ricos presentes del poderoso kan,"
     },
     {
       "id": "I2-19",
@@ -1897,21 +1957,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 21,
       "speaker": "TAMBURLAINE",
       "en": "But now you see these letters and commands",
-      "es": "Pero ahora ven que esas cartas y órdenes"
+      "es": "Pero ahora ven que esas cartas y esas órdenes"
     },
     {
       "id": "I2-22",
       "number": 22,
       "speaker": "",
       "en": "Are countermanded by a greater man;",
-      "es": "han sido anuladas por un hombre más poderoso."
+      "es": "han quedado anuladas por alguien más poderoso;"
     },
     {
       "id": "I2-23",
       "number": 23,
       "speaker": "",
       "en": "And through my provinces you must expect",
-      "es": "Para atravesar mis provincias tendrán que obtener"
+      "es": "y para atravesar mis provincias deberán obtener"
     },
     {
       "id": "I2-24",
@@ -1932,91 +1992,91 @@ window.TAMBURLAINE_EDITION = {
       "number": 26,
       "speaker": "",
       "en": "But, since I love to live at liberty,",
-      "es": "Y puesto que amo vivir en libertad,"
+      "es": "Pero, puesto que amo vivir en libertad,"
     },
     {
       "id": "I2-27",
       "number": 27,
       "speaker": "",
       "en": "As easily may you get the Soldan's crown",
-      "es": "tan fácil les resultaría obtener la corona del sultán"
+      "es": "tan fácilmente podrían obtener la corona del sultán"
     },
     {
       "id": "I2-28",
       "number": 28,
       "speaker": "",
       "en": "As any prizes out of my precinct;",
-      "es": "como arrancar una presa de mis dominios."
+      "es": "como arrebatarme cualquier botín de mis dominios;"
     },
     {
       "id": "I2-29",
       "number": 29,
       "speaker": "",
       "en": "For they are friends that help to wean my state",
-      "es": "Amigos míos son quienes ayudan a criar mi naciente Estado"
+      "es": "pues son amigos míos quienes ayudan a criar mi poder naciente"
     },
     {
       "id": "I2-30",
       "number": 30,
       "speaker": "",
       "en": "Till men and kingdoms help to strengthen it,",
-      "es": "hasta que hombres y reinos contribuyan a fortalecerlo,"
+      "es": "hasta que hombres y reinos contribuyan a consolidarlo"
     },
     {
       "id": "I2-31",
       "number": 31,
       "speaker": "",
       "en": "And must maintain my life exempt from servitude.—",
-      "es": "y han de mantener mi vida libre de servidumbre."
+      "es": "y a mantener mi vida libre de servidumbre."
     },
     {
       "id": "I2-32",
       "number": 32,
       "speaker": "",
       "en": "But, tell me, madam, is your grace betroth'd?",
-      "es": "Pero decidme, señora: ¿estáis prometida?"
+      "es": "Pero dígame, señora, ¿está comprometida en matrimonio?"
     },
     {
       "id": "I2-33",
       "number": 33,
       "speaker": "ZENOCRATE",
       "en": "I am, my lord,—for so you do import.",
-      "es": "Lo estoy, señor, pues así debo llamaros."
+      "es": "Lo estoy, señor —pues así parece que debo llamarlo—."
     },
     {
       "id": "I2-34",
       "number": 34,
       "speaker": "TAMBURLAINE",
       "en": "I am a lord, for so my deeds shall prove;",
-      "es": "Soy un señor, como demostrarán mis hazañas,"
+      "es": "Soy un señor, y mis hazañas lo demostrarán,"
     },
     {
       "id": "I2-35",
       "number": 35,
       "speaker": "",
       "en": "And yet a shepherd by my parentage.",
-      "es": "aunque por nacimiento sea pastor."
+      "es": "aunque sea pastor por nacimiento."
     },
     {
       "id": "I2-36",
       "number": 36,
       "speaker": "",
       "en": "But, lady, this fair face and heavenly hue",
-      "es": "Pero, señora, este hermoso rostro y celestial semblante"
+      "es": "Pero, señora, este hermoso rostro y este semblante celestial"
     },
     {
       "id": "I2-37",
       "number": 37,
       "speaker": "",
       "en": "Must grace his bed that conquers Asia,",
-      "es": "ha de honrar el lecho de quien conquiste Asia"
+      "es": "han de engalanar el lecho de quien conquiste Asia"
     },
     {
       "id": "I2-38",
       "number": 38,
       "speaker": "",
       "en": "And means to be a terror to the world,",
-      "es": "y se proponga ser el terror del mundo,"
+      "es": "y aspire a convertirse en el terror del mundo,"
     },
     {
       "id": "I2-39",
@@ -2037,56 +2097,56 @@ window.TAMBURLAINE_EDITION = {
       "number": 41,
       "speaker": "",
       "en": "Lie here, ye weeds, that I disdain to wear!",
-      "es": "¡Quedad aquí, ropas que desdeño vestir!"
+      "es": "¡Queden aquí estas ropas que desdeño llevar!"
     },
     {
       "id": "I2-42",
       "number": 42,
       "speaker": "",
       "en": "This complete armour and this curtle-axe",
-      "es": "Esta armadura completa y esta hacha de guerra"
+      "es": "Esta armadura completa y este sable curvo"
     },
     {
       "id": "I2-43",
       "number": 43,
       "speaker": "",
       "en": "Are adjuncts more beseeming Tamburlaine.—",
-      "es": "son accesorios más propios de Tamerlán."
+      "es": "son atavíos más dignos de Tamerlán."
     },
     {
       "id": "I2-44",
       "number": 44,
       "speaker": "",
       "en": "And, madam, whatsoever you esteem",
-      "es": "Y, señora, sea lo que fuere lo que penséis"
+      "es": "Y, señora, sea cual sea su juicio"
     },
     {
       "id": "I2-45",
       "number": 45,
       "speaker": "",
       "en": "Of this success, and loss unvalued,",
-      "es": "de esta victoria y de esa pérdida incalculable,"
+      "es": "sobre este triunfo y esta pérdida imposible de valorar,"
     },
     {
       "id": "I2-46",
       "number": 46,
       "speaker": "",
       "en": "Both may invest you empress of the East;",
-      "es": "ambas pueden convertiros en emperatriz de Oriente."
+      "es": "ambos pueden investirla emperatriz de Oriente;"
     },
     {
       "id": "I2-47",
       "number": 47,
       "speaker": "",
       "en": "And these that seem but silly country swains",
-      "es": "Y estos hombres que parecen simples campesinos"
+      "es": "y estos que parecen simples campesinos"
     },
     {
       "id": "I2-48",
       "number": 48,
       "speaker": "",
       "en": "May have the leading of so great an host",
-      "es": "podrían llegar a dirigir un ejército tan enorme"
+      "es": "podrían llegar a dirigir un ejército tan grande"
     },
     {
       "id": "I2-49",
@@ -2100,28 +2160,28 @@ window.TAMBURLAINE_EDITION = {
       "number": 50,
       "speaker": "",
       "en": "Even as when windy exhalations,",
-      "es": "como cuando las exhalaciones del viento"
+      "es": "como cuando las exhalaciones de viento"
     },
     {
       "id": "I2-51",
       "number": 51,
       "speaker": "",
       "en": "Fighting for passage, tilt within the earth.",
-      "es": "luchan por abrirse paso y chocan dentro de la tierra."
+      "es": "luchan por abrirse paso y chocan bajo la tierra."
     },
     {
       "id": "I2-52",
       "number": 52,
       "speaker": "TECHELLES",
       "en": "As princely lions, when they rouse themselves,",
-      "es": "Como leones de porte regio cuando se levantan,"
+      "es": "Como leones majestuosos cuando se desperezan,"
     },
     {
       "id": "I2-53",
       "number": 53,
       "speaker": "",
       "en": "Stretching their paws, and threatening herds of beasts,",
-      "es": "estirando las garras y amenazando a los rebaños,"
+      "es": "extendiendo las garras y amenazando a rebaños enteros,"
     },
     {
       "id": "I2-54",
@@ -34228,6 +34288,22 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.1.143–189",
         "body": "Ceneo invoca el descontento de tropas ociosas para legitimar el cambio de rey: una guerra civil latente se transforma, mediante una ceremonia, en promesa de nuevas conquistas. La comparación con los macedonios que saquearon a Darío introduce una ironía: el ejemplo de gloria militar escogido recuerda una derrota persa. Ortigio acumula títulos sobre territorios heterogéneos, algunos abiertamente ajenos al dominio efectivo del nuevo monarca. Esa expansión verbal culmina en la aclamación coral, cuando la corona escénica hace visible una autoridad todavía precaria. La escena anticipa, sin reproducirla, la importancia material de la corona que McInnis analiza en II.4.",
         "source": "Lectura editorial de I.1.143–189; testimonio de 1590, A5v–A6r; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (2020), pp. 13–15, sobre las insignias y el poder político."
+      }
+    ],
+    "acto1-escena2": [
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "De la cautividad a la fabricación de un monarca",
+        "range": "Parte I · I.2.4–49",
+        "body": "Zenócrate y Magnetes apelan a autorizaciones diplomáticas y denuncian el saqueo; Tamerlán responde que su autoridad personal está por encima de la de quienes emitieron las cartas. El interrogatorio sobre el compromiso matrimonial enlaza la conquista territorial con la posesión imaginada de Zenócrate. Después, su gesto de abandonar las ropas de pastor y adoptar armadura y sable materializa en escena la identidad señorial que él declara merecer por sus actos. Ni la cortesía del discurso ni la promesa de hacerla emperatriz borran su situación inicial de prisionera.",
+        "source": "Lectura editorial de I.2.4–49, cotejada con el impreso de 1590 (Folger EarlyPrint, A6r–A7r). David McInnis, «Introduction», en Tamburlaine: A Critical Reader (2020), pp. 12–13, analiza la transformación mediante el vestuario, sin equipararla a consentimiento de Zenócrate."
+      },
+      {
+        "type": "LECTURA CRÍTICA",
+        "title": "El temblor de la tierra como lenguaje imperial",
+        "range": "Parte I · I.2.48–51",
+        "body": "El ejército imaginado por Tamerlán hace temblar las montañas como los vientos que, encerrados bajo tierra, pugnan por abrirse paso. La comparación procede de la explicación meteorológica aristotélica del terremoto y dota a la ambición militar de una escala natural aparentemente incontenible. Rutter sitúa este lenguaje en las relaciones entre ciencia natural, providencia y poder en la obra; la identificación del mecanismo físico en estos versos es distinta de cualquier afirmación de que el terremoto sea producido realmente por las tropas.",
+        "source": "Tom Rutter, «New Directions: Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 110–113."
       }
     ]
   }
