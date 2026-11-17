@@ -98,3 +98,11 @@
 - Acotaciones bilingües fuera del cómputo. Traducción española original alineada por renglón; sin fichas ni notas nuevas. El original inglés procede provisionalmente de Dyce (PG 1589); cotejo filológico y segmentación métrica de prosa pendientes.
 - **3928 renglones acumulados**: 2315 de la Parte I y 1613 de la Parte II.
 - **Próximo pasaje: Parte II, IV.2.61**.
+
+## Decimocuarta pasada de traducción (17-11-2026)
+- **300 renglones nuevos** en la Parte II: IV.2.61–98 (38), IV.3.1–133 (133), V.1.1–129 (129).
+- Acto IV completo (final de Olimpia y Teridamas; carro triunfal de Tamerlán tirado por reyes cautivos). Se abre el acto V con el asedio de Babilonia.
+- Se preservan los renglones ingleses con su traducción original al español general y las acotaciones bilingües, fuera del conteo. No se añadieron notas ni fichas léxicas.
+- Texto inglés de trabajo: Dyce/Project Gutenberg 1589; continuidad de los cortes confrontada con *Renascence Editions* (Luminarium), que presenta una modernización distinta. Pendientes cotejo filológico, revisión literaria y segmentación métrica de pasajes en prosa.
+- **4228 unidades de línea acumuladas:** 2315 en Parte I, 1913 en Parte II.
+- **Próximo pasaje: Parte II, V.1.130**.
