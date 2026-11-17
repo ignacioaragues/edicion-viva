@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,44 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,45 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -243,9 +243,13 @@
     ,{"chapter":6,"n":42,"gr":"καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν·","es":"Y todos comieron hasta quedar satisfechos.","la":"","notes":["mc642satisfied"]}
     ,{"chapter":6,"n":43,"gr":"καὶ ἦραν κλάσματα δώδεκα κοφίνων πληρώματα καὶ ἀπὸ τῶν ἰχθύων.","es":"Y recogieron los trozos sobrantes: doce canastos llenos, además de restos de los peces.","la":"","notes":["mc643basket","mc643variant"]}
     ,{"chapter":6,"n":44,"gr":"καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους πεντακισχίλιοι ἄνδρες.","es":"Los que habían comido los panes eran cinco mil hombres.","la":"","notes":["mc644men","mc644variant"]}
+    ,{"chapter":6,"n":45,"gr":"Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδάν, ἕως αὐτὸς ἀπολύει τὸν ὄχλον.","es":"Y enseguida obligó a sus discípulos a subir a la barca y adelantarse hacia la otra orilla, en dirección a Betsaida, mientras él despedía a la multitud.","la":"Et statim coëgit discipulos suos ascendere navim, ut præcederent eum trans fretum ad Bethsaidam, dum ipse dimitteret populum.","notes":["mc645compel","mc645bethsaida","mc645variant"]}
   ];
 
   const notes = {
+    mc645compel: ["Una orden apremiante", "ἠνάγκασεν (ἀναγκάζω) expresa una exigencia firme; no presupone fuerza física. El motivo de la urgencia no se explicita en Marcos. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,45: https://tips.translation.bible/story/translation-commentary-on-mark-645/"],
+    mc645bethsaida: ["La dirección de Betsaida", "La combinación εἰς τὸ πέραν («a la otra orilla») y πρὸς Βηθσαϊδάν («hacia Betsaida») plantea una dificultad geográfica discutida. Las propuestas de itinerario no son hechos establecidos. A. B. Bruce, Expositor’s Greek Testament, comentario a Marcos 6,45: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/6/45"],
+    mc645variant: ["Variante textual: la otra orilla", "SBLGNT conserva εἰς τὸ πέραν; algunos testigos, entre ellos P45 y W, omiten la expresión. La variante afecta la indicación del trayecto, no la orden de embarcar. Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Marcos 6,45: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; cotejo: https://freely-given.org/OBD/lst/MRK/C6V45.htm"],
     mc642satisfied: ["Todos quedaron satisfechos","ἐχορτάσθησαν es aoristo pasivo de χορτάζω, «alimentar hasta saciar». La formulación insiste en que todos comieron hasta quedar satisfechos, no simplemente que recibieron una porción simbólica. E. P. Gould, A Critical and Exegetical Commentary on the Gospel according to St. Mark, comentario a 6,42: https://mail.biblehub.com/commentaries/icc/mark/6.htm"],
     mc643basket: ["Doce canastos de sobrantes","κλάσματα («trozos partidos») ocupa una posición destacada; δώδεκα κοφίνων πληρώματα significa literalmente «doce contenidos completos de canastos», es decir, doce canastos llenos. No se precisa la capacidad exacta de los recipientes. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (1961), comentario a 6,43: https://old-tips.translation.bible/tip_verse/mark-643/"],
     mc643variant: ["Variantes en la descripción de los canastos","SBLGNT lee κλάσματα δώδεκα κοφίνων πληρώματα, frente a la construcción κλάσματα ... κοφίνους πλήρεις de otras tradiciones editoriales; cambia la sintaxis («contenidos de doce canastos» / «doce canastos llenos»), no la cantidad. Bratcher y Nida, A Handbook on the Gospel of Mark, comentario a 6,43: https://old-tips.translation.bible/tip_verse/mark-643/ ; Holmes, SBLGNT: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
