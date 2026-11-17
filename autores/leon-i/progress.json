@@ -120,21 +120,21 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX capita I–II complete and caput III §§13–14, PL 54 col. 160C–162C; remainder III–IV pending",
-      "paragraphs": 14,
-      "latin_tokens": 641,
-      "lexical_coverage": "641/641 first-pass token occurrences with contextual lexical cards",
-      "translation": "capita I–II and caput III §§13–14 translated; remainder III–IV pending",
-      "voice_notes": 14,
+      "section": "Sermo IX capita I–II complete and caput III §§13–15, PL 54 col. 160C–162D; remainder III–IV pending",
+      "paragraphs": 15,
+      "latin_tokens": 682,
+      "lexical_coverage": "682/682 first-pass contextual token cards",
+      "translation": "capita I–II and caput III §§13–15 translated; remainder III–IV pending",
+      "voice_notes": 15,
       "complete_work": false,
-      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support."
+      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support. Caput III §15: miseria/molestia, sublevandi/revelandi; critical printed collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Sunt enim qui palam poscere ea quibus indigent erubescunt",
-    "location": "PL 54 Sermo IX caput III col. 162C"
+    "beginning": "Recte autem in egeno et paupere ipsius Jesu Christi Domini nostri persona sentitur",
+    "location": "PL 54 Sermo IX caput III col. 162D–163A"
   },
   "priority": "Finish Sermo IX capita III–IV before Sermo X",
   "last_edit": "2026-11-17",
