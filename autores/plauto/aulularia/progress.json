@@ -1035,6 +1035,16 @@
       "tokens": 39,
       "source": "mqdq Plautus Aulularia 696–700; Leo 1895 direct collation pending",
       "note": "Traducción original, fichas y glosas contextuales; segunda pasada permanece en 159"
+    },
+    {
+      "section": "IV.8",
+      "from": 701,
+      "to": 704,
+      "verses": 4,
+      "status": "edited_not_revised",
+      "tokens": 25,
+      "source": "The Latin Library IV.8; Friedrich Leo 1895 direct collation pending",
+      "note": "Lectura Picis incierta, anotada expresamente. Traducción original y fichas contextuales. Segunda pasada retrospectiva sin avance certificado."
     }
   ],
   "pending": [
@@ -1044,8 +1054,8 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.8 desde el verso 701; segunda revisión morfológica 160–164 pendiente de migración de IDs",
-  "editorial_note": "IV.7 696–700 incorporados; cotejo directo Leo pendiente; segunda pasada no avanzó por conflicto de IDs 142–161.",
+  "next": "IV.8, versos 705–712; revisión retrospectiva desde 160",
+  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
