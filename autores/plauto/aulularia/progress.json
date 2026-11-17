@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisión 607–646, con especial atención a dobles versos 587–607.",
+  "next": "Revisión 647–686; atención a la escena del registro y al juego con Fides.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 606,
-    "next_verse": 607,
+    "reviewed_through_verse": 646,
+    "next_verse": 647,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática 567–606; cotejo exhaustivo de aparato Leo y QA visual pendientes.",
+    "note": "Auditoría estática 607–646, cotejo externo parcial (Stockert 1983, Wagner, Hanson); colación exhaustiva Leo y QA visual pendientes.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1886,6 +1886,21 @@
           "https://www.degruyterbrill.com/document/doi/10.1515/9783110711554-007/pdf?licenseType=open-access"
         ],
         "note": "Correspondencia token-ficha comprobada en 40 versos; precisados optumumst, ne tu, cópula est, sese [esse], pueri y nuptum dari. El estudio abierto De Gruyter cap. 5 n. 9 señala dobles versos discutidos 587–607. Se conserva texto latino e IDs. Sin cotejo exhaustivo del aparato Leo ni QA visual."
+      },
+      {
+        "section": "IV.1–IV.4",
+        "from": 607,
+        "to": 646,
+        "verses": 40,
+        "tokens": 373,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_IV_II",
+          "https://de.scribd.com/doc/245080765/Walter-Stockert-Ed-T-Maccius-Plautus-Aulularia-1983",
+          "https://device.report/m/13f526e9964a5de507ff2ef9a6dc4c042efc00e79bd8180c889e43c.pdf",
+          "https://electronicsandbooks.com/edt/manual/Magazine/T/Transactions%20of%20the%20American%20Philological%20Society/1959/Hanson%20-%201959%20-%20Plautus%20as%20a%20Source%20Book%20for%20Roman%20Religion.pdf"
+        ],
+        "note": "40 versos, correspondencia exacta tokens-fichas y lectura de glosas contextuales; corregidos situmst, tuae fide, Fide, fideliam, corvos, eccas, nive. Stockert 1983 aparato a 615–619 registra fidei y conjeturas de 619; Wagner comenta juego Fides/fidelia y augurio del cuervo a la izquierda. Sin modificar latín ni IDs. Pendiente colación integral Leo, QA de navegador y revisión de otras glosas."
       }
     ],
     "spot_checks": [
