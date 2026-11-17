@@ -1086,6 +1086,17 @@
       "status": "edited_not_revised",
       "source": "The Latin Library IV.9; LateinLex IV.9; Metrical subdivisions compared with RPL XLVII (2025) https://romatrepress.uniroma3.it/wp-content/uploads/2026/04/EBOOK_RPL_XLVII_online.pdf",
       "note": "Conservadas subdivisiones 721a–724a. Traducción original y fichas contextuales. Cotejo directo con Leo 1895 y revisión morfológica retrospectiva desde 160 pendientes."
+    },
+    {
+      "section": "IV.9",
+      "from": 726,
+      "to": 730,
+      "verses": 5,
+      "display_units": 6,
+      "tokens": 53,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.9, The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo (1895) direct collation pending",
+      "note": "Euclión y entrada de Licónides; 730a conserva la continuación métrica del verso 730; fichas y glosas para 53 tokens. Revisión retrospectiva desde 160 no certificada."
     }
   ],
   "pending": [
@@ -1095,7 +1106,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.9, versos 726–727 y comienzo de intervención de Licónides, verificar numeración; segunda pasada desde 160.",
+  "next": "IV.10, desde verso 731; auditoría retrospectiva desde verso 160, con preservación de IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
