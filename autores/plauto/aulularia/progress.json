@@ -1119,6 +1119,17 @@
       "status": "edited_not_revised",
       "source": "The Latin Library IV.10, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Malentendido entre Euclión y Licónides; fichas individuales y glosas. Cotejo directo Leo 1895 pendiente; la revisión retrospectiva 160+ no avanzó. Traducción ajustada a español general."
+    },
+    {
+      "section": "IV.10",
+      "from": 744,
+      "to": 750,
+      "verses": 7,
+      "display_units": 9,
+      "tokens": 60,
+      "status": "edited_not_revised",
+      "source": "The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml, lines 833–839; Perseus Friedrich Leo 1895 edition accessible at https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/ but scene IV.10 not directly collated",
+      "note": "Wine and love as attempted excuse; original Spanish, individual morphology and glosses. No independent retroactive morphology audit this pass. Visual QA pending."
     }
   ],
   "pending": [
@@ -1128,7 +1139,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.10 desde verso 744, objetivo 12–15 versos; auditoría morfológica consecutiva desde 160 y compatibilidad de IDs 142–161.",
+  "next": "IV.10 from verse 751; target 12–15 lines per run, plus independent morphology audit from 160 after identifier compatibility check.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
