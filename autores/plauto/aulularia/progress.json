@@ -1228,6 +1228,17 @@
       "status": "edited_not_revised",
       "source": "https://ancientlibrary.net/plautus-titus-maccius-aulularia/; https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A779-834_frg5",
       "note": "Último diálogo continuo conservado. Texto cotejado en fuentes de tradición Leo 1895; siguen cinco fragmentos descontextualizados, laguna final y auditoría integral."
+    },
+    {
+      "section": "Fragmenta I–V y dubium",
+      "from": "frg1",
+      "to": "dub1",
+      "verses": 6,
+      "display_units": 6,
+      "tokens": 38,
+      "status": "edited_not_revised",
+      "source": "F. Leo, Plauti Comoediae (1895), vía Perseus/Humanitext; Maclennan y Stockert (2016), Aulularia, fragmenta",
+      "note": "Cinco fragmentos aislados y un sexto dudoso separados de V.1 en navegación. Atribuciones conjeturales explícitas. No se reconstruye el desenlace. Pendiente revisar variante textual del frg. IV y colación crítica integral."
     }
   ],
   "pending": [
@@ -1237,7 +1248,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Incorporar cinco fragmentos finales de ubicación incierta como fragmentos, no continuación inventada; señalar laguna y desenlace sólo según argumenta; auditoría morfológica desde 160 e IDs 142–161.",
+  "next": "Texto conservado y fragmentos incorporados: revisar aparato crítico, exactitud de 821–833, fragmentos y laguna; iniciar auditoría morfológica consecutiva desde 160, migración de IDs 142–161; QA visual y marcadores de laguna.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
