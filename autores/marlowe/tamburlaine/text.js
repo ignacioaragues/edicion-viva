@@ -27450,6 +27450,482 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "In this thy barbarous damned tyranny.",
           "es": "con esta tiranía tuya, bárbara y maldita."
+        },
+        {
+          "id": "P2-IV1-139",
+          "number": 139,
+          "speaker": "KING OF JERUSALEM",
+          "en": "Thy victories are grown so violent,",
+          "es": "Tus victorias se han vuelto tan violentas"
+        },
+        {
+          "id": "P2-IV1-140",
+          "number": 140,
+          "speaker": "",
+          "en": "That shortly heaven, fill'd with the meteors",
+          "es": "que pronto el cielo, repleto de los meteoros"
+        },
+        {
+          "id": "P2-IV1-141",
+          "number": 141,
+          "speaker": "",
+          "en": "Of blood and fire thy tyrannies have made,",
+          "es": "de sangre y fuego engendrados por tus tiranías,"
+        },
+        {
+          "id": "P2-IV1-142",
+          "number": 142,
+          "speaker": "",
+          "en": "Will pour down blood and fire on thy head,",
+          "es": "derramará sangre y fuego sobre tu cabeza;"
+        },
+        {
+          "id": "P2-IV1-143",
+          "number": 143,
+          "speaker": "",
+          "en": "Whose scalding drops will pierce thy seething brains,",
+          "es": "sus gotas abrasadoras penetrarán tu cerebro hirviente"
+        },
+        {
+          "id": "P2-IV1-144",
+          "number": 144,
+          "speaker": "",
+          "en": "And, with our bloods, revenge our bloods on thee.",
+          "es": "y vengarán con nuestra sangre la que nos has hecho derramar."
+        },
+        {
+          "id": "P2-IV1-145",
+          "number": 145,
+          "speaker": "TAMBURLAINE",
+          "en": "Villains, these terrors, and these tyrannies",
+          "es": "Villanos, estos horrores y estas tiranías,"
+        },
+        {
+          "id": "P2-IV1-146",
+          "number": 146,
+          "speaker": "",
+          "en": "(If tyrannies war's justice ye repute),",
+          "es": "si es que llaman tiranía a la justicia de la guerra,"
+        },
+        {
+          "id": "P2-IV1-147",
+          "number": 147,
+          "speaker": "",
+          "en": "I execute, enjoin'd me from above,",
+          "es": "los ejecuto por mandato de lo alto,"
+        },
+        {
+          "id": "P2-IV1-148",
+          "number": 148,
+          "speaker": "",
+          "en": "To scourge the pride of such as Heaven abhors;",
+          "es": "para azotar la soberbia de quienes el cielo aborrece."
+        },
+        {
+          "id": "P2-IV1-149",
+          "number": 149,
+          "speaker": "",
+          "en": "Nor am I made arch-monarch of the world,",
+          "es": "No he sido convertido en monarca supremo del mundo,"
+        },
+        {
+          "id": "P2-IV1-150",
+          "number": 150,
+          "speaker": "",
+          "en": "Crown'd and invested by the hand of Jove,",
+          "es": "coronado e investido por la mano de Júpiter,"
+        },
+        {
+          "id": "P2-IV1-151",
+          "number": 151,
+          "speaker": "",
+          "en": "For deeds of bounty or nobility;",
+          "es": "para realizar obras de generosidad o nobleza;"
+        },
+        {
+          "id": "P2-IV1-152",
+          "number": 152,
+          "speaker": "",
+          "en": "But, since I exercise a greater name,",
+          "es": "pero puesto que ejerzo un título más elevado,"
+        },
+        {
+          "id": "P2-IV1-153",
+          "number": 153,
+          "speaker": "",
+          "en": "The scourge of God and terror of the world,",
+          "es": "el de azote de Dios y terror del mundo,"
+        },
+        {
+          "id": "P2-IV1-154",
+          "number": 154,
+          "speaker": "",
+          "en": "I must apply myself to fit those terms,",
+          "es": "debo comportarme de acuerdo con ese nombre:"
+        },
+        {
+          "id": "P2-IV1-155",
+          "number": 155,
+          "speaker": "",
+          "en": "In war, in blood, in death, in cruelty,",
+          "es": "con guerra, sangre, muerte y crueldad,"
+        },
+        {
+          "id": "P2-IV1-156",
+          "number": 156,
+          "speaker": "",
+          "en": "And plague such peasants as resist in me",
+          "es": "y castigar a esos miserables que se resisten en mí"
+        },
+        {
+          "id": "P2-IV1-157",
+          "number": 157,
+          "speaker": "",
+          "en": "The power of Heaven's eternal majesty.—",
+          "es": "al poder de la majestad eterna del cielo."
+        },
+        {
+          "id": "P2-IV1-158",
+          "number": 158,
+          "speaker": "",
+          "en": "Theridamas, Techelles, and Casane,",
+          "es": "Teridamas, Tequeles y Casane,"
+        },
+        {
+          "id": "P2-IV1-159",
+          "number": 159,
+          "speaker": "",
+          "en": "Ransack the tents and the pavilions",
+          "es": "saqueen las tiendas y pabellones"
+        },
+        {
+          "id": "P2-IV1-160",
+          "number": 160,
+          "speaker": "",
+          "en": "Of these proud Turks, and take their concubines,",
+          "es": "de estos turcos orgullosos y apresen a sus concubinas;"
+        },
+        {
+          "id": "P2-IV1-161",
+          "number": 161,
+          "speaker": "",
+          "en": "Making them bury this effeminate brat;",
+          "es": "obliguen a estas a enterrar a este muchacho afeminado,"
+        },
+        {
+          "id": "P2-IV1-162",
+          "number": 162,
+          "speaker": "",
+          "en": "For not a common soldier shall defile",
+          "es": "pues ningún soldado común deberá manchar"
+        },
+        {
+          "id": "P2-IV1-163",
+          "number": 163,
+          "speaker": "",
+          "en": "His manly fingers with so faint a boy:",
+          "es": "sus dedos viriles con un joven tan pusilánime."
+        },
+        {
+          "id": "P2-IV1-164",
+          "number": 164,
+          "speaker": "",
+          "en": "Then bring those Turkish harlots to my tent,",
+          "es": "Después traigan a esas cortesanas turcas a mi tienda,"
+        },
+        {
+          "id": "P2-IV1-165",
+          "number": 165,
+          "speaker": "",
+          "en": "And I'll dispose them as it likes me best.—",
+          "es": "y dispondré de ellas como mejor me parezca."
+        },
+        {
+          "id": "P2-IV1-166",
+          "number": 166,
+          "speaker": "",
+          "en": "Meanwhile, take him in.",
+          "es": "Mientras tanto, retírenlo de aquí."
+        },
+        {
+          "id": "P2-IV1-167",
+          "number": 167,
+          "speaker": "SOLDIERS",
+          "en": "We will, my lord.",
+          "es": "Así lo haremos, señor."
+        },
+        {
+          "id": "P2-IV1-168",
+          "number": 168,
+          "speaker": "KING OF JERUSALEM",
+          "en": "O damned monster! nay, a fiend of hell,",
+          "es": "¡Oh, monstruo maldito! No: eres un demonio del infierno,"
+        },
+        {
+          "id": "P2-IV1-169",
+          "number": 169,
+          "speaker": "",
+          "en": "Whose cruelties are not so harsh as thine,",
+          "es": "cuyas crueldades ni siquiera son tan atroces como las tuyas"
+        },
+        {
+          "id": "P2-IV1-170",
+          "number": 170,
+          "speaker": "",
+          "en": "Nor yet impos'd with such a bitter hate!",
+          "es": "ni se infligen con un odio tan amargo."
+        },
+        {
+          "id": "P2-IV1-171",
+          "number": 171,
+          "speaker": "ORCANES",
+          "en": "Revenge it, Rhadamanth and Aeacus,",
+          "es": "¡Vénguenlo, Radamanto y Éaco,"
+        },
+        {
+          "id": "P2-IV1-172",
+          "number": 172,
+          "speaker": "",
+          "en": "And let your hates, extended in his pains,",
+          "es": "y que su odio, prolongado en sus tormentos,"
+        },
+        {
+          "id": "P2-IV1-173",
+          "number": 173,
+          "speaker": "",
+          "en": "Excel the hate wherewith he pains our souls!",
+          "es": "supere el odio con que él atormenta nuestras almas!"
+        },
+        {
+          "id": "P2-IV1-174",
+          "number": 174,
+          "speaker": "KING OF TREBIZON",
+          "en": "May never day give virtue to his eyes,",
+          "es": "¡Que ningún día devuelva la luz a sus ojos,"
+        },
+        {
+          "id": "P2-IV1-175",
+          "number": 175,
+          "speaker": "",
+          "en": "Whose sight, compos'd of fury and of fire,",
+          "es": "cuya mirada, compuesta de furia y fuego,"
+        },
+        {
+          "id": "P2-IV1-176",
+          "number": 176,
+          "speaker": "",
+          "en": "Doth send such stern affections to his heart!",
+          "es": "envía pasiones tan feroces a su corazón!"
+        },
+        {
+          "id": "P2-IV1-177",
+          "number": 177,
+          "speaker": "KING OF SORIA",
+          "en": "May never spirit, vein, or artier, feed",
+          "es": "¡Que ningún aliento, vena ni arteria alimente"
+        },
+        {
+          "id": "P2-IV1-178",
+          "number": 178,
+          "speaker": "",
+          "en": "The cursed substance of that cruel heart;",
+          "es": "la sustancia maldita de ese corazón cruel;"
+        },
+        {
+          "id": "P2-IV1-179",
+          "number": 179,
+          "speaker": "",
+          "en": "But, wanting moisture and remorseful blood,",
+          "es": "que, privado de humedad y de sangre compasiva,"
+        },
+        {
+          "id": "P2-IV1-180",
+          "number": 180,
+          "speaker": "",
+          "en": "Dry up with anger, and consume with heat!",
+          "es": "se seque de ira y se consuma de calor!"
+        },
+        {
+          "id": "P2-IV1-181",
+          "number": 181,
+          "speaker": "TAMBURLAINE",
+          "en": "Well, bark, ye dogs: I'll bridle all your tongues,",
+          "es": "Ladren, perros; pondré freno a todas sus lenguas"
+        },
+        {
+          "id": "P2-IV1-182",
+          "number": 182,
+          "speaker": "",
+          "en": "And bind them close with bits of burnish'd steel,",
+          "es": "y las sujetaré con bocados de acero bruñido,"
+        },
+        {
+          "id": "P2-IV1-183",
+          "number": 183,
+          "speaker": "",
+          "en": "Down to the channels of your hateful throats;",
+          "es": "hasta el fondo de sus gargantas odiosas."
+        },
+        {
+          "id": "P2-IV1-184",
+          "number": 184,
+          "speaker": "",
+          "en": "And, with the pains my rigour shall inflict,",
+          "es": "Y con los dolores que les impondrá mi rigor"
+        },
+        {
+          "id": "P2-IV1-185",
+          "number": 185,
+          "speaker": "",
+          "en": "I'll make ye roar, that earth may echo forth",
+          "es": "los haré rugir para que la tierra repita en su eco"
+        },
+        {
+          "id": "P2-IV1-186",
+          "number": 186,
+          "speaker": "",
+          "en": "The far-resounding torments ye sustain;",
+          "es": "los tormentos que padecen, resonando a lo lejos,"
+        },
+        {
+          "id": "P2-IV1-187",
+          "number": 187,
+          "speaker": "",
+          "en": "As when an herd of lusty Cimbrian bulls",
+          "es": "como cuando una manada de vigorosos toros cimbrios"
+        },
+        {
+          "id": "P2-IV1-188",
+          "number": 188,
+          "speaker": "",
+          "en": "Run mourning round about the females' miss,",
+          "es": "corre lamentando la ausencia de las hembras"
+        },
+        {
+          "id": "P2-IV1-189",
+          "number": 189,
+          "speaker": "",
+          "en": "And, stung with fury of their following,",
+          "es": "y, aguijoneada por la furia de perseguirlas,"
+        },
+        {
+          "id": "P2-IV1-190",
+          "number": 190,
+          "speaker": "",
+          "en": "Fill all the air with troublous bellowing.",
+          "es": "llena el aire de bramidos perturbadores."
+        },
+        {
+          "id": "P2-IV1-191",
+          "number": 191,
+          "speaker": "",
+          "en": "I will, with engines never exercis'd,",
+          "es": "Con máquinas de guerra jamás empleadas"
+        },
+        {
+          "id": "P2-IV1-192",
+          "number": 192,
+          "speaker": "",
+          "en": "Conquer, sack, and utterly consume",
+          "es": "conquistaré, saquearé y destruiré por completo"
+        },
+        {
+          "id": "P2-IV1-193",
+          "number": 193,
+          "speaker": "",
+          "en": "Your cities and your golden palaces,",
+          "es": "sus ciudades y sus palacios dorados."
+        },
+        {
+          "id": "P2-IV1-194",
+          "number": 194,
+          "speaker": "",
+          "en": "And, with the flames that beat against the clouds,",
+          "es": "Y con llamas que golpeen las nubes"
+        },
+        {
+          "id": "P2-IV1-195",
+          "number": 195,
+          "speaker": "",
+          "en": "Incense the heavens, and make the stars to melt,",
+          "es": "incendiaré el cielo y haré derretirse las estrellas,"
+        },
+        {
+          "id": "P2-IV1-196",
+          "number": 196,
+          "speaker": "",
+          "en": "As if they were the tears of Mahomet",
+          "es": "como si fueran lágrimas de Mahoma"
+        },
+        {
+          "id": "P2-IV1-197",
+          "number": 197,
+          "speaker": "",
+          "en": "For hot consumption of his country's pride;",
+          "es": "por la ardiente destrucción del orgullo de su patria."
+        },
+        {
+          "id": "P2-IV1-198",
+          "number": 198,
+          "speaker": "",
+          "en": "And, till by vision or by speech I hear",
+          "es": "Y hasta que, en una visión o de viva voz, escuche"
+        },
+        {
+          "id": "P2-IV1-199",
+          "number": 199,
+          "speaker": "",
+          "en": "Immortal Jove say \"Cease, my Tamburlaine,\"",
+          "es": "al inmortal Júpiter decir «Detente, Tamerlán mío»,"
+        },
+        {
+          "id": "P2-IV1-200",
+          "number": 200,
+          "speaker": "",
+          "en": "I will persist a terror to the world,",
+          "es": "seguiré siendo el terror del mundo,"
+        },
+        {
+          "id": "P2-IV1-201",
+          "number": 201,
+          "speaker": "",
+          "en": "Making the meteors (that, like armed men,",
+          "es": "haciendo que los meteoros que, como hombres armados,"
+        },
+        {
+          "id": "P2-IV1-202",
+          "number": 202,
+          "speaker": "",
+          "en": "Are seen to march upon the towers of heaven)",
+          "es": "parecen marchar sobre las torres del cielo,"
+        },
+        {
+          "id": "P2-IV1-203",
+          "number": 203,
+          "speaker": "",
+          "en": "Run tilting round about the firmament,",
+          "es": "corran a justar por todo el firmamento"
+        },
+        {
+          "id": "P2-IV1-204",
+          "number": 204,
+          "speaker": "",
+          "en": "And break their burning lances in the air,",
+          "es": "y quiebren sus lanzas ardientes en el aire"
+        },
+        {
+          "id": "P2-IV1-205",
+          "number": 205,
+          "speaker": "",
+          "en": "For honour of my wondrous victories.—",
+          "es": "en honor de mis asombrosas victorias."
+        },
+        {
+          "id": "P2-IV1-206",
+          "number": 206,
+          "speaker": "",
+          "en": "Come, bring them in to our pavilion.",
+          "es": "Vamos, llévenlos a nuestro pabellón."
         }
       ]
     }
@@ -27811,6 +28287,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 119,
       "en": "Stabs Calyphas.",
       "es": "Apuñala a Calífas."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 166,
+      "en": "Exeunt with the body of Calyphas.",
+      "es": "Salen llevando el cadáver de Calífas."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 206,
+      "en": "Exeunt.",
+      "es": "Salen todos."
     }
   ]
 };
