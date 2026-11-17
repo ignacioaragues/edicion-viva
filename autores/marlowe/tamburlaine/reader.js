@@ -35,7 +35,7 @@ const NOTE_TERMS={
 // Las notas son fragmentos subrayados del texto, sin iconos ni llamadas sueltas.
 function renderAnnotatedText(line,target,note,key){
   if(!note){renderWords(line,target);return;}
-  const wanted=NOTE_TERMS[key]||'';
+  const wanted=note[2]||NOTE_TERMS[key]||'';
   const found=wanted?line.toLocaleLowerCase('en').indexOf(wanted.toLocaleLowerCase('en')):-1;
   if(found<0){ // Mantener accesible una nota antigua si su ancla necesita revisión.
     const button=document.createElement('button');button.type='button';button.className='note-inline';
@@ -143,6 +143,22 @@ function observeSceneRows(){
   },{rootMargin:'-80px 0px -45% 0px',threshold:0});
   activeScene.container.querySelectorAll('.verse').forEach(row=>positionObserver.observe(row));
 }
+function renderCriticalReadings(scene){
+  const host=$('#critical-readings'),list=$('#critical-readings-list');
+  if(!host||!list)return;
+  const cards=E.criticalReadings?.[scene.id]||[];
+  list.replaceChildren();
+  host.hidden=!cards.length;
+  for(const entry of cards){
+    const card=document.createElement('article');card.className='critical-reading-card';
+    const kicker=document.createElement('p');kicker.className='critical-reading-type';kicker.textContent=entry.type;
+    const heading=document.createElement('h3');heading.textContent=entry.title;
+    const range=document.createElement('p');range.className='critical-reading-range';range.textContent=entry.range;
+    const body=document.createElement('p');body.className='critical-reading-body';body.textContent=entry.body;
+    const citation=document.createElement('p');citation.className='critical-reading-citation';citation.textContent=entry.source;
+    card.append(kicker,heading,range,body,citation);list.append(card);
+  }
+}
 function setActiveScene(scene,{scroll=true,lineId=null}={}){
   if(!scene)return;
   hidePopups();
@@ -151,6 +167,7 @@ function setActiveScene(scene,{scroll=true,lineId=null}={}){
   sections.forEach(section=>{section.hidden=section!==scene.section;});
   activeScene=scene;
   renderScene(scene);
+  renderCriticalReadings(scene);
   document.querySelectorAll('.scene-index a[data-section]').forEach(a=>{
     if(a.dataset.section===scene.id)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');
   });
