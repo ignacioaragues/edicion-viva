@@ -1195,6 +1195,17 @@
       "status": "edited_not_revised",
       "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Cotejo digital de los versos 804–812; transición al acto V. Pendiente cotejo de aparato Leo 1895, comprobación de lectura y segunda revisión retrospectiva desde 160."
+    },
+    {
+      "section": "V.1",
+      "from": 813,
+      "to": 820,
+      "verses": 8,
+      "display_units": 14,
+      "tokens": 62,
+      "status": "edited_not_revised",
+      "source": "The Latin Library https://www.thelatinlibrary.com/plautus/aulularia.shtml (vv. 813–820); base Leo 1895 pendiente cotejo directo en Perseus",
+      "note": "Texto y traducción original; suplemento entre corchetes en 816 preservado; el 814–815 constituye una unidad métrica editorial. Pendientes aparato crítico, revisión retroactiva y QA navegador."
     }
   ],
   "pending": [
@@ -1204,7 +1215,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "V.1 desde verso 813; objetivo 12–15 versos; revisar numeración 814–816 en fuentes, morfología retrospectiva desde 160 e IDs 142–161.",
+  "next": "V.1 desde 821; completar texto conservado hasta laguna final sin suplirlo; segunda revisión morfológica desde 160.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
