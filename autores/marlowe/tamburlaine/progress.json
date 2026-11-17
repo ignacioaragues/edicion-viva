@@ -1,7 +1,7 @@
 {
   "work": "Tamburlaine the Great",
   "author": "Christopher Marlowe",
-  "part": 1,
+  "part": 2,
   "status": "in_progress",
   "baseEdition": "William Allan Neilson, The Chief Elizabethan Dramatists (1911), pp. 57ff.",
   "prologue": {
@@ -175,28 +175,39 @@
       "scene": 1,
       "publishedLines": [
         1,
-        347
+        534
       ],
-      "nextLine": 348,
-      "complete": false
+      "nextLine": null,
+      "complete": true
     }
   ],
-  "publishedVerseLines": 2128,
+  "publishedVerseLines": 2428,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Acts I–IV complete, Act V scene 1 translated through line 347. Draft translation and scene-local numbering; prose remains segmented by printed transcription, pending philological revision.",
+  "editorialReview": "Part I first translation draft now complete: all acts through V.1.534 and 8-line prologue. Part II first act first scene through line 113. Editorial notes, lexical records, prose line reflow and collation with historical witnesses remain pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
     "https://emed.titania.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html",
-    "https://www.gutenberg.org/files/1094/1094-h/1094-h.htm"
+    "https://www.gutenberg.org/files/1094/1094-h/1094-h.htm",
+    "https://www.gutenberg.org/files/1589/1589-h/1589-h.htm"
   ],
   "next": {
-    "part": 1,
-    "act": 5,
+    "part": 2,
+    "act": 1,
     "scene": 1,
-    "line": 348
+    "line": 114
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "Part I V.1.348–534 (187); Part II I.1.1–113 (113)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Dyce, Project Gutenberg 1094 and 1589",
+    "editorialNote": "Part I first draft complete; Part II started. Prose and printed wraps not metrically collated."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "V.1.48–347",
@@ -206,14 +217,29 @@
     "source": "A. Dyce (Project Gutenberg #1094), awaiting collation with Neilson and the early print",
     "editorialNote": "Physical wraps of prose (including the delirious speech of Zabina) remain aligned as source lines"
   },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "IV.2.81–126 (46), IV.3.1–68 (68), IV.4.1–139 (139), V.1.1–47 (47)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Alexander Dyce via Project Gutenberg eBook 1094; collation pending",
-    "editorialCorrection": "A speaker-only header in IV.4 is excluded from the line count."
+  "part1": {
+    "complete": true,
+    "prologueLines": 8,
+    "dramaticLines": 2307,
+    "publishedLineCount": 2315,
+    "lastScene": "V.1.534",
+    "status": "first translation draft; notes and philological revision pending"
+  },
+  "part2": {
+    "complete": false,
+    "publishedLineCount": 113,
+    "sections": [
+      {
+        "act": 1,
+        "scene": 1,
+        "publishedLines": [
+          1,
+          113
+        ],
+        "nextLine": 114,
+        "complete": false
+      }
+    ],
+    "baseEdition": "Alexander Dyce, Project Gutenberg eBook 1589"
   }
 }

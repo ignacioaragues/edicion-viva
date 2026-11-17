@@ -56,3 +56,10 @@
 - **300 renglones nuevos**, de V.1.48 a V.1.347. El texto incluye el ruego de las doncellas, la matanza de Damasco, el discurso sobre la belleza y el final del cautiverio de Bayaceto y Zabina.
 - **2128 renglones acumulados** (8 de prólogo + el texto dramático). Se conservan las acotaciones escénicas sin computarlas como versos; la prosa en el texto de Dyce sigue dividida por renglones físicos.
 - Solo traducción, sin ampliar el aparato de notas ni las fichas. Próximo tramo: **V.1.348**. La Parte I todavía no está completa (la escena final continúa).
+
+## Octava pasada de traducción (17-11-2026)
+- **300 renglones nuevos**: Parte I V.1.348–534 (187) y Parte II I.1.1–113 (113).
+- La **primera parte tiene ahora una traducción completa en primera versión**: cinco actos (2307 renglones dramáticos, incluidos los cortes de la prosa en el fichero) y prólogo de ocho renglones, un total de **2315**.
+- Se inaugura la segunda parte con la edición de Alexander Dyce, Project Gutenberg eBook 1589, sin mezclar su numeración con la primera. Orcanes, Gazelo, Uribasa y Segismundo aparecen en el comienzo.
+- La acotación de cierre tras V.1.534 se mantiene fuera del cómputo de renglones y como fin de Parte I.
+- El total de las dos partes en el lector es **2428 renglones traducidos**. La fase de cotejo textual y revisión de cortes en prosa, notas y fichas sigue pendiente. **Siguiente renglón: Parte II I.1.114**.
