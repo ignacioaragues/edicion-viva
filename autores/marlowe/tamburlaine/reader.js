@@ -3,7 +3,7 @@
 'use strict';
 const E=window.TAMBURLAINE_EDITION;if(!E)return;
 const $=s=>document.querySelector(s);
-const targetPro=$('#prologue-verses'),targetScene=$('#scene-verses'),targetScene2=$('#scene2-verses'),act2Targets=[1,2,3,4,5,6,7].map(n=>$('#act2-scene'+n+'-verses')),act3Targets=[1,2,3].map(n=>$('#act3-scene'+n+'-verses')),act4Targets=[1,2,3,4].map(n=>$('#act4-scene'+n+'-verses')),act5Target=$('#act5-scene1-verses'),part2Targets=[1,2,3].map(n=>$('#parte2-acto1-escena'+n+'-verses')),part2Act2Targets=[1,2,3,4].map(n=>$('#parte2-acto2-escena'+n+'-verses')),part2Act3Targets=[1,2].map(n=>$('#parte2-acto3-escena'+n+'-verses'));
+const targetPro=$('#prologue-verses'),targetScene=$('#scene-verses'),targetScene2=$('#scene2-verses'),act2Targets=[1,2,3,4,5,6,7].map(n=>$('#act2-scene'+n+'-verses')),act3Targets=[1,2,3].map(n=>$('#act3-scene'+n+'-verses')),act4Targets=[1,2,3,4].map(n=>$('#act4-scene'+n+'-verses')),act5Target=$('#act5-scene1-verses'),part2Targets=[1,2,3].map(n=>$('#parte2-acto1-escena'+n+'-verses')),part2Act2Targets=[1,2,3,4].map(n=>$('#parte2-acto2-escena'+n+'-verses')),part2Act3Targets=[1,2,3,4,5].map(n=>$('#parte2-acto3-escena'+n+'-verses'));
 const lex=E.lex||{},noteMap=E.notes||{},wordPanel=$('#word-panel'),notePanel=$('#note-panel'),drawer=$('#side-drawer');
 const STORE='edicion-viva:dictionary:en:v1',POS='edicion-viva:marlowe-tamburlaine:position';
 let current=null,notesEnabled=true;
@@ -58,7 +58,7 @@ publishScene(E.scene2||[],targetScene2,1,2,'II');
 publishScene(E.act5Scenes?.['1']||[],act5Target,5,1,'A5-1');
 [1,2,3].forEach(n=>publishScene(E.part2Scenes?.['1']?.[String(n)]||[],part2Targets[n-1],1,n,'B2-1-'+n,2));
 [1,2,3,4].forEach(n=>publishScene(E.part2Scenes?.['2']?.[String(n)]||[],part2Act2Targets[n-1],2,n,'B2-2-'+n,2));
-[1,2].forEach(n=>publishScene(E.part2Scenes?.['3']?.[String(n)]||[],part2Act3Targets[n-1],3,n,'B2-3-'+n,2));
+[1,2,3,4,5].forEach(n=>publishScene(E.part2Scenes?.['3']?.[String(n)]||[],part2Act3Targets[n-1],3,n,'B2-3-'+n,2));
 function listSaved(){const data=readSaved();$('#saved-count').textContent=data.length;const list=$('#dictionary-list');list.replaceChildren();if(!data.length){const p=document.createElement('p');p.className='storage-note';p.textContent='Todavía no guardaste palabras.';list.append(p);return;}
 data.sort((a,b)=>a.form.localeCompare(b.form,'en')).forEach(d=>{const div=document.createElement('div');div.className='dict-record';const strong=document.createElement('strong');strong.textContent=d.form;const small=document.createElement('small');small.textContent=d.lemma+' · '+d.gloss;const del=document.createElement('button');del.type='button';del.textContent='Eliminar';del.addEventListener('click',()=>{writeSaved(readSaved().filter(x=>!(x.form===d.form&&x.lemma===d.lemma)));listSaved();refreshSave();});div.append(strong,small,del);list.append(div);});}
 $('#save-word').addEventListener('click',()=>{if(!current)return;const data=readSaved();if(!data.some(x=>x.form===current.form&&x.lemma===current.lemma))data.push(current);if(writeSaved(data)){refreshSave();listSaved();}else $('#dictionary-feedback').textContent='No se pudo guardar en este navegador.';});

@@ -84,3 +84,10 @@
 - Sin notas filológicas ni fichas nuevas. Acotaciones bilingües fuera de la numeración, en particular la música, muerte de Zenócrate, coronación y herida autoinfligida de Tamerlán.
 - **3328 unidades de línea** entre ambas partes: 2315 de la primera y 1013 de la segunda. Base de la continuación: Dyce / PG 1589, con colación textual posterior pendiente.
 - Próximo renglón: **Parte II, III.2.150**.
+
+## Duodécima pasada de traducción (17-11-2026)
+- **300 renglones nuevos**: Parte II III.2.150–157 (8), III.3.1–63 (63), III.4.1–91 (91), III.5.1–138 (138).
+- Acto III escenas 1–4 completas; escena 5 en curso. Episodios: asedio de Balsera, el destino trágico de Olimpia y su familia, y el encuentro de Tamerlán con Calapino.
+- Total: **3628 renglones** del texto fuente (2315 Parte I y 1313 Parte II), incluido el prólogo de ocho renglones. Se preservan las acotaciones bilingües fuera del cómputo.
+- Sin nuevo aparato de notas, ni fichas. Base Dyce/PG 1589 y futura colación filológica pendientes.
+- Próximo: **Parte II, III.5.139**.

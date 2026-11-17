@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act III, scene 2, line 149. English Dyce / Project Gutenberg 1589 for Part II; stage directions excluded from line counts, prose segmentation pending philological review. */
+/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act III, scene 5, line 138. English Dyce / Project Gutenberg 1589 for Part II; source-line numbering, textual collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -1564,8 +1564,8 @@ window.TAMBURLAINE_EDITION = {
   "next": {
     "part": 2,
     "act": 3,
-    "scene": 2,
-    "line": 150
+    "scene": 5,
+    "line": 139
   },
   "scene2": [
     {
@@ -24136,6 +24136,2112 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "With that accursed traitor Almeda,",
           "es": "junto con ese traidor maldito de Almeda,"
+        },
+        {
+          "id": "P2-III2-150",
+          "number": 150,
+          "speaker": "",
+          "en": "Till fire and sword have found them at a bay.",
+          "es": "hasta que el fuego y la espada los acorralen."
+        },
+        {
+          "id": "P2-III2-151",
+          "number": 151,
+          "speaker": "USUMCASANE",
+          "en": "I long to pierce his bowels with my sword,",
+          "es": "Ansío atravesarle las entrañas con mi espada"
+        },
+        {
+          "id": "P2-III2-152",
+          "number": 152,
+          "speaker": "",
+          "en": "That hath betray'd my gracious sovereign,—",
+          "es": "al que traicionó a mi noble soberano,"
+        },
+        {
+          "id": "P2-III2-153",
+          "number": 153,
+          "speaker": "",
+          "en": "That curs'd and damned traitor Almeda.",
+          "es": "ese traidor maldito y condenado, Almeda."
+        },
+        {
+          "id": "P2-III2-154",
+          "number": 154,
+          "speaker": "TAMBURLAINE",
+          "en": "Then let us see if coward Callapine",
+          "es": "Veamos, pues, si el cobarde Calapino"
+        },
+        {
+          "id": "P2-III2-155",
+          "number": 155,
+          "speaker": "",
+          "en": "Dare levy arms against our puissance,",
+          "es": "se atreve a levantar armas contra nuestro poder,"
+        },
+        {
+          "id": "P2-III2-156",
+          "number": 156,
+          "speaker": "",
+          "en": "That we may tread upon his captive neck,",
+          "es": "para que podamos pisarle el cuello cuando esté cautivo"
+        },
+        {
+          "id": "P2-III2-157",
+          "number": 157,
+          "speaker": "",
+          "en": "And treble all his father's slaveries.",
+          "es": "y triplicar todas las servidumbres de su padre."
+        }
+      ],
+      "3": [
+        {
+          "id": "P2-III3-1",
+          "number": 1,
+          "speaker": "THERIDAMAS",
+          "en": "Thus have we march'd northward from Tamburlaine,",
+          "es": "Así hemos marchado al norte desde donde está Tamerlán,"
+        },
+        {
+          "id": "P2-III3-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Unto the frontier point of Soria;",
+          "es": "hasta el extremo fronterizo de Siria."
+        },
+        {
+          "id": "P2-III3-3",
+          "number": 3,
+          "speaker": "",
+          "en": "And this is Balsera, their chiefest hold,",
+          "es": "Esta es Balsera, su principal fortaleza,"
+        },
+        {
+          "id": "P2-III3-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Wherein is all the treasure of the land.",
+          "es": "donde se guarda toda la riqueza del país."
+        },
+        {
+          "id": "P2-III3-5",
+          "number": 5,
+          "speaker": "TECHELLES",
+          "en": "Then let us bring our light artillery,",
+          "es": "Acerquemos nuestra artillería ligera,"
+        },
+        {
+          "id": "P2-III3-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Minions, falc'nets, and sakers, to the trench,",
+          "es": "culebrinas pequeñas, falconetes y sacres, a las trincheras,"
+        },
+        {
+          "id": "P2-III3-7",
+          "number": 7,
+          "speaker": "",
+          "en": "Filling the ditches with the walls' wide breach,",
+          "es": "llenemos los fosos con la gran brecha de las murallas"
+        },
+        {
+          "id": "P2-III3-8",
+          "number": 8,
+          "speaker": "",
+          "en": "And enter in to seize upon the hold.—",
+          "es": "y entremos para apoderarnos de la fortaleza."
+        },
+        {
+          "id": "P2-III3-9",
+          "number": 9,
+          "speaker": "",
+          "en": "How say you, soldiers, shall we not?",
+          "es": "¿Qué decís, soldados? ¿No lo haremos?"
+        },
+        {
+          "id": "P2-III3-10",
+          "number": 10,
+          "speaker": "SOLDIERS",
+          "en": "Yes, my lord, yes; come, let's about it.",
+          "es": "¡Sí, señor, sí! Vamos a hacerlo."
+        },
+        {
+          "id": "P2-III3-11",
+          "number": 11,
+          "speaker": "THERIDAMAS",
+          "en": "But stay a while; summon a parle, drum.",
+          "es": "Esperad un poco. Tambor, tocad a parlamento."
+        },
+        {
+          "id": "P2-III3-12",
+          "number": 12,
+          "speaker": "",
+          "en": "It may be they will yield it quietly,",
+          "es": "Quizá se rindan sin resistencia,"
+        },
+        {
+          "id": "P2-III3-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Knowing two kings, the friends to Tamburlaine,",
+          "es": "al saber que dos reyes amigos de Tamerlán"
+        },
+        {
+          "id": "P2-III3-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Stand at the walls with such a mighty power.",
+          "es": "están ante sus murallas con un ejército tan poderoso."
+        },
+        {
+          "id": "P2-III3-15",
+          "number": 15,
+          "speaker": "CAPTAIN",
+          "en": "What require you, my masters?",
+          "es": "¿Qué deseáis, señores?"
+        },
+        {
+          "id": "P2-III3-16",
+          "number": 16,
+          "speaker": "THERIDAMAS",
+          "en": "Captain, that thou yield up thy hold to us.",
+          "es": "Capitán, que nos entregues la fortaleza."
+        },
+        {
+          "id": "P2-III3-17",
+          "number": 17,
+          "speaker": "CAPTAIN",
+          "en": "To you! why, do you think me weary of it?",
+          "es": "¿A vosotros? ¿Acaso creéis que estoy cansado de ella?"
+        },
+        {
+          "id": "P2-III3-18",
+          "number": 18,
+          "speaker": "TECHELLES",
+          "en": "Nay, captain, thou art weary of thy life,",
+          "es": "No, capitán: estás cansado de vivir"
+        },
+        {
+          "id": "P2-III3-19",
+          "number": 19,
+          "speaker": "",
+          "en": "If thou withstand the friends of Tamburlaine.",
+          "es": "si te enfrentas a los amigos de Tamerlán."
+        },
+        {
+          "id": "P2-III3-20",
+          "number": 20,
+          "speaker": "THERIDAMAS",
+          "en": "These pioners of Argier in Africa,",
+          "es": "Estos zapadores de Argel, en África,"
+        },
+        {
+          "id": "P2-III3-21",
+          "number": 21,
+          "speaker": "",
+          "en": "Even in the cannon's face, shall raise a hill",
+          "es": "aun frente a las bocas de los cañones, levantarán un monte"
+        },
+        {
+          "id": "P2-III3-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Of earth and faggots higher than thy fort,",
+          "es": "de tierra y haces de leña más alto que tu fortaleza;"
+        },
+        {
+          "id": "P2-III3-23",
+          "number": 23,
+          "speaker": "",
+          "en": "And, over thy argins and cover'd ways,",
+          "es": "y por encima de tus taludes y caminos cubiertos"
+        },
+        {
+          "id": "P2-III3-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Shall play upon the bulwarks of thy hold",
+          "es": "descargarán contra sus baluartes"
+        },
+        {
+          "id": "P2-III3-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Volleys of ordnance, till the breach be made",
+          "es": "andanadas de artillería hasta abrir una brecha"
+        },
+        {
+          "id": "P2-III3-26",
+          "number": 26,
+          "speaker": "",
+          "en": "That with his ruin fills up all the trench;",
+          "es": "cuyos escombros llenarán todo el foso."
+        },
+        {
+          "id": "P2-III3-27",
+          "number": 27,
+          "speaker": "",
+          "en": "And, when we enter in, not heaven itself",
+          "es": "Y cuando entremos, ni el propio cielo"
+        },
+        {
+          "id": "P2-III3-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Shall ransom thee, thy wife, and family.",
+          "es": "podrá rescatarte a ti, a tu esposa y a tu familia."
+        },
+        {
+          "id": "P2-III3-29",
+          "number": 29,
+          "speaker": "TECHELLES",
+          "en": "Captain, these Moors shall cut the leaden pipes",
+          "es": "Capitán, estos moros cortarán las tuberías de plomo"
+        },
+        {
+          "id": "P2-III3-30",
+          "number": 30,
+          "speaker": "",
+          "en": "That bring fresh water to thy men and thee,",
+          "es": "que os suministran agua fresca a ti y a tus hombres,"
+        },
+        {
+          "id": "P2-III3-31",
+          "number": 31,
+          "speaker": "",
+          "en": "And lie in trench before thy castle-walls,",
+          "es": "y permanecerán atrincherados ante las murallas del castillo"
+        },
+        {
+          "id": "P2-III3-32",
+          "number": 32,
+          "speaker": "",
+          "en": "That no supply of victual shall come in,",
+          "es": "para que no pueda entrar ningún suministro de víveres"
+        },
+        {
+          "id": "P2-III3-33",
+          "number": 33,
+          "speaker": "",
+          "en": "Nor [any] issue forth but they shall die;",
+          "es": "ni salir nadie sin que muera."
+        },
+        {
+          "id": "P2-III3-34",
+          "number": 34,
+          "speaker": "",
+          "en": "And, therefore, captain, yield it quietly.",
+          "es": "Por eso, capitán, ríndete pacíficamente."
+        },
+        {
+          "id": "P2-III3-35",
+          "number": 35,
+          "speaker": "CAPTAIN",
+          "en": "Were you, that are the friends of Tamburlaine,",
+          "es": "Aunque vosotros, amigos de Tamerlán,"
+        },
+        {
+          "id": "P2-III3-36",
+          "number": 36,
+          "speaker": "",
+          "en": "Brothers of holy Mahomet himself,",
+          "es": "fuerais hermanos del propio santo Mahoma,"
+        },
+        {
+          "id": "P2-III3-37",
+          "number": 37,
+          "speaker": "",
+          "en": "I would not yield it; therefore do your worst:",
+          "es": "no me rendiría. Haced, pues, lo peor que podáis:"
+        },
+        {
+          "id": "P2-III3-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Raise mounts, batter, intrench, and undermine,",
+          "es": "levantad terraplenes, bombardeaos, atrincheraos y cavad minas,"
+        },
+        {
+          "id": "P2-III3-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Cut off the water, all convoys that can,",
+          "es": "levantad terraplenes, bombardeando, atrincheraos y cavad minas,"
+        },
+        {
+          "id": "P2-III3-40",
+          "number": 40,
+          "speaker": "",
+          "en": "Yet I am resolute: and so, farewell.",
+          "es": "yo sigo resuelto. Y ahora, adiós."
+        },
+        {
+          "id": "P2-III3-41",
+          "number": 41,
+          "speaker": "THERIDAMAS",
+          "en": "Pioners, away! and where I stuck the stake,",
+          "es": "¡Zapadores, en marcha! Y donde clavé la estaca,"
+        },
+        {
+          "id": "P2-III3-42",
+          "number": 42,
+          "speaker": "",
+          "en": "Intrench with those dimensions I prescrib'd;",
+          "es": "abrid trincheras con las dimensiones que os indiqué."
+        },
+        {
+          "id": "P2-III3-43",
+          "number": 43,
+          "speaker": "",
+          "en": "Cast up the earth towards the castle-wall,",
+          "es": "Amontonad tierra hacia la muralla del castillo"
+        },
+        {
+          "id": "P2-III3-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Which, till it may defend you, labour low,",
+          "es": "y, hasta que os sirva de protección, trabajad agachados;"
+        },
+        {
+          "id": "P2-III3-45",
+          "number": 45,
+          "speaker": "",
+          "en": "And few or none shall perish by their shot.",
+          "es": "así pocos, o ninguno, morirán por sus disparos."
+        },
+        {
+          "id": "P2-III3-46",
+          "number": 46,
+          "speaker": "PIONERS",
+          "en": "We will, my lord.",
+          "es": "Así lo haremos, señor."
+        },
+        {
+          "id": "P2-III3-47",
+          "number": 47,
+          "speaker": "TECHELLES",
+          "en": "A hundred horse shall scout about the plains,",
+          "es": "Cien jinetes explorarán las llanuras"
+        },
+        {
+          "id": "P2-III3-48",
+          "number": 48,
+          "speaker": "",
+          "en": "To spy what force comes to relieve the hold.",
+          "es": "para descubrir qué fuerzas acuden a socorrer la fortaleza."
+        },
+        {
+          "id": "P2-III3-49",
+          "number": 49,
+          "speaker": "",
+          "en": "Both we, Theridamas, will intrench our men,",
+          "es": "Entretanto, Teridamas, atrincheraremos a nuestros hombres"
+        },
+        {
+          "id": "P2-III3-50",
+          "number": 50,
+          "speaker": "",
+          "en": "And with the Jacob's staff measure the height",
+          "es": "y con la vara de Jacob mediremos la altura"
+        },
+        {
+          "id": "P2-III3-51",
+          "number": 51,
+          "speaker": "",
+          "en": "And distance of the castle from the trench,",
+          "es": "y la distancia del castillo desde la trinchera,"
+        },
+        {
+          "id": "P2-III3-52",
+          "number": 52,
+          "speaker": "",
+          "en": "That we may know if our artillery",
+          "es": "para saber si nuestra artillería"
+        },
+        {
+          "id": "P2-III3-53",
+          "number": 53,
+          "speaker": "",
+          "en": "Will carry full point-blank unto their walls.",
+          "es": "puede disparar en línea recta hasta sus muros."
+        },
+        {
+          "id": "P2-III3-54",
+          "number": 54,
+          "speaker": "THERIDAMAS",
+          "en": "Then see the bringing of our ordnance",
+          "es": "Encargaos entonces de que traigan los cañones"
+        },
+        {
+          "id": "P2-III3-55",
+          "number": 55,
+          "speaker": "",
+          "en": "Along the trench into the battery,",
+          "es": "a lo largo de la trinchera hasta las baterías,"
+        },
+        {
+          "id": "P2-III3-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Where we will have gallions of six foot broad,",
+          "es": "donde instalaremos parapetos de seis pies de ancho"
+        },
+        {
+          "id": "P2-III3-57",
+          "number": 57,
+          "speaker": "",
+          "en": "To save our cannoneers from musket-shot;",
+          "es": "para proteger a nuestros artilleros de los mosquetazos."
+        },
+        {
+          "id": "P2-III3-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Betwixt which shall our ordnance thunder forth,",
+          "es": "Entre ellos rugirán nuestros cañones;"
+        },
+        {
+          "id": "P2-III3-59",
+          "number": 59,
+          "speaker": "",
+          "en": "And with the breach's fall, smoke, fire, and dust,",
+          "es": "y con el derrumbe de la brecha, el humo, el fuego y el polvo,"
+        },
+        {
+          "id": "P2-III3-60",
+          "number": 60,
+          "speaker": "",
+          "en": "The crack, the echo, and the soldiers' cry,",
+          "es": "el estruendo, el eco y los gritos de los soldados,"
+        },
+        {
+          "id": "P2-III3-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Make deaf the air and dim the crystal sky.",
+          "es": "ensordecerán el aire y oscurecerán el cielo cristalino."
+        },
+        {
+          "id": "P2-III3-62",
+          "number": 62,
+          "speaker": "TECHELLES",
+          "en": "Trumpets and drums, alarum presently!",
+          "es": "¡Trompetas y tambores, tocad a rebato de inmediato!"
+        },
+        {
+          "id": "P2-III3-63",
+          "number": 63,
+          "speaker": "",
+          "en": "And, soldiers, play the men; the hold is yours!",
+          "es": "¡Y vosotros, soldados, luchad como hombres: la fortaleza es vuestra!"
+        }
+      ],
+      "4": [
+        {
+          "id": "P2-III4-1",
+          "number": 1,
+          "speaker": "OLYMPIA",
+          "en": "Come, good my lord, and let us haste from hence,",
+          "es": "Ven, querido esposo, apresurémonos a salir de aquí"
+        },
+        {
+          "id": "P2-III4-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Along the cave that leads beyond the foe:",
+          "es": "por la cueva que conduce más allá del enemigo."
+        },
+        {
+          "id": "P2-III4-3",
+          "number": 3,
+          "speaker": "",
+          "en": "No hope is left to save this conquer'd hold.",
+          "es": "Ya no queda esperanza de salvar esta fortaleza conquistada."
+        },
+        {
+          "id": "P2-III4-4",
+          "number": 4,
+          "speaker": "CAPTAIN",
+          "en": "A deadly bullet, gliding through my side,",
+          "es": "Una bala mortal que me ha atravesado el costado"
+        },
+        {
+          "id": "P2-III4-5",
+          "number": 5,
+          "speaker": "",
+          "en": "Lies heavy on my heart; I cannot live:",
+          "es": "oprime mi corazón. No puedo vivir."
+        },
+        {
+          "id": "P2-III4-6",
+          "number": 6,
+          "speaker": "",
+          "en": "I feel my liver pierc'd, and all my veins,",
+          "es": "Siento perforado el hígado, y todas mis venas,"
+        },
+        {
+          "id": "P2-III4-7",
+          "number": 7,
+          "speaker": "",
+          "en": "That there begin and nourish every part,",
+          "es": "que nacen allí y nutren cada parte del cuerpo,"
+        },
+        {
+          "id": "P2-III4-8",
+          "number": 8,
+          "speaker": "",
+          "en": "Mangled and torn, and all my entrails bath'd",
+          "es": "están destrozadas y desgarradas; mis entrañas se bañan"
+        },
+        {
+          "id": "P2-III4-9",
+          "number": 9,
+          "speaker": "",
+          "en": "In blood that straineth from their orifex.",
+          "es": "en sangre que mana por sus aberturas."
+        },
+        {
+          "id": "P2-III4-10",
+          "number": 10,
+          "speaker": "",
+          "en": "Farewell, sweet wife! sweet son, farewell! I die.",
+          "es": "¡Adiós, dulce esposa! ¡Dulce hijo, adiós! Muero."
+        },
+        {
+          "id": "P2-III4-11",
+          "number": 11,
+          "speaker": "OLYMPIA",
+          "en": "Death, whither art thou gone, that both we live?",
+          "es": "Muerte, ¿adónde has ido, que nosotros dos seguimos vivos?"
+        },
+        {
+          "id": "P2-III4-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Come back again, sweet Death, and strike us both!",
+          "es": "¡Vuelve, dulce Muerte, y golpéanos a ambos!"
+        },
+        {
+          "id": "P2-III4-13",
+          "number": 13,
+          "speaker": "",
+          "en": "One minute and our days, and one sepulchre",
+          "es": "¡Que un solo minuto termine nuestros días y una sola tumba"
+        },
+        {
+          "id": "P2-III4-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Contain our bodies! Death, why com'st thou not",
+          "es": "contenga nuestros cuerpos! Muerte, ¿por qué no vienes?"
+        },
+        {
+          "id": "P2-III4-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Well, this must be the messenger for thee:",
+          "es": "Bien, esto habrá de servirte de mensajero."
+        },
+        {
+          "id": "P2-III4-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Now, ugly Death, stretch out thy sable wings,",
+          "es": "Extiende ahora, Muerte horrible, tus alas negras"
+        },
+        {
+          "id": "P2-III4-17",
+          "number": 17,
+          "speaker": "",
+          "en": "And carry both our souls where his remains.—",
+          "es": "y lleva nuestras dos almas adonde permanece la suya."
+        },
+        {
+          "id": "P2-III4-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Tell me, sweet boy, art thou content to die?",
+          "es": "Dime, querido hijo, ¿estás dispuesto a morir?"
+        },
+        {
+          "id": "P2-III4-19",
+          "number": 19,
+          "speaker": "",
+          "en": "These barbarous Scythians, full of cruelty,",
+          "es": "Estos bárbaros escitas, llenos de crueldad,"
+        },
+        {
+          "id": "P2-III4-20",
+          "number": 20,
+          "speaker": "",
+          "en": "And Moors, in whom was never pity found,",
+          "es": "y esos moros, que jamás conocieron la compasión,"
+        },
+        {
+          "id": "P2-III4-21",
+          "number": 21,
+          "speaker": "",
+          "en": "Will hew us piecemeal, put us to the wheel,",
+          "es": "nos despedazarán, nos someterán al tormento de la rueda"
+        },
+        {
+          "id": "P2-III4-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Or else invent some torture worse than that;",
+          "es": "o inventarán una tortura todavía peor."
+        },
+        {
+          "id": "P2-III4-23",
+          "number": 23,
+          "speaker": "",
+          "en": "Therefore die by thy loving mother's hand,",
+          "es": "Muere, pues, por mano de tu amorosa madre,"
+        },
+        {
+          "id": "P2-III4-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Who gently now will lance thy ivory throat,",
+          "es": "que ahora te abrirá suavemente el cuello de marfil"
+        },
+        {
+          "id": "P2-III4-25",
+          "number": 25,
+          "speaker": "",
+          "en": "And quickly rid thee both of pain and life.",
+          "es": "y te librará en un instante del dolor y de la vida."
+        },
+        {
+          "id": "P2-III4-26",
+          "number": 26,
+          "speaker": "SON",
+          "en": "Mother, despatch me, or I'll kill myself;",
+          "es": "Madre, matadme pronto o me mataré yo mismo."
+        },
+        {
+          "id": "P2-III4-27",
+          "number": 27,
+          "speaker": "",
+          "en": "For think you I can live and see him dead?",
+          "es": "¿Acaso creéis que puedo vivir y verlo muerto?"
+        },
+        {
+          "id": "P2-III4-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Give me your knife, good mother, or strike home:",
+          "es": "Dadme vuestro cuchillo, buena madre, o herid sin vacilar."
+        },
+        {
+          "id": "P2-III4-29",
+          "number": 29,
+          "speaker": "",
+          "en": "The Scythians shall not tyrannize on me:",
+          "es": "Los escitas no ejercerán su tiranía sobre mí."
+        },
+        {
+          "id": "P2-III4-30",
+          "number": 30,
+          "speaker": "",
+          "en": "Sweet mother, strike, that I may meet my father.",
+          "es": "¡Dulce madre, heridme, para que pueda reunirme con mi padre!"
+        },
+        {
+          "id": "P2-III4-31",
+          "number": 31,
+          "speaker": "OLYMPIA",
+          "en": "Ah, sacred Mahomet, if this be sin,",
+          "es": "¡Ah, sagrado Mahoma! Si esto es pecado,"
+        },
+        {
+          "id": "P2-III4-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Entreat a pardon of the God of heaven,",
+          "es": "pide perdón al Dios del cielo"
+        },
+        {
+          "id": "P2-III4-33",
+          "number": 33,
+          "speaker": "",
+          "en": "And purge my soul before it come to thee!",
+          "es": "y purifica mi alma antes de que llegue hasta ti."
+        },
+        {
+          "id": "P2-III4-34",
+          "number": 34,
+          "speaker": "THERIDAMAS",
+          "en": "How now, madam! what are you doing?",
+          "es": "¡Pero señora! ¿Qué estáis haciendo?"
+        },
+        {
+          "id": "P2-III4-35",
+          "number": 35,
+          "speaker": "OLYMPIA",
+          "en": "Killing myself, as I have done my son,",
+          "es": "Matarme, como he matado a mi hijo,"
+        },
+        {
+          "id": "P2-III4-36",
+          "number": 36,
+          "speaker": "",
+          "en": "Whose body, with his father's, I have burnt,",
+          "es": "cuyo cuerpo, junto con el de su padre, he quemado"
+        },
+        {
+          "id": "P2-III4-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Lest cruel Scythians should dismember him.",
+          "es": "para que los crueles escitas no lo despedacen."
+        },
+        {
+          "id": "P2-III4-38",
+          "number": 38,
+          "speaker": "TECHELLES",
+          "en": "'Twas bravely done, and like a soldier's wife.",
+          "es": "Fue un acto valeroso, digno de la esposa de un soldado."
+        },
+        {
+          "id": "P2-III4-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Thou shalt with us to Tamburlaine the Great,",
+          "es": "Vendrás con nosotros ante Tamerlán el Grande,"
+        },
+        {
+          "id": "P2-III4-40",
+          "number": 40,
+          "speaker": "",
+          "en": "Who, when he hears how resolute thou wert,",
+          "es": "quien, cuando se entere de tu determinación,"
+        },
+        {
+          "id": "P2-III4-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Will match thee with a viceroy or a king.",
+          "es": "te casará con un virrey o un rey."
+        },
+        {
+          "id": "P2-III4-42",
+          "number": 42,
+          "speaker": "OLYMPIA",
+          "en": "My lord deceas'd was dearer unto me",
+          "es": "Mi difunto esposo era más querido para mí"
+        },
+        {
+          "id": "P2-III4-43",
+          "number": 43,
+          "speaker": "",
+          "en": "Than any viceroy, king, or emperor;",
+          "es": "que cualquier virrey, rey o emperador;"
+        },
+        {
+          "id": "P2-III4-44",
+          "number": 44,
+          "speaker": "",
+          "en": "And for his sake here will I end my days.",
+          "es": "y por él pondré fin aquí a mis días."
+        },
+        {
+          "id": "P2-III4-45",
+          "number": 45,
+          "speaker": "THERIDAMAS",
+          "en": "But, lady, go with us to Tamburlaine,",
+          "es": "Pero, señora, venid con nosotros ante Tamerlán,"
+        },
+        {
+          "id": "P2-III4-46",
+          "number": 46,
+          "speaker": "",
+          "en": "And thou shalt see a man greater than Mahomet,",
+          "es": "y veréis a un hombre mayor que Mahoma,"
+        },
+        {
+          "id": "P2-III4-47",
+          "number": 47,
+          "speaker": "",
+          "en": "In whose high looks is much more majesty,",
+          "es": "en cuya mirada hay mucha más majestad"
+        },
+        {
+          "id": "P2-III4-48",
+          "number": 48,
+          "speaker": "",
+          "en": "Than from the concave superficies",
+          "es": "que desde la bóveda cóncava"
+        },
+        {
+          "id": "P2-III4-49",
+          "number": 49,
+          "speaker": "",
+          "en": "Of Jove's vast palace, the empyreal orb,",
+          "es": "del vasto palacio de Júpiter, la esfera empírea,"
+        },
+        {
+          "id": "P2-III4-50",
+          "number": 50,
+          "speaker": "",
+          "en": "Unto the shining bower where Cynthia sits,",
+          "es": "hasta el pabellón resplandeciente donde se sienta Cynthia,"
+        },
+        {
+          "id": "P2-III4-51",
+          "number": 51,
+          "speaker": "",
+          "en": "Like lovely Thetis, in a crystal robe;",
+          "es": "como la hermosa Tetis con un manto de cristal."
+        },
+        {
+          "id": "P2-III4-52",
+          "number": 52,
+          "speaker": "",
+          "en": "That treadeth Fortune underneath his feet,",
+          "es": "Él pisa la Fortuna bajo sus pies"
+        },
+        {
+          "id": "P2-III4-53",
+          "number": 53,
+          "speaker": "",
+          "en": "And makes the mighty god of arms his slave;",
+          "es": "y convierte al poderoso dios de las armas en su esclavo."
+        },
+        {
+          "id": "P2-III4-54",
+          "number": 54,
+          "speaker": "",
+          "en": "On whom Death and the Fatal Sisters wait",
+          "es": "A su servicio están la Muerte y las hermanas del Destino,"
+        },
+        {
+          "id": "P2-III4-55",
+          "number": 55,
+          "speaker": "",
+          "en": "With naked swords and scarlet liveries;",
+          "es": "con espadas desnudas y libreas escarlatas;"
+        },
+        {
+          "id": "P2-III4-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Before whom, mounted on a lion's back,",
+          "es": "Ramnusia lleva un yelmo lleno de sangre"
+        },
+        {
+          "id": "P2-III4-57",
+          "number": 57,
+          "speaker": "",
+          "en": "Rhamnusia bears a helmet full of blood,",
+          "es": "Ram­nusia lleva un yelmo lleno de sangre"
+        },
+        {
+          "id": "P2-III4-58",
+          "number": 58,
+          "speaker": "",
+          "en": "And strows the way with brains of slaughter'd men;",
+          "es": "y esparce por el camino los sesos de hombres muertos."
+        },
+        {
+          "id": "P2-III4-59",
+          "number": 59,
+          "speaker": "",
+          "en": "By whose proud side the ugly Furies run,",
+          "es": "A su lado soberbio corren las Furias horrendas,"
+        },
+        {
+          "id": "P2-III4-60",
+          "number": 60,
+          "speaker": "",
+          "en": "Hearkening when he shall bid them plague the world;",
+          "es": "atentas a que les ordene azotar el mundo."
+        },
+        {
+          "id": "P2-III4-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Over whose zenith, cloth'd in windy air,",
+          "es": "Sobre su cenit, vestida con el aire de los vientos"
+        },
+        {
+          "id": "P2-III4-62",
+          "number": 62,
+          "speaker": "",
+          "en": "And eagle's wings join'd to her feather'd breast,",
+          "es": "y con alas de águila unidas a su pecho emplumado,"
+        },
+        {
+          "id": "P2-III4-63",
+          "number": 63,
+          "speaker": "",
+          "en": "Fame hovereth, sounding of her golden trump,",
+          "es": "vuela la Fama haciendo sonar su trompeta dorada,"
+        },
+        {
+          "id": "P2-III4-64",
+          "number": 64,
+          "speaker": "",
+          "en": "That to the adverse poles of that straight line",
+          "es": "para que, hasta los polos opuestos de la recta"
+        },
+        {
+          "id": "P2-III4-65",
+          "number": 65,
+          "speaker": "",
+          "en": "Which measureth the glorious frame of heaven",
+          "es": "que mide la gloriosa bóveda del cielo,"
+        },
+        {
+          "id": "P2-III4-66",
+          "number": 66,
+          "speaker": "",
+          "en": "The name of mighty Tamburlaine is spread;",
+          "es": "se difunda el nombre del poderoso Tamerlán."
+        },
+        {
+          "id": "P2-III4-67",
+          "number": 67,
+          "speaker": "",
+          "en": "And him, fair lady, shall thy eyes behold.",
+          "es": "Y a ese hombre, hermosa señora, lo contemplarán tus ojos."
+        },
+        {
+          "id": "P2-III4-68",
+          "number": 68,
+          "speaker": "",
+          "en": "Come.",
+          "es": "Venid."
+        },
+        {
+          "id": "P2-III4-69",
+          "number": 69,
+          "speaker": "OLYMPIA",
+          "en": "Take pity of a lady's ruthful tears,",
+          "es": "Compadeceos de las lágrimas de una mujer desdichada,"
+        },
+        {
+          "id": "P2-III4-70",
+          "number": 70,
+          "speaker": "",
+          "en": "That humbly craves upon her knees to stay,",
+          "es": "que os suplica humildemente, de rodillas, que la dejéis aquí"
+        },
+        {
+          "id": "P2-III4-71",
+          "number": 71,
+          "speaker": "",
+          "en": "And cast her body in the burning flame",
+          "es": "y le permitáis arrojar su cuerpo a las llamas"
+        },
+        {
+          "id": "P2-III4-72",
+          "number": 72,
+          "speaker": "",
+          "en": "That feeds upon her son's and husband's flesh.",
+          "es": "que devoran la carne de su hijo y de su esposo."
+        },
+        {
+          "id": "P2-III4-73",
+          "number": 73,
+          "speaker": "TECHELLES",
+          "en": "Madam, sooner shall fire consume us both",
+          "es": "Señora, antes nos consumiría el fuego a ambos"
+        },
+        {
+          "id": "P2-III4-74",
+          "number": 74,
+          "speaker": "",
+          "en": "Than scorch a face so beautiful as this,",
+          "es": "que abrasaría un rostro tan hermoso como este,"
+        },
+        {
+          "id": "P2-III4-75",
+          "number": 75,
+          "speaker": "",
+          "en": "In frame of which Nature hath shew'd more skill",
+          "es": "en cuya creación la Naturaleza mostró más destreza"
+        },
+        {
+          "id": "P2-III4-76",
+          "number": 76,
+          "speaker": "",
+          "en": "Than when she gave eternal chaos form,",
+          "es": "que cuando dio forma al caos eterno"
+        },
+        {
+          "id": "P2-III4-77",
+          "number": 77,
+          "speaker": "",
+          "en": "Drawing from it the shining lamps of heaven.",
+          "es": "y extrajo de él las luminarias del cielo."
+        },
+        {
+          "id": "P2-III4-78",
+          "number": 78,
+          "speaker": "THERIDAMAS",
+          "en": "Madam, I am so far in love with you,",
+          "es": "Señora, estoy tan enamorado de vos"
+        },
+        {
+          "id": "P2-III4-79",
+          "number": 79,
+          "speaker": "",
+          "en": "That you must go with us: no remedy.",
+          "es": "que debéis venir con nosotros. No hay remedio."
+        },
+        {
+          "id": "P2-III4-80",
+          "number": 80,
+          "speaker": "OLYMPIA",
+          "en": "Then carry me, I care not, where you will,",
+          "es": "Entonces llevadme adonde queráis, ya no me importa,"
+        },
+        {
+          "id": "P2-III4-81",
+          "number": 81,
+          "speaker": "",
+          "en": "And let the end of this my fatal journey",
+          "es": "y que el final de este viaje fatal"
+        },
+        {
+          "id": "P2-III4-82",
+          "number": 82,
+          "speaker": "",
+          "en": "Be likewise end to my accursed life.",
+          "es": "sea también el final de mi vida maldita."
+        },
+        {
+          "id": "P2-III4-83",
+          "number": 83,
+          "speaker": "TECHELLES",
+          "en": "No, madam, but the beginning of your joy:",
+          "es": "No, señora, sino el principio de vuestra dicha."
+        },
+        {
+          "id": "P2-III4-84",
+          "number": 84,
+          "speaker": "",
+          "en": "Come willingly therefore.",
+          "es": "Venid, pues, por voluntad propia."
+        },
+        {
+          "id": "P2-III4-85",
+          "number": 85,
+          "speaker": "THERIDAMAS",
+          "en": "Soldiers, now let us meet the general,",
+          "es": "Soldados, reunámonos ahora con nuestro general,"
+        },
+        {
+          "id": "P2-III4-86",
+          "number": 86,
+          "speaker": "",
+          "en": "Who by this time is at Natolia,",
+          "es": "que a estas horas se encuentra en Anatolia,"
+        },
+        {
+          "id": "P2-III4-87",
+          "number": 87,
+          "speaker": "",
+          "en": "Ready to charge the army of the Turk.",
+          "es": "preparado para atacar al ejército turco."
+        },
+        {
+          "id": "P2-III4-88",
+          "number": 88,
+          "speaker": "",
+          "en": "The gold and silver, and the pearl, ye got,",
+          "es": "El oro, la plata y las perlas que obtuvisteis"
+        },
+        {
+          "id": "P2-III4-89",
+          "number": 89,
+          "speaker": "",
+          "en": "Rifling this fort, divide in equal shares:",
+          "es": "al saquear esta fortaleza, repartidlos en partes iguales."
+        },
+        {
+          "id": "P2-III4-90",
+          "number": 90,
+          "speaker": "",
+          "en": "This lady shall have twice so much again",
+          "es": "Esta señora recibirá el doble de esa suma"
+        },
+        {
+          "id": "P2-III4-91",
+          "number": 91,
+          "speaker": "",
+          "en": "Out of the coffers of our treasury.",
+          "es": "de las arcas de nuestro tesoro."
+        }
+      ],
+      "5": [
+        {
+          "id": "P2-III5-1",
+          "number": 1,
+          "speaker": "MESSENGER",
+          "en": "Renowmed emperor, mighty Callapine,",
+          "es": "Renombrado emperador, poderoso Calapino,"
+        },
+        {
+          "id": "P2-III5-2",
+          "number": 2,
+          "speaker": "",
+          "en": "God's great lieutenant over all the world,",
+          "es": "gran lugarteniente de Dios sobre el mundo entero:"
+        },
+        {
+          "id": "P2-III5-3",
+          "number": 3,
+          "speaker": "",
+          "en": "Here at Aleppo, with an host of men,",
+          "es": "aquí, en Alepo, con una multitud de hombres,"
+        },
+        {
+          "id": "P2-III5-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Lies Tamburlaine, this king of Persia,",
+          "es": "se encuentra Tamerlán, ese rey de Persia,"
+        },
+        {
+          "id": "P2-III5-5",
+          "number": 5,
+          "speaker": "",
+          "en": "(In number more than are the quivering leaves",
+          "es": "con un número mayor que las hojas temblorosas"
+        },
+        {
+          "id": "P2-III5-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Of Ida's forest, where your highness' hounds",
+          "es": "del bosque del Ida, donde los sabuesos de vuestra alteza"
+        },
+        {
+          "id": "P2-III5-7",
+          "number": 7,
+          "speaker": "",
+          "en": "With open cry pursue the wounded stag,)",
+          "es": "persiguen con ladridos al ciervo herido."
+        },
+        {
+          "id": "P2-III5-8",
+          "number": 8,
+          "speaker": "",
+          "en": "Who means to girt Natolia's walls with siege,",
+          "es": "Piensa rodear de asedio las murallas de Anatolia,"
+        },
+        {
+          "id": "P2-III5-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Fire the town, and over-run the land.",
+          "es": "incendiar la ciudad y arrasar el territorio."
+        },
+        {
+          "id": "P2-III5-10",
+          "number": 10,
+          "speaker": "CALLAPINE",
+          "en": "My royal army is as great as his,",
+          "es": "Mi ejército real es tan grande como el suyo."
+        },
+        {
+          "id": "P2-III5-11",
+          "number": 11,
+          "speaker": "",
+          "en": "That, from the bounds of Phrygia to the sea",
+          "es": "Desde las fronteras de Frigia hasta el mar"
+        },
+        {
+          "id": "P2-III5-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Which washeth Cyprus with his brinish waves,",
+          "es": "que baña Chipre con sus olas saladas"
+        },
+        {
+          "id": "P2-III5-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Covers the hills, the valleys, and the plains.",
+          "es": "cubre las colinas, los valles y las llanuras."
+        },
+        {
+          "id": "P2-III5-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Viceroys and peers of Turkey, play the men;",
+          "es": "Virreyes y nobles de Turquía, comportaos como valientes;"
+        },
+        {
+          "id": "P2-III5-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Whet all your swords to mangle Tamburlaine,",
+          "es": "afilad vuestras espadas para despedazar a Tamerlán,"
+        },
+        {
+          "id": "P2-III5-16",
+          "number": 16,
+          "speaker": "",
+          "en": "His sons, his captains, and his followers:",
+          "es": "a sus hijos, capitanes y seguidores."
+        },
+        {
+          "id": "P2-III5-17",
+          "number": 17,
+          "speaker": "",
+          "en": "By Mahomet, not one of them shall live!",
+          "es": "¡Por Mahoma, ninguno sobrevivirá!"
+        },
+        {
+          "id": "P2-III5-18",
+          "number": 18,
+          "speaker": "",
+          "en": "The field wherein this battle shall be fought",
+          "es": "El campo donde se libre esta batalla"
+        },
+        {
+          "id": "P2-III5-19",
+          "number": 19,
+          "speaker": "",
+          "en": "For ever term'd the Persians' sepulchre,",
+          "es": "será llamado para siempre «sepulcro de los persas»,"
+        },
+        {
+          "id": "P2-III5-20",
+          "number": 20,
+          "speaker": "",
+          "en": "In memory of this our victory.",
+          "es": "en recuerdo de nuestra victoria."
+        },
+        {
+          "id": "P2-III5-21",
+          "number": 21,
+          "speaker": "ORCANES",
+          "en": "Now he that calls himself the scourge of Jove,",
+          "es": "Aquel que se llama azote de Júpiter,"
+        },
+        {
+          "id": "P2-III5-22",
+          "number": 22,
+          "speaker": "",
+          "en": "The emperor of the world, and earthly god,",
+          "es": "emperador del mundo y dios terrenal,"
+        },
+        {
+          "id": "P2-III5-23",
+          "number": 23,
+          "speaker": "",
+          "en": "Shall end the warlike progress he intends,",
+          "es": "pondrá fin a su avance guerrero"
+        },
+        {
+          "id": "P2-III5-24",
+          "number": 24,
+          "speaker": "",
+          "en": "And travel headlong to the lake of hell,",
+          "es": "y caerá de cabeza en el lago del infierno,"
+        },
+        {
+          "id": "P2-III5-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Where legions of devils (knowing he must die",
+          "es": "donde legiones de demonios, sabiendo que debe morir"
+        },
+        {
+          "id": "P2-III5-26",
+          "number": 26,
+          "speaker": "",
+          "en": "Here in Natolia by your highness' hands),",
+          "es": "aquí en Anatolia a manos de vuestra alteza,"
+        },
+        {
+          "id": "P2-III5-27",
+          "number": 27,
+          "speaker": "",
+          "en": "All brandishing their brands of quenchless fire,",
+          "es": "blanden antorchas de fuego inextinguible,"
+        },
+        {
+          "id": "P2-III5-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Stretching their monstrous paws, grin with their teeth,",
+          "es": "extienden sus garras monstruosas, enseñan los dientes"
+        },
+        {
+          "id": "P2-III5-29",
+          "number": 29,
+          "speaker": "",
+          "en": "And guard the gates to entertain his soul.",
+          "es": "y guardan las puertas para recibir su alma."
+        },
+        {
+          "id": "P2-III5-30",
+          "number": 30,
+          "speaker": "CALLAPINE",
+          "en": "Tell me, viceroys, the number of your men,",
+          "es": "Decidme, virreyes, cuántos hombres tenéis"
+        },
+        {
+          "id": "P2-III5-31",
+          "number": 31,
+          "speaker": "",
+          "en": "And what our army royal is esteem'd.",
+          "es": "y cuál es el número estimado de nuestro ejército real."
+        },
+        {
+          "id": "P2-III5-32",
+          "number": 32,
+          "speaker": "KING OF JERUSALEM",
+          "en": "From Palestina and Jerusalem,",
+          "es": "Desde Palestina y Jerusalén"
+        },
+        {
+          "id": "P2-III5-33",
+          "number": 33,
+          "speaker": "",
+          "en": "Of Hebrews three score thousand fighting men",
+          "es": "han llegado sesenta mil guerreros hebreos"
+        },
+        {
+          "id": "P2-III5-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Are come, since last we shew'd your majesty.",
+          "es": "desde la última revista que hicimos ante vuestra majestad."
+        },
+        {
+          "id": "P2-III5-35",
+          "number": 35,
+          "speaker": "ORCANES",
+          "en": "So from Arabia Desert, and the bounds",
+          "es": "También del desierto de Arabia y de las fronteras"
+        },
+        {
+          "id": "P2-III5-36",
+          "number": 36,
+          "speaker": "",
+          "en": "Of that sweet land whose brave metropolis",
+          "es": "de aquella hermosa tierra cuya espléndida capital"
+        },
+        {
+          "id": "P2-III5-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Re-edified the fair Semiramis,",
+          "es": "reedificó la bella Semíramis,"
+        },
+        {
+          "id": "P2-III5-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Came forty thousand warlike foot and horse,",
+          "es": "vinieron cuarenta mil infantes y jinetes guerreros,"
+        },
+        {
+          "id": "P2-III5-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Since last we number'd to your majesty.",
+          "es": "desde la última vez que los contamos ante vuestra majestad."
+        },
+        {
+          "id": "P2-III5-40",
+          "number": 40,
+          "speaker": "KING OF TREBIZON",
+          "en": "From Trebizon in Asia the Less,",
+          "es": "Desde Trebisonda, en Asia Menor,"
+        },
+        {
+          "id": "P2-III5-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Naturaliz'd Turks and stout Bithynians",
+          "es": "turcos naturalizados y robustos bitinios"
+        },
+        {
+          "id": "P2-III5-42",
+          "number": 42,
+          "speaker": "",
+          "en": "Came to my bands, full fifty thousand more,",
+          "es": "se incorporaron a mis filas: otros cincuenta mil hombres,"
+        },
+        {
+          "id": "P2-III5-43",
+          "number": 43,
+          "speaker": "",
+          "en": "(That, fighting, know not what retreat doth mean,",
+          "es": "que en combate ignoran qué significa retirarse"
+        },
+        {
+          "id": "P2-III5-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Nor e'er return but with the victory,)",
+          "es": "y jamás vuelven sino con la victoria,"
+        },
+        {
+          "id": "P2-III5-45",
+          "number": 45,
+          "speaker": "",
+          "en": "Since last we number'd to your majesty.",
+          "es": "desde nuestra última revista ante vuestra majestad."
+        },
+        {
+          "id": "P2-III5-46",
+          "number": 46,
+          "speaker": "KING OF SORIA",
+          "en": "Of Sorians from Halla is repair'd,",
+          "es": "De Siria, desde Hala y las ciudades vecinas"
+        },
+        {
+          "id": "P2-III5-47",
+          "number": 47,
+          "speaker": "",
+          "en": "And neighbour cities of your highness' land,",
+          "es": "de los dominios de vuestra alteza, han llegado"
+        },
+        {
+          "id": "P2-III5-48",
+          "number": 48,
+          "speaker": "",
+          "en": "Ten thousand horse, and thirty thousand foot,",
+          "es": "diez mil jinetes y treinta mil infantes"
+        },
+        {
+          "id": "P2-III5-49",
+          "number": 49,
+          "speaker": "",
+          "en": "Since last we number'd to your majesty;",
+          "es": "desde la última vez que los contamos ante vuestra majestad."
+        },
+        {
+          "id": "P2-III5-50",
+          "number": 50,
+          "speaker": "",
+          "en": "So that the army royal is esteem'd",
+          "es": "Así, se calcula que nuestro ejército real suma"
+        },
+        {
+          "id": "P2-III5-51",
+          "number": 51,
+          "speaker": "",
+          "en": "Six hundred thousand valiant fighting men.",
+          "es": "seiscientos mil guerreros valerosos."
+        },
+        {
+          "id": "P2-III5-52",
+          "number": 52,
+          "speaker": "CALLAPINE",
+          "en": "Then welcome, Tamburlaine, unto thy death!—",
+          "es": "¡Bienvenido, Tamerlán, a tu muerte!"
+        },
+        {
+          "id": "P2-III5-53",
+          "number": 53,
+          "speaker": "",
+          "en": "Come, puissant viceroys, let us to the field",
+          "es": "Vamos, poderosos virreyes, al campo de batalla,"
+        },
+        {
+          "id": "P2-III5-54",
+          "number": 54,
+          "speaker": "",
+          "en": "(The Persians' sepulchre), and sacrifice",
+          "es": "el sepulcro de los persas, a sacrificar"
+        },
+        {
+          "id": "P2-III5-55",
+          "number": 55,
+          "speaker": "",
+          "en": "Mountains of breathless men to Mahomet,",
+          "es": "montañas de hombres sin vida a Mahoma,"
+        },
+        {
+          "id": "P2-III5-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Who now, with Jove, opens the firmament",
+          "es": "que ahora, junto a Júpiter, abre el firmamento"
+        },
+        {
+          "id": "P2-III5-57",
+          "number": 57,
+          "speaker": "",
+          "en": "To see the slaughter of our enemies.",
+          "es": "para contemplar la matanza de nuestros enemigos."
+        },
+        {
+          "id": "P2-III5-58",
+          "number": 58,
+          "speaker": "TAMBURLAINE",
+          "en": "How now, Casane! see, a knot of kings,",
+          "es": "¡Vaya, Casane! ¡Mira ese corrillo de reyes"
+        },
+        {
+          "id": "P2-III5-59",
+          "number": 59,
+          "speaker": "",
+          "en": "Sitting as if they were a-telling riddles!",
+          "es": "sentados como si estuvieran contándose adivinanzas!"
+        },
+        {
+          "id": "P2-III5-60",
+          "number": 60,
+          "speaker": "USUMCASANE",
+          "en": "My lord, your presence makes them pale and wan:",
+          "es": "Señor, vuestra presencia los ha dejado pálidos."
+        },
+        {
+          "id": "P2-III5-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Poor souls, they look as if their deaths were near.",
+          "es": "Pobres almas, parecen tener cerca la muerte."
+        },
+        {
+          "id": "P2-III5-62",
+          "number": 62,
+          "speaker": "TAMBURLAINE",
+          "en": "Why, so he is, Casane; I am here:",
+          "es": "Y así es, Casane: aquí estoy yo."
+        },
+        {
+          "id": "P2-III5-63",
+          "number": 63,
+          "speaker": "",
+          "en": "But yet I'll save their lives, and make them slaves.—",
+          "es": "Pero aun así les perdonaré la vida y los haré esclavos."
+        },
+        {
+          "id": "P2-III5-64",
+          "number": 64,
+          "speaker": "",
+          "en": "Ye petty kings of Turkey, I am come,",
+          "es": "Reyezuelos de Turquía, he llegado,"
+        },
+        {
+          "id": "P2-III5-65",
+          "number": 65,
+          "speaker": "",
+          "en": "As Hector did into the Grecian camp,",
+          "es": "como Héctor al campamento griego,"
+        },
+        {
+          "id": "P2-III5-66",
+          "number": 66,
+          "speaker": "",
+          "en": "To overdare the pride of Graecia,",
+          "es": "para desafiar la soberbia de Grecia"
+        },
+        {
+          "id": "P2-III5-67",
+          "number": 67,
+          "speaker": "",
+          "en": "And set his warlike person to the view",
+          "es": "y exhibir su persona guerrera ante"
+        },
+        {
+          "id": "P2-III5-68",
+          "number": 68,
+          "speaker": "",
+          "en": "Of fierce Achilles, rival of his fame:",
+          "es": "el feroz Aquiles, rival de su gloria."
+        },
+        {
+          "id": "P2-III5-69",
+          "number": 69,
+          "speaker": "",
+          "en": "I do you honour in the simile;",
+          "es": "Os honro con esta comparación;"
+        },
+        {
+          "id": "P2-III5-70",
+          "number": 70,
+          "speaker": "",
+          "en": "For, if I should, as Hector did Achilles,",
+          "es": "pues si yo, como Héctor hizo con Aquiles,"
+        },
+        {
+          "id": "P2-III5-71",
+          "number": 71,
+          "speaker": "",
+          "en": "(The worthiest knight that ever brandish'd sword,)",
+          "es": "el caballero más digno que jamás blandió espada,"
+        },
+        {
+          "id": "P2-III5-72",
+          "number": 72,
+          "speaker": "",
+          "en": "Challenge in combat any of you all,",
+          "es": "desafiara a cualquiera de vosotros en combate singular,"
+        },
+        {
+          "id": "P2-III5-73",
+          "number": 73,
+          "speaker": "",
+          "en": "I see how fearfully ye would refuse,",
+          "es": "ya veo con qué miedo rehusaríais"
+        },
+        {
+          "id": "P2-III5-74",
+          "number": 74,
+          "speaker": "",
+          "en": "And fly my glove as from a scorpion.",
+          "es": "y huiríais de mi guante como de un escorpión."
+        },
+        {
+          "id": "P2-III5-75",
+          "number": 75,
+          "speaker": "ORCANES",
+          "en": "Now, thou art fearful of thy army's strength,",
+          "es": "Ahora, por temor a la fuerza de nuestro ejército,"
+        },
+        {
+          "id": "P2-III5-76",
+          "number": 76,
+          "speaker": "",
+          "en": "Thou wouldst with overmatch of person fight:",
+          "es": "quieres luchar contra nosotros con tu superioridad personal."
+        },
+        {
+          "id": "P2-III5-77",
+          "number": 77,
+          "speaker": "",
+          "en": "But, shepherd's issue, base-born Tamburlaine,",
+          "es": "Pero tú, hijo de pastor, Tamerlán de baja cuna,"
+        },
+        {
+          "id": "P2-III5-78",
+          "number": 78,
+          "speaker": "",
+          "en": "Think of thy end; this sword shall lance thy throat.",
+          "es": "piensa en tu final: esta espada te abrirá la garganta."
+        },
+        {
+          "id": "P2-III5-79",
+          "number": 79,
+          "speaker": "TAMBURLAINE",
+          "en": "Villain, the shepherd's issue (at whose birth",
+          "es": "¡Miserable! Ese hijo de pastor, en cuyo nacimiento"
+        },
+        {
+          "id": "P2-III5-80",
+          "number": 80,
+          "speaker": "",
+          "en": "Heaven did afford a gracious aspect,",
+          "es": "el cielo mostró un aspecto propicio"
+        },
+        {
+          "id": "P2-III5-81",
+          "number": 81,
+          "speaker": "",
+          "en": "And join'd those stars that shall be opposite",
+          "es": "y reunió estrellas que habrían de oponerse"
+        },
+        {
+          "id": "P2-III5-82",
+          "number": 82,
+          "speaker": "",
+          "en": "Even till the dissolution of the world,",
+          "es": "hasta la disolución del mundo,"
+        },
+        {
+          "id": "P2-III5-83",
+          "number": 83,
+          "speaker": "",
+          "en": "And never meant to make a conqueror",
+          "es": "y que jamás habían destinado a crear un conquistador"
+        },
+        {
+          "id": "P2-III5-84",
+          "number": 84,
+          "speaker": "",
+          "en": "So famous as is mighty Tamburlaine)",
+          "es": "tan célebre como el poderoso Tamerlán,"
+        },
+        {
+          "id": "P2-III5-85",
+          "number": 85,
+          "speaker": "",
+          "en": "Shall so torment thee, and that Callapine,",
+          "es": "te atormentará tanto a ti como a ese Calapino"
+        },
+        {
+          "id": "P2-III5-86",
+          "number": 86,
+          "speaker": "",
+          "en": "That, like a roguish runaway, suborn'd",
+          "es": "que, cual fugitivo sin honor, sobornó"
+        },
+        {
+          "id": "P2-III5-87",
+          "number": 87,
+          "speaker": "",
+          "en": "That villain there, that slave, that Turkish dog,",
+          "es": "a ese miserable de ahí, a ese esclavo, ese perro turco,"
+        },
+        {
+          "id": "P2-III5-88",
+          "number": 88,
+          "speaker": "",
+          "en": "To false his service to his sovereign,",
+          "es": "para que faltara a su deber para con su soberano,"
+        },
+        {
+          "id": "P2-III5-89",
+          "number": 89,
+          "speaker": "",
+          "en": "As ye shall curse the birth of Tamburlaine.",
+          "es": "hasta que maldigáis el nacimiento de Tamerlán."
+        },
+        {
+          "id": "P2-III5-90",
+          "number": 90,
+          "speaker": "CALLAPINE",
+          "en": "Rail not, proud Scythian: I shall now revenge",
+          "es": "No insultes, escita soberbio: ahora vengaré"
+        },
+        {
+          "id": "P2-III5-91",
+          "number": 91,
+          "speaker": "",
+          "en": "My father's vile abuses and mine own.",
+          "es": "los infames agravios hechos a mi padre y a mí."
+        },
+        {
+          "id": "P2-III5-92",
+          "number": 92,
+          "speaker": "KING OF JERUSALEM",
+          "en": "By Mahomet, he shall be tied in chains,",
+          "es": "Por Mahoma, lo encadenaremos"
+        },
+        {
+          "id": "P2-III5-93",
+          "number": 93,
+          "speaker": "",
+          "en": "Rowing with Christians in a brigandine",
+          "es": "y remará junto a cristianos en una embarcación de guerra"
+        },
+        {
+          "id": "P2-III5-94",
+          "number": 94,
+          "speaker": "",
+          "en": "About the Grecian isles to rob and spoil,",
+          "es": "por las islas griegas, robando y saqueando,"
+        },
+        {
+          "id": "P2-III5-95",
+          "number": 95,
+          "speaker": "",
+          "en": "And turn him to his ancient trade again:",
+          "es": "para devolverlo a su antiguo oficio."
+        },
+        {
+          "id": "P2-III5-96",
+          "number": 96,
+          "speaker": "",
+          "en": "Methinks the slave should make a lusty thief.",
+          "es": "Me parece que ese esclavo sería un ladrón vigoroso."
+        },
+        {
+          "id": "P2-III5-97",
+          "number": 97,
+          "speaker": "CALLAPINE",
+          "en": "Nay, when the battle ends, all we will meet,",
+          "es": "Y cuando termine la batalla, nos reuniremos todos"
+        },
+        {
+          "id": "P2-III5-98",
+          "number": 98,
+          "speaker": "",
+          "en": "And sit in council to invent some pain",
+          "es": "y deliberaremos para inventar un suplicio"
+        },
+        {
+          "id": "P2-III5-99",
+          "number": 99,
+          "speaker": "",
+          "en": "That most may vex his body and his soul.",
+          "es": "que atormente su cuerpo y su alma cuanto sea posible."
+        },
+        {
+          "id": "P2-III5-100",
+          "number": 100,
+          "speaker": "TAMBURLAINE",
+          "en": "Sirrah Callapine, I'll hang a clog about",
+          "es": "Escucha, Calapino: te pondré un peso al cuello"
+        },
+        {
+          "id": "P2-III5-101",
+          "number": 101,
+          "speaker": "",
+          "en": "your neck for running away again: you shall not",
+          "es": "para que no vuelvas a escaparte."
+        },
+        {
+          "id": "P2-III5-102",
+          "number": 102,
+          "speaker": "",
+          "en": "trouble me thus to come and fetch you.—",
+          "es": "Así no tendré que venir de nuevo a buscarte."
+        },
+        {
+          "id": "P2-III5-103",
+          "number": 103,
+          "speaker": "",
+          "en": "But as for you, viceroy[s], you shall have bits,",
+          "es": "Y en cuanto a vosotros, virreyes, os pondré frenos"
+        },
+        {
+          "id": "P2-III5-104",
+          "number": 104,
+          "speaker": "",
+          "en": "And, harness'd like my horses, draw my coach;",
+          "es": "y, enjaezados como mis caballos, tiraréis de mi carro."
+        },
+        {
+          "id": "P2-III5-105",
+          "number": 105,
+          "speaker": "",
+          "en": "And, when ye stay, be lash'd with whips of wire:",
+          "es": "Cuando os detengáis, os azotarán con látigos de alambre."
+        },
+        {
+          "id": "P2-III5-106",
+          "number": 106,
+          "speaker": "",
+          "en": "I'll have you learn to feed on provender,",
+          "es": "Aprenderéis a comer forraje"
+        },
+        {
+          "id": "P2-III5-107",
+          "number": 107,
+          "speaker": "",
+          "en": "And in a stable lie upon the planks.",
+          "es": "y a dormir sobre tablas en un establo."
+        },
+        {
+          "id": "P2-III5-108",
+          "number": 108,
+          "speaker": "ORCANES",
+          "en": "But, Tamburlaine, first thou shalt kneel to us,",
+          "es": "Pero antes, Tamerlán, te arrodillarás ante nosotros"
+        },
+        {
+          "id": "P2-III5-109",
+          "number": 109,
+          "speaker": "",
+          "en": "And humbly crave a pardon for thy life.",
+          "es": "y suplicarás humildemente que te perdonemos la vida."
+        },
+        {
+          "id": "P2-III5-110",
+          "number": 110,
+          "speaker": "KING OF TREBIZON",
+          "en": "The common soldiers of our mighty host",
+          "es": "Los soldados rasos de nuestro poderoso ejército"
+        },
+        {
+          "id": "P2-III5-111",
+          "number": 111,
+          "speaker": "",
+          "en": "Shall bring thee bound unto the general's tent [.]",
+          "es": "te llevarán atado a la tienda del general."
+        },
+        {
+          "id": "P2-III5-112",
+          "number": 112,
+          "speaker": "KING OF SORIA",
+          "en": "And all have jointly sworn thy cruel death,",
+          "es": "Y todos han jurado darte una muerte cruel"
+        },
+        {
+          "id": "P2-III5-113",
+          "number": 113,
+          "speaker": "",
+          "en": "Or bind thee in eternal torments' wrath.",
+          "es": "o encadenarte a tormentos eternos."
+        },
+        {
+          "id": "P2-III5-114",
+          "number": 114,
+          "speaker": "TAMBURLAINE",
+          "en": "Well, sirs, diet yourselves; you know I",
+          "es": "Bien, señores, alimentaos bien; ya sabéis"
+        },
+        {
+          "id": "P2-III5-115",
+          "number": 115,
+          "speaker": "",
+          "en": "shall have occasion shortly to journey you.",
+          "es": "que pronto tendré que haceros emprender un viaje."
+        },
+        {
+          "id": "P2-III5-116",
+          "number": 116,
+          "speaker": "CELEBINUS",
+          "en": "See, father, how Almeda the jailor looks upon us!",
+          "es": "¡Mirad, padre, cómo nos observa Almeda, el carcelero!"
+        },
+        {
+          "id": "P2-III5-117",
+          "number": 117,
+          "speaker": "TAMBURLAINE",
+          "en": "Villain, traitor, damned fugitive,",
+          "es": "¡Miserable, traidor, fugitivo maldito!"
+        },
+        {
+          "id": "P2-III5-118",
+          "number": 118,
+          "speaker": "",
+          "en": "I'll make thee wish the earth had swallow'd thee!",
+          "es": "¡Haré que desees que la tierra te hubiera tragado!"
+        },
+        {
+          "id": "P2-III5-119",
+          "number": 119,
+          "speaker": "",
+          "en": "See'st thou not death within my wrathful looks?",
+          "es": "¿No ves la muerte en mi mirada furiosa?"
+        },
+        {
+          "id": "P2-III5-120",
+          "number": 120,
+          "speaker": "",
+          "en": "Go, villain, cast thee headlong from a rock,",
+          "es": "Ve, villano, arrójate de cabeza desde un peñasco"
+        },
+        {
+          "id": "P2-III5-121",
+          "number": 121,
+          "speaker": "",
+          "en": "Or rip thy bowels, and rent out thy heart,",
+          "es": "o ábrete las entrañas y arráncate el corazón"
+        },
+        {
+          "id": "P2-III5-122",
+          "number": 122,
+          "speaker": "",
+          "en": "T' appease my wrath; or else I'll torture thee,",
+          "es": "para aplacar mi ira; de otro modo te torturaré,"
+        },
+        {
+          "id": "P2-III5-123",
+          "number": 123,
+          "speaker": "",
+          "en": "Searing thy hateful flesh with burning irons",
+          "es": "quemando tu carne odiosa con hierros candentes"
+        },
+        {
+          "id": "P2-III5-124",
+          "number": 124,
+          "speaker": "",
+          "en": "And drops of scalding lead, while all thy joints",
+          "es": "y gotas de plomo hirviente, mientras todos tus miembros"
+        },
+        {
+          "id": "P2-III5-125",
+          "number": 125,
+          "speaker": "",
+          "en": "Be rack'd and beat asunder with the wheel;",
+          "es": "son estirados y destrozados en la rueda."
+        },
+        {
+          "id": "P2-III5-126",
+          "number": 126,
+          "speaker": "",
+          "en": "For, if thou liv'st, not any element",
+          "es": "Pues si sigues vivo, ningún elemento"
+        },
+        {
+          "id": "P2-III5-127",
+          "number": 127,
+          "speaker": "",
+          "en": "Shall shroud thee from the wrath of Tamburlaine.",
+          "es": "podrá protegerte de la ira de Tamerlán."
+        },
+        {
+          "id": "P2-III5-128",
+          "number": 128,
+          "speaker": "CALLAPINE",
+          "en": "Well, in despite of thee, he shall be king.—",
+          "es": "Pues bien, a pesar de ti, será rey."
+        },
+        {
+          "id": "P2-III5-129",
+          "number": 129,
+          "speaker": "",
+          "en": "Come, Almeda; receive this crown of me:",
+          "es": "Ven, Almeda, recibe de mí esta corona:"
+        },
+        {
+          "id": "P2-III5-130",
+          "number": 130,
+          "speaker": "",
+          "en": "I here invest thee king of Ariadan,",
+          "es": "te invisto rey de Ariadán,"
+        },
+        {
+          "id": "P2-III5-131",
+          "number": 131,
+          "speaker": "",
+          "en": "Bordering on Mare Roso, near to Mecca.",
+          "es": "que limita con el mar Rojo, cerca de La Meca."
+        },
+        {
+          "id": "P2-III5-132",
+          "number": 132,
+          "speaker": "ORCANES",
+          "en": "What! take it, man.",
+          "es": "¡Vamos, hombre! Acéptala."
+        },
+        {
+          "id": "P2-III5-133",
+          "number": 133,
+          "speaker": "ALMEDA",
+          "en": "[to Tamb.] Good my lord, let me take it.",
+          "es": "Buen señor, dejadme aceptarla."
+        },
+        {
+          "id": "P2-III5-134",
+          "number": 134,
+          "speaker": "CALLAPINE",
+          "en": "Dost thou ask him leave? here; take it.",
+          "es": "¿Le pides permiso? Toma, acéptala."
+        },
+        {
+          "id": "P2-III5-135",
+          "number": 135,
+          "speaker": "TAMBURLAINE",
+          "en": "Go to, sirrah! take your crown, and make up",
+          "es": "¡Vamos, muchacho! Toma tu corona y completa"
+        },
+        {
+          "id": "P2-III5-136",
+          "number": 136,
+          "speaker": "",
+          "en": "the half dozen. So, sirrah, now you are a king, you must give",
+          "es": "la media docena. Ahora que eres rey, tendrás"
+        },
+        {
+          "id": "P2-III5-137",
+          "number": 137,
+          "speaker": "",
+          "en": "arms.",
+          "es": "que llevar armas heráldicas."
+        },
+        {
+          "id": "P2-III5-138",
+          "number": 138,
+          "speaker": "ORCANES",
+          "en": "So he shall, and wear thy head in his scutcheon.",
+          "es": "Así será, y llevará tu cabeza en su escudo."
         }
       ]
     }
@@ -24329,6 +26435,104 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 113,
       "en": "Tamburlaine cuts his arm.",
       "es": "Tamerlán se corta el brazo."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 157,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Enter Techelles, Theridamas and their retinue.",
+      "es": "Entran Tequeles, Teridamas y su séquito."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 14,
+      "en": "A parley is sounded. The Captain appears on the walls with Olympia, his wife, and their son.",
+      "es": "Suena una llamada a parlamento. El capitán aparece sobre las murallas con Olimpia, su esposa, y su hijo."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 40,
+      "en": "The Captain, Olympia and their son withdraw from the walls.",
+      "es": "El capitán, Olimpia y su hijo se retiran de las murallas."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 46,
+      "en": "Exeunt pioneers.",
+      "es": "Salen los zapadores."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 63,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 0,
+      "en": "Battle alarms within. Enter the Captain with Olympia and their son.",
+      "es": "Se oyen alarmas de batalla fuera de escena. Entra el capitán con Olimpia y su hijo."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 10,
+      "en": "The Captain dies.",
+      "es": "Muere el capitán."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 15,
+      "en": "Olympia draws a dagger.",
+      "es": "Olimpia desenvaina una daga."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 30,
+      "en": "Olympia stabs her son, who dies.",
+      "es": "Olimpia apuñala a su hijo, que muere."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 33,
+      "en": "Olympia burns the bodies of her husband and son and then attempts to kill herself. Enter Theridamas, Techelles and their retinue.",
+      "es": "Olimpia quema los cadáveres de su esposo y su hijo e intenta luego quitarse la vida. Entran Teridamas, Tequeles y su séquito."
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "afterLine": 91,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 3,
+      "scene": 5,
+      "afterLine": 0,
+      "en": "Enter Callapine, Orcanes, the kings of Jerusalem, Trebizond and Syria, with their retinue, Almeda and a messenger.",
+      "es": "Entran Calapino, Orcanes, los reyes de Jerusalén, Trebisonda y Siria, con su séquito, Almeda y un mensajero."
+    },
+    {
+      "act": 3,
+      "scene": 5,
+      "afterLine": 57,
+      "en": "Enter Tamburlaine and his three sons, Calyphas, Amyras and Celebinus, with Usumcasane and others.",
+      "es": "Entran Tamerlán y sus hijos Calífas, Amiras y Celebino, junto con Usumcasane y otros."
     }
   ]
 };
