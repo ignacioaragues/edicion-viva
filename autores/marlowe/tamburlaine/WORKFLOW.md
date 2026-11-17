@@ -22,3 +22,8 @@
 - Publicados 300 versos nuevos: I.1.21–189 e I.2.1–131. La escena I.1 queda completa.
 - I.1.1–20 y el prólogo conservan texto de Neilson (1911); el resto utiliza provisionalmente la edición Dyce (Project Gutenberg 1094). No afirmar que toda la obra corresponde a una sola edición hasta la colación.
 - No se añadieron notas filológicas ni nuevas fichas léxicas en esta tanda. Las acotaciones se muestran en renglones bilingües sin contarlas como versos.
+
+## Segunda pasada de traducción (17-11-2026)
+- Publicados 300 versos nuevos: I.2.132–259, II.1.1–69, II.2.1–75 y II.3.1–28. Todas las escenas anteriores a II.3 están completas en primera traducción.
+- Se mantuvo la base de Dyce (Project Gutenberg 1094) para la continuación; la colación con Neilson (1911) y 1590 queda para la revisión filológica.
+- No se añadieron notas ni fichas en esta pasada. Próximo verso: **II.3.29**.

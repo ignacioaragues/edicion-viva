@@ -25,13 +25,43 @@
       "scene": 2,
       "publishedLines": [
         1,
-        131
+        259
       ],
-      "nextLine": 132,
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 2,
+      "scene": 1,
+      "publishedLines": [
+        1,
+        69
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "publishedLines": [
+        1,
+        75
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "publishedLines": [
+        1,
+        28
+      ],
+      "nextLine": 29,
       "complete": false
     }
   ],
-  "publishedVerseLines": 328,
+  "publishedVerseLines": 628,
   "translation": "original Spanish, preliminary",
   "editorialReview": "Draft-only translation pass; I.1.21–189 and I.2.1–131 follow Dyce (1094), awaiting collation with Neilson (77587) and 1590 print. 1–20 remains Neilson.",
   "updated": "2026-11-17",
@@ -42,11 +72,20 @@
   ],
   "next": {
     "part": 1,
-    "act": 1,
-    "scene": 2,
-    "line": 132
+    "act": 2,
+    "scene": 3,
+    "line": 29
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "I.2.132–259 (128 lines); II.1.1–69 (69 lines); II.2.1–75 (75 lines); II.3.1–28 (28 lines)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce, via Project Gutenberg eBook 1094; pending editorial collation"
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "I.1.21–189 (169 lines); I.2.1–131 (131 lines)",
