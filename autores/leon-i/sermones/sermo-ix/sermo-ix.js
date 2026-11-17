@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–163A; cap. III completo; cap. IV pendiente",
-  "status": "partial",
-  "next": "Caput IV: Ut autem in omnibus, dilectissimi, placeat Domino vestra devotio",
+  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–163C; capita I–IV",
+  "status": "complete_first_pass",
+  "next": "Sermo X",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -3194,6 +3194,50 @@ window.LEO_SERMO_I = {
           "destinados a ser incorporados"
         ]
       }
+    },
+    {
+      "id": "s9-18",
+      "label": "18",
+      "latin": "Ut autem in omnibus, dilectissimi, placeat Domino vestra devotio, etiam ad hanc vos hortamur industriam, ut Manichaeos ubicumque latentes vestris presbyteris publicetis. Magna est enim pietas prodere latebras impiorum, et ipsum in eis, cui serviunt, diabolum debellare.",
+      "spanish": "Para que vuestra devoción agrade al Señor en todo, queridísimos, os exhortamos también a esta diligencia: denunciad ante vuestros presbíteros a los maniqueos que se oculten en cualquier lugar. Pues considera una gran obra de piedad revelar los escondrijos de los impíos y vencer en ellos al mismo diablo, a quien sirven.",
+      "note": [
+        "De la caridad a la denuncia",
+        "Hortamur ... publicetis convierte la exhortación en una orden de denuncia dirigida a los presbíteros; prodere y debellare equiparan retóricamente la delación con el combate espiritual. Es una formulación polémica de León."
+      ],
+      "lexicon": {}
+    },
+    {
+      "id": "s9-19",
+      "label": "19",
+      "latin": "Contra istos enim, dilectissimi, omnem quidem orbem terrarum, et totam ubique Ecclesiam decet fidei arma arripere; sed vestra in hoc opere devotio debet excellere, qui in progenitoribus vestris Evangelium crucis Christi ab ipso beatissimorum apostolorum Petri et Pauli ore didicistis.",
+      "spanish": "Contra ellos, queridísimos, conviene que todo el orbe y la Iglesia entera empuñen las armas de la fe; pero vuestra devoción debe sobresalir en esta tarea, pues en vuestros antepasados aprendisteis el Evangelio de la cruz de Cristo de la propia boca de los bienaventurados apóstoles Pedro y Pablo.",
+      "note": [
+        "Roma y su obligación particular",
+        "Quidem ... sed pasa del deber universal al deber especial de Roma; la memoria de Pedro y Pablo fundamenta la exigencia. El aparato registra scutum por arma y corripere por arripere."
+      ],
+      "lexicon": {}
+    },
+    {
+      "id": "s9-20",
+      "label": "20",
+      "latin": "Non sinantur latere homines, qui legem per Mosen datam, in qua Deus universitatis conditor ostenditur, recipiendam esse non credunt; prophetis, et sancto Spiritui contradicunt, psalmos Davidicos, qui per universalem Ecclesiam cum omni pietate cantantur, damnabili impietate ausi sunt refutare; Christi Domini nativitatem secundum carnem negant; passionem et resurrectionem ejus simulatam dicunt fuisse, non veram; baptismum regenerationis totius gratiae virtute dispoliant.",
+      "spanish": "No se permita que permanezcan ocultos quienes no creen que deba recibirse la ley dada por medio de Moisés, en la que Dios se muestra como creador del universo; contradicen a los profetas y al Espíritu Santo; se han atrevido a rechazar con impiedad condenable los salmos de David que toda la Iglesia canta con devoción; niegan el nacimiento carnal de Cristo Señor; dicen que su pasión y resurrección fueron aparentes y no verdaderas; despojan al bautismo de regeneración de toda la eficacia de su gracia.",
+      "note": [
+        "Acumulación doctrinal",
+        "No credunt, contradicunt, refutare, negant, dicunt, dispoliant encadenan acusaciones. Simulatam ... non veram forma la antítesis cristológica. Son imputaciones de León, no una descripción neutral de los maniqueos."
+      ],
+      "lexicon": {}
+    },
+    {
+      "id": "s9-21",
+      "label": "21",
+      "latin": "Nihil est apud eos sanctum, nihil integrum, nihil verum. Cavendi sunt, ne cuiquam noceant; prodendi sunt, ne in aliqua civitatis nostrae parte consistant. Vobis, dilectissimi, ante tribunal Domini proderit, quod indicimus, quod rogamus. Dignum est enim, ut eleemosynarum sacrificio etiam hujus operis palma jungatur, auxiliante vobis per omnia Domino Jesu Christo, qui vivit et regnat in saecula saeculorum. Amen.",
+      "spanish": "Nada hay entre ellos santo, nada íntegro, nada verdadero. Hay que precaverse de ellos para que no dañen a nadie; hay que denunciarlos para que no se establezcan en ninguna parte de nuestra ciudad. Os aprovechará, queridísimos, ante el tribunal del Señor lo que os ordenamos y lo que os pedimos. Es justo que a la ofrenda de las limosnas se una la palma de esta acción, con el auxilio en todo de nuestro Señor Jesucristo, que vive y reina por los siglos de los siglos. Amén.",
+      "note": [
+        "Mandato y súplica",
+        "La anáfora nihil triplica la condena; los gerundivos cavendi y prodendi formulan obligaciones. Indicimus y rogamus yuxtaponen orden y súplica. El tribunal recupera el juicio inicial. Aparato: in omitido por algunos editores; et hujus y nobis frente a hujus y vobis."
+      ],
+      "lexicon": {}
     }
   ],
   "lexicon": {
@@ -3279,8 +3323,8 @@ window.LEO_SERMO_I = {
     ],
     "Jesu": [
       "Iesus",
-      "genitivo masculino singular",
-      "de Jesús"
+      "ablativo masculino singular",
+      "Jesús"
     ],
     "Christi": [
       "Christus",
@@ -3656,6 +3700,716 @@ window.LEO_SERMO_I = {
       "supplicium",
       "nominativo neutro plural",
       "suplicios"
+    ],
+    "autem": [
+      "autem",
+      "conjunción adversativa",
+      "por otra parte"
+    ],
+    "omnibus": [
+      "omnis",
+      "ablativo neutro plural",
+      "en todo"
+    ],
+    "placeat": [
+      "placeo",
+      "presente subjuntivo 3 singular",
+      "agrade"
+    ],
+    "vestra": [
+      "vester",
+      "nominativo femenino singular",
+      "vuestra"
+    ],
+    "devotio": [
+      "devotio",
+      "nominativo femenino singular",
+      "devoción"
+    ],
+    "etiam": [
+      "etiam",
+      "adverbio",
+      "también"
+    ],
+    "hanc": [
+      "hic",
+      "acusativo femenino singular",
+      "esta"
+    ],
+    "vos": [
+      "vos",
+      "acusativo plural",
+      "os"
+    ],
+    "hortamur": [
+      "hortor",
+      "presente deponente 1 plural",
+      "exhortamos"
+    ],
+    "industriam": [
+      "industria",
+      "acusativo femenino singular",
+      "diligencia"
+    ],
+    "Manichaeos": [
+      "Manichaeus",
+      "acusativo masculino plural",
+      "maniqueos"
+    ],
+    "ubicumque": [
+      "ubicumque",
+      "adverbio relativo",
+      "dondequiera"
+    ],
+    "latentes": [
+      "lateo",
+      "participio presente acusativo plural",
+      "ocultos"
+    ],
+    "vestris": [
+      "vester",
+      "dativo masculino plural",
+      "vuestros"
+    ],
+    "presbyteris": [
+      "presbyter",
+      "dativo masculino plural",
+      "presbíteros"
+    ],
+    "publicetis": [
+      "publico",
+      "presente subjuntivo 2 plural",
+      "denunciéis"
+    ],
+    "Magna": [
+      "magnus",
+      "nominativo femenino singular",
+      "grande"
+    ],
+    "pietas": [
+      "pietas",
+      "nominativo femenino singular",
+      "piedad"
+    ],
+    "prodere": [
+      "prodo",
+      "infinitivo presente",
+      "denunciar"
+    ],
+    "latebras": [
+      "latebra",
+      "acusativo femenino plural",
+      "escondrijos"
+    ],
+    "impiorum": [
+      "impius",
+      "genitivo masculino plural",
+      "de los impíos"
+    ],
+    "ipsum": [
+      "ipse",
+      "acusativo masculino singular",
+      "al mismo"
+    ],
+    "eis": [
+      "is",
+      "ablativo masculino plural",
+      "en ellos"
+    ],
+    "cui": [
+      "qui",
+      "dativo masculino singular",
+      "a quien"
+    ],
+    "serviunt": [
+      "servio",
+      "presente indicativo 3 plural",
+      "sirven"
+    ],
+    "diabolum": [
+      "diabolus",
+      "acusativo masculino singular",
+      "diablo"
+    ],
+    "debellare": [
+      "debello",
+      "infinitivo presente",
+      "vencer"
+    ],
+    "Contra": [
+      "contra",
+      "preposición con acusativo",
+      "contra"
+    ],
+    "istos": [
+      "iste",
+      "acusativo masculino plural",
+      "esos"
+    ],
+    "orbem": [
+      "orbis",
+      "acusativo masculino singular",
+      "orbe"
+    ],
+    "terrarum": [
+      "terra",
+      "genitivo femenino plural",
+      "de las tierras"
+    ],
+    "totam": [
+      "totus",
+      "acusativo femenino singular",
+      "entera"
+    ],
+    "ubique": [
+      "ubique",
+      "adverbio",
+      "en todas partes"
+    ],
+    "Ecclesiam": [
+      "ecclesia",
+      "acusativo femenino singular",
+      "Iglesia"
+    ],
+    "decet": [
+      "decet",
+      "presente indicativo impersonal",
+      "conviene"
+    ],
+    "fidei": [
+      "fides",
+      "genitivo femenino singular",
+      "de la fe"
+    ],
+    "arma": [
+      "arma",
+      "acusativo neutro plural",
+      "armas"
+    ],
+    "arripere": [
+      "arripio",
+      "infinitivo presente",
+      "empuñar"
+    ],
+    "quidem": [
+      "quidem",
+      "partícula concesiva",
+      "ciertamente"
+    ],
+    "sed": [
+      "sed",
+      "conjunción adversativa",
+      "pero"
+    ],
+    "hoc": [
+      "hic",
+      "ablativo neutro singular",
+      "en esta"
+    ],
+    "opere": [
+      "opus",
+      "ablativo neutro singular",
+      "tarea"
+    ],
+    "debet": [
+      "debeo",
+      "presente indicativo 3 singular",
+      "debe"
+    ],
+    "excellere": [
+      "excello",
+      "infinitivo presente",
+      "sobresalir"
+    ],
+    "qui": [
+      "qui",
+      "nominativo masculino plural relativo",
+      "vosotros que"
+    ],
+    "progenitoribus": [
+      "progenitor",
+      "ablativo masculino plural",
+      "antepasados"
+    ],
+    "Evangelium": [
+      "evangelium",
+      "acusativo neutro singular",
+      "Evangelio"
+    ],
+    "crucis": [
+      "crux",
+      "genitivo femenino singular",
+      "de la cruz"
+    ],
+    "ipso": [
+      "ipse",
+      "ablativo masculino singular",
+      "propio"
+    ],
+    "beatissimorum": [
+      "beatus",
+      "genitivo masculino plural superlativo",
+      "bienaventurados"
+    ],
+    "apostolorum": [
+      "apostolus",
+      "genitivo masculino plural",
+      "apóstoles"
+    ],
+    "Petri": [
+      "Petrus",
+      "genitivo masculino singular",
+      "Pedro"
+    ],
+    "Pauli": [
+      "Paulus",
+      "genitivo masculino singular",
+      "Pablo"
+    ],
+    "ore": [
+      "os",
+      "ablativo neutro singular",
+      "boca"
+    ],
+    "didicistis": [
+      "disco",
+      "perfecto indicativo 2 plural",
+      "aprendisteis"
+    ],
+    "Non": [
+      "non",
+      "adverbio negativo",
+      "no"
+    ],
+    "sinantur": [
+      "sino",
+      "presente subjuntivo pasivo 3 plural",
+      "se permita"
+    ],
+    "latere": [
+      "lateo",
+      "infinitivo presente",
+      "permanecer oculto"
+    ],
+    "homines": [
+      "homo",
+      "nominativo masculino plural",
+      "personas"
+    ],
+    "legem": [
+      "lex",
+      "acusativo femenino singular",
+      "ley"
+    ],
+    "Mosen": [
+      "Moses",
+      "acusativo masculino singular",
+      "Moisés"
+    ],
+    "datam": [
+      "do",
+      "participio perfecto pasivo acusativo femenino singular",
+      "dada"
+    ],
+    "qua": [
+      "qui",
+      "ablativo femenino singular relativo",
+      "en la cual"
+    ],
+    "Deus": [
+      "Deus",
+      "nominativo masculino singular",
+      "Dios"
+    ],
+    "universitatis": [
+      "universitas",
+      "genitivo femenino singular",
+      "del universo"
+    ],
+    "conditor": [
+      "conditor",
+      "nominativo masculino singular",
+      "creador"
+    ],
+    "ostenditur": [
+      "ostendo",
+      "presente indicativo pasivo 3 singular",
+      "se muestra"
+    ],
+    "recipiendam": [
+      "recipio",
+      "gerundivo acusativo femenino singular",
+      "que debe recibirse"
+    ],
+    "esse": [
+      "sum",
+      "infinitivo presente",
+      "ser"
+    ],
+    "credunt": [
+      "credo",
+      "presente indicativo 3 plural",
+      "creen"
+    ],
+    "prophetis": [
+      "propheta",
+      "dativo masculino plural",
+      "profetas"
+    ],
+    "sancto": [
+      "sanctus",
+      "dativo masculino singular",
+      "santo"
+    ],
+    "Spiritui": [
+      "spiritus",
+      "dativo masculino singular",
+      "Espíritu"
+    ],
+    "contradicunt": [
+      "contradico",
+      "presente indicativo 3 plural",
+      "contradicen"
+    ],
+    "psalmos": [
+      "psalmus",
+      "acusativo masculino plural",
+      "salmos"
+    ],
+    "Davidicos": [
+      "Davidicus",
+      "acusativo masculino plural",
+      "davídicos"
+    ],
+    "universalem": [
+      "universalis",
+      "acusativo femenino singular",
+      "universal"
+    ],
+    "omni": [
+      "omnis",
+      "ablativo femenino singular",
+      "toda"
+    ],
+    "pietate": [
+      "pietas",
+      "ablativo femenino singular",
+      "devoción"
+    ],
+    "cantantur": [
+      "canto",
+      "presente indicativo pasivo 3 plural",
+      "se cantan"
+    ],
+    "damnabili": [
+      "damnabilis",
+      "ablativo femenino singular",
+      "condenable"
+    ],
+    "impietate": [
+      "impietas",
+      "ablativo femenino singular",
+      "impiedad"
+    ],
+    "ausi": [
+      "audeo",
+      "participio perfecto nominativo masculino plural",
+      "atrevidos"
+    ],
+    "sunt": [
+      "sum",
+      "auxiliar perfecto 3 plural",
+      "han"
+    ],
+    "refutare": [
+      "refuto",
+      "infinitivo presente",
+      "rechazar"
+    ],
+    "nativitatem": [
+      "nativitas",
+      "acusativo femenino singular",
+      "nacimiento"
+    ],
+    "secundum": [
+      "secundum",
+      "preposición con acusativo",
+      "según"
+    ],
+    "carnem": [
+      "caro",
+      "acusativo femenino singular",
+      "carne"
+    ],
+    "negant": [
+      "nego",
+      "presente indicativo 3 plural",
+      "niegan"
+    ],
+    "passionem": [
+      "passio",
+      "acusativo femenino singular",
+      "pasión"
+    ],
+    "resurrectionem": [
+      "resurrectio",
+      "acusativo femenino singular",
+      "resurrección"
+    ],
+    "ejus": [
+      "is",
+      "genitivo masculino singular",
+      "de él"
+    ],
+    "simulatam": [
+      "simulo",
+      "participio perfecto pasivo acusativo femenino singular",
+      "aparente"
+    ],
+    "dicunt": [
+      "dico",
+      "presente indicativo 3 plural",
+      "dicen"
+    ],
+    "fuisse": [
+      "sum",
+      "infinitivo perfecto",
+      "haber sido"
+    ],
+    "veram": [
+      "verus",
+      "acusativo femenino singular",
+      "verdadera"
+    ],
+    "baptismum": [
+      "baptismus",
+      "acusativo masculino singular",
+      "bautismo"
+    ],
+    "regenerationis": [
+      "regeneratio",
+      "genitivo femenino singular",
+      "de regeneración"
+    ],
+    "totius": [
+      "totus",
+      "genitivo femenino singular",
+      "de toda"
+    ],
+    "gratiae": [
+      "gratia",
+      "genitivo femenino singular",
+      "de la gracia"
+    ],
+    "virtute": [
+      "virtus",
+      "ablativo femenino singular",
+      "eficacia"
+    ],
+    "dispoliant": [
+      "despolio",
+      "presente indicativo 3 plural",
+      "despojan"
+    ],
+    "Nihil": [
+      "nihil",
+      "pronombre neutro",
+      "nada"
+    ],
+    "apud": [
+      "apud",
+      "preposición con acusativo",
+      "entre"
+    ],
+    "eos": [
+      "is",
+      "acusativo masculino plural",
+      "ellos"
+    ],
+    "sanctum": [
+      "sanctus",
+      "nominativo neutro singular",
+      "santo"
+    ],
+    "integrum": [
+      "integer",
+      "nominativo neutro singular",
+      "íntegro"
+    ],
+    "verum": [
+      "verus",
+      "nominativo neutro singular",
+      "verdadero"
+    ],
+    "Cavendi": [
+      "caveo",
+      "gerundivo nominativo masculino plural",
+      "deben evitarse"
+    ],
+    "cuiquam": [
+      "quisquam",
+      "dativo singular",
+      "a nadie"
+    ],
+    "noceant": [
+      "noceo",
+      "presente subjuntivo 3 plural",
+      "dañen"
+    ],
+    "prodendi": [
+      "prodo",
+      "gerundivo nominativo masculino plural",
+      "deben denunciarse"
+    ],
+    "aliqua": [
+      "aliquis",
+      "ablativo femenino singular",
+      "alguna"
+    ],
+    "civitatis": [
+      "civitas",
+      "genitivo femenino singular",
+      "de la ciudad"
+    ],
+    "nostrae": [
+      "noster",
+      "genitivo femenino singular",
+      "nuestra"
+    ],
+    "parte": [
+      "pars",
+      "ablativo femenino singular",
+      "parte"
+    ],
+    "consistant": [
+      "consisto",
+      "presente subjuntivo 3 plural",
+      "se establezcan"
+    ],
+    "Vobis": [
+      "vos",
+      "dativo plural",
+      "a vosotros"
+    ],
+    "ante": [
+      "ante",
+      "preposición con acusativo",
+      "ante"
+    ],
+    "tribunal": [
+      "tribunal",
+      "acusativo neutro singular",
+      "tribunal"
+    ],
+    "proderit": [
+      "prosum",
+      "futuro indicativo 3 singular",
+      "aprovechará"
+    ],
+    "quod": [
+      "quod",
+      "relativo acusativo neutro singular",
+      "lo que"
+    ],
+    "indicimus": [
+      "indico",
+      "presente indicativo 1 plural",
+      "ordenamos"
+    ],
+    "rogamus": [
+      "rogo",
+      "presente indicativo 1 plural",
+      "pedimos"
+    ],
+    "Dignum": [
+      "dignus",
+      "nominativo neutro singular",
+      "justo"
+    ],
+    "eleemosynarum": [
+      "eleemosyna",
+      "genitivo femenino plural",
+      "de las limosnas"
+    ],
+    "sacrificio": [
+      "sacrificium",
+      "dativo neutro singular",
+      "a la ofrenda"
+    ],
+    "hujus": [
+      "hic",
+      "genitivo neutro singular",
+      "de esta"
+    ],
+    "operis": [
+      "opus",
+      "genitivo neutro singular",
+      "obra"
+    ],
+    "palma": [
+      "palma",
+      "nominativo femenino singular",
+      "palma"
+    ],
+    "jungatur": [
+      "iungo",
+      "presente subjuntivo pasivo 3 singular",
+      "se una"
+    ],
+    "auxiliante": [
+      "auxilior",
+      "participio presente ablativo masculino singular",
+      "con el auxilio"
+    ],
+    "omnia": [
+      "omnis",
+      "acusativo neutro plural",
+      "todo"
+    ],
+    "Domino": [
+      "dominus",
+      "ablativo masculino singular",
+      "Señor"
+    ],
+    "Christo": [
+      "Christus",
+      "ablativo masculino singular",
+      "Cristo"
+    ],
+    "vivit": [
+      "vivo",
+      "presente indicativo 3 singular",
+      "vive"
+    ],
+    "regnat": [
+      "regno",
+      "presente indicativo 3 singular",
+      "reina"
+    ],
+    "saecula": [
+      "saeculum",
+      "acusativo neutro plural",
+      "siglos"
+    ],
+    "saeculorum": [
+      "saeculum",
+      "genitivo neutro plural",
+      "de los siglos"
+    ],
+    "Amen": [
+      "amen",
+      "aclamación",
+      "amén"
+    ],
+    "est": [
+      "sum",
+      "presente indicativo 3 singular",
+      "es"
+    ],
+    "ab": [
+      "ab",
+      "preposición con ablativo",
+      "de"
     ]
   }
 };
