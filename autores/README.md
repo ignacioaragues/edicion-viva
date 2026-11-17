@@ -26,3 +26,7 @@ No migrar Shakespeare por ahora: su edición continua sigue en `ignacioaragues/s
 Cada nueva obra deberá declarar: autor, título original, título español, idioma, género, estado editorial, URL, procedencia y condiciones de uso de su texto fuente, criterios de traducción y notas. Con el crecimiento del catálogo, las fichas se podrán separar de `collection.js` y generar páginas de autor sin cambiar las URL públicas existentes.
 
 Los enlaces de una obra solo deben activarse cuando la edición esté disponible. Marcos ya tiene un primer pasaje real y conserva `available` exclusivamente por ese motivo; Mateo, Lucas y Juan continúan sin enlace hasta tener contenido verificable.
+
+## Regla de interfaz para nuevas obras
+
+En el menú lateral, presentar las secciones con **número y título**, sin indicadores circulares decorativos al extremo derecho. Para destacar la sección activa, preferir fondo tenue, negrita o borde discreto. Conservar un enlace claro de vuelta a Edición Viva. Los pies de secuencias de lectura deben enlazar anterior y siguiente cuando estén publicados, sin sustituirlos por un enlace a la propia unidad.
