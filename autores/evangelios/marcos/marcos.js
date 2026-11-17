@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,45 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,46 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -244,9 +244,12 @@
     ,{"chapter":6,"n":43,"gr":"καὶ ἦραν κλάσματα δώδεκα κοφίνων πληρώματα καὶ ἀπὸ τῶν ἰχθύων.","es":"Y recogieron los trozos sobrantes: doce canastos llenos, además de restos de los peces.","la":"","notes":["mc643basket","mc643variant"]}
     ,{"chapter":6,"n":44,"gr":"καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους πεντακισχίλιοι ἄνδρες.","es":"Los que habían comido los panes eran cinco mil hombres.","la":"","notes":["mc644men","mc644variant"]}
     ,{"chapter":6,"n":45,"gr":"Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδάν, ἕως αὐτὸς ἀπολύει τὸν ὄχλον.","es":"Y enseguida obligó a sus discípulos a subir a la barca y adelantarse hacia la otra orilla, en dirección a Betsaida, mientras él despedía a la multitud.","la":"Et statim coëgit discipulos suos ascendere navim, ut præcederent eum trans fretum ad Bethsaidam, dum ipse dimitteret populum.","notes":["mc645compel","mc645bethsaida","mc645variant"]}
+    ,{"chapter":6,"n":46,"gr":"καὶ ἀποταξάμενος αὐτοῖς ἀπῆλθεν εἰς τὸ ὄρος προσεύξασθαι.","es":"Después de despedirse de ellos, se fue al monte a orar.","la":"Et cum dimisisset eos, abiit in montem orare.","notes":["mc646farewell","mc646latin"]}
   ];
 
   const notes = {
+    mc646farewell: ["Despedirse, no expulsar", "El participio aoristo medio ἀποταξάμενος (ἀποτάσσομαι) indica aquí que Jesús se despidió de ellos; no exige una despedida hostil. El pronombre αὐτοῖς remite probablemente a la multitud mencionada en 6,45. Cambridge Greek Testament for Schools and Colleges, comentario a Marcos 6,46: https://www.sermonindex.net/commentary/cambridgegreek/MRK/6/; SIL, Translator’s Notes on Mark 6:46 (2008): https://tips.translation.bible/story/sil-translators-notes-on-mark-646/"],
+    mc646latin: ["Griego y latín: matiz de la despedida", "El griego dice ἀποταξάμενος αὐτοῖς («habiéndose despedido de ellos»); la Vulgata Clementina ofrece cum dimisisset eos («después de despedirlos»). No se uniforman ambas formulaciones. El infinitivo προσεύξασθαι expresa finalidad: «para orar». SBLGNT, Marcos 6,46: https://biblia.com/bible/sblgnt/mark/6/46-48; Cambridge Greek Testament, comentario a 6,46: https://www.sermonindex.net/commentary/cambridgegreek/MRK/6/"],
     mc645compel: ["Una orden apremiante", "ἠνάγκασεν (ἀναγκάζω) expresa una exigencia firme; no presupone fuerza física. El motivo de la urgencia no se explicita en Marcos. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,45: https://tips.translation.bible/story/translation-commentary-on-mark-645/"],
     mc645bethsaida: ["La dirección de Betsaida", "La combinación εἰς τὸ πέραν («a la otra orilla») y πρὸς Βηθσαϊδάν («hacia Betsaida») plantea una dificultad geográfica discutida. Las propuestas de itinerario no son hechos establecidos. A. B. Bruce, Expositor’s Greek Testament, comentario a Marcos 6,45: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/6/45"],
     mc645variant: ["Variante textual: la otra orilla", "SBLGNT conserva εἰς τὸ πέραν; algunos testigos, entre ellos P45 y W, omiten la expresión. La variante afecta la indicación del trayecto, no la orden de embarcar. Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Marcos 6,45: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; cotejo: https://freely-given.org/OBD/lst/MRK/C6V45.htm"],
