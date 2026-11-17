@@ -1108,6 +1108,17 @@
       "status": "edited_not_revised",
       "source": "The Latin Library Aulularia IV.10, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Diálogo fragmentado por cambios de interlocutor, con glosas y fichas por token. Cotejo directo con Leo 1895 y QA visual pendientes. La segunda revisión retrospectiva no avanzó."
+    },
+    {
+      "section": "IV.10",
+      "from": 736,
+      "to": 743,
+      "verses": 8,
+      "display_units": 9,
+      "tokens": 80,
+      "status": "edited_not_revised",
+      "source": "The Latin Library IV.10, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Malentendido entre Euclión y Licónides; fichas individuales y glosas. Cotejo directo Leo 1895 pendiente; la revisión retrospectiva 160+ no avanzó. Traducción ajustada a español general."
     }
   ],
   "pending": [
@@ -1117,7 +1128,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.10 desde verso 736; revisión morfológica consecutiva desde 160 y migración de IDs 142–161.",
+  "next": "IV.10 desde verso 744, objetivo 12–15 versos; auditoría morfológica consecutiva desde 160 y compatibilidad de IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
