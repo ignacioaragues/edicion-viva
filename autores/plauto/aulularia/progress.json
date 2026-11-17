@@ -1162,6 +1162,17 @@
       "status": "edited_not_revised",
       "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Cotejado texto latino con The Latin Library; traducción y fichas nuevas. El verso 780 continúa en 781; el suplemento <eum> en 773 y <si> en 776 requieren aparato crítico. Revisión retrospectiva desde 160 y QA visual pendientes."
+    },
+    {
+      "section": "IV.10",
+      "from": 781,
+      "to": 790,
+      "verses": 10,
+      "display_units": 14,
+      "tokens": 86,
+      "status": "edited_not_revised",
+      "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Cotejo textual digital, glosas y traducción; verso 790 continúa en 791. Segunda auditoría desde 160, división de parlamentos mixtos anteriores, revisión crítica Leo 1895 y QA visual pendientes."
     }
   ],
   "pending": [
@@ -1171,7 +1182,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.10 desde verso 781; objetivo 12–15 versos por pasada; retomar revisión morfológica consecutiva desde 160 y migración de IDs 142–161.",
+  "next": "IV.10 desde verso 791; objetivo 12–15 versos por pasada; segunda auditoría desde 160 y corrección de IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
