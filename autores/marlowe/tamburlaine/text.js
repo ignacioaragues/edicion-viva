@@ -31879,6 +31879,342 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "That thus envy the health of Tamburlaine.",
           "es": "que tanto envidian la salud de Tamerlán."
+        },
+        {
+          "id": "P2-V3-54",
+          "number": 54,
+          "speaker": "THERIDAMAS",
+          "en": "Ah, good my lord, leave these impatient words,",
+          "es": "¡Ah, buen señor, abandone esas palabras impacientes,"
+        },
+        {
+          "id": "P2-V3-55",
+          "number": 55,
+          "speaker": "",
+          "en": "Which add much danger to your malady!",
+          "es": "que agravan mucho el peligro de su enfermedad!"
+        },
+        {
+          "id": "P2-V3-56",
+          "number": 56,
+          "speaker": "TAMBURLAINE",
+          "en": "Why, shall I sit and languish in this pain?",
+          "es": "¿Acaso he de quedarme sentado y consumirme de dolor?"
+        },
+        {
+          "id": "P2-V3-57",
+          "number": 57,
+          "speaker": "",
+          "en": "No, strike the drums, and, in revenge of this,",
+          "es": "No: que suenen los tambores y, para vengar esta afrenta,"
+        },
+        {
+          "id": "P2-V3-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Come, let us charge our spears, and pierce his breast",
+          "es": "vayamos a enristrar las lanzas y atravesar el pecho"
+        },
+        {
+          "id": "P2-V3-59",
+          "number": 59,
+          "speaker": "",
+          "en": "Whose shoulders bear the axis of the world,",
+          "es": "de aquel cuyos hombros sostienen el eje del mundo,"
+        },
+        {
+          "id": "P2-V3-60",
+          "number": 60,
+          "speaker": "",
+          "en": "That, if I perish, heaven and earth may fade.",
+          "es": "para que, si yo perezco, el cielo y la tierra desaparezcan."
+        },
+        {
+          "id": "P2-V3-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Theridamas, haste to the court of Jove;",
+          "es": "Teridamas, apresúrate a acudir a la corte de Júpiter;"
+        },
+        {
+          "id": "P2-V3-62",
+          "number": 62,
+          "speaker": "",
+          "en": "Will him to send Apollo hither straight,",
+          "es": "ordénale que envíe enseguida a Apolo"
+        },
+        {
+          "id": "P2-V3-63",
+          "number": 63,
+          "speaker": "",
+          "en": "To cure me, or I'll fetch him down myself.",
+          "es": "para curarme, o iré yo mismo a buscarlo."
+        },
+        {
+          "id": "P2-V3-64",
+          "number": 64,
+          "speaker": "TECHELLES",
+          "en": "Sit still, my gracious lord; this grief will cease,",
+          "es": "Permanezca quieto, mi señor; este mal pasará"
+        },
+        {
+          "id": "P2-V3-65",
+          "number": 65,
+          "speaker": "",
+          "en": "And cannot last, it is so violent.",
+          "es": "y no puede durar, tan violento como es."
+        },
+        {
+          "id": "P2-V3-66",
+          "number": 66,
+          "speaker": "TAMBURLAINE",
+          "en": "Not last, Techelles! no, for I shall die.",
+          "es": "¿Que no durará, Tequeles? No, porque moriré."
+        },
+        {
+          "id": "P2-V3-67",
+          "number": 67,
+          "speaker": "",
+          "en": "See, where my slave, the ugly monster Death,",
+          "es": "Mira dónde está mi esclava, la Muerte, ese monstruo horrendo:"
+        },
+        {
+          "id": "P2-V3-68",
+          "number": 68,
+          "speaker": "",
+          "en": "Shaking and quivering, pale and wan for fear,",
+          "es": "tiembla y se estremece, pálida y lívida de miedo,"
+        },
+        {
+          "id": "P2-V3-69",
+          "number": 69,
+          "speaker": "",
+          "en": "Stands aiming at me with his murdering dart,",
+          "es": "apuntándome con su dardo asesino."
+        },
+        {
+          "id": "P2-V3-70",
+          "number": 70,
+          "speaker": "",
+          "en": "Who flies away at every glance I give,",
+          "es": "Huye cada vez que le dirijo la mirada"
+        },
+        {
+          "id": "P2-V3-71",
+          "number": 71,
+          "speaker": "",
+          "en": "And, when I look away, comes stealing on!—",
+          "es": "y, cuando aparto los ojos, se aproxima furtivamente."
+        },
+        {
+          "id": "P2-V3-72",
+          "number": 72,
+          "speaker": "",
+          "en": "Villain, away, and hie thee to the field!",
+          "es": "¡Fuera, villana! ¡Corre al campo de batalla!"
+        },
+        {
+          "id": "P2-V3-73",
+          "number": 73,
+          "speaker": "",
+          "en": "I and mine army come to load thy back",
+          "es": "Mi ejército y yo iremos a cargarte la espalda"
+        },
+        {
+          "id": "P2-V3-74",
+          "number": 74,
+          "speaker": "",
+          "en": "With souls of thousand mangled carcasses.—",
+          "es": "con las almas de miles de cadáveres despedazados."
+        },
+        {
+          "id": "P2-V3-75",
+          "number": 75,
+          "speaker": "",
+          "en": "Look, where he goes! but, see, he comes again,",
+          "es": "¡Mira cómo se va! Pero fíjate, vuelve de nuevo"
+        },
+        {
+          "id": "P2-V3-76",
+          "number": 76,
+          "speaker": "",
+          "en": "Because I stay! Techelles, let us march,",
+          "es": "porque me he detenido. Tequeles, marchemos"
+        },
+        {
+          "id": "P2-V3-77",
+          "number": 77,
+          "speaker": "",
+          "en": "And weary Death with bearing souls to hell.",
+          "es": "y agotemos a la Muerte haciéndole llevar almas al infierno."
+        },
+        {
+          "id": "P2-V3-78",
+          "number": 78,
+          "speaker": "FIRST PHYSICIAN",
+          "en": "Pleaseth your majesty to drink this potion,",
+          "es": "Si vuestra majestad se digna beber esta poción,"
+        },
+        {
+          "id": "P2-V3-79",
+          "number": 79,
+          "speaker": "",
+          "en": "Which will abate the fury of your fit,",
+          "es": "mitigará la violencia del ataque"
+        },
+        {
+          "id": "P2-V3-80",
+          "number": 80,
+          "speaker": "",
+          "en": "And cause some milder spirits govern you.",
+          "es": "y hará que lo gobiernen humores más apacibles."
+        },
+        {
+          "id": "P2-V3-81",
+          "number": 81,
+          "speaker": "TAMBURLAINE",
+          "en": "Tell me what think you of my sickness now?",
+          "es": "Díganme, ¿qué opinan ahora de mi enfermedad?"
+        },
+        {
+          "id": "P2-V3-82",
+          "number": 82,
+          "speaker": "FIRST PHYSICIAN",
+          "en": "I view'd your urine, and the hypostasis,",
+          "es": "He examinado su orina, y el sedimento,"
+        },
+        {
+          "id": "P2-V3-83",
+          "number": 83,
+          "speaker": "",
+          "en": "Thick and obscure, doth make your danger great:",
+          "es": "denso y oscuro, indica que corre un gran peligro."
+        },
+        {
+          "id": "P2-V3-84",
+          "number": 84,
+          "speaker": "",
+          "en": "Your veins are full of accidental heat,",
+          "es": "Sus venas están llenas de un calor anormal,"
+        },
+        {
+          "id": "P2-V3-85",
+          "number": 85,
+          "speaker": "",
+          "en": "Whereby the moisture of your blood is dried:",
+          "es": "por el cual se ha secado la humedad de su sangre."
+        },
+        {
+          "id": "P2-V3-86",
+          "number": 86,
+          "speaker": "",
+          "en": "The humidum and calor, which some hold",
+          "es": "La humedad y el calor que, según algunos,"
+        },
+        {
+          "id": "P2-V3-87",
+          "number": 87,
+          "speaker": "",
+          "en": "Is not a parcel of the elements,",
+          "es": "no pertenecen a ninguno de los elementos,"
+        },
+        {
+          "id": "P2-V3-88",
+          "number": 88,
+          "speaker": "",
+          "en": "But of a substance more divine and pure,",
+          "es": "sino a una sustancia más divina y pura,"
+        },
+        {
+          "id": "P2-V3-89",
+          "number": 89,
+          "speaker": "",
+          "en": "Is almost clean extinguished and spent;",
+          "es": "están casi por completo extinguidos y agotados."
+        },
+        {
+          "id": "P2-V3-90",
+          "number": 90,
+          "speaker": "",
+          "en": "Which, being the cause of life, imports your death:",
+          "es": "Y como son causa de la vida, eso anuncia su muerte."
+        },
+        {
+          "id": "P2-V3-91",
+          "number": 91,
+          "speaker": "",
+          "en": "Besides, my lord, this day is critical,",
+          "es": "Además, señor, hoy es un día crítico,"
+        },
+        {
+          "id": "P2-V3-92",
+          "number": 92,
+          "speaker": "",
+          "en": "Dangerous to those whose crisis is as yours:",
+          "es": "peligroso para quienes atraviesan una crisis como la suya."
+        },
+        {
+          "id": "P2-V3-93",
+          "number": 93,
+          "speaker": "",
+          "en": "Your artiers, which alongst the veins convey",
+          "es": "Sus arterias, que transportan junto a las venas"
+        },
+        {
+          "id": "P2-V3-94",
+          "number": 94,
+          "speaker": "",
+          "en": "The lively spirits which the heart engenders,",
+          "es": "los espíritus vitales que engendra el corazón,"
+        },
+        {
+          "id": "P2-V3-95",
+          "number": 95,
+          "speaker": "",
+          "en": "Are parch'd and void of spirit, that the soul,",
+          "es": "están resecas y privadas de ese aliento, de modo que el alma,"
+        },
+        {
+          "id": "P2-V3-96",
+          "number": 96,
+          "speaker": "",
+          "en": "Wanting those organons by which it moves,",
+          "es": "al carecer de los órganos por los que se mueve,"
+        },
+        {
+          "id": "P2-V3-97",
+          "number": 97,
+          "speaker": "",
+          "en": "Cannot endure, by argument of art.",
+          "es": "no puede subsistir, según las razones de nuestra ciencia."
+        },
+        {
+          "id": "P2-V3-98",
+          "number": 98,
+          "speaker": "",
+          "en": "Yet, if your majesty may escape this day,",
+          "es": "Sin embargo, si vuestra majestad supera este día,"
+        },
+        {
+          "id": "P2-V3-99",
+          "number": 99,
+          "speaker": "",
+          "en": "No doubt but you shall soon recover all.",
+          "es": "sin duda se recuperará por completo muy pronto."
+        },
+        {
+          "id": "P2-V3-100",
+          "number": 100,
+          "speaker": "TAMBURLAINE",
+          "en": "Then will I comfort all my vital parts,",
+          "es": "Entonces fortaleceré todas mis partes vitales"
+        },
+        {
+          "id": "P2-V3-101",
+          "number": 101,
+          "speaker": "",
+          "en": "And live, in spite of death, above a day.",
+          "es": "y viviré, a despecho de la muerte, más allá de este día."
         }
       ]
     }
