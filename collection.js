@@ -108,7 +108,7 @@ const collection = [
     language: 'Inglés · Español',
     status: 'available',
     url: './autores/marlowe/tamburlaine/',
-    detail: 'Parte I completa en borrador · Parte II: actos I–II y III.1–4 completos; III.5.1–138',
+    detail: 'Parte I completa en borrador · Parte II: actos I–III y IV.1 completos; IV.2.1–60',
   },
 
   {
