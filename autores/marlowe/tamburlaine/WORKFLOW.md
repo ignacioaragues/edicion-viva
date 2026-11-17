@@ -113,3 +113,9 @@
 - Original inglés tomado de Alexander Dyce, Project Gutenberg #1589, comprobado con la transcripción HTML; traducción española general, una unidad de línea por entrada, con las acotaciones fuera del cómputo. Sin notas ni fichas nuevas. Continúan pendientes las tareas de revisión filológica, aparato crítico y refinamiento literario.
 - **4528 unidades de línea acumuladas**: Parte I 2315 y Parte II 2213.
 - **Próximo pasaje: Parte II, V.3.151**.
+
+## Decimosexta pasada · cierre de la primera traducción (17-11-2026)
+- **104 renglones nuevos** en Parte II V.3.151–254, hasta la muerte de Tamerlán y los cinco renglones finales de Amiras. También se restauraron y tradujeron **9 versos del prólogo de la Parte II**, ausente hasta ahora del lector.
+- **Primera traducción íntegra de las dos partes terminada**. Totales editoriales de unidades de línea: **4641** = **2315 Parte I** (con prólogo de 8) + **2326 Parte II** (con prólogo de 9). Son unidades de línea del texto electrónico Dyce, no necesariamente 4641 versos métricos por los pasajes en prosa.
+- El lector incorpora ahora el prólogo de la Parte II y llega hasta V.3.254. Se actualizó progress.json con next:null y status de primera traducción completa.
+- **Siguiente fase: revisión filológica y literaria**, no nuevas pasadas de traducción sin una necesidad textual específica: cotejar con Neilson y testimonios tempranos, ajustar puntuación y cortes métricos, atribuciones y acotaciones, pulir traducción y añadir notas y fichas de manera selectiva. Señalar y corregir divergencias observadas frente a la fuente inglesa antes de declarar la edición definitiva.
