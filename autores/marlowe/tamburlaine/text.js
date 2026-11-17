@@ -27002,6 +27002,454 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "anon amongst them.",
           "es": "alguien va a salir herido."
+        },
+        {
+          "id": "P2-IV1-75",
+          "number": 75,
+          "speaker": "TAMBURLAINE",
+          "en": "See now, ye slaves, my children stoop your pride,",
+          "es": "Miren ahora, esclavos: mis hijos humillan su orgullo"
+        },
+        {
+          "id": "P2-IV1-76",
+          "number": 76,
+          "speaker": "",
+          "en": "And lead your bodies sheep-like to the sword!—",
+          "es": "y los llevan como ovejas al filo de la espada."
+        },
+        {
+          "id": "P2-IV1-77",
+          "number": 77,
+          "speaker": "",
+          "en": "Bring them, my boys, and tell me if the wars",
+          "es": "Acérquenlos, hijos míos, y díganme si la guerra"
+        },
+        {
+          "id": "P2-IV1-78",
+          "number": 78,
+          "speaker": "",
+          "en": "Be not a life that may illustrate gods,",
+          "es": "no es una vida capaz de dar esplendor a los dioses"
+        },
+        {
+          "id": "P2-IV1-79",
+          "number": 79,
+          "speaker": "",
+          "en": "And tickle not your spirits with desire",
+          "es": "y de estimular sus espíritus con el deseo"
+        },
+        {
+          "id": "P2-IV1-80",
+          "number": 80,
+          "speaker": "",
+          "en": "Still to be train'd in arms and chivalry?",
+          "es": "de seguir ejercitándose en las armas y la caballería."
+        },
+        {
+          "id": "P2-IV1-81",
+          "number": 81,
+          "speaker": "AMYRAS",
+          "en": "Shall we let go these kings again, my lord,",
+          "es": "¿Dejaremos marchar otra vez a estos reyes, señor,"
+        },
+        {
+          "id": "P2-IV1-82",
+          "number": 82,
+          "speaker": "",
+          "en": "To gather greater numbers 'gainst our power,",
+          "es": "para que reúnan fuerzas más numerosas contra nosotros"
+        },
+        {
+          "id": "P2-IV1-83",
+          "number": 83,
+          "speaker": "",
+          "en": "That they may say, it is not chance doth this,",
+          "es": "y puedan decir que no es el azar quien nos da la victoria,"
+        },
+        {
+          "id": "P2-IV1-84",
+          "number": 84,
+          "speaker": "",
+          "en": "But matchless strength and magnanimity?",
+          "es": "sino una fuerza y una grandeza de ánimo sin igual?"
+        },
+        {
+          "id": "P2-IV1-85",
+          "number": 85,
+          "speaker": "TAMBURLAINE",
+          "en": "No, no, Amyras; tempt not Fortune so:",
+          "es": "No, no, Amiras; no tientes así a la Fortuna."
+        },
+        {
+          "id": "P2-IV1-86",
+          "number": 86,
+          "speaker": "",
+          "en": "Cherish thy valour still with fresh supplies,",
+          "es": "Alimenta siempre tu valor con nuevos desafíos"
+        },
+        {
+          "id": "P2-IV1-87",
+          "number": 87,
+          "speaker": "",
+          "en": "And glut it not with stale and daunted foes.",
+          "es": "y no lo sacies con enemigos exhaustos y atemorizados."
+        },
+        {
+          "id": "P2-IV1-88",
+          "number": 88,
+          "speaker": "",
+          "en": "But where's this coward villain, not my son,",
+          "es": "Pero ¿dónde está ese cobarde villano? No es hijo mío,"
+        },
+        {
+          "id": "P2-IV1-89",
+          "number": 89,
+          "speaker": "",
+          "en": "But traitor to my name and majesty?",
+          "es": "sino traidor a mi nombre y mi majestad."
+        },
+        {
+          "id": "P2-IV1-90",
+          "number": 90,
+          "speaker": "",
+          "en": "Image of sloth, and picture of a slave,",
+          "es": "¡Imagen de la pereza, retrato de un esclavo,"
+        },
+        {
+          "id": "P2-IV1-91",
+          "number": 91,
+          "speaker": "",
+          "en": "The obloquy and scorn of my renown!",
+          "es": "oprobio y escarnio de mi fama!"
+        },
+        {
+          "id": "P2-IV1-92",
+          "number": 92,
+          "speaker": "",
+          "en": "How may my heart, thus fired with mine eyes,",
+          "es": "¿Cómo podría mi corazón, encendido como mis ojos,"
+        },
+        {
+          "id": "P2-IV1-93",
+          "number": 93,
+          "speaker": "",
+          "en": "Wounded with shame and kill'd with discontent,",
+          "es": "herido por la vergüenza y muerto de indignación,"
+        },
+        {
+          "id": "P2-IV1-94",
+          "number": 94,
+          "speaker": "",
+          "en": "Shroud any thought may hold my striving hands",
+          "es": "albergar algún pensamiento capaz de detener mis manos"
+        },
+        {
+          "id": "P2-IV1-95",
+          "number": 95,
+          "speaker": "",
+          "en": "From martial justice on thy wretched soul?",
+          "es": "antes de ejecutar la justicia militar sobre tu alma miserable?"
+        },
+        {
+          "id": "P2-IV1-96",
+          "number": 96,
+          "speaker": "THERIDAMAS",
+          "en": "Yet pardon him, I pray your majesty.",
+          "es": "Aun así, perdónelo, se lo ruego a su majestad."
+        },
+        {
+          "id": "P2-IV1-97",
+          "number": 97,
+          "speaker": "TECHELLES AND USUMCASANE",
+          "en": "Let all of us entreat your highness' pardon.",
+          "es": "Permítanos a todos suplicar el perdón de su alteza."
+        },
+        {
+          "id": "P2-IV1-98",
+          "number": 98,
+          "speaker": "TAMBURLAINE",
+          "en": "Stand up, ye base, unworthy soldiers!",
+          "es": "¡Levántense, soldados indignos y despreciables!"
+        },
+        {
+          "id": "P2-IV1-99",
+          "number": 99,
+          "speaker": "",
+          "en": "Know ye not yet the argument of arms?",
+          "es": "¿Todavía no comprenden las razones de las armas?"
+        },
+        {
+          "id": "P2-IV1-100",
+          "number": 100,
+          "speaker": "AMYRAS",
+          "en": "Good my lord, let him be forgiven for once,",
+          "es": "Mi buen señor, perdónelo por esta vez,"
+        },
+        {
+          "id": "P2-IV1-101",
+          "number": 101,
+          "speaker": "",
+          "en": "And we will force him to the field hereafter.",
+          "es": "y de ahora en adelante lo obligaremos a combatir."
+        },
+        {
+          "id": "P2-IV1-102",
+          "number": 102,
+          "speaker": "TAMBURLAINE",
+          "en": "Stand up, my boys, and I will teach ye arms,",
+          "es": "Levántense, hijos, y les enseñaré qué son las armas"
+        },
+        {
+          "id": "P2-IV1-103",
+          "number": 103,
+          "speaker": "",
+          "en": "And what the jealousy of wars must do.—",
+          "es": "y lo que exige el celo de la guerra."
+        },
+        {
+          "id": "P2-IV1-104",
+          "number": 104,
+          "speaker": "",
+          "en": "O Samarcanda, where I breathed first,",
+          "es": "¡Oh, Samarcanda, donde respiré por primera vez"
+        },
+        {
+          "id": "P2-IV1-105",
+          "number": 105,
+          "speaker": "",
+          "en": "And joy'd the fire of this martial flesh,",
+          "es": "y sentí la dicha del fuego de esta carne guerrera!"
+        },
+        {
+          "id": "P2-IV1-106",
+          "number": 106,
+          "speaker": "",
+          "en": "Blush, blush, fair city, at thine honour's foil,",
+          "es": "Ruborízate, hermosa ciudad, ante la pérdida de tu honor"
+        },
+        {
+          "id": "P2-IV1-107",
+          "number": 107,
+          "speaker": "",
+          "en": "And shame of nature, which Jaertis' stream,",
+          "es": "y ante esta vergüenza de la naturaleza, que el río Yaxartes,"
+        },
+        {
+          "id": "P2-IV1-108",
+          "number": 108,
+          "speaker": "",
+          "en": "Embracing thee with deepest of his love,",
+          "es": "aunque te abrace con el más profundo amor,"
+        },
+        {
+          "id": "P2-IV1-109",
+          "number": 109,
+          "speaker": "",
+          "en": "Can never wash from thy distained brows!—",
+          "es": "jamás podrá lavar de tu frente mancillada."
+        },
+        {
+          "id": "P2-IV1-110",
+          "number": 110,
+          "speaker": "",
+          "en": "Here, Jove, receive his fainting soul again;",
+          "es": "¡Júpiter, recibe de nuevo su alma desfallecida,"
+        },
+        {
+          "id": "P2-IV1-111",
+          "number": 111,
+          "speaker": "",
+          "en": "A form not meet to give that subject essence",
+          "es": "una forma indigna de albergar la esencia"
+        },
+        {
+          "id": "P2-IV1-112",
+          "number": 112,
+          "speaker": "",
+          "en": "Whose matter is the flesh of Tamburlaine,",
+          "es": "cuya materia es la carne de Tamerlán,"
+        },
+        {
+          "id": "P2-IV1-113",
+          "number": 113,
+          "speaker": "",
+          "en": "Wherein an incorporeal spirit moves,",
+          "es": "en la que se mueve un espíritu incorpóreo"
+        },
+        {
+          "id": "P2-IV1-114",
+          "number": 114,
+          "speaker": "",
+          "en": "Made of the mould whereof thyself consists,",
+          "es": "hecho de la misma sustancia de que estás hecho tú,"
+        },
+        {
+          "id": "P2-IV1-115",
+          "number": 115,
+          "speaker": "",
+          "en": "Which makes me valiant, proud, ambitious,",
+          "es": "que me vuelve valeroso, orgulloso y ambicioso,"
+        },
+        {
+          "id": "P2-IV1-116",
+          "number": 116,
+          "speaker": "",
+          "en": "Ready to levy power against thy throne,",
+          "es": "dispuesto a levantar ejércitos contra tu trono"
+        },
+        {
+          "id": "P2-IV1-117",
+          "number": 117,
+          "speaker": "",
+          "en": "That I might move the turning spheres of heaven;",
+          "es": "para poder mover las esferas giratorias del cielo!"
+        },
+        {
+          "id": "P2-IV1-118",
+          "number": 118,
+          "speaker": "",
+          "en": "For earth and all this airy region",
+          "es": "Pues la tierra y toda esta región del aire"
+        },
+        {
+          "id": "P2-IV1-119",
+          "number": 119,
+          "speaker": "",
+          "en": "Cannot contain the state of Tamburlaine.",
+          "es": "no pueden contener la grandeza de Tamerlán."
+        },
+        {
+          "id": "P2-IV1-120",
+          "number": 120,
+          "speaker": "",
+          "en": "By Mahomet, thy mighty friend, I swear,",
+          "es": "Por Mahoma, tu poderoso amigo, juro"
+        },
+        {
+          "id": "P2-IV1-121",
+          "number": 121,
+          "speaker": "",
+          "en": "In sending to my issue such a soul,",
+          "es": "que al enviar a mi descendencia un alma semejante,"
+        },
+        {
+          "id": "P2-IV1-122",
+          "number": 122,
+          "speaker": "",
+          "en": "Created of the massy dregs of earth,",
+          "es": "creada con los pesados posos de la tierra,"
+        },
+        {
+          "id": "P2-IV1-123",
+          "number": 123,
+          "speaker": "",
+          "en": "The scum and tartar of the elements,",
+          "es": "la espuma y las impurezas de los elementos,"
+        },
+        {
+          "id": "P2-IV1-124",
+          "number": 124,
+          "speaker": "",
+          "en": "Wherein was neither courage, strength, or wit,",
+          "es": "sin valor, sin fuerza y sin entendimiento,"
+        },
+        {
+          "id": "P2-IV1-125",
+          "number": 125,
+          "speaker": "",
+          "en": "But folly, sloth, and damned idleness,",
+          "es": "sino necedad, pereza y condenada holgazanería,"
+        },
+        {
+          "id": "P2-IV1-126",
+          "number": 126,
+          "speaker": "",
+          "en": "Thou hast procur'd a greater enemy",
+          "es": "te has ganado un enemigo mayor"
+        },
+        {
+          "id": "P2-IV1-127",
+          "number": 127,
+          "speaker": "",
+          "en": "Than he that darted mountains at thy head,",
+          "es": "que aquel que arrojaba montañas contra tu cabeza,"
+        },
+        {
+          "id": "P2-IV1-128",
+          "number": 128,
+          "speaker": "",
+          "en": "Shaking the burden mighty Atlas bears,",
+          "es": "sacudiendo la carga que sostiene el poderoso Atlas,"
+        },
+        {
+          "id": "P2-IV1-129",
+          "number": 129,
+          "speaker": "",
+          "en": "Whereat thou trembling hidd'st thee in the air,",
+          "es": "ante quien, temblando, te ocultaste en el aire"
+        },
+        {
+          "id": "P2-IV1-130",
+          "number": 130,
+          "speaker": "",
+          "en": "Cloth'd with a pitchy cloud for being seen.—",
+          "es": "bajo una nube negra como la pez para no ser visto."
+        },
+        {
+          "id": "P2-IV1-131",
+          "number": 131,
+          "speaker": "",
+          "en": "And now, ye canker'd curs of Asia,",
+          "es": "Y ahora, perros corrompidos de Asia,"
+        },
+        {
+          "id": "P2-IV1-132",
+          "number": 132,
+          "speaker": "",
+          "en": "That will not see the strength of Tamburlaine,",
+          "es": "que se niegan a reconocer la fuerza de Tamerlán,"
+        },
+        {
+          "id": "P2-IV1-133",
+          "number": 133,
+          "speaker": "",
+          "en": "Although it shine as brightly as the sun,",
+          "es": "aunque resplandezca tanto como el sol,"
+        },
+        {
+          "id": "P2-IV1-134",
+          "number": 134,
+          "speaker": "",
+          "en": "Now you shall feel the strength of Tamburlaine,",
+          "es": "ahora sentirán la fuerza de Tamerlán,"
+        },
+        {
+          "id": "P2-IV1-135",
+          "number": 135,
+          "speaker": "",
+          "en": "And, by the state of his supremacy,",
+          "es": "y por la grandeza de su supremacía"
+        },
+        {
+          "id": "P2-IV1-136",
+          "number": 136,
+          "speaker": "",
+          "en": "Approve the difference 'twixt himself and you.",
+          "es": "comprobarán la diferencia que existe entre él y ustedes."
+        },
+        {
+          "id": "P2-IV1-137",
+          "number": 137,
+          "speaker": "ORCANES",
+          "en": "Thou shew'st the difference 'twixt ourselves and thee,",
+          "es": "Ya muestras la diferencia que hay entre nosotros y tú,"
+        },
+        {
+          "id": "P2-IV1-138",
+          "number": 138,
+          "speaker": "",
+          "en": "In this thy barbarous damned tyranny.",
+          "es": "con esta tiranía tuya, bárbara y maldita."
         }
       ]
     }
@@ -27342,6 +27790,27 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 72,
       "en": "Alarms within.",
       "es": "Se oyen alarmas de batalla."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 74,
+      "en": "Enter Tamburlaine, Theridamas, Techelles and Usumcasane; Amyras and Celebinus bring in Orcanes and the kings of Jerusalem, Trebizond and Syria, with soldiers.",
+      "es": "Entran Tamerlán, Teridamas, Tequeles y Usumcasane. Amiras y Celebino conducen prisioneros a Orcanes y a los reyes de Jerusalén, Trebisonda y Siria, acompañados de soldados."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 89,
+      "en": "He goes in and brings Calyphas out.",
+      "es": "Entra en la tienda y saca de allí a Calífas."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 119,
+      "en": "Stabs Calyphas.",
+      "es": "Apuñala a Calífas."
     }
   ]
 };
