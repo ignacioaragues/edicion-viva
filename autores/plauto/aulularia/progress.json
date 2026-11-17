@@ -1248,12 +1248,12 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Iniciar segunda pasada en II.4 verso 305; objetivo 40 versos numerados hasta 344, documentando suplementos 328/328a y atribución de esclavos, cotejo crítico, glosas y fichas. Mantener IDs de resaltados y hacer QA visual en navegador si hay capacidad.",
+  "next": "Segunda revisión II.4 desde 315; objetivo 40–50 versos si el cotejo integral lo permite; revisar límites y lagunas 328/328a, sin alterar identificadores de resaltados.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 304,
-    "next_verse": 305,
+    "reviewed_through_verse": 314,
+    "next_verse": 315,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
     "note": "Segunda pasada correlativa certificada hasta el verso 304; se respetan los vacíos críticos y no se reescribe el texto latino. Próximo 305–344, con el suplemento 328a.",
     "checked_structure": [
@@ -1756,6 +1756,17 @@
           "https://dokumen.pub/plautus-aulularia-1910572373-9781910572375.html"
         ],
         "note": "Segunda pasada consecutiva: auditoría de 40 objetos numerados 265–304 y 311 tokens exactos; las 311 fichas alineadas y sus glosas (explícitas o lemas existentes en glosses.js) verificadas. Faltaban cinco fichas para las siglas editoriales STAPH (274), ANTHR (289, 294, 296) y PYTH (296): incorporadas sin cambiar el latín ni offsets de resaltados. Traducciones matizadas en 265, 274, 279, 289, 294, 296 y 299; morfología precisada en inaudivisse (266), inhiat (267), divides (283), quo (288), senis suplemento (290), qua (301), gutturem (304). Notas nuevas 265, 274, 296 y ampliadas 266, 285, 287, 298, 304: excl. Leo para 266; atribuciones manuscritas de parlamento en 285/287, variante quo/quod (288), laguna pos 298 señalada por Havet, y anomalía léxica de gutturem. Comprobación contra versión anterior de que las cadenas del latín y stableId no cambiaron; parser JS compiló. No hubo QA funcional real en navegador ni cotejo directo del aparato impreso de Leo; se consultó aparato citado en Maclennan–Stockert (2016)."
+      },
+      {
+        "section": "II.4",
+        "from": 305,
+        "to": 314,
+        "verses": 10,
+        "status": "morphology_revised",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Cotejo de las diez unidades 305–314 con el texto paralelo, revisión de formas y glosas, precisión de dormiens, pote (pote est elíptico), istoc y qui final arcaico; traducción de 310 evita introducir 'comprar' no presente en latín. No se certifica cotejo directo del aparato de Leo ni QA visual."
       }
     ],
     "spot_checks": [
