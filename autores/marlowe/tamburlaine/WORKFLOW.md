@@ -91,3 +91,10 @@
 - Total: **3628 renglones** del texto fuente (2315 Parte I y 1313 Parte II), incluido el prólogo de ocho renglones. Se preservan las acotaciones bilingües fuera del cómputo.
 - Sin nuevo aparato de notas, ni fichas. Base Dyce/PG 1589 y futura colación filológica pendientes.
 - Próximo: **Parte II, III.5.139**.
+
+## Decimotercera pasada de traducción (17-11-2026)
+- **300 renglones nuevos**: Parte II III.5.139–172 (34), IV.1.1–206 (206), IV.2.1–60 (60).
+- Queda completo el acto III y la escena IV.1. La escena IV.2 avanza hasta el renglón 60, en el diálogo de Olimpia y Teridamas.
+- Acotaciones bilingües fuera del cómputo. Traducción española original alineada por renglón; sin fichas ni notas nuevas. El original inglés procede provisionalmente de Dyce (PG 1589); cotejo filológico y segmentación métrica de prosa pendientes.
+- **3928 renglones acumulados**: 2315 de la Parte I y 1613 de la Parte II.
+- **Próximo pasaje: Parte II, IV.2.61**.
