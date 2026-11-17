@@ -1065,6 +1065,16 @@
       "tokens": 46,
       "source": "The Latin Library IV.9, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo 1895 direct collation pending",
       "note": "Euclión lamenta la pérdida de la olla. Fichas y glosas contextuales para 46 tokens; nota sobre subjuntivos deliberativos e interrogativas indirectas. Sintaxis de mi auxilio, sitis pendiente de cotejo crítico. Revisión consecutiva sigue en 159, no certificada 160–161 por migración de localizadores pendiente."
+    },
+    {
+      "section": "IV.9",
+      "from": 717,
+      "to": 720,
+      "verses": 4,
+      "tokens": 45,
+      "status": "edited_not_revised",
+      "source": "The Latin Library, Aulularia IV.9, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Interpelación al público; fichas individuales y glosas contextuales. Cotejo directo Leo 1895 y auditoría retrospectiva 160+ pendientes."
     }
   ],
   "pending": [
@@ -1074,7 +1084,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.9, desde el verso 717; segunda revisión consecutiva desde 160 tras resolver IDs 142–161.",
+  "next": "IV.9, desde verso 721; segunda revisión morfológica consecutiva desde 160, con compatibilidad de localizadores 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
