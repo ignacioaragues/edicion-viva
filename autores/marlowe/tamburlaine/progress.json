@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Primera revisión filológica: Parte I prólogo P1–8; I.1 e I.2 completas; II.1–6 completas; II.7.1–46. Total 900 unidades. Próxima II.7.47–67 (21) + III.1.1–29 (29).",
+  "editorialReview": "Primera revisión filológica: Parte I, prólogo P1–8; actos I y II completos; III.1.1–29. Total: 950 unidades revisadas. Próximo III.1.30–67 (38) y III.2.1–12 (12).",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 900,
+    "reviewedUnits": 950,
     "reviewed": [
       {
         "part": 1,
@@ -628,29 +628,45 @@
         "start": 1,
         "end": 46,
         "count": 46
+      },
+      {
+        "part": 1,
+        "act": 2,
+        "scene": 7,
+        "start": 47,
+        "end": 67,
+        "count": 21
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 1,
+        "start": 1,
+        "end": 29,
+        "count": 29
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Parte I II.6.37–40 (4), II.7.1–46 (46)",
+      "scope": "Parte I II.7.47–67 (21), III.1.1–29 (29)",
       "unitsReviewed": 50,
-      "translationLinesRevised": 41,
+      "translationLinesRevised": 44,
       "translationLinesValidated": 50,
-      "newNotes": 17,
+      "newNotes": 19,
       "readingCardsAdded": 2,
-      "mode": "philology-18.js layered, exact English source and inline note anchors validated",
+      "mode": "philology-19.js additive, exact original-English check for each of 50 rows and all 19 notes",
       "sourceBasis": [
-        "Alexander Dyce (ed.), Tamburlaine the Great, Part One, PG #1094, II.6.37–II.7.46",
-        "Richard Jones, first printing (1590), Folger EarlyPrint C1r–C2r, wln 0900–0952",
-        "Christopher Matusiak (ed.), Nature that framed us of four elements, Representative Poetry Online, University of Toronto (2011)"
+        "1590 first imprint, Richard Jones, Folger EarlyPrint C2r–C3r, wln 0953–1008",
+        "Alexander Dyce (ed.), Tamburlaine the Great, Part I, PG #1094",
+        "M. L. Stapleton, Tamburlaine critical edition (ed. and notes), III.1"
       ],
-      "note": "Scene II.6 finished; first 46 of 67 II.7 lines. Noted 1590 «Emperiall heauen» / Dyce «empyreal heaven», original lineation preserved; notes on Ops, elemental cosmology, restless spheres, wear and gross."
+      "note": "Closes II.7 and Act II, begins III.1. Variants Are/Is and think/thinks; talents=talons; tires falconry; basso=pasha; bickering skirmish; Christians renied apostates."
     },
     "next": {
       "part": 1,
-      "act": 2,
-      "scene": 7,
-      "line": 47
+      "act": 3,
+      "scene": 1,
+      "line": 30
     }
   }
 }

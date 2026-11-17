@@ -267,3 +267,11 @@
 - Comparación textual: Alexander Dyce, ed., Project Gutenberg #1094; impreso de **1590**, Folger EarlyPrint **C1r–C2r, wln 0900–0952**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html. Se registra «Emperiall heauen» (1590, wln 0921) frente a «empyreal heaven» (Dyce, II.7.15), sin amalgamar testigos.
 - Apoyo filológico externo: Christopher Matusiak, ed. (2011), «Nature that framed us of four elements», *Representative Poetry Online*, University of Toronto, https://rpo.library.utoronto.ca/content/tamburlaine-great-part-one-nature-framed-us-four-elements. Su anotación sobre «restless spheres» y «wear ourselves» se distingue de nuestras interpretaciones propias.
 - Conservados inglés, rótulos de personajes, acotaciones, identificadores y navegación. Se añadió `philology-18.js` después de las capas XI–XVII; las notas continúan apareciendo como subrayados discretos.
+
+## Decimonovena pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** de Parte I II.7.47–67 (21, cierre del acto II) y III.1.1–29 (29, apertura del acto III). Acumulado **950 / 4641 (20,5 %)**. Próximo **III.1.30–67 (38) + III.2.1–12 (12)**.
+- **44 correcciones en español**, 6 unidades confirmadas sin cambios; comprobación literal de los 50 versos ingleses, **19 notas** y **2 fichas de lectura**.
+- Cotejo con Richard Jones (1590), Folger EarlyPrint C2r–C3r, wln 0953–1008, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html; y Alexander Dyce (PG #1094). «Are dry and cold» (Dyce) frente a «Is drie and cold» (1590) y «think to rouse» frente a «thinks to rouse».
+- Atención a «talents» = garras, «tires» = desgarrar/devorar en cetrería, «portly» = majestuoso, «bassoes» = bajás, «bickering» = escaramuza, «Christians renied» = cristianos que han renegado de la fe, «Terrene sea» = Mediterráneo. Fuentes de aparato: Dyce y M. L. Stapleton, edición crítica, notas a III.1.
+- Dos fichas nuevas sobre la aclamación de Tamerlán por sus hombres y la aparición de Bayaceto bajo el sitio de Constantinopla. Las lecturas interpretativas son editoriales y se distinguen de las glosas léxicas.
+- Capa `philology-19.js` después de las anteriores; no se tocan texto inglés, IDs, rótulos, acotaciones, fragmentación en escenas, navegación ni resaltados.
