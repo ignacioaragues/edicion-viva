@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Segunda revisión 687–726.",
+  "next": "Revisión filológica 727–766.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 686,
-    "next_verse": 687,
+    "reviewed_through_verse": 726,
+    "next_verse": 727,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática 647–686; pendientes cotejo exhaustivo de Leo y QA visual.",
+    "note": "Auditoría estática 687–726; cotejo externo parcial con Lühr, pendientes aparato Leo completo y QA visual.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1915,6 +1915,20 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "40 versos y correspondencia exacta de tokens-fichas, excluidas abreviaturas de hablantes EVCL., S., E. Corregidos perscrutavi (perfecto activo), hic (demostrativo), Fide (dativo arcaico paralelo a Silvano), sese (elipsis discutible) y matiz de scelestus. Texto e IDs conservados. Pendientes cotejo completo de Leo, QA de navegador y análisis de lecturas 668, 672, 680."
+      },
+      {
+        "section": "IV.7–IV.9",
+        "from": 687,
+        "to": 726,
+        "verses": 40,
+        "tokens": 309,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://dwee.saw-leipzig.de/Rosemarie_Luehr/userfiles/downloads/Projekte/PlautusAulularia.pdf",
+          "https://is.muni.cz/el/phil/jaro2018/KLBcA20/um/Plautus_Aulularia.pdf",
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+        ],
+        "note": "Revisados 40 versos, correspondencia tokens-fichas; corregidos impetrassere, Picis/divitiis, Philippus, mi, sitis, creta y geniumque. Lühr analiza Aul. 694–695 y 701–702, cita Stockert (1983). Sin cambios en latín ni IDs; pendientes colación completa de Leo, QA de navegador y glosas difíciles (Picis, mi, sitis)."
       }
     ],
     "spot_checks": [
