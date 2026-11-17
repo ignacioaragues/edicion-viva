@@ -171,10 +171,14 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Continue contextual morphology at unit 82.3, then 82.4–82.18; printed PL collation and reader still pending.",
-      "morphology_units_with_contextual_table": 2,
-      "morphology_token_occurrences": 117,
-      "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md"
+      "next": "Continue contextual morphology at unit 82.6 (Haec autem civitas ignorans suae provectionis auctorem) through 82.18; printed PL collation and reader still pending.",
+      "morphology_units_with_contextual_table": 5,
+      "morphology_token_occurrences": 294,
+      "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
+      "morphology_files": [
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-3-5.md"
+      ]
     },
     {
       "group": "epistolae",
