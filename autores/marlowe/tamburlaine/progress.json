@@ -2,7 +2,7 @@
   "work": "Tamburlaine the Great",
   "author": "Christopher Marlowe",
   "part": 2,
-  "status": "in_progress",
+  "status": "first_translation_draft_complete",
   "baseEdition": "William Allan Neilson, The Chief Elizabethan Dramatists (1911), pp. 57ff.",
   "prologue": {
     "complete": true,
@@ -181,9 +181,9 @@
       "complete": true
     }
   ],
-  "publishedVerseLines": 4528,
-  "translation": "original Spanish, preliminary",
-  "editorialReview": "Part I complete in first translation draft (2315 source-line units including prologue). Part II Acts I–IV complete, V.1 and V.2 complete, V.3 through line 150. English text provisionally Dyce/Project Gutenberg #1589; full collation and literary revision pending.",
+  "publishedVerseLines": 4641,
+  "translation": "original Spanish, full first draft; not yet critically revised",
+  "editorialReview": "Both parts complete in a first bilingual draft: Part I 2315 source-line units including first prologue; Part II 2326 including second prologue (9) and V.3 through 254. Prose wraps retained from Dyce e-text. Full textual collation, literary translation revision, checking names and speaker assignments, stage directions, and selected philological notes remain pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -191,13 +191,18 @@
     "https://www.gutenberg.org/files/1094/1094-h/1094-h.htm",
     "https://www.gutenberg.org/files/1589/1589-h/1589-h.htm"
   ],
-  "next": {
-    "part": 2,
-    "act": 5,
-    "scene": 3,
-    "line": 151
-  },
+  "next": null,
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 113,
+    "scope": "Part II V.3.151–254 (104) and the previously omitted second prologue P2-P1–P2-P9 (9)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "complete first-draft translation",
+    "source": "Alexander Dyce, Project Gutenberg eBook 1589 (checked against updated Gutenberg HTML)",
+    "editorialNote": "Final scene reaches Amyras' closing lament. Stage directions excluded from line totals. No further first-draft translation batches; begin editorial collation and literary revision."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "Part II V.1.130–220 (91); V.2.1–59 (59); V.3.1–150 (150)",
@@ -206,16 +211,6 @@
     "status": "first translation draft",
     "source": "Alexander Dyce, Project Gutenberg #1589, checked against Gutenberg HTML text",
     "editorialNote": "Act V scenes 1 and 2 now complete, scene 3 through line 150. Stage directions excluded from line units; prose wraps retained; future philological review pending."
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "Part II IV.2.61–98 (38), IV.3.1–133 (133), V.1.1–129 (129)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Alexander Dyce/Project Gutenberg 1589; line breaks cross-checked against Luminarium's Renascence Editions text",
-    "editorialNote": "Part II Act IV complete, V.1 in progress. Stage directions excluded from counted source-line units; editorial comparison and literary refinement pending."
   },
   "part1": {
     "complete": true,
@@ -226,8 +221,8 @@
     "status": "first translation draft; notes and philological revision pending"
   },
   "part2": {
-    "complete": false,
-    "publishedLineCount": 2213,
+    "complete": true,
+    "publishedLineCount": 2326,
     "sections": [
       {
         "act": 1,
@@ -404,12 +399,22 @@
         "scene": 3,
         "publishedLines": [
           1,
-          150
+          254
         ],
-        "nextLine": 151,
-        "complete": false
+        "nextLine": null,
+        "complete": true
       }
     ],
-    "baseEdition": "Alexander Dyce, Project Gutenberg eBook 1589"
+    "baseEdition": "Alexander Dyce, Project Gutenberg eBook 1589",
+    "prologue": {
+      "complete": true,
+      "publishedLines": [
+        1,
+        9
+      ],
+      "lineCount": 9,
+      "ids": "P2-P1–P2-P9"
+    },
+    "status": "first translation draft complete; philological and stylistic review pending"
   }
 }
