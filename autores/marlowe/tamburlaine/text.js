@@ -372,21 +372,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 46,
       "speaker": "",
       "en": "Your grace hath taken order by Theridamas,",
-      "es": "vuestra gracia ha dado órdenes a Teridamas,"
+      "es": "vuestra gracia ya ha dispuesto que Teridamas,"
     },
     {
       "id": "I1-47",
       "number": 47,
       "speaker": "",
       "en": "Charg'd with a thousand horse, to apprehend",
-      "es": "al mando de mil jinetes, de apresarlo"
+      "es": "al mando de mil jinetes, vaya a apresarlo"
     },
     {
       "id": "I1-48",
       "number": 48,
       "speaker": "",
       "en": "And bring him captive to your highness' throne.",
-      "es": "y traerlo cautivo ante vuestro trono."
+      "es": "y lo lleve cautivo ante el trono de vuestra alteza."
     },
     {
       "id": "I1-49",
@@ -491,14 +491,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 63,
       "speaker": "",
       "en": "Whose foaming gall with rage and high disdain",
-      "es": "cuya bilis espumante, llena de furia y altivo desdén,"
+      "es": "que, espumando bilis de furia y altivo desdén,"
     },
     {
       "id": "I1-64",
       "number": 64,
       "speaker": "",
       "en": "Have sworn the death of wicked Tamburlaine.",
-      "es": "ha jurado la muerte del malvado Tamerlán."
+      "es": "han jurado dar muerte al malvado Tamerlán."
     },
     {
       "id": "I1-65",
@@ -512,7 +512,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 66,
       "speaker": "",
       "en": "As did Sir Paris with the Grecian dame:",
-      "es": "como hizo el señor Paris con la dama griega."
+      "es": "como volvió el caballero Paris con la dama griega:"
     },
     {
       "id": "I1-67",
@@ -1431,6 +1431,46 @@ window.TAMBURLAINE_EDITION = {
       "Profecías atribuidas al adversario",
       "«Dreaming prophecies» aparece en la acusación de Meandro: él sostiene que Tamerlán actúa engañado por profecías de sueños. El verso no garantiza que tales profecías sean verdaderas ni que el público deba compartir su interpretación.",
       "dreaming prophecies"
+    ],
+    "50": [
+      "Damón y la amistad proverbial",
+      "Damón evoca la pareja proverbial de Damón y Pitias (o Fintias), ejemplo clásico de lealtad entre amigos. Micetes halaga a Meandro llamándolo así, pero la solemnidad del elogio contrasta con la torpeza retórica que caracteriza al rey. Es una alusión clásica puesta al servicio de la sátira cortesana.",
+      "Damon"
+    ],
+    "52": [
+      "«Incontinent»: de inmediato",
+      "En el inglés de la época, «incontinent» funciona aquí como adverbio de tiempo: «sin demora» o «de inmediato». No tiene el significado fisiológico hoy más habitual. En español se evita la falsa equivalencia.",
+      "incontinent"
+    ],
+    "59": [
+      "El Estado apoyado en sus propias piernas",
+      "Micetes convierte a Teridamas en las «piernas» sobre las que se apoya el Estado y prolonga la imagen con un «bastón». La acumulación de apoyos corporales y objetos no es un razonamiento político técnico, sino una hipérbole de elogio que conserva la comicidad del hablante. Véase también el problema de la autoridad verbal de Micetes en McInnis (2020), «Introduction», pp. 13–14.",
+      "the very legs"
+    ],
+    "63": [
+      "«Foaming gall» y la violencia imaginada",
+      "«Gall» significa literalmente bilis y, figuradamente, cólera o amargura. «Foaming» hace casi visible la rabia de los mil jinetes y aproxima su furia a la de los caballos; la concordancia y el encabalgamiento ingleses son abruptos. La traducción mantiene la imagen de la bilis espumante, pero evita atribuir literalmente un juramento a ese fluido.",
+      "foaming gall"
+    ],
+    "66": [
+      "Paris y la «dama griega»",
+      "Se alude a Paris y Helena de Esparta. El regreso con Helena a Troya desencadena la guerra: la comparación resulta inquietante en una orden militar que pretende celebrar la captura de Tamerlán. «Sir Paris» también confiere al héroe antiguo un tratamiento caballeresco propio de la retórica inglesa del período.",
+      "Sir Paris"
+    ],
+    "78": [
+      "Las cabezas como trofeos",
+      "Micetes imagina sus corceles blancos cargados de cabezas humanas y manchados de sangre. El contraste cromático y el juicio estético «dainty show» (v. 80) convierten la carnicería en espectáculo; la escena no reduce por ello al rey a un inocente incapaz de violencia.",
+      "heads of killed men"
+    ],
+    "87": [
+      "«[task]»: palabra suplida",
+      "La primera edición de 1590 (Folger EarlyPrint, signatura A4v) lee «a greater / Fits Menaphon» sin «task». La edición de Alexander Dyce usada aquí introduce «[task]» para completar la construcción; los corchetes se conservan porque señalan una restitución editorial, no una palabra atestiguada en ese impreso.",
+      "[task]"
+    ],
+    "89": [
+      "«Pro-rex» y la variante «all Africa»",
+      "«Pro-rex» es un virrey o delegado regio. El impreso de 1590 (A4v) presenta «Create him Prorex of Affrica», sin «all», mientras la edición de Dyce usada como base contiene «of all Africa»; mantenemos la lectura base y registramos la diferencia. La referencia a África junto a Babilonia plantea una geografía política problemática, que otras ediciones han tratado mediante conjeturas como «Assyria», no adoptadas aquí.",
+      "pro-rex of all Africa"
     ],
     "P1": [
       "Rima y «mighty line»",
@@ -34072,6 +34112,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.1.1–42",
         "body": "La primera voz de la tragedia no es la del conquistador, sino la de un rey incapaz de convertir una ofensa en discurso. Micetes pide ayuda a Cosroe, recibe una acusación astrológica y responde buscando testigos de su ingenio; luego tantea un castigo que su consejero relativiza. La escena contrapone así el título heredado, la pericia retórica y la eficacia del gobierno. McInnis observa que la posterior disputa escénica por la corona de Micetes vuelve visible ese vaciamiento de autoridad: el emblema real puede circular mientras el poder efectivo cambia de dueño.",
         "source": "David McInnis, «Introduction», en McInnis (ed., 2020), pp. 13–14; lectura de los vv. I.1.1–42."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "El lenguaje del rey y el espectáculo de la guerra",
+        "range": "Parte I · I.1.43–92",
+        "body": "La orden contra Tamerlán empieza como un trámite militar y se transforma en exhibición de elocuencia fallida. Micetes invoca la amistad de Damón, imagina al Estado apoyado en las piernas de su capitán, recuerda a Paris y termina deseando caballos blancos cubiertos de cabezas y sangre. Cosroe, por su parte, finge obediencia mientras exhibe la insuficiencia del gobierno de su hermano. La misma voz cómica que tropieza en el discurso puede fantasear con una violencia extrema. Esta lectura de los vv. 43–92 prolonga la observación de McInnis acerca de la impotencia retórica y política de Micetes, pero no debe confundirse con una paráfrasis literal de su estudio.",
+        "source": "Lectura editorial de I.1.43–92; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (2020), pp. 13–14, sobre la debilidad verbal y la autoridad regia de Micetes."
       }
     ]
   }
