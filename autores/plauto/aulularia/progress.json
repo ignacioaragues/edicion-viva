@@ -1006,6 +1006,16 @@
       "status": "edited_not_revised",
       "source": "Plautus, Aulularia IV.6, The Latin Library; Leo 1895 direct collation pending",
       "tokens": 38
+    },
+    {
+      "section": "IV.7",
+      "from": 682,
+      "to": 690,
+      "verses": 9,
+      "status": "edited_not_revised",
+      "source": "Plautus, Aulularia IV.7, The Latin Library, https://www.thelatinlibrary.com/plautus/aulularia.shtml; direct Leo 1895 collation pending",
+      "tokens": 60,
+      "note": "Original Spanish translation, word-level morphology and contextual glosses; no retroactive audit certified; consecutive second pass remains at 159."
     }
   ],
   "pending": [
@@ -1015,7 +1025,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.7, versos 682–691; second-pass II.1 160–164 after stable-ID migration",
+  "next": "IV.7, desde el verso 691; segunda revisión 160–164 tras migración de IDs",
   "editorial_note": "IV.6 677–681: 38 fichas con glosas contextuales; segunda pasada permanece hasta 159; cotejo directo Leo y revisión visual pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
