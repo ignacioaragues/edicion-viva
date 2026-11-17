@@ -1051,7 +1051,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 143,
       "speaker": "",
       "en": "Whose ransom made them march in coats of gold,",
-      "es": "cuyos rescates les permitían desfilar con ropas de oro,"
+      "es": "cuyos rescates permitieron a los vencedores desfilar vestidos de oro,"
     },
     {
       "id": "I1-144",
@@ -1065,7 +1065,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 145,
       "speaker": "",
       "en": "And shining stones upon their lofty crests,",
-      "es": "y piedras resplandecientes en sus altos penachos,"
+      "es": "y piedras brillantes sobre los altos adornos de sus cascos,"
     },
     {
       "id": "I1-146",
@@ -1086,7 +1086,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 148,
       "speaker": "",
       "en": "Begin in troops to threaten civil war,",
-      "es": "empiezan a amenazar en grupos con una guerra civil"
+      "es": "comienzan a amenazar en grupos con una guerra civil"
     },
     {
       "id": "I1-149",
@@ -1107,21 +1107,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 151,
       "speaker": "",
       "en": "We will invest your highness emperor;",
-      "es": "te investiremos emperador;"
+      "es": "investiremos emperador a su alteza;"
     },
     {
       "id": "I1-152",
       "number": 152,
       "speaker": "",
       "en": "Whereat the soldiers will conceive more joy",
-      "es": "y los soldados sentirán con ello mayor alegría"
+      "es": "y por eso los soldados sentirán mayor alegría"
     },
     {
       "id": "I1-153",
       "number": 153,
       "speaker": "",
       "en": "Than did the Macedonians at the spoil",
-      "es": "que los macedonios cuando se repartieron el botín"
+      "es": "que los macedonios al apoderarse del botín"
     },
     {
       "id": "I1-154",
@@ -1135,7 +1135,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 155,
       "speaker": "COSROE",
       "en": "Well, since I see the state of Persia droop",
-      "es": "Pues bien, puesto que veo que Persia se marchita"
+      "es": "Pues bien, puesto que veo al Estado persa decaer"
     },
     {
       "id": "I1-156",
@@ -1163,7 +1163,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 159,
       "speaker": "",
       "en": "In spite of them shall malice my estate.",
-      "es": "pese a cuantos envidien mi posición."
+      "es": "pese a cuantos aborrezcan mi nueva posición."
     },
     {
       "id": "I1-160",
@@ -1177,7 +1177,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 161,
       "speaker": "",
       "en": "We here do crown thee monarch of the East [;]",
-      "es": "te coronamos aquí monarca de Oriente,"
+      "es": "lo coronamos aquí monarca de Oriente,"
     },
     {
       "id": "I1-162",
@@ -1212,14 +1212,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 166,
       "speaker": "",
       "en": "East India and the late-discover'd isles;",
-      "es": "de la India oriental y las islas recién descubiertas,"
+      "es": "de la India oriental y de las islas recién descubiertas;"
     },
     {
       "id": "I1-167",
       "number": 167,
       "speaker": "",
       "en": "Chief lord of all the wide vast Euxine Sea,",
-      "es": "señor supremo de todo el vasto mar Euxino"
+      "es": "señor supremo de todo el inmenso mar Euxino"
     },
     {
       "id": "I1-168",
@@ -1240,14 +1240,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 170,
       "speaker": "COSROE",
       "en": "And Jove may never let me longer live",
-      "es": "Y que Júpiter no me permita vivir un instante más"
+      "es": "Y que Júpiter no me permita seguir viviendo"
     },
     {
       "id": "I1-171",
       "number": 171,
       "speaker": "",
       "en": "Than I may seek to gratify your love,",
-      "es": "que mientras pueda corresponder a vuestro afecto"
+      "es": "si alguna vez dejo de procurar corresponder a su lealtad"
     },
     {
       "id": "I1-172",
@@ -1261,21 +1261,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 173,
       "speaker": "",
       "en": "To triumph over many provinces!",
-      "es": "triunfen sobre muchas provincias."
+      "es": "con nuevas victorias sobre numerosas provincias."
     },
     {
       "id": "I1-174",
       "number": 174,
       "speaker": "",
       "en": "By whose desires of discipline in arms",
-      "es": "Con su ansia de disciplina militar,"
+      "es": "Gracias al afán de disciplina militar que muestran,"
     },
     {
       "id": "I1-175",
       "number": 175,
       "speaker": "",
       "en": "I doubt not shortly but to reign sole king,",
-      "es": "no dudo de que pronto reinaré como único rey,"
+      "es": "no dudo de que pronto reinaré como único monarca;"
     },
     {
       "id": "I1-176",
@@ -1289,14 +1289,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 177,
       "speaker": "",
       "en": "(Whither we presently will fly, my lords,)",
-      "es": "hacia el cual partiremos ahora mismo, señores,"
+      "es": "(al que iremos a reunirnos ahora mismo, señores),"
     },
     {
       "id": "I1-178",
       "number": 178,
       "speaker": "",
       "en": "To rest secure against my brother's force.",
-      "es": "estaré a salvo de las fuerzas de mi hermano."
+      "es": "quedaré protegido de las fuerzas de mi hermano."
     },
     {
       "id": "I1-179",
@@ -1310,56 +1310,56 @@ window.TAMBURLAINE_EDITION = {
       "number": 180,
       "speaker": "",
       "en": "Intending your investion so near",
-      "es": "que al preparar vuestra investidura tan cerca"
+      "es": "que, al proyectar su investidura tan cerca"
     },
     {
       "id": "I1-181",
       "number": 181,
       "speaker": "",
       "en": "The residence of your despised brother,",
-      "es": "de la residencia de vuestro despreciable hermano,"
+      "es": "de la residencia de su despreciado hermano,"
     },
     {
       "id": "I1-182",
       "number": 182,
       "speaker": "",
       "en": "The lords would not be too exasperate",
-      "es": "los nobles no se irritarían tanto"
+      "es": "los nobles no se enfurecerían tanto"
     },
     {
       "id": "I1-183",
       "number": 183,
       "speaker": "",
       "en": "To injury or suppress your worthy title;",
-      "es": "como para ofender o suprimir vuestro legítimo título;"
+      "es": "como para dañar o despojarlo de su legítimo título;"
     },
     {
       "id": "I1-184",
       "number": 184,
       "speaker": "",
       "en": "Or, if they would, there are in readiness",
-      "es": "y, si lo hicieran, están preparados"
+      "es": "y si lo hicieran, ya están preparados"
     },
     {
       "id": "I1-185",
       "number": 185,
       "speaker": "",
       "en": "Ten thousand horse to carry you from hence,",
-      "es": "diez mil jinetes para sacaros de aquí,"
+      "es": "diez mil jinetes para llevarlo lejos de aquí,"
     },
     {
       "id": "I1-186",
       "number": 186,
       "speaker": "",
       "en": "In spite of all suspected enemies.",
-      "es": "pese a todos los enemigos sospechosos."
+      "es": "pese a cuantos enemigos puedan acecharlo."
     },
     {
       "id": "I1-187",
       "number": 187,
       "speaker": "COSROE",
       "en": "I know it well, my lord, and thank you all.",
-      "es": "Lo sé muy bien, señor, y os doy las gracias a todos."
+      "es": "Bien lo sé, señor, y les doy las gracias a todos."
     },
     {
       "id": "I1-188",
@@ -1517,6 +1517,51 @@ window.TAMBURLAINE_EDITION = {
       "En este contexto «states» alude a los estamentos o cuerpos políticos del reino, y «commons» a los comunes o al pueblo. Ortigio presenta la coronación de Cosroe como decisión colectiva, aunque el parlamento y la ceremonia están dominados por una facción de nobles y militares.",
       "Persian states"
     ],
+    "143": [
+      "El rescate de los capitanes africanos",
+      "El sujeto de «made them march» son los soldados y nobles persas descritos por Ceneo: los rescates cobrados por capitanes africanos capturados financiaban su riqueza y ostentación. La traducción explicita esa relación sin identificar a los cautivos con quienes llevaban vestiduras de oro.",
+      "Whose ransom"
+    ],
+    "153": [
+      "Darío III: una comparación paradójica",
+      "El botín de «great Darius» evoca la derrota del rey persa Darío III frente a Alejandro de Macedonia. Ceneo promete que los propios persas celebrarán la coronación de Cosroe más que los macedonios celebraron aquella victoria sobre Persia. La comparación revela una ironía histórica interna al discurso del nuevo régimen, no un triunfo persa sobre Darío.",
+      "Macedonians at the spoil"
+    ],
+    "159": [
+      "«Malice» usado como verbo",
+      "«Shall malice my estate» emplea «malice» transitivamente con el valor de «sentir animadversión hacia». «Estate» significa aquí condición o rango. La traducción no debe sugerir que «estate» sea una finca ni que «malice» sea un sustantivo de uso moderno.",
+      "malice my estate"
+    ],
+    "161": [
+      "El signo «[;]» es editorial",
+      "El signo «[;]» procede de la presentación de Dyce, donde los corchetes señalan una intervención de puntuación: no forma parte de las palabras pronunciadas. El impreso de 1590 ofrece una pausa al terminar «Monarch of the East» sin estos corchetes. No se borra el testimonio editorial del original inglés digital.",
+      "monarch of the East"
+    ],
+    "166": [
+      "Las «islas recién descubiertas»",
+      "«Late-discover'd isles» extiende el catálogo ceremonial hacia los horizontes de descubrimientos marítimos reconocibles para el público isabelino. No identifica inequívocamente islas concretas: atribuirlas sin más al Caribe sería una conjetura geográfica, no un dato explícito del verso.",
+      "late-discover'd isles"
+    ],
+    "167": [
+      "Mar Euxino y lago Caspio",
+      "«Euxine Sea» es el antiguo nombre del mar Negro; el «Caspian Lake» del verso siguiente es el mar Caspio, al que el texto denomina lago. Su enumeración busca amplitud y magnificencia en los títulos de Cosroe, no exactitud cartográfica sobre el imperio persa.",
+      "Euxine Sea"
+    ],
+    "180": [
+      "«Investion»: investidura",
+      "«Investion» es un sustantivo histórico para la investidura de un soberano. Es distinto de «invention» y no debe traducirse por «inversión»; Ortigio se refiere a celebrar la coronación cerca de la residencia del rey depuesto.",
+      "investion"
+    ],
+    "182": [
+      "«The lords» frente a «The Lord»",
+      "El texto de Dyce adoptado en la edición lee «The lords», en plural. La transcripción Folger del impreso de 1590, A6r (wln 0201), presenta «The Lord» en singular. No se reemplaza el texto base sin una colación sistemática de testimonios; la nota conserva la diferencia visible.",
+      "The lords"
+    ],
+    "183": [
+      "«To injury»: verbo histórico, no mero error",
+      "Dyce imprime «To injury» con valor verbal de «injure» («perjudicar»), uso poco frecuente documentado en inglés moderno temprano y comentado por el propio editor. La transcripción Folger de 1590, A6r (wln 0202), muestra «To iniure». Se conserva el texto de Dyce y se registra la variante, sin modernizarla silenciosamente.",
+      "To injury"
+    ],
     "P1": [
       "Rima y «mighty line»",
       "«Jigging veins» se burla de las cadencias canturreantes del teatro anterior, en especial de los versos rimados y el fourteener Tudor. El prólogo contrapone esa tradición a una dicción solemne de verso blanco, sin demostrar por ello que Marlowe haya inventado el pentámetro yámbico dramático. Véase McInnis (2020), Introducción, pp. 1–3.",
@@ -1546,6 +1591,11 @@ window.TAMBURLAINE_EDITION = {
       "Un aplauso que no obliga",
       "«As you please» pone la aprobación de la fortuna del héroe en manos del público. El prólogo presenta como tragedia una historia cuya primera parte culmina con la supervivencia del conquistador; esta tensión genérica es central en la lectura de McInnis (2020), Introducción, pp. 3–4.",
       "as you please"
+    ],
+    "I2-1": [
+      "Cortesía ante una prisionera",
+      "«Appal» significa aquí causar espanto o turbación. La petición cortés con que Tamerlán se dirige a Zenócrate contrasta con la acotación que la muestra entrando junto al conquistador y con el tesoro incautado. La promesa de custodiar los bienes no equivale a una liberación de la cautiva.",
+      "appal your thoughts"
     ]
   },
   "lex": {
@@ -1707,7 +1757,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 1,
       "speaker": "TAMBURLAINE",
       "en": "Come, lady, let not this appal your thoughts;",
-      "es": "Venid, señora, no dejéis que esto os perturbe;"
+      "es": "Vamos, señora, no deje que esto la atemorice;"
     },
     {
       "id": "I2-2",
@@ -1721,7 +1771,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 3,
       "speaker": "",
       "en": "Shall be reserv'd, and you in better state",
-      "es": "quedarán a buen recaudo, y vos estaréis en mejor situación"
+      "es": "quedarán a buen recaudo, y usted estará en mejor situación"
     },
     {
       "id": "I2-4",
@@ -34171,6 +34221,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.1.93–142",
         "body": "La autoridad de Micetes se deshace en dos movimientos simultáneos. Mientras el rey ordena registrar los insultos de su hermano y jura por su asiento real, Cosroe revela que los nobles y las guarniciones ya han organizado su coronación. Menafón traduce la crisis política en programa de conquista: el «imperio mutilado» puede «curarse» mediante una nueva expansión militar. La llegada de la diadema materializa esa transferencia de lealtades antes de la aparición de Tamerlán. Lectura editorial del pasaje, vinculada con la atención de McInnis al contraste entre insignia regia y poder efectivo.",
         "source": "Lectura editorial de I.1.93–142; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 13–15."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "El catálogo del imperio y el poder aún sin conquistar",
+        "range": "Parte I · I.1.143–189",
+        "body": "Ceneo invoca el descontento de tropas ociosas para legitimar el cambio de rey: una guerra civil latente se transforma, mediante una ceremonia, en promesa de nuevas conquistas. La comparación con los macedonios que saquearon a Darío introduce una ironía: el ejemplo de gloria militar escogido recuerda una derrota persa. Ortigio acumula títulos sobre territorios heterogéneos, algunos abiertamente ajenos al dominio efectivo del nuevo monarca. Esa expansión verbal culmina en la aclamación coral, cuando la corona escénica hace visible una autoridad todavía precaria. La escena anticipa, sin reproducirla, la importancia material de la corona que McInnis analiza en II.4.",
+        "source": "Lectura editorial de I.1.143–189; testimonio de 1590, A5v–A6r; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (2020), pp. 13–15, sobre las insignias y el poder político."
       }
     ]
   }
