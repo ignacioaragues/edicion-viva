@@ -120,23 +120,23 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX capita I–II complete and caput III opening (§13), PL 54 col. 160C–162C; remainder III–IV pending",
-      "paragraphs": 13,
-      "latin_tokens": 585,
-      "lexical_coverage": "585/585 first-pass token occurrences with contextual lexical cards",
-      "translation": "capita I–II and caput III opening translated; remainder III–IV pending",
-      "voice_notes": 13,
+      "section": "Sermo IX capita I–II complete and caput III §§13–14, PL 54 col. 160C–162C; remainder III–IV pending",
+      "paragraphs": 14,
+      "latin_tokens": 641,
+      "lexical_coverage": "641/641 first-pass token occurrences with contextual lexical cards",
+      "translation": "capita I–II and caput III §§13–14 translated; remainder III–IV pending",
+      "voice_notes": 14,
       "complete_work": false,
-      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending."
+      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Unde hortamur sanctitatem vestram ut per Ecclesias regionum vestrarum",
+    "beginning": "Sunt enim qui palam poscere ea quibus indigent erubescunt",
     "location": "PL 54 Sermo IX caput III col. 162C"
   },
-  "priority": "Finish Sermo IX capita II–IV before Sermo X",
+  "priority": "Finish Sermo IX capita III–IV before Sermo X",
   "last_edit": "2026-11-17",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
