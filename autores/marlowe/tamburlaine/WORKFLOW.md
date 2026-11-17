@@ -195,3 +195,10 @@
 - **46 correcciones de traducción**, en especial las imágenes mitológicas, la promesa de protección de Júpiter, los títulos políticos y la navegación del Caspio. **12 notas** ancladas al inglés: «furniture», Averno, «outward habit», «characters», Parcas, «raze», oro supuestamente enviado por Júpiter, «renowmed», «merchants», «vail», cónsules y «shepherd's weed».
 - **Una ficha interpretativa** sobre los signos de providencia preparados por el propio Tamerlán (Tom Rutter, «Tamburlaine the Weather Man», en McInnis, ed., *Tamburlaine: A Critical Reader*, 2020, p. 119). No se confundió la persuasión del personaje con una afirmación doctrinal de la edición.
 - Texto inglés, identificadores, escena, acotaciones y navegación intactos. Las notas aparecen únicamente subrayadas en su ancla inglesa.
+
+
+## Novena pasada filológica (17-11-2026)
+- **50 unidades**, Parte I, I.2.204–253. Acumulado **450** (Prólogo P1–8, I.1.1–189 e I.2.1–253). Próxima pasada: I.2.254–259 (6) + II.1.1–44 (44).
+- Colación del texto base Dyce (PG #1094) y el impreso de **1590** Folger EarlyPrint (B1v–B2r, wln 0421–0470). Variantes: **«Are these»** de 1590 frente a **«To these»** en Dyce (I.2.225), y **«statutes»** de 1590 frente a **«statues»** en Dyce (I.2.244). Sin modernización silenciosa del inglés. Fuente primaria https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- **45 correcciones de traducción**, especialmente en el ofrecimiento de asociación («competitor»), «pathetical», el juramento de amistad, el símbolo de los elementos y la imagen del corazón dispuesto al sacrificio. **12 notas nuevas** ancladas a expresiones inglesas. **1 ficha interpretativa** sobre la rendición de Teridamas y el pacto de amistad, con distinción entre la lectura editorial y los testigos.
+- Texto inglés, turnos, números, escena, acotaciones, navegación y subrayado discreto de notas preservados.
