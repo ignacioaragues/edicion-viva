@@ -53,7 +53,6 @@ a{color:inherit}
 .scene-number{font-size:11px;color:var(--accent);font-weight:700;align-self:flex-start;padding-top:2px}
 .scene-nav>span:nth-child(2){font-weight:600;font-size:12px;flex:1}
 .scene-nav small{display:block;font-size:10px;font-weight:400;color:#8d9188;margin-top:5px}
-.scene-dot{width:5px;height:5px;border-radius:100%;background:var(--accent)}
 .upcoming-scenes{padding:12px 9px 17px 34px;display:flex;align-items:center;justify-content:space-between;gap:5px;font-size:11px;color:#8e9288}
 .upcoming-scenes span:last-child{font-size:9px;color:#b1b2aa}
 .disabled-acts{border-top:1px solid var(--line);margin-top:7px;padding-top:8px}
@@ -429,3 +428,14 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 .font-size-controls button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
 .font-size-controls button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .font-size-controls button:disabled{opacity:.4;cursor:default}
+
+/* Índices de todas las obras: nunca mostrar puntos de estado junto a las entradas. */
+.sidebar nav .scene-dot,.sidebar nav .nav-dot,.sidebar nav .navigation-dot{display:none!important}
+
+/* Navegación entre sermones publicados: anterior y siguiente, sin enlace al actual. */
+.endnote.sermon-pager{display:flex;flex-direction:row;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.endnote.sermon-pager>a{font:600 12px/1.6 var(--sans);color:var(--accent);text-decoration:none}
+.endnote.sermon-pager>a:hover{text-decoration:underline;text-underline-offset:3px}
+.endnote.sermon-pager>span{font:500 12px/1.6 var(--sans);color:var(--ink-pale);opacity:.65}
+.endnote.sermon-pager>.sermon-pager-next{text-align:right;margin-left:auto}
+@media(max-width:640px){.endnote.sermon-pager{flex-direction:row}.endnote.sermon-pager>*{flex:1 1 105px}}
