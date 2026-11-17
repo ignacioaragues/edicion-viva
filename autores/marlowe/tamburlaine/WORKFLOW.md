@@ -63,3 +63,10 @@
 - Se inaugura la segunda parte con la edición de Alexander Dyce, Project Gutenberg eBook 1589, sin mezclar su numeración con la primera. Orcanes, Gazelo, Uribasa y Segismundo aparecen en el comienzo.
 - La acotación de cierre tras V.1.534 se mantiene fuera del cómputo de renglones y como fin de Parte I.
 - El total de las dos partes en el lector es **2428 renglones traducidos**. La fase de cotejo textual y revisión de cortes en prosa, notas y fichas sigue pendiente. **Siguiente renglón: Parte II I.1.114**.
+
+## Novena pasada de traducción (17-11-2026)
+- **300 renglones nuevos**: Parte II I.1.114–166 (53), I.2.1–78 (78), I.3.1–169 (169).
+- Segunda parte: acto I, escenas 1 y 2 completas, escena 3 hasta el renglón 169. Trama: tregua entre Segismundo y Orcanes, fuga de Calapino, Tamerlán y sus hijos, llegada de sus reyes aliados.
+- Acotaciones en inglés y español entre los renglones; ninguna cuenta como verso. No se añadieron notas filológicas ni fichas léxicas.
+- **2728 renglones acumulados** entre las dos partes (2315 en la primera, 413 en la segunda).
+- Base inglesa provisional Dyce (Project Gutenberg 1589); cotejo con primeras ediciones y revisión de cortes en prosa pendientes. Próximo: **Parte II I.3.170**.

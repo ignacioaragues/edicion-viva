@@ -181,9 +181,9 @@
       "complete": true
     }
   ],
-  "publishedVerseLines": 2428,
+  "publishedVerseLines": 2728,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Part I first translation draft now complete: all acts through V.1.534 and 8-line prologue. Part II first act first scene through line 113. Editorial notes, lexical records, prose line reflow and collation with historical witnesses remain pending.",
+  "editorialReview": "Part I complete in first draft (2315 source line units including prologue). Part II Act I scenes 1 and 2 complete, scene 3 through 169. Editorial, philological and verse-vs-prose collation remains pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -194,10 +194,20 @@
   "next": {
     "part": 2,
     "act": 1,
-    "scene": 1,
-    "line": 114
+    "scene": 3,
+    "line": 170
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "Part II I.1.114–166 (53); I.2.1–78 (78); I.3.1–169 (169)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce via Project Gutenberg #1589; philological review pending",
+    "editorialNote": "Scenes I.1 and I.2 complete; I.3 through 169. Stage directions excluded from counts."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "Part I V.1.348–534 (187); Part II I.1.1–113 (113)",
@@ -206,16 +216,6 @@
     "status": "first translation draft",
     "source": "Dyce, Project Gutenberg 1094 and 1589",
     "editorialNote": "Part I first draft complete; Part II started. Prose and printed wraps not metrically collated."
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "V.1.48–347",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "A. Dyce (Project Gutenberg #1094), awaiting collation with Neilson and the early print",
-    "editorialNote": "Physical wraps of prose (including the delirious speech of Zabina) remain aligned as source lines"
   },
   "part1": {
     "complete": true,
@@ -227,16 +227,36 @@
   },
   "part2": {
     "complete": false,
-    "publishedLineCount": 113,
+    "publishedLineCount": 413,
     "sections": [
       {
         "act": 1,
         "scene": 1,
         "publishedLines": [
           1,
-          113
+          166
         ],
-        "nextLine": 114,
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 1,
+        "scene": 2,
+        "publishedLines": [
+          1,
+          78
+        ],
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 1,
+        "scene": 3,
+        "publishedLines": [
+          1,
+          169
+        ],
+        "nextLine": 170,
         "complete": false
       }
     ],
