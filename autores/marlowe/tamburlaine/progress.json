@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Primera revisión filológica: Parte I, prólogo P1–8; actos I y II completos; III.1.1–29. Total: 950 unidades revisadas. Próximo III.1.30–67 (38) y III.2.1–12 (12).",
+  "editorialReview": "Primera revisión filológica: Parte I, Prólogo P1–8, actos I y II completos, III.1 completa y III.2.1–12. Total 1.000 unidades. Próxima III.2.13–62 (50).",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 950,
+    "reviewedUnits": 1000,
     "reviewed": [
       {
         "part": 1,
@@ -644,29 +644,44 @@
         "start": 1,
         "end": 29,
         "count": 29
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 1,
+        "start": 30,
+        "end": 67,
+        "count": 38
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 2,
+        "start": 1,
+        "end": 12,
+        "count": 12
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Parte I II.7.47–67 (21), III.1.1–29 (29)",
+      "scope": "Parte I III.1.30–67 (38) y III.2.1–12 (12)",
       "unitsReviewed": 50,
       "translationLinesRevised": 44,
       "translationLinesValidated": 50,
-      "newNotes": 19,
+      "newNotes": 18,
       "readingCardsAdded": 2,
-      "mode": "philology-19.js additive, exact original-English check for each of 50 rows and all 19 notes",
+      "mode": "philology-20.js non-destructive, 50 original English literal-line checks + note-anchor checks",
       "sourceBasis": [
-        "1590 first imprint, Richard Jones, Folger EarlyPrint C2r–C3r, wln 0953–1008",
-        "Alexander Dyce (ed.), Tamburlaine the Great, Part I, PG #1094",
-        "M. L. Stapleton, Tamburlaine critical edition (ed. and notes), III.1"
+        "First print 1590 (Richard Jones), Folger EarlyPrint C3r–C3v, wln 1009–1061",
+        "Alexander Dyce, Tamburlaine the Great, Part One, Project Gutenberg #1094"
       ],
-      "note": "Closes II.7 and Act II, begins III.1. Variants Are/Is and think/thinks; talents=talons; tires falconry; basso=pasha; bickering skirmish; Christians renied apostates."
+      "note": "Act III scene 1 complete. Notes on legate, regreet, courtly flattery, pione(e)rs, Orcus, defensive siege plan, textual tremble[s], and rape as coercive abduction, no sexual events inferred."
     },
     "next": {
       "part": 1,
       "act": 3,
-      "scene": 1,
-      "line": 30
+      "scene": 2,
+      "line": 13
     }
   }
 }

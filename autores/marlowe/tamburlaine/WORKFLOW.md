@@ -275,3 +275,10 @@
 - Atención a «talents» = garras, «tires» = desgarrar/devorar en cetrería, «portly» = majestuoso, «bassoes» = bajás, «bickering» = escaramuza, «Christians renied» = cristianos que han renegado de la fe, «Terrene sea» = Mediterráneo. Fuentes de aparato: Dyce y M. L. Stapleton, edición crítica, notas a III.1.
 - Dos fichas nuevas sobre la aclamación de Tamerlán por sus hombres y la aparición de Bayaceto bajo el sitio de Constantinopla. Las lecturas interpretativas son editoriales y se distinguen de las glosas léxicas.
 - Capa `philology-19.js` después de las anteriores; no se tocan texto inglés, IDs, rótulos, acotaciones, fragmentación en escenas, navegación ni resaltados.
+
+## Vigésima pasada filológica y de lecturas (17-11-2026)
+- **50 unidades consecutivas**: Parte I III.1.30–67 (38, escena III.1 terminada) y III.2.1–12 (12). Acumulado **1.000 / 4.641 (21,5 %)**. Sigue **III.2.13–62**.
+- **44 traducciones corregidas**, 6 renglones conservados; correspondencia con 50 versos ingleses verificada por igualdad literal. **18 notas** de ancla inglesa y **2 fichas** críticas sobre el asedio de Constantinopla y la presentación de Zenócrate.
+- Cotejo directo: impreso de Richard Jones (1590), Folger EarlyPrint **C3r–C3v, wln 1009–1061**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html y A. Dyce (PG #1094). Se anota la enmienda «tremble[s]» de Dyce frente a «tremble» de 1590 (III.1.49).
+- Notas específicas sobre «regreet», «legate», «smothering», «pioners» (= zapadores), «countermand», «Orcus» y «offensive rape». Esta última se traduce como **rapto violento**: conserva el contexto de captura forzada y evita atribuir sin pruebas un acto sexual específico. La respuesta de Zenócrate continúa tras III.2.12.
+- Se añadió `philology-20.js` después de capas anteriores. Se preservan original inglés, numeración, nombres de personajes, acotaciones, navegación y resaltados. El texto no se presenta como una sola página.
