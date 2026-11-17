@@ -51,3 +51,8 @@
 - Acto IV completo; acto V, escena 1, hasta 47. Total acumulado **1828 renglones** incluyendo los ocho del prólogo.
 - Dyce (Project Gutenberg 1094) es la base provisional. En IV.4 se excluye de la numeración el rótulo aislado `THERIDAMAS.` (entre los renglones 59 y 60); no es verso. Atención: en el episodio del banquete hay diálogo en prosa, cuyo corte físico en el fichero fuente no equivale necesariamente a versos métricos.
 - Solo traducción, sin notas ni nuevas fichas. Próxima tanda **V.1.48**. Revisar posterior colación con Neilson y el testimonio temprano.
+
+## Séptima pasada de traducción (17-11-2026)
+- **300 renglones nuevos**, de V.1.48 a V.1.347. El texto incluye el ruego de las doncellas, la matanza de Damasco, el discurso sobre la belleza y el final del cautiverio de Bayaceto y Zabina.
+- **2128 renglones acumulados** (8 de prólogo + el texto dramático). Se conservan las acotaciones escénicas sin computarlas como versos; la prosa en el texto de Dyce sigue dividida por renglones físicos.
+- Solo traducción, sin ampliar el aparato de notas ni las fichas. Próximo tramo: **V.1.348**. La Parte I todavía no está completa (la escena final continúa).
