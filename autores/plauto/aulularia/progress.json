@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisión II.5, 327–340; cotejar suplemento 328a y laguna 329.",
+  "next": "Auditoría de 367–406; pruebas visuales y cotejo aparato Leo pendientes.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 326,
-    "next_verse": 327,
+    "reviewed_through_verse": 366,
+    "next_verse": 367,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Segunda pasada correlativa hasta 326; 327–340 con suplementos y crux pendientes. Aparato de Leo y QA visual no completados.",
+    "note": "Auditoría estática de 327–366, 40 versos; correcciones morfológicas puntuales y ficha de sigla CONG. No equivale a cotejo exhaustivo del aparato Leo ni QA en navegador.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1792,6 +1792,20 @@
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_II_V"
         ],
         "note": "Cotejo de 321–326 y todas las fichas; corregidos matices de soleo semideponente, nundinalest, acusativo cocum y trifurcifer. Conservados texto e identificadores; notas de 328a y 329 se revisarán con II.5. Sin QA visual ni cotejo directo del aparato de Leo."
+      },
+      {
+        "section": "II.5–II.7",
+        "from": 327,
+        "to": 366,
+        "verses": 40,
+        "tokens": 277,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://ancientlibrary.net/plautus-titus-maccius-aulularia/",
+          "https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0119.phi003.perseus-lat1"
+        ],
+        "note": "Cotejados los 40 versos y sus fichas, traducciones y formas con fuentes textuales; identificada sigla CONG en 349 y agregada ficha sin alterar el texto ni offsets; precisados iniuria, Eleusium, quid y coctam. Suplemento 328a y laguna 329 mantenidos. Requiere revisión crítica más profunda de aparato Leo y prueba funcional en navegador."
       }
     ],
     "spot_checks": [
