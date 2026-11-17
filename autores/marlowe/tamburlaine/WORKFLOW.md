@@ -187,3 +187,11 @@
 
 ### Comprobación adicional del testimonio de 1590 · pasada VII
 - Verificada directamente la transcripción del **primer impreso (1590)**, Folger EarlyPrint **A8v, wln 0348**: **«mountain foot»**, no «mountain-top». La edición crítica de M. L. Stapleton confirma que **las tres primeras ediciones** traen «mountain foot» y la **cuarta** «mountain-top»; Dyce adopta esta última. Se corrigió una atribución imprecisa en la nota I.2.133 sin sustituir el inglés de base ni alterar la traducción. Testimonio: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html; cotejo crítico: https://users.pfw.edu/stapletm/msa/docs/CaseMarlowev2Tam.pdf.
+
+
+## Octava pasada filológica y de lecturas (17-11-2026)
+- **50 unidades consecutivas** de la Parte I, I.2.154–203; **400** unidades revisadas acumuladas (P1–8, I.1 completa, I.2.1–203). Próximo tramo **I.2.204–253**.
+- Cotejo de inglés base (Dyce, Project Gutenberg #1094) con la transcripción del impreso de 1590, Folger EarlyPrint, B1r–B1v, wln 0371–0420. La lectura **«Auernas»** (wln 0377) frente a **«Avernus»** de Dyce queda registrada, sin modificar el texto inglés; https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- **46 correcciones de traducción**, en especial las imágenes mitológicas, la promesa de protección de Júpiter, los títulos políticos y la navegación del Caspio. **12 notas** ancladas al inglés: «furniture», Averno, «outward habit», «characters», Parcas, «raze», oro supuestamente enviado por Júpiter, «renowmed», «merchants», «vail», cónsules y «shepherd's weed».
+- **Una ficha interpretativa** sobre los signos de providencia preparados por el propio Tamerlán (Tom Rutter, «Tamburlaine the Weather Man», en McInnis, ed., *Tamburlaine: A Critical Reader*, 2020, p. 119). No se confundió la persuasión del personaje con una afirmación doctrinal de la edición.
+- Texto inglés, identificadores, escena, acotaciones y navegación intactos. Las notas aparecen únicamente subrayadas en su ancla inglesa.
