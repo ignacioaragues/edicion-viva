@@ -30454,6 +30454,643 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "These jades are broken winded and half-tir'd;",
           "es": "Estos jamelgos están sin resuello y medio agotados;"
+        },
+        {
+          "id": "P2-V1-130",
+          "number": 130,
+          "speaker": "TAMBURLAINE",
+          "en": "Unharness them, and let me have fresh horse.",
+          "es": "Desenganchen a estos reyes y tráiganme otros caballos."
+        },
+        {
+          "id": "P2-V1-131",
+          "number": 131,
+          "speaker": "",
+          "en": "So; now their best is done to honour me,",
+          "es": "Bien; ya han hecho cuanto podían para honrarme,"
+        },
+        {
+          "id": "P2-V1-132",
+          "number": 132,
+          "speaker": "",
+          "en": "Take them and hang them both up presently.",
+          "es": "llévenselos y ahorquen a los dos de inmediato."
+        },
+        {
+          "id": "P2-V1-133",
+          "number": 133,
+          "speaker": "KING OF TREBIZON",
+          "en": "Vile tyrant! barbarous bloody Tamburlaine!",
+          "es": "¡Tirano infame! ¡Bárbaro y sanguinario Tamerlán!"
+        },
+        {
+          "id": "P2-V1-134",
+          "number": 134,
+          "speaker": "TAMBURLAINE",
+          "en": "Take them away, Theridamas; see them despatch'd.",
+          "es": "Llévatelos, Teridamas, y procura que los ejecuten."
+        },
+        {
+          "id": "P2-V1-135",
+          "number": 135,
+          "speaker": "THERIDAMAS",
+          "en": "I will, my lord.",
+          "es": "Así lo haré, señor."
+        },
+        {
+          "id": "P2-V1-136",
+          "number": 136,
+          "speaker": "TAMBURLAINE",
+          "en": "Come, Asian viceroys; to your tasks a while,",
+          "es": "Vamos, virreyes de Asia: les toca trabajar un poco"
+        },
+        {
+          "id": "P2-V1-137",
+          "number": 137,
+          "speaker": "",
+          "en": "And take such fortune as your fellows felt.",
+          "es": "y correr la misma suerte que sus compañeros."
+        },
+        {
+          "id": "P2-V1-138",
+          "number": 138,
+          "speaker": "ORCANES",
+          "en": "First let thy Scythian horse tear both our limbs,",
+          "es": "Que tus caballos escitas nos despedacen antes"
+        },
+        {
+          "id": "P2-V1-139",
+          "number": 139,
+          "speaker": "",
+          "en": "Rather than we should draw thy chariot,",
+          "es": "de que nos veamos obligados a tirar de tu carro"
+        },
+        {
+          "id": "P2-V1-140",
+          "number": 140,
+          "speaker": "",
+          "en": "And, like base slaves, abject our princely minds",
+          "es": "y, como viles esclavos, rebajemos nuestro orgullo principesco"
+        },
+        {
+          "id": "P2-V1-141",
+          "number": 141,
+          "speaker": "",
+          "en": "To vile and ignominious servitude.",
+          "es": "a una servidumbre infame y humillante."
+        },
+        {
+          "id": "P2-V1-142",
+          "number": 142,
+          "speaker": "KING OF JERUSALEM",
+          "en": "Rather lend me thy weapon, Tamburlaine,",
+          "es": "Préstame más bien tu arma, Tamerlán,"
+        },
+        {
+          "id": "P2-V1-143",
+          "number": 143,
+          "speaker": "",
+          "en": "That I may sheathe it in this breast of mine.",
+          "es": "para que pueda hundírmela en el pecho."
+        },
+        {
+          "id": "P2-V1-144",
+          "number": 144,
+          "speaker": "",
+          "en": "A thousand deaths could not torment our hearts",
+          "es": "Ni mil muertes podrían atormentar nuestros corazones"
+        },
+        {
+          "id": "P2-V1-145",
+          "number": 145,
+          "speaker": "",
+          "en": "More than the thought of this doth vex our souls.",
+          "es": "tanto como la sola idea de ese ultraje atormenta nuestras almas."
+        },
+        {
+          "id": "P2-V1-146",
+          "number": 146,
+          "speaker": "AMYRAS",
+          "en": "They will talk still, my lord, if you do not bridle them.",
+          "es": "Seguirán hablando, señor, si no les ponen un freno."
+        },
+        {
+          "id": "P2-V1-147",
+          "number": 147,
+          "speaker": "TAMBURLAINE",
+          "en": "Bridle them, and let me to my coach.",
+          "es": "Pónganles el freno y déjenme subir al carro."
+        },
+        {
+          "id": "P2-V1-148",
+          "number": 148,
+          "speaker": "AMYRAS",
+          "en": "See, now, my lord, how brave the captain hangs!",
+          "es": "¡Mira, señor, con qué gallardía cuelga el gobernador!"
+        },
+        {
+          "id": "P2-V1-149",
+          "number": 149,
+          "speaker": "TAMBURLAINE",
+          "en": "’Tis brave indeed, my boy:—well done!—",
+          "es": "Una imagen magnífica, hijo mío. ¡Bien hecho!"
+        },
+        {
+          "id": "P2-V1-150",
+          "number": 150,
+          "speaker": "",
+          "en": "Shoot first, my lord, and then the rest shall follow.",
+          "es": "Dispara tú primero, señor; los demás te seguirán."
+        },
+        {
+          "id": "P2-V1-151",
+          "number": 151,
+          "speaker": "THERIDAMAS",
+          "en": "Then have at him, to begin withal.",
+          "es": "Pues allá va el primero."
+        },
+        {
+          "id": "P2-V1-152",
+          "number": 152,
+          "speaker": "GOVERNOR",
+          "en": "Yet save my life, and let this wound appease",
+          "es": "¡Salven aún mi vida, y que esta herida aplaque"
+        },
+        {
+          "id": "P2-V1-153",
+          "number": 153,
+          "speaker": "",
+          "en": "The mortal fury of great Tamburlaine!",
+          "es": "la furia mortal del gran Tamerlán!"
+        },
+        {
+          "id": "P2-V1-154",
+          "number": 154,
+          "speaker": "TAMBURLAINE",
+          "en": "No, though Asphaltis’ lake were liquid gold,",
+          "es": "No. Aunque el lago Asfaltites fuese de oro líquido"
+        },
+        {
+          "id": "P2-V1-155",
+          "number": 155,
+          "speaker": "",
+          "en": "And offer’d me as ransom for thy life,",
+          "es": "y me lo ofrecieran como rescate de tu vida,"
+        },
+        {
+          "id": "P2-V1-156",
+          "number": 156,
+          "speaker": "",
+          "en": "Yet shouldst thou die.—Shoot at him all at once.",
+          "es": "morirías igualmente. ¡Dispárenle todos a la vez!"
+        },
+        {
+          "id": "P2-V1-157",
+          "number": 157,
+          "speaker": "",
+          "en": "So, now he hangs like Bagdet’s governor,",
+          "es": "Así está bien: ahora cuelga como el gobernador de Bagdad,"
+        },
+        {
+          "id": "P2-V1-158",
+          "number": 158,
+          "speaker": "",
+          "en": "Having as many bullets in his flesh",
+          "es": "con tantas balas alojadas en la carne"
+        },
+        {
+          "id": "P2-V1-159",
+          "number": 159,
+          "speaker": "",
+          "en": "As there be breaches in her batter’d wall.",
+          "es": "como boquetes hay en sus murallas derruidas."
+        },
+        {
+          "id": "P2-V1-160",
+          "number": 160,
+          "speaker": "",
+          "en": "Go now, and bind the burghers hand and foot,",
+          "es": "Vayan ahora, aten de pies y manos a los ciudadanos"
+        },
+        {
+          "id": "P2-V1-161",
+          "number": 161,
+          "speaker": "",
+          "en": "And cast them headlong in the city’s lake.",
+          "es": "y arrójenlos de cabeza al lago de la ciudad."
+        },
+        {
+          "id": "P2-V1-162",
+          "number": 162,
+          "speaker": "",
+          "en": "Tartars and Persians shall inhabit there;",
+          "es": "Tártaros y persas habitarán este lugar;"
+        },
+        {
+          "id": "P2-V1-163",
+          "number": 163,
+          "speaker": "",
+          "en": "And, to command the city, I will build",
+          "es": "y para dominar la ciudad levantaré"
+        },
+        {
+          "id": "P2-V1-164",
+          "number": 164,
+          "speaker": "",
+          "en": "A citadel, that all Africa,",
+          "es": "una ciudadela, por la cual toda África,"
+        },
+        {
+          "id": "P2-V1-165",
+          "number": 165,
+          "speaker": "",
+          "en": "Which hath been subject to the Persian king,",
+          "es": "que ha estado sometida al rey de Persia,"
+        },
+        {
+          "id": "P2-V1-166",
+          "number": 166,
+          "speaker": "",
+          "en": "Shall pay me tribute for in Babylon.",
+          "es": "me pagará tributo aquí, en Babilonia."
+        },
+        {
+          "id": "P2-V1-167",
+          "number": 167,
+          "speaker": "TECHELLES",
+          "en": "What shall be done with their wives and children, my lord?",
+          "es": "¿Qué haremos con sus mujeres y sus hijos, señor?"
+        },
+        {
+          "id": "P2-V1-168",
+          "number": 168,
+          "speaker": "TAMBURLAINE",
+          "en": "Techelles, drown them all, man, woman, and child;",
+          "es": "Tequeles, ahógalos a todos: hombres, mujeres y niños."
+        },
+        {
+          "id": "P2-V1-169",
+          "number": 169,
+          "speaker": "",
+          "en": "Leave not a Babylonian in the town.",
+          "es": "No dejes ni un solo babilonio en la ciudad."
+        },
+        {
+          "id": "P2-V1-170",
+          "number": 170,
+          "speaker": "TECHELLES",
+          "en": "I will about it straight.—Come, soldiers.",
+          "es": "Me ocuparé de inmediato. Vamos, soldados."
+        },
+        {
+          "id": "P2-V1-171",
+          "number": 171,
+          "speaker": "TAMBURLAINE",
+          "en": "Now, Casane, where’s the Turkish Alcoran,",
+          "es": "Y ahora, Casane, ¿dónde está el Alcorán de los turcos"
+        },
+        {
+          "id": "P2-V1-172",
+          "number": 172,
+          "speaker": "",
+          "en": "And all the heaps of superstitious books",
+          "es": "y todos esos montones de libros supersticiosos"
+        },
+        {
+          "id": "P2-V1-173",
+          "number": 173,
+          "speaker": "",
+          "en": "Found in the temples of that Mahomet",
+          "es": "hallados en los templos de ese Mahoma"
+        },
+        {
+          "id": "P2-V1-174",
+          "number": 174,
+          "speaker": "",
+          "en": "Whom I have thought a god? they shall be burnt.",
+          "es": "al que consideré un dios? Los quemaremos."
+        },
+        {
+          "id": "P2-V1-175",
+          "number": 175,
+          "speaker": "USUMCASANE",
+          "en": "Here they are, my lord.",
+          "es": "Aquí están, señor."
+        },
+        {
+          "id": "P2-V1-176",
+          "number": 176,
+          "speaker": "TAMBURLAINE",
+          "en": "Well said! let there be a fire presently.",
+          "es": "Muy bien. Enciendan una hoguera ahora mismo."
+        },
+        {
+          "id": "P2-V1-177",
+          "number": 177,
+          "speaker": "",
+          "en": "In vain, I see, men worship Mahomet:",
+          "es": "Ya veo que los hombres veneran a Mahoma en vano:"
+        },
+        {
+          "id": "P2-V1-178",
+          "number": 178,
+          "speaker": "",
+          "en": "My sword hath sent millions of Turks to hell,",
+          "es": "mi espada ha enviado a millones de turcos al infierno,"
+        },
+        {
+          "id": "P2-V1-179",
+          "number": 179,
+          "speaker": "",
+          "en": "Slew all his priests, his kinsmen, and his friends,",
+          "es": "ha matado a todos sus sacerdotes, parientes y amigos,"
+        },
+        {
+          "id": "P2-V1-180",
+          "number": 180,
+          "speaker": "",
+          "en": "And yet I live untouch’d by Mahomet.",
+          "es": "y, sin embargo, Mahoma no me ha tocado."
+        },
+        {
+          "id": "P2-V1-181",
+          "number": 181,
+          "speaker": "",
+          "en": "There is a God, full of revenging wrath,",
+          "es": "Hay un Dios, lleno de ira vengadora,"
+        },
+        {
+          "id": "P2-V1-182",
+          "number": 182,
+          "speaker": "",
+          "en": "From whom the thunder and the lightning breaks,",
+          "es": "del que brotan los truenos y los relámpagos,"
+        },
+        {
+          "id": "P2-V1-183",
+          "number": 183,
+          "speaker": "",
+          "en": "Whose scourge I am, and him will I obey.",
+          "es": "del que soy azote y al que obedeceré."
+        },
+        {
+          "id": "P2-V1-184",
+          "number": 184,
+          "speaker": "",
+          "en": "So, Casane; fling them in the fire.—",
+          "es": "Así que, Casane, arrójalos al fuego."
+        },
+        {
+          "id": "P2-V1-185",
+          "number": 185,
+          "speaker": "",
+          "en": "Now, Mahomet, if thou have any power,",
+          "es": "Ahora, Mahoma, si tienes algún poder,"
+        },
+        {
+          "id": "P2-V1-186",
+          "number": 186,
+          "speaker": "",
+          "en": "Come down thyself and work a miracle:",
+          "es": "desciende en persona y obra un milagro."
+        },
+        {
+          "id": "P2-V1-187",
+          "number": 187,
+          "speaker": "",
+          "en": "Thou art not worthy to be worshipped",
+          "es": "No mereces ser venerado"
+        },
+        {
+          "id": "P2-V1-188",
+          "number": 188,
+          "speaker": "",
+          "en": "That suffer’st flames of fire to burn the writ",
+          "es": "si consientes que las llamas consuman el escrito"
+        },
+        {
+          "id": "P2-V1-189",
+          "number": 189,
+          "speaker": "",
+          "en": "Wherein the sum of thy religion rests:",
+          "es": "que contiene la esencia de tu religión."
+        },
+        {
+          "id": "P2-V1-190",
+          "number": 190,
+          "speaker": "",
+          "en": "Why send’st thou not a furious whirlwind down,",
+          "es": "¿Por qué no envías un torbellino furioso"
+        },
+        {
+          "id": "P2-V1-191",
+          "number": 191,
+          "speaker": "",
+          "en": "To blow thy Alcoran up to thy throne,",
+          "es": "que eleve tu Alcorán hasta tu trono,"
+        },
+        {
+          "id": "P2-V1-192",
+          "number": 192,
+          "speaker": "",
+          "en": "Where men report thou sitt’st by God himself?",
+          "es": "donde, según dicen, te sientas junto a Dios?"
+        },
+        {
+          "id": "P2-V1-193",
+          "number": 193,
+          "speaker": "",
+          "en": "Or vengeance on the head of Tamburlaine",
+          "es": "¿O un castigo sobre la cabeza de Tamerlán,"
+        },
+        {
+          "id": "P2-V1-194",
+          "number": 194,
+          "speaker": "",
+          "en": "That shakes his sword against thy majesty,",
+          "es": "que agita la espada contra tu majestad"
+        },
+        {
+          "id": "P2-V1-195",
+          "number": 195,
+          "speaker": "",
+          "en": "And spurns the abstracts of thy foolish laws?—",
+          "es": "y desprecia el compendio de tus necias leyes?"
+        },
+        {
+          "id": "P2-V1-196",
+          "number": 196,
+          "speaker": "",
+          "en": "Well, soldiers, Mahomet remains in hell;",
+          "es": "Bien, soldados: Mahoma sigue en el infierno."
+        },
+        {
+          "id": "P2-V1-197",
+          "number": 197,
+          "speaker": "",
+          "en": "He cannot hear the voice of Tamburlaine:",
+          "es": "No puede oír la voz de Tamerlán."
+        },
+        {
+          "id": "P2-V1-198",
+          "number": 198,
+          "speaker": "",
+          "en": "Seek out another godhead to adore;",
+          "es": "Busquen otra divinidad a la que adorar:"
+        },
+        {
+          "id": "P2-V1-199",
+          "number": 199,
+          "speaker": "",
+          "en": "The God that sits in heaven, if any god,",
+          "es": "al Dios que mora en el cielo, si es que existe algún dios,"
+        },
+        {
+          "id": "P2-V1-200",
+          "number": 200,
+          "speaker": "",
+          "en": "For he is God alone, and none but he.",
+          "es": "pues solo él es Dios, y nadie más."
+        },
+        {
+          "id": "P2-V1-201",
+          "number": 201,
+          "speaker": "TECHELLES",
+          "en": "I have fulfill’d your highness’ will, my lord:",
+          "es": "He cumplido la voluntad de vuestra alteza, señor:"
+        },
+        {
+          "id": "P2-V1-202",
+          "number": 202,
+          "speaker": "",
+          "en": "Thousands of men, drown’d in Asphaltis’ lake,",
+          "es": "miles de personas ahogadas en el lago Asfaltites"
+        },
+        {
+          "id": "P2-V1-203",
+          "number": 203,
+          "speaker": "",
+          "en": "Have made the water swell above the banks,",
+          "es": "han hecho que las aguas se desborden,"
+        },
+        {
+          "id": "P2-V1-204",
+          "number": 204,
+          "speaker": "",
+          "en": "And fishes, fed by human carcasses,",
+          "es": "y los peces, alimentados de cadáveres humanos,"
+        },
+        {
+          "id": "P2-V1-205",
+          "number": 205,
+          "speaker": "",
+          "en": "Amaz’d, swim up and down upon the waves,",
+          "es": "nadan aturdidos de un lado a otro entre las olas,"
+        },
+        {
+          "id": "P2-V1-206",
+          "number": 206,
+          "speaker": "",
+          "en": "As when they swallow assafoetida,",
+          "es": "como cuando tragan asafétida,"
+        },
+        {
+          "id": "P2-V1-207",
+          "number": 207,
+          "speaker": "",
+          "en": "Which makes them fleet aloft and gape for air.",
+          "es": "que los hace subir a la superficie boqueando por aire."
+        },
+        {
+          "id": "P2-V1-208",
+          "number": 208,
+          "speaker": "TAMBURLAINE",
+          "en": "Well, then, my friendly lords, what now remains,",
+          "es": "Muy bien, nobles amigos, ¿qué nos queda por hacer"
+        },
+        {
+          "id": "P2-V1-209",
+          "number": 209,
+          "speaker": "",
+          "en": "But that we leave sufficient garrison,",
+          "es": "sino dejar aquí una guarnición suficiente"
+        },
+        {
+          "id": "P2-V1-210",
+          "number": 210,
+          "speaker": "",
+          "en": "And presently depart to Persia,",
+          "es": "y partir de inmediato hacia Persia,"
+        },
+        {
+          "id": "P2-V1-211",
+          "number": 211,
+          "speaker": "",
+          "en": "To triumph after all our victories?",
+          "es": "para celebrar el triunfo de todas nuestras victorias?"
+        },
+        {
+          "id": "P2-V1-212",
+          "number": 212,
+          "speaker": "THERIDAMAS",
+          "en": "Ay, good my lord, let us in haste to Persia;",
+          "es": "Sí, buen señor, apresurémonos a llegar a Persia"
+        },
+        {
+          "id": "P2-V1-213",
+          "number": 213,
+          "speaker": "",
+          "en": "And let this captain be remov’d the walls",
+          "es": "y hagamos trasladar al gobernador de las murallas"
+        },
+        {
+          "id": "P2-V1-214",
+          "number": 214,
+          "speaker": "",
+          "en": "To some high hill about the city here.",
+          "es": "a alguna colina elevada de las cercanías."
+        },
+        {
+          "id": "P2-V1-215",
+          "number": 215,
+          "speaker": "TAMBURLAINE",
+          "en": "Let it be so;—about it, soldiers;—",
+          "es": "Que así sea. ¡Manos a la obra, soldados!"
+        },
+        {
+          "id": "P2-V1-216",
+          "number": 216,
+          "speaker": "",
+          "en": "But stay; I feel myself distemper’d suddenly.",
+          "es": "Pero esperen: de repente me siento enfermo."
+        },
+        {
+          "id": "P2-V1-217",
+          "number": 217,
+          "speaker": "TECHELLES",
+          "en": "What is it dares distemper Tamburlaine?",
+          "es": "¿Qué se atreve a enfermar a Tamerlán?"
+        },
+        {
+          "id": "P2-V1-218",
+          "number": 218,
+          "speaker": "TAMBURLAINE",
+          "en": "Something, Techelles; but I know not what.—",
+          "es": "Algo, Tequeles, aunque no sé qué."
+        },
+        {
+          "id": "P2-V1-219",
+          "number": 219,
+          "speaker": "",
+          "en": "But, forth, ye vassals! whatsoe’er it be,",
+          "es": "Pero ¡adelante, vasallos! Sea lo que sea,"
+        },
+        {
+          "id": "P2-V1-220",
+          "number": 220,
+          "speaker": "",
+          "en": "Sickness or death can never conquer me.",
+          "es": "ni la enfermedad ni la muerte podrán vencerme."
         }
       ]
     }
@@ -30948,6 +31585,76 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 126,
       "en": "Attendants take the governor away.",
       "es": "Los sirvientes se llevan al gobernador."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 130,
+      "en": "Attendants unharness the kings of Trebizond and Soria.",
+      "es": "Los sirvientes desenganchan del carro a los reyes de Trebisonda y Siria."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 135,
+      "en": "Theridamas exits with the kings of Trebizond and Soria.",
+      "es": "Teridamas sale con los reyes de Trebisonda y Siria."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 147,
+      "en": "Attendants bridle Orcanes and the king of Jerusalem, harnessing them to the chariot; the governor of Babylon appears hanging in chains on the wall; Theridamas returns.",
+      "es": "Los sirvientes ponen frenos a Orcanes y al rey de Jerusalén y los enganchan al carro. El gobernador aparece encadenado en la muralla y regresa Teridamas."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 151,
+      "en": "Theridamas shoots at the governor.",
+      "es": "Teridamas dispara contra el gobernador."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 156,
+      "en": "The soldiers shoot at the governor.",
+      "es": "Los soldados disparan contra el gobernador."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 170,
+      "en": "Exit Techelles with soldiers.",
+      "es": "Sale Tequeles con soldados."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 176,
+      "en": "They light a fire.",
+      "es": "Encienden una hoguera."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 184,
+      "en": "They burn the books.",
+      "es": "Queman los libros."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 200,
+      "en": "Re-enter Techelles.",
+      "es": "Regresa Tequeles."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 220,
+      "en": "Exeunt.",
+      "es": "Salen todos."
     }
   ]
 };
