@@ -1045,6 +1045,16 @@
       "tokens": 25,
       "source": "The Latin Library IV.8; Friedrich Leo 1895 direct collation pending",
       "note": "Lectura Picis incierta, anotada expresamente. Traducción original y fichas contextuales. Segunda pasada retrospectiva sin avance certificado."
+    },
+    {
+      "section": "IV.8",
+      "from": 705,
+      "to": 712,
+      "verses": 8,
+      "status": "edited_not_revised",
+      "tokens": 61,
+      "source": "The Latin Library IV.8, https://www.thelatinlibrary.com/plautus/aulularia.shtml; Friedrich Leo 1895 direct collation pending",
+      "note": "Traducción propia y 61 fichas con glosas contextuales; presentes históricos y acusativo direccional domum. Revisión morfológica retrospectiva no certificada, permanece en 159; prueba visual y cotejo directo Leo pendientes."
     }
   ],
   "pending": [
@@ -1054,7 +1064,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.8, versos 705–712; revisión retrospectiva desde 160",
+  "next": "IV.9, desde el verso 713; revisión morfológica retrospectiva consecutiva desde 160, pendiente migración de IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
