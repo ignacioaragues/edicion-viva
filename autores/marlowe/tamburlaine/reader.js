@@ -53,7 +53,9 @@ $('#mobile-nav').addEventListener('click',toggleNav);$('#nav-panel-toggle').addE
 $('#characters-panel-toggle').addEventListener('click',()=>{if(window.matchMedia('(max-width:1160px)').matches)rail.classList.toggle('open');else shell.classList.toggle('characters-collapsed');});
 $('#mobile-characters').addEventListener('click',()=>rail.classList.toggle('open'));
 document.querySelectorAll('.scene-index a[href^="#"]').forEach(a=>a.addEventListener('click',()=>nav.classList.remove('open')));
-const resume=$('#resume-reading');try{const saved=localStorage.getItem(POS);if(saved&&document.getElementById(saved)){resume.disabled=false;resume.addEventListener('click',()=>document.getElementById(saved).scrollIntoView({behavior:'smooth'}));}}catch{}
+const resume=$('#resume-reading');
+resume.addEventListener('click',()=>{try{const saved=localStorage.getItem(POS),node=saved&&document.getElementById(saved);if(node)node.scrollIntoView({behavior:'smooth'});}catch{}});
+try{const saved=localStorage.getItem(POS);if(saved&&document.getElementById(saved))resume.disabled=false;}catch{}
 let lastId='';
 const observer=new IntersectionObserver(entries=>{const xs=entries.filter(e=>e.isIntersecting).sort((a,b)=>a.boundingClientRect.top-b.boundingClientRect.top);if(!xs.length)return;const row=xs[0].target;if(row.id===lastId)return;lastId=row.id;try{localStorage.setItem(POS,lastId);}catch{}resume.disabled=false;
 $('#current-position').textContent=row.id.startsWith('mar-pro-')?'Prólogo · v. '+row.querySelector('.number').textContent:'Acto I · Escena 1 · v. '+row.querySelector('.number').textContent;
