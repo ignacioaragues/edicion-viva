@@ -171,16 +171,17 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Continue contextual morphology at 82.13 (Ad quam beatus coapostolus tuus) through 82.18; printed PL collation and reader integration pending.",
-      "morphology_units_with_contextual_table": 12,
-      "morphology_token_occurrences": 620,
+      "next": "Continue contextual morphology at 82.14 (Cujus furor per omnium vitiorum inflammatus excessum) through 82.18; printed PL collation and reader integration pending.",
+      "morphology_units_with_contextual_table": 13,
+      "morphology_token_occurrences": 650,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
       "morphology_files": [
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-3-5.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-6-8.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-9-11.md",
-        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-12.md"
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-12.md",
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-13.md"
       ]
     },
     {
