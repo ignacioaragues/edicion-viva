@@ -50,6 +50,7 @@ function renderAnnotatedText(line,target,note,key){
   renderWords(line.slice(found+wanted.length),target);
 }
 function openNote(anchor,note){
+  if(!notesEnabled)return;
   const alreadyOpen=!notePanel.hidden&&notePanel.dataset.anchorId===anchor.closest('.verse')?.id;
   hidePopups();
   if(alreadyOpen)return;
@@ -170,11 +171,12 @@ function setActiveScene(scene,{scroll=true,lineId=null}={}){
   $('#mobile-nav').setAttribute('aria-expanded','false');
   if(scroll){
     const target=lineId?document.getElementById(lineId):scene.section;
-    (target||scene.section).scrollIntoView({block:lineId?'center':'start',behavior:'instant'});
+    (target||scene.section).scrollIntoView({block:lineId?'center':'start',behavior:'auto'});
   }
 }
 function navigateFromHash({scroll=true}={}){
-  const raw=decodeURIComponent(window.location.hash.slice(1));
+  // Si no hay enlace directo, reabrir la última posición, como en Coriolanus.
+  const raw=decodeURIComponent(window.location.hash.slice(1))||savedPosition();
   const lineId=sectionOfLine.has(raw)?raw:null;
   const scene=sceneById.get(raw)||sceneById.get(sectionOfLine.get(raw))||sceneList[0];
   setActiveScene(scene,{scroll,lineId});
@@ -222,6 +224,6 @@ resume.addEventListener('click',()=>{
   if(window.location.hash==='#'+saved)setActiveScene(sceneById.get(section),{lineId:saved});
   else window.location.hash=saved;
 });
-navigateFromHash({scroll:!!window.location.hash});
+navigateFromHash({scroll:!!window.location.hash||sectionOfLine.has(savedPosition())});
 listSaved();
 })();
