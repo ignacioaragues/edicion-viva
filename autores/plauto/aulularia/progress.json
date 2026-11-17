@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Segunda revisión 807–846; posteriormente QA final y corrección segura de numeración II.1 142–161.",
+  "next": "Auditoría crítica final y visual; corregir numeración II.1 142–161 con preservación de resaltados.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 806,
-    "next_verse": 807,
+    "reviewed_through_verse": 833,
+    "next_verse": null,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Segunda pasada 767–806 cerrada en cotejo textual estático con Leo derivado (Humanitext) y ediciones escolares; 56 unidades incluidas las sufijadas, 364 tokens alineados, fichas y glosas cubiertas. QA visual/navegador y aparato crítico exhaustivo pendientes, sin afirmar publicación Pages.",
+    "note": "Revisión morfológica estática hasta el final conservado (833 y fragmentos asociados), incluidas unidades sufijadas y 814–815; no inventar 834–846. Pendientes auditoría crítica global, numeración II.1 142–161 y QA navegador.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -2014,6 +2014,19 @@
           "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_IV_X"
         ],
         "note": "Segunda revisión filológica de 767–806 completada con fichas por token y glosas verificadas, incluidas unidades sufijadas; 364 tokens. Traducción 790–791 afinada para distinguir cometer falta de reconocer culpa; faxint optativo arcaico (788). Ediciones cotejadas parcialmente, sin colación exhaustiva de aparato Leo. No hubo prueba navegador ni Pages. Se preservaron data-reading-id y estructura."
+      },
+      {
+        "section": "IV.11–IV.12 y final fragmentario",
+        "from": 807,
+        "to": 833,
+        "units": 46,
+        "tokens": 221,
+        "status": "morphology_revised_static_check_final_extant",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A779-834_frg5"
+        ],
+        "note": "Final conservado auditado estáticamente, sin inventar 834–846. Cuatro precisiones 810, 811, 817 y 820. Alineación token-ficha verificada, incluidos números sufijados y 814–815. Sin QA navegador."
       }
     ],
     "spot_checks": [
