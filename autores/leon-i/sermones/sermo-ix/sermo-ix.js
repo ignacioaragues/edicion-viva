@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162D; cap. III parcial",
+  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–163A; cap. III completo; cap. IV pendiente",
   "status": "partial",
-  "next": "Caput III: Recte autem in egeno et paupere ipsius Jesu Christi Domini nostri persona sentitur",
+  "next": "Caput IV: Ut autem in omnibus, dilectissimi, placeat Domino vestra devotio",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -2833,6 +2833,365 @@ window.LEO_SERMO_I = {
           "cum",
           "conjunción causal",
           "puesto que"
+        ]
+      }
+    },
+    {
+      "id": "s9-16",
+      "label": "16",
+      "latin": "Recte autem in egeno et paupere ipsius Jesu Christi Domini nostri persona sentitur, qui cum esset dives, pauper factus est, ut nos sua paupertate ditaret.",
+      "spanish": "Con razón se reconoce en el indigente y el pobre la persona misma de nuestro Señor Jesucristo, quien, siendo rico, se hizo pobre para enriquecernos con su pobreza.",
+      "note": [
+        "Cristo en el pobre",
+        "Persona sentitur hace de la ayuda una relación con Cristo; dives / pauper y paupertate / ditaret articulan la inversión de 2 Cor 8,9. El aparato registra enim por autem y una formulación alternativa de la cita paulina."
+      ],
+      "lexicon": {
+        "Recte": [
+          "recte",
+          "adverbio",
+          "con razón"
+        ],
+        "autem": [
+          "autem",
+          "partícula adversativa",
+          "pero"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "egeno": [
+          "egenus",
+          "ablativo masculino singular",
+          "en el indigente"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "paupere": [
+          "pauper",
+          "ablativo singular",
+          "en el pobre"
+        ],
+        "ipsius": [
+          "ipse",
+          "genitivo masculino singular",
+          "del mismo"
+        ],
+        "Jesu": [
+          "Iesus",
+          "genitivo masculino singular",
+          "de Jesús"
+        ],
+        "Christi": [
+          "Christus",
+          "genitivo masculino singular",
+          "de Cristo"
+        ],
+        "Domini": [
+          "dominus",
+          "genitivo masculino singular",
+          "del Señor"
+        ],
+        "nostri": [
+          "noster",
+          "genitivo masculino singular",
+          "nuestro"
+        ],
+        "persona": [
+          "persona",
+          "nominativo femenino singular",
+          "persona"
+        ],
+        "sentitur": [
+          "sentio",
+          "presente indicativo pasivo 3.ª singular",
+          "se reconoce"
+        ],
+        "qui": [
+          "qui",
+          "nominativo masculino plural relativo",
+          "quienes"
+        ],
+        "cum": [
+          "cum",
+          "conjunción causal",
+          "puesto que"
+        ],
+        "esset": [
+          "sum",
+          "imperfecto subjuntivo tercera singular",
+          "habría de ser"
+        ],
+        "dives": [
+          "dives",
+          "nominativo masculino singular",
+          "rico"
+        ],
+        "pauper": [
+          "pauper",
+          "nominativo masculino singular",
+          "pobre"
+        ],
+        "factus": [
+          "facio",
+          "participio perfecto nominativo masculino singular",
+          "hecho"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "nos": [
+          "nos",
+          "acusativo plural",
+          "nos"
+        ],
+        "sua": [
+          "suus",
+          "ablativo femenino singular",
+          "suya"
+        ],
+        "paupertate": [
+          "paupertas",
+          "ablativo femenino singular",
+          "con la pobreza"
+        ],
+        "ditaret": [
+          "dito",
+          "imperfecto subjuntivo activo 3.ª singular",
+          "enriqueciera"
+        ]
+      }
+    },
+    {
+      "id": "s9-17",
+      "label": "17",
+      "latin": "Et ne deesse nobis sua praesentia videretur, ita humilitatis et gloriae suae temperavit mysterium, ut quem Regem et Dominum in majestate Patris adoramus, eumdem in suis pauperibus pasceremus, liberandi ob hoc in die mala a damnatione perpetua, et pro intellecti pauperis cura, regni caelestis consortiis inserendi.",
+      "spanish": "Y para que no pareciera que nos faltaba su presencia, dispuso de tal modo el misterio de su humildad y de su gloria que a aquel a quien adoramos como Rey y Señor en la majestad del Padre lo alimentáramos en sus pobres, para ser así librados, en el día aciago, de la condenación perpetua e incorporados a la comunión del reino celestial por el cuidado prestado al pobre que hemos sabido reconocer.",
+      "note": [
+        "Adorar y alimentar",
+        "Quem ... eumdem identifica al Rey adorado con el pobre alimentado. La pareja humilitatis et gloriae reúne los dos registros; el aparato consigna sui praesentia por sua praesentia."
+      ],
+      "lexicon": {
+        "Et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "ne": [
+          "ne",
+          "conjunción final negativa",
+          "para que no"
+        ],
+        "deesse": [
+          "desum",
+          "infinitivo presente",
+          "faltar"
+        ],
+        "nobis": [
+          "nos",
+          "dativo plural",
+          "a nosotros"
+        ],
+        "sua": [
+          "suus",
+          "ablativo femenino singular",
+          "suya"
+        ],
+        "praesentia": [
+          "praesentia",
+          "nominativo femenino singular",
+          "presencia"
+        ],
+        "videretur": [
+          "video",
+          "imperfecto subjuntivo pasivo 3.ª singular",
+          "pareciera"
+        ],
+        "ita": [
+          "ita",
+          "adverbio correlativo",
+          "de tal modo"
+        ],
+        "humilitatis": [
+          "humilitas",
+          "genitivo femenino singular",
+          "de la humildad"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "gloriae": [
+          "gloria",
+          "genitivo femenino singular",
+          "de la gloria"
+        ],
+        "suae": [
+          "suus",
+          "genitivo femenino singular",
+          "suya"
+        ],
+        "temperavit": [
+          "tempero",
+          "perfecto indicativo activo 3.ª singular",
+          "dispuso"
+        ],
+        "mysterium": [
+          "mysterium",
+          "acusativo neutro singular",
+          "misterio"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "quem": [
+          "qui",
+          "acusativo masculino singular relativo",
+          "a quien"
+        ],
+        "Regem": [
+          "rex",
+          "acusativo masculino singular",
+          "Rey"
+        ],
+        "Dominum": [
+          "dominus",
+          "acusativo masculino singular",
+          "Señor"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "majestate": [
+          "maiestas",
+          "ablativo femenino singular",
+          "majestad"
+        ],
+        "Patris": [
+          "pater",
+          "genitivo masculino singular",
+          "del Padre"
+        ],
+        "adoramus": [
+          "adoro",
+          "presente indicativo activo 1.ª plural",
+          "adoramos"
+        ],
+        "eumdem": [
+          "idem",
+          "acusativo masculino singular",
+          "al mismo"
+        ],
+        "suis": [
+          "suus",
+          "ablativo masculino plural",
+          "en sus"
+        ],
+        "pauperibus": [
+          "pauper",
+          "ablativo masculino plural",
+          "pobres"
+        ],
+        "pasceremus": [
+          "pasco",
+          "imperfecto subjuntivo activo 1.ª plural",
+          "alimentáramos"
+        ],
+        "liberandi": [
+          "libero",
+          "gerundivo nominativo masculino plural",
+          "destinados a ser librados"
+        ],
+        "ob": [
+          "ob",
+          "preposición con acusativo",
+          "por"
+        ],
+        "hoc": [
+          "hic",
+          "ablativo neutro singular",
+          "por esto"
+        ],
+        "die": [
+          "dies",
+          "ablativo singular",
+          "día"
+        ],
+        "mala": [
+          "malus",
+          "ablativo femenino singular",
+          "aciago"
+        ],
+        "a": [
+          "a",
+          "preposición con ablativo",
+          "por"
+        ],
+        "damnatione": [
+          "damnatio",
+          "ablativo femenino singular",
+          "condenación"
+        ],
+        "perpetua": [
+          "perpetuus",
+          "ablativo femenino singular",
+          "perpetua"
+        ],
+        "pro": [
+          "pro",
+          "preposición con ablativo",
+          "por"
+        ],
+        "intellecti": [
+          "intellego",
+          "participio perfecto pasivo genitivo masculino singular",
+          "reconocido"
+        ],
+        "pauperis": [
+          "pauper",
+          "genitivo singular",
+          "del pobre"
+        ],
+        "cura": [
+          "cura",
+          "ablativo femenino singular",
+          "cuidado"
+        ],
+        "regni": [
+          "regnum",
+          "genitivo neutro singular",
+          "del reino"
+        ],
+        "caelestis": [
+          "caelestis",
+          "genitivo neutro singular",
+          "celestial"
+        ],
+        "consortiis": [
+          "consortium",
+          "dativo neutro plural",
+          "a la comunión"
+        ],
+        "inserendi": [
+          "insero",
+          "gerundivo nominativo masculino plural",
+          "destinados a ser incorporados"
         ]
       }
     }
