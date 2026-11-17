@@ -1248,7 +1248,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Texto conservado y fragmentos incorporados: revisar aparato crítico, exactitud de 821–833, fragmentos y laguna; iniciar auditoría morfológica consecutiva desde 160, migración de IDs 142–161; QA visual y marcadores de laguna.",
+  "next": "Resolver estructura II.1 vv.142–161 conservando IDs estables de resaltados; completar auditoría 160–167 y seguir en bloques 5–10 versos. Revisar laguna y fragmentos, cotejo crítico, QA.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
@@ -1678,6 +1678,13 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "En «Post mediam aetatem qui media ducit uxorem domum», media es acusativo femenino singular concordante con uxorem, no ablativo elíptico de aetate. La repetición mediam/media articula el juego de palabras. No se adelanta la segunda pasada consecutiva (159)."
+      },
+      {
+        "section": "II.1",
+        "from": 162,
+        "to": 167,
+        "status": "spot_check_not_contiguous",
+        "note": "Revisados análisis de 162–167; corregidos media (162), ablativo femenino singular elíptico, y nostrum (166), genitivo del pronombre nos. El checkpoint consecutivo permanece en 159 por duplicación 160–161 y desajuste de numeración 142–161. Cotejo externo del aparato crítico aún pendiente."
       }
     ],
     "spot_checks": [
