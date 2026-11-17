@@ -28382,7 +28382,7 @@ window.TAMBURLAINE_EDITION = {
           "number": 65,
           "speaker": "",
           "en": "With which if you but 'noint your tender skin,",
-          "es": "si tan solo te ungís con ellos la delicada piel,"
+          "es": "si tan solo te unges con ellos la delicada piel,"
         },
         {
           "id": "P2-IV2-66",
@@ -29592,14 +29592,14 @@ window.TAMBURLAINE_EDITION = {
           "number": 6,
           "speaker": "",
           "en": "Then hang out flags, my lord, of humble truce,",
-          "es": "Izad, pues, señor, las banderas de una humilde tregua"
+          "es": "Haga izar, señor, las banderas de una humilde tregua"
         },
         {
           "id": "P2-V1-7",
           "number": 7,
           "speaker": "",
           "en": "And satisfy the people's general prayers,",
-          "es": "y atended a las súplicas unánimes del pueblo,"
+          "es": "y atienda las súplicas unánimes del pueblo,"
         },
         {
           "id": "P2-V1-8",
