@@ -225,3 +225,10 @@
 - **12 notas** con subrayado discreto y **2 fichas interpretativas**: los Spartoi nacidos de los dientes del dragón y el plan de arrojar oro como señuelo.
 - Fuentes: Dyce (PG #1094) y Folger EarlyPrint, impreso de **1590**, B4r–B4v, wln 0580–0629. Peter Kirwan, «The Performance History», en David McInnis (ed.), Tamburlaine: A Critical Reader (2020), pp. 43–66, se usa solo como contexto general sobre escenificaciones.
 - Capa filológica independiente philology-12.js, cargada a continuación de philology-11.js, sin regenerar text.js.
+
+## Decimotercera pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** revisadas de Parte I II.3.1–50; acumulado **650 / 4641 (14,0 %)**. Sigue **II.3.51–66 (16) y II.4.1–34 (34)**.
+- **42 traducciones modificadas**, 8 confirmadas sin cambios, 50 originales ingleses validados. **13 notas** con anclas inglesas exactas y **dos fichas críticas** sobre la variante «and / not» y el poder persuasivo de Tamerlán.
+- Colación Dyce (PG #1094) frente al testimonio 1590, Folger EarlyPrint **B5r–B5v, wln 0634–0684**; se documentan variantes «top/stop», «thirst/thrust», «and/not», «Rhamnus/Rhamnis» y la preposición suplementada «[of]». Consulta de A. Dyce, aparato crítico en PG #1094, notas 87–94.
+- Lectura filológica: Mathew R. Martin, «Inferior Readings: The Transmigration of ‘Material’ in Tamburlaine the Great», *Early Theatre* 17.2 (2014), pp. 70–71, DOI https://doi.org/10.12745/et.17.2.1207. Martin advierte que 1590 distingue deber de amistad donde una lectura de 1605/6, seguida por ediciones posteriores, los suma.
+- Implementación como capa `philology-13.js`, tras capas XI–XII; no alterar `text.js`, estructura de escena, numeración, acotaciones, navegación ni resaltados.
