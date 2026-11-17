@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–162B; capita I–II completa, III–IV pendientes",
+  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162B; cap. III iniciado (col. 162B–C)",
   "status": "partial",
-  "next": "Caput III: Ad horum ergo operum, dilectissimi, piam curam",
+  "next": "Caput III: Unde hortamur sanctitatem vestram ut per Ecclesias regionum vestrarum",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -2092,6 +2092,278 @@ window.LEO_SERMO_I = {
           "affectus",
           "acusativo masculino singular",
           "afecto"
+        ]
+      }
+    },
+    {
+      "id": "s9-13",
+      "label": "13",
+      "latin": "Ad horum ergo operum, dilectissimi, piam curam dies nos apostolicae institutionis invitat, in quo sanctarum collationum prima collectio est prudenter a Patribus et utiliter ordinata: ut quia in hoc tempore gentilis quondam populus superstitiosius daemonibus serviebat, contra profanas hostias impiorum, sacratissima nostrarum eleemosynarum celebraretur oblatio. Quod quia incrementis Ecclesiae fructuosissimum fuit, placuit esse perpetuum.",
+      "spanish": "A la piadosa atención de estas obras, queridísimos, nos invita un día establecido por tradición apostólica, en el cual los Padres dispusieron con prudencia y provecho la primera colecta de las santas contribuciones: puesto que en otro tiempo, durante esta época, el pueblo pagano rendía un culto especialmente supersticioso a los demonios, se quiso que, frente a las ofrendas profanas de los impíos, se celebrara la santísima ofrenda de nuestras limosnas. Y como esto resultó sumamente fructífero para el crecimiento de la Iglesia, se decidió hacerlo permanente.",
+      "note": [
+        "La colecta como contrarrito",
+        "El giro contra profanas hostias ... sacratissima ... oblatio opone dos formas de ofrenda. La institución apostólica y la decisión de los Padres legitiman una práctica que León presenta como permanente. Aparato: collectionum por collationum en numerosos testimonios; la primera edición invierte los dos sustantivos."
+      ],
+      "lexicon": {
+        "Ad": [
+          "ad",
+          "preposición con acusativo",
+          "a"
+        ],
+        "horum": [
+          "hic",
+          "genitivo neutro plural",
+          "de estas"
+        ],
+        "ergo": [
+          "ergo",
+          "conjunción ilativa",
+          "por tanto"
+        ],
+        "operum": [
+          "opus",
+          "genitivo neutro plural",
+          "obras"
+        ],
+        "dilectissimi": [
+          "dilectus",
+          "vocativo masculino plural superlativo",
+          "queridísimos"
+        ],
+        "piam": [
+          "pius",
+          "acusativo femenino singular",
+          "piadosa"
+        ],
+        "curam": [
+          "cura",
+          "acusativo femenino singular",
+          "atención"
+        ],
+        "dies": [
+          "dies",
+          "nominativo masculino singular",
+          "día"
+        ],
+        "nos": [
+          "nos",
+          "acusativo plural",
+          "nos"
+        ],
+        "apostolicae": [
+          "apostolicus",
+          "genitivo femenino singular",
+          "apostólica"
+        ],
+        "institutionis": [
+          "institutio",
+          "genitivo femenino singular",
+          "institución"
+        ],
+        "invitat": [
+          "invito",
+          "presente indicativo activo 3.ª singular",
+          "invita"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "quo": [
+          "qui",
+          "ablativo masculino singular relativo",
+          "el cual"
+        ],
+        "sanctarum": [
+          "sanctus",
+          "genitivo femenino plural",
+          "santas"
+        ],
+        "collationum": [
+          "collatio",
+          "genitivo femenino plural",
+          "contribuciones"
+        ],
+        "prima": [
+          "primus",
+          "nominativo femenino singular",
+          "primera"
+        ],
+        "collectio": [
+          "collectio",
+          "nominativo femenino singular",
+          "colecta"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular auxiliar",
+          "ha sido"
+        ],
+        "prudenter": [
+          "prudenter",
+          "adverbio",
+          "prudentemente"
+        ],
+        "a": [
+          "a",
+          "preposición con ablativo",
+          "por"
+        ],
+        "Patribus": [
+          "pater",
+          "ablativo masculino plural",
+          "los Padres"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "utiliter": [
+          "utiliter",
+          "adverbio",
+          "provechosamente"
+        ],
+        "ordinata": [
+          "ordino",
+          "participio perfecto pasivo nominativo femenino singular",
+          "establecida"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "quia": [
+          "quia",
+          "conjunción causal",
+          "puesto que"
+        ],
+        "hoc": [
+          "hic",
+          "ablativo neutro singular",
+          "este"
+        ],
+        "tempore": [
+          "tempus",
+          "ablativo neutro singular",
+          "tiempo"
+        ],
+        "gentilis": [
+          "gentilis",
+          "nominativo masculino singular",
+          "pagano"
+        ],
+        "quondam": [
+          "quondam",
+          "adverbio",
+          "antiguamente"
+        ],
+        "populus": [
+          "populus",
+          "nominativo masculino singular",
+          "pueblo"
+        ],
+        "superstitiosius": [
+          "superstitiose",
+          "adverbio comparativo",
+          "con mayor superstición"
+        ],
+        "daemonibus": [
+          "daemon",
+          "dativo masculino plural",
+          "a los demonios"
+        ],
+        "serviebat": [
+          "servio",
+          "imperfecto indicativo activo 3.ª singular",
+          "rendía culto"
+        ],
+        "contra": [
+          "contra",
+          "preposición con acusativo",
+          "frente a"
+        ],
+        "profanas": [
+          "profanus",
+          "acusativo femenino plural",
+          "profanas"
+        ],
+        "hostias": [
+          "hostia",
+          "acusativo femenino plural",
+          "ofrendas"
+        ],
+        "impiorum": [
+          "impius",
+          "genitivo masculino plural",
+          "de los impíos"
+        ],
+        "sacratissima": [
+          "sacratus",
+          "nominativo femenino singular superlativo",
+          "santísima"
+        ],
+        "nostrarum": [
+          "noster",
+          "genitivo femenino plural",
+          "nuestras"
+        ],
+        "eleemosynarum": [
+          "eleemosyna",
+          "genitivo femenino plural",
+          "limosnas"
+        ],
+        "celebraretur": [
+          "celebro",
+          "imperfecto subjuntivo pasivo 3.ª singular",
+          "se celebrara"
+        ],
+        "oblatio": [
+          "oblatio",
+          "nominativo femenino singular",
+          "ofrenda"
+        ],
+        "Quod": [
+          "qui",
+          "nominativo neutro singular relativo de enlace",
+          "lo cual"
+        ],
+        "incrementis": [
+          "incrementum",
+          "dativo neutro plural",
+          "para el crecimiento"
+        ],
+        "Ecclesiae": [
+          "ecclesia",
+          "genitivo femenino singular",
+          "de la Iglesia"
+        ],
+        "fructuosissimum": [
+          "fructuosus",
+          "nominativo neutro singular superlativo",
+          "sumamente fructífero"
+        ],
+        "fuit": [
+          "sum",
+          "perfecto indicativo 3.ª singular",
+          "fue"
+        ],
+        "placuit": [
+          "placeo",
+          "perfecto indicativo impersonal 3.ª singular",
+          "se decidió"
+        ],
+        "esse": [
+          "sum",
+          "infinitivo presente",
+          "ser"
+        ],
+        "perpetuum": [
+          "perpetuus",
+          "acusativo neutro singular",
+          "permanente"
         ]
       }
     }
