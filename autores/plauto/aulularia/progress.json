@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisar en II.2 vv.225–264 (objetivo 40–50 versos), con cotejo de lemas, glosas, traducciones, notas y límites métricos; asegurar que el arreglo visual 186–190 y orden 212–227 se comporten correctamente en navegador. Dividir físicamente 142–143 solo con estrategia segura de resaltados.",
-  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual.",
+  "next": "Continuar segunda revisión filológica desde II.2 verso 265, objetivo 40–50 versos en la próxima pasada (hasta aproximadamente 304), contrastando nombres de esclavos, lecturas y lemas; revisar glosas y notas sin duplicar bibliografía; efectuar QA visual del lector cuando sea posible.",
+  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 224,
-    "next_verse": 225,
+    "reviewed_through_verse": 264,
+    "next_verse": 265,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Segunda pasada consecutiva hasta el verso 224 (edición de 2026-11-17); siguiente 225. Arreglo visible de 186–190 sin cambiar identificadores y corrección de orden 212–227 sin tocar texto de resaltados.",
+    "note": "Segunda revisión consecutiva certificada hasta 264; vv. 244–245 constituyen una sola unidad de lectura; siguiente 265.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1723,6 +1723,23 @@
           "https://hdl.handle.net/10023/14536"
         ],
         "note": "Cotejo editorial de vv. 185–224 (40 versos canónicos repartidos en 40 objetos de lectura heredados), 372 tokens confrontados con sus fichas y grafías. Corregidos qui (en n=188/canónico 187: adverbio relativo instrumental), zamia (197: préstamo griego), bona (213: ablativo elíptico de fide) y aurum (216: nominativo sujeto de olet); traducciones puntualizadas en 186–223 y notas en 186,197,213,216,223, preservando anotaciones anteriores 216/223. Delimitaciones conservadas sin romper resaltados: las entradas históricas 186 y 187 son intervenciones del mismo v.186; n=188 muestra v.187, n=189 muestra v.188 y n=190 muestra vv.189–190. Se corrigió en tiempo de renderizado el orden de 212–225 antes de 226–227. Los IDs v186–v227 y sus offsets históricos no cambian. Archivo JavaScript compilado, cotejo crítico del aparato impreso y QA visual real pendientes."
+      },
+      {
+        "section": "II.2",
+        "from": 225,
+        "to": 264,
+        "verses": 40,
+        "display_units": 39,
+        "tokens": 350,
+        "status": "morphology_revised",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_II_II",
+          "https://www.mqdq.it/testo/testo/codice/PLAVT%7Caulu%7C001",
+          "https://hdl.handle.net/10023/14536",
+          "https://doi.org/10.1093/acprof:oso/9780199209026.001.0001"
+        ],
+        "note": "Revisión filológica de vv. 225–264: los 40 números canónicos se reparten en 39 unidades de datos, dado que 244–245 es una unidad conjunta. Las 350 formas latinas se cotejaron contra sus fichas (alineación exacta). Correcciones a locassim (228; futuro perfecto/perfecto de subjuntivo, flexión arcaica), elinguandam y castrandum (250–251, referencias de género y destinatario), senecta (253), perplexarier (259) y quod (260), además de traducciones 232, 238, 242, 249 y la anotación crítica del nombre Pythodice / Strobile en 264. Variante textual me autem / me item (227). Notas 227,228,264 añadidas; 251 y 259 ampliadas. Se saneó el orden de 212–264 durante el render sin cambiar objetos ni IDs; prueba integrada de orden sobre datos simulados y compilación JS superadas. Pendiente QA real de navegador y cotejo del aparato impreso de Leo. No se añadió texto latino inédito."
       }
     ],
     "spot_checks": [
@@ -1811,6 +1828,20 @@
       "evidence": "Los versos 212–225 estaban añadidos al final del JS, después de 226–227, y se renderizaban fuera de orden.",
       "fix": "Reordenar 212–225 en el array verses antes de renderizar, conservando todos los objetos, IDs y offsets; guardia de longitud y unicidad.",
       "next_action": "Comprobar en navegador la secuencia 211,212,…,225,226,227,228 y los resaltados previos."
+    },
+    {
+      "id": "ii2-225-264-reading-order",
+      "status": "fixed_in_code_simulation_tested",
+      "detected": "2026-11-17",
+      "location": "II.2, vv. 225–264",
+      "evidence": "Vv. 225, 226–235, 236–260, 261–264 y la unidad 244–245 estaban distribuidos en bloques JS añadidos fuera de secuencia.",
+      "fix": "Se reordena el array verses antes del render mediante sort estable por número en II.2 225–264; se reforzó el orden heredado de 212–225; IDs de filas, textos y offsets permanecen intactos.",
+      "commits": [
+        "15fe6eeed024293b59970170d3ca85f5ff8cc1cf",
+        "e855cb985d0d7ea1f06ccc956a7431aed407a2e9",
+        "701b021d0951453457f37d17dd134f24c028cecb"
+      ],
+      "next_action": "Verificar con navegador y resaltados reales que el orden y navegación 211–264 funcionan; test de orden en datos simulados sí completado."
     }
   ],
   "identifier_migration": {
