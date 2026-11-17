@@ -31092,6 +31092,421 @@ window.TAMBURLAINE_EDITION = {
           "en": "Sickness or death can never conquer me.",
           "es": "ni la enfermedad ni la muerte podrán vencerme."
         }
+      ],
+      "2": [
+        {
+          "id": "P2-V2-1",
+          "number": 1,
+          "speaker": "CALLAPINE",
+          "en": "King of Amasia, now our mighty host",
+          "es": "Rey de Amasia, nuestro poderoso ejército"
+        },
+        {
+          "id": "P2-V2-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Marcheth in Asia Major, where the streams",
+          "es": "marcha ya por Asia Menor, donde las corrientes"
+        },
+        {
+          "id": "P2-V2-3",
+          "number": 3,
+          "speaker": "",
+          "en": "Of Euphrates and Tigris swiftly run;",
+          "es": "del Éufrates y el Tigris corren veloces."
+        },
+        {
+          "id": "P2-V2-4",
+          "number": 4,
+          "speaker": "",
+          "en": "And here may we behold great Babylon,",
+          "es": "Desde aquí podemos contemplar la gran Babilonia,"
+        },
+        {
+          "id": "P2-V2-5",
+          "number": 5,
+          "speaker": "",
+          "en": "Circled about with Limnasphaltis’ lake,",
+          "es": "rodeada por el lago Limnasfaltites,"
+        },
+        {
+          "id": "P2-V2-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Where Tamburlaine with all his army lies,",
+          "es": "donde Tamerlán se encuentra con todo su ejército."
+        },
+        {
+          "id": "P2-V2-7",
+          "number": 7,
+          "speaker": "",
+          "en": "Which being faint and weary with the siege,",
+          "es": "Y como sus hombres están rendidos por el asedio,"
+        },
+        {
+          "id": "P2-V2-8",
+          "number": 8,
+          "speaker": "",
+          "en": "We may lie ready to encounter him",
+          "es": "podemos prepararnos para atacarlo"
+        },
+        {
+          "id": "P2-V2-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Before his host be full from Babylon,",
+          "es": "antes de que sus tropas salgan por completo de Babilonia,"
+        },
+        {
+          "id": "P2-V2-10",
+          "number": 10,
+          "speaker": "",
+          "en": "And so revenge our latest grievous loss,",
+          "es": "y vengar así nuestra última y dolorosa derrota,"
+        },
+        {
+          "id": "P2-V2-11",
+          "number": 11,
+          "speaker": "",
+          "en": "If God or Mahomet send any aid.",
+          "es": "si Dios o Mahoma nos prestan ayuda."
+        },
+        {
+          "id": "P2-V2-12",
+          "number": 12,
+          "speaker": "KING OF AMASIA",
+          "en": "Doubt not, my lord, but we shall conquer him:",
+          "es": "No lo dudes, señor: lo venceremos."
+        },
+        {
+          "id": "P2-V2-13",
+          "number": 13,
+          "speaker": "",
+          "en": "The monster that hath drunk a sea of blood,",
+          "es": "Ese monstruo que ha bebido un mar de sangre"
+        },
+        {
+          "id": "P2-V2-14",
+          "number": 14,
+          "speaker": "",
+          "en": "And yet gapes still for more to quench his thirst,",
+          "es": "y todavía abre las fauces para saciar su sed"
+        },
+        {
+          "id": "P2-V2-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Our Turkish swords shall headlong send to hell;",
+          "es": "será arrojado de cabeza al infierno por nuestras espadas turcas."
+        },
+        {
+          "id": "P2-V2-16",
+          "number": 16,
+          "speaker": "",
+          "en": "And that vile carcass, drawn by warlike kings,",
+          "es": "Y ese cuerpo infame, al que transportan reyes guerreros,"
+        },
+        {
+          "id": "P2-V2-17",
+          "number": 17,
+          "speaker": "",
+          "en": "The fowls shall eat; for never sepulchre",
+          "es": "será pasto de las aves, porque ninguna sepultura"
+        },
+        {
+          "id": "P2-V2-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Shall grace this base-born tyrant Tamburlaine.",
+          "es": "honrará al tirano Tamerlán, de tan humilde cuna."
+        },
+        {
+          "id": "P2-V2-19",
+          "number": 19,
+          "speaker": "CALLAPINE",
+          "en": "When I record my parents’ slavish life,",
+          "es": "Cuando recuerdo la vida esclavizada de mis padres,"
+        },
+        {
+          "id": "P2-V2-20",
+          "number": 20,
+          "speaker": "",
+          "en": "Their cruel death, mine own captivity,",
+          "es": "su muerte cruel, mi propio cautiverio"
+        },
+        {
+          "id": "P2-V2-21",
+          "number": 21,
+          "speaker": "",
+          "en": "My viceroys’ bondage under Tamburlaine,",
+          "es": "y la esclavitud de mis virreyes a manos de Tamerlán,"
+        },
+        {
+          "id": "P2-V2-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Methinks I could sustain a thousand deaths,",
+          "es": "creo que soportaría mil muertes"
+        },
+        {
+          "id": "P2-V2-23",
+          "number": 23,
+          "speaker": "",
+          "en": "To be reveng’d of all his villany.—",
+          "es": "con tal de vengar todas sus maldades."
+        },
+        {
+          "id": "P2-V2-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Ah, sacred Mahomet, thou that hast seen",
+          "es": "¡Ah, sagrado Mahoma, tú que has visto"
+        },
+        {
+          "id": "P2-V2-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Millions of Turks perish by Tamburlaine,",
+          "es": "morir a millones de turcos por obra de Tamerlán,"
+        },
+        {
+          "id": "P2-V2-26",
+          "number": 26,
+          "speaker": "",
+          "en": "Kingdoms made waste, brave cities sack’d and burnt,",
+          "es": "reinos devastados, nobles ciudades saqueadas e incendiadas,"
+        },
+        {
+          "id": "P2-V2-27",
+          "number": 27,
+          "speaker": "",
+          "en": "And but one host is left to honour thee,",
+          "es": "y al que solo le queda un ejército para honrarte,"
+        },
+        {
+          "id": "P2-V2-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Aid thy obedient servant Callapine,",
+          "es": "auxilia a tu siervo obediente Calapino"
+        },
+        {
+          "id": "P2-V2-29",
+          "number": 29,
+          "speaker": "",
+          "en": "And make him, after all these overthrows,",
+          "es": "y concédele, después de tantas derrotas,"
+        },
+        {
+          "id": "P2-V2-30",
+          "number": 30,
+          "speaker": "",
+          "en": "To triumph over cursed Tamburlaine!",
+          "es": "triunfar sobre el maldito Tamerlán!"
+        },
+        {
+          "id": "P2-V2-31",
+          "number": 31,
+          "speaker": "KING OF AMASIA",
+          "en": "Fear not, my lord: I see great Mahomet,",
+          "es": "No temas, señor: veo al gran Mahoma"
+        },
+        {
+          "id": "P2-V2-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Clothed in purple clouds, and on his head",
+          "es": "vestido de nubes púrpuras y con una corona"
+        },
+        {
+          "id": "P2-V2-33",
+          "number": 33,
+          "speaker": "",
+          "en": "A chaplet brighter than Apollo’s crown,",
+          "es": "más brillante que la de Apolo sobre la cabeza,"
+        },
+        {
+          "id": "P2-V2-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Marching about the air with armed men,",
+          "es": "avanzando por los aires con guerreros armados"
+        },
+        {
+          "id": "P2-V2-35",
+          "number": 35,
+          "speaker": "",
+          "en": "To join with you against this Tamburlaine.",
+          "es": "para unirse a ti contra Tamerlán."
+        },
+        {
+          "id": "P2-V2-36",
+          "number": 36,
+          "speaker": "CAPTAIN",
+          "en": "Renowmed general, mighty Callapine,",
+          "es": "Ilustre general, poderoso Calapino,"
+        },
+        {
+          "id": "P2-V2-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Though God himself and holy Mahomet",
+          "es": "aunque Dios mismo y el santo Mahoma"
+        },
+        {
+          "id": "P2-V2-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Should come in person to resist your power,",
+          "es": "vinieran en persona a oponerse a tu poder,"
+        },
+        {
+          "id": "P2-V2-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Yet might your mighty host encounter all,",
+          "es": "tu formidable ejército podría enfrentarse a todos"
+        },
+        {
+          "id": "P2-V2-40",
+          "number": 40,
+          "speaker": "",
+          "en": "And pull proud Tamburlaine upon his knees",
+          "es": "y hacer caer de rodillas al orgulloso Tamerlán"
+        },
+        {
+          "id": "P2-V2-41",
+          "number": 41,
+          "speaker": "",
+          "en": "To sue for mercy at your highness’ feet.",
+          "es": "para que suplicara piedad a los pies de tu alteza."
+        },
+        {
+          "id": "P2-V2-42",
+          "number": 42,
+          "speaker": "CALLAPINE",
+          "en": "Captain, the force of Tamburlaine is great,",
+          "es": "Capitán, la fuerza de Tamerlán es grande;"
+        },
+        {
+          "id": "P2-V2-43",
+          "number": 43,
+          "speaker": "",
+          "en": "His fortune greater, and the victories",
+          "es": "su fortuna, mayor todavía, y las victorias"
+        },
+        {
+          "id": "P2-V2-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Wherewith he hath so sore dismay’d the world",
+          "es": "con las que ha aterrorizado tan profundamente al mundo"
+        },
+        {
+          "id": "P2-V2-45",
+          "number": 45,
+          "speaker": "",
+          "en": "Are greatest to discourage all our drifts;",
+          "es": "son lo que más desalienta nuestros planes."
+        },
+        {
+          "id": "P2-V2-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Yet, when the pride of Cynthia is at full,",
+          "es": "Pero, cuando Cintia alcanza todo su esplendor,"
+        },
+        {
+          "id": "P2-V2-47",
+          "number": 47,
+          "speaker": "",
+          "en": "She wanes again; and so shall his, I hope;",
+          "es": "comienza a menguar; y espero que a él le suceda lo mismo."
+        },
+        {
+          "id": "P2-V2-48",
+          "number": 48,
+          "speaker": "",
+          "en": "For we have here the chief selected men",
+          "es": "Porque aquí tenemos a los mejores hombres escogidos"
+        },
+        {
+          "id": "P2-V2-49",
+          "number": 49,
+          "speaker": "",
+          "en": "Of twenty several kingdoms at the least;",
+          "es": "de por lo menos veinte reinos distintos;"
+        },
+        {
+          "id": "P2-V2-50",
+          "number": 50,
+          "speaker": "",
+          "en": "Nor ploughman, priest, nor merchant, stays at home;",
+          "es": "ni campesinos, ni sacerdotes, ni mercaderes se han quedado en casa."
+        },
+        {
+          "id": "P2-V2-51",
+          "number": 51,
+          "speaker": "",
+          "en": "All Turkey is in arms with Callapine;",
+          "es": "Toda Turquía se ha alzado en armas con Calapino"
+        },
+        {
+          "id": "P2-V2-52",
+          "number": 52,
+          "speaker": "",
+          "en": "And never will we sunder camps and arms",
+          "es": "y no separaremos nuestros campamentos ni dejaremos las armas"
+        },
+        {
+          "id": "P2-V2-53",
+          "number": 53,
+          "speaker": "",
+          "en": "Before himself or his be conquered:",
+          "es": "hasta que él o los suyos hayan sido vencidos."
+        },
+        {
+          "id": "P2-V2-54",
+          "number": 54,
+          "speaker": "",
+          "en": "This is the time that must eternize me",
+          "es": "Ha llegado la hora que inmortalizará mi nombre"
+        },
+        {
+          "id": "P2-V2-55",
+          "number": 55,
+          "speaker": "",
+          "en": "For conquering the tyrant of the world.",
+          "es": "por haber conquistado al tirano del mundo."
+        },
+        {
+          "id": "P2-V2-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Come, soldiers, let us lie in wait for him,",
+          "es": "Vamos, soldados, tendámosle una emboscada;"
+        },
+        {
+          "id": "P2-V2-57",
+          "number": 57,
+          "speaker": "",
+          "en": "And, if we find him absent from his camp,",
+          "es": "y si lo encontramos lejos de su campamento,"
+        },
+        {
+          "id": "P2-V2-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Or that it be rejoin’d again at full,",
+          "es": "o si su ejército vuelve a reunirse por completo,"
+        },
+        {
+          "id": "P2-V2-59",
+          "number": 59,
+          "speaker": "",
+          "en": "Assail it, and be sure of victory.",
+          "es": "ataquémoslo, seguros de la victoria."
+        }
       ]
     }
   },
@@ -31653,6 +32068,20 @@ window.TAMBURLAINE_EDITION = {
       "act": 5,
       "scene": 1,
       "afterLine": 220,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 5,
+      "scene": 2,
+      "afterLine": 0,
+      "en": "Enter Callapine, the king of Amasia, a captain, and their retinue, with drums and trumpets.",
+      "es": "Entran Calapino, el rey de Amasia, un capitán y su séquito, con tambores y trompetas."
+    },
+    {
+      "act": 5,
+      "scene": 2,
+      "afterLine": 59,
       "en": "Exeunt.",
       "es": "Salen todos."
     }
