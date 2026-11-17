@@ -31507,6 +31507,379 @@ window.TAMBURLAINE_EDITION = {
           "en": "Assail it, and be sure of victory.",
           "es": "ataquémoslo, seguros de la victoria."
         }
+      ],
+      "3": [
+        {
+          "id": "P2-V3-1",
+          "number": 1,
+          "speaker": "THERIDAMAS",
+          "en": "Weep, heavens, and vanish into liquid tears!",
+          "es": "¡Lloren, cielos, y disuélvanse en lágrimas líquidas!"
+        },
+        {
+          "id": "P2-V3-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Fall, stars that govern his nativity,",
+          "es": "¡Caigan, estrellas que rigen su nacimiento,"
+        },
+        {
+          "id": "P2-V3-3",
+          "number": 3,
+          "speaker": "",
+          "en": "And summon all the shining lamps of heaven",
+          "es": "y convoquen a todas las luminarias del firmamento"
+        },
+        {
+          "id": "P2-V3-4",
+          "number": 4,
+          "speaker": "",
+          "en": "To cast their bootless fires to the earth,",
+          "es": "para que arrojen sus fuegos inútiles sobre la tierra"
+        },
+        {
+          "id": "P2-V3-5",
+          "number": 5,
+          "speaker": "",
+          "en": "And shed their feeble influence in the air;",
+          "es": "y dispersen en el aire su débil influencia!"
+        },
+        {
+          "id": "P2-V3-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Muffle your beauties with eternal clouds;",
+          "es": "¡Cubran su hermosura de nubes eternas!"
+        },
+        {
+          "id": "P2-V3-7",
+          "number": 7,
+          "speaker": "",
+          "en": "For Hell and Darkness pitch their pitchy tents,",
+          "es": "Porque el Infierno y las Tinieblas alzan sus negras tiendas,"
+        },
+        {
+          "id": "P2-V3-8",
+          "number": 8,
+          "speaker": "",
+          "en": "And Death, with armies of Cimmerian spirits,",
+          "es": "y la Muerte, con ejércitos de espíritus cimerios,"
+        },
+        {
+          "id": "P2-V3-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Gives battle 'gainst the heart of Tamburlaine!",
+          "es": "libra batalla contra el corazón de Tamerlán."
+        },
+        {
+          "id": "P2-V3-10",
+          "number": 10,
+          "speaker": "",
+          "en": "Now, in defiance of that wonted love",
+          "es": "Ahora, desafiando el amor acostumbrado"
+        },
+        {
+          "id": "P2-V3-11",
+          "number": 11,
+          "speaker": "",
+          "en": "Your sacred virtues pour'd upon his throne,",
+          "es": "que sus virtudes sagradas derramaban sobre su trono"
+        },
+        {
+          "id": "P2-V3-12",
+          "number": 12,
+          "speaker": "",
+          "en": "And made his state an honour to the heavens,",
+          "es": "y que convertía su reino en honra de los cielos,"
+        },
+        {
+          "id": "P2-V3-13",
+          "number": 13,
+          "speaker": "",
+          "en": "These cowards invisibly assail his soul,",
+          "es": "esos cobardes atacan invisiblemente su alma"
+        },
+        {
+          "id": "P2-V3-14",
+          "number": 14,
+          "speaker": "",
+          "en": "And threaten conquest on our sovereign;",
+          "es": "y amenazan con conquistar a nuestro soberano;"
+        },
+        {
+          "id": "P2-V3-15",
+          "number": 15,
+          "speaker": "",
+          "en": "But, if he die, your glories are disgrac'd,",
+          "es": "pero, si muere, su gloria quedará deshonrada:"
+        },
+        {
+          "id": "P2-V3-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Earth droops, and says that hell in heaven is plac'd!",
+          "es": "la tierra decaerá y dirá que el infierno se ha instalado en el cielo."
+        },
+        {
+          "id": "P2-V3-17",
+          "number": 17,
+          "speaker": "TECHELLES",
+          "en": "O, then, ye powers that sway eternal seats,",
+          "es": "¡Oh, potestades que gobiernan los tronos eternos"
+        },
+        {
+          "id": "P2-V3-18",
+          "number": 18,
+          "speaker": "",
+          "en": "And guide this massy substance of the earth,",
+          "es": "y guían la pesada sustancia de la tierra!"
+        },
+        {
+          "id": "P2-V3-19",
+          "number": 19,
+          "speaker": "",
+          "en": "If you retain desert of holiness,",
+          "es": "Si todavía merecen ser consideradas santas,"
+        },
+        {
+          "id": "P2-V3-20",
+          "number": 20,
+          "speaker": "",
+          "en": "As your supreme estates instruct our thoughts,",
+          "es": "como nos enseña a creer su condición suprema,"
+        },
+        {
+          "id": "P2-V3-21",
+          "number": 21,
+          "speaker": "",
+          "en": "Be not inconstant, careless of your fame,",
+          "es": "no sean inconstantes ni descuiden su fama;"
+        },
+        {
+          "id": "P2-V3-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Bear not the burden of your enemies' joys,",
+          "es": "no soporten el peso de la alegría de sus enemigos"
+        },
+        {
+          "id": "P2-V3-23",
+          "number": 23,
+          "speaker": "",
+          "en": "Triumphing in his fall whom you advanc'd;",
+          "es": "cuando celebren la caída de aquel a quien elevaron."
+        },
+        {
+          "id": "P2-V3-24",
+          "number": 24,
+          "speaker": "",
+          "en": "But, as his birth, life, health, and majesty",
+          "es": "Antes bien, como su nacimiento, vida, salud y majestad"
+        },
+        {
+          "id": "P2-V3-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Were strangely blest and governed by heaven,",
+          "es": "fueron prodigiosamente bendecidos y regidos por el cielo,"
+        },
+        {
+          "id": "P2-V3-26",
+          "number": 26,
+          "speaker": "",
+          "en": "So honour, heaven, (till heaven dissolved be,)",
+          "es": "así también honra, cielo, hasta que el cielo se disuelva,"
+        },
+        {
+          "id": "P2-V3-27",
+          "number": 27,
+          "speaker": "",
+          "en": "His birth, his life, his health, and majesty!",
+          "es": "su nacimiento, su vida, su salud y su majestad."
+        },
+        {
+          "id": "P2-V3-28",
+          "number": 28,
+          "speaker": "USUMCASANE",
+          "en": "Blush, heaven, to lose the honour of thy name,",
+          "es": "¡Ruborízate, cielo, por perder el honor de tu nombre,"
+        },
+        {
+          "id": "P2-V3-29",
+          "number": 29,
+          "speaker": "",
+          "en": "To see thy footstool set upon thy head;",
+          "es": "al ver tu escabel colocado sobre tu cabeza!"
+        },
+        {
+          "id": "P2-V3-30",
+          "number": 30,
+          "speaker": "",
+          "en": "And let no baseness in thy haughty breast",
+          "es": "Y no permitas que ninguna vileza en tu pecho altivo"
+        },
+        {
+          "id": "P2-V3-31",
+          "number": 31,
+          "speaker": "",
+          "en": "Sustain a shame of such inexcellence,",
+          "es": "tolere una vergüenza tan indigna,"
+        },
+        {
+          "id": "P2-V3-32",
+          "number": 32,
+          "speaker": "",
+          "en": "To see the devils mount in angels' thrones,",
+          "es": "como ver a los demonios subir a los tronos de los ángeles"
+        },
+        {
+          "id": "P2-V3-33",
+          "number": 33,
+          "speaker": "",
+          "en": "And angels dive into the pools of hell!",
+          "es": "y a los ángeles hundirse en las lagunas del infierno."
+        },
+        {
+          "id": "P2-V3-34",
+          "number": 34,
+          "speaker": "",
+          "en": "And, though they think their painful date is out,",
+          "es": "Y aunque crean que terminó el plazo de sus tormentos"
+        },
+        {
+          "id": "P2-V3-35",
+          "number": 35,
+          "speaker": "",
+          "en": "And that their power is puissant as Jove's,",
+          "es": "y que su poder es tan grande como el de Júpiter,"
+        },
+        {
+          "id": "P2-V3-36",
+          "number": 36,
+          "speaker": "",
+          "en": "Which makes them manage arms against thy state,",
+          "es": "y por eso levantan armas contra tu reino,"
+        },
+        {
+          "id": "P2-V3-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Yet make them feel the strength of Tamburlaine",
+          "es": "haz que sientan la fuerza de Tamerlán,"
+        },
+        {
+          "id": "P2-V3-38",
+          "number": 38,
+          "speaker": "",
+          "en": "(Thy instrument and note of majesty)",
+          "es": "instrumento tuyo y señal de tu majestad,"
+        },
+        {
+          "id": "P2-V3-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Is greater far than they can thus subdue;",
+          "es": "mucho mayor de lo que ellos pueden someter."
+        },
+        {
+          "id": "P2-V3-40",
+          "number": 40,
+          "speaker": "",
+          "en": "For, if he die, thy glory is disgrac'd,",
+          "es": "Pues, si él muere, tu gloria quedará deshonrada:"
+        },
+        {
+          "id": "P2-V3-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Earth droops, and says that hell in heaven is plac'd!",
+          "es": "la tierra decaerá y dirá que el infierno se ha instalado en el cielo."
+        },
+        {
+          "id": "P2-V3-42",
+          "number": 42,
+          "speaker": "TAMBURLAINE",
+          "en": "What daring god torments my body thus,",
+          "es": "¿Qué dios temerario atormenta así mi cuerpo"
+        },
+        {
+          "id": "P2-V3-43",
+          "number": 43,
+          "speaker": "",
+          "en": "And seeks to conquer mighty Tamburlaine?",
+          "es": "e intenta vencer al poderoso Tamerlán?"
+        },
+        {
+          "id": "P2-V3-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Shall sickness prove me now to be a man,",
+          "es": "¿Acaso la enfermedad demostrará ahora que soy un hombre,"
+        },
+        {
+          "id": "P2-V3-45",
+          "number": 45,
+          "speaker": "",
+          "en": "That have been term'd the terror of the world?",
+          "es": "yo, a quien llamaron el terror del mundo?"
+        },
+        {
+          "id": "P2-V3-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Techelles and the rest, come, take your swords,",
+          "es": "Tequeles y los demás, vengan, tomen sus espadas"
+        },
+        {
+          "id": "P2-V3-47",
+          "number": 47,
+          "speaker": "",
+          "en": "And threaten him whose hand afflicts my soul:",
+          "es": "y amenacen a aquel cuya mano aflige mi alma."
+        },
+        {
+          "id": "P2-V3-48",
+          "number": 48,
+          "speaker": "",
+          "en": "Come, let us march against the powers of heaven,",
+          "es": "Vamos, marchemos contra las potestades del cielo"
+        },
+        {
+          "id": "P2-V3-49",
+          "number": 49,
+          "speaker": "",
+          "en": "And set black streamers in the firmament,",
+          "es": "y alcemos estandartes negros en el firmamento,"
+        },
+        {
+          "id": "P2-V3-50",
+          "number": 50,
+          "speaker": "",
+          "en": "To signify the slaughter of the gods.",
+          "es": "para anunciar la matanza de los dioses."
+        },
+        {
+          "id": "P2-V3-51",
+          "number": 51,
+          "speaker": "",
+          "en": "Ah, friends, what shall I do? I cannot stand.",
+          "es": "¡Ah, amigos! ¿Qué haré? No puedo mantenerme en pie."
+        },
+        {
+          "id": "P2-V3-52",
+          "number": 52,
+          "speaker": "",
+          "en": "Come, carry me to war against the gods,",
+          "es": "Vamos, llévenme a combatir contra los dioses"
+        },
+        {
+          "id": "P2-V3-53",
+          "number": 53,
+          "speaker": "",
+          "en": "That thus envy the health of Tamburlaine.",
+          "es": "que tanto envidian la salud de Tamerlán."
+        }
       ]
     }
   },
@@ -32084,6 +32457,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 59,
       "en": "Exeunt.",
       "es": "Salen todos."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Enter Theridamas, Techelles and Usumcasane.",
+      "es": "Entran Teridamas, Tequeles y Usumcasane."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 41,
+      "en": "Enter Tamburlaine in his chariot, drawn by Orcanes and the king of Jerusalem, accompanied by Amyras, Celebinus and physicians.",
+      "es": "Entra Tamerlán en su carro, tirado por Orcanes y el rey de Jerusalén, acompañado de Amiras, Celebino y médicos."
     }
   ]
 };
