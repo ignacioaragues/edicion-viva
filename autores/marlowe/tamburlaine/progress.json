@@ -181,9 +181,9 @@
       "complete": true
     }
   ],
-  "publishedVerseLines": 4228,
+  "publishedVerseLines": 4528,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Part I complete in first translation draft (2315 source-line units including prologue). Part II Acts I–IV complete; V.1 through line 129. Future work: English-source collation, philology, notes, and prose line segmentation.",
+  "editorialReview": "Part I complete in first translation draft (2315 source-line units including prologue). Part II Acts I–IV complete, V.1 and V.2 complete, V.3 through line 150. English text provisionally Dyce/Project Gutenberg #1589; full collation and literary revision pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -194,10 +194,20 @@
   "next": {
     "part": 2,
     "act": 5,
-    "scene": 1,
-    "line": 130
+    "scene": 3,
+    "line": 151
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "Part II V.1.130–220 (91); V.2.1–59 (59); V.3.1–150 (150)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce, Project Gutenberg #1589, checked against Gutenberg HTML text",
+    "editorialNote": "Act V scenes 1 and 2 now complete, scene 3 through line 150. Stage directions excluded from line units; prose wraps retained; future philological review pending."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "Part II IV.2.61–98 (38), IV.3.1–133 (133), V.1.1–129 (129)",
@@ -206,16 +216,6 @@
     "status": "first translation draft",
     "source": "Alexander Dyce/Project Gutenberg 1589; line breaks cross-checked against Luminarium's Renascence Editions text",
     "editorialNote": "Part II Act IV complete, V.1 in progress. Stage directions excluded from counted source-line units; editorial comparison and literary refinement pending."
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "Part II III.5.139–172 (34), IV.1.1–206 (206), IV.2.1–60 (60)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Alexander Dyce, Project Gutenberg 1589",
-    "editorialNote": "Part II Act III now complete; IV.1 complete, IV.2 in progress. Stage directions excluded from line count. Textual and literary collation pending."
   },
   "part1": {
     "complete": true,
@@ -227,7 +227,7 @@
   },
   "part2": {
     "complete": false,
-    "publishedLineCount": 1913,
+    "publishedLineCount": 2213,
     "sections": [
       {
         "act": 1,
@@ -384,9 +384,29 @@
         "scene": 1,
         "publishedLines": [
           1,
-          129
+          220
         ],
-        "nextLine": 130,
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 5,
+        "scene": 2,
+        "publishedLines": [
+          1,
+          59
+        ],
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 5,
+        "scene": 3,
+        "publishedLines": [
+          1,
+          150
+        ],
+        "nextLine": 151,
         "complete": false
       }
     ],
