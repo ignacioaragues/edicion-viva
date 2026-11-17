@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B; caput I y comienzo del II",
+  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B; caput I y caput II parcial",
   "status": "partial",
-  "next": "Caput II: Veniet enim in majestatis suae gloria Dominus",
+  "next": "Caput II: Separabuntur ab injustis justi",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -882,6 +882,223 @@ window.LEO_SERMO_I = {
           "discedo",
           "presente subjuntivo tercera singular",
           "se aparte"
+        ]
+      }
+    },
+    {
+      "id": "s9-8",
+      "label": "8",
+      "latin": "Veniet enim in majestatis suae gloria Dominus, sicut ipse praedixit, aderitque cum eo radians in splendoribus suis innumerabilis angelicarum multitudo legionum. Congregabuntur ante thronum potentiae ejus omnium gentium populi; et quidquid hominum universis saeculis toto orbe terrarum progenitum est, in conspectu judicantis astabit.",
+      "spanish": "Vendrá, pues, el Señor en la gloria de su majestad, como él mismo predijo, y estará con él, resplandeciente en sus fulgores, una multitud innumerable de legiones angélicas. Serán congregados ante el trono de su poder los pueblos de todas las naciones; y todo ser humano nacido en todos los siglos y en toda la extensión de la tierra comparecerá ante quien juzga.",
+      "note": [
+        "La comparecencia universal",
+        "La acumulación de futuros (veniet, aderit, congregabuntur, astabit) convierte la predicción en una secuencia de acciones escénicas. El sintagma quidquid hominum amplía el alcance del juicio sin excepciones temporales ni geográficas; la referencia es Mateo 25,31–32."
+      ],
+      "lexicon": {
+        "Veniet": [
+          "venio",
+          "futuro indicativo activo 3.ª singular",
+          "vendrá"
+        ],
+        "enim": [
+          "enim",
+          "conjunción explicativa",
+          "pues"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "majestatis": [
+          "maiestas",
+          "genitivo femenino singular",
+          "de majestad"
+        ],
+        "suae": [
+          "suus",
+          "genitivo femenino singular",
+          "suya"
+        ],
+        "gloria": [
+          "gloria",
+          "ablativo femenino singular",
+          "gloria"
+        ],
+        "Dominus": [
+          "dominus",
+          "nominativo masculino singular",
+          "el Señor"
+        ],
+        "sicut": [
+          "sicut",
+          "conjunción comparativa",
+          "tal como"
+        ],
+        "ipse": [
+          "ipse",
+          "nominativo masculino singular",
+          "él mismo"
+        ],
+        "praedixit": [
+          "praedico",
+          "perfecto indicativo activo 3.ª singular",
+          "predijo"
+        ],
+        "aderitque": [
+          "adsum",
+          "futuro indicativo 3.ª singular con enclítico -que",
+          "y estará presente"
+        ],
+        "cum": [
+          "cum",
+          "preposición con ablativo",
+          "con"
+        ],
+        "eo": [
+          "is",
+          "ablativo masculino singular",
+          "él"
+        ],
+        "radians": [
+          "radio",
+          "participio presente nominativo femenino singular",
+          "resplandeciente"
+        ],
+        "splendoribus": [
+          "splendor",
+          "ablativo masculino plural",
+          "resplandores"
+        ],
+        "suis": [
+          "suus",
+          "ablativo masculino plural",
+          "suyos"
+        ],
+        "innumerabilis": [
+          "innumerabilis",
+          "nominativo femenino singular",
+          "innumerable"
+        ],
+        "angelicarum": [
+          "angelicus",
+          "genitivo femenino plural",
+          "angélicas"
+        ],
+        "multitudo": [
+          "multitudo",
+          "nominativo femenino singular",
+          "multitud"
+        ],
+        "legionum": [
+          "legio",
+          "genitivo femenino plural",
+          "de legiones"
+        ],
+        "Congregabuntur": [
+          "congrego",
+          "futuro indicativo pasivo 3.ª plural",
+          "serán reunidos"
+        ],
+        "ante": [
+          "ante",
+          "preposición con acusativo",
+          "ante"
+        ],
+        "thronum": [
+          "thronus",
+          "acusativo masculino singular",
+          "trono"
+        ],
+        "potentiae": [
+          "potentia",
+          "genitivo femenino singular",
+          "del poder"
+        ],
+        "ejus": [
+          "is",
+          "genitivo singular",
+          "de él"
+        ],
+        "omnium": [
+          "omnis",
+          "genitivo femenino plural",
+          "de todas"
+        ],
+        "gentium": [
+          "gens",
+          "genitivo femenino plural",
+          "naciones"
+        ],
+        "populi": [
+          "populus",
+          "nominativo masculino plural",
+          "pueblos"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "quidquid": [
+          "quidquid",
+          "nominativo neutro singular relativo indefinido",
+          "todo cuanto"
+        ],
+        "hominum": [
+          "homo",
+          "genitivo masculino plural",
+          "de seres humanos"
+        ],
+        "universis": [
+          "universus",
+          "ablativo neutro plural",
+          "todos"
+        ],
+        "saeculis": [
+          "saeculum",
+          "ablativo neutro plural",
+          "siglos"
+        ],
+        "toto": [
+          "totus",
+          "ablativo masculino singular",
+          "todo"
+        ],
+        "orbe": [
+          "orbis",
+          "ablativo masculino singular",
+          "orbe"
+        ],
+        "terrarum": [
+          "terra",
+          "genitivo femenino plural",
+          "de tierras"
+        ],
+        "progenitum": [
+          "progigno",
+          "participio perfecto pasivo nominativo neutro singular",
+          "engendrado"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "conspectu": [
+          "conspectus",
+          "ablativo masculino singular",
+          "presencia"
+        ],
+        "judicantis": [
+          "iudico",
+          "participio presente genitivo masculino singular",
+          "del que juzga"
+        ],
+        "astabit": [
+          "asto",
+          "futuro indicativo activo 3.ª singular",
+          "comparecerá"
         ]
       }
     }
