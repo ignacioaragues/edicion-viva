@@ -253,3 +253,10 @@
 - Cotejados Dyce (Project Gutenberg #1094, II.5.43–92) y primer impreso de **1590** (Folger EarlyPrint B7v–B8r, wln 0795–0845), https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html. Variantes sustantivas señaladas: Dyce «a-piece» frente a «apace» en 1590 (II.5.86), y «Casane» frente a «Casanes» en 1590 (II.5.72). Se conserva el inglés de base y se registra el testimonio.
 - En II.5.92 «purchase» designa **empresa / objetivo**, no «compra»; en II.5.51 «brave» significa **espléndido**. La acotación de salida tras II.5.49 permanece en el lugar original y explica el cambio de interlocutores.
 - Publicación con capa `philology-16.js` después de las capas XI–XV. Sin cambios a `text.js`, al texto inglés, a los hablantes, a la numeración, a las acotaciones ni a la navegación.
+
+## Decimoséptima pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** de Parte I, II.5.93–106 (14, escena II.5 terminada) y II.6.1–36 (36); **850 / 4.641 (18,3 %)** revisadas. Próxima **II.6.37–40 (4) + II.7.1–46 (46)**.
+- **45 traducciones corregidas**, 5 conservadas tras cotejo. Validación de igualdad literal inglesa en 50 renglones; **16 notas** de anclas inglesas y **2 fichas** sobre el desafío a Cosroe y la cosmología material en la arenga.
+- Cotejados Dyce, PG #1094 y testimonio **1590**, Folger EarlyPrint B8r–C1r, wln 0846–0899, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- Variante **«state»** de 1590 frente a **«fate»** de Dyce en II.6.18. El verbo **«resolve»** de II.6.27 significa *disolverse en los elementos*; el del v. 34 significa *decidirse*. Esta dificultad está documentada en M. L. Stapleton, *Tamburlaine*, nota a II.6.25–28, https://users.pfw.edu/stapletm/msa/docs/CaseMarlowev2Tam.pdf, y en Dyce.
+- La edición mantiene el original inglés, numeración, hablantes, acotaciones, navegación y resaltados; la revisión se carga como `philology-17.js`, después de las capas XI–XVI.
