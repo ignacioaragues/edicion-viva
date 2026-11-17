@@ -1075,6 +1075,17 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.9, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Interpelación al público; fichas individuales y glosas contextuales. Cotejo directo Leo 1895 y auditoría retrospectiva 160+ pendientes."
+    },
+    {
+      "section": "IV.9",
+      "from": 721,
+      "to": 725,
+      "verses": 5,
+      "display_units": 9,
+      "tokens": 47,
+      "status": "edited_not_revised",
+      "source": "The Latin Library IV.9; LateinLex IV.9; Metrical subdivisions compared with RPL XLVII (2025) https://romatrepress.uniroma3.it/wp-content/uploads/2026/04/EBOOK_RPL_XLVII_online.pdf",
+      "note": "Conservadas subdivisiones 721a–724a. Traducción original y fichas contextuales. Cotejo directo con Leo 1895 y revisión morfológica retrospectiva desde 160 pendientes."
     }
   ],
   "pending": [
@@ -1084,7 +1095,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.9, desde verso 721; segunda revisión morfológica consecutiva desde 160, con compatibilidad de localizadores 142–161.",
+  "next": "IV.9, versos 726–727 y comienzo de intervención de Licónides, verificar numeración; segunda pasada desde 160.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
