@@ -1,0 +1,38 @@
+{
+  "work": "Tamburlaine the Great",
+  "author": "Christopher Marlowe",
+  "part": 1,
+  "status": "in_progress",
+  "baseEdition": "William Allan Neilson, The Chief Elizabethan Dramatists (1911), pp. 57ff.",
+  "prologue": {
+    "complete": true,
+    "lines": 8,
+    "ids": "P1-P8"
+  },
+  "sections": [
+    {
+      "act": 1,
+      "scene": 1,
+      "publishedLines": [
+        1,
+        20
+      ],
+      "nextLine": 21,
+      "complete": false
+    }
+  ],
+  "publishedVerseLines": 28,
+  "translation": "original Spanish, preliminary",
+  "editorialReview": "initial source verification against 1911 and 1590 witness",
+  "updated": "2026-11-17",
+  "sourceLinks": [
+    "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
+    "https://emed.titania.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html"
+  ],
+  "next": {
+    "part": 1,
+    "act": 1,
+    "scene": 1,
+    "line": 21
+  }
+}

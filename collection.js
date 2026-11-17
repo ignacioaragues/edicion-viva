@@ -106,8 +106,9 @@ const collection = [
     work: 'Tamburlaine the Great',
     translated: 'Tamerlán el Grande · partes I y II',
     language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
+    status: 'available',
+    url: './autores/marlowe/tamburlaine/',
+    detail: 'En curso · Parte I: prólogo e I.1.1–20',
   },
 
   {
