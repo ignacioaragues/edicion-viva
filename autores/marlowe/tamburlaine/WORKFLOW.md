@@ -106,3 +106,10 @@
 - Texto inglés de trabajo: Dyce/Project Gutenberg 1589; continuidad de los cortes confrontada con *Renascence Editions* (Luminarium), que presenta una modernización distinta. Pendientes cotejo filológico, revisión literaria y segmentación métrica de pasajes en prosa.
 - **4228 unidades de línea acumuladas:** 2315 en Parte I, 1913 en Parte II.
 - **Próximo pasaje: Parte II, V.1.130**.
+
+## Decimoquinta pasada de traducción (17-11-2026)
+- **300 unidades de línea nuevas**: segunda parte V.1.130–220 (91), V.2.1–59 (59) y V.3.1–150 (150).
+- Escenas V.1 y V.2 completas. V.3 incluye el diagnóstico de la enfermedad final de Tamerlán, la aparición del ejército de Calapino y el comienzo de la contemplación del mapa de las tierras aún no conquistadas.
+- Original inglés tomado de Alexander Dyce, Project Gutenberg #1589, comprobado con la transcripción HTML; traducción española general, una unidad de línea por entrada, con las acotaciones fuera del cómputo. Sin notas ni fichas nuevas. Continúan pendientes las tareas de revisión filológica, aparato crítico y refinamiento literario.
+- **4528 unidades de línea acumuladas**: Parte I 2315 y Parte II 2213.
+- **Próximo pasaje: Parte II, V.3.151**.
