@@ -39,3 +39,9 @@
 - Acto III, escenas 1 y 2 completas; escena 3 parcialmente publicada. Total acumulado: **1228 versos**, incluidos ocho del prólogo.
 - La acotación «To his OFFICERS» posterior a III.3.29 se presenta fuera de la numeración y no se computa como verso.
 - Sin notas filológicas ni nuevas fichas. Fuente inglesa provisional: Dyce (PG 1094); cotejo pendiente con Neilson 1911 y primer impreso. **Próximo verso: III.3.128**.
+
+## Quinta pasada de traducción (17-11-2026)
+- **300 versos nuevos:** III.3.128–274 (147); IV.1.1–73 (73); IV.2.1–80 (80).
+- El acto III queda completo en primera traducción. El acto IV comienza con el sultán de Egipto y la escena del cautiverio de Bayaceto. Acumulado: **1528 versos**, incluidos los 8 del prólogo.
+- Solo traducción original ES y alineación EN/ES, sin fichas ni notas nuevas. Acotaciones bilingües excluidas del cómputo. Se corrigieron únicamente uniones tipográficas evidentes en el texto inglés digitalizado; queda pendiente el cotejo textual y revisión literaria.
+- **Próximo pasaje: Parte I, IV.2.81**.

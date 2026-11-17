@@ -125,15 +125,35 @@
       "scene": 3,
       "publishedLines": [
         1,
-        127
+        274
       ],
-      "nextLine": 128,
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "publishedLines": [
+        1,
+        73
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "publishedLines": [
+        1,
+        80
+      ],
+      "nextLine": 81,
       "complete": false
     }
   ],
-  "publishedVerseLines": 1228,
+  "publishedVerseLines": 1528,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Acts I–II complete. III.1 and III.2 complete, III.3.1–127 provisional translation. Dyce text for additions; line-stage distinction normalized in III.3; later verify against Neilson and 1590.",
+  "editorialReview": "Acts I–III fully first-translated; IV.1 complete and IV.2.1–80 first-translated. English additions based on Dyce (PG 1094), obvious spacing artifacts normalized; compare Neilson 1911 and 1590 print later.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -142,11 +162,20 @@
   ],
   "next": {
     "part": 1,
-    "act": 3,
-    "scene": 3,
-    "line": 128
+    "act": 4,
+    "scene": 2,
+    "line": 81
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "III.3.128–274 (147), IV.1.1–73 (73), IV.2.1–80 (80)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce via Project Gutenberg 1094; further editorial collation pending"
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "III.1.8–67 (60), III.2.1–113 (113), III.3.1–127 (127)",
@@ -155,14 +184,5 @@
     "status": "first translation draft",
     "source": "Alexander Dyce via Project Gutenberg 1094; textual collation pending",
     "editorialCorrection": "III.3 stage aside after 29 kept unnumbered"
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "II.3.29–66 (38), II.4.1–42 (42), II.5.1–106 (106), II.6.1–40 (40), II.7.1–67 (67), III.1.1–7 (7)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Alexander Dyce via Project Gutenberg 1094; collation with Neilson 1911 and first edition pending"
   }
 }
