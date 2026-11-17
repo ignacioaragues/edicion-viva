@@ -210,3 +210,11 @@
 - **50 líneas de traducción revisadas**, en especial la amenaza de esclavitud frente al «willingly» de I.2.254, la frase de Zenócrate «pleas'd perforce», la metáfora de la perla/cabeza y los ojos, Atlas y Aquiles, la tez y las pasiones, y la imagen del paso al «palacio de la vida» del hermano de Cosroe.
 - **12 notas filológicas** con anclas literales y **dos fichas interpretativas locales**: una sobre la coacción de Zenócrate al cerrar la escena I.2 y otra sobre la fisiognomía imperial de Tamerlán, con referencia a Sydnee Wagner, «Towards a Racialized Tamburlaine», en McInnis (ed.), *Tamburlaine: A Critical Reader* (2020), pp. 137–139.
 - No se alteraron los textos ingleses, números, identificadores, acotaciones, nombres de personaje, navegación por escenas ni sistema de notas discretas.
+
+
+## Undécima pasada filológica y de lecturas (17-11-2026)
+- **50 unidades consecutivas:** Parte I, II.1.45–69 (25, escena terminada) y II.2.1–25 (25). **550 / 4.641** revisadas; próxima **II.2.26–75**.
+- Cotejo de Alexander Dyce (Project Gutenberg #1094) con el impreso de **1590** de Folger EarlyPrint, B3r–B4r, líneas de testimonio 0526–0579. En este tramo se registran grafías «geere» y «scalde knaues» sin normalizar silenciosamente el inglés de Dyce. Se distinguen variantes ortográficas de las sustantivas.
+- **50 líneas españolas retrabajadas**, con verificación de anclas del inglés en la carga del lector; **13 notas filológicas** subrayadas sobre segmentos literales; **dos fichas críticas** sobre la ambigüedad de «regent» y sobre la contraposición de Cosroe, Micetes y Meandro. La contextualización a partir de McInnis (ed., 2020) se declara como lectura editorial, no como cita textual del volumen.
+- Al superar el megabyte `text.js`, se introdujo una **capa filológica independiente `philology-11.js`** cargada antes de `reader.js`, para no regenerar masivamente el corpus ni tocar identificadores, atribuciones, navegación o resaltados. Las traducciones solo se sustituyen si el renglón coincide con un ancla inglesa reconocible; los desajustes se avisan en consola.
+- **Siguiente pasada:** Parte I II.2.26–75. Fuente primaria: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
