@@ -1217,6 +1217,17 @@
       "status": "edited_not_revised",
       "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Texto verificado directamente en la fuente digital. Publicación hasta 825; revisión morfológica retrospectiva 160 pendiente. Los versos 826–830 y las lagunas finales no se han añadido."
+    },
+    {
+      "section": "V.1",
+      "from": 826,
+      "to": 833,
+      "verses": 8,
+      "display_units": 14,
+      "tokens": 61,
+      "status": "edited_not_revised",
+      "source": "https://ancientlibrary.net/plautus-titus-maccius-aulularia/; https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A779-834_frg5",
+      "note": "Último diálogo continuo conservado. Texto cotejado en fuentes de tradición Leo 1895; siguen cinco fragmentos descontextualizados, laguna final y auditoría integral."
     }
   ],
   "pending": [
@@ -1226,7 +1237,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "V.1 desde verso 826 hasta 830, luego fragmentos y lagunas; no inventar desenlace. Auditoría morfológica desde 160, IDs 142–161.",
+  "next": "Incorporar cinco fragmentos finales de ubicación incierta como fragmentos, no continuación inventada; señalar laguna y desenlace sólo según argumenta; auditoría morfológica desde 160 e IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
