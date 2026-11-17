@@ -1248,7 +1248,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Auditoría crítica final y visual; corregir numeración II.1 142–161 con preservación de resaltados.",
+  "next": "Auditar anclajes persistentes y navegación para 142–161; QA visual del lector y aparato crítico global. No renumerar sin migración.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
@@ -2149,5 +2149,12 @@
       "Implementar mapa de localizadores históricos con offsets para 142",
       "Validar restauración de highlights y marcadores antes de renumerar"
     ]
+  },
+  "structural_audit": {
+    "act2scene1_142_161": {
+      "status": "audited_no_automatic_renumbering",
+      "finding": "142–143 está combinado en una unidad; 143 no es una entrada separada. 144–160 tienen stableId v143–v159 por compatibilidad histórica. No se detectaron duplicados de stableId en 140–162. Cambiar n o stableId sin migración de anclajes puede romper resaltados.",
+      "next": "Revisar generación de data-reading-id, exportación/importación y persistencia antes de cualquier migración; si 142–143 es la lectura canónica, conservarla como unidad combinada."
+    }
   }
 }
