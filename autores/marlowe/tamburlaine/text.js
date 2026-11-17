@@ -1656,6 +1656,71 @@ window.TAMBURLAINE_EDITION = {
       "La mirada épica de Tequeles",
       "Tequeles compara a Tamerlán armado con un león principesco que se despereza y atemoriza a las bestias. La metáfora convierte el cambio de indumentaria de los versos 41–43 en una transformación de presencia y de poder ante la mirada de sus seguidores.",
       "princely lions"
+    ],
+    "I2-57": [
+      "Coronas derribadas a puntapiés",
+      "«Spurning» significa rechazar o golpear con el pie: Tequeles imagina a reyes arrodillados mientras Tamerlán les arranca a puntapiés las coronas. Se trata de una visión anticipatoria del seguidor, no de una acción que deba representarse ya en ese momento.",
+      "Spurning their crowns"
+    ],
+    "I2-61": [
+      "«Estimates»: las aspiraciones, no los cálculos",
+      "«Our estimates» designa aquí la valoración o previsión de las propias capacidades y ambiciones. Los nobles cautivos pueden juzgarlas desmesuradas. Traducir «cálculos» sugería una operación matemática que el pasaje no exige.",
+      "our estimates"
+    ],
+    "I2-64": [
+      "«Conceit»: imaginación y soberanía",
+      "«In conceit» tiene el sentido histórico de «en la imaginación». Los futuros imperios ya están figuradamente en las lanzas de Tamerlán antes de ser conquistados. El pasaje distingue las pretensiones del grupo de su dominio político efectivo.",
+      "in conceit bear empires"
+    ],
+    "I2-67": [
+      "«Thee» en el impreso de 1590",
+      "El testimonio de 1590 (Folger EarlyPrint, A7r, wln 0280) transmite «Till with their eies thee view vs Emperours», con «thee» donde la sintaxis reclama «they». El texto de lectura de Dyce presenta «they», regularización que se conserva y se documenta, sin atribuir «they» al impreso de 1590.",
+      "they view us emperors"
+    ],
+    "I2-69": [
+      "«Drifts» como designios",
+      "«Intended drifts» no son desplazamientos físicos: «drift» designa aquí finalidad, intención o proyecto. Zenócrate contrapone a la ambición de Tamerlán una apelación moral a los dioses protectores de los inocentes.",
+      "intended drifts"
+    ],
+    "I2-75": [
+      "El rescate y la libertad",
+      "Agidas ofrece el tesoro de Zenócrate y de sus acompañantes como rescate de sus personas, no solo como restitución de lo robado. Esta negociación prueba que la petición principal sigue siendo la libertad de la comitiva.",
+      "ransom to our liberties"
+    ],
+    "I2-87": [
+      "«Love of Jove»: comparación mitológica",
+      "La frase «the love of Jove» puede aludir a una persona amada por Júpiter, sin precisar cuál; la imagen convierte el elogio amoroso en una competición con el mito clásico. La traducción opta por «la amada de Júpiter» sin identificar arbitrariamente a una figura concreta.",
+      "the love of Jove"
+    ],
+    "I2-88": [
+      "«Rhodope», enmienda de «Rhodolfe»",
+      "El impreso de 1590 lee «siluer Rhodolfe» (A7v, wln 0301), mientras que Dyce enmienda a «silver Rhodope», aceptado también por ediciones posteriores. Ródope es una cordillera de Tracia asociada en la tradición con minas de plata; la edición mantiene la enmienda de Dyce y registra la lectura antigua. Véase la edición anotada de *Tamburlaine* de F. C. Bowers / M. L. Stapleton, notas a I.2.88 (Marlowe Society of America, 2012).",
+      "silver Rhodope"
+    ],
+    "I2-92": [
+      "Astros favorables y legitimación",
+      "«Gracious stars» reclama un destino astrológico favorable desde el nacimiento de Tamerlán. El argumento no certifica una profecía real: forma parte de la manera en que el personaje presenta su ambición política como destino cósmico.",
+      "gracious stars"
+    ],
+    "I2-97": [
+      "«Valurous»: valioso, no valiente",
+      "«Valurous» es una forma poco habitual que Dyce glosa expresamente como «valuable». Los objetos más ricos y valiosos son las joyas prometidas, en comparación con las que Zenócrate posee; no se atribuye valor militar ni valentía a la princesa.",
+      "valurous"
+    ],
+    "I2-98": [
+      "«Harts» y los ciervos blancos",
+      "«Harts» son ciervos machos, no «hearts» («corazones»). La imagen de ciervos blancos ante un trineo de marfil lleva la promesa amorosa a una geografía fabulosa y nevada.",
+      "milk-white harts"
+    ],
+    "I2-101": [
+      "«Resolved»: derretidas",
+      "«Resolved», aplicado a las montañas heladas, significa «disueltas» o «derretidas» por la belleza de Zenócrate, una hipérbole poética; no tiene aquí el sentido moderno de «resueltas». La lectura enlaza con el paisaje invernal de los versos anteriores.",
+      "soon resolv'd"
+    ],
+    "I2-103": [
+      "El Volga de cincuenta cabezas",
+      "«Fifty-headed» es una personificación hiperbólica del río Volga como si poseyera numerosas cabezas o brazos. No hay que interpretar el número cincuenta como un recuento geográfico verificable de afluentes.",
+      "fifty-headed Volga's waves"
     ]
   },
   "lex": {
@@ -2188,7 +2253,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 54,
       "speaker": "",
       "en": "So in his armour looketh Tamburlaine.",
-      "es": "así se ve Tamerlán revestido de su armadura."
+      "es": "así se ve Tamerlán con su armadura."
     },
     {
       "id": "I2-55",
@@ -2202,14 +2267,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 56,
       "speaker": "",
       "en": "And he with frowning brows and fiery looks",
-      "es": "y a él, con el ceño fruncido y la mirada ardiente,"
+      "es": "mientras él, con el ceño fruncido y los ojos ardientes,"
     },
     {
       "id": "I2-57",
       "number": 57,
       "speaker": "",
       "en": "Spurning their crowns from off their captive heads.",
-      "es": "derribando a patadas las coronas de sus cabezas cautivas."
+      "es": "les arranca a puntapiés las coronas de sus cabezas cautivas."
     },
     {
       "id": "I2-58",
@@ -2237,84 +2302,84 @@ window.TAMBURLAINE_EDITION = {
       "number": 61,
       "speaker": "",
       "en": "These lords perhaps do scorn our estimates,",
-      "es": "Tal vez estos señores desprecien nuestros cálculos"
+      "es": "Quizá estos señores desprecien nuestras aspiraciones"
     },
     {
       "id": "I2-62",
       "number": 62,
       "speaker": "",
       "en": "And think we prattle with distemper'd spirits:",
-      "es": "y crean que deliramos con la mente trastornada;"
+      "es": "y crean que desvariamos con el ánimo perturbado;"
     },
     {
       "id": "I2-63",
       "number": 63,
       "speaker": "",
       "en": "But, since they measure our deserts so mean,",
-      "es": "pero, ya que tienen en tan poca estima nuestros méritos,"
+      "es": "pero, ya que tan poco valor conceden a nuestros méritos,"
     },
     {
       "id": "I2-64",
       "number": 64,
       "speaker": "",
       "en": "That in conceit bear empires on our spears,",
-      "es": "cuando en nuestra imaginación llevamos imperios en las lanzas"
+      "es": "a nosotros, que ya imaginamos imperios ensartados en nuestras lanzas"
     },
     {
       "id": "I2-65",
       "number": 65,
       "speaker": "",
       "en": "Affecting thoughts coequal with the clouds,",
-      "es": "y aspiramos a pensamientos tan altos como las nubes,"
+      "es": "y albergamos ambiciones tan altas como las nubes,"
     },
     {
       "id": "I2-66",
       "number": 66,
       "speaker": "",
       "en": "They shall be kept our forced followers",
-      "es": "seguirán siendo nuestros acompañantes a la fuerza"
+      "es": "los retendremos como seguidores a la fuerza"
     },
     {
       "id": "I2-67",
       "number": 67,
       "speaker": "",
       "en": "Till with their eyes they view us emperors.",
-      "es": "hasta que nos vean emperadores con sus propios ojos."
+      "es": "hasta que nos vean convertidos en emperadores."
     },
     {
       "id": "I2-68",
       "number": 68,
       "speaker": "ZENOCRATE",
       "en": "The gods, defenders of the innocent.",
-      "es": "Los dioses, protectores de los inocentes,"
+      "es": "Los dioses, que defienden a los inocentes,"
     },
     {
       "id": "I2-69",
       "number": 69,
       "speaker": "",
       "en": "Will never prosper your intended drifts,",
-      "es": "nunca favorecerán tus planes"
+      "es": "nunca favorecerán tus designios"
     },
     {
       "id": "I2-70",
       "number": 70,
       "speaker": "",
       "en": "That thus oppress poor friendless passengers.",
-      "es": "si oprimes de este modo a viajeros pobres y desamparados."
+      "es": "si oprimes así a viajeros indefensos y sin protección."
     },
     {
       "id": "I2-71",
       "number": 71,
       "speaker": "",
       "en": "Therefore at least admit us liberty,",
-      "es": "Por lo menos, concédenos la libertad,"
+      "es": "Por eso, al menos, concédenos la libertad,"
     },
     {
       "id": "I2-72",
       "number": 72,
       "speaker": "",
       "en": "Even as thou hop'st to be eternized",
-      "es": "igual que esperas inmortalizar tu nombre"
+      "es": "tal como tú esperas inmortalizar tu nombre"
     },
     {
       "id": "I2-73",
@@ -2335,21 +2400,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 75,
       "speaker": "",
       "en": "May serve for ransom to our liberties:",
-      "es": "basten como rescate de nuestra libertad."
+      "es": "puedan servir de rescate para obtener la libertad."
     },
     {
       "id": "I2-76",
       "number": 76,
       "speaker": "",
       "en": "Return our mules and empty camels back,",
-      "es": "Devuélvenos las mulas y los camellos vacíos"
+      "es": "Devuélvenos nuestras mulas y los camellos descargados"
     },
     {
       "id": "I2-77",
       "number": 77,
       "speaker": "",
       "en": "That we may travel into Syria,",
-      "es": "para que podamos viajar a Siria,"
+      "es": "para que podamos continuar hacia Siria,"
     },
     {
       "id": "I2-78",
@@ -2363,7 +2428,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 79,
       "speaker": "",
       "en": "Expects the arrival of her highness' person.",
-      "es": "espera la llegada de su alteza."
+      "es": "aguarda la llegada de su alteza."
     },
     {
       "id": "I2-80",
@@ -2377,7 +2442,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 81,
       "speaker": "",
       "en": "We will report but well of Tamburlaine.",
-      "es": "hablaremos siempre bien de Tamerlán."
+      "es": "solo diremos cosas buenas de Tamerlán."
     },
     {
       "id": "I2-82",
@@ -2391,56 +2456,56 @@ window.TAMBURLAINE_EDITION = {
       "number": 83,
       "speaker": "",
       "en": "Or you, my lords, to be my followers?",
-      "es": "¿O vosotros, señores, ser mis seguidores?"
+      "es": "¿O desprecian ustedes, señores, ser mis seguidores?"
     },
     {
       "id": "I2-84",
       "number": 84,
       "speaker": "",
       "en": "Think you I weigh this treasure more than you?",
-      "es": "¿Creéis que valoro este tesoro más que a vosotros?"
+      "es": "¿Creen que valoro este tesoro más que a ustedes?"
     },
     {
       "id": "I2-85",
       "number": 85,
       "speaker": "",
       "en": "Not all the gold in India's wealthy arms",
-      "es": "Ni todo el oro que atesora la rica India"
+      "es": "Ni todo el oro que encierra la rica India"
     },
     {
       "id": "I2-86",
       "number": 86,
       "speaker": "",
       "en": "Shall buy the meanest soldier in my train.",
-      "es": "podría comprar al soldado más humilde de mi séquito."
+      "es": "bastaría para comprar al más humilde soldado de mi séquito."
     },
     {
       "id": "I2-87",
       "number": 87,
       "speaker": "",
       "en": "Zenocrate, lovelier than the love of Jove,",
-      "es": "Zenócrate, más hermosa que el amor de Júpiter,"
+      "es": "Zenócrate, más hermosa que la amada de Júpiter,"
     },
     {
       "id": "I2-88",
       "number": 88,
       "speaker": "",
       "en": "Brighter than is the silver Rhodope,",
-      "es": "más resplandeciente que el plateado Ródope,"
+      "es": "más radiante que el plateado Ródope,"
     },
     {
       "id": "I2-89",
       "number": 89,
       "speaker": "",
       "en": "Fairer than whitest snow on Scythian hills,",
-      "es": "más bella que la nieve más blanca de las colinas escitas,"
+      "es": "más bella que la nieve más blanca de los montes escitas,"
     },
     {
       "id": "I2-90",
       "number": 90,
       "speaker": "",
       "en": "Thy person is more worth to Tamburlaine",
-      "es": "tu persona vale para Tamerlán mucho más"
+      "es": "tú vales para Tamerlán mucho más"
     },
     {
       "id": "I2-91",
@@ -2454,84 +2519,84 @@ window.TAMBURLAINE_EDITION = {
       "number": 92,
       "speaker": "",
       "en": "Which gracious stars have promis'd at my birth.",
-      "es": "que astros favorables me prometieron al nacer."
+      "es": "que los astros favorables me prometieron al nacer."
     },
     {
       "id": "I2-93",
       "number": 93,
       "speaker": "",
       "en": "A hundred Tartars shall attend on thee,",
-      "es": "Cien tártaros te servirán,"
+      "es": "Cien tártaros estarán a tu servicio,"
     },
     {
       "id": "I2-94",
       "number": 94,
       "speaker": "",
       "en": "Mounted on steeds swifter than Pegasus;",
-      "es": "montados en corceles más veloces que Pegaso."
+      "es": "montados en corceles más veloces que Pegaso;"
     },
     {
       "id": "I2-95",
       "number": 95,
       "speaker": "",
       "en": "Thy garments shall be made of Median silk,",
-      "es": "Tus vestidos serán de seda de Media,"
+      "es": "tus vestidos serán de seda de Media,"
     },
     {
       "id": "I2-96",
       "number": 96,
       "speaker": "",
       "en": "Enchas'd with precious jewels of mine own,",
-      "es": "engastados con preciosas joyas de mi propiedad,"
+      "es": "adornada con preciosas joyas de mi propiedad,"
     },
     {
       "id": "I2-97",
       "number": 97,
       "speaker": "",
       "en": "More rich and valurous than Zenocrate's;",
-      "es": "más ricas y valiosas que las de Zenócrate."
+      "es": "más ricas y valiosas que las que ahora posees;"
     },
     {
       "id": "I2-98",
       "number": 98,
       "speaker": "",
       "en": "With milk-white harts upon an ivory sled",
-      "es": "Ciervos blancos como la leche tirarán de ti en un trineo de marfil"
+      "es": "ciervos blancos como la leche, uncidos a un trineo de marfil,"
     },
     {
       "id": "I2-99",
       "number": 99,
       "speaker": "",
       "en": "Thou shalt be drawn amidst the frozen pools,",
-      "es": "por entre lagunas congeladas,"
+      "es": "te llevarán entre lagunas congeladas"
     },
     {
       "id": "I2-100",
       "number": 100,
       "speaker": "",
       "en": "And scale the icy mountains' lofty tops,",
-      "es": "y subirás a las altas cumbres de montañas heladas,"
+      "es": "y escalarás las altas cumbres de las montañas heladas,"
     },
     {
       "id": "I2-101",
       "number": 101,
       "speaker": "",
       "en": "Which with thy beauty will be soon resolv'd:",
-      "es": "cuyo hielo pronto derretirá tu belleza."
+      "es": "que tu belleza pronto derretirá."
     },
     {
       "id": "I2-102",
       "number": 102,
       "speaker": "",
       "en": "My martial prizes, with five hundred men,",
-      "es": "Los botines de guerra que, con quinientos hombres,"
+      "es": "Mis botines de guerra, ganados con quinientos hombres"
     },
     {
       "id": "I2-103",
       "number": 103,
       "speaker": "",
       "en": "Won on the fifty-headed Volga's waves,",
-      "es": "gané en las aguas del Volga de cincuenta brazos,"
+      "es": "sobre las aguas del Volga de cincuenta brazos,"
     },
     {
       "id": "I2-104",
@@ -34304,6 +34369,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.2.48–51",
         "body": "El ejército imaginado por Tamerlán hace temblar las montañas como los vientos que, encerrados bajo tierra, pugnan por abrirse paso. La comparación procede de la explicación meteorológica aristotélica del terremoto y dota a la ambición militar de una escala natural aparentemente incontenible. Rutter sitúa este lenguaje en las relaciones entre ciencia natural, providencia y poder en la obra; la identificación del mecanismo físico en estos versos es distinta de cualquier afirmación de que el terremoto sea producido realmente por las tropas.",
         "source": "Tom Rutter, «New Directions: Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 110–113."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "De la protesta ética al elogio de la cautiva",
+        "range": "Parte I · I.2.54–103",
+        "body": "Tequeles ve por anticipado coronas arrancadas de las cabezas de reyes cautivos; Zenócrate responde que los dioses no pueden favorecer los planes de quienes oprimen a viajeros indefensos y reclama explícitamente la libertad. Tamerlán cambia de registro: relativiza el valor del botín, elogia a sus soldados y, luego, la belleza de Zenócrate, a quien promete riquezas, honores y un paisaje de maravillas. Las imágenes de blancura, nieve y plata funcionan como un blason de belleza, pero la situación de cautiverio impide confundir esa retórica con una negociación libre. Wagner muestra que este vocabulario de blancura participa de las jerarquías raciales y estéticas de la época.",
+        "source": "Lectura editorial de I.2.54–103 y cotejo con el impreso de 1590 (A7r–A8r); Sydnee Wagner, «Towards a Racialized Tamburlaine», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 140–141."
       }
     ]
   }
