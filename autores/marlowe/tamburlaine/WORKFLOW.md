@@ -45,3 +45,9 @@
 - El acto III queda completo en primera traducción. El acto IV comienza con el sultán de Egipto y la escena del cautiverio de Bayaceto. Acumulado: **1528 versos**, incluidos los 8 del prólogo.
 - Solo traducción original ES y alineación EN/ES, sin fichas ni notas nuevas. Acotaciones bilingües excluidas del cómputo. Se corrigieron únicamente uniones tipográficas evidentes en el texto inglés digitalizado; queda pendiente el cotejo textual y revisión literaria.
 - **Próximo pasaje: Parte I, IV.2.81**.
+
+## Sexta pasada de traducción (17-11-2026)
+- 300 renglones nuevos de texto: IV.2.81–126 (46), IV.3.1–68 (68), IV.4.1–139 (139), V.1.1–47 (47).
+- Acto IV completo; acto V, escena 1, hasta 47. Total acumulado **1828 renglones** incluyendo los ocho del prólogo.
+- Dyce (Project Gutenberg 1094) es la base provisional. En IV.4 se excluye de la numeración el rótulo aislado `THERIDAMAS.` (entre los renglones 59 y 60); no es verso. Atención: en el episodio del banquete hay diálogo en prosa, cuyo corte físico en el fichero fuente no equivale necesariamente a versos métricos.
+- Solo traducción, sin notas ni nuevas fichas. Próxima tanda **V.1.48**. Revisar posterior colación con Neilson y el testimonio temprano.

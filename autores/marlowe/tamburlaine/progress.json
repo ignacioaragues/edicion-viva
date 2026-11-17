@@ -145,15 +145,45 @@
       "scene": 2,
       "publishedLines": [
         1,
-        80
+        126
       ],
-      "nextLine": 81,
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "publishedLines": [
+        1,
+        68
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "publishedLines": [
+        1,
+        139
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "publishedLines": [
+        1,
+        47
+      ],
+      "nextLine": 48,
       "complete": false
     }
   ],
-  "publishedVerseLines": 1528,
+  "publishedVerseLines": 1828,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Acts I–III fully first-translated; IV.1 complete and IV.2.1–80 first-translated. English additions based on Dyce (PG 1094), obvious spacing artifacts normalized; compare Neilson 1911 and 1590 print later.",
+  "editorialReview": "Acts I–IV complete; V.1.1–47 in first translation. Dyce eBook 1094 remains provisional; speaker-only label of Theridamas in IV.4 normalized as a heading, not verse. Source prose wraps on physical lines; later philological and metrical collation outstanding.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -162,11 +192,21 @@
   ],
   "next": {
     "part": 1,
-    "act": 4,
-    "scene": 2,
-    "line": 81
+    "act": 5,
+    "scene": 1,
+    "line": 48
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "IV.2.81–126 (46), IV.3.1–68 (68), IV.4.1–139 (139), V.1.1–47 (47)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce via Project Gutenberg eBook 1094; collation pending",
+    "editorialCorrection": "A speaker-only header in IV.4 is excluded from the line count."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "III.3.128–274 (147), IV.1.1–73 (73), IV.2.1–80 (80)",
@@ -174,15 +214,5 @@
     "lexicalEntriesAdded": 0,
     "status": "first translation draft",
     "source": "Alexander Dyce via Project Gutenberg 1094; further editorial collation pending"
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "III.1.8–67 (60), III.2.1–113 (113), III.3.1–127 (127)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Alexander Dyce via Project Gutenberg 1094; textual collation pending",
-    "editorialCorrection": "III.3 stage aside after 29 kept unnumbered"
   }
 }

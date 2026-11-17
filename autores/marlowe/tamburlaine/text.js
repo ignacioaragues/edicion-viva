@@ -1,6 +1,4 @@
-/* Marlowe, Tamburlaine the Great, Part I: prologue, Acts I–III complete, IV.1 complete, IV.2.1–80.
- * English from Dyce (Project Gutenberg 1094), except Neilson (1911) prologue and I.1.1–20. Original Spanish draft; full collation pending.
- * Stage directions excluded from verse count; obvious spacing artifacts normalized in added English. */
+/* Marlowe, Tamburlaine the Great Part I: prologue; acts I–IV complete, V.1.1–47. English source after I.1.20: Dyce via Project Gutenberg 1094. Spanish translation original, provisional. Prose displayed in source physical lines; later textual and verse-length collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -1565,9 +1563,9 @@ window.TAMBURLAINE_EDITION = {
   },
   "next": {
     "part": 1,
-    "act": 4,
-    "scene": 2,
-    "line": 81
+    "act": 5,
+    "scene": 1,
+    "line": 48
   },
   "scene2": [
     {
@@ -3797,6 +3795,76 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 29,
       "en": "Tamburlaine steps upon Bajazeth to mount his throne.",
       "es": "Tamerlán pisa a Bayaceto para subir al trono."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 82,
+      "en": "They put Bajazeth back into his cage.",
+      "es": "Vuelven a encerrar a Bayaceto en su jaula."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 126,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Enter the Soldan, the King of Arabia, Capolin, and soldiers, with streaming colours.",
+      "es": "Entran el sultán, el rey de Arabia, Capolín y soldados con estandartes desplegados."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 68,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "afterLine": 0,
+      "en": "A banquet is set out. Enter Tamburlaine in scarlet, Zenocrate, Theridamas, Techelles, Usumcasane, Bajazeth brought in his cage, Zabina, and others.",
+      "es": "Se dispone un banquete. Entran Tamerlán vestido de escarlata, Zenócrate, Teridamas, Tequeles, Usumcasane, Bayaceto llevado en su jaula, Zabina y otros."
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "afterLine": 41,
+      "en": "Bajazeth takes the food and stamps upon it.",
+      "es": "Bayaceto toma la comida y la pisotea."
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "afterLine": 55,
+      "en": "They offer Bajazeth water; he throws it to the ground.",
+      "es": "Ofrecen agua a Bayaceto; este la arroja al suelo."
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "afterLine": 105,
+      "en": "A second course is brought in, consisting of crowns.",
+      "es": "Traen un segundo servicio: coronas."
+    },
+    {
+      "act": 4,
+      "scene": 4,
+      "afterLine": 139,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 0,
+      "en": "Enter the Governor of Damascus with citizens and four maidens bearing laurel branches.",
+      "es": "Entran el gobernador de Damasco con ciudadanos y cuatro doncellas que llevan ramas de laurel."
     }
   ],
   "act2Scenes": {
@@ -11330,6 +11398,2114 @@ window.TAMBURLAINE_EDITION = {
         "speaker": "",
         "en": "Are fled from Bajazeth, and remain with me,",
         "es": "han abandonado a Bayaceto y se han quedado conmigo,"
+      },
+      {
+        "id": "IV2-81",
+        "number": 81,
+        "speaker": "",
+        "en": "That will maintain it 'gainst a world of kings.—",
+        "es": "que la defenderá contra un mundo de reyes."
+      },
+      {
+        "id": "IV2-82",
+        "number": 82,
+        "speaker": "",
+        "en": "Put him in again.",
+        "es": "Volved a meterlo en la jaula."
+      },
+      {
+        "id": "IV2-83",
+        "number": 83,
+        "speaker": "BAJAZETH",
+        "en": "Is this a place for mighty Bajazeth?",
+        "es": "¿Es este un lugar para el poderoso Bayaceto?"
+      },
+      {
+        "id": "IV2-84",
+        "number": 84,
+        "speaker": "",
+        "en": "Confusion light on him that helps thee thus!",
+        "es": "¡Caiga la perdición sobre quien te ayuda a hacer esto!"
+      },
+      {
+        "id": "IV2-85",
+        "number": 85,
+        "speaker": "TAMBURLAINE",
+        "en": "There, whiles he lives, shall Bajazeth be kept;",
+        "es": "Ahí quedará encerrado Bayaceto mientras viva;"
+      },
+      {
+        "id": "IV2-86",
+        "number": 86,
+        "speaker": "",
+        "en": "And, where I go, be thus in triumph drawn;",
+        "es": "y adonde yo vaya, será llevado así en triunfo."
+      },
+      {
+        "id": "IV2-87",
+        "number": 87,
+        "speaker": "",
+        "en": "And thou, his wife, shalt feed him with the scraps",
+        "es": "Y tú, su esposa, lo alimentarás con las sobras"
+      },
+      {
+        "id": "IV2-88",
+        "number": 88,
+        "speaker": "",
+        "en": "My servitors shall bring thee from my board;",
+        "es": "que mis sirvientes te traigan de mi mesa;"
+      },
+      {
+        "id": "IV2-89",
+        "number": 89,
+        "speaker": "",
+        "en": "For he that gives him other food than this,",
+        "es": "porque quien le dé otra comida"
+      },
+      {
+        "id": "IV2-90",
+        "number": 90,
+        "speaker": "",
+        "en": "Shall sit by him, and starve to death himself:",
+        "es": "se sentará junto a él y morirá también de hambre."
+      },
+      {
+        "id": "IV2-91",
+        "number": 91,
+        "speaker": "",
+        "en": "This is my mind, and I will have it so.",
+        "es": "Esa es mi voluntad y así se cumplirá."
+      },
+      {
+        "id": "IV2-92",
+        "number": 92,
+        "speaker": "",
+        "en": "Not all the kings and emperors of the earth,",
+        "es": "Ni todos los reyes y emperadores de la tierra,"
+      },
+      {
+        "id": "IV2-93",
+        "number": 93,
+        "speaker": "",
+        "en": "If they would lay their crowne before my feet,",
+        "es": "aunque depositaran sus coronas a mis pies,"
+      },
+      {
+        "id": "IV2-94",
+        "number": 94,
+        "speaker": "",
+        "en": "Shall ransom him, or take him from his cage:",
+        "es": "podrán rescatarlo o sacarlo de su jaula."
+      },
+      {
+        "id": "IV2-95",
+        "number": 95,
+        "speaker": "",
+        "en": "The ages that shall talk of Tamburlaine,",
+        "es": "Los siglos que hablarán de Tamerlán,"
+      },
+      {
+        "id": "IV2-96",
+        "number": 96,
+        "speaker": "",
+        "en": "Even from this day to Plato's wondrous year,",
+        "es": "desde hoy hasta el prodigioso año de Platón,"
+      },
+      {
+        "id": "IV2-97",
+        "number": 97,
+        "speaker": "",
+        "en": "Shall talk how I have handled Bajazeth:",
+        "es": "contarán cómo he tratado a Bayaceto."
+      },
+      {
+        "id": "IV2-98",
+        "number": 98,
+        "speaker": "",
+        "en": "These Moors, that drew him from Bithynia",
+        "es": "Estos moros, que lo trajeron desde Bitinia"
+      },
+      {
+        "id": "IV2-99",
+        "number": 99,
+        "speaker": "",
+        "en": "To fair Damascus, where we now remain,",
+        "es": "hasta la hermosa Damasco, donde ahora nos encontramos,"
+      },
+      {
+        "id": "IV2-100",
+        "number": 100,
+        "speaker": "",
+        "en": "Shall lead him with us wheresoe'er we go.—",
+        "es": "lo llevarán con nosotros adondequiera que vayamos."
+      },
+      {
+        "id": "IV2-101",
+        "number": 101,
+        "speaker": "",
+        "en": "Techelles, and my loving followers,",
+        "es": "Tequeles, y vosotros, mis queridos seguidores,"
+      },
+      {
+        "id": "IV2-102",
+        "number": 102,
+        "speaker": "",
+        "en": "Now may we see Damascus' lofty towers,",
+        "es": "ya podemos contemplar las elevadas torres de Damasco,"
+      },
+      {
+        "id": "IV2-103",
+        "number": 103,
+        "speaker": "",
+        "en": "Like to the shadows of Pyramides",
+        "es": "semejantes a las sombras de las pirámides"
+      },
+      {
+        "id": "IV2-104",
+        "number": 104,
+        "speaker": "",
+        "en": "That with their beauties grace the Memphian fields.",
+        "es": "que con su belleza adornan los campos de Menfis."
+      },
+      {
+        "id": "IV2-105",
+        "number": 105,
+        "speaker": "",
+        "en": "The golden stature of their feather'd bird,",
+        "es": "La estatua dorada de su ave emplumada,"
+      },
+      {
+        "id": "IV2-106",
+        "number": 106,
+        "speaker": "",
+        "en": "That spreads her wings upon the city-walls,",
+        "es": "que extiende las alas sobre las murallas,"
+      },
+      {
+        "id": "IV2-107",
+        "number": 107,
+        "speaker": "",
+        "en": "Shall not defend it from our battering shot:",
+        "es": "no la defenderá de nuestros cañonazos."
+      },
+      {
+        "id": "IV2-108",
+        "number": 108,
+        "speaker": "",
+        "en": "The townsmen mask in silk and cloth of gold,",
+        "es": "Los habitantes se engalanan con seda y telas de oro,"
+      },
+      {
+        "id": "IV2-109",
+        "number": 109,
+        "speaker": "",
+        "en": "And every house is as a treasury;",
+        "es": "y cada casa parece una cámara del tesoro."
+      },
+      {
+        "id": "IV2-110",
+        "number": 110,
+        "speaker": "",
+        "en": "The men, the treasure, and the town are ours.",
+        "es": "Los hombres, las riquezas y la ciudad serán nuestros."
+      },
+      {
+        "id": "IV2-111",
+        "number": 111,
+        "speaker": "THERIDAMAS",
+        "en": "Your tents of white now pitch'd before the gates,",
+        "es": "Ahora que vuestras tiendas blancas están plantadas ante las puertas"
+      },
+      {
+        "id": "IV2-112",
+        "number": 112,
+        "speaker": "",
+        "en": "And gentle flags of amity display'd,",
+        "es": "y ondean las pacíficas banderas de amistad,"
+      },
+      {
+        "id": "IV2-113",
+        "number": 113,
+        "speaker": "",
+        "en": "I doubt not but the governor will yield,",
+        "es": "no dudo de que el gobernador se rendirá"
+      },
+      {
+        "id": "IV2-114",
+        "number": 114,
+        "speaker": "",
+        "en": "Offering Damascus to your majesty.",
+        "es": "y ofrecerá Damasco a vuestra majestad."
+      },
+      {
+        "id": "IV2-115",
+        "number": 115,
+        "speaker": "TAMBURLAINE",
+        "en": "So shall he have his life, and all the rest:",
+        "es": "Así salvará su vida y la de todos los demás."
+      },
+      {
+        "id": "IV2-116",
+        "number": 116,
+        "speaker": "",
+        "en": "But, if he stay until the bloody flag",
+        "es": "Pero si espera hasta que la bandera ensangrentada"
+      },
+      {
+        "id": "IV2-117",
+        "number": 117,
+        "speaker": "",
+        "en": "Be once advanc'd on my vermilion tent,",
+        "es": "se ice sobre mi tienda bermellón,"
+      },
+      {
+        "id": "IV2-118",
+        "number": 118,
+        "speaker": "",
+        "en": "He dies, and those that kept us out so long;",
+        "es": "morirá, junto con quienes nos cerraron el paso tanto tiempo."
+      },
+      {
+        "id": "IV2-119",
+        "number": 119,
+        "speaker": "",
+        "en": "And, when they see me march in black array,",
+        "es": "Y cuando me vean marchar vestido de negro,"
+      },
+      {
+        "id": "IV2-120",
+        "number": 120,
+        "speaker": "",
+        "en": "With mournful streamers hanging down their heads,",
+        "es": "con lúgubres estandartes de enseñas caídas,"
+      },
+      {
+        "id": "IV2-121",
+        "number": 121,
+        "speaker": "",
+        "en": "Were in that city all the world contain'd,",
+        "es": "aunque el mundo entero estuviera dentro de esa ciudad,"
+      },
+      {
+        "id": "IV2-122",
+        "number": 122,
+        "speaker": "",
+        "en": "Not one should scape, but perish by our swords.",
+        "es": "nadie escaparía: todos perecerían por nuestras espadas."
+      },
+      {
+        "id": "IV2-123",
+        "number": 123,
+        "speaker": "ZENOCRATE",
+        "en": "Yet would you have some pity for my sake,",
+        "es": "Pero, por consideración a mí, tened alguna piedad,"
+      },
+      {
+        "id": "IV2-124",
+        "number": 124,
+        "speaker": "",
+        "en": "Because it is my country and my father's.",
+        "es": "pues es mi patria y la de mi padre."
+      },
+      {
+        "id": "IV2-125",
+        "number": 125,
+        "speaker": "TAMBURLAINE",
+        "en": "Not for the world, Zenocrate, if I have sworn.—",
+        "es": "Ni por todo el mundo, Zenócrate, si ya lo he jurado."
+      },
+      {
+        "id": "IV2-126",
+        "number": 126,
+        "speaker": "",
+        "en": "Come; bring in the Turk.",
+        "es": "Vamos; traed al turco."
+      }
+    ],
+    "3": [
+      {
+        "id": "IV3-1",
+        "number": 1,
+        "speaker": "SOLDAN",
+        "en": "Methinks we march as Meleager did,",
+        "es": "Me parece que marchamos como lo hizo Meleagro,"
+      },
+      {
+        "id": "IV3-2",
+        "number": 2,
+        "speaker": "",
+        "en": "Environed with brave Argolian knights,",
+        "es": "rodeado de valientes caballeros argivos,"
+      },
+      {
+        "id": "IV3-3",
+        "number": 3,
+        "speaker": "",
+        "en": "To chase the savage Calydonian boar,",
+        "es": "para perseguir al feroz jabalí de Calidón,"
+      },
+      {
+        "id": "IV3-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Or Cephalus, with lusty Theban youths,",
+        "es": "o como Céfalo, con vigorosos jóvenes tebanos,"
+      },
+      {
+        "id": "IV3-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Against the wolf that angry Themis sent",
+        "es": "contra el lobo que la airada Temis envió"
+      },
+      {
+        "id": "IV3-6",
+        "number": 6,
+        "speaker": "",
+        "en": "To waste and spoil the sweet Aonian fields.",
+        "es": "a devastar y saquear los dulces campos de Aonia."
+      },
+      {
+        "id": "IV3-7",
+        "number": 7,
+        "speaker": "",
+        "en": "A monster of five hundred thousand heads,",
+        "es": "Un monstruo de quinientas mil cabezas,"
+      },
+      {
+        "id": "IV3-8",
+        "number": 8,
+        "speaker": "",
+        "en": "Compact of rapine, piracy, and spoil,",
+        "es": "compuesto de rapiña, piratería y saqueo,"
+      },
+      {
+        "id": "IV3-9",
+        "number": 9,
+        "speaker": "",
+        "en": "The scum of men, the hate and scourge of God,",
+        "es": "escoria de los hombres, aborrecido azote de Dios,"
+      },
+      {
+        "id": "IV3-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Raves in Aegyptia, and annoyeth us:",
+        "es": "devasta Egipto y nos atormenta."
+      },
+      {
+        "id": "IV3-11",
+        "number": 11,
+        "speaker": "",
+        "en": "My lord, it is the bloody Tamburlaine,",
+        "es": "Señor, es el sanguinario Tamerlán,"
+      },
+      {
+        "id": "IV3-12",
+        "number": 12,
+        "speaker": "",
+        "en": "A sturdy felon, and a base-bred thief,",
+        "es": "un delincuente audaz, un ladrón de baja cuna,"
+      },
+      {
+        "id": "IV3-13",
+        "number": 13,
+        "speaker": "",
+        "en": "By murder raised to the Persian crown,",
+        "es": "elevado por el asesinato a la corona de Persia,"
+      },
+      {
+        "id": "IV3-14",
+        "number": 14,
+        "speaker": "",
+        "en": "That dare control us in our territories.",
+        "es": "quien se atreve a imponernos su voluntad en nuestros territorios."
+      },
+      {
+        "id": "IV3-15",
+        "number": 15,
+        "speaker": "",
+        "en": "To tame the pride of this presumptuous beast,",
+        "es": "Para domar la soberbia de esta bestia presuntuosa,"
+      },
+      {
+        "id": "IV3-16",
+        "number": 16,
+        "speaker": "",
+        "en": "Join your Arabians with the Soldan's power;",
+        "es": "unid vuestros árabes a las fuerzas del sultán."
+      },
+      {
+        "id": "IV3-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Let us unite our royal bands in one,",
+        "es": "Reunamos nuestros ejércitos reales en uno solo"
+      },
+      {
+        "id": "IV3-18",
+        "number": 18,
+        "speaker": "",
+        "en": "And hasten to remove Damascus' siege.",
+        "es": "y apresurémonos a levantar el asedio de Damasco."
+      },
+      {
+        "id": "IV3-19",
+        "number": 19,
+        "speaker": "",
+        "en": "It is a blemish to the majesty",
+        "es": "Es una mancha en la majestad"
+      },
+      {
+        "id": "IV3-20",
+        "number": 20,
+        "speaker": "",
+        "en": "And high estate of mighty emperors,",
+        "es": "y en la elevada dignidad de los grandes emperadores"
+      },
+      {
+        "id": "IV3-21",
+        "number": 21,
+        "speaker": "",
+        "en": "That such a base usurping vagabond",
+        "es": "que semejante vagabundo y vil usurpador"
+      },
+      {
+        "id": "IV3-22",
+        "number": 22,
+        "speaker": "",
+        "en": "Should brave a king, or wear a princely crown.",
+        "es": "desafíe a un rey o lleve una corona principesca."
+      },
+      {
+        "id": "IV3-23",
+        "number": 23,
+        "speaker": "KING OF ARABIA",
+        "en": "Renowmed Soldan, have you lately heard",
+        "es": "Renombrado sultán, ¿habéis sabido recientemente"
+      },
+      {
+        "id": "IV3-24",
+        "number": 24,
+        "speaker": "",
+        "en": "The overthrow of mighty Bajazeth",
+        "es": "de la derrota del poderoso Bayaceto"
+      },
+      {
+        "id": "IV3-25",
+        "number": 25,
+        "speaker": "",
+        "en": "About the confines of Bithynia?",
+        "es": "en las fronteras de Bitinia?"
+      },
+      {
+        "id": "IV3-26",
+        "number": 26,
+        "speaker": "",
+        "en": "The slavery wherewith he persecutes",
+        "es": "¿Y de la esclavitud a que somete"
+      },
+      {
+        "id": "IV3-27",
+        "number": 27,
+        "speaker": "",
+        "en": "The noble Turk and his great emperess?",
+        "es": "al noble turco y a su gran emperatriz?"
+      },
+      {
+        "id": "IV3-28",
+        "number": 28,
+        "speaker": "SOLDAN",
+        "en": "I have, and sorrow for his bad success;",
+        "es": "Lo sé, y lamento su desdicha."
+      },
+      {
+        "id": "IV3-29",
+        "number": 29,
+        "speaker": "",
+        "en": "But, noble lord of great Arabia,",
+        "es": "Pero, noble señor de la gran Arabia,"
+      },
+      {
+        "id": "IV3-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Be so persuaded that the Soldan is",
+        "es": "tened por seguro que el sultán"
+      },
+      {
+        "id": "IV3-31",
+        "number": 31,
+        "speaker": "",
+        "en": "No more dismay'd with tidings of his fall,",
+        "es": "no está más consternado por las noticias de su caída"
+      },
+      {
+        "id": "IV3-32",
+        "number": 32,
+        "speaker": "",
+        "en": "Than in the haven when the pilot stands,",
+        "es": "que un piloto que, a salvo en el puerto,"
+      },
+      {
+        "id": "IV3-33",
+        "number": 33,
+        "speaker": "",
+        "en": "And views a stranger's ship rent in the winds,",
+        "es": "contempla una nave extranjera desgarrada por los vientos"
+      },
+      {
+        "id": "IV3-34",
+        "number": 34,
+        "speaker": "",
+        "en": "And shivered against a craggy rock:",
+        "es": "y hecha añicos contra un peñasco."
+      },
+      {
+        "id": "IV3-35",
+        "number": 35,
+        "speaker": "",
+        "en": "Yet in compassion to his wretched state,",
+        "es": "Sin embargo, compadecido de su miserable estado,"
+      },
+      {
+        "id": "IV3-36",
+        "number": 36,
+        "speaker": "",
+        "en": "A sacred vow to heaven and him I make,",
+        "es": "hago ante el cielo y ante él un juramento sagrado,"
+      },
+      {
+        "id": "IV3-37",
+        "number": 37,
+        "speaker": "",
+        "en": "Confirming it with Ibis' holy name,",
+        "es": "que ratifico por el santo nombre de Ibis:"
+      },
+      {
+        "id": "IV3-38",
+        "number": 38,
+        "speaker": "",
+        "en": "That Tamburlaine shall rue the day, the hour,",
+        "es": "Tamerlán lamentará el día y la hora"
+      },
+      {
+        "id": "IV3-39",
+        "number": 39,
+        "speaker": "",
+        "en": "Wherein he wrought such ignominious wrong",
+        "es": "en que infligió semejante afrenta ignominiosa"
+      },
+      {
+        "id": "IV3-40",
+        "number": 40,
+        "speaker": "",
+        "en": "Unto the hallow'd person of a prince,",
+        "es": "a la persona sagrada de un príncipe,"
+      },
+      {
+        "id": "IV3-41",
+        "number": 41,
+        "speaker": "",
+        "en": "Or kept the fair Zenocrate so long,",
+        "es": "o en que retuvo tanto tiempo a la hermosa Zenócrate,"
+      },
+      {
+        "id": "IV3-42",
+        "number": 42,
+        "speaker": "",
+        "en": "As concubine, I fear, to feed his lust.",
+        "es": "como concubina, me temo, para satisfacer su lujuria."
+      },
+      {
+        "id": "IV3-43",
+        "number": 43,
+        "speaker": "KING OF ARABIA",
+        "en": "Let grief and fury hasten on revenge;",
+        "es": "Que el dolor y la furia aceleren la venganza."
+      },
+      {
+        "id": "IV3-44",
+        "number": 44,
+        "speaker": "",
+        "en": "Let Tamburlaine for his offences feel",
+        "es": "Que Tamerlán sufra por sus delitos"
+      },
+      {
+        "id": "IV3-45",
+        "number": 45,
+        "speaker": "",
+        "en": "Such plagues as heaven and we can pour on him:",
+        "es": "las calamidades que el cielo y nosotros podamos infligirle."
+      },
+      {
+        "id": "IV3-46",
+        "number": 46,
+        "speaker": "",
+        "en": "I long to break my spear upon his crest,",
+        "es": "Ansío quebrar mi lanza contra su yelmo"
+      },
+      {
+        "id": "IV3-47",
+        "number": 47,
+        "speaker": "",
+        "en": "And prove the weight of his victorious arm;",
+        "es": "y comprobar la fuerza de su brazo victorioso,"
+      },
+      {
+        "id": "IV3-48",
+        "number": 48,
+        "speaker": "",
+        "en": "For fame, I fear, hath been too prodigal",
+        "es": "pues temo que la fama haya sido demasiado generosa"
+      },
+      {
+        "id": "IV3-49",
+        "number": 49,
+        "speaker": "",
+        "en": "In sounding through the world his partial praise.",
+        "es": "al difundir por el mundo alabanzas parciales de él."
+      },
+      {
+        "id": "IV3-50",
+        "number": 50,
+        "speaker": "SOLDAN",
+        "en": "Capolin, hast thou survey'd our powers?",
+        "es": "Capolín, ¿has pasado revista a nuestras fuerzas?"
+      },
+      {
+        "id": "IV3-51",
+        "number": 51,
+        "speaker": "CAPOLIN",
+        "en": "Great emperors of Egypt and Arabia,",
+        "es": "Grandes emperadores de Egipto y Arabia,"
+      },
+      {
+        "id": "IV3-52",
+        "number": 52,
+        "speaker": "",
+        "en": "The number of your hosts united is,",
+        "es": "el número de vuestras huestes reunidas asciende a"
+      },
+      {
+        "id": "IV3-53",
+        "number": 53,
+        "speaker": "",
+        "en": "A hundred and fifty thousand horse,",
+        "es": "ciento cincuenta mil jinetes"
+      },
+      {
+        "id": "IV3-54",
+        "number": 54,
+        "speaker": "",
+        "en": "Two hundred thousand foot, brave men-at-arms,",
+        "es": "y doscientos mil infantes, valientes hombres de armas,"
+      },
+      {
+        "id": "IV3-55",
+        "number": 55,
+        "speaker": "",
+        "en": "Courageous and full of hardiness,",
+        "es": "audaces y llenos de arrojo,"
+      },
+      {
+        "id": "IV3-56",
+        "number": 56,
+        "speaker": "",
+        "en": "As frolic as the hunters in the chase",
+        "es": "tan animosos como cazadores que persiguen"
+      },
+      {
+        "id": "IV3-57",
+        "number": 57,
+        "speaker": "",
+        "en": "Of savage beasts amid the desert woods.",
+        "es": "bestias salvajes por los bosques desiertos."
+      },
+      {
+        "id": "IV3-58",
+        "number": 58,
+        "speaker": "KING OF ARABIA",
+        "en": "My mind presageth fortunate success;",
+        "es": "Mi ánimo presagia un éxito afortunado;"
+      },
+      {
+        "id": "IV3-59",
+        "number": 59,
+        "speaker": "",
+        "en": "And, Tamburlaine, my spirit doth foresee",
+        "es": "y, Tamerlán, mi espíritu ya contempla"
+      },
+      {
+        "id": "IV3-60",
+        "number": 60,
+        "speaker": "",
+        "en": "The utter ruin of thy men and thee.",
+        "es": "la completa ruina de tus hombres y de ti."
+      },
+      {
+        "id": "IV3-61",
+        "number": 61,
+        "speaker": "SOLDAN",
+        "en": "Then rear your standards; let your sounding drums",
+        "es": "Entonces, levantad los estandartes; que los redobles de tambor"
+      },
+      {
+        "id": "IV3-62",
+        "number": 62,
+        "speaker": "",
+        "en": "Direct our soldiers to Damascus' walls.—",
+        "es": "guíen a nuestros soldados hacia las murallas de Damasco."
+      },
+      {
+        "id": "IV3-63",
+        "number": 63,
+        "speaker": "",
+        "en": "Now, Tamburlaine, the mighty Soldan comes,",
+        "es": "Ahora llega, Tamerlán, el poderoso sultán"
+      },
+      {
+        "id": "IV3-64",
+        "number": 64,
+        "speaker": "",
+        "en": "And leads with him the great Arabian king,",
+        "es": "y trae consigo al gran rey de Arabia"
+      },
+      {
+        "id": "IV3-65",
+        "number": 65,
+        "speaker": "",
+        "en": "To dim thy baseness and obscurity,",
+        "es": "para eclipsar tu bajeza e insignificancia,"
+      },
+      {
+        "id": "IV3-66",
+        "number": 66,
+        "speaker": "",
+        "en": "Famous for nothing but for theft and spoil;",
+        "es": "célebre tan solo por tus robos y saqueos;"
+      },
+      {
+        "id": "IV3-67",
+        "number": 67,
+        "speaker": "",
+        "en": "To raze and scatter thy inglorious crew",
+        "es": "para destruir y dispersar tu banda sin gloria"
+      },
+      {
+        "id": "IV3-68",
+        "number": 68,
+        "speaker": "",
+        "en": "Of Scythians and slavish Persians.",
+        "es": "de escitas y persas serviles."
+      }
+    ],
+    "4": [
+      {
+        "id": "IV4-1",
+        "number": 1,
+        "speaker": "TAMBURLAINE",
+        "en": "Now hang our bloody colours by Damascus,",
+        "es": "Colgad ahora nuestras banderas ensangrentadas frente a Damasco"
+      },
+      {
+        "id": "IV4-2",
+        "number": 2,
+        "speaker": "",
+        "en": "Reflexing hues of blood upon their heads,",
+        "es": "y que reflejen tonos de sangre sobre sus cabezas,"
+      },
+      {
+        "id": "IV4-3",
+        "number": 3,
+        "speaker": "",
+        "en": "While they walk quivering on their city-walls,",
+        "es": "mientras recorren temblorosos las murallas,"
+      },
+      {
+        "id": "IV4-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Half-dead for fear before they feel my wrath.",
+        "es": "medio muertos de miedo antes de sentir mi ira."
+      },
+      {
+        "id": "IV4-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Then let us freely banquet, and carouse",
+        "es": "Después banquetear emos a nuestro gusto y beberemos"
+      },
+      {
+        "id": "IV4-6",
+        "number": 6,
+        "speaker": "",
+        "en": "Full bowls of wine unto the god of war,",
+        "es": "Después banquetearemos a nuestro gusto y beberemos"
+      },
+      {
+        "id": "IV4-7",
+        "number": 7,
+        "speaker": "",
+        "en": "That means to fill your helmets full of gold,",
+        "es": "que pretende llenar vuestros cascos de oro"
+      },
+      {
+        "id": "IV4-8",
+        "number": 8,
+        "speaker": "",
+        "en": "And make Damascus' spoils as rich to you",
+        "es": "y hacer que el botín de Damasco sea tan rico para vosotros"
+      },
+      {
+        "id": "IV4-9",
+        "number": 9,
+        "speaker": "",
+        "en": "As was to Jason Colchos' golden fleece.—",
+        "es": "como lo fue para Jasón el vellocino de oro de la Cólquide."
+      },
+      {
+        "id": "IV4-10",
+        "number": 10,
+        "speaker": "",
+        "en": "And now, Bajazeth, hast thou any stomach?",
+        "es": "Y ahora, Bayaceto, ¿tienes apetito?"
+      },
+      {
+        "id": "IV4-11",
+        "number": 11,
+        "speaker": "BAJAZETH",
+        "en": "Ay, such a stomach, cruel Tamburlaine, as I could",
+        "es": "Sí, tanto apetito, cruel Tamerlán, que podría"
+      },
+      {
+        "id": "IV4-12",
+        "number": 12,
+        "speaker": "",
+        "en": "willingly feed upon thy blood-raw heart.",
+        "es": "devorar de buen grado tu corazón aún crudo y sangrante."
+      },
+      {
+        "id": "IV4-13",
+        "number": 13,
+        "speaker": "TAMBURLAINE",
+        "en": "Nay, thine own is easier to come by: pluck out",
+        "es": "No, el tuyo es más fácil de conseguir: arráncatelo,"
+      },
+      {
+        "id": "IV4-14",
+        "number": 14,
+        "speaker": "",
+        "en": "that; and 'twill serve thee and thy wife.—Well, Zenocrate,",
+        "es": "y bastará para ti y para tu esposa. Bien, Zenócrate,"
+      },
+      {
+        "id": "IV4-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Techelles, and the rest, fall to your victuals.",
+        "es": "Tequeles y los demás, empezad a comer."
+      },
+      {
+        "id": "IV4-16",
+        "number": 16,
+        "speaker": "BAJAZETH",
+        "en": "Fall to, and never may your meat digest!—",
+        "es": "Comed, ¡y ojalá nunca podáis digerir el alimento!"
+      },
+      {
+        "id": "IV4-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Ye Furies, that can mask invisible,",
+        "es": "Vosotras, Furias capaces de ocultaros a la vista,"
+      },
+      {
+        "id": "IV4-18",
+        "number": 18,
+        "speaker": "",
+        "en": "Dive to the bottom of Avernus' pool,",
+        "es": "sumergíos en el fondo de las aguas del Averno"
+      },
+      {
+        "id": "IV4-19",
+        "number": 19,
+        "speaker": "",
+        "en": "And in your hands bring hellish poison up,",
+        "es": "y traed en vuestras manos veneno infernal;"
+      },
+      {
+        "id": "IV4-20",
+        "number": 20,
+        "speaker": "",
+        "en": "And squeeze it in the cup of Tamburlaine!",
+        "es": "¡exprimidlo en la copa de Tamerlán!"
+      },
+      {
+        "id": "IV4-21",
+        "number": 21,
+        "speaker": "",
+        "en": "Or, winged snakes of Lerna, cast your stings,",
+        "es": "Y vosotras, serpientes aladas de Lerna, clavad vuestros aguijones"
+      },
+      {
+        "id": "IV4-22",
+        "number": 22,
+        "speaker": "",
+        "en": "And leave your venoms in this tyrant's dish?",
+        "es": "y dejad vuestro veneno en el plato de este tirano."
+      },
+      {
+        "id": "IV4-23",
+        "number": 23,
+        "speaker": "ZABINA",
+        "en": "And may this banquet prove as ominous",
+        "es": "Y que este banquete sea tan funesto"
+      },
+      {
+        "id": "IV4-24",
+        "number": 24,
+        "speaker": "",
+        "en": "As Progne's to th' adulterous Thracian king",
+        "es": "como el de Procne para el adúltero rey tracio"
+      },
+      {
+        "id": "IV4-25",
+        "number": 25,
+        "speaker": "",
+        "en": "That fed upon the substance of his child!",
+        "es": "que devoró la carne de su propio hijo."
+      },
+      {
+        "id": "IV4-26",
+        "number": 26,
+        "speaker": "ZENOCRATE",
+        "en": "My lord, how can you suffer these",
+        "es": "Señor, ¿cómo podéis tolerar estas"
+      },
+      {
+        "id": "IV4-27",
+        "number": 27,
+        "speaker": "",
+        "en": "Outrageous curses by these slaves of yours?",
+        "es": "maldiciones desmedidas de vuestros esclavos?"
+      },
+      {
+        "id": "IV4-28",
+        "number": 28,
+        "speaker": "TAMBURLAINE",
+        "en": "To let them see, divine Zenocrate,",
+        "es": "Para que vean, divina Zenócrate,"
+      },
+      {
+        "id": "IV4-29",
+        "number": 29,
+        "speaker": "",
+        "en": "I glory in the curses of my foes,",
+        "es": "que me glorío en las maldiciones de mis enemigos,"
+      },
+      {
+        "id": "IV4-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Having the power from the empyreal heaven",
+        "es": "pues el cielo empíreo me ha concedido el poder"
+      },
+      {
+        "id": "IV4-31",
+        "number": 31,
+        "speaker": "",
+        "en": "To turn them all upon their proper heads.",
+        "es": "de hacerlas recaer sobre sus propias cabezas."
+      },
+      {
+        "id": "IV4-32",
+        "number": 32,
+        "speaker": "TECHELLES",
+        "en": "I pray you, give them leave, madam; this speech",
+        "es": "Os ruego que los dejéis, señora: estas palabras"
+      },
+      {
+        "id": "IV4-33",
+        "number": 33,
+        "speaker": "",
+        "en": "is a goodly refreshing for them.",
+        "es": "son para ellos un excelente entretenimiento."
+      },
+      {
+        "id": "IV4-34",
+        "number": 34,
+        "speaker": "THERIDAMAS",
+        "en": "But, if his highness would let them be fed,",
+        "es": "Pero si su alteza permitiera darles de comer,"
+      },
+      {
+        "id": "IV4-35",
+        "number": 35,
+        "speaker": "",
+        "en": "it would do them more good.",
+        "es": "les sentaría mucho mejor."
+      },
+      {
+        "id": "IV4-36",
+        "number": 36,
+        "speaker": "TAMBURLAINE",
+        "en": "Sirrah, why fall you not to? are you so daintily",
+        "es": "¡Eh, tú! ¿Por qué no empiezas? ¿Tan delicado eres"
+      },
+      {
+        "id": "IV4-37",
+        "number": 37,
+        "speaker": "",
+        "en": "brought up, you cannot eat your own flesh?",
+        "es": "que no puedes comer tu propia carne?"
+      },
+      {
+        "id": "IV4-38",
+        "number": 38,
+        "speaker": "BAJAZETH",
+        "en": "First, legions of devils shall tear thee in pieces.",
+        "es": "Antes te despedazarán legiones de demonios."
+      },
+      {
+        "id": "IV4-39",
+        "number": 39,
+        "speaker": "USUMCASANE",
+        "en": "Villain, knowest thou to whom thou speakest?",
+        "es": "¡Canalla! ¿Sabes con quién estás hablando?"
+      },
+      {
+        "id": "IV4-40",
+        "number": 40,
+        "speaker": "TAMBURLAINE",
+        "en": "O, let him alone.—Here; eat, sir; take it",
+        "es": "Déjalo en paz. Aquí tienes: come, señor, toma esto"
+      },
+      {
+        "id": "IV4-41",
+        "number": 41,
+        "speaker": "",
+        "en": "from my sword's point, or I'll thrust it to thy heart.",
+        "es": "de la punta de mi espada o te la hundiré en el corazón."
+      },
+      {
+        "id": "IV4-42",
+        "number": 42,
+        "speaker": "THERIDAMAS",
+        "en": "He stamps it under his feet, my lord.",
+        "es": "Lo pisotea, señor."
+      },
+      {
+        "id": "IV4-43",
+        "number": 43,
+        "speaker": "TAMBURLAINE",
+        "en": "Take it up, villain, and eat it; or I will make thee",
+        "es": "Recógelo, miserable, y cómelo; si no, te haré"
+      },
+      {
+        "id": "IV4-44",
+        "number": 44,
+        "speaker": "",
+        "en": "slice the brawns of thy arms into carbonadoes and eat them.",
+        "es": "cortar la carne de tus brazos en filetes asados y devorarla."
+      },
+      {
+        "id": "IV4-45",
+        "number": 45,
+        "speaker": "USUMCASANE",
+        "en": "Nay, 'twere better he killed his wife, and then she",
+        "es": "No, sería mejor que matara a su esposa, y así ella"
+      },
+      {
+        "id": "IV4-46",
+        "number": 46,
+        "speaker": "",
+        "en": "shall be sure not to be starved, and he be provided for a month's",
+        "es": "se aseguraría de no morir de hambre, y él tendría provisiones"
+      },
+      {
+        "id": "IV4-47",
+        "number": 47,
+        "speaker": "",
+        "en": "victual beforehand.",
+        "es": "para todo un mes por adelantado."
+      },
+      {
+        "id": "IV4-48",
+        "number": 48,
+        "speaker": "TAMBURLAINE",
+        "en": "Here is my dagger: despatch her while she is fat;",
+        "es": "Aquí está mi daga: acaba con ella mientras esté gorda;"
+      },
+      {
+        "id": "IV4-49",
+        "number": 49,
+        "speaker": "",
+        "en": "for, if she live but a while longer, she will fall into a",
+        "es": "porque, si vive un poco más, empezará a padecer"
+      },
+      {
+        "id": "IV4-50",
+        "number": 50,
+        "speaker": "",
+        "en": "consumption with fretting, and then she will not be worth the",
+        "es": "una consunción causada por la aflicción, y entonces no merecerá"
+      },
+      {
+        "id": "IV4-51",
+        "number": 51,
+        "speaker": "",
+        "en": "eating.",
+        "es": "la pena comérsela."
+      },
+      {
+        "id": "IV4-52",
+        "number": 52,
+        "speaker": "THERIDAMAS",
+        "en": "Dost thou think that Mahomet will suffer this?",
+        "es": "¿Crees que Mahoma permitirá esto?"
+      },
+      {
+        "id": "IV4-53",
+        "number": 53,
+        "speaker": "TECHELLES",
+        "en": "'Tis like he will, when he cannot let it.",
+        "es": "Probablemente sí, cuando no pueda impedirlo."
+      },
+      {
+        "id": "IV4-54",
+        "number": 54,
+        "speaker": "TAMBURLAINE",
+        "en": "Go to; fall to your meat. What, not a bit!—Belike",
+        "es": "Vamos, empezad a comer. ¿Ni un bocado? Seguramente"
+      },
+      {
+        "id": "IV4-55",
+        "number": 55,
+        "speaker": "",
+        "en": "he hath not been watered to-day: give him some drink.",
+        "es": "no le han dado de beber hoy: dadle algo."
+      },
+      {
+        "id": "IV4-56",
+        "number": 56,
+        "speaker": "",
+        "en": "Fast, and welcome, sir, while hunger make you eat.—How now,",
+        "es": "Ayuna cuanto quieras, señor, hasta que el hambre te haga comer. ¿Qué pasa,"
+      },
+      {
+        "id": "IV4-57",
+        "number": 57,
+        "speaker": "",
+        "en": "Zenocrate! doth not the Turk and his wife make a goodly show at a",
+        "es": "Zenócrate? ¿Acaso el turco y su esposa no ofrecen un hermoso espectáculo"
+      },
+      {
+        "id": "IV4-58",
+        "number": 58,
+        "speaker": "",
+        "en": "banquet?",
+        "es": "en un banquete?"
+      },
+      {
+        "id": "IV4-59",
+        "number": 59,
+        "speaker": "ZENOCRATE",
+        "en": "Yes, my lord.",
+        "es": "Sí, señor."
+      },
+      {
+        "id": "IV4-60",
+        "number": 60,
+        "speaker": "THERIDAMAS",
+        "en": "Methinks 'tis a great deal better than a consort of music.",
+        "es": "Me parece mucho mejor que un concierto de música."
+      },
+      {
+        "id": "IV4-61",
+        "number": 61,
+        "speaker": "TAMBURLAINE",
+        "en": "Yet music would do well to cheer up Zenocrate.",
+        "es": "Sin embargo, la música vendría bien para alegrar a Zenócrate."
+      },
+      {
+        "id": "IV4-62",
+        "number": 62,
+        "speaker": "",
+        "en": "Pray thee, tell why art thou so sad? if thou wilt have a song,",
+        "es": "Dime, te lo ruego, ¿por qué estás tan triste? Si quieres una canción,"
+      },
+      {
+        "id": "IV4-63",
+        "number": 63,
+        "speaker": "",
+        "en": "the Turk shall strain his voice: but why is it?",
+        "es": "el turco se esforzará por cantar. Pero ¿qué ocurre?"
+      },
+      {
+        "id": "IV4-64",
+        "number": 64,
+        "speaker": "ZENOCRATE",
+        "en": "My lord, to see my father's town besieg'd,",
+        "es": "Señor, al ver sitiada la ciudad de mi padre"
+      },
+      {
+        "id": "IV4-65",
+        "number": 65,
+        "speaker": "",
+        "en": "The country wasted where myself was born,",
+        "es": "y devastada la tierra donde nací,"
+      },
+      {
+        "id": "IV4-66",
+        "number": 66,
+        "speaker": "",
+        "en": "How can it but afflict my very soul?",
+        "es": "¿cómo no ha de sufrir mi propia alma?"
+      },
+      {
+        "id": "IV4-67",
+        "number": 67,
+        "speaker": "",
+        "en": "If any love remain in you, my lord,",
+        "es": "Si aún me profesáis algún amor, señor,"
+      },
+      {
+        "id": "IV4-68",
+        "number": 68,
+        "speaker": "",
+        "en": "Or if my love unto your majesty",
+        "es": "o si el amor que siento por vuestra majestad"
+      },
+      {
+        "id": "IV4-69",
+        "number": 69,
+        "speaker": "",
+        "en": "May merit favour at your highness' hands,",
+        "es": "merece algún favor de vuestra alteza,"
+      },
+      {
+        "id": "IV4-70",
+        "number": 70,
+        "speaker": "",
+        "en": "Then raise your siege from fair Damascus' walls,",
+        "es": "levantad el asedio de las murallas de la hermosa Damasco"
+      },
+      {
+        "id": "IV4-71",
+        "number": 71,
+        "speaker": "",
+        "en": "And with my father take a friendly truce.",
+        "es": "y acordad una tregua amistosa con mi padre."
+      },
+      {
+        "id": "IV4-72",
+        "number": 72,
+        "speaker": "TAMBURLAINE",
+        "en": "Zenocrate, were Egypt Jove's own land,",
+        "es": "Zenócrate, aunque Egipto fuera tierra del propio Júpiter,"
+      },
+      {
+        "id": "IV4-73",
+        "number": 73,
+        "speaker": "",
+        "en": "Yet would I with my sword make Jove to stoop.",
+        "es": "haría que Júpiter se inclinara ante mi espada."
+      },
+      {
+        "id": "IV4-74",
+        "number": 74,
+        "speaker": "",
+        "en": "I will confute those blind geographers",
+        "es": "Refutaré a esos geógrafos ciegos"
+      },
+      {
+        "id": "IV4-75",
+        "number": 75,
+        "speaker": "",
+        "en": "That make a triple region in the world,",
+        "es": "que dividen el mundo en tres regiones"
+      },
+      {
+        "id": "IV4-76",
+        "number": 76,
+        "speaker": "",
+        "en": "Excluding regions which I mean to trace,",
+        "es": "y excluyen las tierras que me propongo explorar."
+      },
+      {
+        "id": "IV4-77",
+        "number": 77,
+        "speaker": "",
+        "en": "And with this pen reduce them to a map,",
+        "es": "Con esta pluma las reuniré en un mapa,"
+      },
+      {
+        "id": "IV4-78",
+        "number": 78,
+        "speaker": "",
+        "en": "Calling the provinces, cities, and towns,",
+        "es": "poniendo a provincias, ciudades y pueblos"
+      },
+      {
+        "id": "IV4-79",
+        "number": 79,
+        "speaker": "",
+        "en": "After my name and thine, Zenocrate:",
+        "es": "tu nombre y el mío, Zenócrate."
+      },
+      {
+        "id": "IV4-80",
+        "number": 80,
+        "speaker": "",
+        "en": "Here at Damascus will I make the point",
+        "es": "Aquí, en Damasco, fijaré el punto"
+      },
+      {
+        "id": "IV4-81",
+        "number": 81,
+        "speaker": "",
+        "en": "That shall begin the perpendicular:",
+        "es": "desde el cual comenzará la línea perpendicular."
+      },
+      {
+        "id": "IV4-82",
+        "number": 82,
+        "speaker": "",
+        "en": "And wouldst thou have me buy thy father's love",
+        "es": "¿Y quieres que compre el amor de tu padre"
+      },
+      {
+        "id": "IV4-83",
+        "number": 83,
+        "speaker": "",
+        "en": "With such a loss? tell me, Zenocrate.",
+        "es": "a costa de semejante pérdida? Dime, Zenócrate."
+      },
+      {
+        "id": "IV4-84",
+        "number": 84,
+        "speaker": "ZENOCRATE",
+        "en": "Honour still wait on happy Tamburlaine!",
+        "es": "¡Que el honor acompañe siempre al afortunado Tamerlán!"
+      },
+      {
+        "id": "IV4-85",
+        "number": 85,
+        "speaker": "",
+        "en": "Yet give me leave to plead for him, my lord.",
+        "es": "Pero permitidme rogar por él, señor."
+      },
+      {
+        "id": "IV4-86",
+        "number": 86,
+        "speaker": "TAMBURLAINE",
+        "en": "Content thyself: his person shall be safe,",
+        "es": "Tranquilízate: su persona estará a salvo,"
+      },
+      {
+        "id": "IV4-87",
+        "number": 87,
+        "speaker": "",
+        "en": "And all the friends of fair Zenocrate,",
+        "es": "y también los de todos los amigos de la hermosa Zenócrate,"
+      },
+      {
+        "id": "IV4-88",
+        "number": 88,
+        "speaker": "",
+        "en": "If with their lives they will be pleas'd to yield,",
+        "es": "si se conforman con rendirse y conservar la vida;"
+      },
+      {
+        "id": "IV4-89",
+        "number": 89,
+        "speaker": "",
+        "en": "Or may be forc'd to make me emperor;",
+        "es": "de lo contrario, podré obligarlos a hacerme emperador,"
+      },
+      {
+        "id": "IV4-90",
+        "number": 90,
+        "speaker": "",
+        "en": "For Egypt and Arabia must be mine.—",
+        "es": "pues Egipto y Arabia han de ser míos."
+      },
+      {
+        "id": "IV4-91",
+        "number": 91,
+        "speaker": "",
+        "en": "Feed, you slave; thou mayst think thyself happy to be fed from",
+        "es": "Come, esclavo: puedes considerarte afortunado de recibir comida"
+      },
+      {
+        "id": "IV4-92",
+        "number": 92,
+        "speaker": "",
+        "en": "my trencher.",
+        "es": "de mi propio plato."
+      },
+      {
+        "id": "IV4-93",
+        "number": 93,
+        "speaker": "BAJAZETH",
+        "en": "My empty stomach, full of idle heat,",
+        "es": "Mi estómago vacío, lleno de ardor inútil,"
+      },
+      {
+        "id": "IV4-94",
+        "number": 94,
+        "speaker": "",
+        "en": "Draws bloody humours from my feeble parts,",
+        "es": "extrae humores sangrientos de mis miembros debilitados"
+      },
+      {
+        "id": "IV4-95",
+        "number": 95,
+        "speaker": "",
+        "en": "Preserving life by hastening cruel death.",
+        "es": "y prolonga la vida apresurando una muerte cruel."
+      },
+      {
+        "id": "IV4-96",
+        "number": 96,
+        "speaker": "",
+        "en": "My veins are pale; my sinews hard and dry;",
+        "es": "Mis venas están pálidas, mis tendones duros y secos,"
+      },
+      {
+        "id": "IV4-97",
+        "number": 97,
+        "speaker": "",
+        "en": "My joints benumb'd; unless I eat, I die.",
+        "es": "mis articulaciones entumecidas; si no como, moriré."
+      },
+      {
+        "id": "IV4-98",
+        "number": 98,
+        "speaker": "ZABINA",
+        "en": "Eat, Bajazeth; let us live in spite of them, looking",
+        "es": "Come, Bayaceto; vivamos a pesar de ellos, confiando en que"
+      },
+      {
+        "id": "IV4-99",
+        "number": 99,
+        "speaker": "",
+        "en": "some happy power will pity and enlarge us.",
+        "es": "algún poder favorable se apiade de nosotros y nos libere."
+      },
+      {
+        "id": "IV4-100",
+        "number": 100,
+        "speaker": "TAMBURLAINE",
+        "en": "Here, Turk; wilt thou have a clean trencher?",
+        "es": "Vamos, turco: ¿quieres un plato limpio?"
+      },
+      {
+        "id": "IV4-101",
+        "number": 101,
+        "speaker": "BAJAZETH",
+        "en": "Ay, tyrant, and more meat.",
+        "es": "Sí, tirano, y más comida."
+      },
+      {
+        "id": "IV4-102",
+        "number": 102,
+        "speaker": "TAMBURLAINE",
+        "en": "Soft, sir! you must be dieted; too much eating",
+        "es": "Despacio, señor; tienes que seguir una dieta: comer demasiado"
+      },
+      {
+        "id": "IV4-103",
+        "number": 103,
+        "speaker": "",
+        "en": "will make you surfeit.",
+        "es": "te provocaría una indigestión."
+      },
+      {
+        "id": "IV4-104",
+        "number": 104,
+        "speaker": "THERIDAMAS",
+        "en": "So it would, my lord, 'specially having so small",
+        "es": "Eso es cierto, señor, especialmente con tan poco espacio"
+      },
+      {
+        "id": "IV4-105",
+        "number": 105,
+        "speaker": "",
+        "en": "a walk and so little exercise.",
+        "es": "para pasear y tan poco ejercicio."
+      },
+      {
+        "id": "IV4-106",
+        "number": 106,
+        "speaker": "TAMBURLAINE",
+        "en": "Theridamas, Techelles, and Casane, here are the",
+        "es": "Teridamas, Tequeles y Casane, aquí están los manjares"
+      },
+      {
+        "id": "IV4-107",
+        "number": 107,
+        "speaker": "",
+        "en": "cates you desire to finger, are they not?",
+        "es": "que deseáis tocar, ¿no es así?"
+      },
+      {
+        "id": "IV4-108",
+        "number": 108,
+        "speaker": "THERIDAMAS",
+        "en": "Ay, my lord: but none save kings must feed with",
+        "es": "Sí, señor, pero nadie salvo los reyes debe alimentarse"
+      },
+      {
+        "id": "IV4-109",
+        "number": 109,
+        "speaker": "",
+        "en": "these.",
+        "es": "de ellos."
+      },
+      {
+        "id": "IV4-110",
+        "number": 110,
+        "speaker": "TECHELLES",
+        "en": "'Tis enough for us to see them, and for Tamburlaine",
+        "es": "A nosotros nos basta con contemplarlos, y con que solo Tamerlán"
+      },
+      {
+        "id": "IV4-111",
+        "number": 111,
+        "speaker": "",
+        "en": "only to enjoy them.",
+        "es": "pueda disfrutarlos."
+      },
+      {
+        "id": "IV4-112",
+        "number": 112,
+        "speaker": "TAMBURLAINE",
+        "en": "Well; here is now to the Soldan of Egypt, the King",
+        "es": "Bien; brindo ahora por el sultán de Egipto, el rey"
+      },
+      {
+        "id": "IV4-113",
+        "number": 113,
+        "speaker": "",
+        "en": "of Arabia, and the Governor of Damascus. Now, take these three",
+        "es": "de Arabia y el gobernador de Damasco. Tomad estas tres"
+      },
+      {
+        "id": "IV4-114",
+        "number": 114,
+        "speaker": "",
+        "en": "crowns, and pledge me, my contributory kings. I crown you here,",
+        "es": "coronas y brindad conmigo, reyes tributarios. Aquí os corono:"
+      },
+      {
+        "id": "IV4-115",
+        "number": 115,
+        "speaker": "",
+        "en": "Theridamas, king of Argier; Techelles, king of Fez; and",
+        "es": "Teridamas, rey de Argel; Tequeles, rey de Fez; y"
+      },
+      {
+        "id": "IV4-116",
+        "number": 116,
+        "speaker": "",
+        "en": "Usumcasane, king of Morocco. —How say you to this, Turk? these are",
+        "es": "Usumcasane, rey de Marruecos. ¿Qué dices, turco? Estos"
+      },
+      {
+        "id": "IV4-117",
+        "number": 117,
+        "speaker": "",
+        "en": "not your contributory kings.",
+        "es": "ya no son tus reyes tributarios."
+      },
+      {
+        "id": "IV4-118",
+        "number": 118,
+        "speaker": "BAJAZETH",
+        "en": "Nor shall they long be thine, I warrant them.",
+        "es": "Ni serán tuyos por mucho tiempo, te lo aseguro."
+      },
+      {
+        "id": "IV4-119",
+        "number": 119,
+        "speaker": "TAMBURLAINE",
+        "en": "Kings of Argier, Morocco, and of Fez,",
+        "es": "Reyes de Argel, Marruecos y Fez,"
+      },
+      {
+        "id": "IV4-120",
+        "number": 120,
+        "speaker": "",
+        "en": "You that have march'd with happy Tamburlaine",
+        "es": "vosotros, que habéis marchado con el afortunado Tamerlán"
+      },
+      {
+        "id": "IV4-121",
+        "number": 121,
+        "speaker": "",
+        "en": "As far as from the frozen plage of heaven",
+        "es": "desde la región helada del cielo"
+      },
+      {
+        "id": "IV4-122",
+        "number": 122,
+        "speaker": "",
+        "en": "Unto the watery Morning's ruddy bower,",
+        "es": "hasta la rojiza morada de la Mañana entre las aguas,"
+      },
+      {
+        "id": "IV4-123",
+        "number": 123,
+        "speaker": "",
+        "en": "And thence by land unto the torrid zone,",
+        "es": "y desde allí por tierra hasta la zona tórrida,"
+      },
+      {
+        "id": "IV4-124",
+        "number": 124,
+        "speaker": "",
+        "en": "Deserve these titles I endow you with",
+        "es": "merecéis estos títulos que os concedo"
+      },
+      {
+        "id": "IV4-125",
+        "number": 125,
+        "speaker": "",
+        "en": "By valour and by magnanimity.",
+        "es": "por vuestro valor y magnanimidad."
+      },
+      {
+        "id": "IV4-126",
+        "number": 126,
+        "speaker": "",
+        "en": "Your births shall be no blemish to your fame;",
+        "es": "Vuestro origen no empañará vuestra fama,"
+      },
+      {
+        "id": "IV4-127",
+        "number": 127,
+        "speaker": "",
+        "en": "For virtue is the fount whence honour springs,",
+        "es": "pues la virtud es la fuente de la que brota el honor"
+      },
+      {
+        "id": "IV4-128",
+        "number": 128,
+        "speaker": "",
+        "en": "And they are worthy she investeth kings.",
+        "es": "y son dignos aquellos a quienes ella reviste como reyes."
+      },
+      {
+        "id": "IV4-129",
+        "number": 129,
+        "speaker": "THERIDAMAS",
+        "en": "And, since your highness hath so well vouchsaf'd,",
+        "es": "Y puesto que vuestra alteza se ha dignado favorecernos así,"
+      },
+      {
+        "id": "IV4-130",
+        "number": 130,
+        "speaker": "",
+        "en": "If we deserve them not with higher meeds",
+        "es": "si no merecemos estos títulos con recompensas más elevadas"
+      },
+      {
+        "id": "IV4-131",
+        "number": 131,
+        "speaker": "",
+        "en": "Than erst our states and actions have retain'd,",
+        "es": "que las que hasta ahora nos ganaron nuestro rango y nuestras hazañas,"
+      },
+      {
+        "id": "IV4-132",
+        "number": 132,
+        "speaker": "",
+        "en": "Take them away again, and make us slaves.",
+        "es": "quitádnoslos de nuevo y hacednos esclavos."
+      },
+      {
+        "id": "IV4-133",
+        "number": 133,
+        "speaker": "TAMBURLAINE",
+        "en": "Well said, Theridamas: when holy Fates",
+        "es": "Bien dicho, Teridamas: cuando los santos Hados"
+      },
+      {
+        "id": "IV4-134",
+        "number": 134,
+        "speaker": "",
+        "en": "Shall stablish me in strong Aegyptia,",
+        "es": "me afiancen en el poderoso Egipto,"
+      },
+      {
+        "id": "IV4-135",
+        "number": 135,
+        "speaker": "",
+        "en": "We mean to travel to th' antarctic pole,",
+        "es": "nos proponemos viajar hasta el polo antártico,"
+      },
+      {
+        "id": "IV4-136",
+        "number": 136,
+        "speaker": "",
+        "en": "Conquering the people underneath our feet,",
+        "es": "conquistando a los pueblos que encontremos a nuestros pies,"
+      },
+      {
+        "id": "IV4-137",
+        "number": 137,
+        "speaker": "",
+        "en": "And be renowm'd as never emperors were.—",
+        "es": "y alcanzando una fama jamás lograda por otros emperadores."
+      },
+      {
+        "id": "IV4-138",
+        "number": 138,
+        "speaker": "",
+        "en": "Zenocrate, I will not crown thee yet,",
+        "es": "Zenócrate, aún no te coronaré,"
+      },
+      {
+        "id": "IV4-139",
+        "number": 139,
+        "speaker": "",
+        "en": "Until with greater honours I be grac'd.",
+        "es": "hasta que me cubran honores todavía mayores."
+      }
+    ]
+  },
+  "act5Scenes": {
+    "1": [
+      {
+        "id": "V1-1",
+        "number": 1,
+        "speaker": "GOVERNOR",
+        "en": "Still doth this man, or rather god of war,",
+        "es": "Este hombre, o más bien dios de la guerra,"
+      },
+      {
+        "id": "V1-2",
+        "number": 2,
+        "speaker": "",
+        "en": "Batter our walls and beat our turrets down;",
+        "es": "sigue atacando nuestras murallas y derribando nuestras torres."
+      },
+      {
+        "id": "V1-3",
+        "number": 3,
+        "speaker": "",
+        "en": "And to resist with longer stubbornness,",
+        "es": "Resistir con más obstinación"
+      },
+      {
+        "id": "V1-4",
+        "number": 4,
+        "speaker": "",
+        "en": "Or hope of rescue from the Soldan's power,",
+        "es": "o esperar el socorro de las fuerzas del sultán"
+      },
+      {
+        "id": "V1-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Were but to bring our wilful overthrow,",
+        "es": "solo provocaría nuestra destrucción voluntaria"
+      },
+      {
+        "id": "V1-6",
+        "number": 6,
+        "speaker": "",
+        "en": "And make us desperate of our threaten'd lives.",
+        "es": "y nos haría desesperar de salvar las vidas amenazadas."
+      },
+      {
+        "id": "V1-7",
+        "number": 7,
+        "speaker": "",
+        "en": "We see his tents have now been altered",
+        "es": "Vemos que sus tiendas han cambiado ahora"
+      },
+      {
+        "id": "V1-8",
+        "number": 8,
+        "speaker": "",
+        "en": "With terrors to the last and cruel'st hue;",
+        "es": "al último y más cruel color del terror."
+      },
+      {
+        "id": "V1-9",
+        "number": 9,
+        "speaker": "",
+        "en": "His coal-black colours, every where advanc'd,",
+        "es": "Sus banderas negras como el carbón, alzadas por todas partes,"
+      },
+      {
+        "id": "V1-10",
+        "number": 10,
+        "speaker": "",
+        "en": "Threaten our city with a general spoil;",
+        "es": "amenazan a nuestra ciudad con un saqueo general."
+      },
+      {
+        "id": "V1-11",
+        "number": 11,
+        "speaker": "",
+        "en": "And, if we should with common rites of arms",
+        "es": "Y aunque, siguiendo los usos comunes de la guerra,"
+      },
+      {
+        "id": "V1-12",
+        "number": 12,
+        "speaker": "",
+        "en": "Offer our safeties to his clemency,",
+        "es": "nos pusiéramos bajo su clemencia para salvarnos,"
+      },
+      {
+        "id": "V1-13",
+        "number": 13,
+        "speaker": "",
+        "en": "I fear the custom proper to his sword,",
+        "es": "temo que la costumbre particular de su espada,"
+      },
+      {
+        "id": "V1-14",
+        "number": 14,
+        "speaker": "",
+        "en": "Which he observes as parcel of his fame,",
+        "es": "que observa como parte de su fama,"
+      },
+      {
+        "id": "V1-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Intending so to terrify the world,",
+        "es": "con la intención de aterrorizar así al mundo,"
+      },
+      {
+        "id": "V1-16",
+        "number": 16,
+        "speaker": "",
+        "en": "By any innovation or remorse",
+        "es": "no admitirá excepción ni arrepentimiento alguno"
+      },
+      {
+        "id": "V1-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Will never be dispens'd with till our deaths.",
+        "es": "hasta que todos hayamos muerto."
+      },
+      {
+        "id": "V1-18",
+        "number": 18,
+        "speaker": "",
+        "en": "Therefore, for these our harmless virgins' sakes,",
+        "es": "Por eso, en consideración a estas doncellas inocentes,"
+      },
+      {
+        "id": "V1-19",
+        "number": 19,
+        "speaker": "",
+        "en": "Whose honours and whose lives rely on him,",
+        "es": "cuyo honor y cuyas vidas dependen de él,"
+      },
+      {
+        "id": "V1-20",
+        "number": 20,
+        "speaker": "",
+        "en": "Let us have hope that their unspotted prayers,",
+        "es": "confiemos en que sus oraciones inmaculadas,"
+      },
+      {
+        "id": "V1-21",
+        "number": 21,
+        "speaker": "",
+        "en": "Their blubber'd cheeks, and hearty humble moans,",
+        "es": "sus mejillas bañadas en lágrimas y sus humildes y sinceros lamentos"
+      },
+      {
+        "id": "V1-22",
+        "number": 22,
+        "speaker": "",
+        "en": "Will melt his fury into some remorse,",
+        "es": "ablanden su furia hasta despertar cierta compasión"
+      },
+      {
+        "id": "V1-23",
+        "number": 23,
+        "speaker": "",
+        "en": "And use us like a loving conqueror.",
+        "es": "y lo lleven a tratarnos como un conquistador benévolo."
+      },
+      {
+        "id": "V1-24",
+        "number": 24,
+        "speaker": "FIRST VIRGIN",
+        "en": "If humble suite or imprecations",
+        "es": "Si las súplicas humildes o las imprecaciones"
+      },
+      {
+        "id": "V1-25",
+        "number": 25,
+        "speaker": "",
+        "en": "(Utter'd with tears of wretchedness and blood",
+        "es": "—pronunciadas entre lágrimas de desgracia y sangre"
+      },
+      {
+        "id": "V1-26",
+        "number": 26,
+        "speaker": "",
+        "en": "Shed from the heads and hearts of all our sex,",
+        "es": "derramada de las cabezas y los corazones de todas las mujeres,"
+      },
+      {
+        "id": "V1-27",
+        "number": 27,
+        "speaker": "",
+        "en": "Some made your wives, and some your children,)",
+        "es": "unas convertidas en vuestras esposas y otras en vuestras hijas—"
+      },
+      {
+        "id": "V1-28",
+        "number": 28,
+        "speaker": "",
+        "en": "Might have entreated your obdurate breasts",
+        "es": "hubieran podido ablandar vuestros pechos endurecidos"
+      },
+      {
+        "id": "V1-29",
+        "number": 29,
+        "speaker": "",
+        "en": "To entertain some care of our securities",
+        "es": "y haceros prestar alguna atención a nuestra seguridad"
+      },
+      {
+        "id": "V1-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Whiles only danger beat upon our walls,",
+        "es": "cuando el peligro apenas golpeaba nuestras murallas,"
+      },
+      {
+        "id": "V1-31",
+        "number": 31,
+        "speaker": "",
+        "en": "These more than dangerous warrants of our death",
+        "es": "estas señales más que peligrosas de nuestra muerte"
+      },
+      {
+        "id": "V1-32",
+        "number": 32,
+        "speaker": "",
+        "en": "Had never been erected as they be,",
+        "es": "nunca se habrían alzado como ahora,"
+      },
+      {
+        "id": "V1-33",
+        "number": 33,
+        "speaker": "",
+        "en": "Nor you depend on such weak helps as we.",
+        "es": "ni dependeríais de una ayuda tan débil como la nuestra."
+      },
+      {
+        "id": "V1-34",
+        "number": 34,
+        "speaker": "GOVERNOR",
+        "en": "Well, lovely virgins, think our country's care,",
+        "es": "Bien, hermosas doncellas, pensad que la preocupación por la patria,"
+      },
+      {
+        "id": "V1-35",
+        "number": 35,
+        "speaker": "",
+        "en": "Our love of honour, loath to be enthrall'd",
+        "es": "nuestro amor al honor y nuestro rechazo a quedar sometidos"
+      },
+      {
+        "id": "V1-36",
+        "number": 36,
+        "speaker": "",
+        "en": "To foreign powers and rough imperious yokes,",
+        "es": "a poderes extranjeros y a yugos ásperos e imperiosos"
+      },
+      {
+        "id": "V1-37",
+        "number": 37,
+        "speaker": "",
+        "en": "Would not with too much cowardice or fear,",
+        "es": "nos impidieron, por excesiva cobardía o temor,"
+      },
+      {
+        "id": "V1-38",
+        "number": 38,
+        "speaker": "",
+        "en": "Before all hope of rescue were denied,",
+        "es": "antes de que se extinguiera toda esperanza de rescate,"
+      },
+      {
+        "id": "V1-39",
+        "number": 39,
+        "speaker": "",
+        "en": "Submit yourselves and us to servitude.",
+        "es": "entregaros a vosotras y a nosotros a la esclavitud."
+      },
+      {
+        "id": "V1-40",
+        "number": 40,
+        "speaker": "",
+        "en": "Therefore, in that your safeties and our own,",
+        "es": "Por eso, ya que vuestra seguridad y la nuestra,"
+      },
+      {
+        "id": "V1-41",
+        "number": 41,
+        "speaker": "",
+        "en": "Your honours, liberties, and lives were weigh'd",
+        "es": "vuestros honores, libertades y vidas fueron ponderados"
+      },
+      {
+        "id": "V1-42",
+        "number": 42,
+        "speaker": "",
+        "en": "In equal care and balance with our own,",
+        "es": "con idéntico cuidado y en igual balanza que los nuestros,"
+      },
+      {
+        "id": "V1-43",
+        "number": 43,
+        "speaker": "",
+        "en": "Endure as we the malice of our stars,",
+        "es": "soportad como nosotros la malicia de nuestras estrellas,"
+      },
+      {
+        "id": "V1-44",
+        "number": 44,
+        "speaker": "",
+        "en": "The wrath of Tamburlaine and power of wars;",
+        "es": "la ira de Tamerlán y el poder de las guerras;"
+      },
+      {
+        "id": "V1-45",
+        "number": 45,
+        "speaker": "",
+        "en": "Or be the means the overweighing heavens",
+        "es": "o sed vosotras el instrumento que los cielos, más poderosos,"
+      },
+      {
+        "id": "V1-46",
+        "number": 46,
+        "speaker": "",
+        "en": "Have kept to qualify these hot extremes,",
+        "es": "han reservado para moderar estos terribles extremos"
+      },
+      {
+        "id": "V1-47",
+        "number": 47,
+        "speaker": "",
+        "en": "And bring us pardon in your cheerful looks.",
+        "es": "y traernos el perdón gracias a vuestras miradas alegres."
       }
     ]
   }
