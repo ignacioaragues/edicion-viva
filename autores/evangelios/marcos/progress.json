@@ -1446,12 +1446,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "16/16 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 48,
+      "to": 48,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "29/29 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar en Marcos 6,48; segunda revisión filológica integral y Vulgata opcional de pasajes anteriores pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 48
+    "verse": 49
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3376,6 +3385,18 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.sermonindex.net/commentary/cambridgegreek/MRK/6/",
       "https://biblia.com/bible/vulgataclem/mark/6/47-48"
+    ]
+  },
+  "prepublication_research_6_48": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "29/29",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://biblehub.com/commentaries/mark/6-48.htm",
+      "https://www.textus-receptus.com/wiki/Mark_6%3A48"
     ]
   }
 }
