@@ -1464,12 +1464,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "14/14 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 50,
+      "to": 50,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "20/20 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar en Marcos 6,48; segunda revisión filológica integral y Vulgata opcional de pasajes anteriores pendientes.",
+  "pending": "Continuar en Marcos 6,51; segunda revisión filológica y Vulgata opcional pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 50
+    "verse": 51
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3418,6 +3427,18 @@
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/49",
       "https://tips.translation.bible/story/sil-translators-notes-on-mark-649/"
+    ]
+  },
+  "prepublication_research_6_50": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/6/50-52",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
+      "https://greeknewtestament.net/mk6-50"
     ]
   }
 }
