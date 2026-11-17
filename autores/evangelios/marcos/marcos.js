@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,38 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,39 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -237,9 +237,12 @@
     ,{"chapter":6,"n":36,"gr":"ἀπόλυσον αὐτούς, ἵνα ἀπελθόντες εἰς τοὺς κύκλῳ ἀγροὺς καὶ κώμας ἀγοράσωσιν ἑαυτοῖς τί φάγωσιν.","es":"Despídelos para que vayan a los campos y las aldeas de alrededor y compren algo para comer.","la":"","notes":["mc636villages","mc636variant"]}
     ,{"chapter":6,"n":37,"gr":"ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Δότε αὐτοῖς ὑμεῖς φαγεῖν. καὶ λέγουσιν αὐτῷ· Ἀπελθόντες ἀγοράσωμεν δηναρίων διακοσίων ἄρτους καὶ δώσομεν αὐτοῖς φαγεῖν;","es":"Pero él les respondió: «Denles ustedes de comer». Ellos le dicen: «¿Vamos a comprar panes por doscientos denarios y se los daremos de comer?».","la":"","notes":["mc637emphasis","mc637denarii","mc637variant"]}
     ,{"chapter":6,"n":38,"gr":"ὁ δὲ λέγει αὐτοῖς· Πόσους ἔχετε ἄρτους; ὑπάγετε ἴδετε. καὶ γνόντες λέγουσιν· Πέντε, καὶ δύο ἰχθύας.","es":"Él les dice: «¿Cuántos panes tienen? Vayan a comprobarlo». Después de averiguarlo, le dicen: «Cinco, y dos peces».","la":"","notes":["mc638inventory","mc638variants"]}
+    ,{"chapter":6,"n":39,"gr":"καὶ ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας συμπόσια συμπόσια ἐπὶ τῷ χλωρῷ χόρτῳ.","es":"Y les ordenó que hicieran recostarse a todos en grupos, sobre la hierba verde.","la":"","notes":["mc639groups","mc639grass"]}
   ];
 
   const notes = {
+    mc639groups: ["Grupos de comensales", "συμπόσια συμπόσια repite el sustantivo para expresar distribución («grupo por grupo»), como δύο δύο en Mc 6,7. ἀνακλῖναι alude a la postura de los comensales. A. T. Robertson, Word Pictures in the New Testament, Mc 6,39: https://ccel.org/ccel/robertson_at/word/word.v.vi.html ; A. B. Bruce, Expositor’s Greek Testament, Mc 6,39: https://biblehub.com/commentaries/mark/6-39.htm"],
+    mc639grass: ["Hierba verde", "χλωρός precisa el color de la hierba; algunos comentaristas relacionan el detalle con la primavera y con Jn 6,4, pero Marcos no da una fecha explícita. Cambridge Bible for Schools and Colleges, Mc 6,39: https://biblehub.com/commentaries/mark/6-39.htm ; cf. Jn 6,4 y 6,10."],
     mc638inventory: ["Comprobar los recursos", "La pregunta Πόσους ἔχετε ἄρτους y los imperativos ὑπάγετε ἴδετε trasladan la atención de la compra hipotética (6,37) a los alimentos disponibles. El participio aoristo γνόντες indica que los discípulos han averiguado la cantidad antes de responder. A. Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Mc 6,38: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/38"],
     mc638variants: ["Orden y conjunción", "El aparato SBLGNT registra ἔχετε ἄρτους frente a ἄρτους ἔχετε (Tregelles, NA28 y tradición mayoritaria), así como ὑπάγετε ἴδετε frente a ὑπάγετε καὶ ἴδετε (texto mayoritario). Las variantes afectan el orden y la coordinación, no el inventario de cinco panes y dos peces. M. W. Holmes, SBLGNT, aparato a Mc 6,38: https://biblia.com/bible/sblgnt/mark/6"],
     mc637emphasis: ["Ustedes mismos", "El pronombre ὑμεῖς, explícito junto al imperativo Δότε, pone el énfasis en los discípulos: «denles ustedes de comer». La respuesta interrogativa expresa la dificultad práctica de cumplir la orden, sin que el griego obligue a entenderla como sarcasmo. A. Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Mc 6,37: https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php"],
