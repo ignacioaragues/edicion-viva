@@ -94,3 +94,10 @@ Las obras de dominio público pueden convivir con ediciones críticas y traducci
 - Latín: *Vulgata Clementina*, [Clementine Vulgate Project](https://hermeticcloud.com/library/vulgate/mark/), dominio público. No se fuerza su armonización con SBLGNT.
 - Español: traducción propia y provisional de esta edición, sin copiar versiones modernas.
 - Estado: Marcos 1,1–13, con notas y glosario inicial verificado. No se anuncia el capítulo 1 como completo.
+
+## Convención de navegación (todas las obras actuales y futuras)
+
+- Los índices laterales de actos, escenas, pasajes, capítulos y sermones **no deben llevar circulitos ni puntos decorativos a la derecha** de cada entrada. Usar número y título; señalar el elemento activo con un fondo tenue, un cambio tipográfico o una línea discreta. No reutilizar `scene-dot`, `nav-dot` ni equivalentes como marcadores de navegación.
+- Esta convención se aplica a todos los lectores de la biblioteca (Shakespeare, Plauto, Marcos, León I, Corneille y los que se publiquen después). Los puntos que pertenecen al texto crítico o a otras funciones no se ven afectados.
+- En el corpus de León I, el pie de cada sermón tiene navegación **Anterior / Siguiente** a obras efectivamente publicadas y no repite un enlace al sermón actual. El módulo `autores/leon-i/sermon-navigation.js` toma los números publicados de `autores/leon-i/progress.json`. Toda página nueva de sermón debe cargarlo con `<script src="../../sermon-navigation.js" defer></script>` antes de cerrar `body`; actualizar el registro editorial solo cuando la página correspondiente exista.
+- Los lectores deben ofrecer un enlace comprensible de retorno a la biblioteca general `/edicion-viva/`, aunque tengan portada propia.
