@@ -1025,6 +1025,16 @@
       "status": "edited_not_revised",
       "source": "The Latin Library IV.7; Leo 1895 collation pending",
       "note": "38 tokens con glosas contextuales; Juno Lucina y fórmulas de parto. Revisión retroactiva 160+ no certificada."
+    },
+    {
+      "section": "IV.7",
+      "from": 696,
+      "to": 700,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "tokens": 39,
+      "source": "mqdq Plautus Aulularia 696–700; Leo 1895 direct collation pending",
+      "note": "Traducción original, fichas y glosas contextuales; segunda pasada permanece en 159"
     }
   ],
   "pending": [
@@ -1034,8 +1044,8 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.7, desde el verso 696; segunda revisión morfológica 160–164 pendiente de migración segura de IDs",
-  "editorial_note": "IV.6 677–681: 38 fichas con glosas contextuales; segunda pasada permanece hasta 159; cotejo directo Leo y revisión visual pendientes.",
+  "next": "IV.8 desde el verso 701; segunda revisión morfológica 160–164 pendiente de migración de IDs",
+  "editorial_note": "IV.7 696–700 incorporados; cotejo directo Leo pendiente; segunda pasada no avanzó por conflicto de IDs 142–161.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 159,
