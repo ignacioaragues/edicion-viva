@@ -1410,12 +1410,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "32/32 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 42,
+      "to": 44,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "23/23 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar en Marcos 6,42; Vulgata opcional y segunda revisión filológica pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 42
+    "verse": 45
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3270,6 +3279,39 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/41",
+      "https://mail.biblehub.com/commentaries/icc/mark/6.htm"
+    ]
+  },
+  "prepublication_research_6_42": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "5/5",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://mail.biblehub.com/commentaries/icc/mark/6.htm"
+    ]
+  },
+  "prepublication_research_6_43": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "10/10",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://old-tips.translation.bible/tip_verse/mark-643/"
+    ]
+  },
+  "prepublication_research_6_44": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "8/8",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://mail.biblehub.com/commentaries/icc/mark/6.htm"
     ]
   }
