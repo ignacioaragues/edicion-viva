@@ -1455,12 +1455,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "29/29 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 49,
+      "to": 49,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "14/14 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar en Marcos 6,48; segunda revisión filológica integral y Vulgata opcional de pasajes anteriores pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 49
+    "verse": 50
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3397,6 +3406,18 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://biblehub.com/commentaries/mark/6-48.htm",
       "https://www.textus-receptus.com/wiki/Mark_6%3A48"
+    ]
+  },
+  "prepublication_research_6_49": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "14/14",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/49",
+      "https://tips.translation.bible/story/sil-translators-notes-on-mark-649/"
     ]
   }
 }
