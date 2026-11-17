@@ -1901,6 +1901,66 @@ window.TAMBURLAINE_EDITION = {
       "«Want my heart»: disponibilidad al sacrificio",
       "«Nor thee nor them ... Shall want my heart» significa que ni Tamerlán ni sus compañeros carecerán de la entrega de Teridamas. El corazón dispuesto a ser «atravesado con gusto» es una promesa de arriesgar la vida por su honra y protección, no solo un estado de júbilo.",
       "Shall want my heart"
+    ],
+    "I2-256": [
+      "La alternativa es la esclavitud",
+      "La promesa de honores está condicionada por una amenaza explícita: «or else» introduce la esclavitud como alternativa a permanecer con Tamerlán. La expresión no deja a los cautivos una elección libre en sentido pleno.",
+      "forc'd with slavery"
+    ],
+    "I2-259": [
+      "«Pleased perforce»: conformidad obligada",
+      "«Perforce» significa «por fuerza» o «necesariamente», y «pleas'd» se emplea con ironía amarga. Zenócrate lamenta tener que mostrarse conforme con una decisión impuesta; su última intervención desautoriza cualquier lectura de consentimiento espontáneo.",
+      "pleas'd perforce"
+    ],
+    "II1-3": [
+      "La frente de la Fortuna",
+      "«Forehead of his fortune» imagina la suerte de Tamerlán como una frente inscrita de señales extraordinarias. Cosroe introduce así el retrato de Menafón con un vocabulario de destino y prodigio, no con una descripción física literal de la frente del personaje.",
+      "forehead of his fortune"
+    ],
+    "II1-11": [
+      "«Pitch» y la perla que es la cabeza",
+      "El giro «'twixt his manly pitch» es difícil. Dyce entiende «pitch» como la parte más alta del cuerpo y llama «cabeza» a la «perla» siguiente; un editor posterior recoge para «pitch» el sentido de la prominencia del hombro (OED, citado en la edición anotada de *Tamburlaine*, Marlowe Society of America, nota a II.1.11). La traducción interpreta el conjunto como la cabeza, joya situada entre los hombros, pero esta localización no es una lectura indiscutida.",
+      "'twixt his manly pitch"
+    ],
+    "II1-14": [
+      "Los ojos engastados en la cabeza",
+      "La «perla» aludida en el verso 12 representa la cabeza y los «piercing instruments of sight» son los ojos, engastados en ella como piedras preciosas. El retrato mezcla anatomía idealizada, joyería y un cielo de astros representado en las pupilas.",
+      "piercing instruments of sight"
+    ],
+    "II1-19": [
+      "Tez pálida y teoría de las pasiones",
+      "La palidez está «wrought ... with passion»: la apariencia corporal se explica mediante los afectos, de acuerdo con el vocabulario fisiognómico y humoral de la época. Sydnee Wagner observa que la relación entre tez, carácter y alteridad de Tamerlán no es estable ni inocente (*Tamburlaine: A Critical Reader*, 2020, pp. 137–139).",
+      "Pale of complexion"
+    ],
+    "II1-24": [
+      "Aquiles y los rizos heroicos",
+      "Los rizos de Tamerlán se comparan con los del héroe homérico Aquiles. La referencia eleva el retrato del guerrero escita a un canon épico y vuelve visible una belleza heroica descrita por otro personaje.",
+      "as fierce Achilles' was"
+    ],
+    "II1-27": [
+      "Variante «snowy» / «sinewy»",
+      "El testimonio de 1590 (Folger EarlyPrint, B3r, wln 0508) lee «His armes and fingers long and snowy», enfatizando la blancura; Dyce imprime «long and sinewy», destacando la musculatura. La variante modifica el sentido físico del retrato y resulta especialmente pertinente para el análisis cromático de Wagner. El texto base de Dyce se conserva y la diferencia se documenta.",
+      "long and sinewy"
+    ],
+    "II1-33": [
+      "Naturaleza, Fortuna y estrellas",
+      "Cosroe imagina a la Naturaleza rivalizando con la Fortuna y las estrellas para formar a un hombre de excelencia excepcional. Continúa la retórica de determinación cósmica que ya usó Tamerlán, pero aquí la pronuncia un futuro aliado interesado en sus conquistas.",
+      "Nature doth strive with Fortune"
+    ],
+    "II1-37": [
+      "«At such a sudden pinch»",
+      "«Pinch» significa aprieto o situación de extrema urgencia. Cosroe pondera que Tamerlán haya persuadido rápidamente a mil jinetes enemigos, no que hubiera derrotado en combate a los mil hombres.",
+      "at such a sudden pinch"
+    ],
+    "II1-41": [
+      "El «compass» de las balas",
+      "«Compass» designa aquí el alcance o espacio abarcado por las balas. El pasaje transforma la alianza de ejércitos en un ataque cerrado contra Micetes; no describe una brújula ni una figura geométrica literal.",
+      "compass of the killing bullet"
+    ],
+    "II1-42": [
+      "El paso y la puerta de la vida",
+      "«Passage» y «port» («puerta», «entrada») preparan una metáfora extendida: los accesos al «palace of my brother's life» conducen a la vida del rey rival. «Strait» significa estrecho, no «straight» («recto»); la imagen anuncia el asesinato posible de Micetes.",
+      "the passage and the port"
     ]
   },
   "lex": {
@@ -3833,42 +3893,42 @@ window.TAMBURLAINE_EDITION = {
       "number": 254,
       "speaker": "",
       "en": "If you will willingly remain with me,",
-      "es": "si aceptáis permanecer conmigo por voluntad propia,"
+      "es": "Si aceptan quedarse conmigo de buena gana,"
     },
     {
       "id": "I2-255",
       "number": 255,
       "speaker": "",
       "en": "You shall have honours as your merits be;",
-      "es": "recibiréis honores según vuestros méritos;"
+      "es": "recibirán honores conforme a sus méritos;"
     },
     {
       "id": "I2-256",
       "number": 256,
       "speaker": "",
       "en": "Or else you shall be forc'd with slavery.",
-      "es": "de lo contrario, os obligaré a vivir en esclavitud."
+      "es": "de lo contrario, los obligaré a servirme como esclavos."
     },
     {
       "id": "I2-257",
       "number": 257,
       "speaker": "AGYDAS",
       "en": "We yield unto thee, happy Tamburlaine.",
-      "es": "Nos rendimos a ti, afortunado Tamerlán."
+      "es": "Nos rendimos ante ti, venturoso Tamerlán."
     },
     {
       "id": "I2-258",
       "number": 258,
       "speaker": "TAMBURLAINE",
       "en": "For you, then, madam, I am out of doubt.",
-      "es": "De vos, entonces, señora, ya no tengo dudas."
+      "es": "En cuanto a usted, señora, ya no albergo dudas."
     },
     {
       "id": "I2-259",
       "number": 259,
       "speaker": "ZENOCRATE",
       "en": "I must be pleas'd perforce,—wretched Zenocrate!",
-      "es": "Debo darme por satisfecha a la fuerza. ¡Desdichada Zenócrate!"
+      "es": "No tengo más remedio que mostrarme conforme. ¡Desdichada Zenócrate!"
     }
   ],
   "stageDirections": [
@@ -4468,14 +4528,14 @@ window.TAMBURLAINE_EDITION = {
         "number": 1,
         "speaker": "COSROE",
         "en": "Thus far are we towards Theridamas,",
-        "es": "Hasta aquí hemos avanzado hacia Teridamas"
+        "es": "Hasta aquí hemos avanzado al encuentro de Teridamas"
       },
       {
         "id": "II1-2",
         "number": 2,
         "speaker": "",
         "en": "And valiant Tamburlaine, the man of fame,",
-        "es": "y el valiente Tamerlán, el hombre de fama,"
+        "es": "y del valeroso Tamerlán, ese hombre célebre,"
       },
       {
         "id": "II1-3",
@@ -4489,287 +4549,287 @@ window.TAMBURLAINE_EDITION = {
         "number": 4,
         "speaker": "",
         "en": "Bears figures of renown and miracle.",
-        "es": "lleva signos de renombre y de prodigio."
+        "es": "lleva inscritos signos de fama y de prodigio."
       },
       {
         "id": "II1-5",
         "number": 5,
         "speaker": "",
         "en": "But tell me, that hast seen him, Menaphon,",
-        "es": "Pero dime, Menafón, tú que lo has visto:"
+        "es": "Pero tú, Menafón, que lo has visto, dime:"
       },
       {
         "id": "II1-6",
         "number": 6,
         "speaker": "",
         "en": "What stature wields he, and what personage?",
-        "es": "¿qué estatura tiene y cuál es su apariencia?"
+        "es": "¿qué estatura tiene? ¿Cómo es su figura?"
       },
       {
         "id": "II1-7",
         "number": 7,
         "speaker": "MENAPHON",
         "en": "Of stature tall, and straightly fashioned,",
-        "es": "Es alto y de figura erguida,"
+        "es": "Es alto y de figura recta,"
       },
       {
         "id": "II1-8",
         "number": 8,
         "speaker": "",
         "en": "Like his desire, lift upwards and divine;",
-        "es": "como su deseo, elevado y divino;"
+        "es": "como su ambición, que se eleva hacia lo divino;"
       },
       {
         "id": "II1-9",
         "number": 9,
         "speaker": "",
         "en": "So large of limbs, his joints so strongly knit,",
-        "es": "de miembros tan grandes y articulaciones tan firmes,"
+        "es": "de miembros tan robustos y coyunturas tan firmes,"
       },
       {
         "id": "II1-10",
         "number": 10,
         "speaker": "",
         "en": "Such breadth of shoulders as might mainly bear",
-        "es": "con hombros tan anchos que podrían soportar"
+        "es": "con hombros tan anchos que bien podrían sostener"
       },
       {
         "id": "II1-11",
         "number": 11,
         "speaker": "",
         "en": "Old Atlas' burden; 'twixt his manly pitch,",
-        "es": "la carga del viejo Atlas; entre sus facciones viriles"
+        "es": "la carga del viejo Atlas; entre sus prominentes hombros"
       },
       {
         "id": "II1-12",
         "number": 12,
         "speaker": "",
         "en": "A pearl more worth than all the world is plac'd,",
-        "es": "se encuentra una perla más valiosa que todo el mundo,"
+        "es": "se alza una perla más preciosa que el mundo entero,"
       },
       {
         "id": "II1-13",
         "number": 13,
         "speaker": "",
         "en": "Wherein by curious sovereignty of art",
-        "es": "en la cual, por exquisita maestría del arte,"
+        "es": "en la cual, con exquisita maestría, el arte"
       },
       {
         "id": "II1-14",
         "number": 14,
         "speaker": "",
         "en": "Are fix'd his piercing instruments of sight,",
-        "es": "están engastados sus penetrantes órganos de la vista;"
+        "es": "ha engastado sus ojos penetrantes,"
       },
       {
         "id": "II1-15",
         "number": 15,
         "speaker": "",
         "en": "Whose fiery circles bear encompassed",
-        "es": "los círculos ardientes de estos encierran"
+        "es": "cuyos círculos de fuego contienen"
       },
       {
         "id": "II1-16",
         "number": 16,
         "speaker": "",
         "en": "A heaven of heavenly bodies in their spheres,",
-        "es": "un cielo de cuerpos celestes en sus órbitas"
+        "es": "un cielo de cuerpos celestes dentro de sus esferas,"
       },
       {
         "id": "II1-17",
         "number": 17,
         "speaker": "",
         "en": "That guides his steps and actions to the throne",
-        "es": "que guían sus pasos y sus acciones hacia el trono"
+        "es": "que guía sus pasos y sus actos hacia el trono"
       },
       {
         "id": "II1-18",
         "number": 18,
         "speaker": "",
         "en": "Where honour sits invested royally;",
-        "es": "donde el honor se sienta revestido de realeza."
+        "es": "donde el honor ocupa un asiento regio;"
       },
       {
         "id": "II1-19",
         "number": 19,
         "speaker": "",
         "en": "Pale of complexion, wrought in him with passion,",
-        "es": "De tez pálida, modelada en él por la pasión,"
+        "es": "de tez pálida, modelada por sus pasiones,"
       },
       {
         "id": "II1-20",
         "number": 20,
         "speaker": "",
         "en": "Thirsting with sovereignty and love of arms;",
-        "es": "sediento de soberanía y enamorado de las armas;"
+        "es": "sediento de soberanía y amante de las armas;"
       },
       {
         "id": "II1-21",
         "number": 21,
         "speaker": "",
         "en": "His lofty brows in folds do figure death,",
-        "es": "su frente elevada, cuando se arruga, anuncia muerte,"
+        "es": "su frente altiva, cuando se frunce, anuncia la muerte,"
       },
       {
         "id": "II1-22",
         "number": 22,
         "speaker": "",
         "en": "And in their smoothness amity and life;",
-        "es": "y cuando se alisa, amistad y vida."
+        "es": "y cuando se alisa, amistad y vida;"
       },
       {
         "id": "II1-23",
         "number": 23,
         "speaker": "",
         "en": "About them hangs a knot of amber hair,",
-        "es": "Alrededor de ella cuelga un nudo de cabellos ambarinos,"
+        "es": "sobre ella cae una mata de cabello color ámbar,"
       },
       {
         "id": "II1-24",
         "number": 24,
         "speaker": "",
         "en": "Wrapped in curls, as fierce Achilles' was,",
-        "es": "enroscados en rizos como los del feroz Aquiles,"
+        "es": "en rizos como los del fiero Aquiles,"
       },
       {
         "id": "II1-25",
         "number": 25,
         "speaker": "",
         "en": "On which the breath of heaven delights to play,",
-        "es": "con los que el aliento del cielo se complace en jugar,"
+        "es": "con los que al aliento del cielo le gusta jugar,"
       },
       {
         "id": "II1-26",
         "number": 26,
         "speaker": "",
         "en": "Making it dance with wanton majesty;",
-        "es": "haciéndolos danzar con majestad desenfadada."
+        "es": "haciéndolos danzar con majestad desenfadada;"
       },
       {
         "id": "II1-27",
         "number": 27,
         "speaker": "",
         "en": "His arms and fingers long and sinewy,",
-        "es": "Sus brazos y dedos, largos y musculosos,"
+        "es": "sus brazos y sus dedos, largos y nervudos,"
       },
       {
         "id": "II1-28",
         "number": 28,
         "speaker": "",
         "en": "Betokening valour and excess of strength;—",
-        "es": "revelan valor y fuerza extraordinaria."
+        "es": "revelan valor y una fuerza extraordinaria;"
       },
       {
         "id": "II1-29",
         "number": 29,
         "speaker": "",
         "en": "In every part proportion'd like the man",
-        "es": "Todas sus partes están proporcionadas como las del hombre"
+        "es": "en todas sus partes tiene las proporciones del hombre"
       },
       {
         "id": "II1-30",
         "number": 30,
         "speaker": "",
         "en": "Should make the world subdu'd to Tamburlaine.",
-        "es": "que habrá de someter el mundo a Tamerlán."
+        "es": "destinado a someter el mundo a Tamerlán."
       },
       {
         "id": "II1-31",
         "number": 31,
         "speaker": "COSROE",
         "en": "Well hast thou pourtray'd in thy terms of life",
-        "es": "Has retratado muy bien con tus vivas palabras"
+        "es": "Con qué viveza has retratado en palabras"
       },
       {
         "id": "II1-32",
         "number": 32,
         "speaker": "",
         "en": "The face and personage of a wondrous man:",
-        "es": "el rostro y la figura de un hombre extraordinario."
+        "es": "el rostro y la figura de ese hombre extraordinario."
       },
       {
         "id": "II1-33",
         "number": 33,
         "speaker": "",
         "en": "Nature doth strive with Fortune and his stars",
-        "es": "La Naturaleza rivaliza con la Fortuna y con sus estrellas"
+        "es": "La Naturaleza rivaliza con la Fortuna y sus astros"
       },
       {
         "id": "II1-34",
         "number": 34,
         "speaker": "",
         "en": "To make him famous in accomplish'd worth;",
-        "es": "para hacerlo célebre por su completa excelencia;"
+        "es": "para hacerlo célebre por su plena excelencia;"
       },
       {
         "id": "II1-35",
         "number": 35,
         "speaker": "",
         "en": "And well his merits shew him to be made",
-        "es": "y sus méritos demuestran que está hecho"
+        "es": "y sus méritos muestran que está hecho"
       },
       {
         "id": "II1-36",
         "number": 36,
         "speaker": "",
         "en": "His fortune's master and the king of men,",
-        "es": "para dominar su suerte y reinar sobre los hombres,"
+        "es": "para ser dueño de su fortuna y rey de los hombres,"
       },
       {
         "id": "II1-37",
         "number": 37,
         "speaker": "",
         "en": "That could persuade, at such a sudden pinch,",
-        "es": "pues supo persuadir, en un peligro tan repentino,"
+        "es": "pues supo persuadir, en un apuro tan repentino,"
       },
       {
         "id": "II1-38",
         "number": 38,
         "speaker": "",
         "en": "With reasons of his valour and his life,",
-        "es": "con razones nacidas de su valor y de su conducta,"
+        "es": "con argumentos fundados en su valor y su vida,"
       },
       {
         "id": "II1-39",
         "number": 39,
         "speaker": "",
         "en": "A thousand sworn and overmatching foes.",
-        "es": "a mil enemigos juramentados y superiores en número."
+        "es": "a mil enemigos juramentados que lo superaban en número."
       },
       {
         "id": "II1-40",
         "number": 40,
         "speaker": "",
         "en": "Then, when our powers in points of swords are join'd,",
-        "es": "Por eso, cuando nuestras fuerzas unan sus espadas"
+        "es": "Y cuando nuestras fuerzas junten las puntas de sus espadas"
       },
       {
         "id": "II1-41",
         "number": 41,
         "speaker": "",
         "en": "And clos'd in compass of the killing bullet,",
-        "es": "y se estrechen en el radio de las balas mortales,"
+        "es": "y se cierren dentro del alcance de las balas mortíferas,"
       },
       {
         "id": "II1-42",
         "number": 42,
         "speaker": "",
         "en": "Though strait the passage and the port be made",
-        "es": "aunque sea angosto el camino y pequeña la entrada"
+        "es": "aunque sea estrecho el paso y la puerta"
       },
       {
         "id": "II1-43",
         "number": 43,
         "speaker": "",
         "en": "That leads to palace of my brother's life,",
-        "es": "que conduce al palacio de la vida de mi hermano,"
+        "es": "que conducen al palacio de la vida de mi hermano,"
       },
       {
         "id": "II1-44",
         "number": 44,
         "speaker": "",
         "en": "Proud is his fortune if we pierce it not;",
-        "es": "su fortuna podrá enorgullecerse si no la atravesamos."
+        "es": "será muy afortunado si no logramos atravesarlos."
       },
       {
         "id": "II1-45",
@@ -34577,6 +34637,22 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.2.204–253",
         "body": "Tras prometer una posición de igual dignidad, Tamerlán transforma la admiración de Teridamas en lealtad. El persa compara su elocuencia con la de Hermes, reconoce que las palabras y la mirada lo han conquistado y entrega sus hombres sin batalla. Los seguidores contraponen las recompensas futuras a los ducados presentes; el apretón de manos, los corazones unidos y el ejemplo de Pílades y Orestes elevan esa alianza al rango de amistad sagrada. La comparación entre 1590 y Dyce permite observar cómo «Are these / To these» y «statutes / statues» alteran la sintaxis o los referentes de algunos pasajes.",
         "source": "Lectura editorial de I.2.204–253; primer impreso de 1590, Folger EarlyPrint B1v–B2r, wln 0421–0470; Dyce, The Works of Christopher Marlowe (1859), aparato de variantes; notas docentes de John A. Ray, Tamburlaine Part 1, Act I (2014)."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "La última palabra de Zenócrate",
+        "range": "Parte I · I.2.254–259",
+        "body": "Tamerlán ofrece honores a sus cautivos si permanecen con él y esclavitud si no aceptan. Agidas se rinde, Tamerlán supone que Zenócrate ha quedado convencida, y ella responde que debe mostrarse complacida por la fuerza. El contraste entre la palabra «willingly» y el cierre «pleas'd perforce» impide confundir su sometimiento inicial con una adhesión voluntaria. La escena termina sin resolver esa tensión, que la promesa de convertirla en emperatriz había intentado disimular.",
+        "source": "Lectura editorial de I.2.254–259; impreso de 1590, Folger EarlyPrint B2r–B2v, wln 0471–0477; texto base Alexander Dyce, Project Gutenberg #1094."
+      }
+    ],
+    "acto2-escena1": [
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "El cuerpo de Tamerlán como profecía del imperio",
+        "range": "Parte I · II.1.1–44",
+        "body": "El retrato pronunciado por Menafón no busca reproducir la apariencia de Tamerlán con neutralidad: lo fabrica como un héroe de proporciones casi míticas. Los hombros sostendrían la carga de Atlas, la cabeza es una perla y los ojos contienen un cielo capaz de guiarlo hacia el trono. Su palidez y su ceño anuncian alternativamente amistad y muerte. Cosroe interpreta esa fisonomía como prueba de destino político y la convierte enseguida en argumento para combatir a su hermano. La lectura «snowy» del impreso de 1590, frente al «sinewy» de Dyce, muestra cómo la transmisión textual puede alterar la imagen corporal; Wagner examina el problema de la palidez, la pasión y la racialización en este pasaje.",
+        "source": "Lectura editorial de II.1.1–44; impreso de 1590, Folger EarlyPrint B2v–B3r, wln 0482–0525; Sydnee Wagner, «Towards a Racialized Tamburlaine», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 137–139; Alexander Dyce (1859), nota a «pitch»."
       }
     ]
   }
