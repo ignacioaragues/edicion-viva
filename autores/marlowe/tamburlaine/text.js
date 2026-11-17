@@ -1748,8 +1748,8 @@ window.TAMBURLAINE_EDITION = {
       "play the orator"
     ],
     "I2-133": [
-      "«Mountain-top»: variante de la cima al pie",
-      "Dyce lee «mountain-top» de acuerdo con el cuarto temprano, mientras que su octavo ofrece «mountain-foot». La lectura «cima» concuerda con la maniobra de precipitar a los caballos cuesta abajo en el v. 135. El texto base mantiene la variante seleccionada por Dyce.",
+      "«Mountain-top»: la cima frente al pie de la montaña",
+      "El impreso de 1590 (Folger EarlyPrint, A8v, wln 0348) lee «mountain foot» («pie de la montaña»), también presente en las tres primeras ediciones antiguas según la edición crítica de M. L. Stapleton. La cuarta edición antigua ofrece «mountain-top» («cima»), lectura adoptada por Dyce y conservada en esta edición de lectura. La variante modifica la geografía táctica: precipitar a los jinetes cuesta abajo no exige necesariamente recibirlos en la cumbre, pues también puede aludir a las estribaciones. Se registran ambas lecturas sin modificar la base inglesa.",
       "mountain-top"
     ],
     "I2-137": [
