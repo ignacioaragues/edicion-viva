@@ -120,12 +120,12 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX, caput I partial (§§1–3), PL 54 col. 160C–161A",
-      "paragraphs": 3,
-      "latin_tokens": 102,
-      "lexical_coverage": "102/102 first-pass contextual lexical cards",
-      "translation": "opening three units of caput I translated; remainder of caput I and capita II–IV pending",
-      "voice_notes": 3,
+      "section": "Sermo IX caput I partial (§§1–4), PL 54 col. 160C–161A",
+      "paragraphs": 4,
+      "latin_tokens": 162,
+      "lexical_coverage": "162/162 first-pass token occurrences with lexical cards",
+      "translation": "four units of caput I translated; remainder of caput I and capita II–IV pending",
+      "voice_notes": 4,
       "complete_work": false,
       "editorial_caveat": "Base Wikisource Ballerini–Migne; readings quasi gesta, qualitatem, timenda, with apparatus variants tamquam gesta, aequalitatem, inferenda. Printed critical collation pending."
     }
@@ -133,8 +133,8 @@
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Incentor namque ille auctorque peccati primum superbus ut caderet",
-    "location": "PL 54 Sermo IX, caput I, col. 161A"
+    "beginning": "Quisquis igitur hominum quibuslibet impietatibus Deum laesit",
+    "location": "PL 54 Sermo IX caput I col. 161A"
   },
   "priority": "Finish Sermo IX caput I and capita II–IV before Sermo X",
   "last_edit": "2026-11-17",
