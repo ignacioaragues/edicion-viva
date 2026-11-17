@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Completar cotejo externo y auditoría de glosas 767–806 antes de avanzar checkpoint.",
+  "next": "Cerrar segunda revisión crítica 767–806, incluida traducción y variantes, antes de avanzar a 807.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 766,
     "next_verse": 767,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Revisión morfológica preliminar 767–806 con alineación validada; no avanzar checkpoint hasta cotejo externo detallado y glosas de todas las unidades sufijadas.",
+    "note": "Cotejo externo y glosas 767–806: 56 unidades, 364 tokens alineados y glosados. Segunda revisión crítica aún incompleta; checkpoint 766.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1983,6 +1983,22 @@
           "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
         ],
         "note": "Verificadas las fichas y alineación de 787–806, incluidos versos con sufijo. Cinco precisiones: es imperativo, parvi genitivo de valoración, filiai genitivo arcaico, quid nominativo interrogativo, dicam subjuntivo en interrogativa indirecta. Falta colación crítica detallada y QA; checkpoint queda en 766."
+      },
+      {
+        "section": "IV.10–IV.11",
+        "from": 767,
+        "to": 806,
+        "verses": 40,
+        "units": 56,
+        "tokens": 364,
+        "status": "source_collation_and_morphology_followup_incomplete_not_counted",
+        "sources": [
+          "https://m.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A779-834_frg5",
+          "https://klassisk.ribekatedralskole.dk/personer/plautus/Aulularia4.pdf",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_IV_X"
+        ],
+        "note": "Cotejadas 56 unidades (incluidos sufijos) con ediciones públicas Leo derivadas y transcripción escolar. 364 tokens alineados, todas las fichas con glosa contextual o entrada en glosses.js. Corregidos pudeat (791), nuptiis (797, construcción elíptica), ubi (804). Queda cotejo individual de lecturas y revisión de traducción para dar por completada segunda pasada; checkpoint conservado en 766. Sin prueba navegador."
       }
     ],
     "spot_checks": [
