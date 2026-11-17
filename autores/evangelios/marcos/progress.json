@@ -1301,12 +1301,21 @@
         "https://www.studylight.org/commentaries/eng/vnt/mark-6.html",
         "https://biblehub.com/commentaries/mark/6-27.htm"
       ]
+    },
+    {
+      "chapter": 6,
+      "from": 30,
+      "to": 30,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "16 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar en Marcos 6,25; Vulgata opcional y segunda revisión filológica pendientes.",
+  "pending": "Continuar en Marcos 6,31; Vulgata opcional y segunda revisión filológica pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 30
+    "verse": 31
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3021,6 +3030,15 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.studylight.org/commentaries/eng/vnt/mark-6.html",
       "https://biblehub.com/commentaries/mark/6-27.htm"
+    ]
+  },
+  "prepublication_research_6_30": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "16/16",
+    "second_passage_review": "pending",
+    "sources": [
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.studylight.org/interlinear-study-bible/greek/mark/6-30.html"
     ]
   }
 }
