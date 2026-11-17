@@ -1781,6 +1781,66 @@ window.TAMBURLAINE_EDITION = {
       "«Brunt»: primer choque o embate",
       "«Brunt» designa el golpe inicial o parte más dura de un enfrentamiento. Tamerlán promete exponerse personalmente y ordena a sus hombres no abandonar la posición; la bravata prepara su interlocución con Teridamas.",
       "danger of the brunt"
+    ],
+    "I2-156": [
+      "«Furniture»: atuendo y equipamiento",
+      "En inglés temprano «furniture» puede designar las galas, arreos o equipo de una persona, no muebles domésticos. Teridamas percibe el deslumbrante aspecto de un pastor que acaba de revestirse con armadura y espada. «Nature's pride» intensifica la magnificencia física que atribuye al personaje.",
+      "richest furniture"
+    ],
+    "I2-160": [
+      "Averno y el perro de tres cabezas",
+      "El Averno es el lago italiano vinculado en la Antigüedad a una entrada al inframundo; el «triple-headed dog» del verso siguiente es Cerbero, guardián del Hades. La edición de 1590 imprime «Auernas» (Folger EarlyPrint, B1r, wln 0377), donde Dyce regulariza «Avernus». La imagen subraya la fuerza casi sobrehumana que Teridamas cree ver en Tamerlán.",
+      "Avernus' darksome vaults"
+    ],
+    "I2-163": [
+      "«Habit»: porte o apariencia",
+      "«Outward habit» expresa la apariencia y disposición exterior, no solo una prenda concreta. Tamerlán propone juzgar el carácter interior de Teridamas por su aspecto, en correspondencia con la impresión física que el persa acaba de dar del escita.",
+      "outward habit"
+    ],
+    "I2-169": [
+      "«Characters» grabados en la frente",
+      "«Characters» significa aquí signos o marcas que Tamerlán interpreta en la frente del capitán. El lenguaje recuerda la lectura fisiognómica de la apariencia externa como indicio del carácter y el destino militar; no se trata de letras literalmente inscritas en su piel.",
+      "characters graven in thy brows"
+    ],
+    "I2-174": [
+      "Parcas y rueda de la Fortuna",
+      "Los «Fates» son las Parcas o Moiras, que gobiernan el destino en la mitología clásica. Tamerlán declara tenerlas encadenadas y girar personalmente la rueda de la Fortuna: se atribuye dominio sobre dos fuerzas tradicionalmente superiores al ser humano.",
+      "the Fates bound fast in iron chains"
+    ],
+    "I2-179": [
+      "«Raze»: rasguñar una piel encantada",
+      "«Raze» designa aquí rozar, rayar o rasguñar. La «charmed skin» se presenta como mágicamente protegida, y el verso siguiente lleva la bravata hasta afirmar que Júpiter mismo desviaría cualquier golpe. No demuestra que Tamerlán sea realmente invulnerable.",
+      "raze my charmed skin"
+    ],
+    "I2-182": [
+      "La lluvia de oro es un artificio",
+      "Tamerlán presenta los lingotes como una lluvia enviada por Júpiter, aunque antes él mismo ordenó exhibirlos a los persas (I.2.138–140). Tom Rutter interpreta esta conversión del botín y de Zenócrate en supuestas pruebas divinas como una maniobra consciente de persuasión; no una intervención providencial confirmada por el texto (2020, p. 119).",
+      "rains down heaps of gold"
+    ],
+    "I2-188": [
+      "«Renowmed»: ilustre, renombrado",
+      "«Renowmed» es una grafía histórica de «renowned», «renombrado». La forma de la edición de Dyce se conserva en el inglés, sin convertirla en un término diferente en español.",
+      "renowmed man"
+    ],
+    "I2-194": [
+      "«Merchants» y «Russian stems»",
+      "En este verso «Christian merchants» designa buques mercantes cristianos, no a comerciantes que caminen sobre el agua. «Stems» son las proas de esas naves; Dyce glosa ambas voces expresamente. La promesa de Tamerlán es dominar el tráfico marítimo del Caspio.",
+      "Christian merchants"
+    ],
+    "I2-196": [
+      "«Vail»: arriar banderas",
+      "«Shall vail to us» significa que las embarcaciones bajarán sus banderas como señal de deferencia o sumisión. El verbo no se limita a «rendir homenaje» verbal: supone un gesto náutico visual. Glosa de Dyce a «vail».",
+      "Shall vail to us"
+    ],
+    "I2-197": [
+      "Cónsules y senadores",
+      "Al proclamarse futuros «consuls of the earth», Tamerlán mezcla títulos de la Roma republicana con una monarquía universal en la que los reyes sometidos serían sus «senators». Es una fantasía jerárquica de dominio, no una propuesta de república histórica.",
+      "consuls of the earth"
+    ],
+    "I2-199": [
+      "Júpiter vestido de pastor",
+      "«Shepherd's weed» retoma «weeds» con el sentido de vestido, como cuando Tamerlán se despojó de su ropa de pastor (I.2.41). Invocar a Júpiter como dios que alguna vez vistió ropas humildes convierte su origen pastoril en precedente mítico de grandeza.",
+      "shepherd's weed"
     ]
   },
   "lex": {
@@ -3020,14 +3080,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 155,
       "speaker": "",
       "en": "A Scythian shepherd so embellished",
-      "es": "¡Un pastor escita adornado de tal modo"
+      "es": "¡Un pastor escita tan magníficamente ataviado"
     },
     {
       "id": "I2-156",
       "number": 156,
       "speaker": "",
       "en": "With nature's pride and richest furniture!",
-      "es": "con el orgullo de la naturaleza y las galas más ricas!"
+      "es": "con las galas más soberbias y suntuosas!"
     },
     {
       "id": "I2-157",
@@ -3041,7 +3101,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 158,
       "speaker": "",
       "en": "His fiery eyes are fix'd upon the earth,",
-      "es": "sus ojos ardientes están clavados en la tierra,"
+      "es": "sus ojos de fuego se clavan en la tierra,"
     },
     {
       "id": "I2-159",
@@ -3055,49 +3115,49 @@ window.TAMBURLAINE_EDITION = {
       "number": 160,
       "speaker": "",
       "en": "Or meant to pierce Avernus' darksome vaults",
-      "es": "o quisiera penetrar las sombrías bóvedas del Averno"
+      "es": "o quisiera perforar las sombrías bóvedas del Averno"
     },
     {
       "id": "I2-161",
       "number": 161,
       "speaker": "",
       "en": "To pull the triple-headed dog from hell.",
-      "es": "para arrancar del infierno al perro de tres cabezas."
+      "es": "para sacar del infierno al perro de tres cabezas."
     },
     {
       "id": "I2-162",
       "number": 162,
       "speaker": "TAMBURLAINE",
       "en": "Noble and mild this Persian seems to be,",
-      "es": "Este persa parece noble y mesurado,"
+      "es": "Noble y apacible parece este persa,"
     },
     {
       "id": "I2-163",
       "number": 163,
       "speaker": "",
       "en": "If outward habit judge the inward man.",
-      "es": "si la apariencia exterior revela al hombre interior."
+      "es": "si el porte exterior permite juzgar al hombre interior."
     },
     {
       "id": "I2-164",
       "number": 164,
       "speaker": "TECHELLES",
       "en": "His deep affections make him passionate.",
-      "es": "Sus emociones profundas lo vuelven apasionado."
+      "es": "Sus hondas emociones lo vuelven vehemente."
     },
     {
       "id": "I2-165",
       "number": 165,
       "speaker": "TAMBURLAINE",
       "en": "With what a majesty he rears his looks!—",
-      "es": "¡Con qué majestad levanta la mirada!"
+      "es": "¡Con qué majestad alza la mirada!"
     },
     {
       "id": "I2-166",
       "number": 166,
       "speaker": "",
       "en": "In thee, thou valiant man of Persia,",
-      "es": "En ti, valiente hombre de Persia,"
+      "es": "En ti, valiente persa,"
     },
     {
       "id": "I2-167",
@@ -3111,28 +3171,28 @@ window.TAMBURLAINE_EDITION = {
       "number": 168,
       "speaker": "",
       "en": "Art thou but captain of a thousand horse,",
-      "es": "¿Solo eres capitán de mil jinetes,"
+      "es": "¿Y no eres más que capitán de mil jinetes,"
     },
     {
       "id": "I2-169",
       "number": 169,
       "speaker": "",
       "en": "That by characters graven in thy brows,",
-      "es": "cuando las señales grabadas en tu frente"
+      "es": "cuando los signos grabados en tu frente"
     },
     {
       "id": "I2-170",
       "number": 170,
       "speaker": "",
       "en": "And by thy martial face and stout aspect,",
-      "es": "y tu rostro guerrero y aspecto valeroso"
+      "es": "y tu rostro marcial y tu firme semblante"
     },
     {
       "id": "I2-171",
       "number": 171,
       "speaker": "",
       "en": "Deserv'st to have the leading of an host?",
-      "es": "te hacen digno de mandar un ejército entero?"
+      "es": "te hacen digno de mandar todo un ejército?"
     },
     {
       "id": "I2-172",
@@ -3153,14 +3213,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 174,
       "speaker": "",
       "en": "I hold the Fates bound fast in iron chains,",
-      "es": "Mantengo a los Hados atados con cadenas de hierro"
+      "es": "Tengo a las Parcas atadas con cadenas de hierro"
     },
     {
       "id": "I2-175",
       "number": 175,
       "speaker": "",
       "en": "And with my hand turn Fortune's wheel about;",
-      "es": "y con mi mano hago girar la rueda de la Fortuna;"
+      "es": "y con mi propia mano hago girar la rueda de la Fortuna;"
     },
     {
       "id": "I2-176",
@@ -3174,35 +3234,35 @@ window.TAMBURLAINE_EDITION = {
       "number": 177,
       "speaker": "",
       "en": "Than Tamburlaine be slain or overcome.",
-      "es": "que Tamerlán será muerto o vencido."
+      "es": "que morir o ser vencido Tamerlán."
     },
     {
       "id": "I2-178",
       "number": 178,
       "speaker": "",
       "en": "Draw forth thy sword, thou mighty man-at-arms,",
-      "es": "Desenvaina tu espada, poderoso guerrero,"
+      "es": "Desenvaina tu espada, valeroso guerrero,"
     },
     {
       "id": "I2-179",
       "number": 179,
       "speaker": "",
       "en": "Intending but to raze my charmed skin,",
-      "es": "con la sola intención de arañar mi piel encantada,"
+      "es": "aunque solo intentes rasguñar mi piel hechizada,"
     },
     {
       "id": "I2-180",
       "number": 180,
       "speaker": "",
       "en": "And Jove himself will stretch his hand from heaven",
-      "es": "y el propio Júpiter extenderá la mano desde el cielo"
+      "es": "y el propio Júpiter tenderá su mano desde el cielo"
     },
     {
       "id": "I2-181",
       "number": 181,
       "speaker": "",
       "en": "To ward the blow, and shield me safe from harm.",
-      "es": "para detener el golpe y protegerme de todo daño."
+      "es": "para detener el golpe y mantenerme a salvo."
     },
     {
       "id": "I2-182",
@@ -3216,21 +3276,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 183,
       "speaker": "",
       "en": "As if he meant to give my soldiers pay!",
-      "es": "como si quisiera pagar a mis soldados!"
+      "es": "como si quisiera dar paga a mis soldados!"
     },
     {
       "id": "I2-184",
       "number": 184,
       "speaker": "",
       "en": "And, as a sure and grounded argument",
-      "es": "Y, como prueba firme y bien fundada"
+      "es": "Y como prueba firme y cierta"
     },
     {
       "id": "I2-185",
       "number": 185,
       "speaker": "",
       "en": "That I shall be the monarch of the East,",
-      "es": "de que seré el monarca de Oriente,"
+      "es": "de que seré el soberano de Oriente,"
     },
     {
       "id": "I2-186",
@@ -3244,7 +3304,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 187,
       "speaker": "",
       "en": "To be my queen and portly emperess.",
-      "es": "para ser mi reina y majestuosa emperatriz."
+      "es": "para que sea mi reina y augusta emperatriz."
     },
     {
       "id": "I2-188",
@@ -3258,84 +3318,84 @@ window.TAMBURLAINE_EDITION = {
       "number": 189,
       "speaker": "",
       "en": "And lead thy thousand horse with my conduct,",
-      "es": "y pones tus mil jinetes bajo mi mando,"
+      "es": "y pones tus mil jinetes bajo mis órdenes,"
     },
     {
       "id": "I2-190",
       "number": 190,
       "speaker": "",
       "en": "Besides thy share of this Egyptian prize,",
-      "es": "además de tu parte de este botín egipcio,"
+      "es": "además de la parte que te corresponde de este botín egipcio,"
     },
     {
       "id": "I2-191",
       "number": 191,
       "speaker": "",
       "en": "Those thousand horse shall sweat with martial spoil",
-      "es": "esos mil caballos sudarán bajo los despojos guerreros"
+      "es": "esos mil caballos sudarán bajo el peso de los despojos"
     },
     {
       "id": "I2-192",
       "number": 192,
       "speaker": "",
       "en": "Of conquer'd kingdoms and of cities sack'd:",
-      "es": "de reinos conquistados y ciudades saqueadas."
+      "es": "de reinos conquistados y ciudades saqueadas:"
     },
     {
       "id": "I2-193",
       "number": 193,
       "speaker": "",
       "en": "Both we will walk upon the lofty cliffs;",
-      "es": "Ambos caminaremos sobre los altos acantilados,"
+      "es": "juntos caminaremos por altos acantilados;"
     },
     {
       "id": "I2-194",
       "number": 194,
       "speaker": "",
       "en": "And Christian merchants, that with Russian stems",
-      "es": "y los mercaderes cristianos que, con naves rusas,"
+      "es": "y los buques mercantes cristianos, con sus proas rusas,"
     },
     {
       "id": "I2-195",
       "number": 195,
       "speaker": "",
       "en": "Plough up huge furrows in the Caspian Sea,",
-      "es": "abren inmensos surcos en el mar Caspio"
+      "es": "que abren inmensos surcos en el mar Caspio,"
     },
     {
       "id": "I2-196",
       "number": 196,
       "speaker": "",
       "en": "Shall vail to us as lords of all the lake;",
-      "es": "nos rendirán homenaje como señores de todo el lago."
+      "es": "arriarán sus banderas ante nosotros, señores de todo ese lago;"
     },
     {
       "id": "I2-197",
       "number": 197,
       "speaker": "",
       "en": "Both we will reign as consuls of the earth,",
-      "es": "Ambos reinaremos como cónsules de la tierra,"
+      "es": "ambos reinaremos como cónsules de la tierra,"
     },
     {
       "id": "I2-198",
       "number": 198,
       "speaker": "",
       "en": "And mighty kings shall be our senators.",
-      "es": "y poderosos reyes serán nuestros senadores."
+      "es": "y reyes poderosos serán nuestros senadores."
     },
     {
       "id": "I2-199",
       "number": 199,
       "speaker": "",
       "en": "Jove sometime masked in a shepherd's weed;",
-      "es": "Júpiter se disfrazó alguna vez de pastor;"
+      "es": "Júpiter se disfrazó una vez con vestiduras de pastor;"
     },
     {
       "id": "I2-200",
       "number": 200,
       "speaker": "",
       "en": "And by those steps that he hath scal'd the heavens",
-      "es": "y siguiendo los pasos por los que ascendió al cielo"
+      "es": "y siguiendo los peldaños por los que ascendió al cielo"
     },
     {
       "id": "I2-201",
@@ -3349,7 +3409,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 202,
       "speaker": "",
       "en": "Join with me now in this my mean estate,",
-      "es": "Únete a mí ahora, en esta modesta condición"
+      "es": "Únete a mí ahora, en mi modesta condición"
     },
     {
       "id": "I2-203",
@@ -34443,6 +34503,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.2.104–153",
         "body": "La llegada de un millar de jinetes persas invierte momentáneamente la posición de Tamerlán: los cautivos esperan recuperar la libertad y el tesoro, y su tropa es numéricamente inferior. Tequeles declara que las espadas hablarán en lugar de los oradores; sin embargo, Tamerlán no ataca de inmediato. Solicita parlamentar, exhibe los lingotes de oro y ordena recibir amistosamente a los persas, reservándose la violencia como amenaza. Así construye las condiciones materiales del encuentro con Teridamas. La estrategia anticipa su posterior presentación de las riquezas como prueba de favor divino, analizada por Rutter; aquí, la preparación del efecto está expuesta ante el espectador.",
         "source": "Lectura editorial de I.2.104–153; Alexander Dyce, ed., Tamburlaine the Great (1859), escena I.2 y glosas a «mails» y «brave»; Tom Rutter, «Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), p. 119."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "La elocuencia convierte el botín en destino",
+        "range": "Parte I · I.2.154–203",
+        "body": "La admiración física de Teridamas abre un intercambio de halagos y lectura del aspecto exterior: el comandante persa parece destinado a más que dirigir mil jinetes. Tamerlán transforma ese juicio en invitación a traicionar al rey, asegurando que controla a las Parcas, a la Fortuna y aun la protección de Júpiter. La «lluvia» de oro y la hija del sultán se presentan como signos de favor celeste, pese a que el público acaba de presenciar la orden de exhibir el tesoro saqueado. La promesa de riquezas, gobiernos y una suerte de consulado universal corona la seducción política. Rutter señala expresamente la fabricación de esos signos providenciales en este parlamento; el texto escénico deja ver su artificio.",
+        "source": "Lectura editorial de I.2.154–203; impreso de 1590 (Folger EarlyPrint, B1r–B1v, wln 0371–0420); Tom Rutter, «Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), p. 119."
       }
     ]
   }
