@@ -195,17 +195,18 @@
     "part": 1,
     "act": 3,
     "scene": 3,
-    "line": 200
+    "line": 250
   },
   "lastPass": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "translatedNewLines": 113,
-    "scope": "Part II V.3.151–254 (104) and the previously omitted second prologue P2-P1–P2-P9 (9)",
+    "scope": "Parte I III.3.200–249",
     "notesAdded": 0,
     "lexicalEntriesAdded": 0,
     "status": "complete first-draft translation",
     "source": "Alexander Dyce, Project Gutenberg eBook 1589 (checked against updated Gutenberg HTML)",
-    "editorialNote": "Final scene reaches Amyras' closing lament. Stage directions excluded from line totals. No further first-draft translation batches; begin editorial collation and literary revision."
+    "editorialNote": "Final scene reaches Amyras' closing lament. Stage directions excluded from line totals. No further first-draft translation batches; begin editorial collation and literary revision.",
+    "unitsReviewed": 50
   },
   "previousPass": {
     "date": "2026-11-17",
@@ -425,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1300,
+    "reviewedUnits": 1350,
     "reviewed": [
       {
         "part": 1,
@@ -721,22 +722,29 @@
         "start": 150,
         "end": 199,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 3,
+        "start": 200,
+        "end": 249,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I III.3.150–199",
+      "scope": "Parte I III.3.200–249",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 15,
-      "newNotes": 12,
+      "translationLinesRevised": 19,
+      "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-26.js; cotejo Dyce y Renascence Editions; QA navegador pendiente",
+      "mode": "philology-27.js; cotejo Renascence Editions; QA navegador pendiente",
       "sourceBasis": [
-        "Alexander Dyce (ed.), The Works of Christopher Marlowe, vol. 1, III.3, https://www.gutenberg.org/files/1094/1094-h/1094-h.htm",
-        "Renascence Editions, The First Part of Tamburlaine the Great, https://www.luminarium.org/renascence-editions/marlowe3.html"
+        "Christopher Marlowe, The First Part of Tamburlaine the Great, III.3, Renascence Editions (Bear 2007, texto modernizado de Everyman's Library 1910), https://www.luminarium.org/renascence-editions/marlowe3.html"
       ],
-      "note": "Inglés, IDs y offsets preservados. Acotaciones de salida y toque de batalla detectadas en fuente externa; ubicación en lector pendiente. Sin cotejo directo 1590 ni QA navegador."
+      "note": "Inglés e IDs intactos; acotaciones del pasaje cotejadas con fuente externa, pero aún requieren incorporación/QA; impreso 1590 sin cotejo directo."
     },
     "next": {
       "part": 1,
