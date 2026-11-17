@@ -171,14 +171,15 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Continue contextual morphology at unit 82.9 (Ad hanc ergo urbem tu, beatissime Petre apostole) through 82.18; printed PL collation and reader still pending.",
-      "morphology_units_with_contextual_table": 8,
-      "morphology_token_occurrences": 429,
+      "next": "Continue contextual morphology at unit 82.12 (Augebant quoque fiduciam tuam) through 82.18; printed PL collation and interactive reader still pending.",
+      "morphology_units_with_contextual_table": 11,
+      "morphology_token_occurrences": 549,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
       "morphology_files": [
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-3-5.md",
-        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-6-8.md"
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-6-8.md",
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-9-11.md"
       ]
     },
     {
