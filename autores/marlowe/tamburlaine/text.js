@@ -32215,6 +32215,349 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "And live, in spite of death, above a day.",
           "es": "y viviré, a despecho de la muerte, más allá de este día."
+        },
+        {
+          "id": "P2-V3-102",
+          "number": 102,
+          "speaker": "MESSENGER",
+          "en": "My lord, young Callapine, that lately fled",
+          "es": "Señor, el joven Calapino, que hace poco escapó"
+        },
+        {
+          "id": "P2-V3-103",
+          "number": 103,
+          "speaker": "",
+          "en": "from your majesty, hath now gathered a fresh army, and,",
+          "es": "de vuestra majestad, ha reunido un nuevo ejército y,"
+        },
+        {
+          "id": "P2-V3-104",
+          "number": 104,
+          "speaker": "",
+          "en": "hearing your absence in the field, offers to set upon us",
+          "es": "al enterarse de que está ausente del campo de batalla, se dispone a atacarnos"
+        },
+        {
+          "id": "P2-V3-105",
+          "number": 105,
+          "speaker": "",
+          "en": "presently.",
+          "es": "de inmediato."
+        },
+        {
+          "id": "P2-V3-106",
+          "number": 106,
+          "speaker": "TAMBURLAINE",
+          "en": "See, my physicians, now, how Jove hath sent",
+          "es": "¡Vean, médicos míos, cómo Júpiter me ha enviado"
+        },
+        {
+          "id": "P2-V3-107",
+          "number": 107,
+          "speaker": "",
+          "en": "A present medicine to recure my pain!",
+          "es": "un remedio inmediato para aliviar mi dolor!"
+        },
+        {
+          "id": "P2-V3-108",
+          "number": 108,
+          "speaker": "",
+          "en": "My looks shall make them fly; and, might I follow,",
+          "es": "Mi sola mirada los hará huir; y si pudiera perseguirlos,"
+        },
+        {
+          "id": "P2-V3-109",
+          "number": 109,
+          "speaker": "",
+          "en": "There should not one of all the villain's power",
+          "es": "ni uno solo de los hombres de ese villano"
+        },
+        {
+          "id": "P2-V3-110",
+          "number": 110,
+          "speaker": "",
+          "en": "Live to give offer of another fight.",
+          "es": "viviría para ofrecer una nueva batalla."
+        },
+        {
+          "id": "P2-V3-111",
+          "number": 111,
+          "speaker": "USUMCASANE",
+          "en": "I joy, my lord, your highness is so strong,",
+          "es": "Me alegra, señor, que vuestra alteza conserve tanta fuerza"
+        },
+        {
+          "id": "P2-V3-112",
+          "number": 112,
+          "speaker": "",
+          "en": "That can endure so well your royal presence,",
+          "es": "que pueda mantener tan bien su presencia majestuosa,"
+        },
+        {
+          "id": "P2-V3-113",
+          "number": 113,
+          "speaker": "",
+          "en": "Which only will dismay the enemy.",
+          "es": "cuya sola visión aterrorizará al enemigo."
+        },
+        {
+          "id": "P2-V3-114",
+          "number": 114,
+          "speaker": "TAMBURLAINE",
+          "en": "I know it will, Casane.—Draw, you slaves!",
+          "es": "Sé que así será, Casane. ¡Tiren, esclavos!"
+        },
+        {
+          "id": "P2-V3-115",
+          "number": 115,
+          "speaker": "",
+          "en": "In spite of death, I will go shew my face.",
+          "es": "A pesar de la muerte, iré a mostrarles mi rostro."
+        },
+        {
+          "id": "P2-V3-116",
+          "number": 116,
+          "speaker": "TAMBURLAINE",
+          "en": "Thus are the villain cowards fled for fear,",
+          "es": "Así han huido de miedo esos cobardes villanos,"
+        },
+        {
+          "id": "P2-V3-117",
+          "number": 117,
+          "speaker": "",
+          "en": "Like summer's vapours vanish'd by the sun;",
+          "es": "como los vapores del verano disipados por el sol."
+        },
+        {
+          "id": "P2-V3-118",
+          "number": 118,
+          "speaker": "",
+          "en": "And, could I but a while pursue the field,",
+          "es": "Y si pudiera perseguirlos un poco por el campo,"
+        },
+        {
+          "id": "P2-V3-119",
+          "number": 119,
+          "speaker": "",
+          "en": "That Callapine should be my slave again.",
+          "es": "Calapino volvería a ser mi esclavo."
+        },
+        {
+          "id": "P2-V3-120",
+          "number": 120,
+          "speaker": "",
+          "en": "But I perceive my martial strength is spent:",
+          "es": "Pero advierto que mi fuerza guerrera se ha agotado."
+        },
+        {
+          "id": "P2-V3-121",
+          "number": 121,
+          "speaker": "",
+          "en": "In vain I strive and rail against those powers",
+          "es": "En vano lucho e increpo a esas potencias"
+        },
+        {
+          "id": "P2-V3-122",
+          "number": 122,
+          "speaker": "",
+          "en": "That mean t' invest me in a higher throne,",
+          "es": "que quieren investirme de un trono más elevado,"
+        },
+        {
+          "id": "P2-V3-123",
+          "number": 123,
+          "speaker": "",
+          "en": "As much too high for this disdainful earth.",
+          "es": "demasiado alto para esta tierra desdeñosa."
+        },
+        {
+          "id": "P2-V3-124",
+          "number": 124,
+          "speaker": "",
+          "en": "Give me a map; then let me see how much",
+          "es": "Tráiganme un mapa y déjenme ver cuánto"
+        },
+        {
+          "id": "P2-V3-125",
+          "number": 125,
+          "speaker": "",
+          "en": "Is left for me to conquer all the world,",
+          "es": "me queda por conquistar del mundo entero,"
+        },
+        {
+          "id": "P2-V3-126",
+          "number": 126,
+          "speaker": "",
+          "en": "That these, my boys, may finish all my wants.",
+          "es": "para que estos hijos míos completen lo que me falta."
+        },
+        {
+          "id": "P2-V3-127",
+          "number": 127,
+          "speaker": "",
+          "en": "Here I began to march towards Persia,",
+          "es": "Aquí comencé mi marcha hacia Persia,"
+        },
+        {
+          "id": "P2-V3-128",
+          "number": 128,
+          "speaker": "",
+          "en": "Along Armenia and the Caspian Sea,",
+          "es": "a lo largo de Armenia y del mar Caspio;"
+        },
+        {
+          "id": "P2-V3-129",
+          "number": 129,
+          "speaker": "",
+          "en": "And thence unto Bithynia, where I took",
+          "es": "de allí fui a Bitinia, donde hice prisioneros"
+        },
+        {
+          "id": "P2-V3-130",
+          "number": 130,
+          "speaker": "",
+          "en": "The Turk and his great empress prisoners.",
+          "es": "al turco y a su gran emperatriz."
+        },
+        {
+          "id": "P2-V3-131",
+          "number": 131,
+          "speaker": "",
+          "en": "Then march'd I into Egypt and Arabia;",
+          "es": "Después marché a Egipto y Arabia."
+        },
+        {
+          "id": "P2-V3-132",
+          "number": 132,
+          "speaker": "",
+          "en": "And here, not far from Alexandria,",
+          "es": "Y aquí, no muy lejos de Alejandría,"
+        },
+        {
+          "id": "P2-V3-133",
+          "number": 133,
+          "speaker": "",
+          "en": "Whereas the Terrene and the Red Sea meet,",
+          "es": "donde se aproximan el Mediterráneo y el mar Rojo,"
+        },
+        {
+          "id": "P2-V3-134",
+          "number": 134,
+          "speaker": "",
+          "en": "Being distant less than full a hundred leagues,",
+          "es": "separados por menos de cien leguas,"
+        },
+        {
+          "id": "P2-V3-135",
+          "number": 135,
+          "speaker": "",
+          "en": "I meant to cut a channel to them both,",
+          "es": "tenía pensado abrir un canal entre ambos"
+        },
+        {
+          "id": "P2-V3-136",
+          "number": 136,
+          "speaker": "",
+          "en": "That men might quickly sail to India.",
+          "es": "para que los hombres pudieran navegar rápidamente hasta la India."
+        },
+        {
+          "id": "P2-V3-137",
+          "number": 137,
+          "speaker": "",
+          "en": "From thence to Nubia near Borno-lake,",
+          "es": "Desde allí fui a Nubia, cerca del lago Borno,"
+        },
+        {
+          "id": "P2-V3-138",
+          "number": 138,
+          "speaker": "",
+          "en": "And so along the Aethiopian sea,",
+          "es": "y seguí a lo largo del mar Etiópico,"
+        },
+        {
+          "id": "P2-V3-139",
+          "number": 139,
+          "speaker": "",
+          "en": "Cutting the tropic line of Capricorn,",
+          "es": "cruzando la línea del trópico de Capricornio."
+        },
+        {
+          "id": "P2-V3-140",
+          "number": 140,
+          "speaker": "",
+          "en": "I conquer'd all as far as Zanzibar.",
+          "es": "Conquisté cuanto había hasta Zanzíbar."
+        },
+        {
+          "id": "P2-V3-141",
+          "number": 141,
+          "speaker": "",
+          "en": "Then, by the northern part of Africa,",
+          "es": "Después, por el norte de África,"
+        },
+        {
+          "id": "P2-V3-142",
+          "number": 142,
+          "speaker": "",
+          "en": "I came at last to Graecia, and from thence",
+          "es": "llegué finalmente a Grecia y desde allí"
+        },
+        {
+          "id": "P2-V3-143",
+          "number": 143,
+          "speaker": "",
+          "en": "To Asia, where I stay against my will;",
+          "es": "a Asia, donde permanezco contra mi voluntad."
+        },
+        {
+          "id": "P2-V3-144",
+          "number": 144,
+          "speaker": "",
+          "en": "Which is from Scythia, where I first began,",
+          "es": "Desde Escitia, donde comencé mis conquistas,"
+        },
+        {
+          "id": "P2-V3-145",
+          "number": 145,
+          "speaker": "",
+          "en": "Backwards and forwards near five thousand leagues.",
+          "es": "he recorrido, de ida y vuelta, casi cinco mil leguas."
+        },
+        {
+          "id": "P2-V3-146",
+          "number": 146,
+          "speaker": "",
+          "en": "Look here, my boys; see, what a world of ground",
+          "es": "Miren aquí, hijos míos, ¡qué inmensidad de tierras"
+        },
+        {
+          "id": "P2-V3-147",
+          "number": 147,
+          "speaker": "",
+          "en": "Lies westward from the midst of Cancer's line",
+          "es": "se extiende al oeste, desde la mitad de la línea de Cáncer"
+        },
+        {
+          "id": "P2-V3-148",
+          "number": 148,
+          "speaker": "",
+          "en": "Unto the rising of this earthly globe,",
+          "es": "hasta el extremo en que se alza este globo terrestre,"
+        },
+        {
+          "id": "P2-V3-149",
+          "number": 149,
+          "speaker": "",
+          "en": "Whereas the sun, declining from our sight,",
+          "es": "donde el sol, al desaparecer de nuestra vista,"
+        },
+        {
+          "id": "P2-V3-150",
+          "number": 150,
+          "speaker": "",
+          "en": "Begins the day with our Antipodes!",
+          "es": "da comienzo al día de nuestros antípodas!"
         }
       ]
     }
@@ -32807,6 +33150,27 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 41,
       "en": "Enter Tamburlaine in his chariot, drawn by Orcanes and the king of Jerusalem, accompanied by Amyras, Celebinus and physicians.",
       "es": "Entra Tamerlán en su carro, tirado por Orcanes y el rey de Jerusalén, acompañado de Amiras, Celebino y médicos."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 101,
+      "en": "Alarms within. Enter a messenger.",
+      "es": "Se oyen alarmas de batalla. Entra un mensajero."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 115,
+      "en": "Alarms; Tamburlaine and the others exit, except the physicians, and return almost immediately.",
+      "es": "Suena la alarma; salen Tamerlán y los demás, salvo los médicos, y regresan casi de inmediato."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 126,
+      "en": "An attendant brings a map.",
+      "es": "Un sirviente trae un mapa."
     }
   ]
 };
