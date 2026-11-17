@@ -282,3 +282,11 @@
 - Cotejo directo: impreso de Richard Jones (1590), Folger EarlyPrint **C3r–C3v, wln 1009–1061**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html y A. Dyce (PG #1094). Se anota la enmienda «tremble[s]» de Dyce frente a «tremble» de 1590 (III.1.49).
 - Notas específicas sobre «regreet», «legate», «smothering», «pioners» (= zapadores), «countermand», «Orcus» y «offensive rape». Esta última se traduce como **rapto violento**: conserva el contexto de captura forzada y evita atribuir sin pruebas un acto sexual específico. La respuesta de Zenócrate continúa tras III.2.12.
 - Se añadió `philology-20.js` después de capas anteriores. Se preservan original inglés, numeración, nombres de personajes, acotaciones, navegación y resaltados. El texto no se presenta como una sola página.
+
+## Vigésima primera pasada filológica y de lecturas (17-11-2026)
+- **Parte I III.2.13–62: 50 unidades revisadas**. Acumulado **1.050 / 4.641 (22,6 %)**. Próxima **III.2.63–112**.
+- **43 traducciones modificadas** y 7 confirmadas sin cambios; igualdad literal de las 50 líneas inglesas cotejada. **21 notas filológicas** ancladas en el original y **2 fichas de lectura** sobre las variantes Febo/Febe y las tensiones en torno a Zenócrate.
+- Cotejo de Dyce (PG #1094) con impreso de Richard Jones (1590), Folger EarlyPrint **C4r–C4v, wln 1062–1112**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- Variante III.2.19: base «Phoebus' silver eye» (Sol), testigo 1590 «Phœbes siluer eie» (Luna). Las Piérides son las contendientes de las Musas en un certamen musical (Ovidio, Metamorfosis V); la pugna entre Minerva y Neptuno versa sobre Atenas. M. L. Stapleton, edición crítica, III.2.50–52.
+- La caracterización de Zenócrate como concubina de escaso rango pertenece a Agidas; «Soldan» es su padre, sultán de Egipto. La entrada de Tamerlán tras III.2.24 sigue intacta; el discurso de Agidas continúa en III.2.63.
+- Se incorpora la capa `philology-21.js` a continuación de las existentes. Original inglés, acotaciones, números, etiquetas, navegación y resaltados sin alteración.

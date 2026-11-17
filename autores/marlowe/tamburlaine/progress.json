@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Primera revisión filológica: Parte I, Prólogo P1–8, actos I y II completos, III.1 completa y III.2.1–12. Total 1.000 unidades. Próxima III.2.13–62 (50).",
+  "editorialReview": "Primera revisión filológica: Parte I, prólogo y actos I–II completos, III.1 completa y III.2.1–62. Total: 1.050 unidades. Próxima III.2.63–112.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1000,
+    "reviewedUnits": 1050,
     "reviewed": [
       {
         "part": 1,
@@ -660,28 +660,37 @@
         "start": 1,
         "end": 12,
         "count": 12
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 2,
+        "start": 13,
+        "end": 62,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Parte I III.1.30–67 (38) y III.2.1–12 (12)",
+      "scope": "Parte I III.2.13–62",
       "unitsReviewed": 50,
-      "translationLinesRevised": 44,
+      "translationLinesRevised": 43,
       "translationLinesValidated": 50,
-      "newNotes": 18,
+      "newNotes": 21,
       "readingCardsAdded": 2,
-      "mode": "philology-20.js non-destructive, 50 original English literal-line checks + note-anchor checks",
+      "mode": "Non-destructive philology-21.js, exact source-English checks and note anchors",
       "sourceBasis": [
-        "First print 1590 (Richard Jones), Folger EarlyPrint C3r–C3v, wln 1009–1061",
-        "Alexander Dyce, Tamburlaine the Great, Part One, Project Gutenberg #1094"
+        "Alexander Dyce (ed.), Tamburlaine, Part One, PG #1094",
+        "1590 Richard Jones first edition, Folger EarlyPrint C4r–C4v, wln 1062–1112",
+        "M. L. Stapleton, critical edition, notes to III.2.50–52"
       ],
-      "note": "Act III scene 1 complete. Notes on legate, regreet, courtly flattery, pione(e)rs, Orcus, defensive siege plan, textual tremble[s], and rape as coercive abduction, no sexual events inferred."
+      "note": "Phoebus/Phoebe substantive variant, mythic Pierides and Minerva-Neptune, Agydas accusation vs Zenocrate speech. Stage entrance after III.2.24 preserved."
     },
     "next": {
       "part": 1,
       "act": 3,
       "scene": 2,
-      "line": 13
+      "line": 63
     }
   }
 }
