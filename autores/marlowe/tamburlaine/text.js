@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act III, scene 5, line 138. English Dyce / Project Gutenberg 1589 for Part II; source-line numbering, textual collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act IV, scene 2, line 60. English Dyce / Project Gutenberg 1589 for Part II; source-line numbering, textual collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -27927,6 +27927,428 @@ window.TAMBURLAINE_EDITION = {
           "en": "Come, bring them in to our pavilion.",
           "es": "Vamos, llévenlos a nuestro pabellón."
         }
+      ],
+      "2": [
+        {
+          "id": "P2-IV2-1",
+          "number": 1,
+          "speaker": "OLYMPIA",
+          "en": "Distress'd Olympia, whose weeping eyes,",
+          "es": "Olimpia desdichada, cuyos ojos llorosos,"
+        },
+        {
+          "id": "P2-IV2-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Since thy arrival here, behold no sun,",
+          "es": "desde que llegaste aquí, no contemplan el sol,"
+        },
+        {
+          "id": "P2-IV2-3",
+          "number": 3,
+          "speaker": "",
+          "en": "But, clos'd within the compass of a tent,",
+          "es": "sino que, encerrados dentro de una tienda,"
+        },
+        {
+          "id": "P2-IV2-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Have stain'd thy cheeks, and made thee look like death,",
+          "es": "han manchado tus mejillas y te han dado el aspecto de la muerte,"
+        },
+        {
+          "id": "P2-IV2-5",
+          "number": 5,
+          "speaker": "",
+          "en": "Devise some means to rid thee of thy life,",
+          "es": "inventa algún medio para quitarte la vida"
+        },
+        {
+          "id": "P2-IV2-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Rather than yield to his detested suit,",
+          "es": "antes que ceder a sus odiosas pretensiones,"
+        },
+        {
+          "id": "P2-IV2-7",
+          "number": 7,
+          "speaker": "",
+          "en": "Whose drift is only to dishonour thee;",
+          "es": "cuyo único propósito es deshonrarte."
+        },
+        {
+          "id": "P2-IV2-8",
+          "number": 8,
+          "speaker": "",
+          "en": "And, since this earth, dew'd with thy brinish tears,",
+          "es": "Y ya que esta tierra, humedecida por tus lágrimas saladas,"
+        },
+        {
+          "id": "P2-IV2-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Affords no herbs whose taste may poison thee,",
+          "es": "no ofrece hierbas cuyo sabor pueda envenenarte,"
+        },
+        {
+          "id": "P2-IV2-10",
+          "number": 10,
+          "speaker": "",
+          "en": "Nor yet this air, beat often with thy sighs,",
+          "es": "ni este aire, tantas veces sacudido por tus suspiros,"
+        },
+        {
+          "id": "P2-IV2-11",
+          "number": 11,
+          "speaker": "",
+          "en": "Contagious smells and vapours to infect thee,",
+          "es": "emanaciones y vapores contagiosos que puedan matarte,"
+        },
+        {
+          "id": "P2-IV2-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Nor thy close cave a sword to murder thee,",
+          "es": "ni tu estrecha prisión una espada con que darte muerte,"
+        },
+        {
+          "id": "P2-IV2-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Let this invention be the instrument.",
+          "es": "haz que este artificio sea el instrumento."
+        },
+        {
+          "id": "P2-IV2-14",
+          "number": 14,
+          "speaker": "THERIDAMAS",
+          "en": "Well met, Olympia: I sought thee in my tent,",
+          "es": "Qué suerte encontrarte, Olimpia: te buscaba en mi tienda,"
+        },
+        {
+          "id": "P2-IV2-15",
+          "number": 15,
+          "speaker": "",
+          "en": "But, when I saw the place obscure and dark,",
+          "es": "pero al verla oscura y sombría,"
+        },
+        {
+          "id": "P2-IV2-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Which with thy beauty thou wast wont to light,",
+          "es": "cuando tu belleza solía iluminarla,"
+        },
+        {
+          "id": "P2-IV2-17",
+          "number": 17,
+          "speaker": "",
+          "en": "Enrag'd, I ran about the fields for thee,",
+          "es": "salí enfurecido a buscarte por los campos,"
+        },
+        {
+          "id": "P2-IV2-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Supposing amorous Jove had sent his son,",
+          "es": "suponiendo que el amoroso Júpiter había enviado a su hijo,"
+        },
+        {
+          "id": "P2-IV2-19",
+          "number": 19,
+          "speaker": "",
+          "en": "The winged Hermes, to convey thee hence;",
+          "es": "el alado Hermes, para llevarte lejos de aquí."
+        },
+        {
+          "id": "P2-IV2-20",
+          "number": 20,
+          "speaker": "",
+          "en": "But now I find thee, and that fear is past,",
+          "es": "Pero ahora que te encuentro y se ha disipado mi temor,"
+        },
+        {
+          "id": "P2-IV2-21",
+          "number": 21,
+          "speaker": "",
+          "en": "Tell me, Olympia, wilt thou grant my suit?",
+          "es": "dime, Olimpia, ¿aceptarás mi petición?"
+        },
+        {
+          "id": "P2-IV2-22",
+          "number": 22,
+          "speaker": "OLYMPIA",
+          "en": "My lord and husband's death, with my sweet son's,",
+          "es": "La muerte de mi señor y esposo, junto a la de mi dulce hijo,"
+        },
+        {
+          "id": "P2-IV2-23",
+          "number": 23,
+          "speaker": "",
+          "en": "(With whom I buried all affections",
+          "es": "con quienes enterré todos mis sentimientos"
+        },
+        {
+          "id": "P2-IV2-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Save grief and sorrow, which torment my heart,)",
+          "es": "salvo el dolor y la tristeza que atormentan mi corazón,"
+        },
+        {
+          "id": "P2-IV2-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Forbids my mind to entertain a thought",
+          "es": "impide que mi mente abrigue un pensamiento"
+        },
+        {
+          "id": "P2-IV2-26",
+          "number": 26,
+          "speaker": "",
+          "en": "That tends to love, but meditate on death,",
+          "es": "de amor, y solo me deja meditar sobre la muerte,"
+        },
+        {
+          "id": "P2-IV2-27",
+          "number": 27,
+          "speaker": "",
+          "en": "A fitter subject for a pensive soul.",
+          "es": "asunto más apropiado para un alma afligida."
+        },
+        {
+          "id": "P2-IV2-28",
+          "number": 28,
+          "speaker": "THERIDAMAS",
+          "en": "Olympia, pity him in whom thy looks",
+          "es": "Olimpia, ten piedad de aquel sobre quien tus miradas"
+        },
+        {
+          "id": "P2-IV2-29",
+          "number": 29,
+          "speaker": "",
+          "en": "Have greater operation and more force",
+          "es": "ejercen un influjo mayor y una fuerza más poderosa"
+        },
+        {
+          "id": "P2-IV2-30",
+          "number": 30,
+          "speaker": "",
+          "en": "Than Cynthia's in the watery wilderness;",
+          "es": "que los de Cintia sobre el inmenso mar."
+        },
+        {
+          "id": "P2-IV2-31",
+          "number": 31,
+          "speaker": "",
+          "en": "For with thy view my joys are at the full,",
+          "es": "Pues al contemplarte mis dichas llegan a su plenitud"
+        },
+        {
+          "id": "P2-IV2-32",
+          "number": 32,
+          "speaker": "",
+          "en": "And ebb again as thou depart'st from me.",
+          "es": "y vuelven a menguar cuando te alejas de mí."
+        },
+        {
+          "id": "P2-IV2-33",
+          "number": 33,
+          "speaker": "OLYMPIA",
+          "en": "Ah, pity me, my lord, and draw your sword,",
+          "es": "¡Ah, ten piedad de mí, señor, y desenvaina tu espada"
+        },
+        {
+          "id": "P2-IV2-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Making a passage for my troubled soul,",
+          "es": "para abrir paso a mi alma atormentada,"
+        },
+        {
+          "id": "P2-IV2-35",
+          "number": 35,
+          "speaker": "",
+          "en": "Which beats against this prison to get out,",
+          "es": "que golpea contra esta prisión para escapar"
+        },
+        {
+          "id": "P2-IV2-36",
+          "number": 36,
+          "speaker": "",
+          "en": "And meet my husband and my loving son!",
+          "es": "y reunirse con mi esposo y mi querido hijo!"
+        },
+        {
+          "id": "P2-IV2-37",
+          "number": 37,
+          "speaker": "THERIDAMAS",
+          "en": "Nothing but still thy husband and thy son?",
+          "es": "¿Todavía no hablas de otra cosa que de tu esposo y tu hijo?"
+        },
+        {
+          "id": "P2-IV2-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Leave this, my love, and listen more to me:",
+          "es": "Deja eso, amor mío, y escúchame."
+        },
+        {
+          "id": "P2-IV2-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Thou shalt be stately queen of fair Argier;",
+          "es": "Serás la majestuosa reina de la hermosa Argel;"
+        },
+        {
+          "id": "P2-IV2-40",
+          "number": 40,
+          "speaker": "",
+          "en": "And, cloth'd in costly cloth of massy gold,",
+          "es": "vestida con telas preciosas de oro macizo,"
+        },
+        {
+          "id": "P2-IV2-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Upon the marble turrets of my court",
+          "es": "sobre las torres de mármol de mi corte"
+        },
+        {
+          "id": "P2-IV2-42",
+          "number": 42,
+          "speaker": "",
+          "en": "Sit like to Venus in her chair of state,",
+          "es": "te sentarás como Venus en su trono,"
+        },
+        {
+          "id": "P2-IV2-43",
+          "number": 43,
+          "speaker": "",
+          "en": "Commanding all thy princely eye desires;",
+          "es": "ordenando cuanto deseen tus ojos de princesa."
+        },
+        {
+          "id": "P2-IV2-44",
+          "number": 44,
+          "speaker": "",
+          "en": "And I will cast off arms to sit with thee,",
+          "es": "Y yo abandonaré las armas para sentarme a tu lado,"
+        },
+        {
+          "id": "P2-IV2-45",
+          "number": 45,
+          "speaker": "",
+          "en": "Spending my life in sweet discourse of love.",
+          "es": "pasando la vida en dulces conversaciones de amor."
+        },
+        {
+          "id": "P2-IV2-46",
+          "number": 46,
+          "speaker": "OLYMPIA",
+          "en": "No such discourse is pleasant in mine ears,",
+          "es": "Ninguna conversación semejante agrada a mis oídos,"
+        },
+        {
+          "id": "P2-IV2-47",
+          "number": 47,
+          "speaker": "",
+          "en": "But that where every period ends with death,",
+          "es": "salvo aquella en la que cada frase termina con la muerte"
+        },
+        {
+          "id": "P2-IV2-48",
+          "number": 48,
+          "speaker": "",
+          "en": "And every line begins with death again:",
+          "es": "y cada línea vuelve a comenzar con la muerte."
+        },
+        {
+          "id": "P2-IV2-49",
+          "number": 49,
+          "speaker": "",
+          "en": "I cannot love, to be an emperess.",
+          "es": "No podría amar, ni siquiera para ser emperatriz."
+        },
+        {
+          "id": "P2-IV2-50",
+          "number": 50,
+          "speaker": "THERIDAMAS",
+          "en": "Nay, lady, then, if nothing will prevail,",
+          "es": "Pues bien, señora, si nada consigue persuadirte,"
+        },
+        {
+          "id": "P2-IV2-51",
+          "number": 51,
+          "speaker": "",
+          "en": "I'll use some other means to make you yield:",
+          "es": "emplearé otros medios para obligarte a ceder."
+        },
+        {
+          "id": "P2-IV2-52",
+          "number": 52,
+          "speaker": "",
+          "en": "Such is the sudden fury of my love,",
+          "es": "Tan impetuosa es la súbita furia de mi amor"
+        },
+        {
+          "id": "P2-IV2-53",
+          "number": 53,
+          "speaker": "",
+          "en": "I must and will be pleas'd, and you shall yield:",
+          "es": "que he de satisfacerlo, y tú terminarás cediendo."
+        },
+        {
+          "id": "P2-IV2-54",
+          "number": 54,
+          "speaker": "",
+          "en": "Come to the tent again.",
+          "es": "Regresemos a la tienda."
+        },
+        {
+          "id": "P2-IV2-55",
+          "number": 55,
+          "speaker": "OLYMPIA",
+          "en": "Stay now, my lord; and, will you save my honour,",
+          "es": "Espera, señor: si estás dispuesto a respetar mi honra,"
+        },
+        {
+          "id": "P2-IV2-56",
+          "number": 56,
+          "speaker": "",
+          "en": "I'll give your grace a present of such price",
+          "es": "daré a tu gracia un regalo de tanto valor"
+        },
+        {
+          "id": "P2-IV2-57",
+          "number": 57,
+          "speaker": "",
+          "en": "As all the world can not afford the like.",
+          "es": "que no hay nada semejante en todo el mundo."
+        },
+        {
+          "id": "P2-IV2-58",
+          "number": 58,
+          "speaker": "THERIDAMAS",
+          "en": "What is it?",
+          "es": "¿De qué se trata?"
+        },
+        {
+          "id": "P2-IV2-59",
+          "number": 59,
+          "speaker": "OLYMPIA",
+          "en": "An ointment which a cunning alchymist",
+          "es": "De un ungüento que un hábil alquimista"
+        },
+        {
+          "id": "P2-IV2-60",
+          "number": 60,
+          "speaker": "",
+          "en": "Distilled from the purest balsamum",
+          "es": "destiló del bálsamo más puro"
+        }
       ]
     }
   },
@@ -28301,6 +28723,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 206,
       "en": "Exeunt.",
       "es": "Salen todos."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 0,
+      "en": "Enter Olympia.",
+      "es": "Entra Olimpia."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 13,
+      "en": "Enter Theridamas.",
+      "es": "Entra Teridamas."
     }
   ]
 };
