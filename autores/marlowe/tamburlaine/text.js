@@ -30,7 +30,7 @@ window.TAMBURLAINE_EDITION = {
       "id": "P5",
       "number": 5,
       "en": "Threat’ning the world with high astounding terms,",
-      "es": "amenazar al mundo con palabras altisonantes y sobrecogedoras,"
+      "es": "amenazar al mundo con un lenguaje elevado y sobrecogedor,"
     },
     {
       "id": "P6",
@@ -267,7 +267,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 31,
       "speaker": "",
       "en": "That, like a fox in midst of harvest-time,",
-      "es": "que, como un zorro en época de cosecha,"
+      "es": "que, como un zorro en plena cosecha,"
     },
     {
       "id": "I1-32",
@@ -337,7 +337,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 41,
       "speaker": "",
       "en": "Hoping (misled by dreaming prophecies)",
-      "es": "con la esperanza —engañado por profecías soñadas—"
+      "es": "con la esperanza —engañado por profecías nacidas de sueños—"
     },
     {
       "id": "I1-42",
@@ -1378,40 +1378,89 @@ window.TAMBURLAINE_EDITION = {
   ],
   "notes": {
     "1": [
-      "La retórica de Micetes",
-      "La comicidad nace de la distancia entre el discurso «atronador» que exige la ocasión y la confesión de que el rey no sabe pronunciarlo. Sus primeros cinco versos revelan la fragilidad de su autoridad."
+      "El rey que no sabe hablar",
+      "Micetes pide un «discurso atronador» porque no logra formularlo él mismo y delega la palabra en Cosroe. Su incompetencia verbal prefigura la fragilidad de su autoridad política; McInnis (2020), Introducción, pp. 13–14, relaciona expresamente ambos aspectos.",
+      "Brother Cosroe"
     ],
     "6": [
-      "La apóstrofe a Persia",
-      "Cosroe se dirige a Persia en segunda persona, convirtiendo la denuncia del monarca en una lamentación por la decadencia del reino."
+      "Persia personificada",
+      "Cosroe dirige una apóstrofe a Persia en segunda persona y contrapone un pasado de conquistas con la humillación del presente. Es una acusación al gobierno de Micetes, no una descripción histórica objetiva.",
+      "Unhappy Persia"
     ],
     "10": [
-      "Geografía de la hipérbole",
-      "El pasaje presenta una Europa septentrional extrema, donde hasta el sol casi desaparece. El «frío» es un efecto hiperbólico del imaginario geográfico de Cosroe."
+      "Hipérbole geográfica",
+      "La expresión sitúa los confines septentrionales de Europa en una región de frío y escasez de luz solar. «Meteors», en el verso siguiente, conserva el sentido histórico amplio de fenómenos atmosféricos; no significa necesariamente meteoritos.",
+      "sun dares scarce appear"
     ],
     "13": [
-      "La conjunción de Cynthia y Saturno",
-      "Cynthia designa a la Luna. La asociación astrológica con Saturno y la ausencia de influencias favorables sirven para ridiculizar las capacidades intelectuales de Micetes; son creencias dramáticamente invocadas, no un diagnóstico histórico."
+      "Cynthia, Saturno y el nacimiento del rey",
+      "Cynthia personifica la Luna; la conjunción con Saturno y la negativa de Júpiter, el Sol y Mercurio a dispensar su influjo constituyen un juicio astrológico satírico sobre la capacidad de Micetes. Es lenguaje dramático, no diagnóstico verificable.",
+      "Cynthia with Saturn"
     ],
     "15": [
-      "Intervención editorial",
-      "La edición de Neilson (1911) imprime «[their] influence»: los corchetes señalan una palabra suplida editorialmente. Se conserva esa señal para no presentar la enmienda como lectura indiscutida del impreso de 1590."
+      "Corchetes de intervención editorial",
+      "El posesivo «[their]» está señalado entre corchetes en la tradición editorial moderna consultada (Neilson 1911 y Dyce): se marca como suplemento textual, no como lectura indiscutible del primer impreso. No debe eliminarse el corchete sin cotejar el testimonio antiguo.",
+      "[their] influence"
     ],
     "18": [
-      "El rey comprende la alusión",
-      "La réplica de Micetes confirma que entiende el ataque de Cosroe, aunque no puede neutralizarlo: el contraste entre percepción y autoridad refuerza la ironía inicial."
+      "Micetes entiende, pero no responde",
+      "La respuesta muestra que Micetes ha comprendido la alusión astrológica contra su inteligencia, aunque no consigue refutarla. Apela en su lugar al testimonio de los nobles y, enseguida, a la posibilidad de castigar a su hermano.",
+      "I see your meaning well enough"
+    ],
+    "23": [
+      "Poder y amenaza",
+      "«I might command you to be slain» convierte una discusión sobre la capacidad del rey en una amenaza de violencia soberana. La desautorización inmediata de Meandro (v. 25) revela los límites prácticos de esa autoridad.",
+      "command you to be slain"
+    ],
+    "31": [
+      "Zorro, rebaños y mercaderes",
+      "La comparación «like a fox» introduce una imagen pastoril que continúa con los «flocks of passengers» del verso siguiente. Micetes convierte a los viajeros asaltados por Tamerlán en su propio rebaño: la metáfora mezcla protección regia, comercio y depredación.",
+      "like a fox"
+    ],
+    "33": [
+      "«Arrancarme las plumas»",
+      "«Pull my plumes» transforma una amenaza política en una imagen corporal y de ornamento: quitar las plumas sugiere despojar al monarca de su dignidad. Conservamos la metáfora en la traducción en lugar de reducirla a «destronarme».",
+      "pull my plumes"
+    ],
+    "36": [
+      "El nombre del enemigo",
+      "«Sturdy Scythian thief» es la caracterización interesada de Meandro, portavoz de la corte persa. El contraste entre «ladrón» y «monarca» prepara la disputa sobre la legitimidad de las conquistas; véase McInnis (2020), Introducción, pp. 3–4 y 13–14.",
+      "sturdy Scythian thief"
+    ],
+    "41": [
+      "Profecías atribuidas al adversario",
+      "«Dreaming prophecies» aparece en la acusación de Meandro: él sostiene que Tamerlán actúa engañado por profecías de sueños. El verso no garantiza que tales profecías sean verdaderas ni que el público deba compartir su interpretación.",
+      "dreaming prophecies"
     ],
     "P1": [
-      "El rechazo de la rima cómica",
-      "El prólogo contrapone los versos juguetones y las bufonadas del teatro popular a la dicción elevada del drama bélico. Es también una declaración de ambición estética: no demuestra, por sí solo, que Marlowe inventara el verso blanco teatral."
+      "Rima y «mighty line»",
+      "«Jigging veins» se burla de las cadencias canturreantes del teatro anterior, en especial de los versos rimados y el fourteener Tudor. El prólogo contrapone esa tradición a una dicción solemne de verso blanco, sin demostrar por ello que Marlowe haya inventado el pentámetro yámbico dramático. Véase McInnis (2020), Introducción, pp. 1–3.",
+      "jigging veins"
     ],
     "P4": [
-      "Tamerlán, «el escita»",
-      "La designación «Scythian» pertenece a la geografía literaria de la época; no equivale a una identificación étnica moderna de Timur (1336–1405)."
+      "El escita: geografía teatral",
+      "«Scythian» nombra al conquistador mediante la geografía tradicional del teatro isabelino; no es una identificación étnica exacta del Timur histórico. En el prólogo funciona también como marca de extrañeza y amplitud geográfica. McInnis (2020), Introducción, pp. 1 y 3.",
+      "Scythian Tamburlaine"
     ],
     "P7": [
       "El «espejo trágico»",
-      "«Glass» significa aquí espejo: el escenario ofrece a los espectadores una imagen ejemplar del conquistador, que podrán juzgar. La metáfora propone una lectura reflexiva, no solo espectacular."
+      "«Glass» es aquí un espejo. McInnis propone también una lectura como «prospective glass», un dispositivo que invita a anticipar y contemplar el destino del conquistador. La imagen no impone una valoración moral única: deja al público el juicio sobre Tamerlán. McInnis (2020), Introducción, pp. 3–4.",
+      "tragic glass"
+    ],
+    "P2": [
+      "Comicidad y mediación editorial",
+      "«Clownage» remite a la comicidad de los actores bufos. La oposición del prólogo no debe confundirse con la ausencia histórica de humor en las representaciones: Richard Jones, primer impresor de la obra, reconoció que había suprimido gestos y materiales cómicos que juzgaba impropios. McInnis (2020), Introducción, pp. 2–3.",
+      "clownage"
+    ],
+    "P5": [
+      "«High astounding terms»: programa de estilo",
+      "No es simplemente «lenguaje altisonante»: el verso promete una expresión elevada, imponente y capaz de provocar asombro. El contraste con el teatro de rimas canturreantes encuadra lo que Jonson llamaría después el «mighty line» de Marlowe. McInnis (2020), Introducción, pp. 1–3.",
+      "high astounding terms"
+    ],
+    "P8": [
+      "Un aplauso que no obliga",
+      "«As you please» pone la aprobación de la fortuna del héroe en manos del público. El prólogo presenta como tragedia una historia cuya primera parte culmina con la supervivencia del conquistador; esta tensión genérica es central en la lectura de McInnis (2020), Introducción, pp. 3–4.",
+      "as you please"
     ]
   },
   "lex": {
@@ -33998,5 +34047,32 @@ window.TAMBURLAINE_EDITION = {
       "en": "Himself in presence shall unfold at large.",
       "es": "él mismo lo contará aquí ampliamente."
     }
-  ]
+  ],
+  "criticalReadings": {
+    "prologo": [
+      {
+        "type": "LECTURA CRÍTICA",
+        "title": "Un manifiesto de verso y espectáculo",
+        "range": "Parte I · Prólogo, vv. 1–8",
+        "body": "El prólogo presenta la nueva obra como un desplazamiento de la rima juguetona y la comicidad teatral hacia una dicción heroica, rica en hipérboles, nombres geográficos y ambición épica. McInnis relaciona esa promesa con la energía del pentámetro yámbico de Marlowe, pero subraya además que el público queda invitado a decidir si aplaude o no la fortuna del conquistador. Conviene, por tanto, leer el prólogo a la vez como declaración de estilo y como apertura de un problema moral, no como autorización de toda la violencia posterior.",
+        "source": "David McInnis, «Introduction», en Tamburlaine: A Critical Reader, ed. D. McInnis (Bloomsbury, 2020), pp. 1–4."
+      },
+      {
+        "type": "HISTORIA DEL TEXTO",
+        "title": "Lo que el impresor decidió no imprimir",
+        "range": "Parte I · Prólogo, vv. 1–2",
+        "body": "La formulación antibufo del prólogo no demuestra que el espectáculo original careciera de comicidad. Richard Jones, al publicar las dos partes en 1590, explicó que había excluido gestos y episodios que consideraba frívolos. Así, el texto que leemos llega mediado por decisiones editoriales tempranas. Bourne estudia, además, cómo las sucesivas impresiones y los usos de los lectores modelaron materialmente la transmisión de las obras. La edición digital debe distinguir por ello entre el texto conservado y la representación histórica, que no podemos reconstruir por completo.",
+        "source": "David McInnis, «Introduction», pp. 2–3; Claire M. L. Bourne, «Mending Tamburlaine», en McInnis (ed., 2020), pp. 85–90."
+      }
+    ],
+    "acto1-escena1": [
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "Micetes y la autoridad de la palabra",
+        "range": "Parte I · I.1.1–42",
+        "body": "La primera voz de la tragedia no es la del conquistador, sino la de un rey incapaz de convertir una ofensa en discurso. Micetes pide ayuda a Cosroe, recibe una acusación astrológica y responde buscando testigos de su ingenio; luego tantea un castigo que su consejero relativiza. La escena contrapone así el título heredado, la pericia retórica y la eficacia del gobierno. McInnis observa que la posterior disputa escénica por la corona de Micetes vuelve visible ese vaciamiento de autoridad: el emblema real puede circular mientras el poder efectivo cambia de dueño.",
+        "source": "David McInnis, «Introduction», en McInnis (ed., 2020), pp. 13–14; lectura de los vv. I.1.1–42."
+      }
+    ]
+  }
 };
