@@ -26242,6 +26242,244 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "ORCANES",
           "en": "So he shall, and wear thy head in his scutcheon.",
           "es": "Así será, y llevará tu cabeza en su escudo."
+        },
+        {
+          "id": "P2-III5-139",
+          "number": 139,
+          "speaker": "TAMBURLAINE",
+          "en": "No; let him hang a bunch of keys on his",
+          "es": "No; que cuelgue un manojo de llaves de su"
+        },
+        {
+          "id": "P2-III5-140",
+          "number": 140,
+          "speaker": "",
+          "en": "standard, to put him in remembrance he was a jailor, that,",
+          "es": "estandarte, para recordar que fue carcelero; así,"
+        },
+        {
+          "id": "P2-III5-141",
+          "number": 141,
+          "speaker": "",
+          "en": "when I take him, I may knock out his brains with them,",
+          "es": "cuando lo capture, podré destrozarle la cabeza con ellas"
+        },
+        {
+          "id": "P2-III5-142",
+          "number": 142,
+          "speaker": "",
+          "en": "and lock you in the stable, when you shall come sweating",
+          "es": "y encerrarlos a ustedes en el establo, cuando regresen sudorosos"
+        },
+        {
+          "id": "P2-III5-143",
+          "number": 143,
+          "speaker": "",
+          "en": "from my chariot.",
+          "es": "de tirar de mi carro."
+        },
+        {
+          "id": "P2-III5-144",
+          "number": 144,
+          "speaker": "KING OF TREBIZON",
+          "en": "Away! let us to the field, that the villain",
+          "es": "¡Vamos! Salgamos al campo para que ese villano"
+        },
+        {
+          "id": "P2-III5-145",
+          "number": 145,
+          "speaker": "",
+          "en": "may be slain.",
+          "es": "muera."
+        },
+        {
+          "id": "P2-III5-146",
+          "number": 146,
+          "speaker": "TAMBURLAINE",
+          "en": "Sirrah, prepare whips, and bring my chariot",
+          "es": "Muchacho, prepara los látigos y lleva mi carro"
+        },
+        {
+          "id": "P2-III5-147",
+          "number": 147,
+          "speaker": "",
+          "en": "to my tent; for, as soon as the battle is done, I'll ride",
+          "es": "a mi tienda, porque en cuanto termine la batalla desfilaré"
+        },
+        {
+          "id": "P2-III5-148",
+          "number": 148,
+          "speaker": "",
+          "en": "in triumph through the camp.",
+          "es": "triunfante por el campamento."
+        },
+        {
+          "id": "P2-III5-149",
+          "number": 149,
+          "speaker": "",
+          "en": "How now, ye petty kings? lo, here are bugs",
+          "es": "¿Y ahora, reyezuelos? Miren: aquí tienen espantajos"
+        },
+        {
+          "id": "P2-III5-150",
+          "number": 150,
+          "speaker": "",
+          "en": "Will make the hair stand upright on your heads,",
+          "es": "que les pondrán los pelos de punta"
+        },
+        {
+          "id": "P2-III5-151",
+          "number": 151,
+          "speaker": "",
+          "en": "And cast your crowns in slavery at their feet!—",
+          "es": "y arrojarán sus coronas, esclavas, a sus pies."
+        },
+        {
+          "id": "P2-III5-152",
+          "number": 152,
+          "speaker": "",
+          "en": "Welcome, Theridamas and Techelles, both:",
+          "es": "Bienvenidos ambos, Teridamas y Tequeles."
+        },
+        {
+          "id": "P2-III5-153",
+          "number": 153,
+          "speaker": "",
+          "en": "See ye this rout, and know ye this same king?",
+          "es": "¿Ven esta chusma? ¿Reconocen a este rey?"
+        },
+        {
+          "id": "P2-III5-154",
+          "number": 154,
+          "speaker": "THERIDAMAS",
+          "en": "Ay, my lord; he was Callapine's keeper.",
+          "es": "Sí, señor; era el guardián de Calapino."
+        },
+        {
+          "id": "P2-III5-155",
+          "number": 155,
+          "speaker": "TAMBURLAINE",
+          "en": "Well, now ye see he is a king. Look to him,",
+          "es": "Pues ahora ya ven que es rey. Vigílalo,"
+        },
+        {
+          "id": "P2-III5-156",
+          "number": 156,
+          "speaker": "",
+          "en": "Theridamas, when we are fighting, lest he hide his crown",
+          "es": "Teridamas, durante la batalla, no sea que esconda su corona"
+        },
+        {
+          "id": "P2-III5-157",
+          "number": 157,
+          "speaker": "",
+          "en": "as the foolish king of Persia did.",
+          "es": "como hizo aquel necio rey de Persia."
+        },
+        {
+          "id": "P2-III5-158",
+          "number": 158,
+          "speaker": "KING OF SORIA",
+          "en": "No, Tamburlaine; he shall not be put",
+          "es": "No, Tamerlán; no tendrá que verse"
+        },
+        {
+          "id": "P2-III5-159",
+          "number": 159,
+          "speaker": "",
+          "en": "to that exigent, I warrant thee.",
+          "es": "en semejante aprieto, te lo aseguro."
+        },
+        {
+          "id": "P2-III5-160",
+          "number": 160,
+          "speaker": "TAMBURLAINE",
+          "en": "You know not, sir.—",
+          "es": "Eso no lo sabes, señor."
+        },
+        {
+          "id": "P2-III5-161",
+          "number": 161,
+          "speaker": "",
+          "en": "But now, my followers and my loving friends,",
+          "es": "Pero ahora, seguidores míos y queridos amigos,"
+        },
+        {
+          "id": "P2-III5-162",
+          "number": 162,
+          "speaker": "",
+          "en": "Fight as you ever did, like conquerors,",
+          "es": "luchen como siempre, como conquistadores:"
+        },
+        {
+          "id": "P2-III5-163",
+          "number": 163,
+          "speaker": "",
+          "en": "The glory of this happy day is yours.",
+          "es": "la gloria de este día venturoso es suya."
+        },
+        {
+          "id": "P2-III5-164",
+          "number": 164,
+          "speaker": "",
+          "en": "My stern aspect shall make fair Victory,",
+          "es": "Mi mirada severa hará que la hermosa Victoria,"
+        },
+        {
+          "id": "P2-III5-165",
+          "number": 165,
+          "speaker": "",
+          "en": "Hovering betwixt our armies, light on me,",
+          "es": "que revolotea entre nuestros ejércitos, descienda sobre mí,"
+        },
+        {
+          "id": "P2-III5-166",
+          "number": 166,
+          "speaker": "",
+          "en": "Loaden with laurel-wreaths to crown us all.",
+          "es": "cargada de laureles para coronarnos a todos."
+        },
+        {
+          "id": "P2-III5-167",
+          "number": 167,
+          "speaker": "TECHELLES",
+          "en": "I smile to think how, when this field is fought",
+          "es": "Me sonrío al pensar que, cuando acabe esta batalla"
+        },
+        {
+          "id": "P2-III5-168",
+          "number": 168,
+          "speaker": "",
+          "en": "And rich Natolia ours, our men shall sweat",
+          "es": "y la rica Anatolia sea nuestra, nuestros hombres sudarán"
+        },
+        {
+          "id": "P2-III5-169",
+          "number": 169,
+          "speaker": "",
+          "en": "With carrying pearl and treasure on their backs.",
+          "es": "bajo el peso de las perlas y tesoros que cargarán a la espalda."
+        },
+        {
+          "id": "P2-III5-170",
+          "number": 170,
+          "speaker": "TAMBURLAINE",
+          "en": "You shall be princes all, immediately.—",
+          "es": "Todos serán príncipes, desde ese mismo instante."
+        },
+        {
+          "id": "P2-III5-171",
+          "number": 171,
+          "speaker": "",
+          "en": "Come, fight, ye Turks, or yield us victory.",
+          "es": "¡Vamos, turcos, luchen o entréguennos la victoria!"
+        },
+        {
+          "id": "P2-III5-172",
+          "number": 172,
+          "speaker": "ORCANES",
+          "en": "No; we will meet thee, slavish Tamburlaine.",
+          "es": "No; te haremos frente, Tamerlán, esclavo despreciable."
         }
       ]
     }
@@ -26533,6 +26771,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 57,
       "en": "Enter Tamburlaine and his three sons, Calyphas, Amyras and Celebinus, with Usumcasane and others.",
       "es": "Entran Tamerlán y sus hijos Calífas, Amiras y Celebino, junto con Usumcasane y otros."
+    },
+    {
+      "act": 3,
+      "scene": 5,
+      "afterLine": 148,
+      "en": "Enter Theridamas, Techelles and their retinue.",
+      "es": "Entran Teridamas, Tequeles y su séquito."
+    },
+    {
+      "act": 3,
+      "scene": 5,
+      "afterLine": 172,
+      "en": "Exeunt severally.",
+      "es": "Salen por distintos lados."
     }
   ]
 };
