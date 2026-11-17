@@ -929,7 +929,7 @@ notes['169'] = {number:169,type:'SINTAXIS',heading:'Quae como sujeto',text:'Quae
 // corresponde a UNA fila editorial con ambos números; por eso son 39 filas para
 // 40 números canónicos. Se conservan intactos los IDs y los offsets de resaltados.
 {
-  const inRange = entry => entry.n === '244–245' || /^\\d+$/.test(entry.n) && Number(entry.n) >= 225 && Number(entry.n) <= 264;
+  const inRange = entry => entry.n === '244–245' || /^\d+$/.test(entry.n) && Number(entry.n) >= 225 && Number(entry.n) <= 264;
   const block = verses.filter(inRange);
   const keys = new Set(block.map(entry => entry.n));
   const expected = [...Array.from({length:40},(_, i)=>String(225+i)).filter(n=>n!=='244'&&n!=='245'), '244–245'];
