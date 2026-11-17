@@ -136,3 +136,11 @@
 - **Referencias de interpretación comprobadas en el PDF aportado:** David McInnis, «Introduction», en *Tamburlaine: A Critical Reader* (ed. McInnis, Bloomsbury, 2020), pp. 1–4 y 13–14; Claire M. L. Bourne, «Mending Tamburlaine», pp. 85–90. Se distinguieron explícitamente las inferencias editoriales propias de las atribuciones a estos capítulos.
 - **Interfaz:** fichas breves con fuente y rango de lectura, visibles solo en el prólogo o escena pertinentes. Notas integradas mediante subrayado; el renderer acepta desde ahora un ancla literal en el tercer campo de cada nota: `[título, explicación, expresión inglesa]` (las nueve antiguas se migraron también). Se conserva la navegación por escena y la opción de ocultar notas.
 - **Criterio de próximas pasadas:** revisión real de máximo 50 unidades consecutivas, correcciones únicamente cuando sean necesarias, sin cuota de notas ni lecturas; seguimiento separado de la finalización de la primera traducción en `progress.json.philologicalReview`.
+
+
+## Segunda pasada filológica y de lecturas (17-11-2026)
+- **50 unidades consecutivas revisadas:** Parte I, I.1.43–92. Próxima: **I.1.93–142**. Acumulado revisado: 100 (prólogo 8 + I.1.1–92).
+- Cotejado el texto de base de Dyce (PG #1094) con la transcripción de 1590 en Folger EarlyPrint (A4r–A4v). Conservadas las lecturas base sin alterar numeración ni borrar los indicadores de suplemento editorial; diferencias pertinentes en **I.1.87 «[task]»** y **I.1.89 «all Africa»**, ausentes del testimonio de 1590, explicadas en notas.
+- **Ocho notas filológicas nuevas** con anclas literales en inglés (Damón, incontinent, piernas del Estado, foaming gall, Paris y Helena, cabezas-trofeos, [task] y pro-rex/África). **Una clave interpretativa** de escena, que distingue observación editorial y bibliografía de McInnis 2020, pp. 13–14.
+- **Seis renglones de traducción retocados** (46–48, 63–64 y 66) para resolver la mediación de Teridamas, la imagen de «foaming gall» y el símil de Paris sin introducir nuevos versos.
+- No se modificaron el texto inglés, los identificadores, las acotaciones ni la navegación por escenas. Las notas siguen activándose únicamente mediante subrayado discreto. Pendiente colación exhaustiva de los demás testigos y revisión de la obra completa.
