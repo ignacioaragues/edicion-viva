@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162C; cap. III parcial",
+  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162D; cap. III parcial",
   "status": "partial",
-  "next": "Caput III: Sunt enim qui palam poscere ea quibus indigent erubescunt",
+  "next": "Caput III: Recte autem in egeno et paupere ipsius Jesu Christi Domini nostri persona sentitur",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -2631,6 +2631,208 @@ window.LEO_SERMO_I = {
           "possum",
           "presente subjuntivo activo 1.ª plural",
           "podamos"
+        ]
+      }
+    },
+    {
+      "id": "s9-15",
+      "label": "15",
+      "latin": "Sunt enim qui palam poscere ea quibus indigent erubescunt; et malunt miseria tacitae egestatis affigi quam publica petitione confundi. Intelligendi ergo isti sunt, et ab occulta necessitate sublevandi, ut hoc ipso amplius gaudeant, cum et paupertati eorum consultum fuerit, et pudori.",
+      "spanish": "Hay, en efecto, quienes se avergüenzan de pedir abiertamente lo que necesitan y prefieren sufrir la miseria de una indigencia silenciosa antes que verse confundidos por una petición pública. Por eso hay que reconocerlos y aliviarlos de su necesidad oculta, para que se alegren aún más precisamente porque se habrá atendido tanto a su pobreza como a su pudor.",
+      "note": [
+        "La discreción como deber pastoral",
+        "La oposición palam / tacitae y publica / occulta exige que la ayuda no exponga a quien la recibe. Los gerundivos intelligendi y sublevandi convierten esa sensibilidad en obligación. Aparato Ballerini–Migne: molestia por miseria (Vallicellano); revelandi por sublevandi en algunos manuscritos."
+      ],
+      "lexicon": {
+        "Sunt": [
+          "sum",
+          "presente indicativo 3.ª plural",
+          "hay"
+        ],
+        "qui": [
+          "qui",
+          "nominativo masculino plural relativo",
+          "quienes"
+        ],
+        "palam": [
+          "palam",
+          "adverbio",
+          "abiertamente"
+        ],
+        "poscere": [
+          "posco",
+          "infinitivo presente activo",
+          "pedir"
+        ],
+        "ea": [
+          "is",
+          "acusativo neutro plural",
+          "aquello"
+        ],
+        "quibus": [
+          "qui",
+          "ablativo neutro plural relativo",
+          "de lo que"
+        ],
+        "indigent": [
+          "indigeo",
+          "presente indicativo activo 3.ª plural",
+          "necesitan"
+        ],
+        "erubescunt": [
+          "erubesco",
+          "presente indicativo activo 3.ª plural",
+          "se avergüenzan"
+        ],
+        "malunt": [
+          "malo",
+          "presente indicativo activo 3.ª plural",
+          "prefieren"
+        ],
+        "miseria": [
+          "miseria",
+          "ablativo femenino singular",
+          "con la miseria"
+        ],
+        "tacitae": [
+          "tacitus",
+          "genitivo femenino singular",
+          "silenciosa"
+        ],
+        "egestatis": [
+          "egestas",
+          "genitivo femenino singular",
+          "de la indigencia"
+        ],
+        "affigi": [
+          "affigo",
+          "infinitivo presente pasivo",
+          "ser afligidos"
+        ],
+        "publica": [
+          "publicus",
+          "ablativo femenino singular",
+          "pública"
+        ],
+        "petitione": [
+          "petitio",
+          "ablativo femenino singular",
+          "petición"
+        ],
+        "confundi": [
+          "confundo",
+          "infinitivo presente pasivo",
+          "verse confundidos"
+        ],
+        "Intelligendi": [
+          "intellego",
+          "gerundivo nominativo masculino plural",
+          "han de ser reconocidos"
+        ],
+        "ergo": [
+          "ergo",
+          "conjunción ilativa",
+          "por tanto"
+        ],
+        "isti": [
+          "iste",
+          "nominativo masculino plural",
+          "estos"
+        ],
+        "sunt": [
+          "sum",
+          "presente indicativo 3.ª plural",
+          "son"
+        ],
+        "ab": [
+          "ab",
+          "preposición con ablativo",
+          "de"
+        ],
+        "occulta": [
+          "occultus",
+          "ablativo femenino singular",
+          "oculta"
+        ],
+        "necessitate": [
+          "necessitas",
+          "ablativo femenino singular",
+          "necesidad"
+        ],
+        "sublevandi": [
+          "sublevo",
+          "gerundivo nominativo masculino plural",
+          "han de ser socorridos"
+        ],
+        "hoc": [
+          "hic",
+          "ablativo neutro singular",
+          "por esto"
+        ],
+        "ipso": [
+          "ipse",
+          "ablativo neutro singular",
+          "mismo"
+        ],
+        "amplius": [
+          "amplius",
+          "adverbio comparativo",
+          "más"
+        ],
+        "gaudeant": [
+          "gaudeo",
+          "presente subjuntivo activo 3.ª plural",
+          "se alegren"
+        ],
+        "paupertati": [
+          "paupertas",
+          "dativo femenino singular",
+          "a la pobreza"
+        ],
+        "eorum": [
+          "is",
+          "genitivo plural",
+          "de ellos"
+        ],
+        "consultum": [
+          "consulo",
+          "participio perfecto pasivo neutro singular impersonal",
+          "se haya atendido"
+        ],
+        "fuerit": [
+          "sum",
+          "futuro perfecto indicativo 3.ª singular",
+          "se habrá"
+        ],
+        "pudori": [
+          "pudor",
+          "dativo masculino singular",
+          "al pudor"
+        ],
+        "enim": [
+          "enim",
+          "conjunción explicativa",
+          "pues"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "quam": [
+          "quam",
+          "adverbio interrogativo indirecto",
+          "cuán"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "cum": [
+          "cum",
+          "conjunción causal",
+          "puesto que"
         ]
       }
     }
