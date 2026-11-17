@@ -120,23 +120,23 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX capita I–III complete, PL 54 col. 160C–163A; caput IV pending",
-      "paragraphs": 17,
-      "latin_tokens": 753,
-      "lexical_coverage": "753/753 first-pass contextual token cards; further homograph audit pending",
-      "translation": "capita I–III translated; caput IV pending",
-      "voice_notes": 17,
-      "complete_work": false,
-      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support. Caput III §15: miseria/molestia, sublevandi/revelandi; critical printed collation pending. Caput III conclusion: enim/autem, alternate Pauline citation and sua/sui praesentia in apparatus; printed critical collation pending."
+      "section": "complete Sermo IX, PL 54 col. 160C–163C, capita I–IV",
+      "paragraphs": 21,
+      "latin_tokens": 949,
+      "lexical_coverage": "949/949 first-pass contextual token cards; homograph audit pending",
+      "translation": "complete original first-pass Spanish translation",
+      "voice_notes": 21,
+      "complete_work": true,
+      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support. Caput III §15: miseria/molestia, sublevandi/revelandi; critical printed collation pending. Caput III conclusion: enim/autem, alternate Pauline citation and sua/sui praesentia in apparatus; printed critical collation pending. Caput IV: scutum/arma, corripere/arripere, in omission, et hujus/hujus, nobis/vobis; printed critical collation pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 9,
-    "beginning": "Ut autem in omnibus, dilectissimi, placeat Domino vestra devotio",
-    "location": "PL 54 Sermo IX caput IV col. 163A–C"
+    "number": 10,
+    "beginning": "Verify Sermo X opening in Ballerini–Migne",
+    "location": "PL 54 Sermo X"
   },
-  "priority": "Finish Sermo IX capita III–IV before Sermo X",
+  "priority": "Begin Sermo X after checking primary text",
   "last_edit": "2026-11-17",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play."
 }
