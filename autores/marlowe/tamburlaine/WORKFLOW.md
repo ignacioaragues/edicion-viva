@@ -33,3 +33,9 @@
 - Se completó la primera traducción del **acto II** y se abrió el acto III con Bajazet. Total acumulado: **928 versos**, contando el prólogo de 8.
 - Solo traducción (sin notas ni fichas nuevas), con acotaciones bilingües fuera del conteo y numeración por escena. El texto inglés añadido sigue provisionalmente la edición de Dyce (Project Gutenberg 1094). Cotejo futuro con Neilson y el impreso de 1590.
 - Próximo pasaje: **Parte I, III.1.8**.
+
+## Cuarta pasada de traducción (17-11-2026)
+- **300 versos nuevos**: III.1.8–67 (60), III.2.1–113 (113), III.3.1–127 (127).
+- Acto III, escenas 1 y 2 completas; escena 3 parcialmente publicada. Total acumulado: **1228 versos**, incluidos ocho del prólogo.
+- La acotación «To his OFFICERS» posterior a III.3.29 se presenta fuera de la numeración y no se computa como verso.
+- Sin notas filológicas ni nuevas fichas. Fuente inglesa provisional: Dyce (PG 1094); cotejo pendiente con Neilson 1911 y primer impreso. **Próximo verso: III.3.128**.

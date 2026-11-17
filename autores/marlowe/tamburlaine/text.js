@@ -1,6 +1,6 @@
-/* Christopher Marlowe, Tamburlaine the Great, Part I: prologue; Acts I–II complete; III.1.1–7.
- * Base through Acts I–II: Alexander Dyce (Project Gutenberg 1094), apart from Neilson 1911 prologue and I.1.1–20; collation outstanding.
- * Original Spanish translation, preliminary; verse numbers scoped by act/scene. */
+/* Marlowe, Tamburlaine the Great Part I: prologue; Acts I and II complete; III.1 and III.2 complete; III.3.1–127.
+ * Translation draft with verse-by-verse alignment, Dyce (Project Gutenberg eBook 1094), except Neilson prologue and I.1.1–20; textual collation pending.
+ * Stage directions are not counted as verse, including III.3 after verse 29. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -1566,8 +1566,8 @@ window.TAMBURLAINE_EDITION = {
   "next": {
     "part": 1,
     "act": 3,
-    "scene": 1,
-    "line": 8
+    "scene": 3,
+    "line": 128
   },
   "scene2": [
     {
@@ -3615,6 +3615,83 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 0,
       "en": "Enter Bajazeth, the kings of Fez, Morocco and Algiers, with pashas and others in great pomp.",
       "es": "Entran Bajazet, los reyes de Fez, Marruecos y Argel, con bajás y otros, en medio de gran pompa."
+    },
+    {
+      "act": 3,
+      "scene": 1,
+      "afterLine": 44,
+      "en": "Exit.",
+      "es": "Sale."
+    },
+    {
+      "act": 3,
+      "scene": 1,
+      "afterLine": 67,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 0,
+      "en": "Enter Zenocrate, Agydas, Anippe and others.",
+      "es": "Entran Zenócrate, Agidas, Anipa y otros."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 24,
+      "en": "Tamburlaine enters behind them with Techelles and others.",
+      "es": "Entra Tamerlán a sus espaldas, con Tequeles y otros."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 65,
+      "en": "Tamburlaine goes to her, takes her lovingly by the hand, and casts a wrathful look at Agydas without speaking. All exit except Agydas.",
+      "es": "Tamerlán se acerca a ella, la toma amorosamente de la mano y mira con ira a Agidas, sin decir palabra. Salen todos excepto Agidas."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 87,
+      "en": "Re-enter Techelles with a drawn dagger, and Usumcasane.",
+      "es": "Regresan Tequeles con una daga desenvainada y Usumcasane."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 106,
+      "en": "Agydas stabs himself.",
+      "es": "Agidas se apuñala."
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "afterLine": 113,
+      "en": "Exeunt, bearing out the body.",
+      "es": "Salen llevándose el cadáver."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Enter Tamburlaine, Techelles, Usumcasane, Theridamas, a pasha, Zenocrate, Anippe and others.",
+      "es": "Entran Tamerlán, Tequeles, Usumcasane, Teridamas, un bajá, Zenócrate, Anipa y otros."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 29,
+      "en": "Tamburlaine, to his officers.",
+      "es": "Tamerlán, dirigiéndose a sus oficiales."
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "afterLine": 60,
+      "en": "Enter Bajazeth, pashas, the kings of Fez, Morocco and Algiers, Zabina and Ebea.",
+      "es": "Entran Bayaceto, los bajás, los reyes de Fez, Marruecos y Argel, Zabina y Ebea."
     }
   ],
   "act2Scenes": {
@@ -6938,6 +7015,2110 @@ window.TAMBURLAINE_EDITION = {
         "speaker": "",
         "en": "You know our army is invincible;",
         "es": "Sabéis que nuestro ejército es invencible;"
+      },
+      {
+        "id": "III1-8",
+        "number": 8,
+        "speaker": "",
+        "en": "As many circumcised Turks we have,",
+        "es": "Tenemos tantos turcos circuncidados"
+      },
+      {
+        "id": "III1-9",
+        "number": 9,
+        "speaker": "",
+        "en": "And warlike bands of Christians renied,",
+        "es": "y batallones guerreros de cristianos renegados"
+      },
+      {
+        "id": "III1-10",
+        "number": 10,
+        "speaker": "",
+        "en": "As hath the ocean or the Terrene sea",
+        "es": "como pequeñas gotas de agua tiene el océano"
+      },
+      {
+        "id": "III1-11",
+        "number": 11,
+        "speaker": "",
+        "en": "Small drops of water when the moon begins",
+        "es": "o el mar Mediterráneo, cuando la luna empieza"
+      },
+      {
+        "id": "III1-12",
+        "number": 12,
+        "speaker": "",
+        "en": "To join in one her semicircled horns:",
+        "es": "a unir en uno sus cuernos semicirculares."
+      },
+      {
+        "id": "III1-13",
+        "number": 13,
+        "speaker": "",
+        "en": "Yet would we not be brav'd with foreign power,",
+        "es": "Y aun así no consentiríamos el desafío de una potencia extranjera"
+      },
+      {
+        "id": "III1-14",
+        "number": 14,
+        "speaker": "",
+        "en": "Nor raise our siege before the Grecians yield,",
+        "es": "ni levantaríamos el asedio antes de que los griegos se rindieran"
+      },
+      {
+        "id": "III1-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Or breathless lie before the city-walls.",
+        "es": "o yacieran sin aliento ante las murallas."
+      },
+      {
+        "id": "III1-16",
+        "number": 16,
+        "speaker": "KING OF FEZ",
+        "en": "Renowmed emperor and mighty general,",
+        "es": "Renombrado emperador y poderoso general,"
+      },
+      {
+        "id": "III1-17",
+        "number": 17,
+        "speaker": "",
+        "en": "What, if you sent the bassoes of your guard",
+        "es": "¿qué os parecería enviar a los bajás de vuestra guardia"
+      },
+      {
+        "id": "III1-18",
+        "number": 18,
+        "speaker": "",
+        "en": "To charge him to remain in Asia,",
+        "es": "a ordenarle que permanezca en Asia,"
+      },
+      {
+        "id": "III1-19",
+        "number": 19,
+        "speaker": "",
+        "en": "Or else to threaten death and deadly arms",
+        "es": "o amenazarlo, en caso contrario, de muerte y guerra mortal"
+      },
+      {
+        "id": "III1-20",
+        "number": 20,
+        "speaker": "",
+        "en": "As from the mouth of mighty Bajazeth?",
+        "es": "en nombre del poderoso Bayaceto?"
+      },
+      {
+        "id": "III1-21",
+        "number": 21,
+        "speaker": "BAJAZETH",
+        "en": "Hie thee, my basso, fast to Persia;",
+        "es": "Date prisa, bajá, y ve a Persia."
+      },
+      {
+        "id": "III1-22",
+        "number": 22,
+        "speaker": "",
+        "en": "Tell him thy lord, the Turkish emperor,",
+        "es": "Dile que tu señor, el emperador de los turcos,"
+      },
+      {
+        "id": "III1-23",
+        "number": 23,
+        "speaker": "",
+        "en": "Dread lord of Afric, Europe, and Asia,",
+        "es": "temido soberano de África, Europa y Asia,"
+      },
+      {
+        "id": "III1-24",
+        "number": 24,
+        "speaker": "",
+        "en": "Great king and conqueror of Graecia,",
+        "es": "gran rey y conquistador de Grecia,"
+      },
+      {
+        "id": "III1-25",
+        "number": 25,
+        "speaker": "",
+        "en": "The ocean, Terrene, and the Coal-black sea,",
+        "es": "del océano, del Mediterráneo y del mar Negro,"
+      },
+      {
+        "id": "III1-26",
+        "number": 26,
+        "speaker": "",
+        "en": "The high and highest monarch of the world,",
+        "es": "el supremo y más alto monarca del mundo,"
+      },
+      {
+        "id": "III1-27",
+        "number": 27,
+        "speaker": "",
+        "en": "Wills and commands, (for say not I entreat,)",
+        "es": "quiere y ordena —no digas que suplico—"
+      },
+      {
+        "id": "III1-28",
+        "number": 28,
+        "speaker": "",
+        "en": "Not once to set his foot in Africa,",
+        "es": "que no ponga un solo pie en África"
+      },
+      {
+        "id": "III1-29",
+        "number": 29,
+        "speaker": "",
+        "en": "Or spread his colours in Graecia,",
+        "es": "ni despliegue sus banderas en Grecia,"
+      },
+      {
+        "id": "III1-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Lest he incur the fury of my wrath:",
+        "es": "si no quiere sufrir toda la furia de mi ira."
+      },
+      {
+        "id": "III1-31",
+        "number": 31,
+        "speaker": "",
+        "en": "Tell him I am content to take a truce,",
+        "es": "Dile que estoy dispuesto a aceptar una tregua,"
+      },
+      {
+        "id": "III1-32",
+        "number": 32,
+        "speaker": "",
+        "en": "Because I hear he bears a valiant mind:",
+        "es": "porque he oído que es un hombre valeroso."
+      },
+      {
+        "id": "III1-33",
+        "number": 33,
+        "speaker": "",
+        "en": "But if, presuming on his silly power,",
+        "es": "Pero si, confiado en su miserable poder,"
+      },
+      {
+        "id": "III1-34",
+        "number": 34,
+        "speaker": "",
+        "en": "He be so mad to manage arms with me,",
+        "es": "comete la locura de enfrentarse a mí con las armas,"
+      },
+      {
+        "id": "III1-35",
+        "number": 35,
+        "speaker": "",
+        "en": "Then stay thou with him,—say, I bid thee so;",
+        "es": "quédate entonces con él; dile que yo lo mando."
+      },
+      {
+        "id": "III1-36",
+        "number": 36,
+        "speaker": "",
+        "en": "And if, before the sun have measur'd heaven",
+        "es": "Y si, antes de que el sol haya recorrido tres veces"
+      },
+      {
+        "id": "III1-37",
+        "number": 37,
+        "speaker": "",
+        "en": "With triple circuit, thou regreet us not,",
+        "es": "la bóveda del cielo, no has regresado a saludarnos,"
+      },
+      {
+        "id": "III1-38",
+        "number": 38,
+        "speaker": "",
+        "en": "We mean to take his morning's next arise",
+        "es": "tomaremos su siguiente amanecer"
+      },
+      {
+        "id": "III1-39",
+        "number": 39,
+        "speaker": "",
+        "en": "For messenger he will not be reclaim'd,",
+        "es": "como señal de que no piensa ceder"
+      },
+      {
+        "id": "III1-40",
+        "number": 40,
+        "speaker": "",
+        "en": "And mean to fetch thee in despite of him.",
+        "es": "y saldremos a buscarte a pesar de él."
+      },
+      {
+        "id": "III1-41",
+        "number": 41,
+        "speaker": "BASSO",
+        "en": "Most great and puissant monarch of the earth,",
+        "es": "Grandísimo y potentísimo monarca de la tierra,"
+      },
+      {
+        "id": "III1-42",
+        "number": 42,
+        "speaker": "",
+        "en": "Your basso will accomplish your behest,",
+        "es": "vuestro bajá cumplirá vuestra orden"
+      },
+      {
+        "id": "III1-43",
+        "number": 43,
+        "speaker": "",
+        "en": "And shew your pleasure to the Persian,",
+        "es": "y comunicará vuestra voluntad al persa,"
+      },
+      {
+        "id": "III1-44",
+        "number": 44,
+        "speaker": "",
+        "en": "As fits the legate of the stately Turk.",
+        "es": "como corresponde al enviado del majestuoso turco."
+      },
+      {
+        "id": "III1-45",
+        "number": 45,
+        "speaker": "KING OF ARGIER",
+        "en": "They say he is the king of Persia;",
+        "es": "Dicen que es rey de Persia;"
+      },
+      {
+        "id": "III1-46",
+        "number": 46,
+        "speaker": "",
+        "en": "But, if he dare attempt to stir your siege,",
+        "es": "pero si se atreve a intentar romper vuestro asedio,"
+      },
+      {
+        "id": "III1-47",
+        "number": 47,
+        "speaker": "",
+        "en": "'Twere requisite he should be ten times more,",
+        "es": "necesitaría ser diez veces más poderoso,"
+      },
+      {
+        "id": "III1-48",
+        "number": 48,
+        "speaker": "",
+        "en": "For all flesh quakes at your magnificence.",
+        "es": "pues todos los mortales tiemblan ante vuestra grandeza."
+      },
+      {
+        "id": "III1-49",
+        "number": 49,
+        "speaker": "BAJAZETH",
+        "en": "True, Argier; and tremble[s] at my looks.",
+        "es": "Es verdad, Argel; y tiemblan ante mi mirada."
+      },
+      {
+        "id": "III1-50",
+        "number": 50,
+        "speaker": "KING OF MOROCCO",
+        "en": "The spring is hinder'd by your smothering host;",
+        "es": "La primavera se ve impedida por vuestro inmenso ejército:"
+      },
+      {
+        "id": "III1-51",
+        "number": 51,
+        "speaker": "",
+        "en": "For neither rain can fall upon the earth,",
+        "es": "ni la lluvia puede caer sobre la tierra"
+      },
+      {
+        "id": "III1-52",
+        "number": 52,
+        "speaker": "",
+        "en": "Nor sun reflex his virtuous beams thereon,",
+        "es": "ni el sol reflejar en ella sus benéficos rayos,"
+      },
+      {
+        "id": "III1-53",
+        "number": 53,
+        "speaker": "",
+        "en": "The ground is mantled with such multitudes.",
+        "es": "tan cubierta está de multitudes."
+      },
+      {
+        "id": "III1-54",
+        "number": 54,
+        "speaker": "BAJAZETH",
+        "en": "All this is true as holy Mahomet;",
+        "es": "Todo eso es tan cierto como el santo Mahoma,"
+      },
+      {
+        "id": "III1-55",
+        "number": 55,
+        "speaker": "",
+        "en": "And all the trees are blasted with our breaths.",
+        "es": "y todos los árboles se marchitan con nuestro aliento."
+      },
+      {
+        "id": "III1-56",
+        "number": 56,
+        "speaker": "KING OF FEZ",
+        "en": "What thinks your greatness best to be achiev'd",
+        "es": "¿Qué empresa juzga vuestra grandeza más conveniente"
+      },
+      {
+        "id": "III1-57",
+        "number": 57,
+        "speaker": "",
+        "en": "In pursuit of the city's overthrow?",
+        "es": "para lograr la destrucción de esta ciudad?"
+      },
+      {
+        "id": "III1-58",
+        "number": 58,
+        "speaker": "BAJAZETH",
+        "en": "I will the captive pioners of Argier",
+        "es": "Ordenaré que los zapadores cautivos de Argel"
+      },
+      {
+        "id": "III1-59",
+        "number": 59,
+        "speaker": "",
+        "en": "Cut off the water that by leaden pipes",
+        "es": "corten el agua que por tuberías de plomo"
+      },
+      {
+        "id": "III1-60",
+        "number": 60,
+        "speaker": "",
+        "en": "Runs to the city from the mountain Carnon;",
+        "es": "llega a la ciudad desde el monte Carnón."
+      },
+      {
+        "id": "III1-61",
+        "number": 61,
+        "speaker": "",
+        "en": "Two thousand horse shall forage up and down,",
+        "es": "Dos mil jinetes recorrerán los campos saqueándolos,"
+      },
+      {
+        "id": "III1-62",
+        "number": 62,
+        "speaker": "",
+        "en": "That no relief or succour come by land;",
+        "es": "para que no entre por tierra ningún socorro;"
+      },
+      {
+        "id": "III1-63",
+        "number": 63,
+        "speaker": "",
+        "en": "And all the sea my galleys countermand:",
+        "es": "y mis galeras cerrarán todo el mar."
+      },
+      {
+        "id": "III1-64",
+        "number": 64,
+        "speaker": "",
+        "en": "Then shall our footmen lie within the trench,",
+        "es": "Entonces nuestra infantería ocupará las trincheras"
+      },
+      {
+        "id": "III1-65",
+        "number": 65,
+        "speaker": "",
+        "en": "And with their cannons, mouth'd like Orcus' gulf,",
+        "es": "y con sus cañones, de bocas como el abismo del Orco,"
+      },
+      {
+        "id": "III1-66",
+        "number": 66,
+        "speaker": "",
+        "en": "Batter the walls, and we will enter in;",
+        "es": "derribará las murallas, y nosotros entraremos."
+      },
+      {
+        "id": "III1-67",
+        "number": 67,
+        "speaker": "",
+        "en": "And thus the Grecians shall be conquered.",
+        "es": "Así serán conquistados los griegos."
+      }
+    ],
+    "2": [
+      {
+        "id": "III2-1",
+        "number": 1,
+        "speaker": "AGYDAS",
+        "en": "Madam Zenocrate, may I presume",
+        "es": "Señora Zenócrate, ¿puedo atreverme"
+      },
+      {
+        "id": "III2-2",
+        "number": 2,
+        "speaker": "",
+        "en": "To know the cause of these unquiet fits",
+        "es": "a preguntaros la causa de estos desasosiegos"
+      },
+      {
+        "id": "III2-3",
+        "number": 3,
+        "speaker": "",
+        "en": "That work such trouble to your wonted rest?",
+        "es": "que tanto perturban vuestro descanso habitual?"
+      },
+      {
+        "id": "III2-4",
+        "number": 4,
+        "speaker": "",
+        "en": "'Tis more than pity such a heavenly face",
+        "es": "Es más que lamentable que un rostro tan celestial"
+      },
+      {
+        "id": "III2-5",
+        "number": 5,
+        "speaker": "",
+        "en": "Should by heart's sorrow wax so wan and pale,",
+        "es": "se vuelva tan descolorido y pálido por la pena,"
+      },
+      {
+        "id": "III2-6",
+        "number": 6,
+        "speaker": "",
+        "en": "When your offensive rape by Tamburlaine",
+        "es": "cuando la violenta captura a manos de Tamerlán"
+      },
+      {
+        "id": "III2-7",
+        "number": 7,
+        "speaker": "",
+        "en": "(Which of your whole displeasures should be most)",
+        "es": "—que debería ser vuestra mayor desventura—"
+      },
+      {
+        "id": "III2-8",
+        "number": 8,
+        "speaker": "",
+        "en": "Hath seem'd to be digested long ago.",
+        "es": "parece haber quedado superada hace tiempo."
+      },
+      {
+        "id": "III2-9",
+        "number": 9,
+        "speaker": "ZENOCRATE",
+        "en": "Although it be digested long ago,",
+        "es": "Aunque la haya superado hace ya mucho,"
+      },
+      {
+        "id": "III2-10",
+        "number": 10,
+        "speaker": "",
+        "en": "As his exceeding favours have deserv'd,",
+        "es": "como merecen sus extraordinarios favores,"
+      },
+      {
+        "id": "III2-11",
+        "number": 11,
+        "speaker": "",
+        "en": "And might content the Queen of Heaven, as well",
+        "es": "capaces de satisfacer incluso a la reina del cielo,"
+      },
+      {
+        "id": "III2-12",
+        "number": 12,
+        "speaker": "",
+        "en": "As it hath chang'd my first-conceiv'd disdain;",
+        "es": "y aunque hayan transformado mi desdén inicial,"
+      },
+      {
+        "id": "III2-13",
+        "number": 13,
+        "speaker": "",
+        "en": "Yet since a farther passion feeds my thoughts",
+        "es": "otra pasión alimenta ahora mis pensamientos"
+      },
+      {
+        "id": "III2-14",
+        "number": 14,
+        "speaker": "",
+        "en": "With ceaseless and disconsolate conceits,",
+        "es": "con ideas incesantes y desconsoladas,"
+      },
+      {
+        "id": "III2-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Which dye my looks so lifeless as they are,",
+        "es": "que dejan mi rostro tan falto de vida"
+      },
+      {
+        "id": "III2-16",
+        "number": 16,
+        "speaker": "",
+        "en": "And might, if my extremes had full events,",
+        "es": "y, si mi angustia alcanzara sus últimas consecuencias,"
+      },
+      {
+        "id": "III2-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Make me the ghastly counterfeit of death.",
+        "es": "podrían convertirme en una espantosa imagen de la muerte."
+      },
+      {
+        "id": "III2-18",
+        "number": 18,
+        "speaker": "AGYDAS",
+        "en": "Eternal heaven sooner be dissolv'd,",
+        "es": "¡Que se disuelva antes el cielo eterno"
+      },
+      {
+        "id": "III2-19",
+        "number": 19,
+        "speaker": "",
+        "en": "And all that pierceth Phoebus' silver eye,",
+        "es": "y todo cuanto alcanza el ojo de plata de Febo,"
+      },
+      {
+        "id": "III2-20",
+        "number": 20,
+        "speaker": "",
+        "en": "Before such hap fall to Zenocrate!",
+        "es": "antes que semejante desgracia caiga sobre Zenócrate!"
+      },
+      {
+        "id": "III2-21",
+        "number": 21,
+        "speaker": "ZENOCRATE",
+        "en": "Ah, life and soul, still hover in his breast,",
+        "es": "¡Ah, vida y alma, permaneced siempre en su pecho"
+      },
+      {
+        "id": "III2-22",
+        "number": 22,
+        "speaker": "",
+        "en": "And leave my body senseless as the earth,",
+        "es": "y dejad mi cuerpo insensible como la tierra,"
+      },
+      {
+        "id": "III2-23",
+        "number": 23,
+        "speaker": "",
+        "en": "Or else unite you to his life and soul,",
+        "es": "o uníos a su vida y a su alma,"
+      },
+      {
+        "id": "III2-24",
+        "number": 24,
+        "speaker": "",
+        "en": "That I may live and die with Tamburlaine!",
+        "es": "para que pueda vivir y morir con Tamerlán!"
+      },
+      {
+        "id": "III2-25",
+        "number": 25,
+        "speaker": "AGYDAS",
+        "en": "With Tamburlaine! Ah, fair Zenocrate,",
+        "es": "¡Con Tamerlán! Ah, hermosa Zenócrate,"
+      },
+      {
+        "id": "III2-26",
+        "number": 26,
+        "speaker": "",
+        "en": "Let not a man so vile and barbarous,",
+        "es": "no dejéis que un hombre tan vil y bárbaro,"
+      },
+      {
+        "id": "III2-27",
+        "number": 27,
+        "speaker": "",
+        "en": "That holds you from your father in despite,",
+        "es": "que os aparta de vuestro padre por la fuerza"
+      },
+      {
+        "id": "III2-28",
+        "number": 28,
+        "speaker": "",
+        "en": "And keeps you from the honours of a queen,",
+        "es": "y os priva de los honores de una reina"
+      },
+      {
+        "id": "III2-29",
+        "number": 29,
+        "speaker": "",
+        "en": "(Being suppos'd his worthless concubine,)",
+        "es": "—pues os tienen por una concubina sin valor—,"
+      },
+      {
+        "id": "III2-30",
+        "number": 30,
+        "speaker": "",
+        "en": "Be honour'd with your love but for necessity!",
+        "es": "reciba vuestro amor tan solo por necesidad."
+      },
+      {
+        "id": "III2-31",
+        "number": 31,
+        "speaker": "",
+        "en": "So, now the mighty Soldan hears of you,",
+        "es": "Ahora que el poderoso sultán sabe de vos,"
+      },
+      {
+        "id": "III2-32",
+        "number": 32,
+        "speaker": "",
+        "en": "Your highness needs not doubt but in short time",
+        "es": "vuestra alteza puede estar segura de que pronto"
+      },
+      {
+        "id": "III2-33",
+        "number": 33,
+        "speaker": "",
+        "en": "He will, with Tamburlaine's destruction,",
+        "es": "os rescatará de esta mortal servidumbre"
+      },
+      {
+        "id": "III2-34",
+        "number": 34,
+        "speaker": "",
+        "en": "Redeem you from this deadly servitude.",
+        "es": "y destruirá a Tamerlán."
+      },
+      {
+        "id": "III2-35",
+        "number": 35,
+        "speaker": "ZENOCRATE",
+        "en": "Leave to wound me with these words,",
+        "es": "Dejad de herirme con esas palabras"
+      },
+      {
+        "id": "III2-36",
+        "number": 36,
+        "speaker": "",
+        "en": "And speak of Tamburlaine as he deserves:",
+        "es": "y hablad de Tamerlán como merece."
+      },
+      {
+        "id": "III2-37",
+        "number": 37,
+        "speaker": "",
+        "en": "The entertainment we have had of him",
+        "es": "El trato que nos ha dispensado"
+      },
+      {
+        "id": "III2-38",
+        "number": 38,
+        "speaker": "",
+        "en": "Is far from villany or servitude,",
+        "es": "está muy lejos de la vileza o la esclavitud"
+      },
+      {
+        "id": "III2-39",
+        "number": 39,
+        "speaker": "",
+        "en": "And might in noble minds be counted princely.",
+        "es": "y cualquier alma noble lo juzgaría principesco."
+      },
+      {
+        "id": "III2-40",
+        "number": 40,
+        "speaker": "AGYDAS",
+        "en": "How can you fancy one that looks so fierce,",
+        "es": "¿Cómo podéis amar a alguien de aspecto tan feroz,"
+      },
+      {
+        "id": "III2-41",
+        "number": 41,
+        "speaker": "",
+        "en": "Only dispos'd to martial stratagems?",
+        "es": "inclinado solo a las estratagemas militares?"
+      },
+      {
+        "id": "III2-42",
+        "number": 42,
+        "speaker": "",
+        "en": "Who, when he shall embrace you in his arms,",
+        "es": "Cuando os estreche entre sus brazos,"
+      },
+      {
+        "id": "III2-43",
+        "number": 43,
+        "speaker": "",
+        "en": "Will tell how many thousand men he slew;",
+        "es": "os contará cuántos miles de hombres ha matado;"
+      },
+      {
+        "id": "III2-44",
+        "number": 44,
+        "speaker": "",
+        "en": "And, when you look for amorous discourse,",
+        "es": "y cuando esperéis palabras de amor,"
+      },
+      {
+        "id": "III2-45",
+        "number": 45,
+        "speaker": "",
+        "en": "Will rattle forth his facts of war and blood,",
+        "es": "desgranará sus hazañas de guerra y sangre,"
+      },
+      {
+        "id": "III2-46",
+        "number": 46,
+        "speaker": "",
+        "en": "Too harsh a subject for your dainty ears.",
+        "es": "asunto demasiado áspero para vuestros delicados oídos."
+      },
+      {
+        "id": "III2-47",
+        "number": 47,
+        "speaker": "ZENOCRATE",
+        "en": "As looks the sun through Nilus' flowing stream,",
+        "es": "Como se ve el sol a través de las aguas corrientes del Nilo"
+      },
+      {
+        "id": "III2-48",
+        "number": 48,
+        "speaker": "",
+        "en": "Or when the Morning holds him in her arms,",
+        "es": "o cuando la Mañana lo sostiene entre sus brazos,"
+      },
+      {
+        "id": "III2-49",
+        "number": 49,
+        "speaker": "",
+        "en": "So looks my lordly love, fair Tamburlaine;",
+        "es": "así se ve mi amado señor, el hermoso Tamerlán."
+      },
+      {
+        "id": "III2-50",
+        "number": 50,
+        "speaker": "",
+        "en": "His talk much sweeter than the Muses' song",
+        "es": "Su voz es mucho más dulce que el canto de las Musas"
+      },
+      {
+        "id": "III2-51",
+        "number": 51,
+        "speaker": "",
+        "en": "They sung for honour 'gainst Pierides,",
+        "es": "cuando cantaron por su honor contra las Piérides,"
+      },
+      {
+        "id": "III2-52",
+        "number": 52,
+        "speaker": "",
+        "en": "Or when Minerva did with Neptune strive:",
+        "es": "o cuando Minerva disputó con Neptuno."
+      },
+      {
+        "id": "III2-53",
+        "number": 53,
+        "speaker": "",
+        "en": "And higher would I rear my estimate",
+        "es": "Y me tendría en mayor estima"
+      },
+      {
+        "id": "III2-54",
+        "number": 54,
+        "speaker": "",
+        "en": "Than Juno, sister to the highest god,",
+        "es": "que a Juno, hermana del dios supremo,"
+      },
+      {
+        "id": "III2-55",
+        "number": 55,
+        "speaker": "",
+        "en": "If I were match'd with mighty Tamburlaine.",
+        "es": "si me uniera en matrimonio con el poderoso Tamerlán."
+      },
+      {
+        "id": "III2-56",
+        "number": 56,
+        "speaker": "AGYDAS",
+        "en": "Yet be not so inconstant in your love,",
+        "es": "Pero no seáis tan inconstante en vuestro amor:"
+      },
+      {
+        "id": "III2-57",
+        "number": 57,
+        "speaker": "",
+        "en": "But let the young Arabian live in hope,",
+        "es": "dejad que el joven árabe conserve la esperanza"
+      },
+      {
+        "id": "III2-58",
+        "number": 58,
+        "speaker": "",
+        "en": "After your rescue to enjoy his choice.",
+        "es": "de gozar, después de vuestro rescate, de la prometida que eligió."
+      },
+      {
+        "id": "III2-59",
+        "number": 59,
+        "speaker": "",
+        "en": "You see, though first the king of Persia,",
+        "es": "Ya veis que, aunque el actual rey de Persia,"
+      },
+      {
+        "id": "III2-60",
+        "number": 60,
+        "speaker": "",
+        "en": "Being a shepherd, seem'd to love you much,",
+        "es": "cuando era pastor, parecía amaros tanto,"
+      },
+      {
+        "id": "III2-61",
+        "number": 61,
+        "speaker": "",
+        "en": "Now, in his majesty, he leaves those looks,",
+        "es": "ahora, en su majestad, ha abandonado aquellas miradas,"
+      },
+      {
+        "id": "III2-62",
+        "number": 62,
+        "speaker": "",
+        "en": "Those words of favour, and those comfortings,",
+        "es": "aquellas palabras de cariño y aquellos consuelos,"
+      },
+      {
+        "id": "III2-63",
+        "number": 63,
+        "speaker": "",
+        "en": "And gives no more than common courtesies.",
+        "es": "y apenas os ofrece las cortesías acostumbradas."
+      },
+      {
+        "id": "III2-64",
+        "number": 64,
+        "speaker": "ZENOCRATE",
+        "en": "Thence rise the tears that so distain my cheeks,",
+        "es": "De ahí nacen las lágrimas que manchan mis mejillas,"
+      },
+      {
+        "id": "III2-65",
+        "number": 65,
+        "speaker": "",
+        "en": "Fearing his love through my unworthiness.",
+        "es": "pues temo perder su amor por mi falta de merecimientos."
+      },
+      {
+        "id": "III2-66",
+        "number": 66,
+        "speaker": "AGYDAS",
+        "en": "Betray'd by fortune and suspicious love,",
+        "es": "Traicionado por la fortuna y por el amor suspicaz,"
+      },
+      {
+        "id": "III2-67",
+        "number": 67,
+        "speaker": "",
+        "en": "Threaten'd with frowning wrath and jealousy,",
+        "es": "amenazado por el ceño airado y los celos,"
+      },
+      {
+        "id": "III2-68",
+        "number": 68,
+        "speaker": "",
+        "en": "Surpris'd with fear of hideous revenge,",
+        "es": "sobrecogido por el temor de una espantosa venganza,"
+      },
+      {
+        "id": "III2-69",
+        "number": 69,
+        "speaker": "",
+        "en": "I stand aghast; but most astonied",
+        "es": "quedo aterrorizado; pero lo que más me asombra"
+      },
+      {
+        "id": "III2-70",
+        "number": 70,
+        "speaker": "",
+        "en": "To see his choler shut in secret thoughts,",
+        "es": "es ver cómo encierra su cólera en pensamientos secretos"
+      },
+      {
+        "id": "III2-71",
+        "number": 71,
+        "speaker": "",
+        "en": "And wrapt in silence of his angry soul:",
+        "es": "y la envuelve en el silencio de su alma furiosa."
+      },
+      {
+        "id": "III2-72",
+        "number": 72,
+        "speaker": "",
+        "en": "Upon his brows was pourtray'd ugly death;",
+        "es": "En su frente estaba retratada la horrible muerte;"
+      },
+      {
+        "id": "III2-73",
+        "number": 73,
+        "speaker": "",
+        "en": "And in his eyes the fury of his heart,",
+        "es": "en sus ojos, la furia de su corazón,"
+      },
+      {
+        "id": "III2-74",
+        "number": 74,
+        "speaker": "",
+        "en": "That shone as comets, menacing revenge,",
+        "es": "que brillaban como cometas amenazantes de venganza"
+      },
+      {
+        "id": "III2-75",
+        "number": 75,
+        "speaker": "",
+        "en": "And cast a pale complexion on his cheeks.",
+        "es": "y teñían sus mejillas de una palidez mortal."
+      },
+      {
+        "id": "III2-76",
+        "number": 76,
+        "speaker": "",
+        "en": "As when the seaman sees the Hyades",
+        "es": "Como cuando el marinero ve a las Híades"
+      },
+      {
+        "id": "III2-77",
+        "number": 77,
+        "speaker": "",
+        "en": "Gather an army of Cimmerian clouds,",
+        "es": "reunir un ejército de nubes cimerias"
+      },
+      {
+        "id": "III2-78",
+        "number": 78,
+        "speaker": "",
+        "en": "(Auster and Aquilon with winged steeds,",
+        "es": "—mientras Austro y Aquilón, sobre corceles alados,"
+      },
+      {
+        "id": "III2-79",
+        "number": 79,
+        "speaker": "",
+        "en": "All sweating, tilt about the watery heavens,",
+        "es": "empapados de sudor, se embisten por el cielo acuoso"
+      },
+      {
+        "id": "III2-80",
+        "number": 80,
+        "speaker": "",
+        "en": "With shivering spears enforcing thunder-claps,",
+        "es": "y hacen resonar los truenos con sus lanzas temblorosas,"
+      },
+      {
+        "id": "III2-81",
+        "number": 81,
+        "speaker": "",
+        "en": "And from their shields strike flames of lightning,)",
+        "es": "arrancando de sus escudos llamas de relámpago—,"
+      },
+      {
+        "id": "III2-82",
+        "number": 82,
+        "speaker": "",
+        "en": "All-fearful folds his sails, and sounds the main,",
+        "es": "repliega sus velas muerto de miedo y sondea el mar,"
+      },
+      {
+        "id": "III2-83",
+        "number": 83,
+        "speaker": "",
+        "en": "Lifting his prayers to the heavens for aid",
+        "es": "alzando plegarias al cielo para pedir ayuda"
+      },
+      {
+        "id": "III2-84",
+        "number": 84,
+        "speaker": "",
+        "en": "Against the terror of the winds and waves;",
+        "es": "contra el terror de los vientos y las olas;"
+      },
+      {
+        "id": "III2-85",
+        "number": 85,
+        "speaker": "",
+        "en": "So fares Agydas for the late-felt frowns,",
+        "es": "así se siente Agidas ante los ceños que acaba de sufrir,"
+      },
+      {
+        "id": "III2-86",
+        "number": 86,
+        "speaker": "",
+        "en": "That send a tempest to my daunted thoughts,",
+        "es": "que desencadenan una tempestad en mis pensamientos atemorizados"
+      },
+      {
+        "id": "III2-87",
+        "number": 87,
+        "speaker": "",
+        "en": "And make my soul divine her overthrow.",
+        "es": "y hacen que mi alma presienta su ruina."
+      },
+      {
+        "id": "III2-88",
+        "number": 88,
+        "speaker": "TECHELLES",
+        "en": "See you, Agydas, how the king salutes you!",
+        "es": "¿Ves, Agidas, cómo te saluda el rey?"
+      },
+      {
+        "id": "III2-89",
+        "number": 89,
+        "speaker": "",
+        "en": "He bids you prophesy what it imports.",
+        "es": "Te invita a profetizar qué significa."
+      },
+      {
+        "id": "III2-90",
+        "number": 90,
+        "speaker": "AGYDAS",
+        "en": "I prophesied before, and now I prove",
+        "es": "Ya lo profeticé antes, y ahora compruebo"
+      },
+      {
+        "id": "III2-91",
+        "number": 91,
+        "speaker": "",
+        "en": "The killing frowns of jealousy and love.",
+        "es": "que esos ceños mortales revelaban celos y amor."
+      },
+      {
+        "id": "III2-92",
+        "number": 92,
+        "speaker": "",
+        "en": "He needed not with words confirm my fear,",
+        "es": "No necesitaba confirmar mi temor con palabras,"
+      },
+      {
+        "id": "III2-93",
+        "number": 93,
+        "speaker": "",
+        "en": "For words are vain where working tools present",
+        "es": "pues las palabras sobran cuando las señales activas muestran"
+      },
+      {
+        "id": "III2-94",
+        "number": 94,
+        "speaker": "",
+        "en": "The naked action of my threaten'd end:",
+        "es": "al desnudo la ejecución de mi amenazado fin."
+      },
+      {
+        "id": "III2-95",
+        "number": 95,
+        "speaker": "",
+        "en": "It says, Agydas, thou shalt surely die,",
+        "es": "Esto dice: «Agidas, morirás sin remedio;"
+      },
+      {
+        "id": "III2-96",
+        "number": 96,
+        "speaker": "",
+        "en": "And of extremities elect the least;",
+        "es": "elige el menor de dos males extremos»."
+      },
+      {
+        "id": "III2-97",
+        "number": 97,
+        "speaker": "",
+        "en": "More honour and less pain it may procure,",
+        "es": "Quizá me aporte más honor y menos sufrimiento"
+      },
+      {
+        "id": "III2-98",
+        "number": 98,
+        "speaker": "",
+        "en": "To die by this resolved hand of thine",
+        "es": "morir por esta mano mía, ya decidida,"
+      },
+      {
+        "id": "III2-99",
+        "number": 99,
+        "speaker": "",
+        "en": "Than stay the torments he and heaven have sworn.",
+        "es": "que aguardar los tormentos que él y el cielo han jurado infligirme."
+      },
+      {
+        "id": "III2-100",
+        "number": 100,
+        "speaker": "",
+        "en": "Then haste, Agydas, and prevent the plagues",
+        "es": "Apresúrate, Agidas, y evita las desgracias"
+      },
+      {
+        "id": "III2-101",
+        "number": 101,
+        "speaker": "",
+        "en": "Which thy prolonged fates may draw on thee:",
+        "es": "que la prolongación de tu destino puede atraerte."
+      },
+      {
+        "id": "III2-102",
+        "number": 102,
+        "speaker": "",
+        "en": "Go wander free from fear of tyrant's rage,",
+        "es": "Ve, vaga libre del temor a la cólera del tirano,"
+      },
+      {
+        "id": "III2-103",
+        "number": 103,
+        "speaker": "",
+        "en": "Removed from the torments and the hell",
+        "es": "lejos de los tormentos y del infierno"
+      },
+      {
+        "id": "III2-104",
+        "number": 104,
+        "speaker": "",
+        "en": "Wherewith he may excruciate thy soul;",
+        "es": "con los que podría torturar tu alma."
+      },
+      {
+        "id": "III2-105",
+        "number": 105,
+        "speaker": "",
+        "en": "And let Agydas by Agydas die,",
+        "es": "Que Agidas muera a manos de Agidas"
+      },
+      {
+        "id": "III2-106",
+        "number": 106,
+        "speaker": "",
+        "en": "And with this stab slumber eternally.",
+        "es": "y con esta puñalada duerma eternamente."
+      },
+      {
+        "id": "III2-107",
+        "number": 107,
+        "speaker": "TECHELLES",
+        "en": "Usumcasane, see, how right the man",
+        "es": "Usumcasane, mira con cuánta exactitud"
+      },
+      {
+        "id": "III2-108",
+        "number": 108,
+        "speaker": "",
+        "en": "Hath hit the meaning of my lord the king!",
+        "es": "ha comprendido este hombre las intenciones de mi señor el rey."
+      },
+      {
+        "id": "III2-109",
+        "number": 109,
+        "speaker": "USUMCASANE",
+        "en": "Faith, and, Techelles, it was manly done;",
+        "es": "En verdad, Tequeles, ha actuado como un hombre valeroso;"
+      },
+      {
+        "id": "III2-110",
+        "number": 110,
+        "speaker": "",
+        "en": "And, since he was so wise and honourable,",
+        "es": "y como fue tan sabio y honorable,"
+      },
+      {
+        "id": "III2-111",
+        "number": 111,
+        "speaker": "",
+        "en": "Let us afford him now the bearing hence,",
+        "es": "concedámosle ahora que se lleven su cuerpo"
+      },
+      {
+        "id": "III2-112",
+        "number": 112,
+        "speaker": "",
+        "en": "And crave his triple-worthy burial.",
+        "es": "y solicitemos para él un entierro digno por partida triple."
+      },
+      {
+        "id": "III2-113",
+        "number": 113,
+        "speaker": "TECHELLES",
+        "en": "Agreed, Casane; we will honour him.",
+        "es": "De acuerdo, Casane: lo honraremos."
+      }
+    ],
+    "3": [
+      {
+        "id": "III3-1",
+        "number": 1,
+        "speaker": "TAMBURLAINE",
+        "en": "Basso, by this thy lord and master knows",
+        "es": "Bajá, a estas alturas tu señor y amo ya sabe"
+      },
+      {
+        "id": "III3-2",
+        "number": 2,
+        "speaker": "",
+        "en": "I mean to meet him in Bithynia:",
+        "es": "que pienso enfrentarme a él en Bitinia."
+      },
+      {
+        "id": "III3-3",
+        "number": 3,
+        "speaker": "",
+        "en": "See, how he comes! tush, Turks are full of brags,",
+        "es": "¡Mira cómo se acerca! Bah, los turcos son pura jactancia"
+      },
+      {
+        "id": "III3-4",
+        "number": 4,
+        "speaker": "",
+        "en": "And menace more than they can well perform.",
+        "es": "y amenazan más de lo que pueden cumplir."
+      },
+      {
+        "id": "III3-5",
+        "number": 5,
+        "speaker": "",
+        "en": "He meet me in the field, and fetch thee hence!",
+        "es": "¡Él encontrarse conmigo en batalla y llevarte de aquí!"
+      },
+      {
+        "id": "III3-6",
+        "number": 6,
+        "speaker": "",
+        "en": "Alas, poor Turk! his fortune is too weak",
+        "es": "¡Ay, pobre turco! Su fortuna es demasiado débil"
+      },
+      {
+        "id": "III3-7",
+        "number": 7,
+        "speaker": "",
+        "en": "T' encounter with the strength of Tamburlaine:",
+        "es": "para resistir el poder de Tamerlán."
+      },
+      {
+        "id": "III3-8",
+        "number": 8,
+        "speaker": "",
+        "en": "View well my camp, and speak indifferently;",
+        "es": "Observa bien mi campamento y habla con imparcialidad:"
+      },
+      {
+        "id": "III3-9",
+        "number": 9,
+        "speaker": "",
+        "en": "Do not my captains and my soldiers look",
+        "es": "¿no parecen mis capitanes y mis soldados"
+      },
+      {
+        "id": "III3-10",
+        "number": 10,
+        "speaker": "",
+        "en": "As if they meant to conquer Africa?",
+        "es": "dispuestos a conquistar África?"
+      },
+      {
+        "id": "III3-11",
+        "number": 11,
+        "speaker": "BASSO",
+        "en": "Your men are valiant, but their number few,",
+        "es": "Vuestros hombres son valientes, pero demasiado pocos;"
+      },
+      {
+        "id": "III3-12",
+        "number": 12,
+        "speaker": "",
+        "en": "And cannot terrify his mighty host:",
+        "es": "no pueden aterrorizar a su poderoso ejército."
+      },
+      {
+        "id": "III3-13",
+        "number": 13,
+        "speaker": "",
+        "en": "My lord, the great commander of the world,",
+        "es": "Mi señor, el gran caudillo del mundo,"
+      },
+      {
+        "id": "III3-14",
+        "number": 14,
+        "speaker": "",
+        "en": "Besides fifteen contributory kings,",
+        "es": "además de quince reyes tributarios,"
+      },
+      {
+        "id": "III3-15",
+        "number": 15,
+        "speaker": "",
+        "en": "Hath now in arms ten thousand janizaries,",
+        "es": "tiene ahora en armas diez mil jenízaros"
+      },
+      {
+        "id": "III3-16",
+        "number": 16,
+        "speaker": "",
+        "en": "Mounted on lusty Mauritanian steeds,",
+        "es": "montados sobre vigorosos corceles mauritanos,"
+      },
+      {
+        "id": "III3-17",
+        "number": 17,
+        "speaker": "",
+        "en": "Brought to the war by men of Tripoly;",
+        "es": "que los hombres de Trípoli trajeron a la guerra;"
+      },
+      {
+        "id": "III3-18",
+        "number": 18,
+        "speaker": "",
+        "en": "Two hundred thousand footmen that have serv'd",
+        "es": "doscientos mil soldados de infantería que han servido"
+      },
+      {
+        "id": "III3-19",
+        "number": 19,
+        "speaker": "",
+        "en": "In two set battles fought in Graecia;",
+        "es": "en dos batallas campales libradas en Grecia;"
+      },
+      {
+        "id": "III3-20",
+        "number": 20,
+        "speaker": "",
+        "en": "And for the expedition of this war,",
+        "es": "y, para esta expedición, si le parece conveniente,"
+      },
+      {
+        "id": "III3-21",
+        "number": 21,
+        "speaker": "",
+        "en": "If he think good, can from his garrisons",
+        "es": "puede retirar de sus guarniciones"
+      },
+      {
+        "id": "III3-22",
+        "number": 22,
+        "speaker": "",
+        "en": "Withdraw as many more to follow him.",
+        "es": "otros tantos hombres para seguirlo."
+      },
+      {
+        "id": "III3-23",
+        "number": 23,
+        "speaker": "TECHELLES",
+        "en": "The more he brings, the greater is the spoil;",
+        "es": "Cuantos más traiga, mayor será el botín;"
+      },
+      {
+        "id": "III3-24",
+        "number": 24,
+        "speaker": "",
+        "en": "For, when they perish by our warlike hands,",
+        "es": "porque, cuando caigan bajo nuestras manos guerreras,"
+      },
+      {
+        "id": "III3-25",
+        "number": 25,
+        "speaker": "",
+        "en": "We mean to set our footmen on their steeds,",
+        "es": "montaremos a nuestra infantería en sus caballos"
+      },
+      {
+        "id": "III3-26",
+        "number": 26,
+        "speaker": "",
+        "en": "And rifle all those stately janizars.",
+        "es": "y despojaremos a esos magníficos jenízaros."
+      },
+      {
+        "id": "III3-27",
+        "number": 27,
+        "speaker": "TAMBURLAINE",
+        "en": "But will those kings accompany your lord?",
+        "es": "Pero ¿acompañarán esos reyes a tu señor?"
+      },
+      {
+        "id": "III3-28",
+        "number": 28,
+        "speaker": "BASSO",
+        "en": "Such as his highness please; but some must stay",
+        "es": "Los que su alteza quiera; pero algunos deberán quedarse"
+      },
+      {
+        "id": "III3-29",
+        "number": 29,
+        "speaker": "",
+        "en": "To rule the provinces he late subdu'd.",
+        "es": "a gobernar las provincias que acaba de someter."
+      },
+      {
+        "id": "III3-30",
+        "number": 30,
+        "speaker": "TAMBURLAINE",
+        "en": "Then fight courageously: their crowns are yours;",
+        "es": "Entonces luchad con valentía: sus coronas serán vuestras."
+      },
+      {
+        "id": "III3-31",
+        "number": 31,
+        "speaker": "",
+        "en": "This hand shall set them on your conquering heads,",
+        "es": "Esta mano las pondrá sobre vuestras cabezas victoriosas,"
+      },
+      {
+        "id": "III3-32",
+        "number": 32,
+        "speaker": "",
+        "en": "That made me emperor of Asia.",
+        "es": "la misma que me hizo emperador de Asia."
+      },
+      {
+        "id": "III3-33",
+        "number": 33,
+        "speaker": "USUMCASANE",
+        "en": "Let him bring millions infinite of men,",
+        "es": "Que traiga incontables millones de hombres,"
+      },
+      {
+        "id": "III3-34",
+        "number": 34,
+        "speaker": "",
+        "en": "Unpeopling Western Africa and Greece,",
+        "es": "dejando sin población el África occidental y Grecia;"
+      },
+      {
+        "id": "III3-35",
+        "number": 35,
+        "speaker": "",
+        "en": "Yet we assure us of the victory.",
+        "es": "aun así, tenemos asegurada la victoria."
+      },
+      {
+        "id": "III3-36",
+        "number": 36,
+        "speaker": "THERIDAMAS",
+        "en": "Even he, that in a trice vanquish'd two kings",
+        "es": "El mismo que venció en un instante a dos reyes"
+      },
+      {
+        "id": "III3-37",
+        "number": 37,
+        "speaker": "",
+        "en": "More mighty than the Turkish emperor,",
+        "es": "más poderosos que el emperador de los turcos"
+      },
+      {
+        "id": "III3-38",
+        "number": 38,
+        "speaker": "",
+        "en": "Shall rouse him out of Europe, and pursue",
+        "es": "lo expulsará de Europa y perseguirá"
+      },
+      {
+        "id": "III3-39",
+        "number": 39,
+        "speaker": "",
+        "en": "His scatter'd army till they yield or die.",
+        "es": "a su ejército disperso hasta que se rinda o muera."
+      },
+      {
+        "id": "III3-40",
+        "number": 40,
+        "speaker": "TAMBURLAINE",
+        "en": "Well said, Theridamas! speak in that mood;",
+        "es": "¡Bien dicho, Teridamas! Habla siempre así;"
+      },
+      {
+        "id": "III3-41",
+        "number": 41,
+        "speaker": "",
+        "en": "For WILL and SHALL best fitteth Tamburlaine,",
+        "es": "pues «quiero» y «haré» son las palabras que mejor convienen a Tamerlán,"
+      },
+      {
+        "id": "III3-42",
+        "number": 42,
+        "speaker": "",
+        "en": "Whose smiling stars give him assured hope",
+        "es": "cuyas estrellas sonrientes le dan segura esperanza"
+      },
+      {
+        "id": "III3-43",
+        "number": 43,
+        "speaker": "",
+        "en": "Of martial triumph ere he meet his foes.",
+        "es": "de triunfar en batalla antes de encontrar al enemigo."
+      },
+      {
+        "id": "III3-44",
+        "number": 44,
+        "speaker": "",
+        "en": "I that am term'd the scourge and wrath of God,",
+        "es": "Yo, a quien llaman azote e ira de Dios,"
+      },
+      {
+        "id": "III3-45",
+        "number": 45,
+        "speaker": "",
+        "en": "The only fear and terror of the world,",
+        "es": "único espanto y terror del mundo,"
+      },
+      {
+        "id": "III3-46",
+        "number": 46,
+        "speaker": "",
+        "en": "Will first subdue the Turk, and then enlarge",
+        "es": "primero someteré al turco y luego liberaré"
+      },
+      {
+        "id": "III3-47",
+        "number": 47,
+        "speaker": "",
+        "en": "Those Christian captives which you keep as slaves,",
+        "es": "a esos cautivos cristianos que mantenéis como esclavos,"
+      },
+      {
+        "id": "III3-48",
+        "number": 48,
+        "speaker": "",
+        "en": "Burdening their bodies with your heavy chains,",
+        "es": "oprimiendo sus cuerpos con pesadas cadenas"
+      },
+      {
+        "id": "III3-49",
+        "number": 49,
+        "speaker": "",
+        "en": "And feeding them with thin and slender fare;",
+        "es": "y alimentándolos con raciones escasas y miserables;"
+      },
+      {
+        "id": "III3-50",
+        "number": 50,
+        "speaker": "",
+        "en": "That naked row about the Terrene sea,",
+        "es": "que, desnudos, reman por todo el Mediterráneo"
+      },
+      {
+        "id": "III3-51",
+        "number": 51,
+        "speaker": "",
+        "en": "And, when they chance to rest or breathe a space,",
+        "es": "y, cuando intentan descansar o recuperar el aliento,"
+      },
+      {
+        "id": "III3-52",
+        "number": 52,
+        "speaker": "",
+        "en": "Are punish'd with bastones so grievously",
+        "es": "reciben golpes de bastón tan crueles"
+      },
+      {
+        "id": "III3-53",
+        "number": 53,
+        "speaker": "",
+        "en": "That they lie panting on the galleys' side,",
+        "es": "que quedan jadeando sobre el costado de las galeras"
+      },
+      {
+        "id": "III3-54",
+        "number": 54,
+        "speaker": "",
+        "en": "And strive for life at every stroke they give.",
+        "es": "y luchan por sobrevivir a cada golpe que les dan."
+      },
+      {
+        "id": "III3-55",
+        "number": 55,
+        "speaker": "",
+        "en": "These are the cruel pirates of Argier,",
+        "es": "Esos son los crueles piratas de Argel,"
+      },
+      {
+        "id": "III3-56",
+        "number": 56,
+        "speaker": "",
+        "en": "That damned train, the scum of Africa,",
+        "es": "esa banda maldita, la escoria de África,"
+      },
+      {
+        "id": "III3-57",
+        "number": 57,
+        "speaker": "",
+        "en": "Inhabited with straggling runagates,",
+        "es": "poblada de fugitivos vagabundos"
+      },
+      {
+        "id": "III3-58",
+        "number": 58,
+        "speaker": "",
+        "en": "That make quick havoc of the Christian blood:",
+        "es": "que derraman sin demora la sangre cristiana."
+      },
+      {
+        "id": "III3-59",
+        "number": 59,
+        "speaker": "",
+        "en": "But, as I live, that town shall curse the time",
+        "es": "Pero, por mi vida, esa ciudad maldecirá el día"
+      },
+      {
+        "id": "III3-60",
+        "number": 60,
+        "speaker": "",
+        "en": "That Tamburlaine set foot in Africa.",
+        "es": "en que Tamerlán puso los pies en África."
+      },
+      {
+        "id": "III3-61",
+        "number": 61,
+        "speaker": "BAJAZETH",
+        "en": "Bassoes and janizaries of my guard,",
+        "es": "Bajás y jenízaros de mi guardia,"
+      },
+      {
+        "id": "III3-62",
+        "number": 62,
+        "speaker": "",
+        "en": "Attend upon the person of your lord,",
+        "es": "velad por la persona de vuestro señor,"
+      },
+      {
+        "id": "III3-63",
+        "number": 63,
+        "speaker": "",
+        "en": "The greatest potentate of Africa.",
+        "es": "el más poderoso soberano de África."
+      },
+      {
+        "id": "III3-64",
+        "number": 64,
+        "speaker": "TAMBURLAINE",
+        "en": "Techelles and the rest, prepare your swords;",
+        "es": "Tequeles y los demás, preparad vuestras espadas;"
+      },
+      {
+        "id": "III3-65",
+        "number": 65,
+        "speaker": "",
+        "en": "I mean t' encounter with that Bajazeth.",
+        "es": "pienso enfrentarme a ese Bayaceto."
+      },
+      {
+        "id": "III3-66",
+        "number": 66,
+        "speaker": "BAJAZETH",
+        "en": "Kings of Fez, Morocco, and Argier,",
+        "es": "Reyes de Fez, Marruecos y Argel,"
+      },
+      {
+        "id": "III3-67",
+        "number": 67,
+        "speaker": "",
+        "en": "He calls me Bajazeth, whom you call lord!",
+        "es": "¡me llama Bayaceto a mí, a quien vosotros llamáis señor!"
+      },
+      {
+        "id": "III3-68",
+        "number": 68,
+        "speaker": "",
+        "en": "Note the presumption of this Scythian slave!—",
+        "es": "¡Fijaos en la presunción de este esclavo escita!"
+      },
+      {
+        "id": "III3-69",
+        "number": 69,
+        "speaker": "",
+        "en": "I tell thee, villain, those that lead my horse",
+        "es": "Te digo, miserable, que quienes conducen mis caballos"
+      },
+      {
+        "id": "III3-70",
+        "number": 70,
+        "speaker": "",
+        "en": "Have to their names titles of dignity;",
+        "es": "ostentan títulos de dignidad;"
+      },
+      {
+        "id": "III3-71",
+        "number": 71,
+        "speaker": "",
+        "en": "And dar'st thou bluntly call me Bajazeth?",
+        "es": "¿y te atreves a llamarme simplemente Bayaceto?"
+      },
+      {
+        "id": "III3-72",
+        "number": 72,
+        "speaker": "TAMBURLAINE",
+        "en": "And know, thou Turk, that those which lead my horse",
+        "es": "Y tú debes saber, turco, que quienes conducen mis caballos"
+      },
+      {
+        "id": "III3-73",
+        "number": 73,
+        "speaker": "",
+        "en": "Shall lead thee captive thorough Africa;",
+        "es": "te llevarán cautivo a través de África."
+      },
+      {
+        "id": "III3-74",
+        "number": 74,
+        "speaker": "",
+        "en": "And dar'st thou bluntly call me Tamburlaine?",
+        "es": "¿Y tú te atreves a llamarme simplemente Tamerlán?"
+      },
+      {
+        "id": "III3-75",
+        "number": 75,
+        "speaker": "BAJAZETH",
+        "en": "By Mahomet my kinsman's sepulchre,",
+        "es": "Por la tumba de Mahoma, mi pariente,"
+      },
+      {
+        "id": "III3-76",
+        "number": 76,
+        "speaker": "",
+        "en": "And by the holy Alcoran I swear,",
+        "es": "y por el sagrado Corán, juro"
+      },
+      {
+        "id": "III3-77",
+        "number": 77,
+        "speaker": "",
+        "en": "He shall be made a chaste and lustless eunuch,",
+        "es": "Será convertido en un eunuco casto y sin deseo"
+      },
+      {
+        "id": "III3-78",
+        "number": 78,
+        "speaker": "",
+        "en": "And in my sarell tend my concubines;",
+        "es": "y atenderá a mis concubinas en el serrallo."
+      },
+      {
+        "id": "III3-79",
+        "number": 79,
+        "speaker": "",
+        "en": "And all his captains, that thus stoutly stand,",
+        "es": "Y todos sus capitanes, que tan valientes se muestran,"
+      },
+      {
+        "id": "III3-80",
+        "number": 80,
+        "speaker": "",
+        "en": "Shall draw the chariot of my emperess,",
+        "es": "tirarán del carro de mi emperatriz,"
+      },
+      {
+        "id": "III3-81",
+        "number": 81,
+        "speaker": "",
+        "en": "Whom I have brought to see their overthrow!",
+        "es": "a quien he traído para contemplar su derrota."
+      },
+      {
+        "id": "III3-82",
+        "number": 82,
+        "speaker": "TAMBURLAINE",
+        "en": "By this my sword that conquer'd Persia,",
+        "es": "¡Por esta espada mía que conquistó Persia,"
+      },
+      {
+        "id": "III3-83",
+        "number": 83,
+        "speaker": "",
+        "en": "Thy fall shall make me famous through the world!",
+        "es": "tu caída me hará famoso por todo el mundo!"
+      },
+      {
+        "id": "III3-84",
+        "number": 84,
+        "speaker": "",
+        "en": "I will not tell thee how I'll handle thee,",
+        "es": "No voy a decirte cómo te trataré,"
+      },
+      {
+        "id": "III3-85",
+        "number": 85,
+        "speaker": "",
+        "en": "But every common soldier of my camp",
+        "es": "pero hasta el soldado más humilde de mi campamento"
+      },
+      {
+        "id": "III3-86",
+        "number": 86,
+        "speaker": "",
+        "en": "Shall smile to see thy miserable state.",
+        "es": "sonreirá al contemplar tu miserable condición."
+      },
+      {
+        "id": "III3-87",
+        "number": 87,
+        "speaker": "KING OF FEZ",
+        "en": "What means the mighty Turkish emperor,",
+        "es": "¿Qué pretende el poderoso emperador turco"
+      },
+      {
+        "id": "III3-88",
+        "number": 88,
+        "speaker": "",
+        "en": "To talk with one so base as Tamburlaine?",
+        "es": "hablando con alguien tan bajo como Tamerlán?"
+      },
+      {
+        "id": "III3-89",
+        "number": 89,
+        "speaker": "KING OF MOROCCO",
+        "en": "Ye Moors and valiant men of Barbary.",
+        "es": "¡Moros y valientes hombres de Berbería!"
+      },
+      {
+        "id": "III3-90",
+        "number": 90,
+        "speaker": "",
+        "en": "How can ye suffer these indignities?",
+        "es": "¿Cómo podéis tolerar semejantes afrentas?"
+      },
+      {
+        "id": "III3-91",
+        "number": 91,
+        "speaker": "KING OF ARGIER",
+        "en": "Leave words, and let them feel your lances'",
+        "es": "Dejad las palabras y hacedles sentir las puntas"
+      },
+      {
+        "id": "III3-92",
+        "number": 92,
+        "speaker": "",
+        "en": "points,",
+        "es": "de vuestras lanzas,"
+      },
+      {
+        "id": "III3-93",
+        "number": 93,
+        "speaker": "",
+        "en": "Which glided through the bowels of the Greeks.",
+        "es": "que atravesaron las entrañas de los griegos."
+      },
+      {
+        "id": "III3-94",
+        "number": 94,
+        "speaker": "BAJAZETH",
+        "en": "Well said, my stout contributory kings!",
+        "es": "¡Bien dicho, valientes reyes tributarios!"
+      },
+      {
+        "id": "III3-95",
+        "number": 95,
+        "speaker": "",
+        "en": "Your threefold army and my hugy host",
+        "es": "Vuestros tres ejércitos y mi inmensa hueste"
+      },
+      {
+        "id": "III3-96",
+        "number": 96,
+        "speaker": "",
+        "en": "Shall swallow up these base-born Persians.",
+        "es": "se tragarán a esos persas de baja cuna."
+      },
+      {
+        "id": "III3-97",
+        "number": 97,
+        "speaker": "TECHELLES",
+        "en": "Puissant, renowm'd, and mighty Tamburlaine,",
+        "es": "Poderoso, célebre y gran Tamerlán,"
+      },
+      {
+        "id": "III3-98",
+        "number": 98,
+        "speaker": "",
+        "en": "Why stay we thus prolonging of their lives?",
+        "es": "¿por qué seguimos prolongando sus vidas?"
+      },
+      {
+        "id": "III3-99",
+        "number": 99,
+        "speaker": "THERIDAMAS",
+        "en": "I long to see those crowns won by our swords,",
+        "es": "Ansío ver aquellas coronas ganadas por nuestras espadas"
+      },
+      {
+        "id": "III3-100",
+        "number": 100,
+        "speaker": "",
+        "en": "That we may rule as kings of Africa.",
+        "es": "para que reinemos como reyes de África."
+      },
+      {
+        "id": "III3-101",
+        "number": 101,
+        "speaker": "USUMCASANE",
+        "en": "What coward would not fight for such a prize?",
+        "es": "¿Qué cobarde no lucharía por semejante premio?"
+      },
+      {
+        "id": "III3-102",
+        "number": 102,
+        "speaker": "TAMBURLAINE",
+        "en": "Fight all courageously, and be you kings:",
+        "es": "Combatid todos con valentía y seréis reyes."
+      },
+      {
+        "id": "III3-103",
+        "number": 103,
+        "speaker": "",
+        "en": "I speak it, and my words are oracles.",
+        "es": "Yo lo digo, y mis palabras son oráculos."
+      },
+      {
+        "id": "III3-104",
+        "number": 104,
+        "speaker": "BAJAZETH",
+        "en": "Zabina, mother of three braver boys",
+        "es": "Zabina, madre de tres hijos más valientes"
+      },
+      {
+        "id": "III3-105",
+        "number": 105,
+        "speaker": "",
+        "en": "Than Hercules, that in his infancy",
+        "es": "que Hércules, quien en su infancia"
+      },
+      {
+        "id": "III3-106",
+        "number": 106,
+        "speaker": "",
+        "en": "Did pash the jaws of serpents venomous;",
+        "es": "destrozó las mandíbulas de serpientes venenosas;"
+      },
+      {
+        "id": "III3-107",
+        "number": 107,
+        "speaker": "",
+        "en": "Whose hands are made to gripe a warlike lance,",
+        "es": "cuyas manos están hechas para empuñar lanzas guerreras,"
+      },
+      {
+        "id": "III3-108",
+        "number": 108,
+        "speaker": "",
+        "en": "Their shoulders broad for complete armour fit,",
+        "es": "cuyos hombros anchos soportan armaduras completas,"
+      },
+      {
+        "id": "III3-109",
+        "number": 109,
+        "speaker": "",
+        "en": "Their limbs more large and of a bigger size",
+        "es": "cuyos miembros son más grandes y robustos"
+      },
+      {
+        "id": "III3-110",
+        "number": 110,
+        "speaker": "",
+        "en": "Than all the brats y-sprung from Typhon's loins;",
+        "es": "que los de todos los engendros nacidos de Tifón;"
+      },
+      {
+        "id": "III3-111",
+        "number": 111,
+        "speaker": "",
+        "en": "Who, when they come unto their father's age,",
+        "es": "quienes, cuando alcancen la edad de su padre,"
+      },
+      {
+        "id": "III3-112",
+        "number": 112,
+        "speaker": "",
+        "en": "Will batter turrets with their manly fists;—",
+        "es": "derribarán torres con sus puños de hombres;"
+      },
+      {
+        "id": "III3-113",
+        "number": 113,
+        "speaker": "",
+        "en": "Sit here upon this royal chair of state,",
+        "es": "siéntate aquí en este trono real"
+      },
+      {
+        "id": "III3-114",
+        "number": 114,
+        "speaker": "",
+        "en": "And on thy head wear my imperial crown,",
+        "es": "y lleva en tu cabeza mi corona imperial"
+      },
+      {
+        "id": "III3-115",
+        "number": 115,
+        "speaker": "",
+        "en": "Until I bring this sturdy Tamburlaine",
+        "es": "hasta que traiga a ese obstinado Tamerlán"
+      },
+      {
+        "id": "III3-116",
+        "number": 116,
+        "speaker": "",
+        "en": "And all his captains bound in captive chains.",
+        "es": "y a todos sus capitanes cargados de cadenas."
+      },
+      {
+        "id": "III3-117",
+        "number": 117,
+        "speaker": "ZABINA",
+        "en": "Such good success happen to Bajazeth!",
+        "es": "¡Que Bayaceto tenga semejante éxito!"
+      },
+      {
+        "id": "III3-118",
+        "number": 118,
+        "speaker": "TAMBURLAINE",
+        "en": "Zenocrate, the loveliest maid alive,",
+        "es": "Zenócrate, la doncella más hermosa que vive,"
+      },
+      {
+        "id": "III3-119",
+        "number": 119,
+        "speaker": "",
+        "en": "Fairer than rocks of pearl and precious stone,",
+        "es": "más bella que peñascos de perlas y piedras preciosas,"
+      },
+      {
+        "id": "III3-120",
+        "number": 120,
+        "speaker": "",
+        "en": "The only paragon of Tamburlaine;",
+        "es": "único modelo de perfección para Tamerlán;"
+      },
+      {
+        "id": "III3-121",
+        "number": 121,
+        "speaker": "",
+        "en": "Whose eyes are brighter than the lamps of heaven,",
+        "es": "cuyos ojos brillan más que las luminarias celestes"
+      },
+      {
+        "id": "III3-122",
+        "number": 122,
+        "speaker": "",
+        "en": "And speech more pleasant than sweet harmony;",
+        "es": "y cuya voz es más agradable que la dulce armonía;"
+      },
+      {
+        "id": "III3-123",
+        "number": 123,
+        "speaker": "",
+        "en": "That with thy looks canst clear the darken'd sky,",
+        "es": "tú, que con tu mirada puedes despejar el cielo oscurecido"
+      },
+      {
+        "id": "III3-124",
+        "number": 124,
+        "speaker": "",
+        "en": "And calm the rage of thundering Jupiter;",
+        "es": "y calmar la ira del tonante Júpiter,"
+      },
+      {
+        "id": "III3-125",
+        "number": 125,
+        "speaker": "",
+        "en": "Sit down by her, adorned with my crown,",
+        "es": "siéntate junto a ella, adornada con mi corona,"
+      },
+      {
+        "id": "III3-126",
+        "number": 126,
+        "speaker": "",
+        "en": "As if thou wert the empress of the world.",
+        "es": "como si fueras la emperatriz del mundo."
+      },
+      {
+        "id": "III3-127",
+        "number": 127,
+        "speaker": "",
+        "en": "Stir not, Zenocrate, until thou see",
+        "es": "No te muevas, Zenócrate, hasta que veas"
       }
     ]
   }

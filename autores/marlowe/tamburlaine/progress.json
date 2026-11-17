@@ -105,15 +105,35 @@
       "scene": 1,
       "publishedLines": [
         1,
-        7
+        67
       ],
-      "nextLine": 8,
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "publishedLines": [
+        1,
+        113
+      ],
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "publishedLines": [
+        1,
+        127
+      ],
+      "nextLine": 128,
       "complete": false
     }
   ],
-  "publishedVerseLines": 928,
+  "publishedVerseLines": 1228,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Translation-only draft: Acts I–II now complete; III.1.1–7 published. Dyce used for new section. Recheck source variants and historical spellings in later philological round.",
+  "editorialReview": "Acts I–II complete. III.1 and III.2 complete, III.3.1–127 provisional translation. Dyce text for additions; line-stage distinction normalized in III.3; later verify against Neilson and 1590.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -123,10 +143,20 @@
   "next": {
     "part": 1,
     "act": 3,
-    "scene": 1,
-    "line": 8
+    "scene": 3,
+    "line": 128
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "III.1.8–67 (60), III.2.1–113 (113), III.3.1–127 (127)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce via Project Gutenberg 1094; textual collation pending",
+    "editorialCorrection": "III.3 stage aside after 29 kept unnumbered"
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "II.3.29–66 (38), II.4.1–42 (42), II.5.1–106 (106), II.6.1–40 (40), II.7.1–67 (67), III.1.1–7 (7)",
@@ -134,14 +164,5 @@
     "lexicalEntriesAdded": 0,
     "status": "first translation draft",
     "source": "Alexander Dyce via Project Gutenberg 1094; collation with Neilson 1911 and first edition pending"
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "I.1.21–189 (169 lines); I.2.1–131 (131 lines)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "A. Dyce edition via Project Gutenberg eBook 1094; collation with Neilson pending"
   }
 }
