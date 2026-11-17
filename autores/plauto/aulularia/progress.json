@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Auditoría de 367–406; pruebas visuales y cotejo aparato Leo pendientes.",
+  "next": "Revisión 407–446; investigar crux optati 406 y variantes del aparato Leo.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 366,
-    "next_verse": 367,
+    "reviewed_through_verse": 406,
+    "next_verse": 407,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática de 327–366, 40 versos; correcciones morfológicas puntuales y ficha de sigla CONG. No equivale a cotejo exhaustivo del aparato Leo ni QA en navegador.",
+    "note": "Auditoría estática correlativa hasta 406; pendientes colación de aparato Leo, variantes difíciles y QA en navegador.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1806,6 +1806,19 @@
           "https://catalog.perseus.org/catalog/urn:cts:latinLit:phi0119.phi003.perseus-lat1"
         ],
         "note": "Cotejados los 40 versos y sus fichas, traducciones y formas con fuentes textuales; identificada sigla CONG en 349 y agregada ficha sin alterar el texto ni offsets; precisados iniuria, Eleusium, quid y coctam. Suplemento 328a y laguna 329 mantenidos. Requiere revisión crítica más profunda de aparato Leo y prueba funcional en navegador."
+      },
+      {
+        "section": "II.7–III.1",
+        "from": 367,
+        "to": 406,
+        "verses": 40,
+        "tokens": 256,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+        ],
+        "note": "Auditoría estática verso por verso de texto, traducción y fichas; correspondencia de tokens comprobada. Precisados cenati, nil negoti, cenaene causa, quid adverbial, fuat y lectura incierta optati. Se conserva texto latino, offsets y stable IDs. Pendientes cotejo directo del aparato Leo, control de suplementos y QA visual."
       }
     ],
     "spot_checks": [
