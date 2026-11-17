@@ -1016,6 +1016,15 @@
       "source": "Plautus, Aulularia IV.7, The Latin Library, https://www.thelatinlibrary.com/plautus/aulularia.shtml; direct Leo 1895 collation pending",
       "tokens": 60,
       "note": "Original Spanish translation, word-level morphology and contextual glosses; no retroactive audit certified; consecutive second pass remains at 159."
+    },
+    {
+      "section": "IV.7",
+      "from": 691,
+      "to": 695,
+      "verses": 5,
+      "status": "edited_not_revised",
+      "source": "The Latin Library IV.7; Leo 1895 collation pending",
+      "note": "38 tokens con glosas contextuales; Juno Lucina y fórmulas de parto. Revisión retroactiva 160+ no certificada."
     }
   ],
   "pending": [
@@ -1025,7 +1034,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.7, desde el verso 691; segunda revisión 160–164 tras migración de IDs",
+  "next": "IV.7, desde el verso 696; segunda revisión morfológica 160–164 pendiente de migración segura de IDs",
   "editorial_note": "IV.6 677–681: 38 fichas con glosas contextuales; segunda pasada permanece hasta 159; cotejo directo Leo y revisión visual pendientes.",
   "morphological_second_pass": {
     "status": "in_progress",
