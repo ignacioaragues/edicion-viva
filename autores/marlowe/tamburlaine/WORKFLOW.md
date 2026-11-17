@@ -239,3 +239,10 @@
 - Colación de Dyce (Project Gutenberg #1094) con el impreso de 1590, Folger EarlyPrint B5v–B6v, wln 0685–0739: «Cutle=axe» frente a «curtle-axe» en Dyce; «clouts», «pin», Bóreas, usos jurídicos de dar el mentís; y acotación impresa que hace entrar a Micetes con la corona para esconderla.
 - La traducción de «curtle-axe» como hacha de guerra se corrige a **«sable curvo»**. Cotejo a través del texto temprano: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
 - Nueva capa filológica `philology-14.js`, antes del lector y después de las capas XI–XIII. No se altera el texto inglés de base, ni identificadores, atribuciones, acotaciones, navegación o resaltados.
+
+## Decimoquinta pasada filológica y de lecturas (17-11-2026)
+- Revisadas **50 unidades** consecutivas de Parte I, II.4.35–42 (8, escena terminada) y II.5.1–42 (42). Acumulado **750 / 4641 (16,2 %)**. Siguiente **II.5.43–92**.
+- **46 traducciones corregidas**; 4 conservadas después de cotejo. Exact English anchors comprobados para las 50 líneas; **14 notas filológicas** con anclas inglesas, **2 fichas críticas**. Subrayado discreto, sin marcas marginales.
+- Testimonio cotejado: impreso de **1590** Folger EarlyPrint, B6v–B7v, wln 0740–0794, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html; texto base Alexander Dyce (PG #1094). La variante **«and at your behoofe»** (1590, wln 0784) frente a **«aim'd at your behoof»** (Dyce) se registra en nota II.5.32 sin alterar el inglés de base.
+- Lecturas sobre la corona prestada, el poder delegado a Tamerlán y la legitimidad de Cosroe. El impreso de 1590 muestra que Micetes escapa antes de la coronación y no debe interpretarse como muerto en el campo de batalla.
+- Nueva capa `philology-15.js` tras capas XI–XIV: original inglés, identificadores, hablantes, acotaciones, navegación y resaltados preservados.
