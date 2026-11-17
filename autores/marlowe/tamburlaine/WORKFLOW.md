@@ -144,3 +144,12 @@
 - **Ocho notas filológicas nuevas** con anclas literales en inglés (Damón, incontinent, piernas del Estado, foaming gall, Paris y Helena, cabezas-trofeos, [task] y pro-rex/África). **Una clave interpretativa** de escena, que distingue observación editorial y bibliografía de McInnis 2020, pp. 13–14.
 - **Seis renglones de traducción retocados** (46–48, 63–64 y 66) para resolver la mediación de Teridamas, la imagen de «foaming gall» y el símil de Paris sin introducir nuevos versos.
 - No se modificaron el texto inglés, los identificadores, las acotaciones ni la navegación por escenas. Las notas siguen activándose únicamente mediante subrayado discreto. Pendiente colación exhaustiva de los demás testigos y revisión de la obra completa.
+
+
+## Tercera pasada filológica y de lecturas (17-11-2026)
+- **50 unidades consecutivas:** Parte I, I.1.93–142. Acumulado revisado: **150** (Prólogo P1–8 e I.1.1–142). Siguiente bloque propuesto de 50: **I.1.143–189 (47) + I.2.1–3 (3)**, sin contar acotaciones.
+- **Nueve notas filológicas contextualizadas**, ancladas a expresiones exactas del inglés: «royal seat» / «kiss it» (posible doble sentido), «mated», «pass not», «regiment», «equinoctial line», «maimed empery», «continent», Ciro y «states and commons».
+- **Variante comprobada en el testimonio de 1590** (Folger EarlyPrint, A5r, wln 134): «Now sits and laughs» frente al texto base Dyce «Now sit and laugh» (I.1.117); se registra sin reemplazar la lectura base. Testimonio digital: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html
+- **Ocho ajustes de traducción** para la sintaxis de Cosroe, el saqueo y el sentido político de «conqueror» y «continent». **Una ficha de lectura crítica** que liga el juramento del rey, el complot y la exhibición de la corona; referencia explícita y delimitada a David McInnis, «Introduction», en *Tamburlaine: A Critical Reader* (2020), pp. 13–15.
+- El comentario a Ciro comprueba la distinción entre las conquistas de Asia Menor y la Grecia continental: Rüdiger Schmitt, «Greece i. Greco-Persian Political Relations», *Encyclopaedia Iranica* (2002; act. 2016), https://www.iranicaonline.org/articles/greece-i/.
+- Textos ingleses, números, identificadores, personajes, acotaciones, escenas y funcionalidad del lector sin cambios. Notas únicamente en subrayado discreto, sin marcas marginales.
