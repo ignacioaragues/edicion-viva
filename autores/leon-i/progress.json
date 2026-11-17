@@ -120,20 +120,20 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX caput I complete (§§1–6), PL 54 col. 160C–161B; capita II–IV pending",
-      "paragraphs": 6,
-      "latin_tokens": 218,
-      "lexical_coverage": "218/218 first-pass token occurrences with contextual lexical cards",
-      "translation": "caput I complete in first-pass Spanish; capita II–IV pending",
-      "voice_notes": 6,
+      "section": "Sermo IX caput I complete (§§1–6), caput II started (§7), PL 54 col. 160C–161B; rest II–IV pending",
+      "paragraphs": 7,
+      "latin_tokens": 276,
+      "lexical_coverage": "276/276 first-pass token occurrences with contextual lexical cards",
+      "translation": "caput I and caput II opening translated; rest II–IV pending",
+      "voice_notes": 7,
       "complete_work": false,
-      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending."
+      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Propter has ergo, dilectissimi, versutias hostis antiqui",
+    "beginning": "Veniet enim in majestatis suae gloria Dominus",
     "location": "PL 54 Sermo IX caput II col. 161B"
   },
   "priority": "Finish Sermo IX capita II–IV before Sermo X",
