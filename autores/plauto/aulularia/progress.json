@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Restituir réplicas omitidas en 731–765 y 771–782, con compatibilidad de IDs; luego completar revisión 767–806.",
+  "next": "Completar auditoría morfológica y glosas de 767–806, incluyendo las 16 unidades con sufijo; luego avanzar checkpoint si procede.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
     "reviewed_through_verse": 766,
     "next_verse": 767,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Checkpoint completo hasta 766. Auditoría preliminar 767–786 sin avance de checkpoint: omisiones de réplicas en 771–782 y 731–765; requiere restitución segura con compatibilidad de resaltados.",
+    "note": "Verificación estructural 731–782: las réplicas previamente denunciadas como omitidas sí existen en unidades con sufijos a/b (p. ej. 731a–b, 744a, 764a–b, 780a, 781a–b). Incidencia por falso positivo del verificador, resuelta sin alterar texto ni resaltados. 767–806: 56 unidades, 364 tokens alineados, revisión filológica íntegra pendiente.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1957,6 +1957,19 @@
           "https://ancientlibrary.net/plautus-titus-maccius-aulularia/"
         ],
         "note": "Auditoría preliminar de las fichas existentes y alineación 767–786. Precisados quod ad me attinet (770), suplemento <eum> (773), quo genere (778), perduint (785). Cotejo externo confirma omisiones de réplicas en 771–782 y en 731–765, además de 780b–782b. No marcar 767–786 como plenamente revisado hasta restaurar el texto sin romper data-reading-id y offsets. Navegador no probado."
+      },
+      {
+        "section": "IV.10–IV.11",
+        "from": 767,
+        "to": 806,
+        "verses": 40,
+        "units": 56,
+        "tokens": 364,
+        "status": "structural_alignment_verified_morphology_pending_not_counted",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Se corrigió diagnóstico anterior: NO faltaban réplicas en 731–735, 744–745, 761–765 ni 771–782; estaban en IDs sufijados (731a/b, 732a, 733a, 734a, 735a, 744a, 745a, 761a, 762a, 764a/b, 772a, 773a/b, 774a/b, 775a, 776a, 777a, 780a, 781a/b, 782a). Comparadas con The Latin Library, edición de Leo. Validada correspondencia token-ficha en 56 unidades 767–806; no se declara revisión filológica completa ni se avanza checkpoint. Preservados IDs y offsets."
       }
     ],
     "spot_checks": [
