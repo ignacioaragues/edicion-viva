@@ -1365,12 +1365,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "14/14 positional entries checked against MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 37,
+      "to": 37,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "21/21 fichas posicionales alineadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar en Marcos 6,31; Vulgata opcional y segunda revisión filológica pendientes.",
+  "pending": "Continuar en Marcos 6,38; Vulgata opcional y segunda revisión filológica pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 37
+    "verse": 38
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3167,6 +3176,18 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/36",
       "https://www.studybible.info/SBLGNT/Mark%206%3A36"
+    ]
+  },
+  "prepublication_research_6_37": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "21/21",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-6.php",
+      "https://www.textus-receptus.com/wiki/Mark_6%3A37"
     ]
   }
 }
