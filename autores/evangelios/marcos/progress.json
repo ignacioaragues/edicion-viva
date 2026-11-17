@@ -1347,12 +1347,21 @@
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "morphology": "21/21 positional entries checked against MorphGNT 6.12"
+    },
+    {
+      "chapter": 6,
+      "from": 35,
+      "to": 35,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "20/20 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
   "pending": "Continuar en Marcos 6,31; Vulgata opcional y segunda revisión filológica pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 35
+    "verse": 36
   },
   "last_edit": "2026-11-17",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3125,6 +3134,18 @@
       "https://greekdoc.com/DOCUMENTS/nt-poly/mk06.html",
       "https://www.greekdoc.com/DOCUMENTS/polyglot/eze34.html",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+    ]
+  },
+  "prepublication_research_6_35": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6",
+      "https://greeknewtestament.net/mk6-35"
     ]
   }
 }
