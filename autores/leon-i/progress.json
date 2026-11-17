@@ -163,8 +163,15 @@
     {
       "group": "sermones",
       "number": 82,
-      "status": "priority_pending",
-      "skip_after_completion": true
+      "status": "partial_aligned_draft_not_in_reader",
+      "skip_after_completion": true,
+      "aligned_chapters": 7,
+      "aligned_units": 18,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "reader_published": false,
+      "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
+      "next": "Printed PL 54 collation and full contextual morphology, then interactive reader; only then Epistola X"
     },
     {
       "group": "epistolae",
