@@ -218,3 +218,10 @@
 - **50 líneas españolas retrabajadas**, con verificación de anclas del inglés en la carga del lector; **13 notas filológicas** subrayadas sobre segmentos literales; **dos fichas críticas** sobre la ambigüedad de «regent» y sobre la contraposición de Cosroe, Micetes y Meandro. La contextualización a partir de McInnis (ed., 2020) se declara como lectura editorial, no como cita textual del volumen.
 - Al superar el megabyte `text.js`, se introdujo una **capa filológica independiente `philology-11.js`** cargada antes de `reader.js`, para no regenerar masivamente el corpus ni tocar identificadores, atribuciones, navegación o resaltados. Las traducciones solo se sustituyen si el renglón coincide con un ancla inglesa reconocible; los desajustes se avisan en consola.
 - **Siguiente pasada:** Parte I II.2.26–75. Fuente primaria: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+
+## Duodécima pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** de Parte I II.2.26–75: escena II.2 terminada. Acumulado **600 / 4641 (12,9 %)**. Próximo **II.3.1–50**.
+- **46 traducciones corregidas** y 4 confirmadas sin cambios. Alineación inglesa exacta verificada para las 50 unidades. Texto original, numeración, acotaciones, hablantes y resaltados preservados.
+- **12 notas** con subrayado discreto y **2 fichas interpretativas**: los Spartoi nacidos de los dientes del dragón y el plan de arrojar oro como señuelo.
+- Fuentes: Dyce (PG #1094) y Folger EarlyPrint, impreso de **1590**, B4r–B4v, wln 0580–0629. Peter Kirwan, «The Performance History», en David McInnis (ed.), Tamburlaine: A Critical Reader (2020), pp. 43–66, se usa solo como contexto general sobre escenificaciones.
+- Capa filológica independiente philology-12.js, cargada a continuación de philology-11.js, sin regenerar text.js.

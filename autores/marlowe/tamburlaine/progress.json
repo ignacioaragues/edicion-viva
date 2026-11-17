@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Primera revisión filológica: Parte I, prólogo P1–8, I.1.1–189, I.2.1–259, II.1.1–69 y II.2.1–25, 550 unidades. Próximo II.2.26–75 (50). Cotejos integrales pendientes.",
+  "editorialReview": "Revisión filológica de Parte I: prólogo P1–8, I.1.1–189, I.2.1–259, II.1.1–69 y II.2.1–75; 600 unidades revisadas. Próximo II.3.1–50.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 550,
+    "reviewedUnits": 600,
     "reviewed": [
       {
         "part": 1,
@@ -540,28 +540,37 @@
         "start": 1,
         "end": 25,
         "count": 25
+      },
+      {
+        "part": 1,
+        "act": 2,
+        "scene": 2,
+        "start": 26,
+        "end": 75,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I II.1.45–69 (25), II.2.1–25 (25)",
+      "scope": "Part I II.2.26–75; scene II.2 completed",
       "unitsReviewed": 50,
-      "newNotes": 13,
+      "translationLinesRevised": 46,
+      "translationLinesValidated": 50,
+      "newNotes": 12,
       "readingCardsAdded": 2,
-      "translationLinesRevised": 50,
-      "mode": "Non-destructive editorial overlay philology-11.js; English and line IDs untouched; per-line source anchor validation at runtime",
+      "mode": "Exact-English-match editorial overlay, independent of 1 MB source file",
       "sourceBasis": [
-        "Alexander Dyce, Tamburlaine, Part One, PG #1094, Acts II.1 and II.2",
-        "1590 edition, Folger EarlyPrint B3r–B4r, wln 0526–0579",
-        "David McInnis (ed.), Tamburlaine: A Critical Reader (2020), Introduction and Peter Kirwan, Performance History (general interpretative context)"
+        "Alexander Dyce, Tamburlaine the Great, Part One, Project Gutenberg #1094",
+        "First edition (1590), Folger EarlyPrint B4r–B4v, wln 0580–0629",
+        "Peter Kirwan, The Performance History, in David McInnis (ed.), Tamburlaine: A Critical Reader (2020), pp. 43–66"
       ],
-      "note": "Local, concise annotations and scene reading cards, no marginal badges; next II.2.26–75."
+      "note": "Myth of Spartoi, class rhetoric, gold-bait stratagem. English, IDs, speakers, stage directions untouched."
     },
     "next": {
       "part": 1,
       "act": 2,
-      "scene": 2,
-      "line": 26
+      "scene": 3,
+      "line": 1
     }
   }
 }
