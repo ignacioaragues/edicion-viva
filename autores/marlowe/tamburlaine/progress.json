@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1450,
+    "reviewedUnits": 1500,
     "reviewed": [
       {
         "part": 1,
@@ -762,26 +762,35 @@
         "start": 1,
         "end": 2,
         "count": 2
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 2,
+        "start": 3,
+        "end": 52,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I IV.1.26–73; IV.2.1–2",
+      "scope": "Parte I IV.2.3–52",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 19,
-      "newNotes": 13,
+      "translationLinesRevised": 14,
+      "newNotes": 12,
       "readingCardsAdded": 2,
-      "mode": "philology-29.js; Dyce y edición anotada; QA navegador pendiente",
+      "mode": "philology-30.js; QA navegador pendiente; impreso 1590 no cotejado directamente",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine I, IV.1; A. Dyce (ed.), Works of Christopher Marlowe, vol. I (1859), https://files.libertyfund.org/files/1687/Marlowe_1319.01_EBk_v6.0.pdf; edición anotada ElizabethanDrama.org, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
+        "https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf",
+        "https://www.scribd.com/document/1060746473/Tamburlaine-the-great-parts-I-and-II-None-Marlowe-Christopher-1564-1593-None-Regents-renaissance-drama-Linciln-Neb-England-1967-is"
       ]
     },
     "next": {
       "part": 1,
       "act": 4,
       "scene": 2,
-      "line": 3
+      "line": 53
     }
   }
 }
