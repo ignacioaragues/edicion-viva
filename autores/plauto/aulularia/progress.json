@@ -1184,6 +1184,17 @@
       "status": "edited_not_revised",
       "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Texto cotejado con The Latin Library; traducción y análisis léxico-morfológico individual. Continúa el discurso en 804–807. Cotejo crítico Leo y QA visual pendientes. Auditoría retrospectiva consecutiva no avanzó."
+    },
+    {
+      "section": "IV.10–V.1",
+      "from": 804,
+      "to": 812,
+      "verses": 9,
+      "display_units": 11,
+      "tokens": 85,
+      "status": "edited_not_revised",
+      "source": "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Cotejo digital de los versos 804–812; transición al acto V. Pendiente cotejo de aparato Leo 1895, comprobación de lectura y segunda revisión retrospectiva desde 160."
     }
   ],
   "pending": [
@@ -1193,7 +1204,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.10 versos 804–807; luego V.1 desde 808, con numeración crítica y lagunas. Revisar identificación de interlocutores, segunda auditoría desde 160 y migración IDs 142–161.",
+  "next": "V.1 desde verso 813; objetivo 12–15 versos; revisar numeración 814–816 en fuentes, morfología retrospectiva desde 160 e IDs 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
