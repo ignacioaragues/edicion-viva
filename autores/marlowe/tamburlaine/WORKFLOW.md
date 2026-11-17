@@ -246,3 +246,10 @@
 - Testimonio cotejado: impreso de **1590** Folger EarlyPrint, B6v–B7v, wln 0740–0794, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html; texto base Alexander Dyce (PG #1094). La variante **«and at your behoofe»** (1590, wln 0784) frente a **«aim'd at your behoof»** (Dyce) se registra en nota II.5.32 sin alterar el inglés de base.
 - Lecturas sobre la corona prestada, el poder delegado a Tamerlán y la legitimidad de Cosroe. El impreso de 1590 muestra que Micetes escapa antes de la coronación y no debe interpretarse como muerto en el campo de batalla.
 - Nueva capa `philology-15.js` tras capas XI–XIV: original inglés, identificadores, hablantes, acotaciones, navegación y resaltados preservados.
+
+## Decimosexta pasada filológica y de lecturas (17-11-2026)
+- Revisión consecutiva de **50 unidades**: Parte I, II.5.43–92. **800 de 4.641** revisadas (**17,2 %**). Próxima **II.5.93–106 (14) + II.6.1–36 (36)**.
+- **44 líneas de traducción modificadas** y 6 confirmadas sin cambios; 50 líneas inglesas comprobadas por igualdad literal antes de aplicar ajustes. **14 notas filológicas** de ancla literal y **2 fichas interpretativas** sobre divinización del poder real y el golpe de Tamerlán contra Cosroe.
+- Cotejados Dyce (Project Gutenberg #1094, II.5.43–92) y primer impreso de **1590** (Folger EarlyPrint B7v–B8r, wln 0795–0845), https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html. Variantes sustantivas señaladas: Dyce «a-piece» frente a «apace» en 1590 (II.5.86), y «Casane» frente a «Casanes» en 1590 (II.5.72). Se conserva el inglés de base y se registra el testimonio.
+- En II.5.92 «purchase» designa **empresa / objetivo**, no «compra»; en II.5.51 «brave» significa **espléndido**. La acotación de salida tras II.5.49 permanece en el lugar original y explica el cambio de interlocutores.
+- Publicación con capa `philology-16.js` después de las capas XI–XV. Sin cambios a `text.js`, al texto inglés, a los hablantes, a la numeración, a las acotaciones ni a la navegación.
