@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B, caput I complete; https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IX",
+  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B; caput I y comienzo del II",
   "status": "partial",
-  "next": "Caput II: Propter has ergo, dilectissimi, versutias hostis antiqui",
+  "next": "Caput II: Veniet enim in majestatis suae gloria Dominus",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -595,6 +595,293 @@ window.LEO_SERMO_I = {
           "labium",
           "genitivo neutro plural",
           "de los labios"
+        ]
+      }
+    },
+    {
+      "id": "s9-7",
+      "label": "7",
+      "latin": "Propter has ergo, dilectissimi, versutias hostis antiqui, scire nos voluit ineffabilis benignitas Christi, quid in die retributionis de universitate hominum esset decernendum, ut dum in hoc tempore legitimorum remediorum medicina praebetur, dum elisis reparatio non negatur, et qui diu fuerunt steriles, possunt tandem esse fecundi, praeveniatur disposita censura justitiae, et numquam a cordis oculis divinae discretionis imago discedat.",
+      "spanish": "Por estas astucias del antiguo enemigo, queridísimos, la inefable bondad de Cristo quiso que supiéramos qué habría de decidirse sobre la totalidad de los seres humanos en el día de la retribución, para que, mientras en este tiempo se ofrece la medicina de los remedios legítimos, mientras no se niega la restauración a los abatidos y quienes durante mucho tiempo fueron estériles pueden finalmente ser fecundos, se anticipe la sentencia de justicia ya dispuesta y nunca se aparte de los ojos del corazón la imagen del discernimiento divino.",
+      "note": [
+        "La sentencia anticipada",
+        "El sujeto de voluit es ineffabilis benignitas Christi. La repetición dum ... dum dilata la oportunidad de reparación; la finalidad ut ... praeveniatur presenta la misericordia presente como prevención de la sentencia futura. Censura conserva aquí su fuerza judicial. El aparato registra districtionis frente a discretionis (cod. Bononiensis y primera edición)."
+      ],
+      "lexicon": {
+        "Propter": [
+          "propter",
+          "preposición con acusativo",
+          "a causa de"
+        ],
+        "has": [
+          "hic",
+          "acusativo femenino plural",
+          "estas"
+        ],
+        "ergo": [
+          "ergo",
+          "conjunción ilativa",
+          "por tanto"
+        ],
+        "dilectissimi": [
+          "dilectus",
+          "vocativo masculino plural superlativo",
+          "queridísimos"
+        ],
+        "versutias": [
+          "versutia",
+          "acusativo femenino plural",
+          "astucias"
+        ],
+        "hostis": [
+          "hostis",
+          "genitivo masculino singular",
+          "del enemigo"
+        ],
+        "antiqui": [
+          "antiquus",
+          "genitivo masculino singular",
+          "antiguo"
+        ],
+        "scire": [
+          "scio",
+          "infinitivo presente activo",
+          "saber"
+        ],
+        "nos": [
+          "nos",
+          "acusativo plural",
+          "nosotros"
+        ],
+        "voluit": [
+          "volo",
+          "perfecto indicativo tercera singular",
+          "quiso"
+        ],
+        "ineffabilis": [
+          "ineffabilis",
+          "nominativo femenino singular",
+          "inefable"
+        ],
+        "benignitas": [
+          "benignitas",
+          "nominativo femenino singular",
+          "bondad"
+        ],
+        "Christi": [
+          "Christus",
+          "genitivo masculino singular",
+          "de Cristo"
+        ],
+        "quid": [
+          "quis",
+          "acusativo neutro singular interrogativo indirecto",
+          "qué"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "die": [
+          "dies",
+          "ablativo masculino singular",
+          "día"
+        ],
+        "retributionis": [
+          "retributio",
+          "genitivo femenino singular",
+          "de retribución"
+        ],
+        "de": [
+          "de",
+          "preposición con ablativo",
+          "acerca de"
+        ],
+        "universitate": [
+          "universitas",
+          "ablativo femenino singular",
+          "totalidad"
+        ],
+        "hominum": [
+          "homo",
+          "genitivo masculino plural",
+          "de los seres humanos"
+        ],
+        "esset": [
+          "sum",
+          "imperfecto subjuntivo tercera singular",
+          "habría de ser"
+        ],
+        "decernendum": [
+          "decerno",
+          "gerundivo nominativo neutro singular con esse",
+          "decidido"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "dum": [
+          "dum",
+          "conjunción temporal",
+          "mientras"
+        ],
+        "hoc": [
+          "hic",
+          "ablativo neutro singular",
+          "este"
+        ],
+        "tempore": [
+          "tempus",
+          "ablativo neutro singular",
+          "tiempo"
+        ],
+        "legitimorum": [
+          "legitimus",
+          "genitivo neutro plural",
+          "legítimos"
+        ],
+        "remediorum": [
+          "remedium",
+          "genitivo neutro plural",
+          "remedios"
+        ],
+        "medicina": [
+          "medicina",
+          "nominativo femenino singular",
+          "medicina"
+        ],
+        "praebetur": [
+          "praebeo",
+          "presente indicativo pasivo tercera singular",
+          "se ofrece"
+        ],
+        "elisis": [
+          "elido",
+          "participio perfecto pasivo dativo masculino plural sustantivado",
+          "a los abatidos"
+        ],
+        "reparatio": [
+          "reparatio",
+          "nominativo femenino singular",
+          "restauración"
+        ],
+        "non": [
+          "non",
+          "adverbio negativo",
+          "no"
+        ],
+        "negatur": [
+          "nego",
+          "presente indicativo pasivo tercera singular",
+          "se niega"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "qui": [
+          "qui",
+          "nominativo masculino plural relativo",
+          "quienes"
+        ],
+        "diu": [
+          "diu",
+          "adverbio",
+          "durante mucho tiempo"
+        ],
+        "fuerunt": [
+          "sum",
+          "perfecto indicativo tercera plural",
+          "fueron"
+        ],
+        "steriles": [
+          "sterilis",
+          "nominativo masculino plural",
+          "estériles"
+        ],
+        "possunt": [
+          "possum",
+          "presente indicativo tercera plural",
+          "pueden"
+        ],
+        "tandem": [
+          "tandem",
+          "adverbio",
+          "finalmente"
+        ],
+        "esse": [
+          "sum",
+          "infinitivo presente",
+          "ser"
+        ],
+        "fecundi": [
+          "fecundus",
+          "nominativo masculino plural",
+          "fecundos"
+        ],
+        "praeveniatur": [
+          "praevenio",
+          "presente subjuntivo pasivo tercera singular",
+          "sea anticipada"
+        ],
+        "disposita": [
+          "dispono",
+          "participio perfecto pasivo nominativo femenino singular",
+          "establecida"
+        ],
+        "censura": [
+          "censura",
+          "nominativo femenino singular",
+          "sentencia"
+        ],
+        "justitiae": [
+          "iustitia",
+          "genitivo femenino singular",
+          "de justicia"
+        ],
+        "numquam": [
+          "numquam",
+          "adverbio",
+          "nunca"
+        ],
+        "a": [
+          "a",
+          "preposición con ablativo",
+          "de"
+        ],
+        "cordis": [
+          "cor",
+          "genitivo neutro singular",
+          "del corazón"
+        ],
+        "oculis": [
+          "oculus",
+          "ablativo masculino plural",
+          "ojos"
+        ],
+        "divinae": [
+          "divinus",
+          "genitivo femenino singular",
+          "divina"
+        ],
+        "discretionis": [
+          "discretio",
+          "genitivo femenino singular",
+          "discernimiento"
+        ],
+        "imago": [
+          "imago",
+          "nominativo femenino singular",
+          "imagen"
+        ],
+        "discedat": [
+          "discedo",
+          "presente subjuntivo tercera singular",
+          "se aparte"
         ]
       }
     }
