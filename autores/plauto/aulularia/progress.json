@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisión 647–686; atención a la escena del registro y al juego con Fides.",
+  "next": "Segunda revisión 687–726.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 646,
-    "next_verse": 647,
+    "reviewed_through_verse": 686,
+    "next_verse": 687,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática 607–646, cotejo externo parcial (Stockert 1983, Wagner, Hanson); colación exhaustiva Leo y QA visual pendientes.",
+    "note": "Auditoría estática 647–686; pendientes cotejo exhaustivo de Leo y QA visual.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1901,6 +1901,20 @@
           "https://electronicsandbooks.com/edt/manual/Magazine/T/Transactions%20of%20the%20American%20Philological%20Society/1959/Hanson%20-%201959%20-%20Plautus%20as%20a%20Source%20Book%20for%20Roman%20Religion.pdf"
         ],
         "note": "40 versos, correspondencia exacta tokens-fichas y lectura de glosas contextuales; corregidos situmst, tuae fide, Fide, fideliam, corvos, eccas, nive. Stockert 1983 aparato a 615–619 registra fidei y conjeturas de 619; Wagner comenta juego Fides/fidelia y augurio del cuervo a la izquierda. Sin modificar latín ni IDs. Pendiente colación integral Leo, QA de navegador y revisión de otras glosas."
+      },
+      {
+        "section": "IV.4–IV.7",
+        "from": 647,
+        "to": 686,
+        "verses": 40,
+        "tokens": 309,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A609-663",
+          "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi0119.phi003.humanitext-lat2%3A664-727",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "40 versos y correspondencia exacta de tokens-fichas, excluidas abreviaturas de hablantes EVCL., S., E. Corregidos perscrutavi (perfecto activo), hic (demostrativo), Fide (dativo arcaico paralelo a Silvano), sese (elipsis discutible) y matiz de scelestus. Texto e IDs conservados. Pendientes cotejo completo de Leo, QA de navegador y análisis de lecturas 668, 672, 680."
       }
     ],
     "spot_checks": [
