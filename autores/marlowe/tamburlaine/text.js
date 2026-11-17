@@ -1721,6 +1721,66 @@ window.TAMBURLAINE_EDITION = {
       "El Volga de cincuenta cabezas",
       "«Fifty-headed» es una personificación hiperbólica del río Volga como si poseyera numerosas cabezas o brazos. No hay que interpretar el número cincuenta como un recuento geográfico verificable de afluentes.",
       "fifty-headed Volga's waves"
+    ],
+    "I2-107": [
+      "«Flattered»: halagos y cortejo",
+      "La afirmación de Tamerlán de que hay que halagar a las mujeres antecede a la confesión de su enamoramiento. La réplica de Tequeles distingue el discurso amoroso de la actuación militar, pero no elimina la situación coercitiva de Zenócrate.",
+      "women must be flattered"
+    ],
+    "I2-116": [
+      "«Lordings»: diminutivo despectivo",
+      "«Lordings» es un tratamiento diminutivo o desdeñoso aplicado a los nobles cautivos. El tono sarcástico acompaña la pregunta de Tamerlán acerca de sus esperanzas de rescate por las tropas persas.",
+      "lordings"
+    ],
+    "I2-120": [
+      "La partida exige la fuerza",
+      "«You must be forced from me ere you go» significa que solo se marcharán si alguien los arranca por la fuerza de su poder. En el contexto se dirige a los nobles y a Zenócrate: no es una autorización de salida ni una declaración de consentimiento.",
+      "forced from me"
+    ],
+    "I2-127": [
+      "«Brave» como espléndidamente vestido",
+      "«Brave» modifica el atuendo magnífico de los jinetes persas, no el valor moral de sus personas. Dyce glosa expresamente este uso como «splendidly clad» en su aparato editorial.",
+      "brave and rich"
+    ],
+    "I2-129": [
+      "La espada y el orador",
+      "Tamerlán contrasta el combate con «play the orator», y Tequeles responde que sus espadas hablarán por ellos. La metáfora no suprime la persuasión: inmediatamente después Tamerlán ordena parlamentar y montar una exhibición calculada de riquezas.",
+      "play the orator"
+    ],
+    "I2-133": [
+      "«Mountain-top»: variante de la cima al pie",
+      "Dyce lee «mountain-top» de acuerdo con el cuarto temprano, mientras que su octavo ofrece «mountain-foot». La lectura «cima» concuerda con la maniobra de precipitar a los caballos cuesta abajo en el v. 135. El texto base mantiene la variante seleccionada por Dyce.",
+      "mountain-top"
+    ],
+    "I2-137": [
+      "«Parle»: parlamentar",
+      "«Parle» designa una conferencia o parlamento con el adversario antes del enfrentamiento. La solicitud de negociar es compatible con un plan militar de intimidación; no equivale todavía a rendición ni a tregua pactada.",
+      "ask a parle"
+    ],
+    "I2-138": [
+      "«Mails»: fardos y equipaje",
+      "Aquí «mails» significa sacos, fardos o baúles, no cartas ni correo. Dyce lo glosa «bags, budgets». La orden inmediata es abrirlos y exponer los lingotes, conservando el resto del tesoro bajo custodia.",
+      "Open the mails"
+    ],
+    "I2-139": [
+      "Los lingotes como instrumento de persuasión",
+      "«Golden wedges» son lingotes de oro, con frecuencia fundidos en forma de cuña. Tamerlán aprovecha su brillo para impresionar a los soldados persas: convierte el tesoro previamente saqueado en una puesta en escena estratégica. Tom Rutter señala la reutilización de esa exhibición en la captación de Teridamas (2020, p. 119).",
+      "golden wedges"
+    ],
+    "I2-143": [
+      "«Five hundred ... to one»: hipérbole de resistencia",
+      "La proporción de «quinientos a uno» no describe los contingentes reales de esta escena (mil jinetes contra quinientos infantes). Es una hipérbole de la disposición a defender el botín incluso ante una abrumadora superioridad numérica; no debe trasladarse al cálculo táctico efectivo.",
+      "five hundred men-at-arms to one"
+    ],
+    "I2-146": [
+      "«Lance» y la garganta codiciosa",
+      "«Lance» tiene valor verbal de atravesar o herir con arma punzante. «Greedy thirsting throat» caracteriza la codicia del general persa y anticipa la alternativa de capturarlo por rescate; el propio texto juega con el doble valor militar y económico del combate.",
+      "lance his greedy thirsting throat"
+    ],
+    "I2-151": [
+      "«Brunt»: primer choque o embate",
+      "«Brunt» designa el golpe inicial o parte más dura de un enfrentamiento. Tamerlán promete exponerse personalmente y ordena a sus hombres no abandonar la posición; la bravata prepara su interlocución con Teridamas.",
+      "danger of the brunt"
     ]
   },
   "lex": {
@@ -2666,42 +2726,42 @@ window.TAMBURLAINE_EDITION = {
       "number": 113,
       "speaker": "TAMBURLAINE",
       "en": "How now, my lords of Egypt, and Zenocrate!",
-      "es": "¿Qué os parece, señores de Egipto, y tú, Zenócrate?"
+      "es": "¿Qué les parece ahora, señores de Egipto? ¿Y a ti, Zenócrate?"
     },
     {
       "id": "I2-114",
       "number": 114,
       "speaker": "",
       "en": "Now must your jewels be restor'd again,",
-      "es": "¿Ahora habrá que devolveros las joyas"
+      "es": "¿Será preciso devolverles sus joyas"
     },
     {
       "id": "I2-115",
       "number": 115,
       "speaker": "",
       "en": "And I, that triumph'd so, be overcome?",
-      "es": "y vencerme a mí, que tanto he triunfado?"
+      "es": "y que yo, hasta ahora triunfante, resulte derrotado?"
     },
     {
       "id": "I2-116",
       "number": 116,
       "speaker": "",
       "en": "How say you, lordings? is not this your hope?",
-      "es": "¿Qué decís, señoritos? ¿No es eso lo que esperáis?"
+      "es": "¿Qué dicen, señoritos? ¿No es eso lo que esperan?"
     },
     {
       "id": "I2-117",
       "number": 117,
       "speaker": "AGYDAS",
       "en": "We hope yourself will willingly restore them.",
-      "es": "Esperamos que las devolváis por propia voluntad."
+      "es": "Esperamos que las devuelva de buen grado."
     },
     {
       "id": "I2-118",
       "number": 118,
       "speaker": "TAMBURLAINE",
       "en": "Such hope, such fortune, have the thousand horse.",
-      "es": "Esa misma esperanza y esa misma suerte aguardan a los mil jinetes."
+      "es": "La misma suerte tendrán esos mil jinetes que esa esperanza."
     },
     {
       "id": "I2-119",
@@ -2715,98 +2775,98 @@ window.TAMBURLAINE_EDITION = {
       "number": 120,
       "speaker": "",
       "en": "You must be forced from me ere you go.—",
-      "es": "tendrán que arrancaros de mi lado por la fuerza."
+      "es": "Tendrán que arrebatarlos de mi poder antes de que se vayan."
     },
     {
       "id": "I2-121",
       "number": 121,
       "speaker": "",
       "en": "A thousand horsemen! we five hundred foot!",
-      "es": "¡Mil jinetes contra nuestros quinientos soldados de infantería!"
+      "es": "¡Mil jinetes! ¡Y nosotros, quinientos hombres a pie!"
     },
     {
       "id": "I2-122",
       "number": 122,
       "speaker": "",
       "en": "An odds too great for us to stand against.",
-      "es": "Una diferencia demasiado grande para resistir."
+      "es": "¡Una desproporción demasiado grande para hacerles frente!"
     },
     {
       "id": "I2-123",
       "number": 123,
       "speaker": "",
       "en": "But are they rich? and is their armour good!",
-      "es": "Pero ¿son ricos? ¿Y llevan buenas armaduras?"
+      "es": "Pero ¿son ricos? ¿Llevan buenas armaduras?"
     },
     {
       "id": "I2-124",
       "number": 124,
       "speaker": "SOLDIER",
       "en": "Their plumed helms are wrought with beaten gold,",
-      "es": "Sus cascos emplumados están trabajados en oro batido,"
+      "es": "Sus cascos emplumados están labrados en oro batido,"
     },
     {
       "id": "I2-125",
       "number": 125,
       "speaker": "",
       "en": "Their swords enamell'd, and about their necks",
-      "es": "sus espadas están esmaltadas, y del cuello"
+      "es": "sus espadas, esmaltadas; y alrededor del cuello"
     },
     {
       "id": "I2-126",
       "number": 126,
       "speaker": "",
       "en": "Hang massy chains of gold down to the waist;",
-      "es": "les cuelgan pesadas cadenas de oro hasta la cintura;"
+      "es": "les cuelgan gruesas cadenas de oro hasta la cintura;"
     },
     {
       "id": "I2-127",
       "number": 127,
       "speaker": "",
       "en": "In every part exceeding brave and rich.",
-      "es": "en todo lucen magníficos y ricos."
+      "es": "todos van ricamente ataviados y espléndidos."
     },
     {
       "id": "I2-128",
       "number": 128,
       "speaker": "TAMBURLAINE",
       "en": "Then shall we fight courageously with them?",
-      "es": "Entonces, ¿lucharemos valerosamente contra ellos?"
+      "es": "Entonces, ¿vamos a combatirlos con valentía?"
     },
     {
       "id": "I2-129",
       "number": 129,
       "speaker": "",
       "en": "Or look you I should play the orator?",
-      "es": "¿O esperáis que me ponga a pronunciar discursos?"
+      "es": "¿O esperan que me ponga a pronunciar discursos?"
     },
     {
       "id": "I2-130",
       "number": 130,
       "speaker": "TECHELLES",
       "en": "No; cowards and faint-hearted runaways",
-      "es": "No; los cobardes y los desertores sin ánimo"
+      "es": "No: los cobardes y los fugitivos sin coraje"
     },
     {
       "id": "I2-131",
       "number": 131,
       "speaker": "",
       "en": "Look for orations when the foe is near:",
-      "es": "buscan discursos cuando el enemigo está cerca."
+      "es": "buscan discursos cuando el enemigo está cerca:"
     },
     {
       "id": "I2-132",
       "number": 132,
       "speaker": "",
       "en": "Our swords shall play the orators for us.",
-      "es": "Por nosotros hablarán nuestras espadas."
+      "es": "por nosotros harán de oradores nuestras espadas."
     },
     {
       "id": "I2-133",
       "number": 133,
       "speaker": "USUMCASANE",
       "en": "Come, let us meet them at the mountain-top,",
-      "es": "Vamos, enfrentémoslos en la cima de la montaña"
+      "es": "Vamos, salgámosles al encuentro en lo alto de la montaña"
     },
     {
       "id": "I2-134",
@@ -2820,7 +2880,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 135,
       "speaker": "",
       "en": "Drive all their horses headlong down the hill.",
-      "es": "precipitemos a todos sus caballos cuesta abajo."
+      "es": "lancemos a sus caballos de cabeza cuesta abajo."
     },
     {
       "id": "I2-136",
@@ -2834,28 +2894,28 @@ window.TAMBURLAINE_EDITION = {
       "number": 137,
       "speaker": "TAMBURLAINE",
       "en": "Stay, Techelles; ask a parle first.",
-      "es": "Espera, Tequeles: solicita primero una entrevista."
+      "es": "Aguarda, Tequeles: pide primero parlamentar."
     },
     {
       "id": "I2-138",
       "number": 138,
       "speaker": "",
       "en": "Open the mails, yet guard the treasure sure:",
-      "es": "Abrid los fardos, pero custodiad bien el tesoro."
+      "es": "Abran los fardos, pero mantengan bien custodiado el tesoro:"
     },
     {
       "id": "I2-139",
       "number": 139,
       "speaker": "",
       "en": "Lay out our golden wedges to the view,",
-      "es": "Exponed nuestros lingotes de oro a la vista,"
+      "es": "expongan nuestros lingotes de oro a la vista,"
     },
     {
       "id": "I2-140",
       "number": 140,
       "speaker": "",
       "en": "That their reflections may amaze the Persians;",
-      "es": "para que su resplandor deslumbre a los persas;"
+      "es": "para que su brillo deslumbre a los persas;"
     },
     {
       "id": "I2-141",
@@ -2869,49 +2929,49 @@ window.TAMBURLAINE_EDITION = {
       "number": 142,
       "speaker": "",
       "en": "But, if they offer word or violence,",
-      "es": "Pero si nos amenazan con palabras o violencia,"
+      "es": "Pero si nos desafían de palabra o recurren a la violencia,"
     },
     {
       "id": "I2-143",
       "number": 143,
       "speaker": "",
       "en": "We'll fight, five hundred men-at-arms to one,",
-      "es": "pelearemos, aunque haya quinientos hombres contra uno,"
+      "es": "lucharemos, aunque nos superen quinientos a uno,"
     },
     {
       "id": "I2-144",
       "number": 144,
       "speaker": "",
       "en": "Before we part with our possession;",
-      "es": "antes de desprendernos de nuestras posesiones;"
+      "es": "antes de abandonar lo que hemos tomado;"
     },
     {
       "id": "I2-145",
       "number": 145,
       "speaker": "",
       "en": "And 'gainst the general we will lift our swords,",
-      "es": "y contra el general alzaremos las espadas:"
+      "es": "y alzaremos las espadas contra su general"
     },
     {
       "id": "I2-146",
       "number": 146,
       "speaker": "",
       "en": "And either lance his greedy thirsting throat,",
-      "es": "o le atravesaremos su garganta codiciosa y sedienta,"
+      "es": "para atravesarle la garganta, sedienta de riquezas,"
     },
     {
       "id": "I2-147",
       "number": 147,
       "speaker": "",
       "en": "Or take him prisoner, and his chain shall serve",
-      "es": "o lo tomaremos prisionero, y su propia cadena servirá"
+      "es": "o apresarlo y convertir su propia cadena"
     },
     {
       "id": "I2-148",
       "number": 148,
       "speaker": "",
       "en": "For manacles till he be ransom'd home.",
-      "es": "de grilletes hasta que paguen su rescate."
+      "es": "en grilletes hasta que se pague su rescate."
     },
     {
       "id": "I2-149",
@@ -2925,14 +2985,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 150,
       "speaker": "TAMBURLAINE",
       "en": "Keep all your standings, and not stir a foot:",
-      "es": "Conservad vuestras posiciones, sin mover un pie:"
+      "es": "Mantengan todos sus puestos sin mover un pie:"
     },
     {
       "id": "I2-151",
       "number": 151,
       "speaker": "",
       "en": "Myself will bide the danger of the brunt.",
-      "es": "yo solo afrontaré el peligro del primer choque."
+      "es": "yo mismo afrontaré el peligro del primer choque."
     },
     {
       "id": "I2-152",
@@ -2946,7 +3006,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 153,
       "speaker": "TAMBURLAINE",
       "en": "Whom seek'st thou, Persian? I am Tamburlaine.",
-      "es": "¿A quién buscas, persa? Yo soy Tamerlán."
+      "es": "¿A quién buscas, persa? Soy Tamerlán."
     },
     {
       "id": "I2-154",
@@ -34376,6 +34436,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.2.54–103",
         "body": "Tequeles ve por anticipado coronas arrancadas de las cabezas de reyes cautivos; Zenócrate responde que los dioses no pueden favorecer los planes de quienes oprimen a viajeros indefensos y reclama explícitamente la libertad. Tamerlán cambia de registro: relativiza el valor del botín, elogia a sus soldados y, luego, la belleza de Zenócrate, a quien promete riquezas, honores y un paisaje de maravillas. Las imágenes de blancura, nieve y plata funcionan como un blason de belleza, pero la situación de cautiverio impide confundir esa retórica con una negociación libre. Wagner muestra que este vocabulario de blancura participa de las jerarquías raciales y estéticas de la época.",
         "source": "Lectura editorial de I.2.54–103 y cotejo con el impreso de 1590 (A7r–A8r); Sydnee Wagner, «Towards a Racialized Tamburlaine», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 140–141."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "Las espadas hablan, pero el oro persuade",
+        "range": "Parte I · I.2.104–153",
+        "body": "La llegada de un millar de jinetes persas invierte momentáneamente la posición de Tamerlán: los cautivos esperan recuperar la libertad y el tesoro, y su tropa es numéricamente inferior. Tequeles declara que las espadas hablarán en lugar de los oradores; sin embargo, Tamerlán no ataca de inmediato. Solicita parlamentar, exhibe los lingotes de oro y ordena recibir amistosamente a los persas, reservándose la violencia como amenaza. Así construye las condiciones materiales del encuentro con Teridamas. La estrategia anticipa su posterior presentación de las riquezas como prueba de favor divino, analizada por Rutter; aquí, la preparación del efecto está expuesta ante el espectador.",
+        "source": "Lectura editorial de I.2.104–153; Alexander Dyce, ed., Tamburlaine the Great (1859), escena I.2 y glosas a «mails» y «brave»; Tom Rutter, «Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), p. 119."
       }
     ]
   }
