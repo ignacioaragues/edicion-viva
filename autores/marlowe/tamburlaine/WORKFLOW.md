@@ -290,3 +290,12 @@
 - Variante III.2.19: base «Phoebus' silver eye» (Sol), testigo 1590 «Phœbes siluer eie» (Luna). Las Piérides son las contendientes de las Musas en un certamen musical (Ovidio, Metamorfosis V); la pugna entre Minerva y Neptuno versa sobre Atenas. M. L. Stapleton, edición crítica, III.2.50–52.
 - La caracterización de Zenócrate como concubina de escaso rango pertenece a Agidas; «Soldan» es su padre, sultán de Egipto. La entrada de Tamerlán tras III.2.24 sigue intacta; el discurso de Agidas continúa en III.2.63.
 - Se incorpora la capa `philology-21.js` a continuación de las existentes. Original inglés, acotaciones, números, etiquetas, navegación y resaltados sin alteración.
+
+## Vigésima segunda pasada filológica (17-11-2026)
+- **50 unidades revisadas** de Parte I, III.2.63–112; total **1.100 / 4.641 (23,7 %)**. Próxima **III.2.113 (1) + III.3.1–49 (49)**.
+- **44 correcciones de traducción** y 6 versos confirmados sin cambios; 50 originales comprobados por igualdad literal. **19 notas** ancladas en fragmentos ingleses y **3 fichas** de lectura (mirada silenciosa, tormenta y desenlace de Agidas bajo coacción).
+- Testimonios: Alexander Dyce, texto base (Project Gutenberg #1094) y primer impreso (Richard Jones, 1590), Folger EarlyPrint **C4v–C5v, wln 1113–1166**, https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- Variantes: Dyce «shone», «send», «make» frente a 1590 «shine», «sent», «makes»; la acotación de 1590 (wln 1141) hace entrar solo a Tequeles con daga, mientras que el texto de base incluye a Usumcasane. Se conserva la dramaturgia del original de base, anotando la diferencia.
+- Glosas de «Hyades», «Cimmerian clouds», Austro y Aquilón, «tilt» como justa, «sounds the main» como medir la profundidad, «working tools» como instrumentos amenazantes y «triple-worthy» como intensificación de mérito.
+- Lectura escénica: el acto de Agidas ocurre bajo amenaza y no se interpreta como una elección libre o ejemplar. Su muerte ocurre tras el verso 106; las intervenciones posteriores de Tequeles y Usumcasane siguen en el tramo revisado.
+- Se agrega `philology-22.js` en carga anterior al lector, sin alterar los originales ingleses, numeración, acotaciones ni navegación.
