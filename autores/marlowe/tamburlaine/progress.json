@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Both parts complete in first translation draft. Philological review: Part I prologue P1–8 and I.1.1–189, I.2.1–103 reviewed (300 units). Next I.2.104–153 (50 units). The rest awaits early-witness collation and stylistic revision.",
+  "editorialReview": "Both parts have complete first Spanish translation drafts. Philological review covers Part I prologue P1–8, I.1.1–189, and I.2.1–153: 350 reviewed units. Next review I.2.154–203 (50). Other passages and comprehensive witness collation remain pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 300,
+    "reviewedUnits": 350,
     "reviewed": [
       {
         "part": 1,
@@ -484,29 +484,36 @@
         "start": 54,
         "end": 103,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 2,
+        "start": 104,
+        "end": 153,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I I.2.54–103",
+      "scope": "Part I I.2.104–153",
       "unitsReviewed": 50,
       "existingNotesRevised": 0,
-      "newNotes": 13,
+      "newNotes": 12,
       "readingCardsAdded": 1,
-      "translationLinesRevised": 46,
+      "translationLinesRevised": 37,
       "sourceBasis": [
-        "Alexander Dyce, Tamburlaine the Great, Part One, Project Gutenberg #1094, I.2.54–103 and editor's notes to Rhodope and valurous",
-        "1590 printing, Folger EarlyPrint transcription (A7r–A8r, wln 0267–0316), especially thee at 0280 and Rhodolfe at 0301",
-        "Sydnee Wagner, Towards a Racialized Tamburlaine, in McInnis, ed., Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 140–141",
-        "Annotated scholarly edition of Tamburlaine (2012), commentary on Rhodope and valurous"
+        "Alexander Dyce, ed., The Works of Christopher Marlowe (1859), I.2, especially notes on brave, mountain-top, mails and lance, Wikisource facsimile p. 73",
+        "David McInnis, ed., Tamburlaine: A Critical Reader (2020); Tom Rutter, Tamburlaine the Weather Man, p. 119",
+        "Alexander Dyce, Project Gutenberg eBook #1094, base transcription"
       ],
-      "note": "All 50 source lines audited against early witness. Thirteen anchored notes, one interpretative card. English text, scene numbering, ID, speaker labels and stage directions unchanged; original translation revised to clarify power and allusions."
+      "note": "Twelve anchored lexical and theatrical notes, one critical reading and translation repairs across 50 consecutive units. No alterations to source English, verse IDs, speaker names, or stage directions."
     },
     "next": {
       "part": 1,
       "act": 1,
       "scene": 2,
-      "line": 104
+      "line": 154
     }
   }
 }
