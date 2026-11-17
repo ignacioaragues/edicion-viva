@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Segunda revisión 166–170; corregir numeración heredada 142–161 con migración de highlights. No añadir texto: obra conservada y fragmentos ya incorporados. Cotejar exhaustivamente atribuciones de fragmentos y marcar laguna final.",
+  "next": "Cotejar y corregir los límites 186–190 conservando highlights; luego revisar morfología, traducción y notas desde 185 con objetivo 40–50 versos reales por ejecución. Separación física 142–143 pendiente de migración de offsets.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 165,
-    "next_verse": 166,
+    "reviewed_through_verse": 184,
+    "next_verse": 185,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "II.1 125–129: revisión de 37 fichas, incluida precisión de quod (v.129) como sujeto acusativo de esse en subordinada de infinitivo dependiente de arbitremur; texto y localizadores intactos.",
+    "note": "Segunda pasada consecutiva hasta 184: 160–184 revisados; 142–143 comparten todavía una unidad de lectura por compatibilidad de resaltados. Del 185 en adelante hay un nuevo desfase que requiere cotejo.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1696,6 +1696,19 @@
           "https://ae-lib.org.ua/texts-c/plautus__aulularia__lt.htm",
           "https://dokumen.pub/plautus-aulularia-1910572373-9781910572375.html"
         ]
+      },
+      {
+        "section": "II.1–II.2",
+        "from": 160,
+        "to": 184,
+        "status": "morphology_revised",
+        "tokens": 212,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://resources.warburg.sas.ac.uk/pdf/eph720b2450290.pdf",
+          "https://doi.org/10.1515/9783110711554-007"
+        ],
+        "note": "Numeración visible II.1 corregida: 142–143 se muestran como una unidad conjunta para conservar los offsets del resaltado histórico v142; 144–160 se reetiquetan conservando IDs v143–v159. Auditoría de tokens para 160–184 (25 versos canónicos, 212 formas); corrección de media (162) como acusativo concordante con uxorem, quae (169) nominativo sujeto de redigunt, retoque de traducción en 172–173, notas 142,162,167,169. Fichas alineadas comprobadas en 161–184; la revisión profunda de numeración 185–190 queda pendiente. No hay verificación visual de navegador."
       }
     ],
     "spot_checks": [
@@ -1739,7 +1752,7 @@
   "integrity_issues": [
     {
       "id": "ii1-159-161-numbering-duplicate",
-      "status": "root_cause_verified_fix_pending",
+      "status": "display_numbering_corrected_physical_split_pending",
       "detected": "2026-11-10",
       "location": "II.1, entradas 159–161",
       "evidence": "Las entradas 160 y 161 repiten literalmente «Num non vis me interrogare te? Immo, si quid vis, roga.»; The Latin Library sitúa «eam si iubes...» en v.160 y «Num non vis...» en v.161. Análisis adicional: la entrada 140 reúne «alia alia peior, frater, est.» y «Idem ego arbitror» en una sola unidad; el testimonio numerado de The Latin Library muestra el cambio de numeración entre los hitos 140 y 145, compatible con una división métrica omitida en el lector. Hipótesis por confirmar directamente en Leo antes de desplazar IDs. Cotejo adicional (10 nov): The Latin Library imprime «alia alia peior, frater, est. MEG. Idem ego arbitror» en UNA misma línea numerada 140; por tanto, la hipótesis de que el desfase se debe a dividir ese verso NO queda respaldada por esa fuente. La numeración 145 aparece en «ted id monitum advento», mientras el lector la identifica como 144: localizar el verso o criterio editorial faltante entre 140 y 145 antes de modificar IDs. COTEJO DIRECTO LEO 1895 (Perseus, 2.1): v.140 incluye «alia alia peior ... Idem ego arbitror»; v.142 es «Da mihi operam amabo»; v.143 es «Tuast, utere atque impera, si quid vis»; v.144 «Id quod ... arbitror»; v.145 «ted id monitum advento». En el lector, la entrada n=142 fusiona los versos canónicos 142 y 143; por eso desde n=143 hay un desfase de -1 hasta n=159. El texto de n=160 reproduce el diálogo de n=161, que corresponde únicamente al verso 161 de Leo. La causa exacta está identificada; no dividir n=140.",
@@ -1747,16 +1760,29 @@
         "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2:2.1/",
         "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
       ],
-      "next_action": "Dividir el objeto n=142 en dos unidades canónicas 142/143 con fichas, traducción y hablantes independientes; reatribuir visualmente números 143–160 sin alterar data-reading-id ni offsets preexistentes; eliminar solo la representación duplicada del diálogo n=160 mediante alias/migración explícita de resaltados, y verificar todos los identificadores antes de publicar. Reanudar después revisión 160–164 y nuevos versos 207+.",
+      "next_action": "La entrada 142 se muestra como 142–143 en un único bloque, con ID v142 y offsets intactos. Los objetos 143–159 ahora muestran 144–160 conservando los IDs v143–v159. La entrada 161 existe sin duplicación. Antes de dividir físicamente el 142–143, diseñar una migración de offsets y revisar un posible resaltado histórico v160. Cotejar nuevo desfase 186–190.",
       "preserve": "No renumerar ni eliminar entradas existentes sin estrategia de compatibilidad de IDs.",
       "investigated_on": "2026-11-10",
-      "review_status": "leo_1895_direct_text_verified; split_142_required; compatibility_migration_pending"
+      "review_status": "leo_1895_direct_text_verified; split_142_required; compatibility_migration_pending",
+      "last_checked": "2026-11-17"
+    },
+    {
+      "id": "ii2-186-190-numbering",
+      "status": "new_issue_pending_source_collation",
+      "detected": "2026-11-17",
+      "location": "II.2, vv. 186–190",
+      "evidence": "En el lector el diálogo Ain tu te valere (n=186) y Pol ego haud perbene a pecunia (n=187) se numeran como versos diferentes, mientras las ediciones cotejadas los imprimen como intervenciones del mismo verso 186. Más adelante, n=190 reúne el verso 189 cui ego iam ... y el 190 Quid tu solus ... Meam pauperiem ... . Verificar y corregir sin romper IDs ni highlights.",
+      "sources": [
+        "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+        "https://resources.warburg.sas.ac.uk/pdf/eph720b2450290.pdf"
+      ],
+      "next_action": "Determinar delimitaciones métricas de 186–190 y conservar los IDs de resaltado; después seguir revisión 185–224."
     }
   ],
   "identifier_migration": {
-    "status": "foundation_committed_not_migrated",
-    "date": "2026-11-11",
-    "description": "El lector acepta entry.stableId independiente de entry.n; comportamiento existente sin cambios. Pendiente asignar IDs históricos y migrar offsets antes de separar 142–143 y corregir 160–161.",
+    "status": "historic_ids_preserved_display_fixed_split_pending",
+    "date": "2026-11-17",
+    "description": "Se preservan row IDs históricos v142-v159 y el texto del bloque 142; se corrige el número visible 142–143 y los de 144–160. El ID v160 de una duplicación ya eliminada sigue sin migración explícita. División física 142–143 aplazada para no alterar offsets.",
     "next_steps": [
       "Cotejar edición Leo 142–161 y revisar entradas afectadas",
       "Implementar mapa de localizadores históricos con offsets para 142",
