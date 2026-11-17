@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Both parts complete in first translation draft. Philological review underway: Part I Prologue P1–8 and I.1.1–42 reviewed with scholarly notes and reading cards. Next pass I.1.43. Full early-witness collation and literary revision of remainder pending.",
+  "editorialReview": "Both parts complete in first translation draft. Philological review underway: Part I Prologue P1–8 and I.1.1–92 reviewed with selective scholarly notes and critical readings. Next pass I.1.93–142. Full early-witness collation and literary revision of remainder pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 50,
+    "reviewedUnits": 100,
     "reviewed": [
       {
         "part": 1,
@@ -436,28 +436,36 @@
         "start": 1,
         "end": 42,
         "count": 42
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 1,
+        "start": 43,
+        "end": 92,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I Prologue P1–P8 and I.1.1–42",
+      "scope": "Part I I.1.43–92",
       "unitsReviewed": 50,
-      "existingNotesRevised": 9,
+      "existingNotesRevised": 0,
       "newNotes": 8,
-      "readingCardsAdded": 3,
-      "translationLinesRevised": 3,
+      "readingCardsAdded": 1,
+      "translationLinesRevised": 6,
       "sourceBasis": [
-        "W. A. Neilson, ed., The Chief Elizabethan Dramatists (1911), Project Gutenberg 77587, P1–8 and I.1.1–20",
-        "Alexander Dyce, ed., Tamburlaine the Great, Project Gutenberg 1094, I.1.21–42, plus comparison of opening scene",
-        "David McInnis, ed., Tamburlaine: A Critical Reader (Bloomsbury, 2020), David McInnis Introduction pp. 1–4 and 13–14; Claire M. L. Bourne, Mending Tamburlaine pp. 85–90"
+        "Alexander Dyce, Tamburlaine the Great, Project Gutenberg 1094, I.1.43–92",
+        "1590 first printing, Folger EarlyPrint transcription A4r–A4v, wln 59–108 (original readings for [task] and all Africa)",
+        "David McInnis, Introduction, Tamburlaine: A Critical Reader (2020), pp. 13–14 (context on Mycetes' rhetoric and authority)"
       ],
-      "note": "Review of first-draft English-line alignment and translation; typographical variants from the early 1590 print still require primary-witness collation. Critical readings and note anchors are scene-local."
+      "note": "Full primary-witness collation of the whole play remains pending. Notes are anchored to precise source phrases; preserve local scene display and user highlights."
     },
     "next": {
       "part": 1,
       "act": 1,
       "scene": 1,
-      "line": 43
+      "line": 93
     }
   }
 }
