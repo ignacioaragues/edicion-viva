@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through IV.3.66. Source-line numbers; philological collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through Act IV (scenes 1–3 complete). Source-line numbers; philological collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -29078,6 +29078,475 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "They have bestow'd on my abortive son.",
           "es": "que ofrecieron a mi hijo malogrado."
+        },
+        {
+          "id": "P2-IV3-67",
+          "number": 67,
+          "speaker": "TAMBURLAINE",
+          "en": "Where are my common soldiers now, that fought",
+          "es": "¿Dónde están ahora mis soldados rasos, los que combatieron"
+        },
+        {
+          "id": "P2-IV3-68",
+          "number": 68,
+          "speaker": "",
+          "en": "So lion-like upon Asphaltis' plains?",
+          "es": "como leones en las llanuras del Asfaltites?"
+        },
+        {
+          "id": "P2-IV3-69",
+          "number": 69,
+          "speaker": "SOLDIERS",
+          "en": "Here, my lord.",
+          "es": "Aquí, señor."
+        },
+        {
+          "id": "P2-IV3-70",
+          "number": 70,
+          "speaker": "TAMBURLAINE",
+          "en": "Hold ye, tall soldiers, take ye queens a-piece,—",
+          "es": "Tomen, valientes soldados: una reina para cada uno;"
+        },
+        {
+          "id": "P2-IV3-71",
+          "number": 71,
+          "speaker": "",
+          "en": "I mean such queens as were kings' concubines;",
+          "es": "quiero decir las que fueron concubinas de estos reyes."
+        },
+        {
+          "id": "P2-IV3-72",
+          "number": 72,
+          "speaker": "",
+          "en": "Take them; divide them, and their jewels too,",
+          "es": "Tómenlas, repártanlas, y también sus joyas,"
+        },
+        {
+          "id": "P2-IV3-73",
+          "number": 73,
+          "speaker": "",
+          "en": "And let them equally serve all your turns.",
+          "es": "y que todas les sirvan por igual en cuanto deseen."
+        },
+        {
+          "id": "P2-IV3-74",
+          "number": 74,
+          "speaker": "SOLDIERS",
+          "en": "We thank your majesty.",
+          "es": "Agradecemos a vuestra majestad."
+        },
+        {
+          "id": "P2-IV3-75",
+          "number": 75,
+          "speaker": "TAMBURLAINE",
+          "en": "Brawl not, I warn you, for your lechery;",
+          "es": "Les advierto que no riñan por su lujuria,"
+        },
+        {
+          "id": "P2-IV3-76",
+          "number": 76,
+          "speaker": "",
+          "en": "For every man that so offends shall die.",
+          "es": "porque quien lo haga morirá."
+        },
+        {
+          "id": "P2-IV3-77",
+          "number": 77,
+          "speaker": "ORCANES",
+          "en": "Injurious tyrant, wilt thou so defame",
+          "es": "Tirano ultrajante, ¿mancharás de este modo"
+        },
+        {
+          "id": "P2-IV3-78",
+          "number": 78,
+          "speaker": "",
+          "en": "The hateful fortunes of thy victory,",
+          "es": "la execrable fortuna de tu victoria,"
+        },
+        {
+          "id": "P2-IV3-79",
+          "number": 79,
+          "speaker": "",
+          "en": "To exercise upon such guiltless dames",
+          "es": "haciendo que unas mujeres inocentes sufran"
+        },
+        {
+          "id": "P2-IV3-80",
+          "number": 80,
+          "speaker": "",
+          "en": "The violence of thy common soldiers' lust?",
+          "es": "la violencia del deseo de tus soldados rasos?"
+        },
+        {
+          "id": "P2-IV3-81",
+          "number": 81,
+          "speaker": "TAMBURLAINE",
+          "en": "Live continent, then, ye slaves, and meet not me",
+          "es": "Entonces vivan en continencia, esclavos, y no vengan a mi encuentro"
+        },
+        {
+          "id": "P2-IV3-82",
+          "number": 82,
+          "speaker": "",
+          "en": "With troops of harlots at your slothful heels.",
+          "es": "con séquitos de cortesanas siguiendo sus pasos ociosos."
+        },
+        {
+          "id": "P2-IV3-83",
+          "number": 83,
+          "speaker": "CONCUBINES",
+          "en": "O pity us, my lord, and save our honours!",
+          "es": "¡Ten piedad de nosotras, señor, y salva nuestra honra!"
+        },
+        {
+          "id": "P2-IV3-84",
+          "number": 84,
+          "speaker": "TAMBURLAINE",
+          "en": "Are ye not gone, ye villains, with your spoils?",
+          "es": "¿Todavía no se han ido, villanos, con su botín?"
+        },
+        {
+          "id": "P2-IV3-85",
+          "number": 85,
+          "speaker": "KING OF JERUSALEM",
+          "en": "O, merciless, infernal cruelty!",
+          "es": "¡Oh crueldad infernal y despiadada!"
+        },
+        {
+          "id": "P2-IV3-86",
+          "number": 86,
+          "speaker": "TAMBURLAINE",
+          "en": "Save your honours! 'twere but time indeed,",
+          "es": "¡Salvar su honra! Ya iba siendo hora, en verdad,"
+        },
+        {
+          "id": "P2-IV3-87",
+          "number": 87,
+          "speaker": "",
+          "en": "Lost long before ye knew what honour meant.",
+          "es": "pues la perdieron mucho antes de saber qué significaba."
+        },
+        {
+          "id": "P2-IV3-88",
+          "number": 88,
+          "speaker": "THERIDAMAS",
+          "en": "It seems they meant to conquer us, my lord,",
+          "es": "Parece que pretendían conquistarnos, señor,"
+        },
+        {
+          "id": "P2-IV3-89",
+          "number": 89,
+          "speaker": "",
+          "en": "And make us jesting pageants for their trulls.",
+          "es": "y convertirnos en bufones de feria para divertir a sus rameras."
+        },
+        {
+          "id": "P2-IV3-90",
+          "number": 90,
+          "speaker": "TAMBURLAINE",
+          "en": "And now themselves shall make our pageant,",
+          "es": "Y ahora serán ellos mismos quienes sirvan para nuestro espectáculo,"
+        },
+        {
+          "id": "P2-IV3-91",
+          "number": 91,
+          "speaker": "",
+          "en": "And common soldiers jest with all their trulls.",
+          "es": "mientras los soldados rasos se burlan con sus cortesanas."
+        },
+        {
+          "id": "P2-IV3-92",
+          "number": 92,
+          "speaker": "",
+          "en": "Let them take pleasure soundly in their spoils,",
+          "es": "Que disfruten a conciencia de su botín"
+        },
+        {
+          "id": "P2-IV3-93",
+          "number": 93,
+          "speaker": "",
+          "en": "Till we prepare our march to Babylon,",
+          "es": "mientras preparamos la marcha sobre Babilonia,"
+        },
+        {
+          "id": "P2-IV3-94",
+          "number": 94,
+          "speaker": "",
+          "en": "Whither we next make expedition.",
+          "es": "hacia donde nos dirigiremos ahora."
+        },
+        {
+          "id": "P2-IV3-95",
+          "number": 95,
+          "speaker": "TECHELLES",
+          "en": "Let us not be idle, then, my lord,",
+          "es": "No permanezcamos inactivos, señor,"
+        },
+        {
+          "id": "P2-IV3-96",
+          "number": 96,
+          "speaker": "",
+          "en": "But presently be prest to conquer it.",
+          "es": "sino preparémonos enseguida para conquistarla."
+        },
+        {
+          "id": "P2-IV3-97",
+          "number": 97,
+          "speaker": "TAMBURLAINE",
+          "en": "We will, Techelles.—Forward, then, ye jades!",
+          "es": "Así será, Tequeles. ¡Adelante entonces, rocines!"
+        },
+        {
+          "id": "P2-IV3-98",
+          "number": 98,
+          "speaker": "",
+          "en": "Now crouch, ye kings of greatest Asia,",
+          "es": "Ahora agáchense, reyes de la gran Asia,"
+        },
+        {
+          "id": "P2-IV3-99",
+          "number": 99,
+          "speaker": "",
+          "en": "And tremble when ye hear this scourge will come",
+          "es": "y tiemblen al oír que se aproxima este azote"
+        },
+        {
+          "id": "P2-IV3-100",
+          "number": 100,
+          "speaker": "",
+          "en": "That whips down cities and controlleth crowns,",
+          "es": "que derriba ciudades a latigazos y somete coronas,"
+        },
+        {
+          "id": "P2-IV3-101",
+          "number": 101,
+          "speaker": "",
+          "en": "Adding their wealth and treasure to my store.",
+          "es": "sumando sus riquezas y tesoros a mis reservas."
+        },
+        {
+          "id": "P2-IV3-102",
+          "number": 102,
+          "speaker": "",
+          "en": "The Euxine sea, north to Natolia;",
+          "es": "El mar Euxino, al norte de Anatolia;"
+        },
+        {
+          "id": "P2-IV3-103",
+          "number": 103,
+          "speaker": "",
+          "en": "The Terrene, west; the Caspian, north north-east;",
+          "es": "el Mediterráneo, al oeste; el Caspio, hacia el nordeste;"
+        },
+        {
+          "id": "P2-IV3-104",
+          "number": 104,
+          "speaker": "",
+          "en": "And on the south, Sinus Arabicus;",
+          "es": "y al sur, el golfo Arábigo,"
+        },
+        {
+          "id": "P2-IV3-105",
+          "number": 105,
+          "speaker": "",
+          "en": "Shall all be loaden with the martial spoils",
+          "es": "todos se verán cargados con los despojos de guerra"
+        },
+        {
+          "id": "P2-IV3-106",
+          "number": 106,
+          "speaker": "",
+          "en": "We will convey with us to Persia.",
+          "es": "que llevaremos con nosotros a Persia."
+        },
+        {
+          "id": "P2-IV3-107",
+          "number": 107,
+          "speaker": "",
+          "en": "Then shall my native city Samarcanda,",
+          "es": "Entonces mi ciudad natal, Samarcanda,"
+        },
+        {
+          "id": "P2-IV3-108",
+          "number": 108,
+          "speaker": "",
+          "en": "And crystal waves of fresh Jaertis' stream,",
+          "es": "y las aguas cristalinas del fresco río Yaxartes,"
+        },
+        {
+          "id": "P2-IV3-109",
+          "number": 109,
+          "speaker": "",
+          "en": "The pride and beauty of her princely seat,",
+          "es": "orgullo y belleza de su sede principesca,"
+        },
+        {
+          "id": "P2-IV3-110",
+          "number": 110,
+          "speaker": "",
+          "en": "Be famous through the furthest continents;",
+          "es": "serán célebres hasta en los continentes más lejanos;"
+        },
+        {
+          "id": "P2-IV3-111",
+          "number": 111,
+          "speaker": "",
+          "en": "For there my palace royal shall be plac'd,",
+          "es": "porque allí se alzará mi palacio real,"
+        },
+        {
+          "id": "P2-IV3-112",
+          "number": 112,
+          "speaker": "",
+          "en": "Whose shining turrets shall dismay the heavens,",
+          "es": "cuyas torres resplandecientes sobrecogerán al cielo"
+        },
+        {
+          "id": "P2-IV3-113",
+          "number": 113,
+          "speaker": "",
+          "en": "And cast the fame of Ilion's tower to hell:",
+          "es": "y relegarán al infierno la fama de las torres de Ilión."
+        },
+        {
+          "id": "P2-IV3-114",
+          "number": 114,
+          "speaker": "",
+          "en": "Thorough the streets, with troops of conquer'd kings,",
+          "es": "Por sus calles, entre tropeles de reyes conquistados,"
+        },
+        {
+          "id": "P2-IV3-115",
+          "number": 115,
+          "speaker": "",
+          "en": "I'll ride in golden armour like the sun;",
+          "es": "cabalgaré con armadura dorada como el sol;"
+        },
+        {
+          "id": "P2-IV3-116",
+          "number": 116,
+          "speaker": "",
+          "en": "And in my helm a triple plume shall spring,",
+          "es": "de mi yelmo brotará un penacho triple,"
+        },
+        {
+          "id": "P2-IV3-117",
+          "number": 117,
+          "speaker": "",
+          "en": "Spangled with diamonds, dancing in the air,",
+          "es": "salpicado de diamantes que danzarán en el aire,"
+        },
+        {
+          "id": "P2-IV3-118",
+          "number": 118,
+          "speaker": "",
+          "en": "To note me emperor of the three-fold world;",
+          "es": "para señalarme como emperador del mundo tripartito;"
+        },
+        {
+          "id": "P2-IV3-119",
+          "number": 119,
+          "speaker": "",
+          "en": "Like to an almond-tree y-mounted high",
+          "es": "semejante a un almendro elevado"
+        },
+        {
+          "id": "P2-IV3-120",
+          "number": 120,
+          "speaker": "",
+          "en": "Upon the lofty and celestial mount",
+          "es": "sobre la alta montaña celestial"
+        },
+        {
+          "id": "P2-IV3-121",
+          "number": 121,
+          "speaker": "",
+          "en": "Of ever-green Selinus, quaintly deck'd",
+          "es": "de Selino, siempre verde y primorosamente adornado"
+        },
+        {
+          "id": "P2-IV3-122",
+          "number": 122,
+          "speaker": "",
+          "en": "With blooms more white than Erycina's brows,",
+          "es": "de flores más blancas que la frente de Ericina,"
+        },
+        {
+          "id": "P2-IV3-123",
+          "number": 123,
+          "speaker": "",
+          "en": "Whose tender blossoms tremble every one",
+          "es": "cuyos tiernos pétalos tiemblan todos"
+        },
+        {
+          "id": "P2-IV3-124",
+          "number": 124,
+          "speaker": "",
+          "en": "At every little breath that thorough heaven is blown.",
+          "es": "ante el menor soplo que atraviesa el cielo."
+        },
+        {
+          "id": "P2-IV3-125",
+          "number": 125,
+          "speaker": "",
+          "en": "Then in my coach, like Saturn's royal son",
+          "es": "Entonces, en mi carro, como el regio hijo de Saturno"
+        },
+        {
+          "id": "P2-IV3-126",
+          "number": 126,
+          "speaker": "",
+          "en": "Mounted his shining chariot gilt with fire,",
+          "es": "montó su fulgurante carro dorado por el fuego,"
+        },
+        {
+          "id": "P2-IV3-127",
+          "number": 127,
+          "speaker": "",
+          "en": "And drawn with princely eagles through the path",
+          "es": "tirado por águilas principescas a lo largo del camino"
+        },
+        {
+          "id": "P2-IV3-128",
+          "number": 128,
+          "speaker": "",
+          "en": "Pav'd with bright crystal and enchas'd with stars,",
+          "es": "empedrado de cristal brillante e incrustado de estrellas,"
+        },
+        {
+          "id": "P2-IV3-129",
+          "number": 129,
+          "speaker": "",
+          "en": "When all the gods stand gazing at his pomp,",
+          "es": "mientras todos los dioses contemplan su magnificencia,"
+        },
+        {
+          "id": "P2-IV3-130",
+          "number": 130,
+          "speaker": "",
+          "en": "So will I ride through Samarcanda-streets,",
+          "es": "así recorreré las calles de Samarcanda,"
+        },
+        {
+          "id": "P2-IV3-131",
+          "number": 131,
+          "speaker": "",
+          "en": "Until my soul, dissever'd from this flesh,",
+          "es": "hasta que mi alma, separada de esta carne,"
+        },
+        {
+          "id": "P2-IV3-132",
+          "number": 132,
+          "speaker": "",
+          "en": "Shall mount the milk-white way, and meet him there.",
+          "es": "ascienda por el camino blanco de leche y se encuentre allí con él."
+        },
+        {
+          "id": "P2-IV3-133",
+          "number": 133,
+          "speaker": "",
+          "en": "To Babylon, my lords, to Babylon!",
+          "es": "¡A Babilonia, señores, a Babilonia!"
         }
       ]
     }
@@ -29502,6 +29971,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 66,
       "en": "The concubines are brought in.",
       "es": "Traen a las concubinas."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 85,
+      "en": "The soldiers run away with the concubines.",
+      "es": "Los soldados se llevan a las concubinas."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 133,
+      "en": "Exeunt.",
+      "es": "Salen todos."
     }
   ]
 };
