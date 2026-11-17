@@ -120,12 +120,12 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX caput I complete (§§1–6), caput II started (§7), PL 54 col. 160C–161B; rest II–IV pending",
-      "paragraphs": 7,
-      "latin_tokens": 276,
-      "lexical_coverage": "276/276 first-pass token occurrences with contextual lexical cards",
-      "translation": "caput I and caput II opening translated; rest II–IV pending",
-      "voice_notes": 7,
+      "section": "Sermo IX caput I complete (§§1–6), caput II partial (§§7–8), PL 54 col. 160C–161B; rest II–IV pending",
+      "paragraphs": 8,
+      "latin_tokens": 319,
+      "lexical_coverage": "319/319 first-pass token occurrences with contextual lexical cards",
+      "translation": "caput I and caput II §§7–8 translated; rest II–IV pending",
+      "voice_notes": 8,
       "complete_work": false,
       "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending."
     }
@@ -133,8 +133,8 @@
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Veniet enim in majestatis suae gloria Dominus",
-    "location": "PL 54 Sermo IX caput II col. 161B"
+    "beginning": "Separabuntur ab injustis justi",
+    "location": "PL 54 Sermo IX caput II col. 161C"
   },
   "priority": "Finish Sermo IX capita II–IV before Sermo X",
   "last_edit": "2026-11-17",
