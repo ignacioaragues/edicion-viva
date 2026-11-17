@@ -841,35 +841,35 @@ window.TAMBURLAINE_EDITION = {
       "number": 113,
       "speaker": "",
       "en": "But this it is that doth excruciate",
-      "es": "Pero lo que atormenta"
+      "es": "Pero hay algo que desgarra"
     },
     {
       "id": "I1-114",
       "number": 114,
       "speaker": "",
       "en": "The very substance of my vexed soul,",
-      "es": "hasta la médula de mi alma afligida"
+      "es": "hasta lo más hondo de mi alma atormentada:"
     },
     {
       "id": "I1-115",
       "number": 115,
       "speaker": "",
       "en": "To see our neighbours, that were wont to quake",
-      "es": "es ver a nuestros vecinos, que solían estremecerse"
+      "es": "ver cómo nuestros vecinos, que antes se estremecían"
     },
     {
       "id": "I1-116",
       "number": 116,
       "speaker": "",
       "en": "And tremble at the Persian monarch's name,",
-      "es": "y temblar ante el nombre del monarca persa,"
+      "es": "y temblaban al oír el nombre del monarca persa,"
     },
     {
       "id": "I1-117",
       "number": 117,
       "speaker": "",
       "en": "Now sit and laugh our regiment to scorn;",
-      "es": "sentarse ahora a reírse de nuestro gobierno;"
+      "es": "ahora se sientan a burlarse de nuestro gobierno;"
     },
     {
       "id": "I1-118",
@@ -904,7 +904,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 122,
       "speaker": "",
       "en": "And made their spoils from all our provinces.",
-      "es": "tras saquear todas nuestras provincias."
+      "es": "y han saqueado todas nuestras provincias."
     },
     {
       "id": "I1-123",
@@ -925,7 +925,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 125,
       "speaker": "",
       "en": "To gain the title of a conqueror",
-      "es": "de conquistar el título de vencedor"
+      "es": "de ganarse el título de conquistador"
     },
     {
       "id": "I1-126",
@@ -946,7 +946,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 128,
       "speaker": "",
       "en": "And continent to your dominions,",
-      "es": "y están unidas a vuestros dominios."
+      "es": "y son contiguas a vuestros dominios,"
     },
     {
       "id": "I1-129",
@@ -1471,6 +1471,51 @@ window.TAMBURLAINE_EDITION = {
       "«Pro-rex» y la variante «all Africa»",
       "«Pro-rex» es un virrey o delegado regio. El impreso de 1590 (A4v) presenta «Create him Prorex of Affrica», sin «all», mientras la edición de Dyce usada como base contiene «of all Africa»; mantenemos la lectura base y registramos la diferencia. La referencia a África junto a Babilonia plantea una geografía política problemática, que otras ediciones han tratado mediante conjeturas como «Assyria», no adoptadas aquí.",
       "pro-rex of all Africa"
+    ],
+    "98": [
+      "El «asiento real»: trono y posible burla",
+      "Micetes jura por su «royal seat», es decir, el trono, y Cosroe le aconseja besarlo. La réplica admite un doble sentido obsceno: «seat» puede sugerir también las posaderas del rey. La broma rebaja el juramento solemne sin que Micetes parezca advertirla. Es una posibilidad interpretativa, no una indicación escénica explícita.",
+      "kiss it"
+    ],
+    "107": [
+      "«Mated»: confundido o vencido",
+      "«Mated» puede expresar derrota o desconcierto, con resonancias del jaque mate. Menafón pregunta irónicamente a Cosroe si ha quedado intimidado por las amenazas de Micetes; la pregunta no implica que el golpe político haya fracasado.",
+      "mated and amaz'd"
+    ],
+    "109": [
+      "«I pass not for»: no me preocupan",
+      "«Pass not for» es una expresión histórica equivalente a «no me importa» o «no hago caso de». La réplica desmiente la supuesta inquietud del verso anterior y precede a la revelación del complot cortesano.",
+      "pass not for"
+    ],
+    "117": [
+      "«Regiment» y una variante gramatical de 1590",
+      "Aquí «regiment» significa régimen o gobierno, no una unidad militar. El impreso de 1590 (Folger EarlyPrint, A5r, wln 134) lee «Now sits and laughs», pese al sujeto plural «neighbours»; el texto de Dyce, base de la edición digital, ofrece «Now sit and laugh». La regularización se conserva, pero la diferencia queda registrada. Fuente primaria: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html",
+      "regiment"
+    ],
+    "119": [
+      "La «línea equinoccial»",
+      "«Equinoctial line» designa el ecuador. La expresión sitúa a los saqueadores en un horizonte geográfico remoto y contribuye a la representación hiperbólica de la extensión del imperio persa. No debe leerse como una delimitación moderna y precisa de sus fronteras.",
+      "equinoctial line"
+    ],
+    "126": [
+      "El «imperio mutilado»",
+      "«Maimed empery» presenta el reino como un cuerpo herido al que un nuevo conquistador podría curar. Menafón convierte así las pérdidas territoriales en justificación de una política de expansión: la «cura» prometida implica nuevas guerras.",
+      "maimed empery"
+    ],
+    "128": [
+      "«Continent»: contiguo, no continente",
+      "El adjetivo «continent to» significa «contiguo a» o «que linda con»; no equivale aquí al sustantivo moderno «continente». La supuesta proximidad de África y Europa a los dominios persas pertenece a la geografía retórica del personaje.",
+      "continent to your dominions"
+    ],
+    "130": [
+      "Ciro y la geografía de la conquista",
+      "La alusión remite a Ciro II el Grande, fundador del imperio aqueménida. Ciro conquistó Lidia y su expansión alcanzó las ciudades griegas de Asia Menor por medio de sus generales, pero no invadió la Grecia continental. La exhortación de Menafón comprime esos hechos en una imagen de conquista de «Grecia»; no debe tomarse como dato histórico exacto. Véase Rüdiger Schmitt, «Greece i. Greco-Persian Political Relations», Encyclopaedia Iranica (2002, rev. 2016), https://www.iranicaonline.org/articles/greece-i/.",
+      "as did Cyrus once"
+    ],
+    "137": [
+      "«States and commons»: legitimación estamental",
+      "En este contexto «states» alude a los estamentos o cuerpos políticos del reino, y «commons» a los comunes o al pueblo. Ortigio presenta la coronación de Cosroe como decisión colectiva, aunque el parlamento y la ceremonia están dominados por una facción de nobles y militares.",
+      "Persian states"
     ],
     "P1": [
       "Rima y «mighty line»",
@@ -34119,6 +34164,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.1.43–92",
         "body": "La orden contra Tamerlán empieza como un trámite militar y se transforma en exhibición de elocuencia fallida. Micetes invoca la amistad de Damón, imagina al Estado apoyado en las piernas de su capitán, recuerda a Paris y termina deseando caballos blancos cubiertos de cabezas y sangre. Cosroe, por su parte, finge obediencia mientras exhibe la insuficiencia del gobierno de su hermano. La misma voz cómica que tropieza en el discurso puede fantasear con una violencia extrema. Esta lectura de los vv. 43–92 prolonga la observación de McInnis acerca de la impotencia retórica y política de Micetes, pero no debe confundirse con una paráfrasis literal de su estudio.",
         "source": "Lectura editorial de I.1.43–92; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (2020), pp. 13–14, sobre la debilidad verbal y la autoridad regia de Micetes."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "De la burla del trono a la coronación del rival",
+        "range": "Parte I · I.1.93–142",
+        "body": "La autoridad de Micetes se deshace en dos movimientos simultáneos. Mientras el rey ordena registrar los insultos de su hermano y jura por su asiento real, Cosroe revela que los nobles y las guarniciones ya han organizado su coronación. Menafón traduce la crisis política en programa de conquista: el «imperio mutilado» puede «curarse» mediante una nueva expansión militar. La llegada de la diadema materializa esa transferencia de lealtades antes de la aparición de Tamerlán. Lectura editorial del pasaje, vinculada con la atención de McInnis al contraste entre insignia regia y poder efectivo.",
+        "source": "Lectura editorial de I.1.93–142; David McInnis, «Introduction», en Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 13–15."
       }
     ]
   }
