@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162B; cap. III iniciado (col. 162B–C)",
+  "source": "Ballerini–Migne, PL 54, Sermo IX, col. 160C–162C; cap. III parcial",
   "status": "partial",
-  "next": "Caput III: Unde hortamur sanctitatem vestram ut per Ecclesias regionum vestrarum",
+  "next": "Caput III: Sunt enim qui palam poscere ea quibus indigent erubescunt",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -2364,6 +2364,273 @@ window.LEO_SERMO_I = {
           "perpetuus",
           "acusativo neutro singular",
           "permanente"
+        ]
+      }
+    },
+    {
+      "id": "s9-14",
+      "label": "14",
+      "latin": "Unde hortamur sanctitatem vestram ut per Ecclesias regionum vestrarum quarta feria de facultatibus vestris, quantum suadet possibilitas et voluntas, ad expensas misericordiae conferatis, ut possitis illam beatitudinem promereri, in qua sine fine gaudebit qui intelligit super egenum et pauperem. Ad quem intelligendum, dilectissimi, sollicita benignitate vigilandum est, ut quem modestia tegit, et verecundia praepedit, invenire possimus.",
+      "spanish": "Por eso exhortamos a vuestra santidad a que, el miércoles, aportéis por medio de las iglesias de vuestras regiones, de vuestros recursos, cuanto os aconsejen vuestras posibilidades y vuestra voluntad, para sufragar las obras de misericordia, de modo que podáis alcanzar aquella bienaventuranza en la que gozará sin fin quien se preocupa por el indigente y el pobre. Para reconocerlo, queridísimos, debemos velar con solícita bondad, a fin de encontrar a aquel a quien la modestia oculta y la vergüenza retiene.",
+      "note": [
+        "La caridad que busca al invisible",
+        "El mandato colectivo hortamur ... conferatis desemboca en una tarea de observación: vigilandum est ... invenire possimus. La atención se desplaza del donativo a la búsqueda activa del pobre que no pide. La lectura quarta feria se conserva como texto base, pero Ballerini advierte en nota 11 que debería ser quinta feria; no hay apoyo manuscrito para enmendarla."
+      ],
+      "lexicon": {
+        "Unde": [
+          "unde",
+          "adverbio ilativo",
+          "por eso"
+        ],
+        "hortamur": [
+          "hortor",
+          "presente indicativo deponente 1.ª plural",
+          "exhortamos"
+        ],
+        "sanctitatem": [
+          "sanctitas",
+          "acusativo femenino singular",
+          "santidad"
+        ],
+        "vestram": [
+          "vester",
+          "acusativo femenino singular",
+          "vuestra"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "per": [
+          "per",
+          "preposición con acusativo",
+          "por medio de"
+        ],
+        "Ecclesias": [
+          "ecclesia",
+          "acusativo femenino plural",
+          "iglesias"
+        ],
+        "regionum": [
+          "regio",
+          "genitivo femenino plural",
+          "regiones"
+        ],
+        "vestrarum": [
+          "vester",
+          "genitivo femenino plural",
+          "vuestras"
+        ],
+        "quarta": [
+          "quartus",
+          "ablativo femenino singular",
+          "cuarta"
+        ],
+        "feria": [
+          "feria",
+          "ablativo femenino singular",
+          "día de la semana"
+        ],
+        "de": [
+          "de",
+          "preposición con ablativo",
+          "de"
+        ],
+        "facultatibus": [
+          "facultas",
+          "ablativo femenino plural",
+          "recursos"
+        ],
+        "vestris": [
+          "vester",
+          "ablativo femenino plural",
+          "vuestros"
+        ],
+        "quantum": [
+          "quantum",
+          "adverbio de cantidad",
+          "cuanto"
+        ],
+        "suadet": [
+          "suadeo",
+          "presente indicativo activo 3.ª singular",
+          "aconseja"
+        ],
+        "possibilitas": [
+          "possibilitas",
+          "nominativo femenino singular",
+          "posibilidad"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "voluntas": [
+          "voluntas",
+          "nominativo femenino singular",
+          "voluntad"
+        ],
+        "ad": [
+          "ad",
+          "preposición con acusativo",
+          "para"
+        ],
+        "expensas": [
+          "expensa",
+          "acusativo femenino plural",
+          "gastos"
+        ],
+        "misericordiae": [
+          "misericordia",
+          "genitivo femenino singular",
+          "de misericordia"
+        ],
+        "conferatis": [
+          "confero",
+          "presente subjuntivo activo 2.ª plural",
+          "aportéis"
+        ],
+        "possitis": [
+          "possum",
+          "presente subjuntivo activo 2.ª plural",
+          "podáis"
+        ],
+        "illam": [
+          "ille",
+          "acusativo femenino singular",
+          "aquella"
+        ],
+        "beatitudinem": [
+          "beatitudo",
+          "acusativo femenino singular",
+          "bienaventuranza"
+        ],
+        "promereri": [
+          "promereor",
+          "infinitivo presente deponente",
+          "merecer alcanzar"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "qua": [
+          "qui",
+          "ablativo femenino singular relativo",
+          "la cual"
+        ],
+        "sine": [
+          "sine",
+          "preposición con ablativo",
+          "sin"
+        ],
+        "fine": [
+          "finis",
+          "ablativo masculino singular",
+          "fin"
+        ],
+        "gaudebit": [
+          "gaudeo",
+          "futuro indicativo activo 3.ª singular",
+          "gozará"
+        ],
+        "qui": [
+          "qui",
+          "nominativo masculino singular relativo",
+          "quien"
+        ],
+        "intelligit": [
+          "intellego",
+          "presente indicativo activo 3.ª singular",
+          "atiende"
+        ],
+        "super": [
+          "super",
+          "preposición con acusativo",
+          "por"
+        ],
+        "egenum": [
+          "egenus",
+          "acusativo masculino singular sustantivado",
+          "indigente"
+        ],
+        "pauperem": [
+          "pauper",
+          "acusativo masculino singular sustantivado",
+          "pobre"
+        ],
+        "Ad": [
+          "ad",
+          "preposición con acusativo",
+          "para"
+        ],
+        "quem": [
+          "qui",
+          "acusativo masculino singular relativo",
+          "a quien"
+        ],
+        "intelligendum": [
+          "intellego",
+          "gerundivo acusativo masculino singular",
+          "reconocer"
+        ],
+        "dilectissimi": [
+          "dilectus",
+          "vocativo masculino plural superlativo",
+          "queridísimos"
+        ],
+        "sollicita": [
+          "sollicitus",
+          "ablativo femenino singular",
+          "solícita"
+        ],
+        "benignitate": [
+          "benignitas",
+          "ablativo femenino singular",
+          "bondad"
+        ],
+        "vigilandum": [
+          "vigilo",
+          "gerundivo neutro singular impersonal",
+          "hay que velar"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "modestia": [
+          "modestia",
+          "nominativo femenino singular",
+          "modestia"
+        ],
+        "tegit": [
+          "tego",
+          "presente indicativo activo 3.ª singular",
+          "oculta"
+        ],
+        "verecundia": [
+          "verecundia",
+          "nominativo femenino singular",
+          "vergüenza"
+        ],
+        "praepedit": [
+          "praepedio",
+          "presente indicativo activo 3.ª singular",
+          "impide"
+        ],
+        "invenire": [
+          "invenio",
+          "infinitivo presente activo",
+          "encontrar"
+        ],
+        "possimus": [
+          "possum",
+          "presente subjuntivo activo 1.ª plural",
+          "podamos"
         ]
       }
     }
