@@ -1866,7 +1866,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 8,
       "speaker": "",
       "en": "(If, as thou seem'st, thou art so mean a man,)",
-      "es": "(si de verdad es un hombre tan humilde como aparentas),"
+      "es": "(si de verdad eres un hombre tan humilde como aparentas),"
     },
     {
       "id": "I2-9",
