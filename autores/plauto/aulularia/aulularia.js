@@ -954,6 +954,7 @@ notes['169'] = {number:169,type:'SINTAXIS',heading:'Quae como sujeto',text:'Quae
       if (Number(verses[i].n) >= 212 && Number(verses[i].n) <= 225) verses.splice(i, 1);
     }
     const target = verses.findIndex(entry => entry.n === '226');
+    block.sort((a, b) => Number(a.n) - Number(b.n));
     verses.splice(target, 0, ...block);
   } else {
     console.error('Aulularia: no se reordenaron los versos 212–225 por posible conflicto editorial.');
