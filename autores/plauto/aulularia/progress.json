@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Cotejar y corregir los límites 186–190 conservando highlights; luego revisar morfología, traducción y notas desde 185 con objetivo 40–50 versos reales por ejecución. Separación física 142–143 pendiente de migración de offsets.",
-  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio.",
+  "next": "Revisar en II.2 vv.225–264 (objetivo 40–50 versos), con cotejo de lemas, glosas, traducciones, notas y límites métricos; asegurar que el arreglo visual 186–190 y orden 212–227 se comporten correctamente en navegador. Dividir físicamente 142–143 solo con estrategia segura de resaltados.",
+  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 184,
-    "next_verse": 185,
+    "reviewed_through_verse": 224,
+    "next_verse": 225,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Segunda pasada consecutiva hasta 184: 160–184 revisados; 142–143 comparten todavía una unidad de lectura por compatibilidad de resaltados. Del 185 en adelante hay un nuevo desfase que requiere cotejo.",
+    "note": "Segunda pasada consecutiva hasta el verso 224 (edición de 2026-11-17); siguiente 225. Arreglo visible de 186–190 sin cambiar identificadores y corrección de orden 212–227 sin tocar texto de resaltados.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1709,6 +1709,20 @@
           "https://doi.org/10.1515/9783110711554-007"
         ],
         "note": "Numeración visible II.1 corregida: 142–143 se muestran como una unidad conjunta para conservar los offsets del resaltado histórico v142; 144–160 se reetiquetan conservando IDs v143–v159. Auditoría de tokens para 160–184 (25 versos canónicos, 212 formas); corrección de media (162) como acusativo concordante con uxorem, quae (169) nominativo sujeto de redigunt, retoque de traducción en 172–173, notas 142,162,167,169. Fichas alineadas comprobadas en 161–184; la revisión profunda de numeración 185–190 queda pendiente. No hay verificación visual de navegador. Los vv. 161–165 ya habían sido auditados por la ejecución horaria; fueron reexaminados, no se cuentan como 5 versos nuevos exclusivos. Se corrigió además la referencia del popup para palabras del v. 143."
+      },
+      {
+        "section": "II.2",
+        "from": 185,
+        "to": 224,
+        "status": "morphology_revised",
+        "verses": 40,
+        "tokens": 372,
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_II_II",
+          "https://hdl.handle.net/10023/14536"
+        ],
+        "note": "Cotejo editorial de vv. 185–224 (40 versos canónicos repartidos en 40 objetos de lectura heredados), 372 tokens confrontados con sus fichas y grafías. Corregidos qui (en n=188/canónico 187: adverbio relativo instrumental), zamia (197: préstamo griego), bona (213: ablativo elíptico de fide) y aurum (216: nominativo sujeto de olet); traducciones puntualizadas en 186–223 y notas en 186,197,213,216,223, preservando anotaciones anteriores 216/223. Delimitaciones conservadas sin romper resaltados: las entradas históricas 186 y 187 son intervenciones del mismo v.186; n=188 muestra v.187, n=189 muestra v.188 y n=190 muestra vv.189–190. Se corrigió en tiempo de renderizado el orden de 212–225 antes de 226–227. Los IDs v186–v227 y sus offsets históricos no cambian. Archivo JavaScript compilado, cotejo crítico del aparato impreso y QA visual real pendientes."
       }
     ],
     "spot_checks": [
@@ -1768,15 +1782,15 @@
     },
     {
       "id": "ii2-186-190-numbering",
-      "status": "new_issue_pending_source_collation",
+      "status": "display_fix_committed_pending_browser_qa",
       "detected": "2026-11-17",
       "location": "II.2, vv. 186–190",
-      "evidence": "En el lector el diálogo Ain tu te valere (n=186) y Pol ego haud perbene a pecunia (n=187) se numeran como versos diferentes, mientras las ediciones cotejadas los imprimen como intervenciones del mismo verso 186. Más adelante, n=190 reúne el verso 189 cui ego iam ... y el 190 Quid tu solus ... Meam pauperiem ... . Verificar y corregir sin romper IDs ni highlights.",
+      "evidence": "En el lector el diálogo Ain tu te valere (n=186) y Pol ego haud perbene a pecunia (n=187) se numeran como versos diferentes, mientras las ediciones cotejadas los imprimen como intervenciones del mismo verso 186. Más adelante, n=190 reúne el verso 189 cui ego iam ... y el 190 Quid tu solus ... Meam pauperiem ... . Verificar y corregir sin romper IDs ni highlights. Rectificado con cotejo The Latin Library II.2 y LateinLex: 186 contiene dos turnos (antes n186 y n187); la antigua n188 equivale al 187, n189 al 188 y n190 agrupa 189 y 190.",
       "sources": [
         "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
         "https://resources.warburg.sas.ac.uk/pdf/eph720b2450290.pdf"
       ],
-      "next_action": "Determinar delimitaciones métricas de 186–190 y conservar los IDs de resaltado; después seguir revisión 185–224."
+      "next_action": "Se conservan los ID históricos, se muestran 186 (cont.), 187, 188 y 189–190, y los popups del último bloque identifican 189 o 190 según la palabra. Pendiente QA visual y, si se exige unificación física de filas, migración de rangos."
     },
     {
       "id": "aulularia-js-580-604-malformed-spread",
@@ -1788,6 +1802,15 @@
       "fix": "Se reconstruyó como un único array válido de 43 entradas 580–622 y se comprobó con JSON.parse y compilación del archivo entero con Function constructor sin ejecutarlo.",
       "commit": "ac864c51624e541162e39290cae990a519e2c7cd",
       "next_action": "Pendiente prueba funcional real en navegador; análisis morfológico de 580–622 no se da por revisado por esta corrección sintáctica."
+    },
+    {
+      "id": "ii2-212-225-order",
+      "status": "runtime_order_fixed_pending_browser_qa",
+      "detected": "2026-11-17",
+      "location": "Acto II escena 2, bloque 212–227",
+      "evidence": "Los versos 212–225 estaban añadidos al final del JS, después de 226–227, y se renderizaban fuera de orden.",
+      "fix": "Reordenar 212–225 en el array verses antes de renderizar, conservando todos los objetos, IDs y offsets; guardia de longitud y unicidad.",
+      "next_action": "Comprobar en navegador la secuencia 211,212,…,225,226,227,228 y los resaltados previos."
     }
   ],
   "identifier_migration": {
