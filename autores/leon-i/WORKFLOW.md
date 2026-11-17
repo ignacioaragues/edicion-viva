@@ -21,3 +21,9 @@ Leer la totalidad del corpus latino tradicional de León I de modo que resulte �
 
 ## Estado inicial
 Sermo I: primeras cinco unidades sintácticas, 70 tokens latinos, todos con fichas de primera pasada. Siguiente: `Ago igitur Deo nostro gratias`. Revisar progresivamente valor sintáctico y textual de las entradas, sin reemplazar evidencia verificada.
+
+## Navegación entre sermones (convención obligatoria)
+
+- Cada página `sermones/sermo-*/index.html` carga `../../sermon-navigation.js` con `defer`. El módulo sustituye `.main-content > .endnote` por «Anterior / Siguiente» y jamás muestra el sermón actual como destino de navegación.
+- La fuente de las piezas enlazables es `progress.json` (`published`, `group: "sermones"`). Registrar una nueva pieza como publicada únicamente cuando su página está disponible. No crear botones que lleven a sermones inexistentes; dejar desactivada la dirección sin destino.
+- Evitar puntos decorativos a la derecha en todos los índices laterales presentes y futuros; la entrada activa se distingue de forma tipográfica o por fondo/borde.
