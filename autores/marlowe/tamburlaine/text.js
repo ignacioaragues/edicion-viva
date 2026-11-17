@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act IV, scene 2, line 60. English Dyce / Project Gutenberg 1589 for Part II; source-line numbering, textual collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act IV, scene 2 complete (98 lines). English base Alexander Dyce / Project Gutenberg 1589; collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -28348,6 +28348,272 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "Distilled from the purest balsamum",
           "es": "destiló del bálsamo más puro"
+        },
+        {
+          "id": "P2-IV2-61",
+          "number": 61,
+          "speaker": "",
+          "en": "And simplest extracts of all minerals,",
+          "es": "y de los extractos más puros de todos los minerales,"
+        },
+        {
+          "id": "P2-IV2-62",
+          "number": 62,
+          "speaker": "",
+          "en": "In which the essential form of marble stone,",
+          "es": "en los cuales la forma esencial de la piedra de mármol,"
+        },
+        {
+          "id": "P2-IV2-63",
+          "number": 63,
+          "speaker": "",
+          "en": "Temper'd by science metaphysical,",
+          "es": "templada por la ciencia metafísica"
+        },
+        {
+          "id": "P2-IV2-64",
+          "number": 64,
+          "speaker": "",
+          "en": "And spells of magic from the mouths of spirits,",
+          "es": "y por hechizos mágicos pronunciados por espíritus,"
+        },
+        {
+          "id": "P2-IV2-65",
+          "number": 65,
+          "speaker": "",
+          "en": "With which if you but 'noint your tender skin,",
+          "es": "si tan solo te ungís con ellos la delicada piel,"
+        },
+        {
+          "id": "P2-IV2-66",
+          "number": 66,
+          "speaker": "",
+          "en": "Nor pistol, sword, nor lance, can pierce your flesh.",
+          "es": "ni pistola, ni espada, ni lanza podrán atravesarte la carne."
+        },
+        {
+          "id": "P2-IV2-67",
+          "number": 67,
+          "speaker": "THERIDAMAS",
+          "en": "Why, madam, think you to mock me thus palpably?",
+          "es": "Pero, señora, ¿crees que puedes burlarte de mí tan descaradamente?"
+        },
+        {
+          "id": "P2-IV2-68",
+          "number": 68,
+          "speaker": "OLYMPIA",
+          "en": "To prove it, I will 'noint my naked throat,",
+          "es": "Para demostrarlo, me ungiré el cuello descubierto;"
+        },
+        {
+          "id": "P2-IV2-69",
+          "number": 69,
+          "speaker": "",
+          "en": "Which when you stab, look on your weapon's point,",
+          "es": "cuando lo atravieses, observa la punta de tu arma"
+        },
+        {
+          "id": "P2-IV2-70",
+          "number": 70,
+          "speaker": "",
+          "en": "And you shall see't rebated with the blow.",
+          "es": "y verás cómo el golpe la deja roma."
+        },
+        {
+          "id": "P2-IV2-71",
+          "number": 71,
+          "speaker": "THERIDAMAS",
+          "en": "Why gave you not your husband some of it,",
+          "es": "¿Por qué no le diste un poco a tu esposo,"
+        },
+        {
+          "id": "P2-IV2-72",
+          "number": 72,
+          "speaker": "",
+          "en": "If you lov'd him, and it so precious!",
+          "es": "si lo amabas y era tan valioso?"
+        },
+        {
+          "id": "P2-IV2-73",
+          "number": 73,
+          "speaker": "OLYMPIA",
+          "en": "My purpose was, my lord, to spend it so,",
+          "es": "Eso me proponía, señor,"
+        },
+        {
+          "id": "P2-IV2-74",
+          "number": 74,
+          "speaker": "",
+          "en": "But was prevented by his sudden end;",
+          "es": "pero su muerte repentina me lo impidió;"
+        },
+        {
+          "id": "P2-IV2-75",
+          "number": 75,
+          "speaker": "",
+          "en": "And for a present easy proof thereof,",
+          "es": "y para ofrecerte ahora una prueba sencilla"
+        },
+        {
+          "id": "P2-IV2-76",
+          "number": 76,
+          "speaker": "",
+          "en": "That I dissemble not, try it on me.",
+          "es": "de que no miento, pruébalo conmigo."
+        },
+        {
+          "id": "P2-IV2-77",
+          "number": 77,
+          "speaker": "THERIDAMAS",
+          "en": "I will, Olympia, and will keep it for",
+          "es": "Lo haré, Olimpia, y lo guardaré como"
+        },
+        {
+          "id": "P2-IV2-78",
+          "number": 78,
+          "speaker": "",
+          "en": "The richest present of this eastern world.",
+          "es": "el regalo más precioso de este mundo oriental."
+        },
+        {
+          "id": "P2-IV2-79",
+          "number": 79,
+          "speaker": "OLYMPIA",
+          "en": "Now stab, my lord, and mark your weapon's point,",
+          "es": "Ahora hiere, señor, y fíjate en la punta de tu arma,"
+        },
+        {
+          "id": "P2-IV2-80",
+          "number": 80,
+          "speaker": "",
+          "en": "That will be blunted if the blow be great.",
+          "es": "que se embotará si el golpe es fuerte."
+        },
+        {
+          "id": "P2-IV2-81",
+          "number": 81,
+          "speaker": "THERIDAMAS",
+          "en": "Here, then, Olympia.—",
+          "es": "Pues aquí va, Olimpia."
+        },
+        {
+          "id": "P2-IV2-82",
+          "number": 82,
+          "speaker": "",
+          "en": "What, have I slain her? Villain, stab thyself!",
+          "es": "¿Qué? ¿La he matado? ¡Miserable, apuñálate a ti mismo!"
+        },
+        {
+          "id": "P2-IV2-83",
+          "number": 83,
+          "speaker": "",
+          "en": "Cut off this arm that murdered my love,",
+          "es": "¡Arranca este brazo que asesinó a mi amada,"
+        },
+        {
+          "id": "P2-IV2-84",
+          "number": 84,
+          "speaker": "",
+          "en": "In whom the learned Rabbis of this age",
+          "es": "en quien los sabios rabinos de nuestra época"
+        },
+        {
+          "id": "P2-IV2-85",
+          "number": 85,
+          "speaker": "",
+          "en": "Might find as many wondrous miracles",
+          "es": "podrían encontrar tantos milagros maravillosos"
+        },
+        {
+          "id": "P2-IV2-86",
+          "number": 86,
+          "speaker": "",
+          "en": "As in the theoria of the world!",
+          "es": "como en la teoría del mundo!"
+        },
+        {
+          "id": "P2-IV2-87",
+          "number": 87,
+          "speaker": "",
+          "en": "Now hell is fairer than Elysium;",
+          "es": "Ahora el infierno es más hermoso que el Elíseo;"
+        },
+        {
+          "id": "P2-IV2-88",
+          "number": 88,
+          "speaker": "",
+          "en": "A greater lamp than that bright eye of heaven,",
+          "es": "una luminaria mayor que el resplandeciente ojo del cielo,"
+        },
+        {
+          "id": "P2-IV2-89",
+          "number": 89,
+          "speaker": "",
+          "en": "From whence the stars do borrow all their light,",
+          "es": "del que las estrellas toman prestada toda su luz,"
+        },
+        {
+          "id": "P2-IV2-90",
+          "number": 90,
+          "speaker": "",
+          "en": "Wanders about the black circumference;",
+          "es": "vaga por la negra bóveda;"
+        },
+        {
+          "id": "P2-IV2-91",
+          "number": 91,
+          "speaker": "",
+          "en": "And now the damned souls are free from pain,",
+          "es": "y ahora las almas condenadas están libres del dolor,"
+        },
+        {
+          "id": "P2-IV2-92",
+          "number": 92,
+          "speaker": "",
+          "en": "For every Fury gazeth on her looks;",
+          "es": "porque todas las Furias contemplan su rostro;"
+        },
+        {
+          "id": "P2-IV2-93",
+          "number": 93,
+          "speaker": "",
+          "en": "Infernal Dis is courting of my love,",
+          "es": "el infernal Dis corteja a mi amada,"
+        },
+        {
+          "id": "P2-IV2-94",
+          "number": 94,
+          "speaker": "",
+          "en": "Inventing masks and stately shows for her,",
+          "es": "ideando mascaradas y suntuosos espectáculos en su honor,"
+        },
+        {
+          "id": "P2-IV2-95",
+          "number": 95,
+          "speaker": "",
+          "en": "Opening the doors of his rich treasury",
+          "es": "abriendo las puertas de su rico tesoro"
+        },
+        {
+          "id": "P2-IV2-96",
+          "number": 96,
+          "speaker": "",
+          "en": "To entertain this queen of chastity;",
+          "es": "para agasajar a esta reina de la castidad;"
+        },
+        {
+          "id": "P2-IV2-97",
+          "number": 97,
+          "speaker": "",
+          "en": "Whose body shall be tomb'd with all the pomp",
+          "es": "su cuerpo recibirá sepultura con toda la pompa"
+        },
+        {
+          "id": "P2-IV2-98",
+          "number": 98,
+          "speaker": "",
+          "en": "The treasure of my kingdom may afford.",
+          "es": "que puedan sufragar las riquezas de mi reino."
         }
       ]
     }
@@ -28737,6 +29003,27 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 13,
       "en": "Enter Theridamas.",
       "es": "Entra Teridamas."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 78,
+      "en": "She anoints her throat.",
+      "es": "Se unge el cuello."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 81,
+      "en": "Stabs her.",
+      "es": "La apuñala."
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "afterLine": 98,
+      "en": "Exit with the body.",
+      "es": "Sale llevando el cadáver."
     }
   ]
 };
