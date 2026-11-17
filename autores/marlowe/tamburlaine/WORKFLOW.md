@@ -232,3 +232,10 @@
 - Colación Dyce (PG #1094) frente al testimonio 1590, Folger EarlyPrint **B5r–B5v, wln 0634–0684**; se documentan variantes «top/stop», «thirst/thrust», «and/not», «Rhamnus/Rhamnis» y la preposición suplementada «[of]». Consulta de A. Dyce, aparato crítico en PG #1094, notas 87–94.
 - Lectura filológica: Mathew R. Martin, «Inferior Readings: The Transmigration of ‘Material’ in Tamburlaine the Great», *Early Theatre* 17.2 (2014), pp. 70–71, DOI https://doi.org/10.12745/et.17.2.1207. Martin advierte que 1590 distingue deber de amistad donde una lectura de 1605/6, seguida por ediciones posteriores, los suma.
 - Implementación como capa `philology-13.js`, tras capas XI–XII; no alterar `text.js`, estructura de escena, numeración, acotaciones, navegación ni resaltados.
+
+## Decimocuarta pasada filológica y de lecturas (17-11-2026)
+- **50 unidades** de Parte I: II.3.51–66 (16, escena terminada) y II.4.1–34 (34). Acumulado **700 / 4641 (15,1 %)**. Siguiente **II.4.35–42 (8) + II.5.1–42 (42)**.
+- **45 correcciones españolas**; 5 líneas conservadas tras revisión. Correspondencias inglesas exactas comprobadas en las 50 unidades. **15 notas filológicas** discretas y dos fichas interpretativas (la espada que hace emperadores; la corona como objeto de escena).
+- Colación de Dyce (Project Gutenberg #1094) con el impreso de 1590, Folger EarlyPrint B5v–B6v, wln 0685–0739: «Cutle=axe» frente a «curtle-axe» en Dyce; «clouts», «pin», Bóreas, usos jurídicos de dar el mentís; y acotación impresa que hace entrar a Micetes con la corona para esconderla.
+- La traducción de «curtle-axe» como hacha de guerra se corrige a **«sable curvo»**. Cotejo a través del texto temprano: https://emed.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html.
+- Nueva capa filológica `philology-14.js`, antes del lector y después de las capas XI–XIII. No se altera el texto inglés de base, ni identificadores, atribuciones, acotaciones, navegación o resaltados.
