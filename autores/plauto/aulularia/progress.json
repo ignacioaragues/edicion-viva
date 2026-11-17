@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisión 407–446; investigar crux optati 406 y variantes del aparato Leo.",
+  "next": "Revisión 447–486, con atención a suplementos 445–446 y lagunas posteriores.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 406,
-    "next_verse": 407,
+    "reviewed_through_verse": 446,
+    "next_verse": 447,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática correlativa hasta 406; pendientes colación de aparato Leo, variantes difíciles y QA en navegador.",
+    "note": "Auditoría estática de 407–446 completada con 40 versos; variantes de pervium 438 y suplementos 445–446 requieren aparato crítico más exhaustivo; QA visual pendiente.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1819,6 +1819,20 @@
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
         ],
         "note": "Auditoría estática verso por verso de texto, traducción y fichas; correspondencia de tokens comprobada. Precisados cenati, nil negoti, cenaene causa, quid adverbial, fuat y lectura incierta optati. Se conserva texto latino, offsets y stable IDs. Pendientes cotejo directo del aparato Leo, control de suplementos y QA visual."
+      },
+      {
+        "section": "III.1–III.2",
+        "from": 407,
+        "to": 446,
+        "verses": 40,
+        "tokens": 353,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul_III_II",
+          "https://de.scribd.com/doc/245080765/Walter-Stockert-Ed-T-Maccius-Plautus-Aulularia-1983",
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml"
+        ],
+        "note": "Cotejados texto, traducción y fichas de 407–446; 417 comminatu's se tokeniza como unidad apostrofada, no dos palabras; precisadas morfologías de coquinatum, comminatu's, pervium y miserrimus mortalis. Variantes de 438: pervium BD, perviam VJ, pervios F, pervia conjetura Blase (Stockert 1983, aparato a 438). Texto y IDs intactos. No hay prueba visual ni colación completa de Leo."
       }
     ],
     "spot_checks": [
