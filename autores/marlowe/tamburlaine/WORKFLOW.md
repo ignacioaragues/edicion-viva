@@ -127,3 +127,12 @@
 - Notas filológicas discretas: el fragmento del original inglés al que corresponde la nota queda **subrayado**, sin palabra «nota», círculos, asteriscos ni llamadas externas. Al hacer clic, se abre la misma ficha emergente; se conserva el interruptor de notas. Las 9 notas existentes tienen anclas de texto comprobadas.
 - La búsqueda se aplica exclusivamente a la escena visible; se mantienen los dos idiomas, diccionario, ajuste de tamaño, modos de columna y resaltados personales. Los datos de la obra no se modificaron.
 - Esta organización debe mantenerse en las siguientes pasadas editoriales; las nuevas notas deben anclarse al término exacto dentro del verso, evitando añadir botones, viñetas o marcas decorativas al margen.
+
+
+## Primera pasada filológica y de lecturas (17-11-2026)
+- **50 unidades de línea revisadas:** Prólogo de la Parte I P1–P8 (8) e I.1.1–42 (42). Próximo bloque **I.1.43–92**.
+- Partida: base Neilson 1911 (PG #77587) para el prólogo e I.1.1–20; cotejo con Dyce (PG #1094), empleado para I.1.21–42. Se conservaron los signos y el orden de los renglones, incluida la indicación editorial «[their]» de I.1.15; la colación exhaustiva de testimonios tempranos sigue pendiente.
+- **Aparato incorporado:** 8 notas nuevas con anclas exactas en el texto inglés; revisión y contextualización de las 9 notas existentes; **3 lecturas críticas de escena** (2 al prólogo y 1 a I.1); **3 ajustes de traducción** (P5, I.1.31 y I.1.41). Ningún renglón inglés ni número de verso se añadió, se eliminó o se reordenó.
+- **Referencias de interpretación comprobadas en el PDF aportado:** David McInnis, «Introduction», en *Tamburlaine: A Critical Reader* (ed. McInnis, Bloomsbury, 2020), pp. 1–4 y 13–14; Claire M. L. Bourne, «Mending Tamburlaine», pp. 85–90. Se distinguieron explícitamente las inferencias editoriales propias de las atribuciones a estos capítulos.
+- **Interfaz:** fichas breves con fuente y rango de lectura, visibles solo en el prólogo o escena pertinentes. Notas integradas mediante subrayado; el renderer acepta desde ahora un ancla literal en el tercer campo de cada nota: `[título, explicación, expresión inglesa]` (las nueve antiguas se migraron también). Se conserva la navegación por escena y la opción de ocultar notas.
+- **Criterio de próximas pasadas:** revisión real de máximo 50 unidades consecutivas, correcciones únicamente cuando sean necesarias, sin cuota de notas ni lecturas; seguimiento separado de la finalización de la primera traducción en `progress.json.philologicalReview`.
