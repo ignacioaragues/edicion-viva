@@ -1,5 +1,4 @@
-/* Christopher Marlowe: Tamburlaine the Great. Part I fully translated in first draft; Part II through Act I Scene 3 line 169.
- * English source for Part II: Alexander Dyce, Project Gutenberg #1589. Spanish translation original, preliminary; philological collation and source prose line joins remain pending. */
+/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act II, scene 4, line 70. Dyce / Project Gutenberg 1589 for Part II; source-line numbering includes physical wraps of prose. Philological collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -1564,9 +1563,9 @@ window.TAMBURLAINE_EDITION = {
   },
   "next": {
     "part": 2,
-    "act": 1,
-    "scene": 3,
-    "line": 170
+    "act": 2,
+    "scene": 4,
+    "line": 71
   },
   "scene2": [
     {
@@ -19921,6 +19920,2116 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "Shall hide his head in Thetis' watery lap,",
           "es": "esconderá su cabeza en el regazo acuático de Tetis,"
+        },
+        {
+          "id": "P2-I3-170",
+          "number": 170,
+          "speaker": "",
+          "en": "And leave his steeds to fair Bootes' charge;",
+          "es": "y dejará sus corceles al cuidado del hermoso Boyero;"
+        },
+        {
+          "id": "P2-I3-171",
+          "number": 171,
+          "speaker": "",
+          "en": "For half the world shall perish in this fight.",
+          "es": "pues la mitad del mundo perecerá en esta batalla."
+        },
+        {
+          "id": "P2-I3-172",
+          "number": 172,
+          "speaker": "",
+          "en": "But now, my friends, let me examine ye;",
+          "es": "Pero ahora, amigos, dejad que os pregunte:"
+        },
+        {
+          "id": "P2-I3-173",
+          "number": 173,
+          "speaker": "",
+          "en": "How have ye spent your absent time from me?",
+          "es": "¿en qué habéis ocupado el tiempo que estuvisteis lejos de mí?"
+        },
+        {
+          "id": "P2-I3-174",
+          "number": 174,
+          "speaker": "USUMCASANE",
+          "en": "My lord, our men of Barbary have march'd",
+          "es": "Señor, nuestros hombres de Berbería han marchado"
+        },
+        {
+          "id": "P2-I3-175",
+          "number": 175,
+          "speaker": "",
+          "en": "Four hundred miles with armour on their backs,",
+          "es": "cuatrocientas millas con las armaduras a cuestas"
+        },
+        {
+          "id": "P2-I3-176",
+          "number": 176,
+          "speaker": "",
+          "en": "And lain in leaguer fifteen months and more;",
+          "es": "y han permanecido en campaña más de quince meses."
+        },
+        {
+          "id": "P2-I3-177",
+          "number": 177,
+          "speaker": "",
+          "en": "For, since we left you at the Soldan's court,",
+          "es": "Desde que os dejamos en la corte del sultán,"
+        },
+        {
+          "id": "P2-I3-178",
+          "number": 178,
+          "speaker": "",
+          "en": "We have subdu'd the southern Guallatia,",
+          "es": "hemos sometido el sur de Galacia"
+        },
+        {
+          "id": "P2-I3-179",
+          "number": 179,
+          "speaker": "",
+          "en": "And all the land unto the coast of Spain;",
+          "es": "y toda la tierra hasta la costa de España."
+        },
+        {
+          "id": "P2-I3-180",
+          "number": 180,
+          "speaker": "",
+          "en": "We kept the narrow Strait of Jubalter,",
+          "es": "Controlamos el estrecho paso de Gibraltar"
+        },
+        {
+          "id": "P2-I3-181",
+          "number": 181,
+          "speaker": "",
+          "en": "And made Canaria call us kings and lords:",
+          "es": "e hicimos que Canarias nos llamara reyes y señores."
+        },
+        {
+          "id": "P2-I3-182",
+          "number": 182,
+          "speaker": "",
+          "en": "Yet never did they recreate themselves,",
+          "es": "Y, sin embargo, nuestros hombres jamás descansaron"
+        },
+        {
+          "id": "P2-I3-183",
+          "number": 183,
+          "speaker": "",
+          "en": "Or cease one day from war and hot alarms;",
+          "es": "ni cesaron un solo día de combatir y afrontar alarmas;"
+        },
+        {
+          "id": "P2-I3-184",
+          "number": 184,
+          "speaker": "",
+          "en": "And therefore let them rest a while, my lord.",
+          "es": "dejad, pues, que descansen algún tiempo, señor."
+        },
+        {
+          "id": "P2-I3-185",
+          "number": 185,
+          "speaker": "TAMBURLAINE",
+          "en": "They shall, Casane, and 'tis time, i'faith.",
+          "es": "Así será, Casane; a fe mía, ya es hora."
+        },
+        {
+          "id": "P2-I3-186",
+          "number": 186,
+          "speaker": "TECHELLES",
+          "en": "And I have march'd along the river Nile",
+          "es": "Y yo he marchado a lo largo del río Nilo"
+        },
+        {
+          "id": "P2-I3-187",
+          "number": 187,
+          "speaker": "",
+          "en": "To Machda, where the mighty Christian priest,",
+          "es": "hasta Machda, donde el poderoso sacerdote cristiano"
+        },
+        {
+          "id": "P2-I3-188",
+          "number": 188,
+          "speaker": "",
+          "en": "Call'd John the Great, sits in a milk-white robe,",
+          "es": "llamado Juan el Grande se sienta con túnica blanca como la leche."
+        },
+        {
+          "id": "P2-I3-189",
+          "number": 189,
+          "speaker": "",
+          "en": "Whose triple mitre I did take by force,",
+          "es": "Le arrebaté por la fuerza su triple mitra"
+        },
+        {
+          "id": "P2-I3-190",
+          "number": 190,
+          "speaker": "",
+          "en": "And made him swear obedience to my crown.",
+          "es": "y le hice jurar obediencia a mi corona."
+        },
+        {
+          "id": "P2-I3-191",
+          "number": 191,
+          "speaker": "",
+          "en": "From thence unto Cazates did I march,",
+          "es": "Desde allí avancé hasta Cazates,"
+        },
+        {
+          "id": "P2-I3-192",
+          "number": 192,
+          "speaker": "",
+          "en": "Where Amazonians met me in the field,",
+          "es": "donde las amazonas me salieron al encuentro en batalla."
+        },
+        {
+          "id": "P2-I3-193",
+          "number": 193,
+          "speaker": "",
+          "en": "With whom, being women, I vouchsaf'd a league,",
+          "es": "Como eran mujeres, me digné pactar una alianza con ellas"
+        },
+        {
+          "id": "P2-I3-194",
+          "number": 194,
+          "speaker": "",
+          "en": "And with my power did march to Zanzibar,",
+          "es": "y proseguí con mi ejército hasta Zanzíbar,"
+        },
+        {
+          "id": "P2-I3-195",
+          "number": 195,
+          "speaker": "",
+          "en": "The western part of Afric, where I view'd",
+          "es": "en la parte occidental de África, donde contemplé"
+        },
+        {
+          "id": "P2-I3-196",
+          "number": 196,
+          "speaker": "",
+          "en": "The Ethiopian sea, rivers and lakes,",
+          "es": "el mar, los ríos y los lagos de Etiopía,"
+        },
+        {
+          "id": "P2-I3-197",
+          "number": 197,
+          "speaker": "",
+          "en": "But neither man nor child in all the land:",
+          "es": "pero ni un hombre ni un niño en toda aquella tierra."
+        },
+        {
+          "id": "P2-I3-198",
+          "number": 198,
+          "speaker": "",
+          "en": "Therefore I took my course to Manico,",
+          "es": "Por eso tomé rumbo hacia Manico,"
+        },
+        {
+          "id": "P2-I3-199",
+          "number": 199,
+          "speaker": "",
+          "en": "Where, unresisted, I remov'd my camp;",
+          "es": "donde trasladé mi campamento sin encontrar resistencia;"
+        },
+        {
+          "id": "P2-I3-200",
+          "number": 200,
+          "speaker": "",
+          "en": "And, by the coast of Byather, at last",
+          "es": "y siguiendo la costa de Biater, finalmente"
+        },
+        {
+          "id": "P2-I3-201",
+          "number": 201,
+          "speaker": "",
+          "en": "I came to Cubar, where the negroes dwell,",
+          "es": "llegué a Cubar, donde habitan los negros."
+        },
+        {
+          "id": "P2-I3-202",
+          "number": 202,
+          "speaker": "",
+          "en": "And, conquering that, made haste to Nubia.",
+          "es": "Tras conquistarlo, me apresuré hacia Nubia."
+        },
+        {
+          "id": "P2-I3-203",
+          "number": 203,
+          "speaker": "",
+          "en": "There, having sack'd Borno, the kingly seat,",
+          "es": "Allí, después de saquear Borno, sede del reino,"
+        },
+        {
+          "id": "P2-I3-204",
+          "number": 204,
+          "speaker": "",
+          "en": "I took the king and led him bound in chains",
+          "es": "capturé al rey y lo conduje encadenado"
+        },
+        {
+          "id": "P2-I3-205",
+          "number": 205,
+          "speaker": "",
+          "en": "Unto Damascus, where I stay'd before.",
+          "es": "hasta Damasco, donde antes había permanecido."
+        },
+        {
+          "id": "P2-I3-206",
+          "number": 206,
+          "speaker": "TAMBURLAINE",
+          "en": "Well done, Techelles!—What saith Theridamas?",
+          "es": "¡Bien hecho, Tequeles! ¿Y qué dice Teridamas?"
+        },
+        {
+          "id": "P2-I3-207",
+          "number": 207,
+          "speaker": "THERIDAMAS",
+          "en": "I left the confines and the bounds of Afric,",
+          "es": "Dejé los confines y las fronteras de África"
+        },
+        {
+          "id": "P2-I3-208",
+          "number": 208,
+          "speaker": "",
+          "en": "And made a voyage into Europe,",
+          "es": "y emprendí un viaje a Europa,"
+        },
+        {
+          "id": "P2-I3-209",
+          "number": 209,
+          "speaker": "",
+          "en": "Where, by the river Tyras, I subdu'd",
+          "es": "donde, junto al río Tiras, sometí"
+        },
+        {
+          "id": "P2-I3-210",
+          "number": 210,
+          "speaker": "",
+          "en": "Stoka, Podolia, and Codemia;",
+          "es": "Estoca, Podolia y Codemia."
+        },
+        {
+          "id": "P2-I3-211",
+          "number": 211,
+          "speaker": "",
+          "en": "Then cross'd the sea and came to Oblia,",
+          "es": "Después crucé el mar y llegué a Oblia"
+        },
+        {
+          "id": "P2-I3-212",
+          "number": 212,
+          "speaker": "",
+          "en": "And Nigra Silva, where the devils dance,",
+          "es": "y a la Selva Negra, donde danzan los demonios,"
+        },
+        {
+          "id": "P2-I3-213",
+          "number": 213,
+          "speaker": "",
+          "en": "Which, in despite of them, I set on fire.",
+          "es": "que incendié para desafiarlos."
+        },
+        {
+          "id": "P2-I3-214",
+          "number": 214,
+          "speaker": "",
+          "en": "From thence I cross'd the gulf call'd by the name",
+          "es": "Desde allí atravesé el golfo que los habitantes"
+        },
+        {
+          "id": "P2-I3-215",
+          "number": 215,
+          "speaker": "",
+          "en": "Mare Majore of the inhabitants.",
+          "es": "llaman Mare Majore."
+        },
+        {
+          "id": "P2-I3-216",
+          "number": 216,
+          "speaker": "",
+          "en": "Yet shall my soldiers make no period",
+          "es": "Sin embargo, mis soldados no pondrán fin a su marcha"
+        },
+        {
+          "id": "P2-I3-217",
+          "number": 217,
+          "speaker": "",
+          "en": "Until Natolia kneel before your feet.",
+          "es": "hasta que Anatolia se arrodille a vuestros pies."
+        },
+        {
+          "id": "P2-I3-218",
+          "number": 218,
+          "speaker": "TAMBURLAINE",
+          "en": "Then will we triumph, banquet and carouse;",
+          "es": "Entonces celebraremos triunfos, banquetes y festines;"
+        },
+        {
+          "id": "P2-I3-219",
+          "number": 219,
+          "speaker": "",
+          "en": "Cooks shall have pensions to provide us cates,",
+          "es": "los cocineros recibirán estipendios para prepararnos manjares,"
+        },
+        {
+          "id": "P2-I3-220",
+          "number": 220,
+          "speaker": "",
+          "en": "And glut us with the dainties of the world;",
+          "es": "y nos hartarán con las delicias del mundo."
+        },
+        {
+          "id": "P2-I3-221",
+          "number": 221,
+          "speaker": "",
+          "en": "Lachryma Christi and Calabrian wines",
+          "es": "Vino Lágrima de Cristo y vinos de Calabria"
+        },
+        {
+          "id": "P2-I3-222",
+          "number": 222,
+          "speaker": "",
+          "en": "Shall common soldiers drink in quaffing bowls,",
+          "es": "beberán los soldados rasos en grandes copas;"
+        },
+        {
+          "id": "P2-I3-223",
+          "number": 223,
+          "speaker": "",
+          "en": "Ay, liquid gold, when we have conquer'd him,",
+          "es": "y hasta oro líquido, cuando lo hayamos conquistado,"
+        },
+        {
+          "id": "P2-I3-224",
+          "number": 224,
+          "speaker": "",
+          "en": "Mingled with coral and with orient pearl.",
+          "es": "mezclado con coral y perlas de Oriente."
+        },
+        {
+          "id": "P2-I3-225",
+          "number": 225,
+          "speaker": "",
+          "en": "Come, let us banquet and carouse the whiles.",
+          "es": "Vamos: mientras tanto, celebremos un banquete y bebamos."
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "id": "P2-II1-1",
+          "number": 1,
+          "speaker": "SIGISMUND",
+          "en": "Now say, my lords of Buda and Bohemia,",
+          "es": "Decidme ahora, señores de Buda y Bohemia,"
+        },
+        {
+          "id": "P2-II1-2",
+          "number": 2,
+          "speaker": "",
+          "en": "What motion is it that inflames your thoughts,",
+          "es": "¿qué impulso inflama vuestros pensamientos"
+        },
+        {
+          "id": "P2-II1-3",
+          "number": 3,
+          "speaker": "",
+          "en": "And stirs your valours to such sudden arms?",
+          "es": "y excita vuestro valor hasta empuñar tan súbitamente las armas?"
+        },
+        {
+          "id": "P2-II1-4",
+          "number": 4,
+          "speaker": "FREDERICK",
+          "en": "Your majesty remembers, I am sure,",
+          "es": "Vuestra majestad recuerda, estoy seguro,"
+        },
+        {
+          "id": "P2-II1-5",
+          "number": 5,
+          "speaker": "",
+          "en": "What cruel slaughter of our Christian bloods",
+          "es": "la cruel matanza de nuestra sangre cristiana"
+        },
+        {
+          "id": "P2-II1-6",
+          "number": 6,
+          "speaker": "",
+          "en": "These heathenish Turks and pagans lately made",
+          "es": "que esos turcos paganos e infieles perpetraron hace poco"
+        },
+        {
+          "id": "P2-II1-7",
+          "number": 7,
+          "speaker": "",
+          "en": "Betwixt the city Zula and Danubius;",
+          "es": "entre la ciudad de Zula y el Danubio;"
+        },
+        {
+          "id": "P2-II1-8",
+          "number": 8,
+          "speaker": "",
+          "en": "How through the midst of Varna and Bulgaria,",
+          "es": "cómo, por medio de Varna y Bulgaria,"
+        },
+        {
+          "id": "P2-II1-9",
+          "number": 9,
+          "speaker": "",
+          "en": "And almost to the very walls of Rome,",
+          "es": "y casi hasta las mismas murallas de Roma,"
+        },
+        {
+          "id": "P2-II1-10",
+          "number": 10,
+          "speaker": "",
+          "en": "They have, not long since, massacred our camp.",
+          "es": "masacraron no hace mucho a nuestro ejército."
+        },
+        {
+          "id": "P2-II1-11",
+          "number": 11,
+          "speaker": "",
+          "en": "It resteth now, then, that your majesty",
+          "es": "Corresponde ahora, pues, que vuestra majestad"
+        },
+        {
+          "id": "P2-II1-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Take all advantages of time and power,",
+          "es": "aproveche todas las ventajas del tiempo y de sus fuerzas"
+        },
+        {
+          "id": "P2-II1-13",
+          "number": 13,
+          "speaker": "",
+          "en": "And work revenge upon these infidels.",
+          "es": "para vengarse de esos infieles."
+        },
+        {
+          "id": "P2-II1-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Your highness knows, for Tamburlaine's repair,",
+          "es": "Vuestra alteza sabe que, ante la llegada de Tamerlán,"
+        },
+        {
+          "id": "P2-II1-15",
+          "number": 15,
+          "speaker": "",
+          "en": "That strikes a terror to all Turkish hearts,",
+          "es": "que infunde terror en todos los corazones turcos,"
+        },
+        {
+          "id": "P2-II1-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Natolia hath dismiss'd the greatest part",
+          "es": "el rey de Anatolia ha retirado la mayor parte"
+        },
+        {
+          "id": "P2-II1-17",
+          "number": 17,
+          "speaker": "",
+          "en": "Of all his army, pitch'd against our power",
+          "es": "de su ejército, que estaba acampado frente al nuestro"
+        },
+        {
+          "id": "P2-II1-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Betwixt Cutheia and Orminius' mount,",
+          "es": "entre Cuteya y el monte de Orminio;"
+        },
+        {
+          "id": "P2-II1-19",
+          "number": 19,
+          "speaker": "",
+          "en": "And sent them marching up to Belgasar,",
+          "es": "los ha enviado en marcha hacia Belgasar,"
+        },
+        {
+          "id": "P2-II1-20",
+          "number": 20,
+          "speaker": "",
+          "en": "Acantha, Antioch, and Caesarea,",
+          "es": "Acanta, Antioquía y Cesarea"
+        },
+        {
+          "id": "P2-II1-21",
+          "number": 21,
+          "speaker": "",
+          "en": "To aid the kings of Soria and Jerusalem.",
+          "es": "para socorrer a los reyes de Siria y Jerusalén."
+        },
+        {
+          "id": "P2-II1-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Now, then, my lord, advantage take thereof,",
+          "es": "Ahora, señor, aprovechad la ocasión"
+        },
+        {
+          "id": "P2-II1-23",
+          "number": 23,
+          "speaker": "",
+          "en": "And issue suddenly upon the rest;",
+          "es": "y atacad por sorpresa a los que quedan,"
+        },
+        {
+          "id": "P2-II1-24",
+          "number": 24,
+          "speaker": "",
+          "en": "That, in the fortune of their overthrow,",
+          "es": "de modo que la suerte de su derrota"
+        },
+        {
+          "id": "P2-II1-25",
+          "number": 25,
+          "speaker": "",
+          "en": "We may discourage all the pagan troop",
+          "es": "desaliente a todas las tropas paganas"
+        },
+        {
+          "id": "P2-II1-26",
+          "number": 26,
+          "speaker": "",
+          "en": "That dare attempt to war with Christians.",
+          "es": "que se atrevan a guerrear contra los cristianos."
+        },
+        {
+          "id": "P2-II1-27",
+          "number": 27,
+          "speaker": "SIGISMUND",
+          "en": "But calls not, then, your grace to memory",
+          "es": "Pero ¿no trae vuestra gracia a la memoria"
+        },
+        {
+          "id": "P2-II1-28",
+          "number": 28,
+          "speaker": "",
+          "en": "The league we lately made with King Orcanes,",
+          "es": "la alianza que acabamos de pactar con el rey Orcanes,"
+        },
+        {
+          "id": "P2-II1-29",
+          "number": 29,
+          "speaker": "",
+          "en": "Confirm'd by oath and articles of peace,",
+          "es": "confirmada mediante juramentos y acuerdos de paz,"
+        },
+        {
+          "id": "P2-II1-30",
+          "number": 30,
+          "speaker": "",
+          "en": "And calling Christ for record of our truths?",
+          "es": "invocando a Cristo como testigo de nuestra sinceridad?"
+        },
+        {
+          "id": "P2-II1-31",
+          "number": 31,
+          "speaker": "",
+          "en": "This should be treachery and violence",
+          "es": "Eso sería traición y violencia"
+        },
+        {
+          "id": "P2-II1-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Against the grace of our profession.",
+          "es": "contra la dignidad de nuestra fe."
+        },
+        {
+          "id": "P2-II1-33",
+          "number": 33,
+          "speaker": "BALDWIN",
+          "en": "No whit, my lord; for with such infidels,",
+          "es": "En absoluto, señor, pues con semejantes infieles,"
+        },
+        {
+          "id": "P2-II1-34",
+          "number": 34,
+          "speaker": "",
+          "en": "In whom no faith nor true religion rests,",
+          "es": "en quienes no hay fe ni religión verdadera,"
+        },
+        {
+          "id": "P2-II1-35",
+          "number": 35,
+          "speaker": "",
+          "en": "We are not bound to those accomplishments",
+          "es": "no estamos obligados a cumplir los compromisos"
+        },
+        {
+          "id": "P2-II1-36",
+          "number": 36,
+          "speaker": "",
+          "en": "The holy laws of Christendom enjoin;",
+          "es": "que imponen las santas leyes de la cristiandad."
+        },
+        {
+          "id": "P2-II1-37",
+          "number": 37,
+          "speaker": "",
+          "en": "But, as the faith which they profanely plight",
+          "es": "Como la palabra que ellos empeñan impíamente"
+        },
+        {
+          "id": "P2-II1-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Is not by necessary policy",
+          "es": "no debe considerarse, por prudencia necesaria,"
+        },
+        {
+          "id": "P2-II1-39",
+          "number": 39,
+          "speaker": "",
+          "en": "To be esteem'd assurance for ourselves,",
+          "es": "garantía alguna de nuestra seguridad,"
+        },
+        {
+          "id": "P2-II1-40",
+          "number": 40,
+          "speaker": "",
+          "en": "So that we vow to them should not infringe",
+          "es": "tampoco nuestros votos hacia ellos deberían restringir"
+        },
+        {
+          "id": "P2-II1-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Our liberty of arms and victory.",
+          "es": "nuestra libertad de combatir y vencer."
+        },
+        {
+          "id": "P2-II1-42",
+          "number": 42,
+          "speaker": "SIGISMUND",
+          "en": "Though I confess the oaths they undertake",
+          "es": "Aunque reconozco que los juramentos que prestan"
+        },
+        {
+          "id": "P2-II1-43",
+          "number": 43,
+          "speaker": "",
+          "en": "Breed little strength to our security,",
+          "es": "aportan poca firmeza a nuestra seguridad,"
+        },
+        {
+          "id": "P2-II1-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Yet those infirmities that thus defame",
+          "es": "las flaquezas que así desacreditan"
+        },
+        {
+          "id": "P2-II1-45",
+          "number": 45,
+          "speaker": "",
+          "en": "Their faiths, their honours, and religion,",
+          "es": "su fe, su honor y su religión"
+        },
+        {
+          "id": "P2-II1-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Should not give us presumption to the like.",
+          "es": "no deberían autorizarnos a obrar de igual manera."
+        },
+        {
+          "id": "P2-II1-47",
+          "number": 47,
+          "speaker": "",
+          "en": "Our faiths are sound, and must be consummate,",
+          "es": "Nuestra fe es firme y debe mantenerse íntegra,"
+        },
+        {
+          "id": "P2-II1-48",
+          "number": 48,
+          "speaker": "",
+          "en": "Religious, righteous, and inviolate.",
+          "es": "piadosa, justa e inviolable."
+        },
+        {
+          "id": "P2-II1-49",
+          "number": 49,
+          "speaker": "FREDERICK",
+          "en": "Assure your grace, 'tis superstition",
+          "es": "Os aseguro, majestad, que es superstición"
+        },
+        {
+          "id": "P2-II1-50",
+          "number": 50,
+          "speaker": "",
+          "en": "To stand so strictly on dispensive faith;",
+          "es": "aferrarse tan estrictamente a una promesa dispensable."
+        },
+        {
+          "id": "P2-II1-51",
+          "number": 51,
+          "speaker": "",
+          "en": "And, should we lose the opportunity",
+          "es": "Si dejáramos pasar la oportunidad"
+        },
+        {
+          "id": "P2-II1-52",
+          "number": 52,
+          "speaker": "",
+          "en": "That God hath given to venge our Christians' death,",
+          "es": "que Dios nos ofrece de vengar la muerte de nuestros cristianos"
+        },
+        {
+          "id": "P2-II1-53",
+          "number": 53,
+          "speaker": "",
+          "en": "And scourge their foul blasphemous paganism,",
+          "es": "y castigar su impío paganismo blasfemo,"
+        },
+        {
+          "id": "P2-II1-54",
+          "number": 54,
+          "speaker": "",
+          "en": "As fell to Saul, to Balaam, and the rest,",
+          "es": "como les ocurrió a Saúl, a Balaam y a los demás"
+        },
+        {
+          "id": "P2-II1-55",
+          "number": 55,
+          "speaker": "",
+          "en": "That would not kill and curse at God's command,",
+          "es": "que no quisieron matar ni maldecir por orden de Dios,"
+        },
+        {
+          "id": "P2-II1-56",
+          "number": 56,
+          "speaker": "",
+          "en": "So surely will the vengeance of the Highest,",
+          "es": "también la venganza del Altísimo"
+        },
+        {
+          "id": "P2-II1-57",
+          "number": 57,
+          "speaker": "",
+          "en": "And jealous anger of his fearful arm,",
+          "es": "y la cólera celosa de su temible brazo"
+        },
+        {
+          "id": "P2-II1-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Be pour'd with rigour on our sinful heads,",
+          "es": "caerán implacables sobre nuestras cabezas pecadoras"
+        },
+        {
+          "id": "P2-II1-59",
+          "number": 59,
+          "speaker": "",
+          "en": "If we neglect this offer'd victory.",
+          "es": "si despreciamos esta victoria que se nos ofrece."
+        },
+        {
+          "id": "P2-II1-60",
+          "number": 60,
+          "speaker": "SIGISMUND",
+          "en": "Then arm, my lords, and issue suddenly,",
+          "es": "Entonces, ¡a las armas, señores! Atacad de inmediato"
+        },
+        {
+          "id": "P2-II1-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Giving commandment to our general host,",
+          "es": "y ordenad a todo nuestro ejército"
+        },
+        {
+          "id": "P2-II1-62",
+          "number": 62,
+          "speaker": "",
+          "en": "With expedition to assail the pagan,",
+          "es": "que se lance sin demora contra los paganos"
+        },
+        {
+          "id": "P2-II1-63",
+          "number": 63,
+          "speaker": "",
+          "en": "And take the victory our God hath given.",
+          "es": "para obtener la victoria que Dios nos ha concedido."
+        }
+      ],
+      "2": [
+        {
+          "id": "P2-II2-1",
+          "number": 1,
+          "speaker": "ORCANES",
+          "en": "Gazellus, Uribassa, and the rest,",
+          "es": "Gazelo, Uribasa y los demás:"
+        },
+        {
+          "id": "P2-II2-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Now will we march from proud Orminius' mount",
+          "es": "marcharemos ahora desde el orgulloso monte Orminio"
+        },
+        {
+          "id": "P2-II2-3",
+          "number": 3,
+          "speaker": "",
+          "en": "To fair Natolia, where our neighbour kings",
+          "es": "hacia la hermosa Anatolia, donde nuestros reyes vecinos"
+        },
+        {
+          "id": "P2-II2-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Expect our power and our royal presence,",
+          "es": "aguardan nuestras fuerzas y nuestra presencia real"
+        },
+        {
+          "id": "P2-II2-5",
+          "number": 5,
+          "speaker": "",
+          "en": "T' encounter with the cruel Tamburlaine,",
+          "es": "para enfrentarse al cruel Tamerlán,"
+        },
+        {
+          "id": "P2-II2-6",
+          "number": 6,
+          "speaker": "",
+          "en": "That nigh Larissa sways a mighty host,",
+          "es": "que cerca de Larisa manda un ejército formidable"
+        },
+        {
+          "id": "P2-II2-7",
+          "number": 7,
+          "speaker": "",
+          "en": "And with the thunder of his martial tools",
+          "es": "y con el trueno de sus instrumentos de guerra"
+        },
+        {
+          "id": "P2-II2-8",
+          "number": 8,
+          "speaker": "",
+          "en": "Makes earthquakes in the hearts of men and heaven.",
+          "es": "hace temblar de terror los corazones de los hombres y el cielo."
+        },
+        {
+          "id": "P2-II2-9",
+          "number": 9,
+          "speaker": "GAZELLUS",
+          "en": "And now come we to make his sinews shake",
+          "es": "Y ahora vamos a hacer temblar sus nervios"
+        },
+        {
+          "id": "P2-II2-10",
+          "number": 10,
+          "speaker": "",
+          "en": "With greater power than erst his pride hath felt.",
+          "es": "ante un poder mayor del que su soberbia haya conocido."
+        },
+        {
+          "id": "P2-II2-11",
+          "number": 11,
+          "speaker": "",
+          "en": "An hundred kings, by scores, will bid him arms,",
+          "es": "Cien reyes, reunidos por veintenas, lo desafiarán a las armas,"
+        },
+        {
+          "id": "P2-II2-12",
+          "number": 12,
+          "speaker": "",
+          "en": "And hundred thousands subjects to each score:",
+          "es": "y cada veintena con cien mil súbditos."
+        },
+        {
+          "id": "P2-II2-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Which, if a shower of wounding thunderbolts",
+          "es": "Aunque una lluvia de rayos hirientes"
+        },
+        {
+          "id": "P2-II2-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Should break out of the bowels of the clouds,",
+          "es": "brotara de las entrañas de las nubes"
+        },
+        {
+          "id": "P2-II2-15",
+          "number": 15,
+          "speaker": "",
+          "en": "And fall as thick as hail upon our heads,",
+          "es": "y cayera sobre nuestras cabezas tan espesa como el granizo"
+        },
+        {
+          "id": "P2-II2-16",
+          "number": 16,
+          "speaker": "",
+          "en": "In partial aid of that proud Scythian,",
+          "es": "para favorecer injustamente a ese orgulloso escita,"
+        },
+        {
+          "id": "P2-II2-17",
+          "number": 17,
+          "speaker": "",
+          "en": "Yet should our courages and steeled crests,",
+          "es": "nuestro valor, nuestros yelmos de acero"
+        },
+        {
+          "id": "P2-II2-18",
+          "number": 18,
+          "speaker": "",
+          "en": "And numbers, more than infinite, of men,",
+          "es": "y la multitud casi infinita de nuestros hombres"
+        },
+        {
+          "id": "P2-II2-19",
+          "number": 19,
+          "speaker": "",
+          "en": "Be able to withstand and conquer him.",
+          "es": "bastarían para resistirlo y vencerlo."
+        },
+        {
+          "id": "P2-II2-20",
+          "number": 20,
+          "speaker": "URIBASSA",
+          "en": "Methinks I see how glad the Christian king",
+          "es": "Me parece ver cuánto se alegra el rey cristiano"
+        },
+        {
+          "id": "P2-II2-21",
+          "number": 21,
+          "speaker": "",
+          "en": "Is made for joy of our admitted truce,",
+          "es": "de la tregua que hemos aceptado,"
+        },
+        {
+          "id": "P2-II2-22",
+          "number": 22,
+          "speaker": "",
+          "en": "That could not but before be terrified",
+          "es": "cuando antes no podía sino temblar"
+        },
+        {
+          "id": "P2-II2-23",
+          "number": 23,
+          "speaker": "",
+          "en": "With unacquainted power of our host.",
+          "es": "ante el poder desconocido de nuestro ejército."
+        },
+        {
+          "id": "P2-II2-24",
+          "number": 24,
+          "speaker": "MESSENGER",
+          "en": "Arm, dread sovereign, and my noble lords!",
+          "es": "¡A las armas, temible soberano, y vosotros, nobles señores!"
+        },
+        {
+          "id": "P2-II2-25",
+          "number": 25,
+          "speaker": "",
+          "en": "The treacherous army of the Christians,",
+          "es": "El ejército traicionero de los cristianos,"
+        },
+        {
+          "id": "P2-II2-26",
+          "number": 26,
+          "speaker": "",
+          "en": "Taking advantage of your slender power,",
+          "es": "aprovechando la escasez de vuestras tropas,"
+        },
+        {
+          "id": "P2-II2-27",
+          "number": 27,
+          "speaker": "",
+          "en": "Comes marching on us, and determines straight",
+          "es": "avanza contra nosotros decidido"
+        },
+        {
+          "id": "P2-II2-28",
+          "number": 28,
+          "speaker": "",
+          "en": "To bid us battle for our dearest lives.",
+          "es": "a desafiarnos en combate por nuestras propias vidas."
+        },
+        {
+          "id": "P2-II2-29",
+          "number": 29,
+          "speaker": "ORCANES",
+          "en": "Traitors, villains, damned Christians!",
+          "es": "¡Traidores, villanos, cristianos malditos!"
+        },
+        {
+          "id": "P2-II2-30",
+          "number": 30,
+          "speaker": "",
+          "en": "Have I not here the articles of peace",
+          "es": "¿Acaso no tengo aquí los artículos de paz"
+        },
+        {
+          "id": "P2-II2-31",
+          "number": 31,
+          "speaker": "",
+          "en": "And solemn covenants we have both confirm'd,",
+          "es": "y los pactos solemnes que ambas partes hemos ratificado,"
+        },
+        {
+          "id": "P2-II2-32",
+          "number": 32,
+          "speaker": "",
+          "en": "He by his Christ, and I by Mahomet?",
+          "es": "él por su Cristo y yo por Mahoma?"
+        },
+        {
+          "id": "P2-II2-33",
+          "number": 33,
+          "speaker": "GAZELLUS",
+          "en": "Hell and confusion light upon their heads,",
+          "es": "¡Que el infierno y la confusión caigan sobre sus cabezas,"
+        },
+        {
+          "id": "P2-II2-34",
+          "number": 34,
+          "speaker": "",
+          "en": "That with such treason seek our overthrow,",
+          "es": "pues con tal traición buscan nuestra derrota"
+        },
+        {
+          "id": "P2-II2-35",
+          "number": 35,
+          "speaker": "",
+          "en": "And care so little for their prophet Christ!",
+          "es": "y tan poco respetan a su profeta Cristo!"
+        },
+        {
+          "id": "P2-II2-36",
+          "number": 36,
+          "speaker": "ORCANES",
+          "en": "Can there be such deceit in Christians,",
+          "es": "¿Puede haber semejante engaño entre cristianos"
+        },
+        {
+          "id": "P2-II2-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Or treason in the fleshly heart of man,",
+          "es": "o traición en el corazón carnal del hombre,"
+        },
+        {
+          "id": "P2-II2-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Whose shape is figure of the highest God?",
+          "es": "cuya figura reproduce la del Dios supremo?"
+        },
+        {
+          "id": "P2-II2-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Then, if there be a Christ, as Christians say,",
+          "es": "Entonces, si existe un Cristo, como dicen los cristianos,"
+        },
+        {
+          "id": "P2-II2-40",
+          "number": 40,
+          "speaker": "",
+          "en": "But in their deeds deny him for their Christ,",
+          "es": "aunque con sus acciones lo nieguen como su Cristo;"
+        },
+        {
+          "id": "P2-II2-41",
+          "number": 41,
+          "speaker": "",
+          "en": "If he be son to everliving Jove,",
+          "es": "si es hijo del Júpiter eterno"
+        },
+        {
+          "id": "P2-II2-42",
+          "number": 42,
+          "speaker": "",
+          "en": "And hath the power of his outstretched arm,",
+          "es": "y posee el poder de su brazo extendido;"
+        },
+        {
+          "id": "P2-II2-43",
+          "number": 43,
+          "speaker": "",
+          "en": "If he be jealous of his name and honour",
+          "es": "si vela celosamente por su nombre y su honor,"
+        },
+        {
+          "id": "P2-II2-44",
+          "number": 44,
+          "speaker": "",
+          "en": "As is our holy prophet Mahomet,",
+          "es": "como nuestro santo profeta Mahoma,"
+        },
+        {
+          "id": "P2-II2-45",
+          "number": 45,
+          "speaker": "",
+          "en": "Take here these papers as our sacrifice",
+          "es": "¡recibe estos documentos como sacrificio nuestro"
+        },
+        {
+          "id": "P2-II2-46",
+          "number": 46,
+          "speaker": "",
+          "en": "And witness of thy servant's perjury!",
+          "es": "y testimonio del perjurio de tu siervo!"
+        },
+        {
+          "id": "P2-II2-47",
+          "number": 47,
+          "speaker": "",
+          "en": "Open, thou shining veil of Cynthia,",
+          "es": "¡Ábrete, velo resplandeciente de Cynthia,"
+        },
+        {
+          "id": "P2-II2-48",
+          "number": 48,
+          "speaker": "",
+          "en": "And make a passage from th' empyreal heaven,",
+          "es": "y deja paso desde el cielo empíreo"
+        },
+        {
+          "id": "P2-II2-49",
+          "number": 49,
+          "speaker": "",
+          "en": "That he that sits on high and never sleeps,",
+          "es": "para que aquel que se sienta en lo alto y nunca duerme,"
+        },
+        {
+          "id": "P2-II2-50",
+          "number": 50,
+          "speaker": "",
+          "en": "Nor in one place is circumscriptible,",
+          "es": "ni puede quedar encerrado en un solo lugar,"
+        },
+        {
+          "id": "P2-II2-51",
+          "number": 51,
+          "speaker": "",
+          "en": "But every where fills every continent",
+          "es": "sino que llena por doquier cada región"
+        },
+        {
+          "id": "P2-II2-52",
+          "number": 52,
+          "speaker": "",
+          "en": "With strange infusion of his sacred vigour,",
+          "es": "con la misteriosa efusión de su fuerza sagrada,"
+        },
+        {
+          "id": "P2-II2-53",
+          "number": 53,
+          "speaker": "",
+          "en": "May, in his endless power and purity,",
+          "es": "contemple en su infinito poder y pureza"
+        },
+        {
+          "id": "P2-II2-54",
+          "number": 54,
+          "speaker": "",
+          "en": "Behold and venge this traitor's perjury!",
+          "es": "y castigue el perjurio de este traidor!"
+        },
+        {
+          "id": "P2-II2-55",
+          "number": 55,
+          "speaker": "",
+          "en": "Thou, Christ, that art esteem'd omnipotent,",
+          "es": "¡Tú, Cristo, a quien llaman omnipotente,"
+        },
+        {
+          "id": "P2-II2-56",
+          "number": 56,
+          "speaker": "",
+          "en": "If thou wilt prove thyself a perfect God,",
+          "es": "si quieres demostrar que eres un Dios perfecto,"
+        },
+        {
+          "id": "P2-II2-57",
+          "number": 57,
+          "speaker": "",
+          "en": "Worthy the worship of all faithful hearts,",
+          "es": "digno de la adoración de todos los corazones fieles,"
+        },
+        {
+          "id": "P2-II2-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Be now reveng'd upon this traitor's soul,",
+          "es": "véngate ahora del alma de este traidor"
+        },
+        {
+          "id": "P2-II2-59",
+          "number": 59,
+          "speaker": "",
+          "en": "And make the power I have left behind",
+          "es": "y haz que las fuerzas que he dejado atrás,"
+        },
+        {
+          "id": "P2-II2-60",
+          "number": 60,
+          "speaker": "",
+          "en": "(Too little to defend our guiltless lives)",
+          "es": "demasiado escasas para defender nuestras vidas inocentes,"
+        },
+        {
+          "id": "P2-II2-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Sufficient to discomfit and confound",
+          "es": "basten para derrotar y aniquilar"
+        },
+        {
+          "id": "P2-II2-62",
+          "number": 62,
+          "speaker": "",
+          "en": "The trustless force of those false Christians!—",
+          "es": "el ejército desleal de esos falsos cristianos!"
+        },
+        {
+          "id": "P2-II2-63",
+          "number": 63,
+          "speaker": "",
+          "en": "To arms, my lords! on Christ still let us cry:",
+          "es": "¡A las armas, señores! ¡Sigamos invocando a Cristo!"
+        },
+        {
+          "id": "P2-II2-64",
+          "number": 64,
+          "speaker": "",
+          "en": "If there be Christ, we shall have victory.",
+          "es": "¡Si Cristo existe, obtendremos la victoria!"
+        }
+      ],
+      "3": [
+        {
+          "id": "P2-II3-1",
+          "number": 1,
+          "speaker": "SIGISMUND",
+          "en": "Discomfited is all the Christian host,",
+          "es": "Todo el ejército cristiano ha sido derrotado,"
+        },
+        {
+          "id": "P2-II3-2",
+          "number": 2,
+          "speaker": "",
+          "en": "And God hath thunder'd vengeance from on high,",
+          "es": "y Dios ha enviado desde lo alto su venganza atronadora"
+        },
+        {
+          "id": "P2-II3-3",
+          "number": 3,
+          "speaker": "",
+          "en": "For my accurs'd and hateful perjury.",
+          "es": "por mi perjurio maldito y aborrecible."
+        },
+        {
+          "id": "P2-II3-4",
+          "number": 4,
+          "speaker": "",
+          "en": "O just and dreadful punisher of sin,",
+          "es": "¡Oh, justo y temible castigador del pecado!"
+        },
+        {
+          "id": "P2-II3-5",
+          "number": 5,
+          "speaker": "",
+          "en": "Let the dishonour of the pains I feel",
+          "es": "¡Que la deshonra de las penas que padezco"
+        },
+        {
+          "id": "P2-II3-6",
+          "number": 6,
+          "speaker": "",
+          "en": "In this my mortal well-deserved wound",
+          "es": "por esta herida mortal que tanto merezco"
+        },
+        {
+          "id": "P2-II3-7",
+          "number": 7,
+          "speaker": "",
+          "en": "End all my penance in my sudden death!",
+          "es": "ponga fin a mi penitencia con una muerte inmediata!"
+        },
+        {
+          "id": "P2-II3-8",
+          "number": 8,
+          "speaker": "",
+          "en": "And let this death, wherein to sin I die,",
+          "es": "¡Y que esta muerte, en la que muero por mi pecado,"
+        },
+        {
+          "id": "P2-II3-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Conceive a second life in endless mercy!",
+          "es": "engendre una segunda vida en la misericordia eterna!"
+        },
+        {
+          "id": "P2-II3-10",
+          "number": 10,
+          "speaker": "ORCANES",
+          "en": "Now lie the Christians bathing in their bloods,",
+          "es": "Ahora yacen los cristianos bañados en su propia sangre,"
+        },
+        {
+          "id": "P2-II3-11",
+          "number": 11,
+          "speaker": "",
+          "en": "And Christ or Mahomet hath been my friend.",
+          "es": "y Cristo o Mahoma se ha mostrado amigo mío."
+        },
+        {
+          "id": "P2-II3-12",
+          "number": 12,
+          "speaker": "GAZELLUS",
+          "en": "See, here the perjur'd traitor Hungary,",
+          "es": "¡Mirad aquí al traidor perjuro de Hungría,"
+        },
+        {
+          "id": "P2-II3-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Bloody and breathless for his villany!",
+          "es": "ensangrentado y sin aliento por su infamia!"
+        },
+        {
+          "id": "P2-II3-14",
+          "number": 14,
+          "speaker": "ORCANES",
+          "en": "Now shall his barbarous body be a prey",
+          "es": "Su cuerpo bárbaro será ahora presa"
+        },
+        {
+          "id": "P2-II3-15",
+          "number": 15,
+          "speaker": "",
+          "en": "To beasts and fowls, and all the winds shall breathe,",
+          "es": "de bestias y aves, y todos los vientos exhalarán,"
+        },
+        {
+          "id": "P2-II3-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Through shady leaves of every senseless tree,",
+          "es": "entre las hojas sombrías de los árboles insensibles,"
+        },
+        {
+          "id": "P2-II3-17",
+          "number": 17,
+          "speaker": "",
+          "en": "Murmurs and hisses for his heinous sin.",
+          "es": "murmullos y silbidos contra su atroz pecado."
+        },
+        {
+          "id": "P2-II3-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Now scalds his soul in the Tartarian streams,",
+          "es": "Ahora su alma se abrasa en los ríos del Tártaro"
+        },
+        {
+          "id": "P2-II3-19",
+          "number": 19,
+          "speaker": "",
+          "en": "And feeds upon the baneful tree of hell,",
+          "es": "y se alimenta del árbol funesto del infierno,"
+        },
+        {
+          "id": "P2-II3-20",
+          "number": 20,
+          "speaker": "",
+          "en": "That Zoacum, that fruit of bitterness,",
+          "es": "ese zaqum, fruto de amargura,"
+        },
+        {
+          "id": "P2-II3-21",
+          "number": 21,
+          "speaker": "",
+          "en": "That in the midst of fire is ingraff'd,",
+          "es": "que arraiga en medio del fuego"
+        },
+        {
+          "id": "P2-II3-22",
+          "number": 22,
+          "speaker": "",
+          "en": "Yet flourisheth, as Flora in her pride,",
+          "es": "y, sin embargo, florece como Flora en su esplendor,"
+        },
+        {
+          "id": "P2-II3-23",
+          "number": 23,
+          "speaker": "",
+          "en": "With apples like the heads of damned fiends.",
+          "es": "con manzanas semejantes a cabezas de demonios condenados."
+        },
+        {
+          "id": "P2-II3-24",
+          "number": 24,
+          "speaker": "",
+          "en": "The devils there, in chains of quenchless flame,",
+          "es": "Allí los diablos, encadenados en llamas inextinguibles,"
+        },
+        {
+          "id": "P2-II3-25",
+          "number": 25,
+          "speaker": "",
+          "en": "Shall lead his soul, through Orcus' burning gulf,",
+          "es": "conducirán su alma por el golfo ardiente del Orco,"
+        },
+        {
+          "id": "P2-II3-26",
+          "number": 26,
+          "speaker": "",
+          "en": "From pain to pain, whose change shall never end.",
+          "es": "de tormento en tormento, sin fin ni descanso."
+        },
+        {
+          "id": "P2-II3-27",
+          "number": 27,
+          "speaker": "",
+          "en": "What say'st thou yet, Gazellus, to his foil,",
+          "es": "¿Qué dices ahora, Gazelo, de su derrota,"
+        },
+        {
+          "id": "P2-II3-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Which we referr'd to justice of his Christ",
+          "es": "que confiamos a la justicia de su Cristo"
+        },
+        {
+          "id": "P2-II3-29",
+          "number": 29,
+          "speaker": "",
+          "en": "And to his power, which here appears as full",
+          "es": "y a su poder, que aquí resplandece tan plenamente"
+        },
+        {
+          "id": "P2-II3-30",
+          "number": 30,
+          "speaker": "",
+          "en": "As rays of Cynthia to the clearest sight?",
+          "es": "como los rayos de Cynthia ante la mirada más clara?"
+        },
+        {
+          "id": "P2-II3-31",
+          "number": 31,
+          "speaker": "GAZELLUS",
+          "en": "'Tis but the fortune of the wars, my lord,",
+          "es": "No es más que la fortuna de la guerra, señor,"
+        },
+        {
+          "id": "P2-II3-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Whose power is often prov'd a miracle.",
+          "es": "cuyo poder parece muchas veces un milagro."
+        },
+        {
+          "id": "P2-II3-33",
+          "number": 33,
+          "speaker": "ORCANES",
+          "en": "Yet in my thoughts shall Christ be honoured,",
+          "es": "Con todo, honraré a Cristo en mis pensamientos"
+        },
+        {
+          "id": "P2-II3-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Not doing Mahomet an injury,",
+          "es": "sin ofender por ello a Mahoma,"
+        },
+        {
+          "id": "P2-II3-35",
+          "number": 35,
+          "speaker": "",
+          "en": "Whose power had share in this our victory;",
+          "es": "cuyo poder también tuvo parte en nuestra victoria."
+        },
+        {
+          "id": "P2-II3-36",
+          "number": 36,
+          "speaker": "",
+          "en": "And, since this miscreant hath disgrac'd his faith,",
+          "es": "Y puesto que este miserable deshonró su fe"
+        },
+        {
+          "id": "P2-II3-37",
+          "number": 37,
+          "speaker": "",
+          "en": "And died a traitor both to heaven and earth,",
+          "es": "y murió traidor tanto al cielo como a la tierra,"
+        },
+        {
+          "id": "P2-II3-38",
+          "number": 38,
+          "speaker": "",
+          "en": "We will both watch and ward shall keep his trunk",
+          "es": "dejaremos guardias para vigilar su cadáver"
+        },
+        {
+          "id": "P2-II3-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Amidst these plains for fowls to prey upon.",
+          "es": "en estas llanuras, a merced de las aves de rapiña."
+        },
+        {
+          "id": "P2-II3-40",
+          "number": 40,
+          "speaker": "",
+          "en": "Go, Uribassa, give it straight in charge.",
+          "es": "Ve, Uribasa, y da de inmediato esa orden."
+        },
+        {
+          "id": "P2-II3-41",
+          "number": 41,
+          "speaker": "URIBASSA",
+          "en": "I will, my lord.",
+          "es": "Así lo haré, señor."
+        },
+        {
+          "id": "P2-II3-42",
+          "number": 42,
+          "speaker": "ORCANES",
+          "en": "And now, Gazellus, let us haste and meet",
+          "es": "Y ahora, Gazelo, apresurémonos a reunirnos"
+        },
+        {
+          "id": "P2-II3-43",
+          "number": 43,
+          "speaker": "",
+          "en": "Our army, and our brother[s] of Jerusalem,",
+          "es": "con nuestro ejército y nuestros hermanos de Jerusalén,"
+        },
+        {
+          "id": "P2-II3-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Of Soria, Trebizon, and Amasia,",
+          "es": "de Siria, Trebisonda y Amasia,"
+        },
+        {
+          "id": "P2-II3-45",
+          "number": 45,
+          "speaker": "",
+          "en": "And happily, with full Natolian bowls",
+          "es": "y, con copas anatolias rebosantes"
+        },
+        {
+          "id": "P2-II3-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Of Greekish wine, now let us celebrate",
+          "es": "de vino griego, celebremos alegremente"
+        },
+        {
+          "id": "P2-II3-47",
+          "number": 47,
+          "speaker": "",
+          "en": "Our happy conquest and his angry fate.",
+          "es": "nuestra victoria afortunada y su funesto destino."
+        }
+      ],
+      "4": [
+        {
+          "id": "P2-II4-1",
+          "number": 1,
+          "speaker": "TAMBURLAINE",
+          "en": "Black is the beauty of the brightest day;",
+          "es": "Negra es ahora la belleza del día más radiante."
+        },
+        {
+          "id": "P2-II4-2",
+          "number": 2,
+          "speaker": "",
+          "en": "The golden ball of heaven's eternal fire,",
+          "es": "El globo dorado del fuego eterno del cielo,"
+        },
+        {
+          "id": "P2-II4-3",
+          "number": 3,
+          "speaker": "",
+          "en": "That danc'd with glory on the silver waves,",
+          "es": "que danzaba glorioso sobre las olas de plata,"
+        },
+        {
+          "id": "P2-II4-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Now wants the fuel that inflam'd his beams;",
+          "es": "carece ahora del combustible que encendía sus rayos;"
+        },
+        {
+          "id": "P2-II4-5",
+          "number": 5,
+          "speaker": "",
+          "en": "And all with faintness, and for foul disgrace,",
+          "es": "y, debilitado por una vergüenza terrible,"
+        },
+        {
+          "id": "P2-II4-6",
+          "number": 6,
+          "speaker": "",
+          "en": "He binds his temples with a frowning cloud,",
+          "es": "ciñe sus sienes con una nube sombría,"
+        },
+        {
+          "id": "P2-II4-7",
+          "number": 7,
+          "speaker": "",
+          "en": "Ready to darken earth with endless night.",
+          "es": "dispuesto a cubrir la tierra con una noche interminable."
+        },
+        {
+          "id": "P2-II4-8",
+          "number": 8,
+          "speaker": "",
+          "en": "Zenocrate, that gave him light and life,",
+          "es": "Zenócrate, que le daba luz y vida,"
+        },
+        {
+          "id": "P2-II4-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Whose eyes shot fire from their ivory brows,",
+          "es": "cuyos ojos lanzaban fuego desde sus cejas de marfil"
+        },
+        {
+          "id": "P2-II4-10",
+          "number": 10,
+          "speaker": "",
+          "en": "And temper'd every soul with lively heat,",
+          "es": "y templaban todas las almas con un calor vivificante,"
+        },
+        {
+          "id": "P2-II4-11",
+          "number": 11,
+          "speaker": "",
+          "en": "Now by the malice of the angry skies,",
+          "es": "ahora, por la malicia de los cielos airados,"
+        },
+        {
+          "id": "P2-II4-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Whose jealousy admits no second mate,",
+          "es": "cuya envidia no tolera una segunda rival,"
+        },
+        {
+          "id": "P2-II4-13",
+          "number": 13,
+          "speaker": "",
+          "en": "Draws in the comfort of her latest breath,",
+          "es": "aspira el consuelo de su último aliento,"
+        },
+        {
+          "id": "P2-II4-14",
+          "number": 14,
+          "speaker": "",
+          "en": "All dazzled with the hellish mists of death.",
+          "es": "deslumbrada por las nieblas infernales de la muerte."
+        },
+        {
+          "id": "P2-II4-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Now walk the angels on the walls of heaven,",
+          "es": "Ahora los ángeles recorren las murallas del cielo"
+        },
+        {
+          "id": "P2-II4-16",
+          "number": 16,
+          "speaker": "",
+          "en": "As sentinels to warn th' immortal souls",
+          "es": "como centinelas que advierten a las almas inmortales"
+        },
+        {
+          "id": "P2-II4-17",
+          "number": 17,
+          "speaker": "",
+          "en": "To entertain divine Zenocrate:",
+          "es": "que deben recibir a la divina Zenócrate."
+        },
+        {
+          "id": "P2-II4-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Apollo, Cynthia, and the ceaseless lamps",
+          "es": "Apolo, Cynthia y las lámparas incesantes"
+        },
+        {
+          "id": "P2-II4-19",
+          "number": 19,
+          "speaker": "",
+          "en": "That gently look'd upon this loathsome earth,",
+          "es": "que contemplaban dulcemente esta tierra aborrecible"
+        },
+        {
+          "id": "P2-II4-20",
+          "number": 20,
+          "speaker": "",
+          "en": "Shine downwards now no more, but deck the heavens",
+          "es": "ya no brillan hacia abajo, sino que adornan los cielos"
+        },
+        {
+          "id": "P2-II4-21",
+          "number": 21,
+          "speaker": "",
+          "en": "To entertain divine Zenocrate:",
+          "es": "para recibir a la divina Zenócrate."
+        },
+        {
+          "id": "P2-II4-22",
+          "number": 22,
+          "speaker": "",
+          "en": "The crystal springs, whose taste illuminates",
+          "es": "Los manantiales cristalinos, cuyo sabor ilumina"
+        },
+        {
+          "id": "P2-II4-23",
+          "number": 23,
+          "speaker": "",
+          "en": "Refined eyes with an eternal sight,",
+          "es": "los ojos purificados con una visión eterna,"
+        },
+        {
+          "id": "P2-II4-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Like tried silver run through Paradise",
+          "es": "corren como plata refinada por el Paraíso"
+        },
+        {
+          "id": "P2-II4-25",
+          "number": 25,
+          "speaker": "",
+          "en": "To entertain divine Zenocrate:",
+          "es": "para recibir a la divina Zenócrate."
+        },
+        {
+          "id": "P2-II4-26",
+          "number": 26,
+          "speaker": "",
+          "en": "The cherubins and holy seraphins,",
+          "es": "Los querubines y los santos serafines"
+        },
+        {
+          "id": "P2-II4-27",
+          "number": 27,
+          "speaker": "",
+          "en": "That sing and play before the King of Kings,",
+          "es": "que cantan y tañen instrumentos ante el Rey de Reyes"
+        },
+        {
+          "id": "P2-II4-28",
+          "number": 28,
+          "speaker": "",
+          "en": "Use all their voices and their instruments",
+          "es": "emplean todas sus voces y sus instrumentos"
+        },
+        {
+          "id": "P2-II4-29",
+          "number": 29,
+          "speaker": "",
+          "en": "To entertain divine Zenocrate;",
+          "es": "para recibir a la divina Zenócrate."
+        },
+        {
+          "id": "P2-II4-30",
+          "number": 30,
+          "speaker": "",
+          "en": "And, in this sweet and curious harmony,",
+          "es": "Y en medio de esa armonía dulce y exquisita,"
+        },
+        {
+          "id": "P2-II4-31",
+          "number": 31,
+          "speaker": "",
+          "en": "The god that tunes this music to our souls",
+          "es": "el dios que afina esa música para nuestras almas"
+        },
+        {
+          "id": "P2-II4-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Holds out his hand in highest majesty",
+          "es": "extiende su mano con la más alta majestad"
+        },
+        {
+          "id": "P2-II4-33",
+          "number": 33,
+          "speaker": "",
+          "en": "To entertain divine Zenocrate.",
+          "es": "para recibir a la divina Zenócrate."
+        },
+        {
+          "id": "P2-II4-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Then let some holy trance convey my thoughts",
+          "es": "Que un éxtasis sagrado eleve mis pensamientos"
+        },
+        {
+          "id": "P2-II4-35",
+          "number": 35,
+          "speaker": "",
+          "en": "Up to the palace of th' empyreal heaven,",
+          "es": "hasta el palacio del cielo empíreo,"
+        },
+        {
+          "id": "P2-II4-36",
+          "number": 36,
+          "speaker": "",
+          "en": "That this my life may be as short to me",
+          "es": "para que mi vida sea para mí tan breve"
+        },
+        {
+          "id": "P2-II4-37",
+          "number": 37,
+          "speaker": "",
+          "en": "As are the days of sweet Zenocrate.—",
+          "es": "como los días de la dulce Zenócrate."
+        },
+        {
+          "id": "P2-II4-38",
+          "number": 38,
+          "speaker": "",
+          "en": "Physicians, will no physic do her good?",
+          "es": "Médicos, ¿ningún remedio puede aliviarla?"
+        },
+        {
+          "id": "P2-II4-39",
+          "number": 39,
+          "speaker": "FIRST PHYSICIAN",
+          "en": "My lord, your majesty shall soon perceive,",
+          "es": "Señor, vuestra majestad pronto lo sabrá;"
+        },
+        {
+          "id": "P2-II4-40",
+          "number": 40,
+          "speaker": "",
+          "en": "An if she pass this fit, the worst is past.",
+          "es": "si supera esta crisis, habrá pasado lo peor."
+        },
+        {
+          "id": "P2-II4-41",
+          "number": 41,
+          "speaker": "TAMBURLAINE",
+          "en": "Tell me, how fares my fair Zenocrate?",
+          "es": "Dime, ¿cómo se encuentra mi hermosa Zenócrate?"
+        },
+        {
+          "id": "P2-II4-42",
+          "number": 42,
+          "speaker": "ZENOCRATE",
+          "en": "I fare, my lord, as other empresses,",
+          "es": "Me encuentro, señor, como las demás emperatrices"
+        },
+        {
+          "id": "P2-II4-43",
+          "number": 43,
+          "speaker": "",
+          "en": "That, when this frail and transitory flesh",
+          "es": "que, cuando esta carne frágil y pasajera"
+        },
+        {
+          "id": "P2-II4-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Hath suck'd the measure of that vital air",
+          "es": "ha consumido la medida de aire vital"
+        },
+        {
+          "id": "P2-II4-45",
+          "number": 45,
+          "speaker": "",
+          "en": "That feeds the body with his dated health,",
+          "es": "que alimenta el cuerpo durante el plazo de su salud,"
+        },
+        {
+          "id": "P2-II4-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Wane with enforc'd and necessary change.",
+          "es": "declinan por un cambio inevitable y necesario."
+        },
+        {
+          "id": "P2-II4-47",
+          "number": 47,
+          "speaker": "TAMBURLAINE",
+          "en": "May never such a change transform my love,",
+          "es": "¡Que jamás semejante cambio transforme a mi amada,"
+        },
+        {
+          "id": "P2-II4-48",
+          "number": 48,
+          "speaker": "",
+          "en": "In whose sweet being I repose my life!",
+          "es": "en cuya dulce existencia reposa mi vida!"
+        },
+        {
+          "id": "P2-II4-49",
+          "number": 49,
+          "speaker": "",
+          "en": "Whose heavenly presence, beautified with health,",
+          "es": "Su presencia celestial, embellecida por la salud,"
+        },
+        {
+          "id": "P2-II4-50",
+          "number": 50,
+          "speaker": "",
+          "en": "Gives light to Phoebus and the fixed stars;",
+          "es": "da luz a Febo y a las estrellas fijas;"
+        },
+        {
+          "id": "P2-II4-51",
+          "number": 51,
+          "speaker": "",
+          "en": "Whose absence makes the sun and moon as dark",
+          "es": "su ausencia oscurece tanto el sol y la luna"
+        },
+        {
+          "id": "P2-II4-52",
+          "number": 52,
+          "speaker": "",
+          "en": "As when, oppos'd in one diameter,",
+          "es": "como cuando, enfrentados sobre un mismo diámetro,"
+        },
+        {
+          "id": "P2-II4-53",
+          "number": 53,
+          "speaker": "",
+          "en": "Their spheres are mounted on the serpent's head,",
+          "es": "sus orbes se elevan hasta la cabeza del dragón"
+        },
+        {
+          "id": "P2-II4-54",
+          "number": 54,
+          "speaker": "",
+          "en": "Or else descended to his winding train.",
+          "es": "o descienden hasta su cola enroscada."
+        },
+        {
+          "id": "P2-II4-55",
+          "number": 55,
+          "speaker": "",
+          "en": "Live still, my love, and so conserve my life,",
+          "es": "Vive, amor mío, y conservarás mi vida;"
+        },
+        {
+          "id": "P2-II4-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Or, dying, be the author of my death.",
+          "es": "o, si mueres, serás la causa de mi muerte."
+        },
+        {
+          "id": "P2-II4-57",
+          "number": 57,
+          "speaker": "ZENOCRATE",
+          "en": "Live still, my lord; O, let my sovereign live!",
+          "es": "¡Seguid viviendo, señor! ¡Que viva mi soberano!"
+        },
+        {
+          "id": "P2-II4-58",
+          "number": 58,
+          "speaker": "",
+          "en": "And sooner let the fiery element",
+          "es": "¡Que antes se disuelva el elemento del fuego"
+        },
+        {
+          "id": "P2-II4-59",
+          "number": 59,
+          "speaker": "",
+          "en": "Dissolve, and make your kingdom in the sky,",
+          "es": "y establezca vuestro reino en el cielo,"
+        },
+        {
+          "id": "P2-II4-60",
+          "number": 60,
+          "speaker": "",
+          "en": "Than this base earth should shroud your majesty;",
+          "es": "que permitir que esta tierra miserable cubra vuestra majestad!"
+        },
+        {
+          "id": "P2-II4-61",
+          "number": 61,
+          "speaker": "",
+          "en": "For, should I but suspect your death by mine,",
+          "es": "Pues si apenas sospechara que mi muerte os causaría la vuestra,"
+        },
+        {
+          "id": "P2-II4-62",
+          "number": 62,
+          "speaker": "",
+          "en": "The comfort of my future happiness,",
+          "es": "el consuelo de mi felicidad futura"
+        },
+        {
+          "id": "P2-II4-63",
+          "number": 63,
+          "speaker": "",
+          "en": "And hope to meet your highness in the heavens,",
+          "es": "y la esperanza de encontrarme con vuestra alteza en los cielos"
+        },
+        {
+          "id": "P2-II4-64",
+          "number": 64,
+          "speaker": "",
+          "en": "Turn'd to despair, would break my wretched breast,",
+          "es": "se convertirían en desesperación y quebrarían mi pecho desdichado,"
+        },
+        {
+          "id": "P2-II4-65",
+          "number": 65,
+          "speaker": "",
+          "en": "And fury would confound my present rest.",
+          "es": "mientras la furia destruiría mi reposo presente."
+        },
+        {
+          "id": "P2-II4-66",
+          "number": 66,
+          "speaker": "",
+          "en": "But let me die, my love; yes, let me die;",
+          "es": "Pero dejadme morir, amor mío; sí, dejadme morir."
+        },
+        {
+          "id": "P2-II4-67",
+          "number": 67,
+          "speaker": "",
+          "en": "With love and patience let your true love die:",
+          "es": "Dejad que vuestro amor verdadero muera con amor y paciencia:"
+        },
+        {
+          "id": "P2-II4-68",
+          "number": 68,
+          "speaker": "",
+          "en": "Your grief and fury hurts my second life.",
+          "es": "vuestra pena y vuestra furia dañan mi segunda vida."
+        },
+        {
+          "id": "P2-II4-69",
+          "number": 69,
+          "speaker": "",
+          "en": "Yet let me kiss my lord before I die,",
+          "es": "Pero permitidme besar a mi señor antes de morir"
+        },
+        {
+          "id": "P2-II4-70",
+          "number": 70,
+          "speaker": "",
+          "en": "And let me die with kissing of my lord.",
+          "es": "y dejad que muera besando a mi señor."
         }
       ]
     }
@@ -19981,6 +22090,90 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 127,
       "en": "Enter Usumcasane and Techelles.",
       "es": "Entran Usumcasane y Tequeles."
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "afterLine": 225,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 2,
+      "scene": 1,
+      "afterLine": 0,
+      "en": "Enter Sigismund, Frederick and Baldwin with their retinue.",
+      "es": "Entran Segismundo, Federico y Balduino con su séquito."
+    },
+    {
+      "act": 2,
+      "scene": 1,
+      "afterLine": 63,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "afterLine": 0,
+      "en": "Enter Orcanes, Gazellus and Uribassa with their retinue.",
+      "es": "Entran Orcanes, Gazelo y Uribasa con su séquito."
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "afterLine": 23,
+      "en": "Enter a messenger.",
+      "es": "Entra un mensajero."
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "afterLine": 46,
+      "en": "Orcanes tears up the articles of peace.",
+      "es": "Orcanes hace pedazos los acuerdos de paz."
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "afterLine": 64,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Alarms of battle offstage. Enter Sigismund wounded.",
+      "es": "Se oyen alarmas de batalla fuera de escena. Entra Segismundo herido."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 9,
+      "en": "Sigismund dies. Enter Orcanes, Gazellus, Uribassa and others.",
+      "es": "Muere Segismundo. Entran Orcanes, Gazelo, Uribasa y otros."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 41,
+      "en": "Exit Uribassa.",
+      "es": "Sale Uribasa."
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "afterLine": 47,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "afterLine": 0,
+      "en": "The curtains are drawn, revealing Zenocrate lying on a state bed; Tamburlaine sits by her, with three physicians preparing potions and their three sons, Calyphas, Amyras and Celebinus; Theridamas, Techelles and Usumcasane are present.",
+      "es": "Se descorren las cortinas: Zenócrate yace en su lecho de aparato; Tamerlán está sentado a su lado, con tres médicos preparando remedios y sus tres hijos, Calífas, Amiras y Celebino. También están presentes Teridamas, Tequeles y Usumcasane."
     }
   ]
 };

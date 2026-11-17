@@ -181,9 +181,9 @@
       "complete": true
     }
   ],
-  "publishedVerseLines": 2728,
+  "publishedVerseLines": 3028,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "Part I complete in first draft (2315 source line units including prologue). Part II Act I scenes 1 and 2 complete, scene 3 through 169. Editorial, philological and verse-vs-prose collation remains pending.",
+  "editorialReview": "Part I complete as preliminary first translation (2315 source-line units incl. prologue). Part II Act I complete, Act II scenes 1–3 complete, scene 4 through 70. Textual collation, prose wraps and annotations pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -193,11 +193,21 @@
   ],
   "next": {
     "part": 2,
-    "act": 1,
-    "scene": 3,
-    "line": 170
+    "act": 2,
+    "scene": 4,
+    "line": 71
   },
   "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "Part II I.3.170–225 (56); II.1.1–63 (63); II.2.1–64 (64); II.3.1–47 (47); II.4.1–70 (70)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "Alexander Dyce, Project Gutenberg #1589",
+    "editorialNote": "All scenes I.1–3 and II.1–3 complete; II.4 underway. Stage directions excluded from count."
+  },
+  "previousPass": {
     "date": "2026-11-17",
     "translatedNewLines": 300,
     "scope": "Part II I.1.114–166 (53); I.2.1–78 (78); I.3.1–169 (169)",
@@ -206,16 +216,6 @@
     "status": "first translation draft",
     "source": "Alexander Dyce via Project Gutenberg #1589; philological review pending",
     "editorialNote": "Scenes I.1 and I.2 complete; I.3 through 169. Stage directions excluded from counts."
-  },
-  "previousPass": {
-    "date": "2026-11-17",
-    "translatedNewLines": 300,
-    "scope": "Part I V.1.348–534 (187); Part II I.1.1–113 (113)",
-    "notesAdded": 0,
-    "lexicalEntriesAdded": 0,
-    "status": "first translation draft",
-    "source": "Dyce, Project Gutenberg 1094 and 1589",
-    "editorialNote": "Part I first draft complete; Part II started. Prose and printed wraps not metrically collated."
   },
   "part1": {
     "complete": true,
@@ -227,7 +227,7 @@
   },
   "part2": {
     "complete": false,
-    "publishedLineCount": 413,
+    "publishedLineCount": 713,
     "sections": [
       {
         "act": 1,
@@ -254,9 +254,49 @@
         "scene": 3,
         "publishedLines": [
           1,
-          169
+          225
         ],
-        "nextLine": 170,
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 2,
+        "scene": 1,
+        "publishedLines": [
+          1,
+          63
+        ],
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 2,
+        "scene": 2,
+        "publishedLines": [
+          1,
+          64
+        ],
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 2,
+        "scene": 3,
+        "publishedLines": [
+          1,
+          47
+        ],
+        "nextLine": null,
+        "complete": true
+      },
+      {
+        "act": 2,
+        "scene": 4,
+        "publishedLines": [
+          1,
+          70
+        ],
+        "nextLine": 71,
         "complete": false
       }
     ],
