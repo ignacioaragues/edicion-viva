@@ -119,3 +119,11 @@
 - **Primera traducción íntegra de las dos partes terminada**. Totales editoriales de unidades de línea: **4641** = **2315 Parte I** (con prólogo de 8) + **2326 Parte II** (con prólogo de 9). Son unidades de línea del texto electrónico Dyce, no necesariamente 4641 versos métricos por los pasajes en prosa.
 - El lector incorpora ahora el prólogo de la Parte II y llega hasta V.3.254. Se actualizó progress.json con next:null y status de primera traducción completa.
 - **Siguiente fase: revisión filológica y literaria**, no nuevas pasadas de traducción sin una necesidad textual específica: cotejar con Neilson y testimonios tempranos, ajustar puntuación y cortes métricos, atribuciones y acotaciones, pulir traducción y añadir notas y fichas de manera selectiva. Señalar y corregir divergencias observadas frente a la fuente inglesa antes de declarar la edición definitiva.
+
+
+## Navegación y notas · diseño previo a la revisión filológica (17-11-2026)
+- Lector de una sola escena por vista, siguiendo la experiencia de *Coriolanus*: ambos prólogos y las 35 escenas se eligen desde el índice; también hay botones «Anterior» y «Siguiente». Las otras escenas no se representan en el DOM y permanecen ocultas.
+- Enlaces directos estables mediante `#prologo`, `#acto{a}-escena{s}`, `#parte2-prologo`, `#parte2-acto{a}-escena{s}`, más compatibilidad con enlaces a renglones `#mar-...` y la posición de lectura guardada en el navegador.
+- Notas filológicas discretas: el fragmento del original inglés al que corresponde la nota queda **subrayado**, sin palabra «nota», círculos, asteriscos ni llamadas externas. Al hacer clic, se abre la misma ficha emergente; se conserva el interruptor de notas. Las 9 notas existentes tienen anclas de texto comprobadas.
+- La búsqueda se aplica exclusivamente a la escena visible; se mantienen los dos idiomas, diccionario, ajuste de tamaño, modos de columna y resaltados personales. Los datos de la obra no se modificaron.
+- Esta organización debe mantenerse en las siguientes pasadas editoriales; las nuevas notas deben anclarse al término exacto dentro del verso, evitando añadir botones, viñetas o marcas decorativas al margen.
