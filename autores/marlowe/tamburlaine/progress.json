@@ -191,7 +191,12 @@
     "https://www.gutenberg.org/files/1094/1094-h/1094-h.htm",
     "https://www.gutenberg.org/files/1589/1589-h/1589-h.htm"
   ],
-  "next": null,
+  "next": {
+    "part": 1,
+    "act": 3,
+    "scene": 3,
+    "line": 100
+  },
   "lastPass": {
     "date": "2026-11-17",
     "translatedNewLines": 113,
@@ -420,7 +425,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1150,
+    "reviewedUnits": 1200,
     "reviewed": [
       {
         "part": 1,
@@ -692,28 +697,35 @@
         "start": 1,
         "end": 49,
         "count": 49
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 3,
+        "start": 50,
+        "end": 99,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I III.2.113 + III.3.1–49",
+      "scope": "Parte I III.3.50–99",
       "unitsReviewed": 50,
-      "translationLinesRevised": 11,
+      "translationLinesRevised": 16,
       "translationLinesValidated": 50,
-      "newNotes": 14,
+      "newNotes": 10,
       "readingCardsAdded": 2,
-      "mode": "philology-23.js additive overlay with exact English string matching; browser QA pending",
+      "mode": "philology-24.js overlay; cotejo de transcripción Renascence; QA navegador pendiente",
       "sourceBasis": [
-        "Alexander Dyce, The First Part of Tamburlaine the Great, Renascence Editions, https://www.luminarium.org/renascence-editions/marlowe3.html",
-        "Project Gutenberg #1094, https://www.gutenberg.org/ebooks/1094"
+        "Christopher Marlowe, The First Part of Tamburlaine the Great, III.3, Renascence Editions, transcr. Risa Stephanie Bear (2007) a partir de Everyman's Library (1910), https://www.luminarium.org/renascence-editions/marlowe3.html"
       ],
-      "note": "Revisado tramo continuo 50 unidades; texto inglés e IDs intactos. Variantes Dyce en III.3.20 (expediton/expedition) y III.3.43 (meets/meet) se mantienen según base y requieren cotejo impreso 1590. No se verificó en navegador ni sincronización de resaltados."
+      "note": "Se preservaron inglés e IDs. III3-91/92 son dos unidades históricas que corresponden a un solo verso de la edición de cotejo; migración pendiente. No se cotejó impreso 1590."
     },
     "next": {
       "part": 1,
       "act": 3,
       "scene": 3,
-      "line": 50
+      "line": 100
     }
   }
 }
