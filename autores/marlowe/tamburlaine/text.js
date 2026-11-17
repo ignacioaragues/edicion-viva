@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through Act IV (scenes 1–3 complete). Source-line numbers; philological collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through V.1.129. Source-line numbers; philological collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -29549,6 +29549,913 @@ window.TAMBURLAINE_EDITION = {
           "es": "¡A Babilonia, señores, a Babilonia!"
         }
       ]
+    },
+    "5": {
+      "1": [
+        {
+          "id": "P2-V1-1",
+          "number": 1,
+          "speaker": "GOVERNOR",
+          "en": "What saith Maximus?",
+          "es": "¿Qué dice Máximo?"
+        },
+        {
+          "id": "P2-V1-2",
+          "number": 2,
+          "speaker": "MAXIMUS",
+          "en": "My lord, the breach the enemy hath made",
+          "es": "Señor, la brecha que ha abierto el enemigo"
+        },
+        {
+          "id": "P2-V1-3",
+          "number": 3,
+          "speaker": "",
+          "en": "Gives such assurance of our overthrow,",
+          "es": "hace tan segura nuestra derrota"
+        },
+        {
+          "id": "P2-V1-4",
+          "number": 4,
+          "speaker": "",
+          "en": "That little hope is left to save our lives,",
+          "es": "que apenas queda esperanza de salvar la vida"
+        },
+        {
+          "id": "P2-V1-5",
+          "number": 5,
+          "speaker": "",
+          "en": "Or hold our city from the conqueror's hands.",
+          "es": "o de impedir que la ciudad caiga en manos del conquistador."
+        },
+        {
+          "id": "P2-V1-6",
+          "number": 6,
+          "speaker": "",
+          "en": "Then hang out flags, my lord, of humble truce,",
+          "es": "Izad, pues, señor, las banderas de una humilde tregua"
+        },
+        {
+          "id": "P2-V1-7",
+          "number": 7,
+          "speaker": "",
+          "en": "And satisfy the people's general prayers,",
+          "es": "y atended a las súplicas unánimes del pueblo,"
+        },
+        {
+          "id": "P2-V1-8",
+          "number": 8,
+          "speaker": "",
+          "en": "That Tamburlaine's intolerable wrath",
+          "es": "para que la ira insoportable de Tamerlán"
+        },
+        {
+          "id": "P2-V1-9",
+          "number": 9,
+          "speaker": "",
+          "en": "May be suppressed by our submission.",
+          "es": "pueda aplacarse con nuestra rendición."
+        },
+        {
+          "id": "P2-V1-10",
+          "number": 10,
+          "speaker": "GOVERNOR",
+          "en": "Villain, respect'st thou more thy slavish life",
+          "es": "Villano, ¿estimas más tu vida de esclavo"
+        },
+        {
+          "id": "P2-V1-11",
+          "number": 11,
+          "speaker": "",
+          "en": "Than honour of thy country or thy name?",
+          "es": "que el honor de tu patria o de tu nombre?"
+        },
+        {
+          "id": "P2-V1-12",
+          "number": 12,
+          "speaker": "",
+          "en": "Is not my life and state as dear to me,",
+          "es": "¿Acaso no me son tan queridos mi vida y mi posición,"
+        },
+        {
+          "id": "P2-V1-13",
+          "number": 13,
+          "speaker": "",
+          "en": "The city and my native country's weal,",
+          "es": "la ciudad y el bienestar de mi tierra natal,"
+        },
+        {
+          "id": "P2-V1-14",
+          "number": 14,
+          "speaker": "",
+          "en": "As any thing of price with thy conceit?",
+          "es": "como cualquier cosa que tú tengas por valiosa?"
+        },
+        {
+          "id": "P2-V1-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Have we not hope, for all our batter'd walls,",
+          "es": "¿No tenemos esperanza, pese a nuestras murallas destrozadas,"
+        },
+        {
+          "id": "P2-V1-16",
+          "number": 16,
+          "speaker": "",
+          "en": "To live secure and keep his forces out,",
+          "es": "de permanecer a salvo y mantener fuera a sus tropas,"
+        },
+        {
+          "id": "P2-V1-17",
+          "number": 17,
+          "speaker": "",
+          "en": "When this our famous lake of Limnasphaltis",
+          "es": "si este célebre lago nuestro, el Limnasfaltites,"
+        },
+        {
+          "id": "P2-V1-18",
+          "number": 18,
+          "speaker": "",
+          "en": "Makes walls a-fresh with every thing that falls",
+          "es": "con todo cuanto cae en él, vuelve a levantar muros"
+        },
+        {
+          "id": "P2-V1-19",
+          "number": 19,
+          "speaker": "",
+          "en": "Into the liquid substance of his stream,",
+          "es": "dentro de la sustancia líquida de sus aguas,"
+        },
+        {
+          "id": "P2-V1-20",
+          "number": 20,
+          "speaker": "",
+          "en": "More strong than are the gates of death or hell?",
+          "es": "más resistentes que las puertas de la muerte o el infierno?"
+        },
+        {
+          "id": "P2-V1-21",
+          "number": 21,
+          "speaker": "",
+          "en": "What faintness should dismay our courages,",
+          "es": "¿Qué desaliento podría amedrentar nuestro valor"
+        },
+        {
+          "id": "P2-V1-22",
+          "number": 22,
+          "speaker": "",
+          "en": "When we are thus defenc'd against our foe,",
+          "es": "cuando de este modo estamos protegidos contra el enemigo"
+        },
+        {
+          "id": "P2-V1-23",
+          "number": 23,
+          "speaker": "",
+          "en": "And have no terror but his threatening looks?",
+          "es": "y no debemos temer sino sus miradas amenazantes?"
+        },
+        {
+          "id": "P2-V1-24",
+          "number": 24,
+          "speaker": "CITIZEN",
+          "en": "My lord, if ever you did deed of ruth,",
+          "es": "Señor, si alguna vez obró con compasión"
+        },
+        {
+          "id": "P2-V1-25",
+          "number": 25,
+          "speaker": "",
+          "en": "And now will work a refuge to our lives,",
+          "es": "y ahora quiere dar refugio a nuestras vidas,"
+        },
+        {
+          "id": "P2-V1-26",
+          "number": 26,
+          "speaker": "",
+          "en": "Offer submission, hang up flags of truce,",
+          "es": "ofrezca la rendición e ice las banderas de tregua"
+        },
+        {
+          "id": "P2-V1-27",
+          "number": 27,
+          "speaker": "",
+          "en": "That Tamburlaine may pity our distress,",
+          "es": "para que Tamerlán se apiade de nuestra desgracia"
+        },
+        {
+          "id": "P2-V1-28",
+          "number": 28,
+          "speaker": "",
+          "en": "And use us like a loving conqueror.",
+          "es": "y nos trate como un conquistador benévolo."
+        },
+        {
+          "id": "P2-V1-29",
+          "number": 29,
+          "speaker": "",
+          "en": "Though this be held his last day's dreadful siege,",
+          "es": "Aunque se diga que este es el terrible último día de su asedio,"
+        },
+        {
+          "id": "P2-V1-30",
+          "number": 30,
+          "speaker": "",
+          "en": "Wherein he spareth neither man nor child,",
+          "es": "cuando no perdona ni a hombres ni a niños,"
+        },
+        {
+          "id": "P2-V1-31",
+          "number": 31,
+          "speaker": "",
+          "en": "Yet are there Christians of Georgia here,",
+          "es": "aquí hay cristianos de Georgia"
+        },
+        {
+          "id": "P2-V1-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Whose state he ever pitied and reliev'd,",
+          "es": "cuya suerte siempre compadeció y alivió,"
+        },
+        {
+          "id": "P2-V1-33",
+          "number": 33,
+          "speaker": "",
+          "en": "Will get his pardon, if your grace would send.",
+          "es": "que conseguirán su perdón si vuestra gracia los envía."
+        },
+        {
+          "id": "P2-V1-34",
+          "number": 34,
+          "speaker": "GOVERNOR",
+          "en": "How is my soul environed!",
+          "es": "¡Qué asediada se encuentra mi alma!"
+        },
+        {
+          "id": "P2-V1-35",
+          "number": 35,
+          "speaker": "",
+          "en": "And this eternis'd city Babylon",
+          "es": "¿Y esta ciudad eterna de Babilonia"
+        },
+        {
+          "id": "P2-V1-36",
+          "number": 36,
+          "speaker": "",
+          "en": "Fill'd with a pack of faint-heart fugitives",
+          "es": "está llena de una pandilla de fugitivos pusilánimes"
+        },
+        {
+          "id": "P2-V1-37",
+          "number": 37,
+          "speaker": "",
+          "en": "That thus entreat their shame and servitude!",
+          "es": "que imploran de este modo su vergüenza y esclavitud?"
+        },
+        {
+          "id": "P2-V1-38",
+          "number": 38,
+          "speaker": "SECOND CITIZEN",
+          "en": "My lord, if ever you will win our hearts,",
+          "es": "Señor, si alguna vez quiere ganarse nuestros corazones,"
+        },
+        {
+          "id": "P2-V1-39",
+          "number": 39,
+          "speaker": "",
+          "en": "Yield up the town, and save our wives and children;",
+          "es": "entregue la ciudad y salve a nuestras esposas e hijos;"
+        },
+        {
+          "id": "P2-V1-40",
+          "number": 40,
+          "speaker": "",
+          "en": "For I will cast myself from off these walls,",
+          "es": "porque me arrojaré desde estas murallas"
+        },
+        {
+          "id": "P2-V1-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Or die some death of quickest violence,",
+          "es": "o buscaré la muerte más rápida y violenta"
+        },
+        {
+          "id": "P2-V1-42",
+          "number": 42,
+          "speaker": "",
+          "en": "Before I bide the wrath of Tamburlaine.",
+          "es": "antes que soportar la ira de Tamerlán."
+        },
+        {
+          "id": "P2-V1-43",
+          "number": 43,
+          "speaker": "GOVERNOR",
+          "en": "Villains, cowards, traitors to our state!",
+          "es": "¡Villanos, cobardes, traidores a nuestro Estado!"
+        },
+        {
+          "id": "P2-V1-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Fall to the earth, and pierce the pit of hell,",
+          "es": "¡Caigan al suelo y atraviesen hasta el abismo infernal"
+        },
+        {
+          "id": "P2-V1-45",
+          "number": 45,
+          "speaker": "",
+          "en": "That legions of tormenting spirits may vex",
+          "es": "para que legiones de espíritus torturadores atormenten"
+        },
+        {
+          "id": "P2-V1-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Your slavish bosoms with continual pains!",
+          "es": "sus pechos serviles con dolores perpetuos!"
+        },
+        {
+          "id": "P2-V1-47",
+          "number": 47,
+          "speaker": "",
+          "en": "I care not, nor the town will never yield",
+          "es": "Nada me importa; la ciudad jamás se rendirá"
+        },
+        {
+          "id": "P2-V1-48",
+          "number": 48,
+          "speaker": "",
+          "en": "As long as any life is in my breast.",
+          "es": "mientras quede un soplo de vida en mi pecho."
+        },
+        {
+          "id": "P2-V1-49",
+          "number": 49,
+          "speaker": "THERIDAMAS",
+          "en": "Thou desperate governor of Babylon,",
+          "es": "Gobernador desesperado de Babilonia,"
+        },
+        {
+          "id": "P2-V1-50",
+          "number": 50,
+          "speaker": "",
+          "en": "To save thy life, and us a little labour,",
+          "es": "para salvar tu vida y ahorrarnos algún trabajo,"
+        },
+        {
+          "id": "P2-V1-51",
+          "number": 51,
+          "speaker": "",
+          "en": "Yield speedily the city to our hands,",
+          "es": "entréganos enseguida la ciudad"
+        },
+        {
+          "id": "P2-V1-52",
+          "number": 52,
+          "speaker": "",
+          "en": "Or else be sure thou shalt be forc'd with pains",
+          "es": "o puedes estar seguro de que te doblegaremos con tormentos"
+        },
+        {
+          "id": "P2-V1-53",
+          "number": 53,
+          "speaker": "",
+          "en": "More exquisite than ever traitor felt.",
+          "es": "más refinados que cuantos padeció jamás un traidor."
+        },
+        {
+          "id": "P2-V1-54",
+          "number": 54,
+          "speaker": "GOVERNOR",
+          "en": "Tyrant, I turn the traitor in thy throat,",
+          "es": "Tirano, te devuelvo a la garganta la palabra «traidor»"
+        },
+        {
+          "id": "P2-V1-55",
+          "number": 55,
+          "speaker": "",
+          "en": "And will defend it in despite of thee.—",
+          "es": "y defenderé mi posición a pesar de ti."
+        },
+        {
+          "id": "P2-V1-56",
+          "number": 56,
+          "speaker": "",
+          "en": "Call up the soldiers to defend these walls.",
+          "es": "¡Llamen a los soldados para defender estas murallas!"
+        },
+        {
+          "id": "P2-V1-57",
+          "number": 57,
+          "speaker": "TECHELLES",
+          "en": "Yield, foolish governor; we offer more",
+          "es": "Ríndete, insensato gobernador; te ofrecemos más"
+        },
+        {
+          "id": "P2-V1-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Than ever yet we did to such proud slaves",
+          "es": "de lo que jamás ofrecimos a esclavos tan soberbios"
+        },
+        {
+          "id": "P2-V1-59",
+          "number": 59,
+          "speaker": "",
+          "en": "As durst resist us till our third day's siege.",
+          "es": "que se atrevieron a resistir hasta el tercer día de asedio."
+        },
+        {
+          "id": "P2-V1-60",
+          "number": 60,
+          "speaker": "",
+          "en": "Thou seest us prest to give the last assault,",
+          "es": "Ya ves que estamos preparados para el asalto final,"
+        },
+        {
+          "id": "P2-V1-61",
+          "number": 61,
+          "speaker": "",
+          "en": "And that shall bide no more regard of parle.",
+          "es": "y entonces no habrá lugar para nuevas conversaciones."
+        },
+        {
+          "id": "P2-V1-62",
+          "number": 62,
+          "speaker": "GOVERNOR",
+          "en": "Assault and spare not; we will never yield.",
+          "es": "Ataquen sin miramientos; jamás nos rendiremos."
+        },
+        {
+          "id": "P2-V1-63",
+          "number": 63,
+          "speaker": "TAMBURLAINE",
+          "en": "The stately buildings of fair Babylon,",
+          "es": "Los magníficos edificios de la hermosa Babilonia,"
+        },
+        {
+          "id": "P2-V1-64",
+          "number": 64,
+          "speaker": "",
+          "en": "Whose lofty pillars, higher than the clouds,",
+          "es": "cuyas elevadas columnas, más altas que las nubes,"
+        },
+        {
+          "id": "P2-V1-65",
+          "number": 65,
+          "speaker": "",
+          "en": "Were wont to guide the seaman in the deep,",
+          "es": "servían antaño de guía a los marineros en alta mar,"
+        },
+        {
+          "id": "P2-V1-66",
+          "number": 66,
+          "speaker": "",
+          "en": "Being carried thither by the cannon's force,",
+          "es": "arrastrados allí por la fuerza de los cañones,"
+        },
+        {
+          "id": "P2-V1-67",
+          "number": 67,
+          "speaker": "",
+          "en": "Now fill the mouth of Limnasphaltis' lake,",
+          "es": "llenan ahora la boca del lago Limnasfaltites"
+        },
+        {
+          "id": "P2-V1-68",
+          "number": 68,
+          "speaker": "",
+          "en": "And make a bridge unto the batter'd walls.",
+          "es": "y forman un puente hasta las murallas destruidas."
+        },
+        {
+          "id": "P2-V1-69",
+          "number": 69,
+          "speaker": "",
+          "en": "Where Belus, Ninus, and great Alexander",
+          "es": "Donde Belo, Nino y el gran Alejandro"
+        },
+        {
+          "id": "P2-V1-70",
+          "number": 70,
+          "speaker": "",
+          "en": "Have rode in triumph, triumphs Tamburlaine,",
+          "es": "desfilaron en triunfo, triunfa ahora Tamerlán,"
+        },
+        {
+          "id": "P2-V1-71",
+          "number": 71,
+          "speaker": "",
+          "en": "Whose chariot-wheels have burst th' Assyrians' bones,",
+          "es": "cuyas ruedas han quebrado los huesos de los asirios,"
+        },
+        {
+          "id": "P2-V1-72",
+          "number": 72,
+          "speaker": "",
+          "en": "Drawn with these kings on heaps of carcasses.",
+          "es": "tiradas por estos reyes sobre montones de cadáveres."
+        },
+        {
+          "id": "P2-V1-73",
+          "number": 73,
+          "speaker": "",
+          "en": "Now in the place, where fair Semiramis,",
+          "es": "Ahora, en el lugar donde la hermosa Semíramis,"
+        },
+        {
+          "id": "P2-V1-74",
+          "number": 74,
+          "speaker": "",
+          "en": "Courted by kings and peers of Asia,",
+          "es": "cortejada por reyes y nobles de Asia,"
+        },
+        {
+          "id": "P2-V1-75",
+          "number": 75,
+          "speaker": "",
+          "en": "Hath trod the measures, do my soliders march;",
+          "es": "danzaba al compás, marchan mis soldados;"
+        },
+        {
+          "id": "P2-V1-76",
+          "number": 76,
+          "speaker": "",
+          "en": "And in the streets, where brave Assyrian dames",
+          "es": "y en las calles donde las nobles damas asirias"
+        },
+        {
+          "id": "P2-V1-77",
+          "number": 77,
+          "speaker": "",
+          "en": "Have rid in pomp like rich Saturnia,",
+          "es": "paseaban con la pompa de la espléndida Saturnia,"
+        },
+        {
+          "id": "P2-V1-78",
+          "number": 78,
+          "speaker": "",
+          "en": "With furious words and frowning visages",
+          "es": "con palabras furiosas y rostros ceñudos"
+        },
+        {
+          "id": "P2-V1-79",
+          "number": 79,
+          "speaker": "",
+          "en": "My horsemen brandish their unruly blades.",
+          "es": "mis jinetes blanden sus espadas desenfrenadas."
+        },
+        {
+          "id": "P2-V1-80",
+          "number": 80,
+          "speaker": "",
+          "en": "Who have ye there, my lords?",
+          "es": "¿A quién traen ahí, señores?"
+        },
+        {
+          "id": "P2-V1-81",
+          "number": 81,
+          "speaker": "THERIDAMAS",
+          "en": "The sturdy governor of Babylon,",
+          "es": "Al obstinado gobernador de Babilonia,"
+        },
+        {
+          "id": "P2-V1-82",
+          "number": 82,
+          "speaker": "",
+          "en": "That made us all the labour for the town,",
+          "es": "que nos obligó a tanto esfuerzo para tomar la ciudad"
+        },
+        {
+          "id": "P2-V1-83",
+          "number": 83,
+          "speaker": "",
+          "en": "And us'd such slender reckoning of your majesty.",
+          "es": "y mostró tan poco respeto por vuestra majestad."
+        },
+        {
+          "id": "P2-V1-84",
+          "number": 84,
+          "speaker": "TAMBURLAINE",
+          "en": "Go, bind the villain; he shall hang in chains",
+          "es": "Vayan, aten al villano; colgará encadenado"
+        },
+        {
+          "id": "P2-V1-85",
+          "number": 85,
+          "speaker": "",
+          "en": "Upon the ruins of this conquer'd town.—",
+          "es": "sobre las ruinas de esta ciudad conquistada."
+        },
+        {
+          "id": "P2-V1-86",
+          "number": 86,
+          "speaker": "",
+          "en": "Sirrah, the view of our vermilion tents",
+          "es": "¡Miserable! La vista de nuestras tiendas bermejas"
+        },
+        {
+          "id": "P2-V1-87",
+          "number": 87,
+          "speaker": "",
+          "en": "(Which threaten'd more than if the region",
+          "es": "que amenazaban más que si la región"
+        },
+        {
+          "id": "P2-V1-88",
+          "number": 88,
+          "speaker": "",
+          "en": "Next underneath the element of fire",
+          "es": "situada justo debajo del elemento del fuego"
+        },
+        {
+          "id": "P2-V1-89",
+          "number": 89,
+          "speaker": "",
+          "en": "Were full of comets and of blazing stars,",
+          "es": "estuviese llena de cometas y estrellas llameantes,"
+        },
+        {
+          "id": "P2-V1-90",
+          "number": 90,
+          "speaker": "",
+          "en": "Whose flaming trains should reach down to the earth)",
+          "es": "cuyas colas ardientes alcanzaran la tierra,"
+        },
+        {
+          "id": "P2-V1-91",
+          "number": 91,
+          "speaker": "",
+          "en": "Could not affright you; no, nor I myself,",
+          "es": "no logró aterrorizarte; ni siquiera yo mismo,"
+        },
+        {
+          "id": "P2-V1-92",
+          "number": 92,
+          "speaker": "",
+          "en": "The wrathful messenger of mighty Jove,",
+          "es": "el airado mensajero del poderoso Júpiter,"
+        },
+        {
+          "id": "P2-V1-93",
+          "number": 93,
+          "speaker": "",
+          "en": "That with his sword hath quail'd all earthly kings,",
+          "es": "que con su espada ha doblegado a todos los reyes terrenales,"
+        },
+        {
+          "id": "P2-V1-94",
+          "number": 94,
+          "speaker": "",
+          "en": "Could not persuade you to submission,",
+          "es": "conseguí persuadirte de que te rindieras,"
+        },
+        {
+          "id": "P2-V1-95",
+          "number": 95,
+          "speaker": "",
+          "en": "But still the ports were shut: villain, I say,",
+          "es": "y las puertas siguieron cerradas. ¡Villano!, te digo:"
+        },
+        {
+          "id": "P2-V1-96",
+          "number": 96,
+          "speaker": "",
+          "en": "Should I but touch the rusty gates of hell,",
+          "es": "si tan solo tocara las puertas herrumbrosas del infierno,"
+        },
+        {
+          "id": "P2-V1-97",
+          "number": 97,
+          "speaker": "",
+          "en": "The triple headed Cerberus would howl,",
+          "es": "el Cerbero de tres cabezas aullaría"
+        },
+        {
+          "id": "P2-V1-98",
+          "number": 98,
+          "speaker": "",
+          "en": "And make black Jove to crouch and kneel to me;",
+          "es": "y haría que el Júpiter infernal se agachara y se arrodillara ante mí;"
+        },
+        {
+          "id": "P2-V1-99",
+          "number": 99,
+          "speaker": "",
+          "en": "But I have sent volleys of shot to you.",
+          "es": "pero te envié descargas de artillería"
+        },
+        {
+          "id": "P2-V1-100",
+          "number": 100,
+          "speaker": "",
+          "en": "Yet could not enter till the breach was made.",
+          "es": "y aun así no pude entrar hasta que abrimos una brecha."
+        },
+        {
+          "id": "P2-V1-101",
+          "number": 101,
+          "speaker": "GOVERNOR",
+          "en": "Nor, if my body could have stopt the breach,",
+          "es": "Y si mi cuerpo hubiera podido taponar esa brecha,"
+        },
+        {
+          "id": "P2-V1-102",
+          "number": 102,
+          "speaker": "",
+          "en": "Shouldst thou have enter'd, cruel Tamburlaine.",
+          "es": "no habrías entrado, cruel Tamerlán."
+        },
+        {
+          "id": "P2-V1-103",
+          "number": 103,
+          "speaker": "",
+          "en": "’Tis not thy bloody tents can make me yield,",
+          "es": "No son tus tiendas ensangrentadas las que pueden hacerme ceder,"
+        },
+        {
+          "id": "P2-V1-104",
+          "number": 104,
+          "speaker": "",
+          "en": "Nor yet thyself, the anger of the Highest;",
+          "es": "ni tú mismo, cólera del Altísimo,"
+        },
+        {
+          "id": "P2-V1-105",
+          "number": 105,
+          "speaker": "",
+          "en": "For, though thy cannon shook the city-walls,",
+          "es": "porque, aunque tus cañones sacudieron las murallas,"
+        },
+        {
+          "id": "P2-V1-106",
+          "number": 106,
+          "speaker": "",
+          "en": "My heart did never quake, or courage faint.",
+          "es": "mi corazón jamás tembló ni flaqueó mi valor."
+        },
+        {
+          "id": "P2-V1-107",
+          "number": 107,
+          "speaker": "TAMBURLAINE",
+          "en": "Well, now I'll make it quake.—Go draw him up,",
+          "es": "Pues ahora haré que tiemble. ¡Icenlo!"
+        },
+        {
+          "id": "P2-V1-108",
+          "number": 108,
+          "speaker": "",
+          "en": "Hang him in chains upon the city walls,",
+          "es": "Cuélguenlo encadenado en las murallas"
+        },
+        {
+          "id": "P2-V1-109",
+          "number": 109,
+          "speaker": "",
+          "en": "And let my soldiers shoot the slave to death.",
+          "es": "y que mis soldados maten a tiros a ese esclavo."
+        },
+        {
+          "id": "P2-V1-110",
+          "number": 110,
+          "speaker": "GOVERNOR",
+          "en": "Vile monster, born of some infernal hag,",
+          "es": "Monstruo vil, nacido de alguna bruja infernal"
+        },
+        {
+          "id": "P2-V1-111",
+          "number": 111,
+          "speaker": "",
+          "en": "And sent from hell to tryannise on earth,",
+          "es": "y enviado desde el infierno para tiranizar la tierra,"
+        },
+        {
+          "id": "P2-V1-112",
+          "number": 112,
+          "speaker": "",
+          "en": "Do all thy worst; nor death, nor Tamburlaine,",
+          "es": "haz cuanto daño puedas: ni la muerte ni Tamerlán,"
+        },
+        {
+          "id": "P2-V1-113",
+          "number": 113,
+          "speaker": "",
+          "en": "Torture, or pain, can daunt my dreadless mind.",
+          "es": "ni el tormento ni el dolor podrán doblegar mi ánimo intrépido."
+        },
+        {
+          "id": "P2-V1-114",
+          "number": 114,
+          "speaker": "TAMBURLAINE",
+          "en": "Up with him, then! his body shall be scar'd.",
+          "es": "¡Súbanlo entonces! Su cuerpo quedará marcado de cicatrices."
+        },
+        {
+          "id": "P2-V1-115",
+          "number": 115,
+          "speaker": "GOVERNOR",
+          "en": "But, Tamburlaine, in Limnasphaltis' lake",
+          "es": "Pero, Tamerlán, en el lago Limnasfaltites"
+        },
+        {
+          "id": "P2-V1-116",
+          "number": 116,
+          "speaker": "",
+          "en": "There lies more gold than Babylon is worth,",
+          "es": "yace más oro del que vale toda Babilonia,"
+        },
+        {
+          "id": "P2-V1-117",
+          "number": 117,
+          "speaker": "",
+          "en": "Which, when the city was besieg'd, I hid:",
+          "es": "que escondí cuando la ciudad fue sitiada:"
+        },
+        {
+          "id": "P2-V1-118",
+          "number": 118,
+          "speaker": "",
+          "en": "Save but my life, and I will give it thee.",
+          "es": "perdóname la vida y te lo entregaré."
+        },
+        {
+          "id": "P2-V1-119",
+          "number": 119,
+          "speaker": "TAMBURLAINE",
+          "en": "Then, for all your valour, you would save your life?",
+          "es": "¿Así que, pese a tanto valor, quieres salvar tu vida?"
+        },
+        {
+          "id": "P2-V1-120",
+          "number": 120,
+          "speaker": "",
+          "en": "Whereabout lies it?",
+          "es": "¿Dónde se encuentra?"
+        },
+        {
+          "id": "P2-V1-121",
+          "number": 121,
+          "speaker": "GOVERNOR",
+          "en": "Under a hollow bank, right opposite",
+          "es": "Debajo de un talud hueco, justo enfrente"
+        },
+        {
+          "id": "P2-V1-122",
+          "number": 122,
+          "speaker": "",
+          "en": "Against the western gate of Babylon.",
+          "es": "de la puerta occidental de Babilonia."
+        },
+        {
+          "id": "P2-V1-123",
+          "number": 123,
+          "speaker": "TAMBURLAINE",
+          "en": "Go thither, some of you, and take his gold:—",
+          "es": "Vayan algunos hasta allí y recojan su oro."
+        },
+        {
+          "id": "P2-V1-124",
+          "number": 124,
+          "speaker": "",
+          "en": "The rest forward with execution.",
+          "es": "Los demás, adelante con la ejecución."
+        },
+        {
+          "id": "P2-V1-125",
+          "number": 125,
+          "speaker": "",
+          "en": "Away with him hence, let him speak no more.—",
+          "es": "Llévenselo de aquí; que no diga una palabra más."
+        },
+        {
+          "id": "P2-V1-126",
+          "number": 126,
+          "speaker": "",
+          "en": "I think I make your courage something quail.—",
+          "es": "Me parece que empiezo a hacer flaquear tu valor."
+        },
+        {
+          "id": "P2-V1-127",
+          "number": 127,
+          "speaker": "",
+          "en": "When this is done, we'll march from Babylon,",
+          "es": "Cuando esto haya terminado, saldremos de Babilonia"
+        },
+        {
+          "id": "P2-V1-128",
+          "number": 128,
+          "speaker": "",
+          "en": "And make our greatest haste to Persia.",
+          "es": "y nos apresuraremos cuanto podamos hacia Persia."
+        },
+        {
+          "id": "P2-V1-129",
+          "number": 129,
+          "speaker": "",
+          "en": "These jades are broken winded and half-tir'd;",
+          "es": "Estos jamelgos están sin resuello y medio agotados;"
+        }
+      ]
     }
   },
   "part2StageDirections": [
@@ -29985,6 +30892,62 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 133,
       "en": "Exeunt.",
       "es": "Salen todos."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 0,
+      "en": "Enter the Governor of Babylon, Maximus and others upon the walls.",
+      "es": "Aparecen el gobernador de Babilonia, Máximo y otros sobre las murallas."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 23,
+      "en": "A citizen enters above and kneels before the governor.",
+      "es": "Un ciudadano aparece en lo alto y se arrodilla ante el gobernador."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 37,
+      "en": "Another citizen enters above.",
+      "es": "Aparece en lo alto otro ciudadano."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 48,
+      "en": "Enter Theridamas and Techelles with soldiers.",
+      "es": "Entran Teridamas y Tequeles con soldados."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 62,
+      "en": "Alarms; soldiers scale the walls. Enter Tamburlaine in his chariot, drawn by the kings of Trebizond and Syria, with his sons, other captive kings and soldiers.",
+      "es": "Suena la alarma; los soldados escalan las murallas. Entra Tamerlán en su carro tirado por los reyes de Trebisonda y Siria, con sus hijos, otros reyes cautivos y soldados."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 79,
+      "en": "Theridamas and Techelles return with the governor of Babylon.",
+      "es": "Regresan Teridamas y Tequeles con el gobernador de Babilonia."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 123,
+      "en": "Some attendants exit to fetch the gold.",
+      "es": "Algunos sirvientes salen en busca del oro."
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "afterLine": 126,
+      "en": "Attendants take the governor away.",
+      "es": "Los sirvientes se llevan al gobernador."
     }
   ]
 };
