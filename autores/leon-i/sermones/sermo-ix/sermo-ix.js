@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161A, caput I (partial); https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IX",
+  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B, caput I complete; https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IX",
   "status": "partial",
-  "next": "Caput I: Quisquis igitur hominum quibuslibet impietatibus Deum laesit",
+  "next": "Caput II: Propter has ergo, dilectissimi, versutias hostis antiqui",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -311,6 +311,290 @@ window.LEO_SERMO_I = {
           "possum",
           "imperfecto subjuntivo 3.ª singular",
           "pudiera"
+        ]
+      }
+    },
+    {
+      "id": "s9-5",
+      "label": "5",
+      "latin": "Quisquis igitur hominum quibuslibet impietatibus Deum laesit, hujus fraude traductus, hujus est nequitia depravatus.",
+      "spanish": "Así pues, cualquiera de los seres humanos que haya ofendido a Dios mediante cualquier impiedad ha sido extraviado por el engaño de este y corrompido por su maldad.",
+      "note": [
+        "Dos agentes de la corrupción",
+        "El doble hujus ... hujus atribuye al adversario tanto el engaño inicial como la corrupción subsiguiente. La edición Ballerini–Migne corrige aquí el tradicional Quidquid ... traductum ... depravatum con apoyo del manuscrito Vallicelliano."
+      ],
+      "lexicon": {
+        "Quisquis": [
+          "quisquis",
+          "nominativo masculino singular indefinido",
+          "cualquiera"
+        ],
+        "igitur": [
+          "igitur",
+          "conjunción ilativa",
+          "por tanto"
+        ],
+        "hominum": [
+          "homo",
+          "genitivo masculino plural",
+          "de los seres humanos"
+        ],
+        "quibuslibet": [
+          "quilibet",
+          "ablativo femenino plural",
+          "cualesquiera"
+        ],
+        "impietatibus": [
+          "impietas",
+          "ablativo femenino plural",
+          "impiedades"
+        ],
+        "Deum": [
+          "Deus",
+          "acusativo masculino singular",
+          "a Dios"
+        ],
+        "laesit": [
+          "laedo",
+          "perfecto indicativo 3.ª singular",
+          "ofendió"
+        ],
+        "hujus": [
+          "hic",
+          "genitivo masculino singular",
+          "de este"
+        ],
+        "fraude": [
+          "fraus",
+          "ablativo femenino singular",
+          "engaño"
+        ],
+        "traductus": [
+          "traduco",
+          "participio perfecto pasivo nominativo masculino singular",
+          "extraviado"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "nequitia": [
+          "nequitia",
+          "ablativo femenino singular",
+          "maldad"
+        ],
+        "depravatus": [
+          "depravo",
+          "participio perfecto pasivo nominativo masculino singular",
+          "corrompido"
+        ]
+      }
+    },
+    {
+      "id": "s9-6",
+      "label": "6",
+      "latin": "Facile enim in omnia flagitia impulit, quos religione decepit. Sciens autem Deum non solum verbis, sed etiam factis negari, multis quibus auferre non potuit fidem, sustulit charitatem; et agro cordis ipsorum avaritiae radicibus occupato, spoliavit fructu operum quos non privavit confessione labiorum.",
+      "spanish": "Pues empujó fácilmente a toda clase de delitos a quienes engañó en materia de religión. Sabiendo, además, que a Dios se lo niega no solo con palabras, sino también con hechos, quitó la caridad a muchos a quienes no pudo arrebatar la fe; y, una vez ocupado el campo de sus corazones por las raíces de la avaricia, despojó del fruto de las obras a quienes no había privado de la confesión de los labios.",
+      "note": [
+        "Fe, caridad y obras",
+        "Non solum verbis, sed etiam factis desplaza la atención de la profesión verbal a la conducta; fidem / charitatem y fructu operum / confessione labiorum establecen dos antítesis que anticipan la exhortación a la limosna. La imagen agraria agro cordis ... radicibus ... fructu articula la argumentación."
+      ],
+      "lexicon": {
+        "Facile": [
+          "facile",
+          "adverbio",
+          "fácilmente"
+        ],
+        "enim": [
+          "enim",
+          "conjunción explicativa",
+          "pues"
+        ],
+        "in": [
+          "in",
+          "preposición con acusativo",
+          "hacia"
+        ],
+        "omnia": [
+          "omnis",
+          "acusativo neutro plural",
+          "todos"
+        ],
+        "flagitia": [
+          "flagitium",
+          "acusativo neutro plural",
+          "delitos"
+        ],
+        "impulit": [
+          "impello",
+          "perfecto indicativo 3.ª singular",
+          "empujó"
+        ],
+        "quos": [
+          "qui",
+          "acusativo masculino plural relativo",
+          "a quienes"
+        ],
+        "religione": [
+          "religio",
+          "ablativo femenino singular",
+          "religión"
+        ],
+        "decepit": [
+          "decipio",
+          "perfecto indicativo 3.ª singular",
+          "engañó"
+        ],
+        "Sciens": [
+          "scio",
+          "participio presente nominativo masculino singular",
+          "sabiendo"
+        ],
+        "autem": [
+          "autem",
+          "conjunción adversativa",
+          "sin embargo"
+        ],
+        "Deum": [
+          "Deus",
+          "acusativo masculino singular",
+          "a Dios"
+        ],
+        "non": [
+          "non",
+          "adverbio negativo",
+          "no"
+        ],
+        "solum": [
+          "solum",
+          "adverbio",
+          "solamente"
+        ],
+        "verbis": [
+          "verbum",
+          "ablativo neutro plural",
+          "palabras"
+        ],
+        "sed": [
+          "sed",
+          "conjunción adversativa",
+          "sino"
+        ],
+        "etiam": [
+          "etiam",
+          "adverbio",
+          "también"
+        ],
+        "factis": [
+          "factum",
+          "ablativo neutro plural",
+          "hechos"
+        ],
+        "negari": [
+          "nego",
+          "infinitivo presente pasivo",
+          "ser negado"
+        ],
+        "multis": [
+          "multus",
+          "dativo masculino plural",
+          "a muchos"
+        ],
+        "quibus": [
+          "qui",
+          "dativo masculino plural relativo",
+          "a quienes"
+        ],
+        "auferre": [
+          "aufero",
+          "infinitivo presente",
+          "arrebatar"
+        ],
+        "potuit": [
+          "possum",
+          "perfecto indicativo 3.ª singular",
+          "pudo"
+        ],
+        "fidem": [
+          "fides",
+          "acusativo femenino singular",
+          "fe"
+        ],
+        "sustulit": [
+          "tollo",
+          "perfecto indicativo 3.ª singular",
+          "quitó"
+        ],
+        "charitatem": [
+          "caritas",
+          "acusativo femenino singular",
+          "caridad"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "agro": [
+          "ager",
+          "ablativo masculino singular",
+          "campo"
+        ],
+        "cordis": [
+          "cor",
+          "genitivo neutro singular",
+          "del corazón"
+        ],
+        "ipsorum": [
+          "ipse",
+          "genitivo masculino plural",
+          "de ellos mismos"
+        ],
+        "avaritiae": [
+          "avaritia",
+          "genitivo femenino singular",
+          "de avaricia"
+        ],
+        "radicibus": [
+          "radix",
+          "ablativo femenino plural",
+          "raíces"
+        ],
+        "occupato": [
+          "occupo",
+          "participio perfecto pasivo ablativo masculino singular",
+          "ocupado"
+        ],
+        "spoliavit": [
+          "spolio",
+          "perfecto indicativo 3.ª singular",
+          "despojó"
+        ],
+        "fructu": [
+          "fructus",
+          "ablativo masculino singular",
+          "fruto"
+        ],
+        "operum": [
+          "opus",
+          "genitivo neutro plural",
+          "de las obras"
+        ],
+        "privavit": [
+          "privo",
+          "perfecto indicativo 3.ª singular",
+          "privó"
+        ],
+        "confessione": [
+          "confessio",
+          "ablativo femenino singular",
+          "confesión"
+        ],
+        "labiorum": [
+          "labium",
+          "genitivo neutro plural",
+          "de los labios"
         ]
       }
     }
