@@ -26482,6 +26482,528 @@ window.TAMBURLAINE_EDITION = {
           "es": "No; te haremos frente, Tamerlán, esclavo despreciable."
         }
       ]
+    },
+    "4": {
+      "1": [
+        {
+          "id": "P2-IV1-1",
+          "number": 1,
+          "speaker": "AMYRAS",
+          "en": "Now in their glories shine the golden crowns",
+          "es": "Ahora resplandecen en su gloria las coronas de oro"
+        },
+        {
+          "id": "P2-IV1-2",
+          "number": 2,
+          "speaker": "",
+          "en": "Of these proud Turks, much like so many suns",
+          "es": "de esos orgullosos turcos, como otros tantos soles"
+        },
+        {
+          "id": "P2-IV1-3",
+          "number": 3,
+          "speaker": "",
+          "en": "That half dismay the majesty of heaven.",
+          "es": "que casi intimidan a la majestad del cielo."
+        },
+        {
+          "id": "P2-IV1-4",
+          "number": 4,
+          "speaker": "",
+          "en": "Now, brother, follow we our father's sword,",
+          "es": "Ahora, hermano, sigamos la espada de nuestro padre,"
+        },
+        {
+          "id": "P2-IV1-5",
+          "number": 5,
+          "speaker": "",
+          "en": "That flies with fury swifter than our thoughts,",
+          "es": "que vuela furiosa, más veloz que nuestros pensamientos,"
+        },
+        {
+          "id": "P2-IV1-6",
+          "number": 6,
+          "speaker": "",
+          "en": "And cuts down armies with his conquering wings.",
+          "es": "y siega ejércitos con sus alas conquistadoras."
+        },
+        {
+          "id": "P2-IV1-7",
+          "number": 7,
+          "speaker": "CELEBINUS",
+          "en": "Call forth our lazy brother from the tent,",
+          "es": "Haz salir de la tienda a nuestro hermano holgazán,"
+        },
+        {
+          "id": "P2-IV1-8",
+          "number": 8,
+          "speaker": "",
+          "en": "For, if my father miss him in the field,",
+          "es": "porque, si mi padre advierte su ausencia en el campo,"
+        },
+        {
+          "id": "P2-IV1-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Wrath, kindled in the furnace of his breast,",
+          "es": "la ira, encendida en el horno de su pecho,"
+        },
+        {
+          "id": "P2-IV1-10",
+          "number": 10,
+          "speaker": "",
+          "en": "Will send a deadly lightning to his heart.",
+          "es": "lanzará un rayo mortal contra su corazón."
+        },
+        {
+          "id": "P2-IV1-11",
+          "number": 11,
+          "speaker": "AMYRAS",
+          "en": "Brother, ho! what, given so much to sleep,",
+          "es": "¡Eh, hermano! ¿Tan entregado estás al sueño"
+        },
+        {
+          "id": "P2-IV1-12",
+          "number": 12,
+          "speaker": "",
+          "en": "You cannot leave it, when our enemies' drums",
+          "es": "que no puedes abandonarlo cuando los tambores enemigos"
+        },
+        {
+          "id": "P2-IV1-13",
+          "number": 13,
+          "speaker": "",
+          "en": "And rattling cannons thunder in our ears",
+          "es": "y los cañones estruendosos nos anuncian a gritos"
+        },
+        {
+          "id": "P2-IV1-14",
+          "number": 14,
+          "speaker": "",
+          "en": "Our proper ruin and our father's foil?",
+          "es": "nuestra propia ruina y la derrota de nuestro padre?"
+        },
+        {
+          "id": "P2-IV1-15",
+          "number": 15,
+          "speaker": "CALYPHAS",
+          "en": "Away, ye fools! my father needs not me,",
+          "es": "¡Fuera, necios! Mi padre no me necesita,"
+        },
+        {
+          "id": "P2-IV1-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Nor you, in faith, but that you will be thought",
+          "es": "ni tampoco a ustedes, en verdad; solo quieren parecer"
+        },
+        {
+          "id": "P2-IV1-17",
+          "number": 17,
+          "speaker": "",
+          "en": "More childish-valourous than manly-wise.",
+          "es": "más valientes como niños que prudentes como hombres."
+        },
+        {
+          "id": "P2-IV1-18",
+          "number": 18,
+          "speaker": "",
+          "en": "If half our camp should sit and sleep with me,",
+          "es": "Aunque la mitad del ejército durmiera aquí conmigo,"
+        },
+        {
+          "id": "P2-IV1-19",
+          "number": 19,
+          "speaker": "",
+          "en": "My father were enough to scare the foe:",
+          "es": "mi padre bastaría para ahuyentar al enemigo."
+        },
+        {
+          "id": "P2-IV1-20",
+          "number": 20,
+          "speaker": "",
+          "en": "You do dishonour to his majesty,",
+          "es": "Deshonran su majestad"
+        },
+        {
+          "id": "P2-IV1-21",
+          "number": 21,
+          "speaker": "",
+          "en": "To think our helps will do him any good.",
+          "es": "al creer que nuestra ayuda podría servirle de algo."
+        },
+        {
+          "id": "P2-IV1-22",
+          "number": 22,
+          "speaker": "AMYRAS",
+          "en": "What, dar'st thou, then, be absent from the fight,",
+          "es": "¿Cómo? ¿Te atreves a ausentarte del combate,"
+        },
+        {
+          "id": "P2-IV1-23",
+          "number": 23,
+          "speaker": "",
+          "en": "Knowing my father hates thy cowardice,",
+          "es": "sabiendo que mi padre aborrece tu cobardía"
+        },
+        {
+          "id": "P2-IV1-24",
+          "number": 24,
+          "speaker": "",
+          "en": "And oft hath warn'd thee to be still in field,",
+          "es": "y te ha ordenado muchas veces permanecer en el campo,"
+        },
+        {
+          "id": "P2-IV1-25",
+          "number": 25,
+          "speaker": "",
+          "en": "When he himself amidst the thickest troops",
+          "es": "mientras él mismo, entre las tropas más numerosas,"
+        },
+        {
+          "id": "P2-IV1-26",
+          "number": 26,
+          "speaker": "",
+          "en": "Beats down our foes, to flesh our taintless swords?",
+          "es": "abate enemigos para ensangrentar nuestras espadas aún intactas?"
+        },
+        {
+          "id": "P2-IV1-27",
+          "number": 27,
+          "speaker": "CALYPHAS",
+          "en": "I know, sir, what it is to kill a man;",
+          "es": "Sé muy bien, señor, lo que significa matar a un hombre:"
+        },
+        {
+          "id": "P2-IV1-28",
+          "number": 28,
+          "speaker": "",
+          "en": "It works remorse of conscience in me.",
+          "es": "me causa remordimientos de conciencia."
+        },
+        {
+          "id": "P2-IV1-29",
+          "number": 29,
+          "speaker": "",
+          "en": "I take no pleasure to be murderous,",
+          "es": "No me complace asesinar"
+        },
+        {
+          "id": "P2-IV1-30",
+          "number": 30,
+          "speaker": "",
+          "en": "Nor care for blood when wine will quench my thirst.",
+          "es": "ni quiero sangre cuando el vino puede saciar mi sed."
+        },
+        {
+          "id": "P2-IV1-31",
+          "number": 31,
+          "speaker": "CELEBINUS",
+          "en": "O cowardly boy! fie, for shame, come forth!",
+          "es": "¡Muchacho cobarde! ¡Qué vergüenza! ¡Sal de una vez!"
+        },
+        {
+          "id": "P2-IV1-32",
+          "number": 32,
+          "speaker": "",
+          "en": "Thou dost dishonour manhood and thy house.",
+          "es": "Deshonras tu condición de hombre y tu linaje."
+        },
+        {
+          "id": "P2-IV1-33",
+          "number": 33,
+          "speaker": "CALYPHAS",
+          "en": "Go, go, tall stripling, fight you for us both,",
+          "es": "Anda, anda, mozalbete fanfarrón; lucha por los dos,"
+        },
+        {
+          "id": "P2-IV1-34",
+          "number": 34,
+          "speaker": "",
+          "en": "And take my other toward brother here,",
+          "es": "y llévate a nuestro otro hermano prometedor,"
+        },
+        {
+          "id": "P2-IV1-35",
+          "number": 35,
+          "speaker": "",
+          "en": "For person like to prove a second Mars.",
+          "es": "que por su aspecto parece destinado a ser un segundo Marte."
+        },
+        {
+          "id": "P2-IV1-36",
+          "number": 36,
+          "speaker": "",
+          "en": "’Twill please my mind as well to hear, both you",
+          "es": "Me alegrará tanto saber que ambos"
+        },
+        {
+          "id": "P2-IV1-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Have won a heap of honour in the field,",
+          "es": "han ganado un cúmulo de honores en batalla"
+        },
+        {
+          "id": "P2-IV1-38",
+          "number": 38,
+          "speaker": "",
+          "en": "And left your slender carcasses behind,",
+          "es": "y dejado allí sus flacos cadáveres,"
+        },
+        {
+          "id": "P2-IV1-39",
+          "number": 39,
+          "speaker": "",
+          "en": "As if I lay with you for company.",
+          "es": "como si yo mismo hubiera caído junto a ustedes."
+        },
+        {
+          "id": "P2-IV1-40",
+          "number": 40,
+          "speaker": "AMYRAS",
+          "en": "You will not go, then?",
+          "es": "¿Así que no vas a ir?"
+        },
+        {
+          "id": "P2-IV1-41",
+          "number": 41,
+          "speaker": "CALYPHAS",
+          "en": "You say true.",
+          "es": "Has acertado."
+        },
+        {
+          "id": "P2-IV1-42",
+          "number": 42,
+          "speaker": "AMYRAS",
+          "en": "Were all the lofty mounts of Zona Mundi",
+          "es": "Aunque todas las altas montañas de Zona Mundi"
+        },
+        {
+          "id": "P2-IV1-43",
+          "number": 43,
+          "speaker": "",
+          "en": "That fill the midst of farthest Tartary",
+          "es": "que se alzan en la más remota Tartaria"
+        },
+        {
+          "id": "P2-IV1-44",
+          "number": 44,
+          "speaker": "",
+          "en": "Turn'd into pearl and proffer'd for my stay,",
+          "es": "se convirtieran en perlas y me las ofrecieran por quedarme,"
+        },
+        {
+          "id": "P2-IV1-45",
+          "number": 45,
+          "speaker": "",
+          "en": "I would not bide the fury of my father,",
+          "es": "no querría afrontar la furia de mi padre"
+        },
+        {
+          "id": "P2-IV1-46",
+          "number": 46,
+          "speaker": "",
+          "en": "When, made a victor in these haughty arms,",
+          "es": "cuando regresara victorioso con sus soberbias armas"
+        },
+        {
+          "id": "P2-IV1-47",
+          "number": 47,
+          "speaker": "",
+          "en": "He comes and finds his sons have had no shares",
+          "es": "y descubriera que sus hijos no han participado"
+        },
+        {
+          "id": "P2-IV1-48",
+          "number": 48,
+          "speaker": "",
+          "en": "In all the honours he propos'd for us.",
+          "es": "de los honores que tenía reservados para nosotros."
+        },
+        {
+          "id": "P2-IV1-49",
+          "number": 49,
+          "speaker": "CALYPHAS",
+          "en": "Take you the honour, I will take my ease;",
+          "es": "Quédense ustedes con el honor; yo me quedaré con mi descanso."
+        },
+        {
+          "id": "P2-IV1-50",
+          "number": 50,
+          "speaker": "",
+          "en": "My wisdom shall excuse my cowardice:",
+          "es": "Mi prudencia justificará mi cobardía."
+        },
+        {
+          "id": "P2-IV1-51",
+          "number": 51,
+          "speaker": "",
+          "en": "I go into the field before I need!",
+          "es": "¡Como si fuera a ir a la batalla sin necesidad!"
+        },
+        {
+          "id": "P2-IV1-52",
+          "number": 52,
+          "speaker": "",
+          "en": "The bullets fly at random where they list;",
+          "es": "Las balas vuelan al azar por donde quieren,"
+        },
+        {
+          "id": "P2-IV1-53",
+          "number": 53,
+          "speaker": "",
+          "en": "And, should I go, and kill a thousand men,",
+          "es": "y aunque fuera y matara a mil hombres,"
+        },
+        {
+          "id": "P2-IV1-54",
+          "number": 54,
+          "speaker": "",
+          "en": "I were as soon rewarded with a shot,",
+          "es": "podrían recompensarme en seguida con un balazo,"
+        },
+        {
+          "id": "P2-IV1-55",
+          "number": 55,
+          "speaker": "",
+          "en": "And sooner far than he that never fights;",
+          "es": "incluso antes que a quien nunca pelea."
+        },
+        {
+          "id": "P2-IV1-56",
+          "number": 56,
+          "speaker": "",
+          "en": "And, should I go, and do no harm nor good,",
+          "es": "Y si fuera sin causar daño ni hacer bien alguno,"
+        },
+        {
+          "id": "P2-IV1-57",
+          "number": 57,
+          "speaker": "",
+          "en": "I might have harm, which all the good I have,",
+          "es": "podría sufrir una herida que ni todos mis bienes,"
+        },
+        {
+          "id": "P2-IV1-58",
+          "number": 58,
+          "speaker": "",
+          "en": "Join'd with my father's crown, would never cure.",
+          "es": "sumados a la corona de mi padre, podrían curar jamás."
+        },
+        {
+          "id": "P2-IV1-59",
+          "number": 59,
+          "speaker": "",
+          "en": "I'll to cards.—Perdicas!",
+          "es": "Me voy a jugar a las cartas. ¡Pérdicas!"
+        },
+        {
+          "id": "P2-IV1-60",
+          "number": 60,
+          "speaker": "PERDICAS",
+          "en": "Here, my lord.",
+          "es": "Aquí estoy, señor."
+        },
+        {
+          "id": "P2-IV1-61",
+          "number": 61,
+          "speaker": "CALYPHAS",
+          "en": "Come, thou and I will go to cards to drive away the time.",
+          "es": "Ven, juguemos a las cartas para pasar el tiempo."
+        },
+        {
+          "id": "P2-IV1-62",
+          "number": 62,
+          "speaker": "PERDICAS",
+          "en": "Content, my lord: but what shall we play for?",
+          "es": "Con mucho gusto, señor; ¿qué apostaremos?"
+        },
+        {
+          "id": "P2-IV1-63",
+          "number": 63,
+          "speaker": "CALYPHAS",
+          "en": "Who shall kiss the fairest of the Turks' concubines",
+          "es": "Quién será el primero en besar a la más hermosa de las concubinas turcas"
+        },
+        {
+          "id": "P2-IV1-64",
+          "number": 64,
+          "speaker": "",
+          "en": "first, when my father hath conquered them.",
+          "es": "cuando mi padre las haya conquistado."
+        },
+        {
+          "id": "P2-IV1-65",
+          "number": 65,
+          "speaker": "PERDICAS",
+          "en": "Agreed, i'faith.",
+          "es": "Trato hecho, por mi fe."
+        },
+        {
+          "id": "P2-IV1-66",
+          "number": 66,
+          "speaker": "CALYPHAS",
+          "en": "They say I am a coward, Perdicas, and I fear",
+          "es": "Dicen que soy cobarde, Pérdicas, pero temo"
+        },
+        {
+          "id": "P2-IV1-67",
+          "number": 67,
+          "speaker": "",
+          "en": "as little their taratantaras, their swords, or their cannons",
+          "es": "tan poco sus redobles, sus espadas o sus cañones"
+        },
+        {
+          "id": "P2-IV1-68",
+          "number": 68,
+          "speaker": "",
+          "en": "as I do a naked lady in a net of gold, and, for fear I should be",
+          "es": "como a una mujer desnuda envuelta en una red de oro que, por temor a que yo"
+        },
+        {
+          "id": "P2-IV1-69",
+          "number": 69,
+          "speaker": "",
+          "en": "afraid, would put it off and come to bed with me.",
+          "es": "me asustara, se la quitaría y vendría a acostarse conmigo."
+        },
+        {
+          "id": "P2-IV1-70",
+          "number": 70,
+          "speaker": "PERDICAS",
+          "en": "Such a fear, my lord, would never make ye retire.",
+          "es": "Ese miedo, señor, jamás lo haría retroceder."
+        },
+        {
+          "id": "P2-IV1-71",
+          "number": 71,
+          "speaker": "CALYPHAS",
+          "en": "I would my father would let me be put in the front",
+          "es": "¡Ojalá mi padre me dejara estar en primera línea"
+        },
+        {
+          "id": "P2-IV1-72",
+          "number": 72,
+          "speaker": "",
+          "en": "of such a battle once, to try my valour!",
+          "es": "de semejante batalla para poner a prueba mi valor!"
+        },
+        {
+          "id": "P2-IV1-73",
+          "number": 73,
+          "speaker": "",
+          "en": "What a coil they keep! I believe there will be some hurt done",
+          "es": "¡Qué alboroto arman! Me parece que dentro de poco"
+        },
+        {
+          "id": "P2-IV1-74",
+          "number": 74,
+          "speaker": "",
+          "en": "anon amongst them.",
+          "es": "alguien va a salir herido."
+        }
+      ]
     }
   },
   "part2StageDirections": [
@@ -26785,6 +27307,41 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 172,
       "en": "Exeunt severally.",
       "es": "Salen por distintos lados."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 0,
+      "en": "Alarms within. Amyras and Celebinus issue from the tent where Calyphas sits asleep.",
+      "es": "Se oyen alarmas de batalla. Amiras y Celebino salen de la tienda donde Calífas duerme."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 51,
+      "en": "Alarms within. Amyras and Celebinus run out.",
+      "es": "Se oyen alarmas de batalla. Amiras y Celebino salen corriendo."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 59,
+      "en": "Enter Perdicas.",
+      "es": "Entra Pérdicas."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 65,
+      "en": "They play.",
+      "es": "Juegan a las cartas."
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "afterLine": 72,
+      "en": "Alarms within.",
+      "es": "Se oyen alarmas de batalla."
     }
   ]
 };
