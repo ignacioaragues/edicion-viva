@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Parts I and II have complete first Spanish translation drafts. Philological review: Part I Prologue P1–8, I.1.1–189 and I.2.1–253 (450 units). Next I.2.254–259 (6) + Part I II.1.1–44 (44).",
+  "editorialReview": "Both parts complete in first Spanish translation draft. Philological review covers Part I prologue P1–8, I.1.1–189, I.2.1–259 (complete), II.1.1–44: 500 units. Next Part I II.1.45–69 (25 units), then II.2.1–25 (25 units). Remaining scenes and comprehensive witness collation pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 450,
+    "reviewedUnits": 500,
     "reviewed": [
       {
         "part": 1,
@@ -508,28 +508,45 @@
         "start": 204,
         "end": 253,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 2,
+        "start": 254,
+        "end": 259,
+        "count": 6
+      },
+      {
+        "part": 1,
+        "act": 2,
+        "scene": 1,
+        "start": 1,
+        "end": 44,
+        "count": 44
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I I.2.204–253",
+      "scope": "Part I I.2.254–259 (6) and II.1.1–44 (44)",
       "unitsReviewed": 50,
       "existingNotesRevised": 0,
       "newNotes": 12,
-      "readingCardsAdded": 1,
-      "translationLinesRevised": 45,
+      "readingCardsAdded": 2,
+      "translationLinesRevised": 50,
       "sourceBasis": [
-        "1590 first printing, Folger EarlyPrint B1v–B2r, wln 0421–0470: Are these at 0442, statutes at 0461",
-        "Alexander Dyce, Project Gutenberg eBook #1094; The Works of Christopher Marlowe (1859) variant notes",
-        "John A. Ray, Tamburlaine Part 1 Act I explanatory notes (2014), Pylades and Orestes"
+        "Alexander Dyce, ed., Tamburlaine the Great, Part One, Project Gutenberg #1094, I.2.254–259 and II.1.1–44",
+        "1590 witness, Folger EarlyPrint B2r–B3r, wln 0471–0525, including variant 'snowy' at 0508",
+        "Dyce, The Works of Christopher Marlowe (1859), note to 'pitch'; modern Marlowe Society edition, II.1.11, on shoulder-point interpretation",
+        "Sydnee Wagner, Towards a Racialized Tamburlaine, in David McInnis, ed., Tamburlaine: A Critical Reader (2020), pp. 137–139"
       ],
-      "note": "50 consecutive units reviewed, 12 anchored notes, interpretive card, translation repairs, unchanged English, IDs, speakers and stage directions."
+      "note": "Review completed at scene boundary; I.2 now complete. Twelve notes with literal English anchors; two localized reading cards. Original English, IDs, speakers, stage directions and navigation preserved. Stage-dependent contrasts and philological variants documented."
     },
     "next": {
       "part": 1,
-      "act": 1,
-      "scene": 2,
-      "line": 254
+      "act": 2,
+      "scene": 1,
+      "line": 45
     }
   }
 }
