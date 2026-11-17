@@ -1140,6 +1140,17 @@
       "status": "edited_not_revised",
       "source": "The Latin Library, Aulularia IV.10 https://www.thelatinlibrary.com/plautus/aulularia.shtml",
       "note": "Traducción original y glosas contextuales. Los cambios de hablante dentro de 756 y 760 requieren división en unidades de diálogo; cotejo directo Leo 1895 y QA visual pendientes. Segunda revisión morfológica consecutiva permanece en 159."
+    },
+    {
+      "section": "IV.10",
+      "from": 761,
+      "to": 770,
+      "verses": 10,
+      "display_units": 15,
+      "tokens": 99,
+      "status": "edited_not_revised",
+      "source": "The Latin Library Aulularia IV.10, https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+      "note": "Se distinguen parlamentos mixtos y se glosan 99 tokens. Pendiente cotejo directo con Leo 1895, auditoría retrospectiva 160+ y pruebas visuales. Numeración de subdivisiones a verificar con edición crítica."
     }
   ],
   "pending": [
@@ -1149,7 +1160,7 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "IV.10 desde 761; revisar segmentación por hablante en 756 y 760 y retomar segunda pasada desde 160 con compatibilidad de localizadores.",
+  "next": "IV.10 desde 771; objetivo 12–15 versos; auditoría morfológica desde 160 con resolución de identificadores 142–161.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token.",
   "morphological_second_pass": {
     "status": "in_progress",
