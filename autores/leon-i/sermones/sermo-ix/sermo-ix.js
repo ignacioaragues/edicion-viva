@@ -1,8 +1,8 @@
 window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
-  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161B; caput I y caput II parcial",
+  "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–162A; caput I y caput II parcial",
   "status": "partial",
-  "next": "Caput II: Separabuntur ab injustis justi",
+  "next": "Caput II: Misereantur pauperum",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -1099,6 +1099,550 @@ window.LEO_SERMO_I = {
           "asto",
           "futuro indicativo activo 3.ª singular",
           "comparecerá"
+        ]
+      }
+    },
+    {
+      "id": "s9-9",
+      "label": "9",
+      "latin": "Separabuntur ab injustis justi, a nocentibus innocentes; et cum praeparatum sibi regnum, recensitis misericordiae operibus, filii pietatis acceperint, exprobrabitur duritia sterilitatis injustis; et nihil habentes sinistri commune cum dextris, in ignem ad diaboli et angelorum ejus tormenta dispositum, omnipotentis judicis damnatione mittentur, cum illo habituri poenae communionem, cujus elegerunt facere voluntatem.",
+      "spanish": "Los justos serán separados de los injustos, los inocentes de los culpables; y cuando los hijos de la piedad hayan recibido el reino preparado para ellos, tras enumerarse sus obras de misericordia, se reprochará a los injustos la dureza de su esterilidad. Los de la izquierda, que nada tienen en común con los de la derecha, serán enviados, por sentencia del juez omnipotente, al fuego dispuesto para el tormento del diablo y sus ángeles, para compartir el castigo de aquel cuya voluntad eligieron cumplir.",
+      "note": [
+        "Separación y sentencia",
+        "La doble oposición justi/injustis e innocentes/nocentibus da paso al contraste espacial sinistri/dextris. La pasiva futura separabuntur y mittentur atribuye la ejecución del juicio a una autoridad no nombrada en cada verbo; el cierre cujus elegerunt facere voluntatem introduce la elección humana."
+      ],
+      "lexicon": {
+        "Separabuntur": [
+          "separo",
+          "futuro indicativo pasivo 3.ª plural",
+          "serán separados"
+        ],
+        "ab": [
+          "ab",
+          "preposición con ablativo",
+          "de"
+        ],
+        "injustis": [
+          "iniustus",
+          "ablativo masculino plural",
+          "injustos"
+        ],
+        "justi": [
+          "iustus",
+          "nominativo masculino plural",
+          "justos"
+        ],
+        "a": [
+          "a",
+          "preposición con ablativo",
+          "de"
+        ],
+        "nocentibus": [
+          "nocens",
+          "ablativo masculino plural",
+          "culpables"
+        ],
+        "innocentes": [
+          "innocens",
+          "nominativo masculino plural",
+          "inocentes"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "cum": [
+          "cum",
+          "conjunción temporal con subjuntivo",
+          "cuando"
+        ],
+        "praeparatum": [
+          "praeparo",
+          "participio perfecto pasivo acusativo neutro singular",
+          "preparado"
+        ],
+        "sibi": [
+          "sui",
+          "dativo reflexivo plural",
+          "para sí"
+        ],
+        "regnum": [
+          "regnum",
+          "acusativo neutro singular",
+          "reino"
+        ],
+        "recensitis": [
+          "recenseo",
+          "participio perfecto pasivo ablativo neutro plural",
+          "enumeradas"
+        ],
+        "misericordiae": [
+          "misericordia",
+          "genitivo femenino singular",
+          "de misericordia"
+        ],
+        "operibus": [
+          "opus",
+          "ablativo neutro plural",
+          "obras"
+        ],
+        "filii": [
+          "filius",
+          "nominativo masculino plural",
+          "hijos"
+        ],
+        "pietatis": [
+          "pietas",
+          "genitivo femenino singular",
+          "de piedad"
+        ],
+        "acceperint": [
+          "accipio",
+          "perfecto subjuntivo 3.ª plural",
+          "hayan recibido"
+        ],
+        "exprobrabitur": [
+          "exprobro",
+          "futuro indicativo pasivo 3.ª singular",
+          "será reprochada"
+        ],
+        "duritia": [
+          "duritia",
+          "nominativo femenino singular",
+          "dureza"
+        ],
+        "sterilitatis": [
+          "sterilitas",
+          "genitivo femenino singular",
+          "de esterilidad"
+        ],
+        "nihil": [
+          "nihil",
+          "acusativo neutro singular",
+          "nada"
+        ],
+        "habentes": [
+          "habeo",
+          "participio presente nominativo masculino plural",
+          "que tienen"
+        ],
+        "sinistri": [
+          "sinister",
+          "nominativo masculino plural",
+          "los de la izquierda"
+        ],
+        "commune": [
+          "communis",
+          "acusativo neutro singular",
+          "en común"
+        ],
+        "dextris": [
+          "dexter",
+          "ablativo masculino plural",
+          "los de la derecha"
+        ],
+        "in": [
+          "in",
+          "preposición con acusativo",
+          "hacia"
+        ],
+        "ignem": [
+          "ignis",
+          "acusativo masculino singular",
+          "fuego"
+        ],
+        "ad": [
+          "ad",
+          "preposición con acusativo",
+          "para"
+        ],
+        "diaboli": [
+          "diabolus",
+          "genitivo masculino singular",
+          "del diablo"
+        ],
+        "angelorum": [
+          "angelus",
+          "genitivo masculino plural",
+          "de los ángeles"
+        ],
+        "ejus": [
+          "is",
+          "genitivo masculino singular",
+          "suyos"
+        ],
+        "tormenta": [
+          "tormentum",
+          "acusativo neutro plural",
+          "tormentos"
+        ],
+        "dispositum": [
+          "dispono",
+          "participio perfecto pasivo acusativo masculino singular",
+          "dispuesto"
+        ],
+        "omnipotentis": [
+          "omnipotens",
+          "genitivo masculino singular",
+          "omnipotente"
+        ],
+        "judicis": [
+          "iudex",
+          "genitivo masculino singular",
+          "del juez"
+        ],
+        "damnatione": [
+          "damnatio",
+          "ablativo femenino singular",
+          "por condena"
+        ],
+        "mittentur": [
+          "mitto",
+          "futuro indicativo pasivo 3.ª plural",
+          "serán enviados"
+        ],
+        "illo": [
+          "ille",
+          "ablativo masculino singular",
+          "aquel"
+        ],
+        "habituri": [
+          "habeo",
+          "participio futuro nominativo masculino plural",
+          "destinados a tener"
+        ],
+        "poenae": [
+          "poena",
+          "genitivo femenino singular",
+          "de pena"
+        ],
+        "communionem": [
+          "communio",
+          "acusativo femenino singular",
+          "participación"
+        ],
+        "cujus": [
+          "qui",
+          "genitivo masculino singular relativo",
+          "cuya"
+        ],
+        "elegerunt": [
+          "eligo",
+          "perfecto indicativo 3.ª plural",
+          "eligieron"
+        ],
+        "facere": [
+          "facio",
+          "infinitivo presente activo",
+          "hacer"
+        ],
+        "voluntatem": [
+          "voluntas",
+          "acusativo femenino singular",
+          "voluntad"
+        ]
+      }
+    },
+    {
+      "id": "s9-10",
+      "label": "10",
+      "latin": "Quis igitur istam sortem aeternorum cruciatuum non pavescat? Quis mala numquam finienda non timeat? Sed cum ideo denuntiata sit severitas, ut misericordia quaereretur, in diebus praesentibus cum misericordiae est largitate vivendum, ut homini post periculosam negligentiam, ab pietatis opera revertenti, possibile sit ab hac sententia liberari. Hoc enim agit potentia judicis, hoc gratia Servatoris, ut relinquat impius vias suas, et ab iniquitatis suae consuetudine peccator abscedat.",
+      "spanish": "¿Quién, pues, no se estremecería ante ese destino de tormentos eternos? ¿Quién no temería males que nunca acabarán? Pero, puesto que la severidad fue anunciada precisamente para que se buscara la misericordia, en los días presentes hay que vivir con generosidad misericordiosa, para que quien, después de una peligrosa negligencia, vuelva a las obras de piedad pueda librarse de esta sentencia. Esto procura el poder del juez, esto la gracia del Salvador: que el impío abandone sus caminos y el pecador se aparte de su costumbre de injusticia.",
+      "note": [
+        "Del temor a la oportunidad",
+        "Las dos interrogaciones Quis ... non ...? dramatizan el temor, pero sed invierte la dirección del discurso. La repetición hoc ... hoc vincula potentia judicis con gratia Servatoris: el juez y el salvador no son figuras contrapuestas. El aparato registra Salvatoris por Servatoris en el Vallicelliano."
+      ],
+      "lexicon": {
+        "Quis": [
+          "quis",
+          "nominativo singular interrogativo",
+          "quién"
+        ],
+        "igitur": [
+          "igitur",
+          "conjunción ilativa",
+          "pues"
+        ],
+        "istam": [
+          "iste",
+          "acusativo femenino singular",
+          "esa"
+        ],
+        "sortem": [
+          "sors",
+          "acusativo femenino singular",
+          "suerte"
+        ],
+        "aeternorum": [
+          "aeternus",
+          "genitivo masculino plural",
+          "eternos"
+        ],
+        "cruciatuum": [
+          "cruciatus",
+          "genitivo masculino plural",
+          "de tormentos"
+        ],
+        "non": [
+          "non",
+          "adverbio negativo",
+          "no"
+        ],
+        "pavescat": [
+          "pavesco",
+          "presente subjuntivo 3.ª singular",
+          "temería"
+        ],
+        "mala": [
+          "malum",
+          "acusativo neutro plural",
+          "males"
+        ],
+        "numquam": [
+          "numquam",
+          "adverbio temporal negativo",
+          "nunca"
+        ],
+        "finienda": [
+          "finio",
+          "gerundivo acusativo neutro plural",
+          "que terminarán"
+        ],
+        "timeat": [
+          "timeo",
+          "presente subjuntivo 3.ª singular",
+          "temería"
+        ],
+        "Sed": [
+          "sed",
+          "conjunción adversativa",
+          "pero"
+        ],
+        "cum": [
+          "cum",
+          "conjunción temporal con subjuntivo",
+          "cuando"
+        ],
+        "ideo": [
+          "ideo",
+          "adverbio causal",
+          "precisamente por eso"
+        ],
+        "denuntiata": [
+          "denuntio",
+          "participio perfecto pasivo nominativo femenino singular",
+          "anunciada"
+        ],
+        "sit": [
+          "sum",
+          "presente subjuntivo 3.ª singular",
+          "haya sido"
+        ],
+        "severitas": [
+          "severitas",
+          "nominativo femenino singular",
+          "severidad"
+        ],
+        "ut": [
+          "ut",
+          "conjunción final",
+          "para que"
+        ],
+        "misericordia": [
+          "misericordia",
+          "nominativo femenino singular",
+          "misericordia"
+        ],
+        "quaereretur": [
+          "quaero",
+          "imperfecto subjuntivo pasivo 3.ª singular",
+          "fuera buscada"
+        ],
+        "in": [
+          "in",
+          "preposición con acusativo",
+          "hacia"
+        ],
+        "diebus": [
+          "dies",
+          "ablativo masculino plural",
+          "días"
+        ],
+        "praesentibus": [
+          "praesens",
+          "ablativo masculino plural",
+          "presentes"
+        ],
+        "misericordiae": [
+          "misericordia",
+          "genitivo femenino singular",
+          "de misericordia"
+        ],
+        "est": [
+          "sum",
+          "presente indicativo 3.ª singular",
+          "es"
+        ],
+        "largitate": [
+          "largitas",
+          "ablativo femenino singular",
+          "generosidad"
+        ],
+        "vivendum": [
+          "vivo",
+          "gerundivo impersonal nominativo neutro singular",
+          "hay que vivir"
+        ],
+        "homini": [
+          "homo",
+          "dativo masculino singular",
+          "al ser humano"
+        ],
+        "post": [
+          "post",
+          "preposición con acusativo",
+          "después de"
+        ],
+        "periculosam": [
+          "periculosus",
+          "acusativo femenino singular",
+          "peligrosa"
+        ],
+        "negligentiam": [
+          "negligentia",
+          "acusativo femenino singular",
+          "negligencia"
+        ],
+        "ab": [
+          "ab",
+          "preposición con ablativo",
+          "de"
+        ],
+        "pietatis": [
+          "pietas",
+          "genitivo femenino singular",
+          "de piedad"
+        ],
+        "opera": [
+          "opus",
+          "acusativo neutro plural",
+          "obras"
+        ],
+        "revertenti": [
+          "revertor",
+          "participio presente dativo masculino singular",
+          "que regresa"
+        ],
+        "possibile": [
+          "possibilis",
+          "nominativo neutro singular",
+          "posible"
+        ],
+        "hac": [
+          "hic",
+          "ablativo femenino singular",
+          "esta"
+        ],
+        "sententia": [
+          "sententia",
+          "ablativo femenino singular",
+          "sentencia"
+        ],
+        "liberari": [
+          "libero",
+          "infinitivo presente pasivo",
+          "ser liberado"
+        ],
+        "Hoc": [
+          "hic",
+          "acusativo neutro singular",
+          "esto"
+        ],
+        "enim": [
+          "enim",
+          "conjunción explicativa",
+          "pues"
+        ],
+        "agit": [
+          "ago",
+          "presente indicativo 3.ª singular",
+          "procura"
+        ],
+        "potentia": [
+          "potentia",
+          "nominativo femenino singular",
+          "poder"
+        ],
+        "judicis": [
+          "iudex",
+          "genitivo masculino singular",
+          "del juez"
+        ],
+        "hoc": [
+          "hic",
+          "acusativo neutro singular",
+          "esto"
+        ],
+        "gratia": [
+          "gratia",
+          "nominativo femenino singular",
+          "gracia"
+        ],
+        "Servatoris": [
+          "servator",
+          "genitivo masculino singular",
+          "del Salvador"
+        ],
+        "relinquat": [
+          "relinquo",
+          "presente subjuntivo 3.ª singular",
+          "abandone"
+        ],
+        "impius": [
+          "impius",
+          "nominativo masculino singular",
+          "impío"
+        ],
+        "vias": [
+          "via",
+          "acusativo femenino plural",
+          "caminos"
+        ],
+        "suas": [
+          "suus",
+          "acusativo femenino plural",
+          "sus"
+        ],
+        "et": [
+          "et",
+          "conjunción copulativa",
+          "y"
+        ],
+        "iniquitatis": [
+          "iniquitas",
+          "genitivo femenino singular",
+          "de injusticia"
+        ],
+        "suae": [
+          "suus",
+          "genitivo femenino singular",
+          "suya"
+        ],
+        "consuetudine": [
+          "consuetudo",
+          "ablativo femenino singular",
+          "costumbre"
+        ],
+        "peccator": [
+          "peccator",
+          "nominativo masculino singular",
+          "pecador"
+        ],
+        "abscedat": [
+          "abscedo",
+          "presente subjuntivo 3.ª singular",
+          "se aparte"
         ]
       }
     }
