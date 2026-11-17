@@ -43,3 +43,11 @@
 .verse .speech,.verse>.spanish{padding-left:12px;padding-right:10px}
 .heading-place{white-space:normal}
 }
+/* Acotaciones bilingües entre versos: no participan en la numeración. */
+.inline-direction{display:grid;grid-template-columns:49px minmax(0,1fr) minmax(0,1fr);gap:0;margin:0!important;padding:0!important;border-block:1px solid #e8e4dc;background:#f4f2ec;color:#858c83}
+.inline-direction span{font:italic 11px/1.65 'Libre Baskerville',Georgia,serif;padding:12px 16px}
+.inline-direction span:first-child{grid-column:2}
+.inline-direction span:last-child{grid-column:3;border-left:1px solid #e1e1d8}
+.reader[data-layout=stacked] .inline-direction{grid-template-columns:49px minmax(0,1fr)}
+.reader[data-layout=stacked] .inline-direction span:first-child{grid-column:2}
+.reader[data-layout=stacked] .inline-direction span:last-child{grid-column:2;border-left:0;padding-top:0}

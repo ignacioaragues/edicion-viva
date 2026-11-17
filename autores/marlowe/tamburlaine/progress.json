@@ -15,24 +15,44 @@
       "scene": 1,
       "publishedLines": [
         1,
-        20
+        189
       ],
-      "nextLine": 21,
+      "nextLine": null,
+      "complete": true
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "publishedLines": [
+        1,
+        131
+      ],
+      "nextLine": 132,
       "complete": false
     }
   ],
-  "publishedVerseLines": 28,
+  "publishedVerseLines": 328,
   "translation": "original Spanish, preliminary",
-  "editorialReview": "initial source verification against 1911 and 1590 witness",
+  "editorialReview": "Draft-only translation pass; I.1.21–189 and I.2.1–131 follow Dyce (1094), awaiting collation with Neilson (77587) and 1590 print. 1–20 remains Neilson.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
-    "https://emed.titania.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html"
+    "https://emed.titania.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html",
+    "https://www.gutenberg.org/files/1094/1094-h/1094-h.htm"
   ],
   "next": {
     "part": 1,
     "act": 1,
-    "scene": 1,
-    "line": 21
+    "scene": 2,
+    "line": 132
+  },
+  "lastPass": {
+    "date": "2026-11-17",
+    "translatedNewLines": 300,
+    "scope": "I.1.21–189 (169 lines); I.2.1–131 (131 lines)",
+    "notesAdded": 0,
+    "lexicalEntriesAdded": 0,
+    "status": "first translation draft",
+    "source": "A. Dyce edition via Project Gutenberg eBook 1094; collation with Neilson pending"
   }
 }
