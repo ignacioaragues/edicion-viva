@@ -2,7 +2,7 @@ window.LEO_SERMO_I = {
   "work": "León I · Sermón IX · De Collectis IV",
   "source": "Ballerini–Migne, PL 54, Sermo IX [al. VIII], col. 160C–161A, caput I (partial); https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_IX",
   "status": "partial",
-  "next": "Caput I: Incentor namque ille auctorque peccati primum superbus ut caderet",
+  "next": "Caput I: Quisquis igitur hominum quibuslibet impietatibus Deum laesit",
   "paragraphs": [
     {
       "id": "s9-1",
@@ -36,6 +36,283 @@ window.LEO_SERMO_I = {
         "La oposición speranda praemia / timenda supplicia contrapone esperanza y temor. El aparato prefiere timenda frente a inferenda por la simetría léxica; registra también aequalitatem por qualitatem."
       ],
       "lexicon": {}
+    },
+    {
+      "id": "s9-4",
+      "label": "4",
+      "latin": "Incentor namque ille auctorque peccati primum superbus ut caderet, deinde invidus ut noceret, quia in veritate non stetit, totam vim suam in mendacio collocavit, omniaque deceptionum genera de hoc venenatissimo artis suae fonte produxit: ut ab illo bono, quod ipse propria elatione perdiderat, spem humanae devotionis excluderet, eosque in consortium damnationis suae traheret, ad quorum ipse reconciliationem pertinere non posset.",
+      "spanish": "Pues aquel instigador y autor del pecado, primero soberbio hasta caer y después envidioso hasta causar daño, como no permaneció en la verdad, puso toda su fuerza en la mentira y produjo de esa fuente envenenadísima de su arte toda clase de engaños: para excluir la esperanza de la devoción humana de aquel bien que él mismo había perdido por su propia arrogancia y arrastrar a otros a compartir su condena, cuando él mismo no podía alcanzar la reconciliación destinada a ellos.",
+      "note": [
+        "Del orgullo a la agresión",
+        "La secuencia primum ... deinde y las subordinadas ut caderet / ut noceret hacen del orgullo y la envidia dos etapas causales; la reiteración de ipse subraya la pérdida propia del adversario. La frase «in veritate non stetit» remite a Juan 8,44."
+      ],
+      "lexicon": {
+        "Incentor": [
+          "incentor",
+          "nominativo masculino singular",
+          "instigador"
+        ],
+        "namque": [
+          "namque",
+          "conjunción explicativa",
+          "pues"
+        ],
+        "ille": [
+          "ille",
+          "nominativo masculino singular",
+          "aquel"
+        ],
+        "auctorque": [
+          "auctor",
+          "nominativo masculino singular con enclítico -que",
+          "y autor"
+        ],
+        "peccati": [
+          "peccatum",
+          "genitivo neutro singular",
+          "del pecado"
+        ],
+        "primum": [
+          "primum",
+          "adverbio",
+          "primero"
+        ],
+        "superbus": [
+          "superbus",
+          "nominativo masculino singular",
+          "soberbio"
+        ],
+        "ut": [
+          "ut",
+          "conjunción consecutiva",
+          "hasta el punto de que"
+        ],
+        "caderet": [
+          "cado",
+          "imperfecto subjuntivo 3.ª singular",
+          "cayera"
+        ],
+        "deinde": [
+          "deinde",
+          "adverbio",
+          "después"
+        ],
+        "invidus": [
+          "invidus",
+          "nominativo masculino singular",
+          "envidioso"
+        ],
+        "noceret": [
+          "noceo",
+          "imperfecto subjuntivo 3.ª singular",
+          "perjudicara"
+        ],
+        "quia": [
+          "quia",
+          "conjunción causal",
+          "porque"
+        ],
+        "in": [
+          "in",
+          "preposición con ablativo",
+          "en"
+        ],
+        "veritate": [
+          "veritas",
+          "ablativo femenino singular",
+          "la verdad"
+        ],
+        "non": [
+          "non",
+          "adverbio negativo",
+          "no"
+        ],
+        "stetit": [
+          "sto",
+          "perfecto indicativo 3.ª singular",
+          "permaneció"
+        ],
+        "totam": [
+          "totus",
+          "acusativo femenino singular",
+          "toda"
+        ],
+        "vim": [
+          "vis",
+          "acusativo femenino singular",
+          "fuerza"
+        ],
+        "suam": [
+          "suus",
+          "acusativo femenino singular",
+          "su"
+        ],
+        "mendacio": [
+          "mendacium",
+          "ablativo neutro singular",
+          "mentira"
+        ],
+        "collocavit": [
+          "colloco",
+          "perfecto indicativo 3.ª singular",
+          "puso"
+        ],
+        "omniaque": [
+          "omnis",
+          "acusativo neutro plural con enclítico -que",
+          "y todas"
+        ],
+        "deceptionum": [
+          "deceptio",
+          "genitivo femenino plural",
+          "de engaños"
+        ],
+        "genera": [
+          "genus",
+          "acusativo neutro plural",
+          "clases"
+        ],
+        "de": [
+          "de",
+          "preposición con ablativo",
+          "de"
+        ],
+        "hoc": [
+          "hic",
+          "ablativo masculino singular",
+          "esta"
+        ],
+        "venenatissimo": [
+          "venenatus",
+          "ablativo masculino singular superlativo",
+          "muy venenosa"
+        ],
+        "artis": [
+          "ars",
+          "genitivo femenino singular",
+          "del arte"
+        ],
+        "suae": [
+          "suus",
+          "genitivo femenino singular",
+          "suya"
+        ],
+        "fonte": [
+          "fons",
+          "ablativo masculino singular",
+          "fuente"
+        ],
+        "produxit": [
+          "produco",
+          "perfecto indicativo 3.ª singular",
+          "produjo"
+        ],
+        "ab": [
+          "ab",
+          "preposición con ablativo",
+          "de"
+        ],
+        "illo": [
+          "ille",
+          "ablativo neutro singular",
+          "aquel"
+        ],
+        "bono": [
+          "bonum",
+          "ablativo neutro singular",
+          "bien"
+        ],
+        "quod": [
+          "qui",
+          "acusativo neutro singular relativo",
+          "que"
+        ],
+        "ipse": [
+          "ipse",
+          "nominativo masculino singular",
+          "él mismo"
+        ],
+        "propria": [
+          "proprius",
+          "ablativo femenino singular",
+          "propia"
+        ],
+        "elatione": [
+          "elatio",
+          "ablativo femenino singular",
+          "arrogancia"
+        ],
+        "perdiderat": [
+          "perdo",
+          "pluscuamperfecto indicativo 3.ª singular",
+          "había perdido"
+        ],
+        "spem": [
+          "spes",
+          "acusativo femenino singular",
+          "esperanza"
+        ],
+        "humanae": [
+          "humanus",
+          "genitivo femenino singular",
+          "humana"
+        ],
+        "devotionis": [
+          "devotio",
+          "genitivo femenino singular",
+          "de devoción"
+        ],
+        "excluderet": [
+          "excludo",
+          "imperfecto subjuntivo 3.ª singular",
+          "excluyera"
+        ],
+        "eosque": [
+          "is",
+          "acusativo masculino plural con enclítico -que",
+          "y a ellos"
+        ],
+        "consortium": [
+          "consortium",
+          "acusativo neutro singular",
+          "participación"
+        ],
+        "damnationis": [
+          "damnatio",
+          "genitivo femenino singular",
+          "de condena"
+        ],
+        "traheret": [
+          "traho",
+          "imperfecto subjuntivo 3.ª singular",
+          "arrastrara"
+        ],
+        "ad": [
+          "ad",
+          "preposición con acusativo",
+          "a"
+        ],
+        "quorum": [
+          "qui",
+          "genitivo masculino plural relativo",
+          "de quienes"
+        ],
+        "reconciliationem": [
+          "reconciliatio",
+          "acusativo femenino singular",
+          "reconciliación"
+        ],
+        "pertinere": [
+          "pertineo",
+          "infinitivo presente",
+          "alcanzar"
+        ],
+        "posset": [
+          "possum",
+          "imperfecto subjuntivo 3.ª singular",
+          "pudiera"
+        ]
+      }
     }
   ],
   "lexicon": {
