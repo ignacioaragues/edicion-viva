@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Both parts have complete first Spanish translation drafts. Philological review covers Part I prologue P1–8, I.1.1–189, and I.2.1–153: 350 reviewed units. Next review I.2.154–203 (50). Other passages and comprehensive witness collation remain pending.",
+  "editorialReview": "Both parts have a complete first Spanish translation draft. Philological review now covers Part I Prologue P1–8, I.1.1–189 and I.2.1–203 (400 units total). Next pass I.2.204–253. All subsequent scenes and complete textual collation remain pending.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 350,
+    "reviewedUnits": 400,
     "reviewed": [
       {
         "part": 1,
@@ -492,28 +492,36 @@
         "start": 104,
         "end": 153,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 2,
+        "start": 154,
+        "end": 203,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I I.2.104–153",
+      "scope": "Part I I.2.154–203",
       "unitsReviewed": 50,
       "existingNotesRevised": 0,
       "newNotes": 12,
       "readingCardsAdded": 1,
-      "translationLinesRevised": 37,
+      "translationLinesRevised": 46,
       "sourceBasis": [
-        "Alexander Dyce, ed., The Works of Christopher Marlowe (1859), I.2, especially notes on brave, mountain-top, mails and lance, Wikisource facsimile p. 73",
-        "David McInnis, ed., Tamburlaine: A Critical Reader (2020); Tom Rutter, Tamburlaine the Weather Man, p. 119",
-        "Alexander Dyce, Project Gutenberg eBook #1094, base transcription"
+        "1590 first printing, Folger EarlyPrint, B1r–B1v, wln 0371–0420, including Auernas in 0377",
+        "Alexander Dyce, ed., Tamburlaine, Part I, Project Gutenberg #1094, edition base and glossary for merchants, stems and vail",
+        "Tom Rutter, Tamburlaine the Weather Man, in David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), p. 119"
       ],
-      "note": "Twelve anchored lexical and theatrical notes, one critical reading and translation repairs across 50 consecutive units. No alterations to source English, verse IDs, speaker names, or stage directions."
+      "note": "Twelve anchored philological notes, one scene-local reading, Spanish translation corrections. English original, line numbering, identifiers, roles, and directions unchanged."
     },
     "next": {
       "part": 1,
       "act": 1,
       "scene": 2,
-      "line": 154
+      "line": 204
     }
   }
 }
