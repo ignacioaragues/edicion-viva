@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,35 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,36 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -234,9 +234,12 @@
     ,{"chapter":6,"n":33,"gr":"καὶ εἶδον αὐτοὺς ὑπάγοντας καὶ ἐπέγνωσαν πολλοί, καὶ πεζῇ ἀπὸ πασῶν τῶν πόλεων συνέδραμον ἐκεῖ καὶ προῆλθον αὐτούς.","es":"Pero muchos los vieron marcharse y los reconocieron; desde todas las ciudades acudieron corriendo por tierra hasta allí y llegaron antes que ellos.","la":"","notes":["mc633route","mc633text"]}
     ,{"chapter":6,"n":34,"gr":"καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον, καὶ ἐσπλαγχνίσθη ἐπʼ αὐτοὺς ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα, καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά.","es":"Al desembarcar, vio una gran multitud y sintió compasión por ellos, porque eran como ovejas sin pastor. Y comenzó a enseñarles muchas cosas.","la":"","notes":["mc634shepherd","mc634compassion","mc634variant"]}
     ,{"chapter":6,"n":35,"gr":"Καὶ ἤδη ὥρας πολλῆς γενομένης προσελθόντες αὐτῷ οἱ μαθηταὶ αὐτοῦ ἔλεγον ὅτι Ἔρημός ἐστιν ὁ τόπος, καὶ ἤδη ὥρα πολλή·","es":"Como ya se había hecho tarde, los discípulos se acercaron a él y le decían: «Este lugar está apartado y ya es muy tarde».","la":"","notes":["mc635time","mc635variant"]}
+    ,{"chapter":6,"n":36,"gr":"ἀπόλυσον αὐτούς, ἵνα ἀπελθόντες εἰς τοὺς κύκλῳ ἀγροὺς καὶ κώμας ἀγοράσωσιν ἑαυτοῖς τί φάγωσιν.","es":"Despídelos para que vayan a los campos y las aldeas de alrededor y compren algo para comer.","la":"","notes":["mc636villages","mc636variant"]}
   ];
 
   const notes = {
+    mc636villages: ["Campos y aldeas","κύκλῳ modifica el ámbito de los campos y las aldeas cercanas; ἀπόλυσον es imperativo aoristo de ἀπολύω («despedir»), sin implicar dispersión forzosa. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,36: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/36"],
+    mc636variant: ["Qué comer o panes","SBLGNT termina con τί φάγωσιν («qué comer»). La tradición bizantina lee ἄρτους y añade «pues no tienen qué comer». Holmes (ed.), SBLGNT (2010), aparato de Mc 6,36: https://www.studybible.info/SBLGNT/Mark%206%3A36"],
     mc635time: ["La hora avanzada","ὥρας πολλῆς γενομένης es un genitivo absoluto temporal: «cuando ya se había hecho tarde». La reiteración ἤδη ... ἤδη subraya la urgencia de los discípulos. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,35: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6"],
     mc635variant: ["Decían o dicen","SBLGNT imprime el imperfecto ἔλεγον («decían»), documentado en los códices Sinaítico y Vaticano; otros testigos, entre ellos el Alejandrino, presentan λέγουσιν («dicen»). No cambia el contenido del discurso, pero sí su presentación narrativa. Cotejo: https://greeknewtestament.net/mk6-35; Holmes, SBLGNT (2010): https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc634shepherd: ["Ovejas sin pastor","La comparación evoca el lenguaje de liderazgo de Nm 27,17 y Ez 34,5; no permite decidir por sí sola cuál de esos textos es la alusión principal. Véanse Nm 27,17 y Ez 34,5; texto griego de Ez 34: https://www.greekdoc.com/DOCUMENTS/polyglot/eze34.html."],
