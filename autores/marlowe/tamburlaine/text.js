@@ -1841,6 +1841,66 @@ window.TAMBURLAINE_EDITION = {
       "Júpiter vestido de pastor",
       "«Shepherd's weed» retoma «weeds» con el sentido de vestido, como cuando Tamerlán se despojó de su ropa de pastor (I.2.41). Invocar a Júpiter como dios que alguna vez vistió ropas humildes convierte su origen pastoril en precedente mítico de grandeza.",
       "shepherd's weed"
+    ],
+    "I2-206": [
+      "Bóreas y el horizonte septentrional",
+      "Bóreas personifica el viento del norte: la futura fama de Tamerlán se extendería hasta un horizonte geográfico hiperbólico. Sus «alas de bronce» materializan el sonido y la fuerza del viento.",
+      "Boreas claps his brazen wings"
+    ],
+    "I2-207": [
+      "El Boyero como constelación",
+      "Boötes, el Boyero, es una constelación septentrional; en 1590 (B1v, wln 0424) se lee «Botëes». Junto a Bóreas, marca los confines de la fama imaginada por el conquistador.",
+      "fair Bootes"
+    ],
+    "I2-208": [
+      "«Competitor»: asociado, no rival",
+      "«Competitor» significa aquí compañero o partícipe de la misma dignidad, no adversario: Tamerlán ofrece a Teridamas sentarse junto a él y compartir poder y gloria.",
+      "competitor with me"
+    ],
+    "I2-210": [
+      "Hermes, portavoz de los dioses",
+      "Hermes, mensajero de los dioses, se vincula a la elocuencia. «Prolocutor» es portavoz o representante que habla por alguien; Teridamas considera el discurso de Tamerlán más persuasivo que el de esa figura divina.",
+      "prolocutor to the gods"
+    ],
+    "I2-211": [
+      "«Pathetical» como conmovedor",
+      "En retórica, «pathetical» significa capaz de provocar emoción o conmover. No tiene aquí el valor negativo del actual «patético»; Teridamas elogia la eficacia emotiva de las palabras de Tamerlán.",
+      "persuasions more pathetical"
+    ],
+    "I2-213": [
+      "Los alardes que se harán realidad",
+      "«Vaunts» son jactancias o alardes; «substantial» significa que se comprobarán mediante hechos. Tamerlán equipara sus propias promesas a la verdad de los oráculos de Apolo, aunque la comparación es una afirmación del personaje.",
+      "my vaunts substantial"
+    ],
+    "I2-224": [
+      "«Tice» y la variante «Are these / To these»",
+      "«Tice» abrevia «entice» («seducir, atraer»). Dyce imprime «What strong enchantments tice my yielding soul / To these resolved, noble Scythians», mientras que el impreso de 1590 (Folger EarlyPrint, B1v–B2r, wln 0441–0442) lee «... soule / Are these resolued noble Scythians?»: convierte potencialmente a los escitas en el sujeto identificado con los encantamientos. Se conserva la lectura base y se señala la variante.",
+      "enchantments tice my yielding soul"
+    ],
+    "I2-228": [
+      "Una conquista por palabras y miradas",
+      "«Won with thy words» y «conquer'd with thy looks» trasponen el léxico militar al discurso y al aspecto. Teridamas entrega sus mil jinetes sin combatir: una victoria retórica reemplaza a la bélica.",
+      "Won with thy words"
+    ],
+    "I2-236": [
+      "El juramento y los cuatro elementos",
+      "La amistad se prolonga hasta que los cuerpos regresen a los «elements» de la cosmología clásica, mientras las almas aspiran a tronos celestes. La fórmula ritual une fidelidad entre guerreros y ambición de trascendencia.",
+      "our bodies turn to elements"
+    ],
+    "I2-243": [
+      "Pílades y Orestes: lealtad ejemplar",
+      "Pílades y Orestes forman una pareja paradigmática de amistad y fidelidad en la tradición griega. Tamerlán utiliza su modelo para prometer una unión duradera con sus compañeros, sin que la mención demuestre un culto escita histórico.",
+      "Pylades and Orestes"
+    ],
+    "I2-244": [
+      "«Statutes» (1590) frente a «statues» (Dyce)",
+      "La impresión de 1590 (Folger EarlyPrint, B2r, wln 0461) lee «Whose statutes we adore in Scythia»; «statutes» aludiría literalmente a leyes o preceptos. Dyce adopta la lectura «statues» de otra impresión, favorecida por «adore». Se conserva el texto de Dyce y se registra la variante.",
+      "Whose statues"
+    ],
+    "I2-250": [
+      "«Want my heart»: disponibilidad al sacrificio",
+      "«Nor thee nor them ... Shall want my heart» significa que ni Tamerlán ni sus compañeros carecerán de la entrega de Teridamas. El corazón dispuesto a ser «atravesado con gusto» es una promesa de arriesgar la vida por su honra y protección, no solo un estado de júbilo.",
+      "Shall want my heart"
     ]
   },
   "lex": {
@@ -3423,7 +3483,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 204,
       "speaker": "",
       "en": "The nations far-remov'd admire me not,)",
-      "es": "no me admiran las naciones más lejanas—,"
+      "es": "no me admiran aún las naciones lejanas—,"
     },
     {
       "id": "I2-205",
@@ -3444,21 +3504,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 207,
       "speaker": "",
       "en": "Or fair Bootes sends his cheerful light,",
-      "es": "o el hermoso Boyero irradia su alegre luz,"
+      "es": "o donde el hermoso Boyero derrama su alegre luz,"
     },
     {
       "id": "I2-208",
       "number": 208,
       "speaker": "",
       "en": "Then shalt thou be competitor with me,",
-      "es": "entonces compartirás conmigo el poder"
+      "es": "entonces compartirás conmigo la misma dignidad"
     },
     {
       "id": "I2-209",
       "number": 209,
       "speaker": "",
       "en": "And sit with Tamburlaine in all his majesty.",
-      "es": "y te sentarás junto a Tamerlán en toda su majestad."
+      "es": "y te sentarás junto a Tamerlán en todo su esplendor."
     },
     {
       "id": "I2-210",
@@ -3472,28 +3532,28 @@ window.TAMBURLAINE_EDITION = {
       "number": 211,
       "speaker": "",
       "en": "Could use persuasions more pathetical.",
-      "es": "podría emplear argumentos más conmovedores."
+      "es": "podría emplear palabras más conmovedoras."
     },
     {
       "id": "I2-212",
       "number": 212,
       "speaker": "TAMBURLAINE",
       "en": "Nor are Apollo's oracles more true",
-      "es": "Ni los oráculos de Apolo son más veraces"
+      "es": "Ni los oráculos de Apolo son más ciertos"
     },
     {
       "id": "I2-213",
       "number": 213,
       "speaker": "",
       "en": "Than thou shalt find my vaunts substantial.",
-      "es": "que las promesas que verás cumplirse en mis alardes."
+      "es": "que mis alardes, cuya verdad comprobarás."
     },
     {
       "id": "I2-214",
       "number": 214,
       "speaker": "TECHELLES",
       "en": "We are his friends; and, if the Persian king",
-      "es": "Somos sus amigos; y aunque el rey persa"
+      "es": "Somos sus amigos; y aunque el rey de Persia"
     },
     {
       "id": "I2-215",
@@ -3507,112 +3567,112 @@ window.TAMBURLAINE_EDITION = {
       "number": 216,
       "speaker": "",
       "en": "We think it loss to make exchange for that",
-      "es": "consideraríamos una pérdida cambiarlos por aquello"
+      "es": "nos parecería perder si los cambiáramos por aquello"
     },
     {
       "id": "I2-217",
       "number": 217,
       "speaker": "",
       "en": "We are assur'd of by our friend's success.",
-      "es": "que el triunfo de nuestro amigo nos tiene asegurado."
+      "es": "que el éxito de nuestro amigo nos garantiza."
     },
     {
       "id": "I2-218",
       "number": 218,
       "speaker": "USUMCASANE",
       "en": "And kingdoms at the least we all expect,",
-      "es": "Y todos esperamos recibir al menos reinos,"
+      "es": "Y todos esperamos, como mínimo, reinos,"
     },
     {
       "id": "I2-219",
       "number": 219,
       "speaker": "",
       "en": "Besides the honour in assured conquests,",
-      "es": "además del honor de victorias ciertas,"
+      "es": "además de la gloria de las conquistas seguras,"
     },
     {
       "id": "I2-220",
       "number": 220,
       "speaker": "",
       "en": "Where kings shall crouch unto our conquering swords,",
-      "es": "cuando los reyes se agachen ante nuestras espadas vencedoras"
+      "es": "cuando los reyes se postren ante nuestras espadas vencedoras"
     },
     {
       "id": "I2-221",
       "number": 221,
       "speaker": "",
       "en": "And hosts of soldiers stand amaz'd at us,",
-      "es": "y ejércitos enteros nos miren atónitos,"
+      "es": "y ejércitos enteros queden atónitos ante nosotros,"
     },
     {
       "id": "I2-222",
       "number": 222,
       "speaker": "",
       "en": "When with their fearful tongues they shall confess,",
-      "es": "al confesar con lengua temblorosa:"
+      "es": "y con voces temblorosas confiesen:"
     },
     {
       "id": "I2-223",
       "number": 223,
       "speaker": "",
       "en": "These are the men that all the world admires.",
-      "es": "«Estos son los hombres que admira el mundo entero»."
+      "es": "«Estos son los hombres a quienes admira el mundo entero»."
     },
     {
       "id": "I2-224",
       "number": 224,
       "speaker": "THERIDAMAS",
       "en": "What strong enchantments tice my yielding soul",
-      "es": "¡Qué poderosos encantamientos atraen mi alma rendida"
+      "es": "¡Qué poderosos encantamientos atraen mi alma, ya rendida,"
     },
     {
       "id": "I2-225",
       "number": 225,
       "speaker": "",
       "en": "To these resolved, noble Scythians!",
-      "es": "hacia estos nobles escitas tan decididos!"
+      "es": "hacia estos resueltos y nobles escitas!"
     },
     {
       "id": "I2-226",
       "number": 226,
       "speaker": "",
       "en": "But shall I prove a traitor to my king?",
-      "es": "Pero ¿voy a convertirme en traidor a mi rey?"
+      "es": "Pero ¿he de convertirme en traidor a mi rey?"
     },
     {
       "id": "I2-227",
       "number": 227,
       "speaker": "TAMBURLAINE",
       "en": "No; but the trusty friend of Tamburlaine.",
-      "es": "No: en el amigo leal de Tamerlán."
+      "es": "No, sino en el amigo fiel de Tamerlán."
     },
     {
       "id": "I2-228",
       "number": 228,
       "speaker": "THERIDAMAS",
       "en": "Won with thy words, and conquer'd with thy looks,",
-      "es": "Ganado por tus palabras y vencido por tu mirada,"
+      "es": "Ganado por tus palabras y conquistado por tu mirada,"
     },
     {
       "id": "I2-229",
       "number": 229,
       "speaker": "",
       "en": "I yield myself, my men, and horse to thee,",
-      "es": "me entrego a ti, junto con mis hombres y caballos,"
+      "es": "te entrego mi persona, mis hombres y mis caballos"
     },
     {
       "id": "I2-230",
       "number": 230,
       "speaker": "",
       "en": "To be partaker of thy good or ill,",
-      "es": "para compartir tu buena y tu mala fortuna"
+      "es": "para compartir tu buena o mala fortuna"
     },
     {
       "id": "I2-231",
       "number": 231,
       "speaker": "",
       "en": "As long as life maintains Theridamas.",
-      "es": "mientras Teridamas conserve la vida."
+      "es": "mientras Teridamas siga con vida."
     },
     {
       "id": "I2-232",
@@ -3626,21 +3686,21 @@ window.TAMBURLAINE_EDITION = {
       "number": 233,
       "speaker": "",
       "en": "Which is as much as if I swore by heaven,",
-      "es": "lo que equivale a jurar por el cielo"
+      "es": "que equivale a jurar por el cielo"
     },
     {
       "id": "I2-234",
       "number": 234,
       "speaker": "",
       "en": "And call'd the gods to witness of my vow.",
-      "es": "y poner a los dioses por testigos de mi promesa."
+      "es": "y poner a los dioses por testigos de mi juramento."
     },
     {
       "id": "I2-235",
       "number": 235,
       "speaker": "",
       "en": "Thus shall my heart be still combin'd with thine",
-      "es": "Así permanecerá mi corazón unido al tuyo"
+      "es": "Así mi corazón permanecerá unido al tuyo"
     },
     {
       "id": "I2-236",
@@ -3654,7 +3714,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 237,
       "speaker": "",
       "en": "And both our souls aspire celestial thrones.—",
-      "es": "y nuestras almas aspiren a tronos celestiales."
+      "es": "y ambas almas aspiren a tronos celestiales."
     },
     {
       "id": "I2-238",
@@ -3668,7 +3728,7 @@ window.TAMBURLAINE_EDITION = {
       "number": 239,
       "speaker": "TECHELLES",
       "en": "Welcome, renowmed Persian, to us all!",
-      "es": "¡Bienvenido a todos nosotros, ilustre persa!"
+      "es": "¡Bienvenido entre nosotros, ilustre persa!"
     },
     {
       "id": "I2-240",
@@ -3682,14 +3742,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 241,
       "speaker": "TAMBURLAINE",
       "en": "These are my friends, in whom I more rejoice",
-      "es": "Estos son mis amigos, que me dan mayor alegría"
+      "es": "Estos son mis amigos, de quienes obtengo más alegría"
     },
     {
       "id": "I2-242",
       "number": 242,
       "speaker": "",
       "en": "Than doth the king of Persia in his crown;",
-      "es": "que la corona al rey de Persia;"
+      "es": "que el rey de Persia de su corona;"
     },
     {
       "id": "I2-243",
@@ -3703,14 +3763,14 @@ window.TAMBURLAINE_EDITION = {
       "number": 244,
       "speaker": "",
       "en": "Whose statues we adore in Scythia,",
-      "es": "cuyas estatuas veneramos en Escitia,"
+      "es": "cuyas estatuas adoramos en Escitia,"
     },
     {
       "id": "I2-245",
       "number": 245,
       "speaker": "",
       "en": "Thyself and them shall never part from me",
-      "es": "ni tú ni ellos os separaréis de mí"
+      "es": "ni tú ni ellos se separarán de mí"
     },
     {
       "id": "I2-246",
@@ -3724,35 +3784,35 @@ window.TAMBURLAINE_EDITION = {
       "number": 247,
       "speaker": "",
       "en": "Make much of them, gentle Theridamas,",
-      "es": "Estímalos mucho, noble Teridamas,"
+      "es": "Tenlos en gran estima, noble Teridamas,"
     },
     {
       "id": "I2-248",
       "number": 248,
       "speaker": "",
       "en": "And they will never leave thee till the death.",
-      "es": "y nunca te abandonarán hasta la muerte."
+      "es": "y ellos no te abandonarán hasta la muerte."
     },
     {
       "id": "I2-249",
       "number": 249,
       "speaker": "THERIDAMAS",
       "en": "Nor thee nor them, thrice-noble Tamburlaine,",
-      "es": "Ni a ti ni a ellos, tres veces noble Tamerlán,"
+      "es": "Ni tú ni ellos, tres veces noble Tamerlán,"
     },
     {
       "id": "I2-250",
       "number": 250,
       "speaker": "",
       "en": "Shall want my heart to be with gladness pierc'd,",
-      "es": "les faltará mi corazón, dispuesto y jubiloso,"
+      "es": "carecerán de mi corazón, dispuesto a ser atravesado con gusto"
     },
     {
       "id": "I2-251",
       "number": 251,
       "speaker": "",
       "en": "To do you honour and security.",
-      "es": "para procuraros honor y seguridad."
+      "es": "para procuraros honra y seguridad."
     },
     {
       "id": "I2-252",
@@ -34510,6 +34570,13 @@ window.TAMBURLAINE_EDITION = {
         "range": "Parte I · I.2.154–203",
         "body": "La admiración física de Teridamas abre un intercambio de halagos y lectura del aspecto exterior: el comandante persa parece destinado a más que dirigir mil jinetes. Tamerlán transforma ese juicio en invitación a traicionar al rey, asegurando que controla a las Parcas, a la Fortuna y aun la protección de Júpiter. La «lluvia» de oro y la hija del sultán se presentan como signos de favor celeste, pese a que el público acaba de presenciar la orden de exhibir el tesoro saqueado. La promesa de riquezas, gobiernos y una suerte de consulado universal corona la seducción política. Rutter señala expresamente la fabricación de esos signos providenciales en este parlamento; el texto escénico deja ver su artificio.",
         "source": "Lectura editorial de I.2.154–203; impreso de 1590 (Folger EarlyPrint, B1r–B1v, wln 0371–0420); Tom Rutter, «Tamburlaine the Weather Man», en David McInnis (ed.), Tamburlaine: A Critical Reader (Bloomsbury, 2020), p. 119."
+      },
+      {
+        "type": "CLAVE INTERPRETATIVA",
+        "title": "La rendición sin combate y el pacto entre guerreros",
+        "range": "Parte I · I.2.204–253",
+        "body": "Tras prometer una posición de igual dignidad, Tamerlán transforma la admiración de Teridamas en lealtad. El persa compara su elocuencia con la de Hermes, reconoce que las palabras y la mirada lo han conquistado y entrega sus hombres sin batalla. Los seguidores contraponen las recompensas futuras a los ducados presentes; el apretón de manos, los corazones unidos y el ejemplo de Pílades y Orestes elevan esa alianza al rango de amistad sagrada. La comparación entre 1590 y Dyce permite observar cómo «Are these / To these» y «statutes / statues» alteran la sintaxis o los referentes de algunos pasajes.",
+        "source": "Lectura editorial de I.2.204–253; primer impreso de 1590, Folger EarlyPrint B1v–B2r, wln 0421–0470; Dyce, The Works of Christopher Marlowe (1859), aparato de variantes; notas docentes de John A. Ray, Tamburlaine Part 1, Act I (2014)."
       }
     ]
   }
