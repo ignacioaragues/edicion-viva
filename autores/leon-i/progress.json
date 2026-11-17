@@ -171,7 +171,10 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Printed PL 54 collation and full contextual morphology, then interactive reader; only then Epistola X"
+      "next": "Continue contextual morphology at unit 82.3, then 82.4–82.18; printed PL collation and reader still pending.",
+      "morphology_units_with_contextual_table": 2,
+      "morphology_token_occurrences": 117,
+      "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md"
     },
     {
       "group": "epistolae",
