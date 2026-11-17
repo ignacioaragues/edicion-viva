@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,39 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,40 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -238,9 +238,12 @@
     ,{"chapter":6,"n":37,"gr":"ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· Δότε αὐτοῖς ὑμεῖς φαγεῖν. καὶ λέγουσιν αὐτῷ· Ἀπελθόντες ἀγοράσωμεν δηναρίων διακοσίων ἄρτους καὶ δώσομεν αὐτοῖς φαγεῖν;","es":"Pero él les respondió: «Denles ustedes de comer». Ellos le dicen: «¿Vamos a comprar panes por doscientos denarios y se los daremos de comer?».","la":"","notes":["mc637emphasis","mc637denarii","mc637variant"]}
     ,{"chapter":6,"n":38,"gr":"ὁ δὲ λέγει αὐτοῖς· Πόσους ἔχετε ἄρτους; ὑπάγετε ἴδετε. καὶ γνόντες λέγουσιν· Πέντε, καὶ δύο ἰχθύας.","es":"Él les dice: «¿Cuántos panes tienen? Vayan a comprobarlo». Después de averiguarlo, le dicen: «Cinco, y dos peces».","la":"","notes":["mc638inventory","mc638variants"]}
     ,{"chapter":6,"n":39,"gr":"καὶ ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας συμπόσια συμπόσια ἐπὶ τῷ χλωρῷ χόρτῳ.","es":"Y les ordenó que hicieran recostarse a todos en grupos, sobre la hierba verde.","la":"","notes":["mc639groups","mc639grass"]}
+    ,{"chapter":6,"n":40,"gr":"καὶ ἀνέπεσαν πρασιαὶ πρασιαὶ κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα.","es":"Y se recostaron en grupos ordenados, de cien y de cincuenta personas.","la":"","notes":["mc640beds","mc640numbers"]}
   ];
 
   const notes = {
+    mc640beds: ["Hileras como bancales", "πρασιαὶ πρασιαί es una repetición distributiva: πρασιά designa originalmente un bancal o cuadro de huerta, imagen aplicada aquí a los grupos ordenados sobre la hierba. No implica necesariamente una formación militar. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (United Bible Societies, 1961), comentario a Mc 6,40, reproducido con permiso en https://tips.translation.bible/tip_verse/mark-640/"],
+    mc640numbers: ["Cientos y cincuentas", "κατὰ ἑκατὸν καὶ κατὰ πεντήκοντα expresa la distribución en grupos de cien y de cincuenta; no obliga a entender un rectángulo de cien por cincuenta. Bratcher y Nida (1961) registran también la interpretación alternativa de T. W. Manson, sin presentarla como consenso. https://tips.translation.bible/tip_verse/mark-640/ ; texto SBLGNT: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc639groups: ["Grupos de comensales", "συμπόσια συμπόσια repite el sustantivo para expresar distribución («grupo por grupo»), como δύο δύο en Mc 6,7. ἀνακλῖναι alude a la postura de los comensales. A. T. Robertson, Word Pictures in the New Testament, Mc 6,39: https://ccel.org/ccel/robertson_at/word/word.v.vi.html ; A. B. Bruce, Expositor’s Greek Testament, Mc 6,39: https://biblehub.com/commentaries/mark/6-39.htm"],
     mc639grass: ["Hierba verde", "χλωρός precisa el color de la hierba; algunos comentaristas relacionan el detalle con la primavera y con Jn 6,4, pero Marcos no da una fecha explícita. Cambridge Bible for Schools and Colleges, Mc 6,39: https://biblehub.com/commentaries/mark/6-39.htm ; cf. Jn 6,4 y 6,10."],
     mc638inventory: ["Comprobar los recursos", "La pregunta Πόσους ἔχετε ἄρτους y los imperativos ὑπάγετε ἴδετε trasladan la atención de la compra hipotética (6,37) a los alimentos disponibles. El participio aoristo γνόντες indica que los discípulos han averiguado la cantidad antes de responder. A. Plummer, Cambridge Greek Testament for Schools and Colleges, comentario a Mc 6,38: https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/6/38"],
