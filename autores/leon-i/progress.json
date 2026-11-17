@@ -120,21 +120,21 @@
     {
       "group": "sermones",
       "number": 9,
-      "section": "Sermo IX capita I–II complete (§§1–12), PL 54 col. 160C–162B; capita III–IV pending",
-      "paragraphs": 12,
-      "latin_tokens": 531,
-      "lexical_coverage": "531/531 first-pass token occurrences with contextual lexical cards",
-      "translation": "capita I–II translated; III–IV pending",
-      "voice_notes": 12,
+      "section": "Sermo IX capita I–II complete and caput III opening (§13), PL 54 col. 160C–162C; remainder III–IV pending",
+      "paragraphs": 13,
+      "latin_tokens": 585,
+      "lexical_coverage": "585/585 first-pass token occurrences with contextual lexical cards",
+      "translation": "capita I–II and caput III opening translated; remainder III–IV pending",
+      "voice_notes": 13,
       "complete_work": false,
-      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending."
+      "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 9,
-    "beginning": "Ad horum ergo operum, dilectissimi, piam curam",
-    "location": "PL 54 Sermo IX caput III col. 162B"
+    "beginning": "Unde hortamur sanctitatem vestram ut per Ecclesias regionum vestrarum",
+    "location": "PL 54 Sermo IX caput III col. 162C"
   },
   "priority": "Finish Sermo IX capita II–IV before Sermo X",
   "last_edit": "2026-11-17",
