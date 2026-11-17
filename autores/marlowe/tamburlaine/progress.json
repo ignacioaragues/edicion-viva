@@ -183,7 +183,7 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "First bilingual translation complete for both parts. Philological pass reviewed Part I Prologue P1–8, I.1.1–189 and I.2.1–53 (250 total). Next pass I.2.54–103. Remaining source collation, correction of lineation and literary revision are ongoing.",
+  "editorialReview": "Both parts complete in first translation draft. Philological review: Part I prologue P1–8 and I.1.1–189, I.2.1–103 reviewed (300 units). Next I.2.104–153 (50 units). The rest awaits early-witness collation and stylistic revision.",
   "updated": "2026-11-17",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 250,
+    "reviewedUnits": 300,
     "reviewed": [
       {
         "part": 1,
@@ -476,29 +476,37 @@
         "start": 4,
         "end": 53,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 1,
+        "scene": 2,
+        "start": 54,
+        "end": 103,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-17",
-      "scope": "Part I I.2.4–53",
+      "scope": "Part I I.2.54–103",
       "unitsReviewed": 50,
       "existingNotesRevised": 0,
-      "newNotes": 12,
-      "readingCardsAdded": 2,
-      "translationLinesRevised": 42,
+      "newNotes": 13,
+      "readingCardsAdded": 1,
+      "translationLinesRevised": 46,
       "sourceBasis": [
-        "Alexander Dyce, ed., Tamburlaine the Great, Part One, Project Gutenberg eBook #1094, I.2.4–53",
-        "The early printed witness of 1590, Folger EarlyPrint, A6r–A7r, wln 0216–0266, especially the spellings of rapine, the signet, curtle=axe and exhalations",
-        "David McInnis, Introduction, Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 12–13, on sartorial identity",
-        "Tom Rutter, Tamburlaine the Weather Man, same volume, pp. 110–113, on Aristotelian exhalations and earthquakes"
+        "Alexander Dyce, Tamburlaine the Great, Part One, Project Gutenberg #1094, I.2.54–103 and editor's notes to Rhodope and valurous",
+        "1590 printing, Folger EarlyPrint transcription (A7r–A8r, wln 0267–0316), especially thee at 0280 and Rhodolfe at 0301",
+        "Sydnee Wagner, Towards a Racialized Tamburlaine, in McInnis, ed., Tamburlaine: A Critical Reader (Bloomsbury, 2020), pp. 140–141",
+        "Annotated scholarly edition of Tamburlaine (2012), commentary on Rhodope and valurous"
       ],
-      "note": "The 50 English-source units, IDs, speakers and stage directions are unmodified. Twelve anchored philological notes; two short scene readings. Further work pending."
+      "note": "All 50 source lines audited against early witness. Thirteen anchored notes, one interpretative card. English text, scene numbering, ID, speaker labels and stage directions unchanged; original translation revised to clarify power and allusions."
     },
     "next": {
       "part": 1,
       "act": 1,
       "scene": 2,
-      "line": 54
+      "line": 104
     }
   }
 }
