@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Continuar segunda revisión filológica desde II.2 verso 265, objetivo 40–50 versos en la próxima pasada (hasta aproximadamente 304), contrastando nombres de esclavos, lecturas y lemas; revisar glosas y notas sin duplicar bibliografía; efectuar QA visual del lector cuando sea posible.",
-  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada.",
+  "next": "Iniciar segunda pasada en II.4 verso 305; objetivo 40 versos numerados hasta 344, documentando suplementos 328/328a y atribución de esclavos, cotejo crítico, glosas y fichas. Mantener IDs de resaltados y hacer QA visual en navegador si hay capacidad.",
+  "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 264,
-    "next_verse": 265,
+    "reviewed_through_verse": 304,
+    "next_verse": 305,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Segunda revisión consecutiva certificada hasta 264; vv. 244–245 constituyen una sola unidad de lectura; siguiente 265.",
+    "note": "Segunda pasada correlativa certificada hasta el verso 304; se respetan los vacíos críticos y no se reescribe el texto latino. Próximo 305–344, con el suplemento 328a.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1740,6 +1740,22 @@
           "https://doi.org/10.1093/acprof:oso/9780199209026.001.0001"
         ],
         "note": "Revisión filológica de vv. 225–264: los 40 números canónicos se reparten en 39 unidades de datos, dado que 244–245 es una unidad conjunta. Las 350 formas latinas se cotejaron contra sus fichas (alineación exacta). Correcciones a locassim (228; futuro perfecto/perfecto de subjuntivo, flexión arcaica), elinguandam y castrandum (250–251, referencias de género y destinatario), senecta (253), perplexarier (259) y quod (260), además de traducciones 232, 238, 242, 249 y la anotación crítica del nombre Pythodice / Strobile en 264. Variante textual me autem / me item (227). Notas 227,228,264 añadidas; 251 y 259 ampliadas. Se saneó el orden de 212–264 durante el render sin cambiar objetos ni IDs; prueba integrada de orden sobre datos simulados y compilación JS superadas. Pendiente QA real de navegador y cotejo del aparato impreso de Leo. No se añadió texto latino inédito."
+      },
+      {
+        "section": "II.2–II.4",
+        "from": 265,
+        "to": 304,
+        "verses": 40,
+        "display_units": 40,
+        "tokens": 311,
+        "status": "morphology_revised",
+        "sources": [
+          "https://www.thelatinlibrary.com/plautus/aulularia.shtml",
+          "https://www.lateinlex.de/?call=Puc&permalink=Plaut_Aul",
+          "https://hdl.handle.net/10023/14536",
+          "https://dokumen.pub/plautus-aulularia-1910572373-9781910572375.html"
+        ],
+        "note": "Segunda pasada consecutiva: auditoría de 40 objetos numerados 265–304 y 311 tokens exactos; las 311 fichas alineadas y sus glosas (explícitas o lemas existentes en glosses.js) verificadas. Faltaban cinco fichas para las siglas editoriales STAPH (274), ANTHR (289, 294, 296) y PYTH (296): incorporadas sin cambiar el latín ni offsets de resaltados. Traducciones matizadas en 265, 274, 279, 289, 294, 296 y 299; morfología precisada en inaudivisse (266), inhiat (267), divides (283), quo (288), senis suplemento (290), qua (301), gutturem (304). Notas nuevas 265, 274, 296 y ampliadas 266, 285, 287, 298, 304: excl. Leo para 266; atribuciones manuscritas de parlamento en 285/287, variante quo/quod (288), laguna pos 298 señalada por Havet, y anomalía léxica de gutturem. Comprobación contra versión anterior de que las cadenas del latín y stableId no cambiaron; parser JS compiló. No hubo QA funcional real en navegador ni cotejo directo del aparato impreso de Leo; se consultó aparato citado en Maclennan–Stockert (2016)."
       }
     ],
     "spot_checks": [
@@ -1842,6 +1858,15 @@
         "701b021d0951453457f37d17dd134f24c028cecb"
       ],
       "next_action": "Verificar con navegador y resaltados reales que el orden y navegación 211–264 funcionan; test de orden en datos simulados sí completado."
+    },
+    {
+      "id": "ii4-274-296-editorial-sigla",
+      "status": "fixed_token_alignment_browser_qa_pending",
+      "detected": "2026-11-17",
+      "location": "Aulularia vv. 274, 289, 294, 296",
+      "evidence": "Siglas STAPH, ANTHR, PYTH aparecían embebidas en latin pero faltaban cinco elementos words, dejando desalineados los clics de las palabras siguientes.",
+      "fix": "Se añadieron cinco fichas contextuales rotuladas como marcas editoriales y se comprobaron los 311 tokens de 265–304; latín, stableId y offsets permanecen intactos.",
+      "next_action": "Comprobar en navegador los cinco botones de sigla y popups de todas las palabras posteriores; observar comportamiento de highlights."
     }
   ],
   "identifier_migration": {
