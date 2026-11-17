@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through V.1.129. Source-line numbers; philological collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great, two complete first-draft bilingual parts; Dyce / Project Gutenberg. Lineation and philological revision pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -32558,6 +32558,734 @@ window.TAMBURLAINE_EDITION = {
           "speaker": "",
           "en": "Begins the day with our Antipodes!",
           "es": "da comienzo al día de nuestros antípodas!"
+        },
+        {
+          "id": "P2-V3-151",
+          "number": 151,
+          "speaker": "TAMBURLAINE",
+          "en": "And shall I die, and this unconquered?",
+          "es": "¿Y he de morir dejando todo esto sin conquistar?"
+        },
+        {
+          "id": "P2-V3-152",
+          "number": 152,
+          "speaker": "",
+          "en": "Lo, here, my sons, are all the golden mines,",
+          "es": "Miren, hijos míos: aquí están todas las minas de oro,"
+        },
+        {
+          "id": "P2-V3-153",
+          "number": 153,
+          "speaker": "",
+          "en": "Inestimable drugs and precious stones,",
+          "es": "las especias inestimables y las piedras preciosas,"
+        },
+        {
+          "id": "P2-V3-154",
+          "number": 154,
+          "speaker": "",
+          "en": "More worth than Asia and the world beside;",
+          "es": "de mayor valor que Asia y el resto del mundo;"
+        },
+        {
+          "id": "P2-V3-155",
+          "number": 155,
+          "speaker": "",
+          "en": "And from th' Antarctic Pole eastward behold",
+          "es": "y contemplen, hacia el este, desde el polo Antártico,"
+        },
+        {
+          "id": "P2-V3-156",
+          "number": 156,
+          "speaker": "",
+          "en": "As much more land, which never was descried,",
+          "es": "otro tanto de tierra que nadie ha descubierto jamás,"
+        },
+        {
+          "id": "P2-V3-157",
+          "number": 157,
+          "speaker": "",
+          "en": "Wherein are rocks of pearl that shine as bright",
+          "es": "donde hay rocas de perlas que resplandecen"
+        },
+        {
+          "id": "P2-V3-158",
+          "number": 158,
+          "speaker": "",
+          "en": "As all the lamps that beautify the sky!",
+          "es": "como todas las luminarias que adornan el cielo."
+        },
+        {
+          "id": "P2-V3-159",
+          "number": 159,
+          "speaker": "",
+          "en": "And shall I die, and this unconquered?",
+          "es": "¿Y he de morir dejando todo esto sin conquistar?"
+        },
+        {
+          "id": "P2-V3-160",
+          "number": 160,
+          "speaker": "",
+          "en": "Here, lovely boys; what death forbids my life,",
+          "es": "Aquí, queridos hijos: aquello que la muerte me impide alcanzar,"
+        },
+        {
+          "id": "P2-V3-161",
+          "number": 161,
+          "speaker": "",
+          "en": "That let your lives command in spite of death.",
+          "es": "que sus vidas lo dominen, a despecho de la muerte."
+        },
+        {
+          "id": "P2-V3-162",
+          "number": 162,
+          "speaker": "AMYRAS",
+          "en": "Alas, my lord, how should our bleeding hearts,",
+          "es": "Ay, señor, ¿cómo podrían nuestros corazones ensangrentados,"
+        },
+        {
+          "id": "P2-V3-163",
+          "number": 163,
+          "speaker": "",
+          "en": "Wounded and broken with your highness' grief,",
+          "es": "heridos y quebrados por el dolor de vuestra alteza,"
+        },
+        {
+          "id": "P2-V3-164",
+          "number": 164,
+          "speaker": "",
+          "en": "Retain a thought of joy or spark of life?",
+          "es": "conservar un pensamiento alegre o una chispa de vida?"
+        },
+        {
+          "id": "P2-V3-165",
+          "number": 165,
+          "speaker": "",
+          "en": "Your soul gives essence to our wretched subjects,",
+          "es": "Su alma da vida a sus desdichados súbditos,"
+        },
+        {
+          "id": "P2-V3-166",
+          "number": 166,
+          "speaker": "",
+          "en": "Whose matter is incorporate in your flesh.",
+          "es": "cuya sustancia está incorporada a su carne."
+        },
+        {
+          "id": "P2-V3-167",
+          "number": 167,
+          "speaker": "CELEBINUS",
+          "en": "Your pains do pierce our souls; no hope survives,",
+          "es": "Sus dolores nos atraviesan el alma; no queda esperanza,"
+        },
+        {
+          "id": "P2-V3-168",
+          "number": 168,
+          "speaker": "",
+          "en": "For by your life we entertain our lives.",
+          "es": "pues de su vida se alimentan las nuestras."
+        },
+        {
+          "id": "P2-V3-169",
+          "number": 169,
+          "speaker": "TAMBURLAINE",
+          "en": "But, sons, this subject, not of force enough",
+          "es": "Pero, hijos, este cuerpo, incapaz"
+        },
+        {
+          "id": "P2-V3-170",
+          "number": 170,
+          "speaker": "",
+          "en": "To hold the fiery spirit it contains,",
+          "es": "de contener el espíritu ardiente que lo habita,"
+        },
+        {
+          "id": "P2-V3-171",
+          "number": 171,
+          "speaker": "",
+          "en": "Must part, imparting his impressions",
+          "es": "ha de deshacerse, transmitiendo su impronta"
+        },
+        {
+          "id": "P2-V3-172",
+          "number": 172,
+          "speaker": "",
+          "en": "By equal portions into both your breasts;",
+          "es": "en partes iguales a los pechos de ambos;"
+        },
+        {
+          "id": "P2-V3-173",
+          "number": 173,
+          "speaker": "",
+          "en": "My flesh, divided in your precious shapes,",
+          "es": "mi carne, repartida entre sus preciadas figuras,"
+        },
+        {
+          "id": "P2-V3-174",
+          "number": 174,
+          "speaker": "",
+          "en": "Shall still retain my spirit, though I die,",
+          "es": "conservará todavía mi espíritu aunque yo muera"
+        },
+        {
+          "id": "P2-V3-175",
+          "number": 175,
+          "speaker": "",
+          "en": "And live in all your seeds immortally.—",
+          "es": "y vivirá para siempre en toda su descendencia."
+        },
+        {
+          "id": "P2-V3-176",
+          "number": 176,
+          "speaker": "",
+          "en": "Then now remove me, that I may resign",
+          "es": "Ayúdenme ahora a bajar, para que pueda ceder"
+        },
+        {
+          "id": "P2-V3-177",
+          "number": 177,
+          "speaker": "",
+          "en": "My place and proper title to my son.—",
+          "es": "mi puesto y mi legítimo título a mi hijo."
+        },
+        {
+          "id": "P2-V3-178",
+          "number": 178,
+          "speaker": "",
+          "en": "First, take my scourge and my imperial crown,",
+          "es": "Primero, toma mi azote y mi corona imperial,"
+        },
+        {
+          "id": "P2-V3-179",
+          "number": 179,
+          "speaker": "",
+          "en": "And mount my royal chariot of estate,",
+          "es": "y sube a mi carro regio,"
+        },
+        {
+          "id": "P2-V3-180",
+          "number": 180,
+          "speaker": "",
+          "en": "That I may see thee crown'd before I die.—",
+          "es": "para que pueda verte coronado antes de morir."
+        },
+        {
+          "id": "P2-V3-181",
+          "number": 181,
+          "speaker": "",
+          "en": "Help me, my lords, to make my last remove.",
+          "es": "Ayúdenme, señores, a realizar mi último traslado."
+        },
+        {
+          "id": "P2-V3-182",
+          "number": 182,
+          "speaker": "THERIDAMAS",
+          "en": "A woful change, my lord, that daunts our thoughts",
+          "es": "¡Qué cambio doloroso, señor, que sobrecoge nuestros pensamientos"
+        },
+        {
+          "id": "P2-V3-183",
+          "number": 183,
+          "speaker": "",
+          "en": "More than the ruin of our proper souls!",
+          "es": "más que la perdición de nuestras propias almas!"
+        },
+        {
+          "id": "P2-V3-184",
+          "number": 184,
+          "speaker": "TAMBURLAINE",
+          "en": "Sit up, my son, [and] let me see how well",
+          "es": "Siéntate erguido, hijo mío, y déjame ver cuán bien"
+        },
+        {
+          "id": "P2-V3-185",
+          "number": 185,
+          "speaker": "",
+          "en": "Thou wilt become thy father's majesty.",
+          "es": "te sentará la majestad de tu padre."
+        },
+        {
+          "id": "P2-V3-186",
+          "number": 186,
+          "speaker": "AMYRAS",
+          "en": "With what a flinty bosom should I joy",
+          "es": "¡Qué pecho de pedernal tendría que poseer para alegrarme"
+        },
+        {
+          "id": "P2-V3-187",
+          "number": 187,
+          "speaker": "",
+          "en": "The breath of life and burden of my soul,",
+          "es": "del aliento de vida y de la carga de mi alma,"
+        },
+        {
+          "id": "P2-V3-188",
+          "number": 188,
+          "speaker": "",
+          "en": "If not resolv'd into resolved pains,",
+          "es": "si, en vez de quedar deshecho por dolores extremos,"
+        },
+        {
+          "id": "P2-V3-189",
+          "number": 189,
+          "speaker": "",
+          "en": "My body's mortified lineaments",
+          "es": "los miembros entumecidos de mi cuerpo"
+        },
+        {
+          "id": "P2-V3-190",
+          "number": 190,
+          "speaker": "",
+          "en": "Should exercise the motions of my heart,",
+          "es": "pudieran poner en movimiento mi corazón,"
+        },
+        {
+          "id": "P2-V3-191",
+          "number": 191,
+          "speaker": "",
+          "en": "Pierc'd with the joy of any dignity!",
+          "es": "atravesado por el júbilo de alcanzar alguna dignidad!"
+        },
+        {
+          "id": "P2-V3-192",
+          "number": 192,
+          "speaker": "",
+          "en": "O father, if the unrelenting ears",
+          "es": "¡Oh, padre, si los oídos implacables"
+        },
+        {
+          "id": "P2-V3-193",
+          "number": 193,
+          "speaker": "",
+          "en": "Of Death and Hell be shut against my prayers,",
+          "es": "de la Muerte y del Infierno se cierran a mis plegarias,"
+        },
+        {
+          "id": "P2-V3-194",
+          "number": 194,
+          "speaker": "",
+          "en": "And that the spiteful influence of Heaven",
+          "es": "y si la influencia malévola del cielo"
+        },
+        {
+          "id": "P2-V3-195",
+          "number": 195,
+          "speaker": "",
+          "en": "Deny my soul fruition of her joy,",
+          "es": "niega a mi alma el goce de su alegría,"
+        },
+        {
+          "id": "P2-V3-196",
+          "number": 196,
+          "speaker": "",
+          "en": "How should I step, or stir my hateful feet",
+          "es": "¿cómo podría dar un paso o mover estos pies odiosos"
+        },
+        {
+          "id": "P2-V3-197",
+          "number": 197,
+          "speaker": "",
+          "en": "Against the inward powers of my heart,",
+          "es": "contra los impulsos íntimos de mi corazón,"
+        },
+        {
+          "id": "P2-V3-198",
+          "number": 198,
+          "speaker": "",
+          "en": "Leading a life that only strives to die,",
+          "es": "viviendo una vida que solo ansía morir"
+        },
+        {
+          "id": "P2-V3-199",
+          "number": 199,
+          "speaker": "",
+          "en": "And plead in vain unpleasing sovereignty!",
+          "es": "y aceptando en vano una soberanía que me repugna?"
+        },
+        {
+          "id": "P2-V3-200",
+          "number": 200,
+          "speaker": "TAMBURLAINE",
+          "en": "Let not thy love exceed thine honour, son,",
+          "es": "Que tu amor no supere tu sentido del honor, hijo,"
+        },
+        {
+          "id": "P2-V3-201",
+          "number": 201,
+          "speaker": "",
+          "en": "Nor bar thy mind that magnanimity",
+          "es": "ni prive a tu espíritu de la grandeza de ánimo"
+        },
+        {
+          "id": "P2-V3-202",
+          "number": 202,
+          "speaker": "",
+          "en": "That nobly must admit necessity.",
+          "es": "que debe aceptar con nobleza lo inevitable."
+        },
+        {
+          "id": "P2-V3-203",
+          "number": 203,
+          "speaker": "",
+          "en": "Sit up, my boy, and with these silken reins",
+          "es": "Siéntate, muchacho, y con estas riendas de seda"
+        },
+        {
+          "id": "P2-V3-204",
+          "number": 204,
+          "speaker": "",
+          "en": "Bridle the steeled stomachs of these jades.",
+          "es": "embridarás la férrea obstinación de estos rocines."
+        },
+        {
+          "id": "P2-V3-205",
+          "number": 205,
+          "speaker": "THERIDAMAS",
+          "en": "My lord, you must obey his majesty,",
+          "es": "Señor, debe obedecer a su majestad,"
+        },
+        {
+          "id": "P2-V3-206",
+          "number": 206,
+          "speaker": "",
+          "en": "Since fate commands and proud necessity.",
+          "es": "pues así lo ordenan el destino y la altiva necesidad."
+        },
+        {
+          "id": "P2-V3-207",
+          "number": 207,
+          "speaker": "AMYRAS",
+          "en": "Heavens witness me with what a broken heart",
+          "es": "¡Sean testigos los cielos del corazón destrozado con que"
+        },
+        {
+          "id": "P2-V3-208",
+          "number": 208,
+          "speaker": "",
+          "en": "And damned spirit I ascend this seat,",
+          "es": "y del espíritu atormentado con que subo a este asiento,"
+        },
+        {
+          "id": "P2-V3-209",
+          "number": 209,
+          "speaker": "",
+          "en": "And send my soul, before my father die,",
+          "es": "y envío mi alma, antes de que muera mi padre,"
+        },
+        {
+          "id": "P2-V3-210",
+          "number": 210,
+          "speaker": "",
+          "en": "His anguish and his burning agony!",
+          "es": "a compartir su angustia y su ardiente agonía!"
+        },
+        {
+          "id": "P2-V3-211",
+          "number": 211,
+          "speaker": "TAMBURLAINE",
+          "en": "Now fetch the hearse of fair Zenocrate;",
+          "es": "Traigan ahora el féretro de la hermosa Zenócrate;"
+        },
+        {
+          "id": "P2-V3-212",
+          "number": 212,
+          "speaker": "",
+          "en": "Let it be plac'd by this my fatal chair,",
+          "es": "colóquenlo junto a este sillón en el que voy a morir"
+        },
+        {
+          "id": "P2-V3-213",
+          "number": 213,
+          "speaker": "",
+          "en": "And serve as parcel of my funeral.",
+          "es": "para que forme parte de mis funerales."
+        },
+        {
+          "id": "P2-V3-214",
+          "number": 214,
+          "speaker": "USUMCASANE",
+          "en": "Then feels your majesty no sovereign ease,",
+          "es": "¿No experimenta entonces vuestra majestad ningún alivio,"
+        },
+        {
+          "id": "P2-V3-215",
+          "number": 215,
+          "speaker": "",
+          "en": "Nor may our hearts, all drown'd in tears of blood,",
+          "es": "ni pueden nuestros corazones, sumergidos en lágrimas de sangre,"
+        },
+        {
+          "id": "P2-V3-216",
+          "number": 216,
+          "speaker": "",
+          "en": "Joy any hope of your recovery?",
+          "es": "albergar la menor esperanza de su recuperación?"
+        },
+        {
+          "id": "P2-V3-217",
+          "number": 217,
+          "speaker": "TAMBURLAINE",
+          "en": "Casane, no; the monarch of the earth,",
+          "es": "No, Casane: el monarca de la tierra,"
+        },
+        {
+          "id": "P2-V3-218",
+          "number": 218,
+          "speaker": "",
+          "en": "And eyeless monster that torments my soul,",
+          "es": "ese monstruo ciego que atormenta mi alma,"
+        },
+        {
+          "id": "P2-V3-219",
+          "number": 219,
+          "speaker": "",
+          "en": "Cannot behold the tears ye shed for me,",
+          "es": "no puede ver las lágrimas que derraman por mí"
+        },
+        {
+          "id": "P2-V3-220",
+          "number": 220,
+          "speaker": "",
+          "en": "And therefore still augments his cruelty.",
+          "es": "y por eso redobla sin cesar su crueldad."
+        },
+        {
+          "id": "P2-V3-221",
+          "number": 221,
+          "speaker": "TECHELLES",
+          "en": "Then let some god oppose his holy power",
+          "es": "Que algún dios oponga entonces su sagrado poder"
+        },
+        {
+          "id": "P2-V3-222",
+          "number": 222,
+          "speaker": "",
+          "en": "Against the wrath and tyranny of Death,",
+          "es": "a la ira y la tiranía de la Muerte,"
+        },
+        {
+          "id": "P2-V3-223",
+          "number": 223,
+          "speaker": "",
+          "en": "That his tear-thirsty and unquenched hate",
+          "es": "para que su odio insaciable, sediento de lágrimas,"
+        },
+        {
+          "id": "P2-V3-224",
+          "number": 224,
+          "speaker": "",
+          "en": "May be upon himself reverberate!",
+          "es": "recaiga sobre él mismo."
+        },
+        {
+          "id": "P2-V3-225",
+          "number": 225,
+          "speaker": "TAMBURLAINE",
+          "en": "Now, eyes, enjoy your latest benefit,",
+          "es": "Ahora, ojos míos, disfruten de su última dicha"
+        },
+        {
+          "id": "P2-V3-226",
+          "number": 226,
+          "speaker": "",
+          "en": "And, when my soul hath virtue of your sight,",
+          "es": "y, cuando mi alma disponga aún de la facultad de ver,"
+        },
+        {
+          "id": "P2-V3-227",
+          "number": 227,
+          "speaker": "",
+          "en": "Pierce through the coffin and the sheet of gold,",
+          "es": "atraviesen el ataúd y el sudario de oro"
+        },
+        {
+          "id": "P2-V3-228",
+          "number": 228,
+          "speaker": "",
+          "en": "And glut your longings with a heaven of joy.",
+          "es": "y sacien sus anhelos en un cielo de felicidad."
+        },
+        {
+          "id": "P2-V3-229",
+          "number": 229,
+          "speaker": "",
+          "en": "So, reign, my son; scourge and control those slaves,",
+          "es": "Reina, pues, hijo mío; azota y domina a esos esclavos"
+        },
+        {
+          "id": "P2-V3-230",
+          "number": 230,
+          "speaker": "",
+          "en": "Guiding thy chariot with thy father's hand.",
+          "es": "y guía tu carro con la mano de tu padre."
+        },
+        {
+          "id": "P2-V3-231",
+          "number": 231,
+          "speaker": "",
+          "en": "As precious is the charge thou undertak'st",
+          "es": "Tan preciosa es la tarea que asumes"
+        },
+        {
+          "id": "P2-V3-232",
+          "number": 232,
+          "speaker": "",
+          "en": "As that which Clymene's brain-sick son did guide,",
+          "es": "como la que condujo el enloquecido hijo de Clímene"
+        },
+        {
+          "id": "P2-V3-233",
+          "number": 233,
+          "speaker": "",
+          "en": "When wandering Phoebe's ivory cheeks were scorch'd,",
+          "es": "cuando se abrasaron las mejillas de marfil de la errante Febe"
+        },
+        {
+          "id": "P2-V3-234",
+          "number": 234,
+          "speaker": "",
+          "en": "And all the earth, like Aetna, breathing fire:",
+          "es": "y toda la tierra, como el Etna, exhalaba fuego."
+        },
+        {
+          "id": "P2-V3-235",
+          "number": 235,
+          "speaker": "",
+          "en": "Be warn'd by him, then; learn with awful eye",
+          "es": "Que te sirva de advertencia: aprende, con mirada reverente,"
+        },
+        {
+          "id": "P2-V3-236",
+          "number": 236,
+          "speaker": "",
+          "en": "To sway a throne as dangerous as his;",
+          "es": "a regir un trono tan peligroso como el suyo;"
+        },
+        {
+          "id": "P2-V3-237",
+          "number": 237,
+          "speaker": "",
+          "en": "For, if thy body thrive not full of thoughts",
+          "es": "porque, si tu cuerpo no rebosa de pensamientos"
+        },
+        {
+          "id": "P2-V3-238",
+          "number": 238,
+          "speaker": "",
+          "en": "As pure and fiery as Phyteus' beams,",
+          "es": "tan puros y ardientes como los rayos de Fiteo,"
+        },
+        {
+          "id": "P2-V3-239",
+          "number": 239,
+          "speaker": "",
+          "en": "The nature of these proud rebelling jades",
+          "es": "la naturaleza de estos rocines orgullosos y rebeldes"
+        },
+        {
+          "id": "P2-V3-240",
+          "number": 240,
+          "speaker": "",
+          "en": "Will take occasion by the slenderest hair,",
+          "es": "aprovechará el menor pretexto"
+        },
+        {
+          "id": "P2-V3-241",
+          "number": 241,
+          "speaker": "",
+          "en": "And draw thee piecemeal, like Hippolytus,",
+          "es": "para despedazarte, como a Hipólito,"
+        },
+        {
+          "id": "P2-V3-242",
+          "number": 242,
+          "speaker": "",
+          "en": "Through rocks more steep and sharp than Caspian cliffs:",
+          "es": "entre rocas más escarpadas y agudas que los acantilados del Caspio."
+        },
+        {
+          "id": "P2-V3-243",
+          "number": 243,
+          "speaker": "",
+          "en": "The nature of thy chariot will not bear",
+          "es": "La naturaleza de tu carro no tolerará"
+        },
+        {
+          "id": "P2-V3-244",
+          "number": 244,
+          "speaker": "",
+          "en": "A guide of baser temper than myself,",
+          "es": "a un conductor de temple inferior al mío,"
+        },
+        {
+          "id": "P2-V3-245",
+          "number": 245,
+          "speaker": "",
+          "en": "More than heaven's coach the pride of Phaeton.",
+          "es": "como tampoco el carro celestial toleró el orgullo de Faetón."
+        },
+        {
+          "id": "P2-V3-246",
+          "number": 246,
+          "speaker": "",
+          "en": "Farewell, my boys! my dearest friends, farewell!",
+          "es": "¡Adiós, hijos míos! ¡Adiós, mis amigos más queridos!"
+        },
+        {
+          "id": "P2-V3-247",
+          "number": 247,
+          "speaker": "",
+          "en": "My body feels, my soul doth weep to see",
+          "es": "Mi cuerpo se resiente, mi alma llora al ver"
+        },
+        {
+          "id": "P2-V3-248",
+          "number": 248,
+          "speaker": "",
+          "en": "Your sweet desires depriv'd my company,",
+          "es": "que sus amorosos deseos se verán privados de mi compañía,"
+        },
+        {
+          "id": "P2-V3-249",
+          "number": 249,
+          "speaker": "",
+          "en": "For Tamburlaine, the scourge of God, must die.",
+          "es": "porque Tamerlán, el azote de Dios, debe morir."
+        },
+        {
+          "id": "P2-V3-250",
+          "number": 250,
+          "speaker": "AMYRAS",
+          "en": "Meet heaven and earth, and here let all things end,",
+          "es": "¡Que el cielo y la tierra se junten y que aquí termine todo,"
+        },
+        {
+          "id": "P2-V3-251",
+          "number": 251,
+          "speaker": "",
+          "en": "For earth hath spent the pride of all her fruit,",
+          "es": "pues la tierra ha agotado lo más excelso de sus frutos"
+        },
+        {
+          "id": "P2-V3-252",
+          "number": 252,
+          "speaker": "",
+          "en": "And heaven consum'd his choicest living fire!",
+          "es": "y el cielo ha consumido su fuego viviente más precioso!"
+        },
+        {
+          "id": "P2-V3-253",
+          "number": 253,
+          "speaker": "",
+          "en": "Let earth and heaven his timeless death deplore,",
+          "es": "¡Que la tierra y el cielo lamenten su muerte prematura,"
+        },
+        {
+          "id": "P2-V3-254",
+          "number": 254,
+          "speaker": "",
+          "en": "For both their worths will equal him no more!",
+          "es": "pues nunca volverán a engendrar a alguien de su grandeza!"
         }
       ]
     }
@@ -33171,6 +33899,104 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 126,
       "en": "An attendant brings a map.",
       "es": "Un sirviente trae un mapa."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 181,
+      "en": "They assist Tamburlaine to descend from the chariot.",
+      "es": "Ayudan a Tamerlán a bajar del carro."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 207,
+      "en": "Amyras mounts the chariot.",
+      "es": "Amiras sube al carro."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 210,
+      "en": "They crown Amyras.",
+      "es": "Coronan a Amiras."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 224,
+      "en": "They bring in Zenocrate's hearse.",
+      "es": "Traen el féretro de Zenócrate."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 249,
+      "en": "Tamburlaine dies.",
+      "es": "Muere Tamerlán."
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "afterLine": 254,
+      "en": "Exeunt.",
+      "es": "Salen todos."
+    }
+  ],
+  "part2Prologue": [
+    {
+      "id": "P2-P1",
+      "number": 1,
+      "en": "The general welcomes Tamburlaine receiv'd,",
+      "es": "La gran acogida que recibió Tamerlán"
+    },
+    {
+      "id": "P2-P2",
+      "number": 2,
+      "en": "When he arrived last upon the stage,",
+      "es": "cuando apareció por última vez en el escenario"
+    },
+    {
+      "id": "P2-P3",
+      "number": 3,
+      "en": "Have made our poet pen his Second Part,",
+      "es": "ha llevado a nuestro poeta a escribir esta segunda parte,"
+    },
+    {
+      "id": "P2-P4",
+      "number": 4,
+      "en": "Where Death cuts off the progress of his pomp,",
+      "es": "donde la Muerte interrumpe el avance de su esplendor"
+    },
+    {
+      "id": "P2-P5",
+      "number": 5,
+      "en": "And murderous Fates throw all his triumphs down.",
+      "es": "y las Parcas homicidas derriban todos sus triunfos."
+    },
+    {
+      "id": "P2-P6",
+      "number": 6,
+      "en": "But what became of fair Zenocrate,",
+      "es": "Pero qué fue de la hermosa Zenócrate,"
+    },
+    {
+      "id": "P2-P7",
+      "number": 7,
+      "en": "And with how many cities' sacrifice",
+      "es": "y con el sacrificio de cuántas ciudades"
+    },
+    {
+      "id": "P2-P8",
+      "number": 8,
+      "en": "He celebrated her sad funeral,",
+      "es": "celebró sus tristes exequias,"
+    },
+    {
+      "id": "P2-P9",
+      "number": 9,
+      "en": "Himself in presence shall unfold at large.",
+      "es": "él mismo lo contará aquí ampliamente."
     }
   ]
 };
