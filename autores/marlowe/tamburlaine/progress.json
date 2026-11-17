@@ -183,8 +183,8 @@
   ],
   "publishedVerseLines": 4641,
   "translation": "original Spanish, full first draft; not yet critically revised",
-  "editorialReview": "Primera revisión filológica: Parte I prólogo y actos I–II completos; acto III escena 1 completa, escena 2 revisada hasta III.2.112 de 113. Total 1.100 unidades. Próxima III.2.113 (1) + III.3.1–49 (49).",
-  "updated": "2026-11-17",
+  "editorialReview": "Primera revisión filológica: Parte I hasta III.3.49 inclusive. Total 1.150 unidades; siguiente III.3.50.",
+  "updated": "2026-11-18",
   "sourceLinks": [
     "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm",
     "https://emed.titania.folger.edu/sites/default/files/folger_encodings/html/DA_1Tam_1.html",
@@ -420,7 +420,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1100,
+    "reviewedUnits": 1150,
     "reviewed": [
       {
         "part": 1,
@@ -676,28 +676,44 @@
         "start": 63,
         "end": 112,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 2,
+        "start": 113,
+        "end": 113,
+        "count": 1
+      },
+      {
+        "part": 1,
+        "act": 3,
+        "scene": 3,
+        "start": 1,
+        "end": 49,
+        "count": 49
       }
     ],
     "lastPass": {
-      "date": "2026-11-17",
-      "scope": "Parte I III.2.63–112",
+      "date": "2026-11-18",
+      "scope": "Parte I III.2.113 + III.3.1–49",
       "unitsReviewed": 50,
-      "translationLinesRevised": 44,
+      "translationLinesRevised": 11,
       "translationLinesValidated": 50,
-      "newNotes": 19,
-      "readingCardsAdded": 3,
-      "mode": "philology-22.js additive overlay, literal English matching and note anchor checks",
+      "newNotes": 14,
+      "readingCardsAdded": 2,
+      "mode": "philology-23.js additive overlay with exact English string matching; browser QA pending",
       "sourceBasis": [
-        "1590 first impression, Richard Jones, Folger EarlyPrint C4v–C5v, wln 1113–1166",
-        "Alexander Dyce, Tamburlaine the Great, Part I, Project Gutenberg #1094"
+        "Alexander Dyce, The First Part of Tamburlaine the Great, Renascence Editions, https://www.luminarium.org/renascence-editions/marlowe3.html",
+        "Project Gutenberg #1094, https://www.gutenberg.org/ebooks/1094"
       ],
-      "note": "Stage interpretation: Techelles enters with drawn dagger, Agydas dies under coercive threat; astronomic and meteorological storm comparison; inflection differences shone/shine, send/sent, make/makes and editorial expansion of stage direction."
+      "note": "Revisado tramo continuo 50 unidades; texto inglés e IDs intactos. Variantes Dyce en III.3.20 (expediton/expedition) y III.3.43 (meets/meet) se mantienen según base y requieren cotejo impreso 1590. No se verificó en navegador ni sincronización de resaltados."
     },
     "next": {
       "part": 1,
       "act": 3,
-      "scene": 2,
-      "line": 113
+      "scene": 3,
+      "line": 50
     }
   }
 }
