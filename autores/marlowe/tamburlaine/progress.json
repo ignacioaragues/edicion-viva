@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1400,
+    "reviewedUnits": 1450,
     "reviewed": [
       {
         "part": 1,
@@ -746,28 +746,42 @@
         "start": 1,
         "end": 25,
         "count": 25
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 1,
+        "start": 26,
+        "end": 73,
+        "count": 48
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 2,
+        "start": 1,
+        "end": 2,
+        "count": 2
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I III.3.250–274; IV.1.1–25",
+      "scope": "Parte I IV.1.26–73; IV.2.1–2",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 12,
-      "newNotes": 11,
+      "translationLinesRevised": 19,
+      "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-28.js; cotejo Dyce/Neilson/Folger; QA navegador pendiente",
+      "mode": "philology-29.js; Dyce y edición anotada; QA navegador pendiente",
       "sourceBasis": [
-        "https://www.earlymodernenglishdrama.folger.edu/sites/default/files/folger_encodings/pdf/EMED-1Tam-reg-3.pdf",
-        "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1687/Marlowe_1319.01_EBk_v6.0.pdf",
-        "https://www.gutenberg.org/files/77587/77587-h/77587-h.htm"
+        "Christopher Marlowe, Tamburlaine I, IV.1; A. Dyce (ed.), Works of Christopher Marlowe, vol. I (1859), https://files.libertyfund.org/files/1687/Marlowe_1319.01_EBk_v6.0.pdf; edición anotada ElizabethanDrama.org, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
       ]
     },
     "next": {
       "part": 1,
       "act": 4,
-      "scene": 1,
-      "line": 26
+      "scene": 2,
+      "line": 3
     }
   }
 }
