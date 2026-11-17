@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,29 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,30 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -228,9 +228,12 @@
     ,{"chapter":6,"n":27,"gr":"καὶ εὐθὺς ἀποστείλας ὁ βασιλεὺς σπεκουλάτορα ἐπέταξεν ἐνέγκαι τὴν κεφαλὴν αὐτοῦ. καὶ ἀπελθὼν ἀπεκεφάλισεν αὐτὸν ἐν τῇ φυλακῇ","es":"El rey envió inmediatamente a un guardia y le ordenó traer la cabeza de Juan. El hombre fue y lo decapitó en la prisión.","la":"","notes":["mc627guard","mc627syntax"]}
     ,{"chapter":6,"n":28,"gr":"καὶ ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακι καὶ ἔδωκεν αὐτὴν τῷ κορασίῳ, καὶ τὸ κοράσιον ἔδωκεν αὐτὴν τῇ μητρὶ αὐτῆς.","es":"Trajo su cabeza en una bandeja y se la entregó a la muchacha; la muchacha se la entregó a su madre.","la":"","notes":["mc628transfer"]}
     ,{"chapter":6,"n":29,"gr":"καὶ ἀκούσαντες οἱ μαθηταὶ αὐτοῦ ἦλθον καὶ ἦραν τὸ πτῶμα αὐτοῦ καὶ ἔθηκαν αὐτὸ ἐν μνημείῳ.","es":"Cuando sus discípulos se enteraron, fueron, recogieron su cuerpo y lo depositaron en una tumba.","la":"","notes":["mc629burial"]}
+    ,{"chapter":6,"n":30,"gr":"Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν, καὶ ἀπήγγειλαν αὐτῷ πάντα ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν.","es":"Los apóstoles se reunieron con Jesús y le contaron todo lo que habían hecho y todo lo que habían enseñado.","la":"","notes":["mc630return","mc630syntax"]}
   ];
 
   const notes = {
+    mc630return: ["Regreso de los enviados", "ἀπόστολοι («enviados») retoma la misión de los Doce (Mc 6,7–13). El sustantivo identifica aquí su función narrativa; no implica por sí mismo una definición institucional posterior. Texto: Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 6,30, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."],
+    mc630syntax: ["Acciones y enseñanza", "συνάγονται es presente histórico; ἀπήγγειλαν, aoristo. La repetición de ὅσα distingue lo que hicieron y lo que enseñaron. La tradición textual también conoce un καί adicional antes del primer ὅσα, ausente de la lectura SBLGNT. Cf. James K. Tauber (ed.), MorphGNT 6.12, Mc 6,30, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt; cotejo de ediciones: https://www.studylight.org/interlinear-study-bible/greek/mark/6-30.html."],
     mc627guard: ["Un término militar latino", "σπεκουλάτωρ adapta el latín speculator: originalmente un observador o explorador, también miembro de una guardia con funciones de mensajería y, en este episodio, ejecutor de la sentencia. El oficio no debe reducirse siempre a «verdugo». Cf. M. R. Vincent, Word Studies in the New Testament, Mc 6,27: https://www.studylight.org/commentaries/eng/vnt/mark-6.html; Expositor's Greek Testament, Mc 6,27: https://biblehub.com/commentaries/mark/6-27.htm."],
     mc627syntax: ["Orden y ejecución", "ἐπέταξεν rige el infinitivo aoristo ἐνέγκαι («traer»); los participios aoristos ἀποστείλας y ἀπελθών articulan la secuencia. El adverbio εὐθύς refuerza la rapidez de la orden. Texto base: M. W. Holmes (ed.), SBLGNT (2010), Mc 6,27: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."],
     mc628transfer: ["La cadena de entregas", "El narrador repite ἔδωκεν («entregó») para seguir el recorrido de la cabeza desde el guardia hasta la muchacha y finalmente su madre. κοράσιον es un diminutivo lexicalizado: no permite determinar por sí solo la edad exacta de la joven. Cf. Holmes, SBLGNT, Mc 6,28: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."],
@@ -803,6 +806,7 @@
     40: ['1,40–45', 'La purificación de un enfermo'],
   };
   passages.forEach(p => {
+    if (p.chapter === 6 && p.n === 30) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '6,30–32'), makeElement('h2', '', 'El regreso de los Doce')); verses.append(section); }
     if (p.chapter === 3 && p.n === 1) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '3,1–6'), makeElement('h2', '', 'Una curación en sábado')); verses.append(section); }
     if (p.chapter === 2 && p.n === 18) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,18–22'), makeElement('h2', '', 'El ayuno y las imágenes de lo nuevo')); verses.append(section); }
     if (p.chapter === 2 && p.n === 13) { const section = makeElement('div', 'verse-section'); section.append(makeElement('p', '', '2,13–17'), makeElement('h2', '', 'La vocación de Leví')); verses.append(section); }
