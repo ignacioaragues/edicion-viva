@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,31 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,32 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -230,9 +230,12 @@
     ,{"chapter":6,"n":29,"gr":"καὶ ἀκούσαντες οἱ μαθηταὶ αὐτοῦ ἦλθον καὶ ἦραν τὸ πτῶμα αὐτοῦ καὶ ἔθηκαν αὐτὸ ἐν μνημείῳ.","es":"Cuando sus discípulos se enteraron, fueron, recogieron su cuerpo y lo depositaron en una tumba.","la":"","notes":["mc629burial"]}
     ,{"chapter":6,"n":30,"gr":"Καὶ συνάγονται οἱ ἀπόστολοι πρὸς τὸν Ἰησοῦν, καὶ ἀπήγγειλαν αὐτῷ πάντα ὅσα ἐποίησαν καὶ ὅσα ἐδίδαξαν.","es":"Los apóstoles se reunieron con Jesús y le contaron todo lo que habían hecho y todo lo que habían enseñado.","la":"","notes":["mc630return","mc630syntax"]}
     ,{"chapter":6,"n":31,"gr":"καὶ λέγει αὐτοῖς· Δεῦτε ὑμεῖς αὐτοὶ κατʼ ἰδίαν εἰς ἔρημον τόπον καὶ ἀναπαύσασθε ὀλίγον. ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν εὐκαίρουν.","es":"Y les dice: «Vengan ustedes solos a un lugar apartado y descansen un poco». Porque eran tantos los que iban y venían que ni siquiera tenían tiempo para comer.","la":"","notes":["mc631rest","mc631leisure","mc631variants"]}
+    ,{"chapter":6,"n":32,"gr":"καὶ ἀπῆλθον ἐν τῷ πλοίῳ εἰς ἔρημον τόπον κατʼ ἰδίαν.","es":"Y se fueron en la barca a un lugar apartado, ellos solos.","la":"","notes":["mc632retreat","mc632variants"]}
   ];
 
   const notes = {
+    mc632retreat: ["Retirada en barca","La repetición de εἰς ἔρημον τόπον y κατʼ ἰδίαν de 6,31 señala que emprenden la retirada solicitada, sin identificar por sí sola una localidad concreta. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,32: https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php."],
+    mc632variants: ["Variantes de orden y construcción","SBLGNT lee ἐν τῷ πλοίῳ εἰς ἔρημον τόπον; la tradición bizantina presenta εἰς ἔρημον τόπον τῷ πλοίῳ. Cambian el orden y la construcción del complemento de medio, sin alterar sustancialmente la escena. M. W. Holmes (ed.), SBLGNT (2010), Mc 6,32: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; cotejo de testigos: https://greeknewtestament.net/mk6-32."],
     mc631rest: ["Retiro y descanso","ὑμεῖς αὐτοί es enfático: los enviados mismos necesitan descansar tras su misión. κατʼ ἰδίαν expresa la separación del gentío, y ἔρημος τόπος designa un lugar apartado, no necesariamente un desierto árido. Cf. A. Plummer, Cambridge Greek Testament for Schools and Colleges, Mc 6,31: https://www.sermonindex.net/commentary/cambridgegreek/MRK/6/; United Bible Societies, Translation Commentary on Mark 6:31: https://tips.translation.bible/story/translation-commentary-on-mark-631/."],
     mc631leisure: ["Ni tiempo para comer","οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες son participios sustantivados: quienes llegaban y quienes se iban. El imperfecto εὐκαίρουν describe una falta continuada de oportunidad, incluso para comer; cf. Mc 3,20 y εὔκαιρος en 6,21. Cf. A. B. Bruce, Expositor’s Greek Testament, Mc 6,31: https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/6/31."],
     mc631variants: ["Variantes de la exhortación","SBLGNT lee λέγει (presente histórico) y ἀναπαύσασθε (imperativo aoristo medio); la tradición bizantina presenta εἶπεν y ἀναπαύεσθε. No debe atribuirse al contraste de aspecto una duración precisa por sí sola. Cf. M. W. Holmes (ed.), SBLGNT (2010), Mc 6,31: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; aparato SBLGNT: https://www.biblegateway.com/passage/?search=Mark+6%3A30-34&version=SBLGNT%3BTR1550."],
