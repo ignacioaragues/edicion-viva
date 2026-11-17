@@ -1248,14 +1248,14 @@
     }
   ],
   "updated": "2026-11-17",
-  "next": "Revisión 527–566; aparato Leo y glosas de oficios de III pendientes.",
+  "next": "Auditar 567–606 y volver sobre la variante curionem/curiosam 562 con aparato crítico.",
   "editorial_note": "IV.8 701–704 añadidos; Picis 701 y comparación con Filipo requieren cotejo crítico Leo. Revisión retrospectiva permanece en 159; no certificar 160+ sin auditoría token a token. [2026-11-17] Compilación de aulularia.js restaurada tras error preexistente en expansión de objetos 598–604. La revisión 160–184 permanece distinta de una prueba visual del sitio. [2026-11-17] II.2 vv. 185–224: revisión del cotejo textual y de 372 fichas, 4 correcciones morfológicas, 12 retoques de traducción, 5 notas entre nuevas y enriquecidas. Compilación de JS verificada; no se declara testeo visual. [2026-11-17] Aulularia revisión 225–264 completa, 39 unidades / 40 números, 350 tokens. Mantenida lectura Leo Pythodice con nota sobre variante manuscrita Strobile; sin sustitución del latín. JS compila, probado orden en simulación; prueba visual no certificada. [2026-11-17] II.2–II.4 265–304: 40 versos y 311 palabras auditados; reparación de 5 fichas sigla; 8 notas nuevas/ampliadas con Maclennan–Stockert 2016 y Walker 2005; test de sintaxis y alineación superado, QA visual pendiente.",
   "morphological_second_pass": {
     "status": "in_progress",
-    "reviewed_through_verse": 526,
-    "next_verse": 527,
+    "reviewed_through_verse": 566,
+    "next_verse": 567,
     "scope": "Auditoría filológica independiente (lemas, flexión y análisis contextual), distinta de fichas ya incorporadas.",
-    "note": "Auditoría estática 487–526 (40 versos), con colación de variantes MQDQ; pendiente cotejo de aparato Leo y pruebas en navegador. Grafías latinas e IDs intactos.",
+    "note": "Auditoría estática 527–566; sin QA interactiva; variantes curionem/curiosam (562) y suplementos 545–546 pendientes cotejo de Leo.",
     "checked_structure": [
       {
         "section": "prologue",
@@ -1860,6 +1860,19 @@
           "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
         ],
         "note": "Alineación de tokens y fichas comprobada; revisados 40 versos y glosas contextuales existentes. Afinados lubeant y nubent, y señaladas variantes de MQDQ en semisonarii (semul zonarii), phylacistae (thylacistae), nugivendis (nugigerulis). Lecturas de oficios 508–521 requieren aparato Leo; se preserva el texto y los IDs para no invalidar resaltados. QA visual pendiente."
+      },
+      {
+        "section": "III.5–III.6",
+        "from": 527,
+        "to": 566,
+        "verses": 40,
+        "tokens": 275,
+        "status": "morphology_revised_static_check",
+        "sources": [
+          "Friedrich Leo, Plauti Comoediae (1895), Perseus Digital Library, https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0119.phi003.perseus-lat2/",
+          "MQDQ, Plautus Aulularia, https://open.unive.it/mqdq/testo/testo/ordinata/pf23099"
+        ],
+        "note": "Auditoría estática de texto, traducciones, análisis y glosas contextuales; correspondencia de 40 versos y tokens comprobada, incluyendo suplementos entre ángulos. Se precisaron edi (comer figurado), oriundi, intolerabiles, curionem y cura. La edición MQDQ lee curiosam en 562, frente al curionem del lector: diferencia pendiente de cotejo crítico de Leo; no se alteró texto ni offsets. QA visual y verificación de enlaces de diccionario pendientes."
       }
     ],
     "spot_checks": [
