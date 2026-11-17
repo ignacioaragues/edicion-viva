@@ -1,4 +1,4 @@
-/* Christopher Marlowe, Tamburlaine the Great: first-draft bilingual translation. Part I complete; Part II through Act IV, scene 2 complete (98 lines). English base Alexander Dyce / Project Gutenberg 1589; collation pending. */
+/* Christopher Marlowe, Tamburlaine the Great: bilingual first draft. Part I complete; Part II through IV.3.66. Source-line numbers; philological collation pending. */
 window.TAMBURLAINE_EDITION = {
   "part": 1,
   "prologue": [
@@ -28615,6 +28615,470 @@ window.TAMBURLAINE_EDITION = {
           "en": "The treasure of my kingdom may afford.",
           "es": "que puedan sufragar las riquezas de mi reino."
         }
+      ],
+      "3": [
+        {
+          "id": "P2-IV3-1",
+          "number": 1,
+          "speaker": "TAMBURLAINE",
+          "en": "Holla, ye pamper'd jades of Asia!",
+          "es": "¡Eh, rocines cebados de Asia!"
+        },
+        {
+          "id": "P2-IV3-2",
+          "number": 2,
+          "speaker": "",
+          "en": "What, can ye draw but twenty miles a-day,",
+          "es": "¿Cómo? ¿Solo pueden tirar veinte millas al día"
+        },
+        {
+          "id": "P2-IV3-3",
+          "number": 3,
+          "speaker": "",
+          "en": "And have so proud a chariot at your heels,",
+          "es": "llevando a sus espaldas un carro tan soberbio"
+        },
+        {
+          "id": "P2-IV3-4",
+          "number": 4,
+          "speaker": "",
+          "en": "And such a coachman as great Tamburlaine,",
+          "es": "y teniendo por cochero al gran Tamerlán,"
+        },
+        {
+          "id": "P2-IV3-5",
+          "number": 5,
+          "speaker": "",
+          "en": "But from Asphaltis, where I conquer'd you,",
+          "es": "cuando desde el Asfaltites, donde los conquisté,"
+        },
+        {
+          "id": "P2-IV3-6",
+          "number": 6,
+          "speaker": "",
+          "en": "To Byron here, where thus I honour you?",
+          "es": "hasta este Birón, donde así los honro, no hay más distancia?"
+        },
+        {
+          "id": "P2-IV3-7",
+          "number": 7,
+          "speaker": "",
+          "en": "The horse that guide the golden eye of heaven,",
+          "es": "Los caballos que guían el ojo dorado del cielo"
+        },
+        {
+          "id": "P2-IV3-8",
+          "number": 8,
+          "speaker": "",
+          "en": "And blow the morning from their nostrils,",
+          "es": "y exhalan la mañana por sus ollares,"
+        },
+        {
+          "id": "P2-IV3-9",
+          "number": 9,
+          "speaker": "",
+          "en": "Making their fiery gait above the clouds,",
+          "es": "desplegando su carrera de fuego por encima de las nubes,"
+        },
+        {
+          "id": "P2-IV3-10",
+          "number": 10,
+          "speaker": "",
+          "en": "Are not so honour'd in their governor",
+          "es": "no reciben de quien los conduce tanto honor"
+        },
+        {
+          "id": "P2-IV3-11",
+          "number": 11,
+          "speaker": "",
+          "en": "As you, ye slaves, in mighty Tamburlaine.",
+          "es": "como ustedes, esclavos, reciben del poderoso Tamerlán."
+        },
+        {
+          "id": "P2-IV3-12",
+          "number": 12,
+          "speaker": "",
+          "en": "The headstrong jades of Thrace Alcides tam'd,",
+          "es": "Los indómitos caballos de Tracia que domó Alcides,"
+        },
+        {
+          "id": "P2-IV3-13",
+          "number": 13,
+          "speaker": "",
+          "en": "That King Ægeus fed with human flesh,",
+          "es": "a los que el rey Egeo alimentaba con carne humana"
+        },
+        {
+          "id": "P2-IV3-14",
+          "number": 14,
+          "speaker": "",
+          "en": "And made so wanton that they knew their strengths,",
+          "es": "y volvió tan arrogantes que conocieron su propia fuerza,"
+        },
+        {
+          "id": "P2-IV3-15",
+          "number": 15,
+          "speaker": "",
+          "en": "Were not subdu'd with valour more divine",
+          "es": "no fueron sometidos con valor más divino"
+        },
+        {
+          "id": "P2-IV3-16",
+          "number": 16,
+          "speaker": "",
+          "en": "Than you by this unconquer'd arm of mine.",
+          "es": "que ustedes por este brazo mío invicto."
+        },
+        {
+          "id": "P2-IV3-17",
+          "number": 17,
+          "speaker": "",
+          "en": "To make you fierce, and fit my appetite,",
+          "es": "Para volverlos feroces y satisfacer mi apetito,"
+        },
+        {
+          "id": "P2-IV3-18",
+          "number": 18,
+          "speaker": "",
+          "en": "You shall be fed with flesh as raw as blood,",
+          "es": "se alimentarán de carne tan cruda como sangrienta"
+        },
+        {
+          "id": "P2-IV3-19",
+          "number": 19,
+          "speaker": "",
+          "en": "And drink in pails the strongest muscadel:",
+          "es": "y beberán a cubos el moscatel más fuerte:"
+        },
+        {
+          "id": "P2-IV3-20",
+          "number": 20,
+          "speaker": "",
+          "en": "If you can live with it, then live, and draw",
+          "es": "si consiguen sobrevivir, vivan y tiren"
+        },
+        {
+          "id": "P2-IV3-21",
+          "number": 21,
+          "speaker": "",
+          "en": "My chariot swifter than the racking clouds;",
+          "es": "de mi carro más veloces que las nubes arrastradas por el viento;"
+        },
+        {
+          "id": "P2-IV3-22",
+          "number": 22,
+          "speaker": "",
+          "en": "If not, then die like beasts, and fit for naught",
+          "es": "si no, mueran como bestias, sin servir para otra cosa"
+        },
+        {
+          "id": "P2-IV3-23",
+          "number": 23,
+          "speaker": "",
+          "en": "But perches for the black and fatal ravens.",
+          "es": "que de perchas para los negros cuervos de la muerte."
+        },
+        {
+          "id": "P2-IV3-24",
+          "number": 24,
+          "speaker": "",
+          "en": "Thus am I right the scourge of highest Jove;",
+          "es": "Así soy, con pleno derecho, el azote del altísimo Júpiter:"
+        },
+        {
+          "id": "P2-IV3-25",
+          "number": 25,
+          "speaker": "",
+          "en": "And see the figure of my dignity,",
+          "es": "¡contemplen la imagen de mi dignidad,"
+        },
+        {
+          "id": "P2-IV3-26",
+          "number": 26,
+          "speaker": "",
+          "en": "By which I hold my name and majesty!",
+          "es": "en la que fundo mi nombre y mi majestad!"
+        },
+        {
+          "id": "P2-IV3-27",
+          "number": 27,
+          "speaker": "AMYRAS",
+          "en": "Let me have coach, my lord, that I may ride,",
+          "es": "Déjame el carro, señor, para que pueda pasear"
+        },
+        {
+          "id": "P2-IV3-28",
+          "number": 28,
+          "speaker": "",
+          "en": "And thus be drawn by these two idle kings.",
+          "es": "tirado de igual modo por estos dos reyes ociosos."
+        },
+        {
+          "id": "P2-IV3-29",
+          "number": 29,
+          "speaker": "TAMBURLAINE",
+          "en": "Thy youth forbids such ease, my kingly boy:",
+          "es": "Tu juventud no te permite semejante comodidad, príncipe mío:"
+        },
+        {
+          "id": "P2-IV3-30",
+          "number": 30,
+          "speaker": "",
+          "en": "They shall to-morrow draw my chariot,",
+          "es": "mañana tirarán de mi carro,"
+        },
+        {
+          "id": "P2-IV3-31",
+          "number": 31,
+          "speaker": "",
+          "en": "While these their fellow-kings may be refresh'd.",
+          "es": "mientras estos reyes, sus compañeros, descansan."
+        },
+        {
+          "id": "P2-IV3-32",
+          "number": 32,
+          "speaker": "ORCANES",
+          "en": "O thou that sway'st the region under earth,",
+          "es": "¡Oh tú, que gobiernas la región bajo la tierra"
+        },
+        {
+          "id": "P2-IV3-33",
+          "number": 33,
+          "speaker": "",
+          "en": "And art a king as absolute as Jove,",
+          "es": "y eres un rey tan absoluto como Júpiter,"
+        },
+        {
+          "id": "P2-IV3-34",
+          "number": 34,
+          "speaker": "",
+          "en": "Come as thou didst in fruitful Sicily,",
+          "es": "ven como antaño viniste a la fértil Sicilia,"
+        },
+        {
+          "id": "P2-IV3-35",
+          "number": 35,
+          "speaker": "",
+          "en": "Surveying all the glories of the land,",
+          "es": "contemplando todas las maravillas de aquella tierra,"
+        },
+        {
+          "id": "P2-IV3-36",
+          "number": 36,
+          "speaker": "",
+          "en": "And as thou took'st the fair Proserpina,",
+          "es": "y tal como raptaste a la bella Proserpina,"
+        },
+        {
+          "id": "P2-IV3-37",
+          "number": 37,
+          "speaker": "",
+          "en": "Joying the fruit of Ceres' garden-plot,",
+          "es": "que gozaba de los frutos del jardín de Ceres,"
+        },
+        {
+          "id": "P2-IV3-38",
+          "number": 38,
+          "speaker": "",
+          "en": "For love, for honour, and to make her queen,",
+          "es": "por amor y honor y para convertirla en reina,"
+        },
+        {
+          "id": "P2-IV3-39",
+          "number": 39,
+          "speaker": "",
+          "en": "So, for just hate, for shame, and to subdue",
+          "es": "ven ahora por justo odio, para avergonzar y someter"
+        },
+        {
+          "id": "P2-IV3-40",
+          "number": 40,
+          "speaker": "",
+          "en": "This proud contemner of thy dreadful power,",
+          "es": "a este soberbio que desprecia tu terrible poder,"
+        },
+        {
+          "id": "P2-IV3-41",
+          "number": 41,
+          "speaker": "",
+          "en": "Come once in fury, and survey his pride,",
+          "es": "ven una vez más, furioso, y contempla su orgullo,"
+        },
+        {
+          "id": "P2-IV3-42",
+          "number": 42,
+          "speaker": "",
+          "en": "Haling him headlong to the lowest hell!",
+          "es": "arrastrándolo de cabeza a lo más hondo del infierno!"
+        },
+        {
+          "id": "P2-IV3-43",
+          "number": 43,
+          "speaker": "THERIDAMAS",
+          "en": "You majesty must get some bits for these,",
+          "es": "Vuestra majestad tendrá que conseguir unos bocados para estos,"
+        },
+        {
+          "id": "P2-IV3-44",
+          "number": 44,
+          "speaker": "",
+          "en": "To bridle their contemptuous cursing tongues,",
+          "es": "para embridar sus lenguas insolentes y blasfemas,"
+        },
+        {
+          "id": "P2-IV3-45",
+          "number": 45,
+          "speaker": "",
+          "en": "That, like unruly never-broken jades,",
+          "es": "que, como jamelgos indómitos jamás domados,"
+        },
+        {
+          "id": "P2-IV3-46",
+          "number": 46,
+          "speaker": "",
+          "en": "Break through the hedges of their hateful mouths,",
+          "es": "atraviesan las barreras de sus odiosas bocas"
+        },
+        {
+          "id": "P2-IV3-47",
+          "number": 47,
+          "speaker": "",
+          "en": "And pass their fixed bounds exceedingly.",
+          "es": "y sobrepasan con mucho los límites establecidos."
+        },
+        {
+          "id": "P2-IV3-48",
+          "number": 48,
+          "speaker": "TECHELLES",
+          "en": "Nay, we will break the hedges of their mouths,",
+          "es": "No: romperemos las barreras de sus bocas"
+        },
+        {
+          "id": "P2-IV3-49",
+          "number": 49,
+          "speaker": "",
+          "en": "And pull their kicking colts out of their pastures.",
+          "es": "y sacaremos a esos potros que cocean de sus pastizales."
+        },
+        {
+          "id": "P2-IV3-50",
+          "number": 50,
+          "speaker": "USUMCASANE",
+          "en": "Your majesty already hath devis'd",
+          "es": "Vuestra majestad ya ha ideado"
+        },
+        {
+          "id": "P2-IV3-51",
+          "number": 51,
+          "speaker": "",
+          "en": "A mean, as fit as may be, to restrain",
+          "es": "un medio de lo más apropiado para reprimir"
+        },
+        {
+          "id": "P2-IV3-52",
+          "number": 52,
+          "speaker": "",
+          "en": "These coltish coach-horse tongues from blasphemy.",
+          "es": "las lenguas blasfemas de esos caballos de tiro tan cerriles."
+        },
+        {
+          "id": "P2-IV3-53",
+          "number": 53,
+          "speaker": "CELEBINUS",
+          "en": "How like you that, sir king? why speak you not?",
+          "es": "¿Qué te parece, señor rey? ¿Por qué no hablas?"
+        },
+        {
+          "id": "P2-IV3-54",
+          "number": 54,
+          "speaker": "KING OF JERUSALEM",
+          "en": "Ah, cruel brat, sprung from a tyrant's loins!",
+          "es": "¡Ah, cría cruel, engendrada por un tirano!"
+        },
+        {
+          "id": "P2-IV3-55",
+          "number": 55,
+          "speaker": "",
+          "en": "How like his cursed father he begins",
+          "es": "¡Con cuánto parecido a su maldito padre comienza"
+        },
+        {
+          "id": "P2-IV3-56",
+          "number": 56,
+          "speaker": "",
+          "en": "To practice taunts and bitter tyrannies!",
+          "es": "a prodigar insultos y amargas tiranías!"
+        },
+        {
+          "id": "P2-IV3-57",
+          "number": 57,
+          "speaker": "TAMBURLAINE",
+          "en": "Ay, Turk, I tell thee, this same boy is he",
+          "es": "Sí, turco: te aseguro que este muchacho es quien"
+        },
+        {
+          "id": "P2-IV3-58",
+          "number": 58,
+          "speaker": "",
+          "en": "That must (advanc'd in higher pomp than this)",
+          "es": "—elevado a una gloria mayor que esta—"
+        },
+        {
+          "id": "P2-IV3-59",
+          "number": 59,
+          "speaker": "",
+          "en": "Rifle the kingdoms I shall leave unsack'd,",
+          "es": "saqueará los reinos que yo deje sin saquear,"
+        },
+        {
+          "id": "P2-IV3-60",
+          "number": 60,
+          "speaker": "",
+          "en": "If Jove, esteeming me too good for earth.",
+          "es": "si Júpiter, por considerarme demasiado excelso para la tierra,"
+        },
+        {
+          "id": "P2-IV3-61",
+          "number": 61,
+          "speaker": "",
+          "en": "Raise me, to match the fair Aldeboran,",
+          "es": "me eleva hasta la altura del hermoso Aldebarán,"
+        },
+        {
+          "id": "P2-IV3-62",
+          "number": 62,
+          "speaker": "",
+          "en": "Above the threefold astracism of heaven,",
+          "es": "por encima de las tres esferas del cielo,"
+        },
+        {
+          "id": "P2-IV3-63",
+          "number": 63,
+          "speaker": "",
+          "en": "Before I conquer all the triple world.—",
+          "es": "antes de que yo conquiste las tres partes del mundo."
+        },
+        {
+          "id": "P2-IV3-64",
+          "number": 64,
+          "speaker": "",
+          "en": "Now fetch me out the Turkish concubines:",
+          "es": "Ahora tráiganme a las concubinas turcas:"
+        },
+        {
+          "id": "P2-IV3-65",
+          "number": 65,
+          "speaker": "",
+          "en": "I will prefer them for the funeral",
+          "es": "las recompensaré por el funeral"
+        },
+        {
+          "id": "P2-IV3-66",
+          "number": 66,
+          "speaker": "",
+          "en": "They have bestow'd on my abortive son.",
+          "es": "que ofrecieron a mi hijo malogrado."
+        }
       ]
     }
   },
@@ -29024,6 +29488,20 @@ window.TAMBURLAINE_EDITION = {
       "afterLine": 98,
       "en": "Exit with the body.",
       "es": "Sale llevando el cadáver."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 0,
+      "en": "Enter Tamburlaine, drawn in his chariot by the kings of Trebizond and Syria, with bits in their mouths, the reins in his left hand and a whip in his right; Amyras, Celebinus, Techelles, Theridamas, Usumcasane, Orcanes, the king of Jerusalem and soldiers.",
+      "es": "Entra Tamerlán en su carro, tirado por los reyes de Trebisonda y Siria, con bocados en la boca; lleva las riendas en la mano izquierda y un látigo en la derecha. Lo acompañan Amiras, Celebino, Tequeles, Teridamas, Usumcasane, Orcanes, el rey de Jerusalén y soldados."
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "afterLine": 66,
+      "en": "The concubines are brought in.",
+      "es": "Traen a las concubinas."
     }
   ]
 };
