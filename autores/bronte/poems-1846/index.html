@@ -4,7 +4,7 @@
 <meta name="description" content="Los 61 poemas del libro de 1846 de Charlotte, Emily y Anne Brontë, en el orden de la primera edición. Lector anotado y traducción española en preparación.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./reader.css?v=20261118-1846">
+<link rel="stylesheet" href="./reader.css?v=20261118-lectura-amplia">
 <link rel="stylesheet" href="../../../highlights.css?v=20261112-shared">
 </head>
 <body data-reading-id="bronte-poems-1846" data-reading-title="Hermanas Brontë · Poems (1846)" data-reading-active-selector=".poem-content">
@@ -49,6 +49,12 @@
     <div class="column-captions"><span>VERSO</span><span>ORIGINAL · INGLÉS</span><span>TRADUCCIÓN · ESPAÑOL</span></div>
     <div id="poem-content" class="poem-content" aria-live="polite"></div>
    </div>
+   <section class="poem-commentary" id="poem-commentary" aria-labelledby="poem-commentary-title">
+     <span class="commentary-kicker">PARA LEER Y PENSAR</span>
+     <h2 id="poem-commentary-title">Acerca del poema</h2>
+     <p id="poem-commentary-body"></p>
+     <div class="commentary-links" id="poem-commentary-links"></div>
+   </section>
    <div class="editorial-note" id="editorial-note"></div>
    <nav class="poem-pagination" aria-label="Poema anterior y siguiente"><a id="poem-prev"></a><a id="poem-next"></a></nav>
    <a class="back-to-index" href="./">Volver al índice completo ↑</a>
@@ -61,9 +67,10 @@
  <div class="side-block"><span class="side-eyebrow">FUENTES</span><a href="https://en.wikisource.org/wiki/Poems_by_Currer,_Ellis,_and_Acton_Bell" target="_blank" rel="noopener noreferrer">Facsímil y texto de 1846 ↗</a><a href="https://www.gutenberg.org/ebooks/1019" target="_blank" rel="noopener noreferrer">Transcripción comparativa ↗</a></div>
 </aside>
 </div>
-<div id="word-popup" class="word-popup" hidden><button id="close-word-popup" type="button" aria-label="Cerrar nota">×</button><span class="side-eyebrow">FICHA DE LECTURA</span><strong id="word-label"></strong><p id="word-explanation"></p><a id="word-lookup" target="_blank" rel="noopener noreferrer">Consultar en Wiktionary ↗</a></div>
-<script src="./poems-data.js?v=20261118-corpus"></script>
-<script src="./reader.js?v=20261118-1846" defer></script>
+<div id="word-popup" class="word-popup" hidden><button id="close-word-popup" type="button" aria-label="Cerrar nota">×</button><span class="side-eyebrow">NOTA AL TEXTO</span><strong id="word-label"></strong><p id="word-explanation"></p><a id="word-lookup" target="_blank" rel="noopener noreferrer" hidden></a></div>
+<script src="./poems-data.js?v=20261118-156versos"></script>
+<script src="./commentary.js?v=20261118-notas"></script>
+<script src="./reader.js?v=20261118-notas-centrado" defer></script>
 <script src="../../../reading-layout.js?v=20261117" defer></script>
 <script src="../../../reading-tracker.js?v=20261117" defer></script>
 <script type="module" src="../../../account-sync.js?v=2"></script>
