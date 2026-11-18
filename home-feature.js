@@ -18,6 +18,12 @@
   // La URL del catálogo sigue siendo la fuente autorizada para los enlaces.
   const editions = [
     {
+      catalogueUrl: './autores/bronte/poems-1846/',
+      readingId: 'bronte-poems-1846', monogram: 'B',
+      explanation: 'Los 61 poemas de Charlotte, Emily y Anne Brontë, en el orden exacto del libro de 1846.',
+      repository: 'ignacioaragues/edicion-viva', sourcePath: 'autores/bronte/poems-1846/'
+    },
+    {
       catalogueUrl: './autores/marlowe/tamburlaine/',
       readingId: 'marlowe-tamburlaine-1', monogram: 'T',
       explanation: 'Las dos partes de la tragedia de Marlowe, en edición bilingüe.',

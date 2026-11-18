@@ -6,6 +6,16 @@
  */
 const collection = [
   {
+    author: 'Charlotte, Emily y Anne Brontë',
+    period: 'POESÍA VICTORIANA',
+    work: 'Poems by Currer, Ellis, and Acton Bell',
+    translated: 'Poemas · edición original de 1846',
+    language: 'Inglés · Español en curso',
+    status: 'available',
+    url: './autores/bronte/poems-1846/',
+    detail: '61 poemas originales disponibles · traducción y cotejo en curso',
+  },
+  {
     author: 'Christopher Marlowe',
     period: 'TEATRO ISABELINO',
     work: 'Tamburlaine the Great',
@@ -210,6 +220,7 @@ const viewButtons = document.querySelectorAll('[data-library-view]');
 // Las lecturas locales/sincronizadas tienen prioridad cuando son más recientes.
 const updateDates = new Map();
 const readingIds = new Map([
+  ['./autores/bronte/poems-1846/', ['bronte-poems-1846']],
   ['./autores/marlowe/tamburlaine/', ['marlowe-tamburlaine-1']],
   ['./autores/plauto/aulularia/', ['plauto-aulularia']],
   ['https://ignacioaragues.github.io/shakespeare-edicion-viva/', ['shakespeare-coriolanus']],

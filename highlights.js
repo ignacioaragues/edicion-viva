@@ -8,6 +8,7 @@
   const workId = document.body.dataset.readingId || '';
   const workTitle = document.body.dataset.readingTitle || document.title;
   const workLinks = {
+    'bronte-poems-1846': '/edicion-viva/autores/bronte/poems-1846/',
     'plauto-aulularia': '/edicion-viva/autores/plauto/aulularia/',
     'evangelios-marcos': '/edicion-viva/autores/evangelios/marcos/',
     'shakespeare-coriolanus': '/shakespeare-edicion-viva/',
