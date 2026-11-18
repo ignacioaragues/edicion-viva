@@ -14,7 +14,7 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 - **Índice:** 61 de 61 en orden original.
 - **Texto inglés:** primera transcripción de 61 de 61, publicada y legible; cotejo diplomático exhaustivo pendiente.
 - **Traducción española:** 61/61 poemas y 3.795/3.795 líneas alineadas, primera versión íntegra publicada. Revisión estilística y cotejo textual pendientes.
-- **Notas filológicas:** 28 notas de investigación verificables y con verso de referencia incorporadas a los poemas 1–5, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
+- **Notas filológicas:** 61 notas de investigación con referencias y versos concretos en los poemas 1–10, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
 - **Navegación y lectura:** índice filtrable sin alterar orden original, páginas por poema, anterior/siguiente, diseño adaptable, temporizador común, resaltados compatibles.
 
 ## Criterios editoriales
@@ -36,3 +36,12 @@ En el índice de la primera edición figura *The Student's Life*, p. 140, cuando
 - **5, Stars:** inversión día/noche, unidad cósmica y comparación con Novalis (Jingjing Zhao).
 
 Estas notas son **una primera pasada crítica**, no un cotejo diplomático definitivo. La existencia de una referencia académica no equivale a que todas sus lecturas estén demostradas; se identifican las propuestas y los desacuerdos.
+
+## Aparato académico: segunda tanda (poemas 6–10)
+- **6, The Philosopher (Emily):** seis notas sobre voces, deseo de aniquilación, tres dioses, simbolismo de los ríos, versificación y ausencia de resolución. Referencia principal: investigación *Silent in the light and speaking in the dark*; contraste con Janet Gezari.
+- **7, The Arbour (Anne):** seis notas sobre percepción de la naturaleza, aparente verano, nieve, helada y restricción interior; contraste de lecturas psicológicas y sociopolíticas. Referencias: Isobel Armstrong, edición posterior, investigación histórica.
+- **8, Home (Anne):** seis notas sobre hogar afectivo, paisaje y sonido del viento, además de relectura digital explícitamente identificada como contemporánea. Referencias: Kieran O’Halloran (2023), estudios sobre poesía doméstica victoriana.
+- **9, The Wife's Will (Charlotte):** siete notas sobre monólogo dramático, retorno del marido, deber, viaje y decisión de la esposa. Referencias: Paula Guimarães y Poetry Foundation.
+- **10, Remembrance (Emily):** ocho notas sobre su procedencia de Gondal, *R. Alcona to J. Brenzaida*, los quince inviernos, el olvido, el deseo de morir y la supervivencia. Referencias: Magdalena Pypeć, Janet Gezari, University of Toronto y EBSCO.
+
+**Balance de las tandas 1–2:** 61 notas (28 + 33) repartidas entre 10 poemas. Todas están ancladas a versos del inglés y tienen bibliografía navegable. Se conservan las 61 traducciones alineadas. Las hipótesis críticas están señaladas como tales y no sustituyen al testimonio impreso de 1846. El cotejo textual definitivo sigue pendiente.
