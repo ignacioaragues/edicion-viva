@@ -1696,12 +1696,26 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://jtauber.github.io/gothica/proiel/alignment/700.html"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 15,
+      "to": 15,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "23/23 fichas posicionales MorphGNT 6.12",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/7/15",
+        "https://tips.translation.bible/story/sil-translators-notes-on-mark-715/",
+        "https://www.jjmjs.org/uploads/1/1/9/0/11908749/van_maaren_-_does_marks_jesus_abrogate_torah.pdf"
+      ]
     }
   ],
   "pending": "Continuar en Marcos 7,15; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 15
+    "verse": 17
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3878,5 +3892,12 @@
     "morphology_audit": "12/12",
     "second_passage_review": "pending",
     "latin": "Clementina included"
+  },
+  "prepublication_research_7_15": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "23/23",
+    "second_passage_review": "pending",
+    "latin": "pending",
+    "textual_note": "7,16 absent in SBLGNT main text; included in apparatus discussion"
   }
 }
