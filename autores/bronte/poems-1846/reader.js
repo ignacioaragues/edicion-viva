@@ -30,7 +30,7 @@ function setFilter(author){
  $('#filter-description').textContent=author==='all'?'Orden original · 61 poemas':author+' · '+poems.filter(p=>p.author===author).length+' poemas';
 }
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>setFilter(b.dataset.author)));
-$('#toggle-index').addEventListener('click',()=>{const opened=document.body.classList.toggle('nav-open');$('#toggle-index').setAttribute('aria-expanded',String(opened))});
+$('#toggle-index').addEventListener('click',()=>{const opened=document.body.classList.toggle('nav-open');$('#toggle-index').setAttribute('aria-expanded',String(opened));if(opened)requestAnimationFrame(centerSelectedPoem)});
 /* Se anotan solo referencias y dificultades relevantes, no cada palabra inglesa. */
 const notes=window.BRONTE_READING_NOTES_1846||{};
 const commentaries=window.BRONTE_COMMENTARIES_1846||[];
