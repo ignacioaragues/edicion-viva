@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,54 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,55 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -253,9 +253,12 @@
     ,{"chapter":6,"n":52,"gr":"οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις, ἀλλʼ ἦν αὐτῶν ἡ καρδία πεπωρωμένη.","es":"Porque no habían comprendido lo sucedido con los panes, sino que tenían el corazón endurecido.","la":"","notes":["mc652loaves","mc652heart"]}
     ,{"chapter":6,"n":53,"gr":"Καὶ διαπεράσαντες ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρὲτ καὶ προσωρμίσθησαν.","es":"Después de atravesar el lago, llegaron a tierra, a Genesaret, y amarraron la barca.","la":"","notes":["mc653landing","mc653moor","mc653variant"]}
     ,{"chapter":6,"n":54,"gr":"καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν","es":"Y cuando salieron de la barca, enseguida lo reconocieron.","la":"","notes":["mc654genitive","mc654recognition"]}
+    ,{"chapter":6,"n":55,"gr":"περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.","es":"Recorrieron corriendo toda aquella región y empezaron a llevar en camillas a los enfermos adonde oían que él estaba.","la":"","notes":["mc655run","mc655beds"]}
   ];
 
   const notes = {
+    mc655run: ["La reacción de la comarca", "περιέδραμον, aoristo de περιτρέχω, describe el recorrido apresurado por toda la región. El verbo completa la construcción iniciada en 6,54: quienes reconocen a Jesús se movilizan. Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Marcos 6,54–55: https://biblia.com/bible/sblgnt/mark/6"],
+    mc655beds: ["Los enfermos en camillas", "κραβάττοις designa camillas o lechos portátiles; τοὺς κακῶς ἔχοντας significa idiomáticamente «los enfermos». El imperfecto ἤκουον encaja con las noticias que iban recibiendo sobre dónde estaba Jesús. No se especifican las enfermedades. Holmes (2010), Marcos 6,55: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; James K. Tauber (ed.), MorphGNT SBLGNT 6.12 (2017), Marcos 6,55: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"],
     mc654genitive: ["Una construcción absoluta", "ἐξελθόντων αὐτῶν es un genitivo absoluto temporal: «cuando ellos salieron». El participio ἐπιγνόντες, en nominativo plural, introduce a quienes reconocieron a Jesús, no necesariamente a los mismos que bajaron de la barca. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,54: https://old-tips.translation.bible/tip_verse/mark-654/"],
     mc654recognition: ["Reconocimiento inmediato", "εὐθὺς expresa inmediatez; ἐπιγνόντες (de ἐπιγινώσκω) señala que lo identificaron. La oración prosigue en 6,55, donde se cuenta la reacción de la gente: este versículo no constituye una oración independiente completa en el griego. Cambridge Greek Testament for Schools and Colleges, comentario a 6,54: https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php; SIL Translator’s Notes on Mark (2008), 6,54: https://tips.translation.bible/story/sil-translators-notes-on-mark-654/"],
     mc653landing: ["Genesaret y el itinerario", "Γεννησαρέτ designa el lugar de llegada, habitualmente identificado con la llanura de la orilla noroccidental del lago. El rumbo difiere de la indicación hacia Betsaida de 6,45; el relato no explica inequívocamente la desviación. E. P. Gould, A Critical and Exegetical Commentary on the Gospel according to St. Mark (ICC, 1896), comentario a 6,53: https://biblehub.com/commentaries/icc/mark/6.htm"],
