@@ -14,7 +14,7 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 - **Índice:** 61 de 61 en orden original.
 - **Texto inglés:** primera transcripción de 61 de 61, publicada y legible; cotejo diplomático exhaustivo pendiente.
 - **Traducción española:** 61/61 poemas y 3.795/3.795 líneas alineadas, primera versión íntegra publicada. Revisión estilística y cotejo textual pendientes.
-- **Notas filológicas:** 138 notas de investigación con referencias y versos concretos en los poemas 1–20, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
+- **Notas filológicas:** 167 notas de investigación con referencias y versos concretos en los poemas 1–25, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
 - **Navegación y lectura:** índice filtrable sin alterar orden original, páginas por poema, anterior/siguiente, diseño adaptable, temporizador común, resaltados compatibles.
 
 ## Criterios editoriales
@@ -63,3 +63,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **20, Gilbert (Charlotte):** 13 notas; tres movimientos narrativos, Elinor, crueldad y respetabilidad, alegoría de la Miseria, visión oceánica, espectro, juicio bíblico (Mateo 7:2 y Lucas 6:38), suicidio del protagonista. Referencias: Victor A. Neufeld, *The Poems of Charlotte Brontë: A New Text and Commentary*, estudio universitario sobre la venganza gótica y Poetry Foundation.
 
 **Balance de la cuarta tanda:** 43 notas nuevas (7+10+7+6+13). **Acumulado:** 138 notas en los primeros 20 poemas. El aparato crítico ofrece observaciones propias identificadas como lecturas, fuentes primarias y posiciones académicas específicas. Sigue pendiente el cotejo diplomático completo con todos los manuscritos y testimonios de 1846.
+
+## Aparato académico: quinta tanda (poemas 21–25)
+- **21, The Prisoner (Emily):** 6 notas sobre marco fragmentario, narrador y cautiva, Gondal, esperanza nocturna, percepción interior, retorno al cuerpo y sentencia celestial.
+- **22, If this be all (Anne):** 5 notas sobre plegaria condicional, trabajo subordinado, lucha moral interior, ajenjo y petición final alternativa.
+- **23, Life (Charlotte):** 6 notas sobre exhortación, lluvia y rosas, ritmo, muerte personificada, esperanza y lenguaje histórico del valor.
+- **24, Hope (Emily):** 5 notas sobre esperanza personificada, prisión, guardia infiel, tristeza y abandono final; contraste con el poema 21.
+- **25, Memory (Anne):** 7 notas sobre forma y rima, memoria y botánica, apóstrofe, diálogo crítico con Wordsworth e idealización de la infancia; referencia central: Ciara Glasscott, «Is Childhood Then so All-Divine?», *Brontë Studies* 48 (2023), 309–323, https://doi.org/10.1080/14748932.2023.2209606.
+
+**Balance:** 29 notas nuevas, **167 notas en 25 poemas**. Restan los poemas 26–61. Primera anotación crítica, no cotejo diplomático final. Las traducciones originales se conservan.
