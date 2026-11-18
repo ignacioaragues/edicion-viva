@@ -1724,5 +1724,88 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "19": {
+    "intro": "La despedida amorosa tiene un marco narrativo en los manuscritos de Anne: uno titula el poema Parting address from Z. L. to A. E. y conserva el nombre Zerona. En 1846 esas claves quedan fuera; el conflicto entre lealtad amorosa y familia se percibe como experiencia más abierta.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Oh, weep not",
+        "title": "Manuscrito y fecha",
+        "body": "La despedida de Zerona",
+        "kind": "C. K. Shorter (ed.), Stanzas: manuscrito y variantes",
+        "sources": [
+          {
+            "url": "La edición de Clement King Shorter registra el nombre Zerona, el título manuscrito Parting address from Z. L. to A. E. y la fecha 1 de octubre de 1845. El título genérico Stanzas de 1846 deja menos visible ese contexto ficcional.",
+            "label": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas"
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "phrase": "For MY sake",
+        "title": "Un consuelo que también exige",
+        "body": "El hablante pide a quien ama que proteja su propia vida por consideración a él o ella. El imperativo desplaza la emoción del dolor hacia una obligación recíproca: el amor es fidelidad, pero también capacidad de resistir.",
+        "kind": "Lectura textual",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Stanzas, primera edición de 1846"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "phrase": "Were 't not",
+        "title": "El exilio y la valentía",
+        "body": "La voz afirma que soportaría sin temor la separación prolongada, si no la inquietara la fragilidad de la persona amada. No se expone la causa del destierro; el título manuscrito permite situarlo como situación narrativa sin resolver su geografía.",
+        "kind": "Contexto narrativo",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas",
+            "label": "Edición de Shorter, Stanzas"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "I've steeled my mind",
+        "title": "Firmeza ante el dolor",
+        "body": "El endurecimiento de la voluntad coincide con una pérdida: deja la alegría con la persona amada mientras afronta los problemas con sus amigos. La entereza no se ofrece como ausencia de sufrimiento, sino como respuesta a él.",
+        "kind": "Interpretación",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Stanzas, texto original"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "phrase": "A mother's",
+        "title": "La desaprobación de los padres",
+        "body": "El poema sitúa la promesa de amor ante una madre triste y un padre airado. El contraste permite leer el conflicto entre obediencia familiar y fidelidad personal, aunque el texto de 1846 no especifique la historia completa.",
+        "kind": "Perspectivas de lectura",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas",
+            "label": "Stanzas, edición de Anne y contexto de Zerona"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "phrase": "fear not me",
+        "title": "Una variante significativa: fear / doubt",
+        "body": "Shorter anota que un manuscrito lee doubt donde la versión impresa tiene fear, y que ese manuscrito lleva el título Parting address from Z. L. to A. E. La diferencia altera el acto verbal: de «no me temas» a «no dudes de mí». El cotejo definitivo deberá precisar cuál lectura corresponde a cada testimonio.",
+        "kind": "Variante textual",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas",
+            "label": "Nota de variantes a Stanzas, Shorter"
+          }
+        ]
+      }
+    ]
   }
 };
