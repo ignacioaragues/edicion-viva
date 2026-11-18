@@ -267,41 +267,32 @@
     {
       "group": "sermones",
       "number": 12,
-      "section": "Sermo XII De Jejunio decimi mensis I, chapters I–II of IV",
-      "paragraphs": 11,
-      "translation": "partial original Spanish translation, chapters I–II",
-      "complete_work": false,
+      "section": "Sermo XII · De Jejunio decimi mensis I · capita I–IV",
+      "paragraphs": 21,
+      "translation": "complete original first-pass Spanish translation",
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xii/index.html",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "voice_notes": 11,
-      "editorial_caveat": "Source PL54 Wikisource and its apparatus consulted; chapters III–IV not translated. No word-by-word morphology yet. Transcription variants and biblical references need printed review."
+      "voice_notes": 21,
+      "editorial_caveat": "All four chapters aligned (21 units); full contextual token morphology and printed PL54 collation pending; browser QA pending. Wikisource transcription used with selected apparatus checks.",
+      "translation_complete": true
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 12,
-    "section": "caput III",
-    "incipit": "Cum ergo Deus bonos nos esse velit"
+    "number": 13,
+    "section": "caput I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-18: Sermo XII chapters I-II bilingual reader published, 11 aligned units and 11 rhetorical notes. Chapters III-IV and token morphology pending.",
+  "last_edit": "2026-11-18: Sermo XII first-pass bilingual translation completed, chapters III–IV added (21 aligned units total). Contextual morphology and printed collation pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 12,
-    "section": "caput III",
-    "status": "partial",
-    "completed_chapters": [
-      1,
-      2
-    ],
-    "pending_chapters": [
-      3,
-      4
-    ],
-    "aligned_units": 11
+    "number": 13,
+    "section": "caput I",
+    "status": "not_started"
   },
   "priority_queue": [
     {
