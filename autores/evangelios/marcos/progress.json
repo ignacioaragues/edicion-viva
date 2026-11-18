@@ -1683,12 +1683,25 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://www.bibliaplus.org/en/commentaries/272/college-press-bible-study-textbook-series/mark/7/9-13"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 14,
+      "to": 14,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "12/12 fichas posicionales MorphGNT 6.12",
+      "second_review": "pending",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://jtauber.github.io/gothica/proiel/alignment/700.html"
+      ]
     }
   ],
-  "pending": "Continuar en Marcos 7,13; segunda revisión filológica pendiente.",
+  "pending": "Continuar en Marcos 7,15; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 14
+    "verse": 15
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3859,5 +3872,11 @@
       "https://biblehub.com/mark/7-13.htm",
       "https://www.bibliaplus.org/en/commentaries/272/college-press-bible-study-textbook-series/mark/7/9-13"
     ]
+  },
+  "prepublication_research_7_14": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "12/12",
+    "second_passage_review": "pending",
+    "latin": "Clementina included"
   }
 }
