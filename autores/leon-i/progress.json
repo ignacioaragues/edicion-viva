@@ -149,7 +149,8 @@
       "translation": "chapter I first-pass original Spanish, incomplete letter",
       "complete_work": false,
       "reader_published": true,
-      "editorial_caveat": "Chapter I available to read; chapters II–IX and per-token morphology pending"
+      "editorial_caveat": "Chapter I available to read; chapters II–IX and per-token morphology pending",
+      "lexical_coverage": "93 first-pass surface-form lexical entries, not complete contextual token coverage"
     }
   ],
   "next": {
@@ -228,7 +229,7 @@
       "skip_after_completion": true,
       "work_file": "autores/leon-i/epistolae/epistola-x/EDITORIAL-DOSSIER.md",
       "source": "https://la.wikisource.org/wiki/Epistolae_(Leo_I)/1",
-      "next": "Epistola X bilingual text complete; contextual morphology and printed PL54 collation pending as later editorial pass. Priority Epistola XIV next.",
+      "next": "Epistola XIV is next priority. Epistola X: 93 first-pass surface-form lexical cards; full contextual token morphology and printed PL collation remain later reviews.",
       "recipient": "Bishops of the province of Vienne",
       "sender": "Leo, bishop of Rome",
       "translation_complete": true,
@@ -250,7 +251,8 @@
       "aligned_units": 37,
       "source_collation_complete": false,
       "complete_work": true,
-      "voice_notes": 11
+      "voice_notes": 11,
+      "lexicon_surface_forms": 93
     },
     {
       "group": "epistolae",
