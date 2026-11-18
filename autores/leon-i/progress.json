@@ -163,17 +163,17 @@
     {
       "group": "sermones",
       "number": 82,
-      "status": "partial_aligned_draft_not_in_reader",
+      "status": "partial_aligned_draft_morphology_first_pass_complete_not_in_reader",
       "skip_after_completion": true,
       "aligned_chapters": 7,
       "aligned_units": 18,
-      "morphology_complete": false,
+      "morphology_complete": true,
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Continue morphology at 82.17 (De quorum meritis atque virtutibus), then 82.18; printed PL collation and reader integration pending. 16/18 units, 828 token occurrences.",
-      "morphology_units_with_contextual_table": 16,
-      "morphology_token_occurrences": 828,
+      "next": "18/18 units have first-pass contextual morphology (913 occurrences). NEXT: collate all seven chapters against PL 54 printed edition and apparatus, correct readings and annotations, build/test aligned interactive reader; only then mark complete/published and advance to Epistola X.",
+      "morphology_units_with_contextual_table": 18,
+      "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
       "morphology_files": [
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -183,7 +183,9 @@
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-12.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-13.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-14-15.md",
-        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-16.md"
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-16.md",
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-17.md",
+        "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-18.md"
       ]
     },
     {
