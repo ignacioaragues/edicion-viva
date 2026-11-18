@@ -1,4 +1,4 @@
-/* Edición bilingüe provisional; capítulos I–IV. Fuente: Ballerini–Migne PL 54, transcripción Wikisource. Cotejo impreso y morfología completa pendientes. */
+/* Primera edición bilingüe íntegra de los seis capítulos. Texto base: Ballerini–Migne PL 54 (Wikisource); cotejo crítico impreso y morfología contextual pendientes. */
 window.LEO_EPISTOLA_XXVIII={
   "paragraphs": [
     {
@@ -210,6 +210,126 @@ window.LEO_EPISTOLA_XXVIII={
       "label": "IV · 9",
       "latin": "Quamvis enim in Domino Jesu Christo Dei et hominis una persona sit; aliud tamen est, unde in utroque communis est contumelia, aliud unde communis est gloria. De nostro enim illi est minor Patre humanitas; de Patre illi est aequalis cum Patre Divinitas.",
       "spanish": "Aunque en el Señor Jesucristo haya una sola persona de Dios y hombre, una cosa es aquello de donde procede la afrenta compartida por ambos, y otra aquello de donde procede su gloria común. Por lo nuestro tiene una humanidad inferior al Padre; del Padre posee una divinidad igual a la del Padre."
+    },
+    {
+      "id": "ep28-30",
+      "label": "V · 1",
+      "latin": "Propter hanc ergo unitatem personae in utraque natura intelligendam, et Filius hominis legitur descendisse de coelo, cum Filius Dei carnem de ea Virgine de qua est natus, assumpserit. Et rursus Filius Dei crucifixus dicitur ac sepultus, cum haec non in Divinitate ipsa, qua Unigenitus consempiternus et consubstantialis est Patri, sed in naturae humanae sit infirmitate perpessus.",
+      "spanish": "Por tanto, para comprender esta unidad de persona en ambas naturalezas, se lee que el Hijo del hombre descendió del cielo, aunque fue el Hijo de Dios quien asumió la carne de la Virgen de la que nació. Y, a la inversa, se dice que el Hijo de Dios fue crucificado y sepultado, aunque padeció tales cosas no en su divinidad, por la que el Unigénito es coeterno y consustancial al Padre, sino en la debilidad de su naturaleza humana."
+    },
+    {
+      "id": "ep28-31",
+      "label": "V · 2",
+      "latin": "Unde Unigenitum Filium Dei crucifixum et sepultum omnes etiam in Symbolo confitemur, secundum illud Apostoli: Si enim cognovissent, numquam Dominum majestatis crucifixissent (I Cor. ii, 8).",
+      "spanish": "Por eso todos confesamos también en el Símbolo que el Hijo unigénito de Dios fue crucificado y sepultado, conforme a las palabras del Apóstol: «Si lo hubieran conocido, jamás habrían crucificado al Señor de la gloria» (1 Co 2,8)."
+    },
+    {
+      "id": "ep28-32",
+      "label": "V · 3",
+      "latin": "Cum autem ipse Dominus noster atque Salvator fidem discipulorum suis interrogationibus erudiret, Quem me, inquit, dicunt homines esse Filium hominis? Cumque illi diversas aliorum opiniones retexuissent, Vos autem, ait, quem me esse dicitis? Me utique, qui sum Filius hominis, et quem in forma servi atque in veritate carnis aspicitis, quem me esse dicitis? Ubi B. Petrus divinitus inspiratus, et confessione sua omnibus gentibus profuturus, Tu es, inquit, Christus Filius Dei vivi (Matth. xvi, 16).",
+      "spanish": "Cuando nuestro Señor y Salvador instruía la fe de sus discípulos mediante preguntas, dijo: «¿Quién dicen los hombres que soy yo, el Hijo del hombre?». Después de que ellos expusieran las diversas opiniones, preguntó: «Y ustedes, ¿quién dicen que soy?». Es decir: a mí, que soy el Hijo del hombre, a quien ven bajo la condición de siervo y en carne verdadera, ¿quién dicen que soy? Entonces el bienaventurado Pedro, inspirado por Dios y destinado a beneficiar a todas las naciones con su confesión, respondió: «Tú eres el Cristo, el Hijo de Dios vivo» (Mt 16,16)."
+    },
+    {
+      "id": "ep28-33",
+      "label": "V · 4",
+      "latin": "Nec immerito beatus est pronuntiatus a Domino, et a principali petra soliditatem et virtutis traxit et nominis, qui per revelationem Patris eumdem et Dei Filium est confessus et Christum: quia unum horum sine alio receptum non proderat ad salutem; et aequalis erat periculi Dominum Jesum Christum aut Deum tantummodo sine homine, aut sine Deo solum hominem credidisse.",
+      "spanish": "Y no sin motivo fue declarado bienaventurado por el Señor y recibió de la piedra principal la firmeza tanto de su virtud como de su nombre: por revelación del Padre confesó que uno mismo es Hijo de Dios y Cristo. Porque aceptar una cosa sin la otra no serviría para la salvación: era igualmente peligroso creer que Jesucristo, el Señor, era solo Dios sin ser hombre o solamente hombre sin ser Dios.",
+      "note": [
+        "Pedro y la autoridad interpretativa",
+        "León vincula la confesión de Pedro con la unidad de Cristo; la figura petrina sirve aquí para fijar el contenido de la fe, no simplemente para invocar jurisdicción."
+      ]
+    },
+    {
+      "id": "ep28-34",
+      "label": "V · 5",
+      "latin": "Post resurrectionem vero Domini (quae utique veri corporis fuit, quia non alter est resuscitatus, quam qui fuerat crucifixus et mortuus) quid aliud quadraginta dierum mora gestum est, quam ut fidei nostrae integritas ab omni caligine mundaretur? Colloquens enim cum discipulis suis, et cohabitans atque convescens (Act. i, 4), et pertractari se diligenti curiosoque contactu ab eis, quos dubietas perstringebat, admittens, ideo et clausis ad discipulos januis introibat, et flatu suo dabat Spiritum sanctum (Joan. xx, 22), et donato intelligentiae lumine, sanctarum Scripturarum occulta pandebat; et rursus idem vulnus lateris (Ibid.), fixuras clavorum et omnia recentissimae passionis signa monstrabat, dicens: Videte manus meas et pedes, quia ego sum. Palpate et videte, quia spiritus carnem et ossa non habet, sicut me videtis habere (Luc. xxiv, 39); ut agnosceretur in eo proprietas divinae humanaeque naturae individua permanere; et ita sciremus Verbum non hoc esse quod carnem, ut unum Dei Filium et Verbum confiteremur et carnem. Quo fidei sacramento Eutyches iste nimium aestimandus est vacuus, qui naturam nostram in Unigenito Dei, nec per humilitatem mortalitatis, nec per gloriam resurrectionis agnovit.",
+      "spanish": "Después de la resurrección del Señor —resurrección de un cuerpo verdadero, pues no resucitó otro distinto del crucificado y muerto—, ¿qué se hizo durante aquellos cuarenta días sino purificar nuestra fe de toda oscuridad? Conversaba, convivía y comía con sus discípulos (Hch 1,4); permitía que lo examinaran mediante un contacto atento y minucioso quienes todavía dudaban; entraba con las puertas cerradas, comunicaba el Espíritu Santo con su aliento (Jn 20,22) y, al iluminar su entendimiento, les descubría lo oculto de las Escrituras. Y a la vez les mostraba la herida del costado, las marcas de los clavos y todas las señales de su reciente pasión: «Miren mis manos y mis pies: soy yo. Tóquenme y vean: un espíritu no tiene carne ni huesos, como ven que yo tengo» (Lc 24,39). Así debía reconocerse que permanecen inseparables en él las propiedades de la naturaleza divina y la humana, y entender que el Verbo no es lo mismo que la carne, aunque confesemos un solo Hijo de Dios, Verbo y carne. De este misterio de fe debe considerarse muy alejado Eutiques, que no reconoció nuestra naturaleza en el Unigénito de Dios ni en la humildad de su mortalidad ni en la gloria de su resurrección."
+    },
+    {
+      "id": "ep28-35",
+      "label": "V · 6",
+      "latin": "Nec sententiam beati apostoli et evangelistae Joannis expavit dicentis: Omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est: et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est Antichristus (I Joan. iv, 1). Quid autem est solvere Jesum, nisi humanam ab eo separare naturam et sacramentum, per quod unum salvati sumus, impudentissimis evacuare figmentis? Caligans vero circa naturam corporis Christi, necesse est ut etiam in passione ejus eadem obcaecatione desipiat.",
+      "spanish": "Tampoco temió la sentencia del bienaventurado apóstol y evangelista Juan: «Todo espíritu que confiesa que Jesucristo vino en carne procede de Dios; y todo espíritu que disuelve a Jesús no procede de Dios: ese es el Anticristo» (cf. 1 Jn 4,2–3). ¿Qué significa disolver a Jesús sino separarle la naturaleza humana y vaciar con ficciones descaradísimas el misterio por el cual fuimos salvados? Quien permanece a oscuras acerca de la naturaleza del cuerpo de Cristo necesariamente desvaría también sobre su pasión por la misma ceguera.",
+      "note": [
+        "Solvere Jesum",
+        "El verbo solvere presenta el error como una descomposición de la identidad de Cristo; la pregunta retórica convierte una fórmula bíblica en acusación."
+      ]
+    },
+    {
+      "id": "ep28-36",
+      "label": "V · 7",
+      "latin": "Nam si crucem Domini non putat falsam, et susceptum pro mundi salute supplicium verum fuisse non dubitat; cujus credit mortem, agnoscat et carnem: nec diffiteatur nostri corporis hominem, quem cognoscit fuisse passibilem; quoniam negatio verae carnis, negatio est etiam corporeae passionis.",
+      "spanish": "Pues si no considera falsa la cruz del Señor y no duda de que el suplicio asumido para salvar al mundo fue real, reconozca también la carne de aquel cuya muerte cree. No niegue que tenía un cuerpo como el nuestro aquel de quien sabe que pudo padecer, porque negar la carne verdadera equivale a negar también la pasión corporal."
+    },
+    {
+      "id": "ep28-37",
+      "label": "V · 8",
+      "latin": "Si ergo Christianam suscipit fidem, et a praedicatione Evangelii suum non avertit auditum; videat quae natura transfixa clavis pependerit in crucis ligno, et aperto per militis lanceam latere crucifixi, intelligat unde sanguis et aqua fluxerit, ut Ecclesia Dei et lavacro rigaretur et poculo. Audiat et beatum Petrum apostolum praedicantem, quod sanctificatio Spiritus per aspersionem fiat sanguinis Christi.",
+      "spanish": "Si acepta, por tanto, la fe cristiana y no aparta sus oídos de la predicación evangélica, que vea qué naturaleza estuvo suspendida del madero de la cruz, atravesada por clavos, y que comprenda de dónde brotaron sangre y agua al abrir el soldado con su lanza el costado del crucificado, para que la Iglesia de Dios fuese regada con el baño y con la bebida. Que escuche también al bienaventurado apóstol Pedro, que predica que la santificación del Espíritu se realiza mediante la aspersión de la sangre de Cristo."
+    },
+    {
+      "id": "ep28-38",
+      "label": "V · 9",
+      "latin": "Nec transitorie legat ejusdem apostoli verba dicentis: Scientes, quod non corruptibilibus argento et auro redempti estis de vana vestra conversatione paternae traditionis, sed pretioso sanguine quasi agni incontaminati et immaculati Jesu Christi (I Petr. i, 18). Beati quoque Joannis apostoli testimonio non resistat, dicens: Et sanguis Jesu Filii Dei emundat nos ab omni peccato (I Joan. i, 7). Et iterum: Haec est victoria quae vincit mundum, fides nostra (I Joan. v, 4).",
+      "spanish": "Y que no lea superficialmente las palabras del mismo apóstol: «Sepan que no fueron rescatados de la vana conducta heredada de sus padres mediante bienes perecederos, plata u oro, sino mediante la sangre preciosa de Jesucristo, como la de un cordero sin mancha ni defecto» (1 Pe 1,18–19). Tampoco se oponga al testimonio del bienaventurado apóstol Juan: «La sangre de Jesús, Hijo de Dios, nos limpia de todo pecado» (1 Jn 1,7). Y también: «Esta es la victoria que vence al mundo: nuestra fe» (1 Jn 5,4)."
+    },
+    {
+      "id": "ep28-39",
+      "label": "V · 10",
+      "latin": "Et: Quis est qui vincit mundum, nisi qui credit, quoniam Jesus est Filius Dei? Hic est qui venit per aquam et sanguinem, Jesus Christus; non in aqua solum, sed in aqua et sanguine. Et spiritus est, qui testificatur, quoniam spiritus est veritas. Quia tres sunt, qui testimonium dant, spiritus, aqua, et sanguis, et tres unum sunt.",
+      "spanish": "Y: «¿Quién vence al mundo sino quien cree que Jesús es el Hijo de Dios? Este es Jesucristo, que vino por el agua y la sangre; no solo por el agua, sino por el agua y la sangre. Y el Espíritu da testimonio, porque el Espíritu es la verdad. Tres son los que dan testimonio: el Espíritu, el agua y la sangre, y los tres son uno».",
+      "note": [
+        "Testimonio triple",
+        "La formulación transmitida de 1 Jn 5,6–8 exige cotejo de la tradición latina y de sus variantes; no debe confundirse automáticamente con las formas posteriores del llamado comma Johanneum."
+      ]
+    },
+    {
+      "id": "ep28-40",
+      "label": "V · 11",
+      "latin": "Spiritus utique sanctificationis, et sanguis redemptionis, et aqua baptismatis: quae tria unum sunt, et individua manent, nihilque eorum a sui connexione sejungitur; quia catholica Ecclesia hac fide vivit, hac proficit, ut in Christo Jesu nec sine vera Divinitate humanitas, nec sine vera credatur humanitate Divinitas.",
+      "spanish": "Se trata, ciertamente, del Espíritu de la santificación, de la sangre de la redención y del agua del bautismo: los tres son uno y permanecen inseparables, sin que ninguno se aparte de su unión. Porque la Iglesia católica vive y progresa en esta fe: que en Jesucristo no se crea en una humanidad sin verdadera divinidad ni en una divinidad sin verdadera humanidad."
+    },
+    {
+      "id": "ep28-41",
+      "label": "VI · 1",
+      "latin": "Cum autem ad interlocutionem examinis vestri Eutyches responderit, dicens: Confiteor ex duabus naturis fuisse Dominum nostrum ante adunationem; post adunationem vero unam naturam confiteor: miror tam absurdam tamque perversam ejus professionem nulla judicantium increpatione reprehensam, et sermonem nimis insipientem nimisque blasphemum, ita omissum, quasi nihil quod offenderet esset auditum; cum tam impie duarum naturarum ante incarnationem unigenitus Dei Filius fuisse dicatur, quam nefarie postquam Verbum caro factum est, natura in eo singularis asseritur.",
+      "spanish": "Cuando Eutiques respondió durante el interrogatorio de ustedes: «Confieso que nuestro Señor era de dos naturalezas antes de la unión; pero después de la unión confieso una sola naturaleza», me sorprende que una profesión tan absurda y perversa no recibiera reprensión alguna de los jueces, y que se dejara pasar una afirmación tan insensata y blasfema como si no se hubiera oído nada ofensivo. Pues es tan impío afirmar que el Hijo unigénito de Dios poseía dos naturalezas antes de la encarnación como sacrílego sostener que, después de hacerse carne el Verbo, existe en él una sola naturaleza.",
+      "note": [
+        "Reproche a los jueces",
+        "El miror dirige la censura también a quienes presidieron el examen: León exige vigilancia doctrinal de sus interlocutores institucionales."
+      ]
+    },
+    {
+      "id": "ep28-42",
+      "label": "VI · 2",
+      "latin": "Quod ne Eutyches ideo vel recte vel tolerabiliter aestimet dictum, quia nulla vestra est sententia confutatum, sollicitudinis tuae diligentiam commonemus, frater charissime, ut si per inspirationem misericordiae Dei ad satisfactionem causa perducitur; imprudentia hominis imperiti etiam ab hac sensus sui peste purgetur.",
+      "spanish": "Para que Eutiques no considere correcto o siquiera tolerable lo que dijo por el hecho de que ninguna sentencia de ustedes lo refutó, exhortamos a tu diligente solicitud, queridísimo hermano, a que, si por inspiración de la misericordia divina el asunto llega a una reparación satisfactoria, la imprudencia de este hombre ignorante quede purificada también de semejante enfermedad de su pensamiento."
+    },
+    {
+      "id": "ep28-43",
+      "label": "VI · 3",
+      "latin": "Qui quidem, sicut gestorum ordo patefecit, bene coeperat a sua persuasione discedere, cum vestra sententia coarctatus profiteretur se dicere quod ante non dixerat, et ei fidei acquiescere cujus prius fuisset alienus. Sed cum anathematizando impio dogmati noluisset praebere consensum, intellexit eum fraternitas vestra in sua manere perfidia, dignumque esse qui judicium condemnationis exciperet.",
+      "spanish": "En efecto, como mostró el orden de las actas, había empezado bien a apartarse de su convicción cuando, apremiado por la sentencia de ustedes, declaró que decía lo que antes no había dicho y aceptaba una fe de la que hasta entonces había estado alejado. Pero, como se negó a consentir en condenar con anatema la doctrina impía, tu fraternidad comprendió que persistía en su error y que merecía recibir una sentencia condenatoria."
+    },
+    {
+      "id": "ep28-44",
+      "label": "VI · 4",
+      "latin": "De quo si fideliter atque utiliter dolet, et quam recte mota sit episcopalis auctoritas vel sero cognoscit; vel si ad satisfactionis plenitudinem omnia quae ab eo male sunt sensa viva voce et praesenti subscriptione damnaverit, non erit reprehensibilis erga correctum quantacumque miseratio: quia Dominus noster verus et bonus pastor, qui animam suam posuit pro ovibus suis (Joan. x, 11), et qui venit animas hominum salvare, non perdere (Luc. ix, 56), imitatores nos suae vult esse pietatis: ut peccantes quidem justitia coerceat, conversos autem misericordia non repellat. Tunc enim demum fructuosissime fides vera defenditur, quando etiam a sectatoribus suis opinio falsa damnatur.",
+      "spanish": "Si se arrepiente de ello sincera y provechosamente y reconoce, aunque tarde, cuán justamente intervino la autoridad episcopal, o si para completar su reparación condena de viva voz y mediante firma presencial todo cuanto pensó equivocadamente, no será censurable ninguna misericordia, por grande que sea, hacia quien se haya corregido. Porque nuestro Señor, pastor verdadero y bueno, que dio su vida por sus ovejas (Jn 10,11) y vino a salvar las vidas humanas, no a destruirlas (Lc 9,56), quiere que imitemos su bondad: que la justicia contenga a los que pecan, pero que la misericordia no rechace a los convertidos. Solo entonces se defiende con el mayor fruto la verdadera fe: cuando también quienes seguían una opinión falsa la condenan.",
+      "note": [
+        "Justicia y misericordia",
+        "La oposición justitia coerceat / misericordia non repellat limita la coerción con una vía explícita de reintegración; la autoridad se representa como correctiva, no irrevocablemente punitiva."
+      ]
+    },
+    {
+      "id": "ep28-45",
+      "label": "VI · 5",
+      "latin": "Ad omnem vero causam pie ac fideliter exsequendam, fratres nostros Julium episcopum et Renatum presbyterum tituli sancti Clementis, sed et filium meum Hilarum diaconem vice nostra direximus. Quibus Dulcitium notarium nostrum, cujus fides nobis est probata, sociavimus: confidentes adfuturum Divinitatis auxilium, ut is qui erraverat, damnata sensus sui pravitate, salvetur. Deus te incolumem custodiat, frater charissime. Data idibus Junii, Asturio et Protogene viris clarissimis consulibus.",
+      "spanish": "Para llevar adelante todo el asunto con piedad y fidelidad, enviamos en nuestro nombre a nuestros hermanos Julio, obispo, y Renato, presbítero del título de San Clemente, así como a mi hijo, el diácono Hilario. Les asociamos a Dulcicio, nuestro notario, cuya fidelidad nos consta, confiando en que llegará la ayuda divina para que aquel que erró se salve después de condenar la perversidad de sus opiniones. Que Dios te conserve sano y salvo, queridísimo hermano. Dada en los idus de junio, siendo cónsules los ilustres Asturio y Protogeno.",
+      "note": [
+        "La voz se vuelve administrativa",
+        "El cierre pasa de la argumentación teológica al envío nominal de delegados, sin abandonar el objetivo declarado de recuperación del disidente."
+      ]
     }
   ],
   "lexicon": {
