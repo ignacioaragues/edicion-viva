@@ -299,3 +299,8 @@
 - Glosas de «Hyades», «Cimmerian clouds», Austro y Aquilón, «tilt» como justa, «sounds the main» como medir la profundidad, «working tools» como instrumentos amenazantes y «triple-worthy» como intensificación de mérito.
 - Lectura escénica: el acto de Agidas ocurre bajo amenaza y no se interpreta como una elección libre o ejemplar. Su muerte ocurre tras el verso 106; las intervenciones posteriores de Tequeles y Usumcasane siguen en el tramo revisado.
 - Se agrega `philology-22.js` en carga anterior al lector, sin alterar los originales ingleses, numeración, acotaciones ni navegación.
+
+## Cuadragésima quinta pasada filológica (18-11-2026)
+- **50 unidades consecutivas**: Parte I V1-414–463. Acumulado **2.244/4.641 (48,4 %)**. Sigue V1-464–513.
+- **22 traducciones revisadas**, 28 conservadas; **12 notas** y **2 fichas**. Cotejo con Lukacs 2020, V.ii.423–482, pp. 92–93. 1590 directo y QA navegador pendientes.
+- Se preservan el inglés, los IDs, la numeración, las acotaciones y la navegación por escenas. La capa nueva verifica coincidencia literal antes de aplicar cambios.
