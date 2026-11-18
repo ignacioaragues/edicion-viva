@@ -1493,5 +1493,140 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "17": {
+    "intro": "El largo monólogo de una mujer abandonada avanza desde el encierro y la fantasía de muerte hacia una decisión de actuar y viajar. Su desarrollo no es lineal: el deseo amoroso reaparece incluso después del impulso de independencia.",
+    "notes": [
+      {
+        "line": 8,
+        "phrase": "Eumenides",
+        "title": "Las Euménides como perseguidoras",
+        "body": "Las Euménides son un nombre de las Erinias o Furias griegas. El sufrimiento se convierte metafóricamente en perseguidor exterior. No prueba culpa moral real del personaje, sino que dramatiza la intensidad de la aflicción.",
+        "kind": "Alusión clásica",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, edición de 1846"
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "phrase": "Unloved--I love",
+        "title": "Las antítesis del amor desigual",
+        "body": "La serie de oposiciones, amar sin ser amada y llorar sin despertar lágrimas, condensa la asimetría sentimental. La forma de monólogo dramático permite leer una voz construida, no una confesión directa de Charlotte.",
+        "kind": "Retórica",
+        "sources": [
+          {
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions",
+            "label": "Guimarães, Charlotte Brontë y el monólogo dramático"
+          }
+        ]
+      },
+      {
+        "line": 61,
+        "phrase": "the universe is dumb",
+        "title": "Un mundo encerrado en una sola mente",
+        "body": "El mundo parece mudo, sordo y ciego, y enseguida la mente se describe como una celda. El cierre deshará esa reducción del espacio: existir no equivale a quedarse en una habitación.",
+        "kind": "Estructura y espacio",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, versos 61–68"
+          }
+        ]
+      },
+      {
+        "line": 97,
+        "phrase": "love without lust",
+        "title": "La posibilidad de un amor sin posesión",
+        "body": "Al imaginar la vida venidera, la hablante pregunta por un amor sin lujuria, miedo, lágrimas ni desigualdad. El pasaje permite una lectura espiritual y otra crítica de los vínculos terrenales; ninguna excluye a la otra.",
+        "kind": "Religión y género",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, versos 93–104"
+          }
+        ]
+      },
+      {
+        "line": 141,
+        "phrase": "cup of joy",
+        "title": "La copa que se vacía lentamente",
+        "body": "El amor no se derrumba de golpe: la copa llena se vacía gota a gota. La imagen anticipa el carácter gradual e incomprensible del abandono, cuya causa la protagonista nunca logra identificar.",
+        "kind": "Imagen poética",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, versos 141–168"
+          }
+        ]
+      },
+      {
+        "line": 185,
+        "phrase": "blank inertion",
+        "title": "La vuelta de la energía",
+        "body": "Al rechazar la inercia, la mujer descubre una fuerza que puede dedicar a viajar y trabajar. Guimarães interpreta Frances entre los monólogos de Charlotte donde una voz femenina se transforma a través de la acción.",
+        "kind": "Lectura académica",
+        "sources": [
+          {
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions",
+            "label": "Guimarães, estudio de Frances y agencia femenina"
+          }
+        ]
+      },
+      {
+        "line": 197,
+        "phrase": "world is not",
+        "title": "La torre ya no define el mundo",
+        "body": "La negación del encierro invierte la primera parte del texto: el universo no está preso de la torre donde vivía. Un cambio de perspectiva espacial se convierte en condición de un proyecto nuevo.",
+        "kind": "Punto de inflexión",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, versos 193–208"
+          }
+        ]
+      },
+      {
+        "line": 217,
+        "phrase": "we might meet",
+        "title": "La recaída en la esperanza amorosa",
+        "body": "Incluso después de planificar la partida, imagina un encuentro con el amado. La esperanza se revoca de inmediato como engañosa; esta oscilación evita simplificar el poema como una victoria psicológica instantánea.",
+        "kind": "Ambivalencia",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Frances, versos 217–224"
+          }
+        ]
+      },
+      {
+        "line": 227,
+        "phrase": "self-reliance",
+        "title": "Dios y la confianza en sí misma",
+        "body": "La protagonista pide auxilio a Dios y a su propia capacidad de sostenerse. La investigación sobre el monólogo dramático en Charlotte permite leer juntos fe y agencia femenina, sin afirmar una influencia probada de teorías de autoayuda posteriores.",
+        "kind": "Concepto y debate",
+        "sources": [
+          {
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions",
+            "label": "Guimarães, emancipación y voces dramáticas"
+          }
+        ]
+      },
+      {
+        "line": 229,
+        "phrase": "Morn comes",
+        "title": "El amanecer se convierte en decisión",
+        "body": "La última promesa es verificable dentro de la ficción: antes del mediodía se alejará muchos kilómetros. La meditación nocturna concluye con movilidad y acción, no con un reencuentro romántico.",
+        "kind": "Estructura narrativa",
+        "sources": [
+          {
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte",
+            "label": "Poetry Foundation, conexiones de Frances con otros poemas de Charlotte"
+          }
+        ]
+      }
+    ]
   }
 };
