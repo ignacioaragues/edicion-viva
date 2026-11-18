@@ -339,3 +339,8 @@
 - **50 unidades**: Parte II I.2.64–78 (15) y I.3.1–35 (35). Acumulado **2.594/4.641 (55,9 %)**. Sigue Parte II I.3.36–85.
 - **35 correcciones**, **13 notas** y **2 fichas**. Cotejo de inglés con transcripción de texto temprano en Mercaba, acto I, escenas 2–3. Sin inspección facsimilar directa ni QA navegador.
 - Inglés, IDs, numeración, acotaciones y navegación sin alteraciones. Capa condicionada a coincidencia literal del inglés.
+
+## Quincuagésima tercera pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.3.36–85. Acumulado **2.644/4.641 (57,0 %)**. Sigue Parte II I.3.86–135.
+- **31 traducciones corregidas**, 19 conservadas; **12 notas** y **2 fichas**. Revisión interna del inglés base de text.js; cotejo externo no completado (Gutenberg 503), facsímil 1590 y QA navegador pendientes.
+- Inglés, IDs, numeración y navegación sin modificaciones; capa condicionada a coincidencia literal del inglés.

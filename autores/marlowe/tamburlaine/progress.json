@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2594,
+    "reviewedUnits": 2644,
     "reviewed": [
       {
         "part": 1,
@@ -994,26 +994,34 @@
         "start": 1,
         "end": 35,
         "count": 35
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 3,
+        "start": 36,
+        "end": 85,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II I.2.64–78 (15) y I.3.1–35 (35)",
+      "scope": "Parte II I.3.36–85",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 35,
-      "newNotes": 13,
+      "translationLinesRevised": 31,
+      "newNotes": 12,
       "readingCardsAdded": 2,
-      "mode": "philology-52.js; cotejo con transcripción de texto temprano; facsímil y QA navegador pendientes",
+      "mode": "philology-53.js; revisión contra texto base; cotejo externo y QA navegador pendientes",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine Part II, transcripción de texto temprano, acto I, escenas 2–3, https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm (consultado 18-11-2026; transcripción, no facsímil)"
+        "Christopher Marlowe, Tamburlaine the Great, Part II, I.3.36–85, texto inglés base del repositorio Edición Viva (derivado de la edición Dyce / Project Gutenberg, según cabecera de text.js). Sin cotejo externo verificable en esta ejecución."
       ]
     },
     "next": {
       "part": 2,
       "act": 1,
       "scene": 3,
-      "line": 36
+      "line": 86
     }
   }
 }
