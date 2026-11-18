@@ -657,5 +657,230 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "9": {
+    "intro": "Charlotte construye el retorno del marido como un monólogo pronunciado por una esposa que exige compartir su destino. Entre la entrega conyugal y la búsqueda de acción propia, el texto permite una lectura sobre autonomía femenina y convención sentimental.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Sit still",
+        "kind": "Voz dramática",
+        "title": "Un diálogo del que solo oímos una voz",
+        "body": "La hablante pide silencio y protección de la calma doméstica. El esposo está presente, pero sus intervenciones no se reproducen directamente: las conocemos por las respuestas de ella. Esta forma de monólogo dramático es decisiva para leer su transformación.",
+        "sources": [
+          {
+            "label": "Estudio sobre Charlotte y el monólogo dramático",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "phrase": "thy own wife",
+        "kind": "Perspectiva de género",
+        "title": "La mujer toma la palabra",
+        "body": "La esposa aparece como sujeto del relato y de las decisiones, no solo como figura que aguarda el regreso del hombre. La crítica ha vinculado el monólogo a procesos de emancipación y cambio dentro del universo de Charlotte.",
+        "sources": [
+          {
+            "label": "Estudio sobre emancipación en The Wife’s Will",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "phrase": "severed by the main",
+        "kind": "Motivo literario",
+        "title": "Otra separación por mar",
+        "body": "La salida parece restaurar el hogar hasta que se anuncia una nueva partida por mar. Poetry Foundation señala que Charlotte adaptó poemas antiguos para el público de 1846 y empleó motivos reconocibles, como el regreso del viajero o marino en The Wife’s Will.",
+        "sources": [
+          {
+            "label": "Poetry Foundation, Charlotte Brontë y la reescritura de sus poemas",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "phrase": "Duty commands",
+        "kind": "Tensión moral",
+        "title": "El deber de William y la decisión de su esposa",
+        "body": "La mujer no intenta impedir el viaje justificado por el deber, pero tampoco acepta quedarse. Es posible leer la escena como confirmación de la autoridad marital o, alternativamente, como apropiación femenina de la acción dentro de esa autoridad.",
+        "sources": [
+          {
+            "label": "Lectura del monólogo y de la emancipación femenina",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "phrase": "with thee I go",
+        "kind": "Giro argumental",
+        "title": "Una voluntad que cambia el destino",
+        "body": "El juramento cierra el conflicto de la obediencia pasiva: si él debe irse, ella irá con él. En la lectura de Paula Guimarães, este gesto pertenece a un conjunto de monólogos donde los personajes de Charlotte buscan transformar su situación.",
+        "sources": [
+          {
+            "label": "Paula Guimarães, estudio sobre monólogos y transformación",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "phrase": "Passive, at home",
+        "kind": "Debate interpretativo",
+        "title": "De esperar a compartir los riesgos",
+        "body": "La hablante rechaza explícitamente permanecer pasiva en casa y decide compartir fatigas y peligros. El poema puede entenderse como fantasía de igualdad práctica en el matrimonio, aunque la acción siga condicionada por la trayectoria del esposo.",
+        "sources": [
+          {
+            "label": "Estudio sobre The Wife’s Will y la agencia femenina",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      },
+      {
+        "line": 59,
+        "phrase": "fate admits my soul's decree",
+        "kind": "Lectura de cierre",
+        "title": "¿Triunfa su decisión?",
+        "body": "El final declara que el destino ha admitido el decreto de su alma: el lenguaje de la providencia se subordina por un momento a la voluntad de la mujer. Es una lectura posible del desenlace, sin convertirlo en testimonio biográfico de Charlotte.",
+        "sources": [
+          {
+            "label": "The Wife’s Will, texto publicado en 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Crítica del monólogo dramático en Charlotte",
+            "url": "https://www.academia.edu/171058834/Charlotte_Bront%C3%AB_and_the_dramatic_monologue_tracing_the_emergence_of_the_woman_poet_in_the_development_of_a_dramatic_poetics_of_the_self_and_its_fictions"
+          }
+        ]
+      }
+    ]
+  },
+  "10": {
+    "intro": "Remembrance fue publicado en 1846 bajo un título que disimula su ubicación previa en el universo imaginario de Gondal. Las interpretaciones académicas enfrentan duelo, fidelidad, tiempo y la disciplina de seguir viviendo: la voz del poema no debe confundirse automáticamente con Emily.",
+    "notes": [
+      {
+        "line": 2,
+        "phrase": "dreary grave",
+        "kind": "Historia de composición",
+        "title": "De Gondal a la antología de 1846",
+        "body": "El poema circulaba en el manuscrito de Gondal como R. Alcona to J. Brenzaida; la edición de 1846 lo presentó como Remembrance. La figura que habla puede identificarse dentro de aquella ficción, no solo como una supuesta Emily autobiográfica.",
+        "sources": [
+          {
+            "label": "Magdalena Pypeć, Taking a Stand on Remembrance",
+            "url": "https://acta.wn.uw.edu.pl/api/files/view/1830015.pdf"
+          },
+          {
+            "label": "Janet Gezari, Last Things, manuscritos y ediciones",
+            "url": "https://blog.oup.com/2008/05/last_things/"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "phrase": "fifteen wild Decembers",
+        "kind": "Contexto narrativo",
+        "title": "Quince inviernos: tiempo de una ficción",
+        "body": "El intervalo de quince diciembres pertenece al relato del poema. En la lectura de Pypeć, Rosina Alcona recuerda a Julius Brenzaida, muerto quince años antes dentro del mundo de Gondal. La cifra no debe tomarse como dato directo de la vida sentimental de Emily.",
+        "sources": [
+          {
+            "label": "Magdalena Pypeć, Rosina Alcona y Julius Brenzaida",
+            "url": "https://acta.wn.uw.edu.pl/api/files/view/1830015.pdf"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "phrase": "forgive, if I forget thee",
+        "kind": "Paradoja lírica",
+        "title": "Olvidar para continuar viviendo",
+        "body": "La petición de perdón no niega el afecto: los nuevos deseos oscurecen el recuerdo sin traicionarlo. La tensión entre memoria y vida presente impide interpretar el poema como una simple exhortación a olvidar.",
+        "sources": [
+          {
+            "label": "Remembrance, edición de University of Toronto",
+            "url": "https://rpo.library.utoronto.ca/content/remembrance"
+          },
+          {
+            "label": "EBSCO, panorama de la lírica de Emily",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "No later light",
+        "kind": "Lectura textual",
+        "title": "La vida no recupera la primera luz",
+        "body": "El yo afirma que ninguna experiencia posterior ha reemplazado la dicha asociada al ser amado. Pero la estrofa siguiente introduce un cambio: el hecho de no recuperar esa alegría no impide aprender a sostener la existencia.",
+        "sources": [
+          {
+            "label": "Remembrance, Representative Poetry Online",
+            "url": "https://rpo.library.utoronto.ca/content/remembrance"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "phrase": "existence could be cherished",
+        "kind": "Interpretación",
+        "title": "Aprender a vivir sin alegría",
+        "body": "El verso distingue una vida que aún puede valorarse de una vida feliz. La capacidad de vivir sin el auxilio de la alegría introduce una ética de resistencia y no una recuperación sentimental; el estudio de Pypeć sitúa esta tensión frente a convenciones victorianas del recuerdo.",
+        "sources": [
+          {
+            "label": "Magdalena Pypeć, Remembrance y los anuarios literarios victorianos",
+            "url": "https://acta.wn.uw.edu.pl/api/files/view/1830015.pdf"
+          },
+          {
+            "label": "Janet Gezari, Last Things, memoria y temporalidad",
+            "url": "https://blog.oup.com/2008/05/last_things/"
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "phrase": "burning wish",
+        "kind": "Lectura comparativa",
+        "title": "Resistir el deseo de morir",
+        "body": "La hablante confiesa que quiso apresurarse hacia la tumba, pero se impuso una prohibición. El poema contrapone impulso y disciplina: esa resistencia permite una lectura sobre la autodeterminación, sin reducir la muerte a un mero recurso romántico.",
+        "sources": [
+          {
+            "label": "Remembrance, texto y estructura del poema",
+            "url": "https://rpo.library.utoronto.ca/content/remembrance"
+          },
+          {
+            "label": "EBSCO, lectura de la contención del deseo",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte"
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "phrase": "memory's rapturous pain",
+        "kind": "Historia cultural y recepción",
+        "title": "El dolor que también seduce",
+        "body": "La memoria ofrece un placer intenso que amenaza con apartar a la hablante del mundo cotidiano. Pypeć relaciona el poema con los anuarios literarios victorianos y su cultura del duelo y las reliquias; considera que dialoga con esas convenciones sin aceptarlas enteramente.",
+        "sources": [
+          {
+            "label": "Magdalena Pypeć, Taking a Stand on Remembrance",
+            "url": "https://acta.wn.uw.edu.pl/api/files/view/1830015.pdf"
+          }
+        ]
+      },
+      {
+        "line": 32,
+        "phrase": "empty world again",
+        "kind": "Final abierto",
+        "title": "¿Regreso posible al mundo?",
+        "body": "El cierre se formula como pregunta: después de entregarse a la memoria, ¿cómo volver a un mundo vacío? No presenta una curación concluida. Janet Gezari destaca la frecuente resistencia de los poemas de Emily a un final inequívoco.",
+        "sources": [
+          {
+            "label": "Janet Gezari, Last Things: Emily Brontë’s Poems",
+            "url": "https://blog.oup.com/2008/05/last_things/"
+          }
+        ]
+      }
+    ]
   }
 };
