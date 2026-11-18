@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2694,
+    "reviewedUnits": 2744,
     "reviewed": [
       {
         "part": 1,
@@ -1010,26 +1010,34 @@
         "start": 86,
         "end": 135,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 3,
+        "start": 136,
+        "end": 185,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II I.3.86–135",
+      "scope": "Parte II I.3.136–185",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 44,
+      "translationLinesRevised": 50,
       "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-54.js; inglés del repositorio cotejado línea a línea; cotejo externo y QA navegador pendientes",
+      "mode": "philology-55.js; cotejo interno completo, cotejo externo y QA navegador pendientes",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine the Great, Part Two, texto inglés de base incorporado en Edición Viva (procedencia editorial indicada: Dyce/Neilson); cotejo externo de esta pasada pendiente."
+        "Christopher Marlowe, Tamburlaine the Great, Part Two: inglés del repositorio Edición Viva; cotejo con impresos y ediciones independientes pendiente."
       ]
     },
     "next": {
       "part": 2,
       "act": 1,
       "scene": 3,
-      "line": 136
+      "line": 186
     }
   }
 }
