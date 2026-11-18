@@ -329,3 +329,8 @@
 - **50 unidades**: Parte II I.1.130–166 (37) e I.2.1–13 (13). Acumulado **2.494/4.641 (53,7 %)**. Sigue Parte II I.2.14–63.
 - **31 correcciones**, 19 conservadas, **10 notas**, **2 fichas**. Cotejo textual con Gutenberg #1589 (Dyce) para I.1 y comienzo de I.2; consulta de Lukacs anotado para la leyenda del ataúd suspendido (I.1). No se verificó el impreso 1590 ni se hizo QA de navegador.
 - Inglés, IDs, acotaciones y navegación intactos. Capa protegida con comparación literal de las 50 unidades.
+
+## Quincuagésima primera pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.2.14–63. Acumulado **2.544/4.641 (54,8 %)**. Sigue Parte II I.2.64 en adelante.
+- **39 correcciones**, **13 notas** y **2 fichas**. Inglés cotejado con transcripción temprana (mercaba.es) y edición Dyce (Wikimedia Commons). La transcripción no sustituye inspección facsimilar directa. QA navegador pendiente.
+- Inglés, IDs, numeración y estructura de escenas intactos. La capa exige igualdad literal del inglés de cada unidad.
