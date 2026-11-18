@@ -882,5 +882,326 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "11": {
+    "intro": "Anne reelabora Eclesiastés 1 y su diagnóstico de la vanidad de lo terrenal, pero desplaza gradualmente el énfasis de la circularidad agotadora hacia un código moral de ayuda mutua, gratitud y esperanza religiosa. Conviene distinguir los pasajes bíblicos de la reformulación poética.",
+    "notes": [
+      {
+        "line": 2,
+        "phrase": "Toil and Vanity",
+        "kind": "Intertexto bíblico",
+        "title": "El título latino y el hebreo hebel",
+        "body": "Vanitas vanitatum, omnia vanitas traduce la fórmula de Eclesiastés 1:2. Vanity corresponde al hebreo hebel, literalmente soplo o vapor y, metafóricamente, lo fugaz o inaprehensible. El poema reescribe una tradición bíblica, no una afirmación aislada de pesimismo.",
+        "sources": [
+          {
+            "label": "Eclesiastés 1:2–9, King James Version",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A2-9&version=KJV"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "phrase": "one generation dies",
+        "kind": "Intertexto bíblico",
+        "title": "Generaciones como oleaje",
+        "body": "Las generaciones que se sustituyen unas a otras evocan Eclesiastés 1:4. Anne añade una comparación marina que refuerza tanto el movimiento como la falta de progreso individual.",
+        "sources": [
+          {
+            "label": "Eclesiastés 1:4 y contexto, KJV",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A2-9&version=KJV"
+          },
+          {
+            "label": "Edición del poema, 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "phrase": "The sun arises",
+        "kind": "Composición e intertexto",
+        "title": "Sol, viento y aguas en circuito",
+        "body": "Las imágenes sucesivas del sol, del viento y de los ríos siguen aproximadamente Eclesiastés 1:5–7. Esta concentración de ciclos naturales prepara el problema humano del trabajo que no satisface y da estructura al desarrollo.",
+        "sources": [
+          {
+            "label": "Eclesiastés 1:5–7",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A2-9&version=KJV"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "phrase": "Sound cannot satisfy",
+        "kind": "Cotejo textual",
+        "title": "Oído y mirada insaciables",
+        "body": "El verso se relaciona con Eclesiastés 1:8, donde el oído no se llena de oír ni el ojo se sacia de ver. Anne hace de esa insuficiencia sensorial un puente hacia la crítica de la riqueza y del placer.",
+        "sources": [
+          {
+            "label": "Eclesiastés 1:8",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A2-9&version=KJV"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "phrase": "What, then, remains",
+        "kind": "Dos perspectivas",
+        "title": "¿Vanidad absoluta o ética práctica?",
+        "body": "Tras denunciar el desgaste y la muerte, el poema pregunta qué queda para vivir. Su respuesta combina disfrutar de los bienes disponibles y ayudar a otros, comparable a Eclesiastés 2:24. La alternativa crítica consiste en leerlo como consolación cristiana o como una ética del presente ante la fugacidad.",
+        "sources": [
+          {
+            "label": "Eclesiastés 2:24, disfrute de los dones",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+2%3A24&version=KJV"
+          },
+          {
+            "label": "Poema de Anne en la primera edición",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 40,
+        "phrase": "keep His statutes",
+        "kind": "Historia religiosa",
+        "title": "Obediencia y esperanza final",
+        "body": "El mandato de cumplir los preceptos recuerda el cierre de Eclesiastés 12:13, aunque Anne lo une a la confianza en el cielo. La solución no elimina la precariedad terrestre: la contrapone a una esperanza que excede la vida.",
+        "sources": [
+          {
+            "label": "Eclesiastés 12:13–14",
+            "url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+12%3A13-14&version=KJV"
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "phrase": "darkest day",
+        "kind": "Historia editorial",
+        "title": "De «Vanitas Vanitatis Etc» al título de 1846",
+        "body": "El repertorio manuscrito de Anne fecha «Vanitas Vanitatis Etc» el 4 de septiembre de 1845; la antología de 1846 lo retituló. La misma fuente recoge la posición de Edward Chitham, que lo considera probablemente personal pese a la firma Olivia Vernon. Esa atribución es una hipótesis crítica, no una certeza biográfica.",
+        "sources": [
+          {
+            "label": "University of Pennsylvania, cronología de Anne y lectura de Chitham",
+            "url": "https://digital.library.upenn.edu/women/bronte/bronte-anne.html"
+          }
+        ]
+      }
+    ]
+  },
+  "12": {
+    "intro": "Charlotte presenta a una esposa inglesa que acompaña a su marido en una misión política clandestina en Francia. Poetry Foundation sitúa The Wood en una secuencia con The Wife’s Will, Regret y Apostasy: los paisajes, la amenaza de traición y la voluntad de actuar se interpretan mejor a través de ese arco narrativo.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "two miles more",
+        "kind": "Contexto narrativo",
+        "title": "Un alto en un viaje peligroso",
+        "body": "El bosque funciona como pausa entre desplazamientos y refugios precarios. El monólogo comienza en movimiento, no en la contemplación autónoma de la naturaleza: la parada permite hacer balance de los riesgos y del placer de compartirlos.",
+        "sources": [
+          {
+            "label": "Charlotte Brontë, The Wood (1846)",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "my natural part",
+        "kind": "Lectura de género",
+        "title": "Una existencia hecha de acción",
+        "body": "La mujer se siente realizada no porque abandone el matrimonio, sino porque puede unir acción y aventura a su vida junto al esposo. La lectura de la agencia femenina se sostiene en sus propias palabras y contrasta con modelos de pasividad doméstica.",
+        "sources": [
+          {
+            "label": "Poetry Foundation, el ciclo narrativo de la esposa en el exilio",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "phrase": "conspiracy",
+        "kind": "Contexto político",
+        "title": "Espías y vigilancia en Francia",
+        "body": "Los objetivos de la pareja son llamados conspiración; espías y vigilancia amenazan cada hospedaje. La situación no debe reducirse a un paseo romántico: forma parte de la historia de exilio político en Francia que Poetry Foundation identifica en un grupo de poemas de Charlotte.",
+        "sources": [
+          {
+            "label": "Poetry Foundation, The Wife’s Will / The Wood / Regret / Apostasy",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "phrase": "I fear not",
+        "kind": "Tensión de voces",
+        "title": "Ella pide que él confíe en su valentía",
+        "body": "La hablante afirma que no teme y pregunta si William sí. El punto no es que la violencia desaparezca, sino que el esposo reconozca en ella la capacidad de atravesarla: la escena pone a prueba la reciprocidad de la pareja.",
+        "sources": [
+          {
+            "label": "Texto de The Wood en la edición de 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 57,
+        "phrase": "my spirit swells",
+        "kind": "Interpretación",
+        "title": "La libertad de participar",
+        "body": "Su espíritu se expande al compartir una tarea común y ser capaz de proteger a William. La emancipación es, sin embargo, relacional y no completamente independiente: conviene leer simultáneamente su energía personal y su lealtad conyugal.",
+        "sources": [
+          {
+            "label": "Texto original de The Wood",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Poetry Foundation, lectura contextual de la poesía de Charlotte",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          }
+        ]
+      },
+      {
+        "line": 71,
+        "phrase": "Bretagne's dangerous coast",
+        "kind": "Geografía y política",
+        "title": "Bretaña y Normandía",
+        "body": "La travesía desde Inglaterra llega a la costa bretona y prosigue hacia Normandía. El texto emplea lugares reconocibles para dar verosimilitud espacial a una aventura ficticia; no demuestra que Charlotte recorriera ella misma esa ruta.",
+        "sources": [
+          {
+            "label": "The Wood, testimonio de 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 92,
+        "phrase": "thy crust",
+        "kind": "Simbolismo cotidiano",
+        "title": "Pan y abrigo, más que lujo",
+        "body": "Una corteza de pan compartida y un abrigo prestado valen tanto como el banquete de un príncipe. El episodio traduce la fidelidad a acciones materiales humildes y contrasta con el entorno de amenaza política.",
+        "sources": [
+          {
+            "label": "Primera edición de 1846, The Wood",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 145,
+        "phrase": "To-morrow brings",
+        "kind": "Ciclo literario",
+        "title": "El descanso no es un desenlace",
+        "body": "El último cuarteto anticipa nuevos peligros; la paz presente depende de la ayuda mutua y no de una solución histórica. El motivo del viaje con William vincula este poema con el resto de la secuencia descrita por Poetry Foundation.",
+        "sources": [
+          {
+            "label": "Poetry Foundation, cuatro poemas sobre la esposa exiliada",
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte"
+          }
+        ]
+      }
+    ]
+  },
+  "13": {
+    "intro": "Una voz intenta demorar la muerte de Edward y, finalmente, reconoce su carácter irrevocable. Se puede leer como drama de duelo en sí mismo y, con más cautela, en relación con el mundo narrativo de Gondal: no existe consenso simple sobre la identificación precisa de los personajes.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "he cannot die",
+        "kind": "Estructura dramática",
+        "title": "Una negación pronunciada frente al sol",
+        "body": "La afirmación de que Edward no puede morir mientras brilla el día es una súplica, no una descripción fiable de su estado físico. El atardecer y la agonía forman un paralelismo que avanzará hacia el silencio del final.",
+        "sources": [
+          {
+            "label": "A Death-Scene, texto original de 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "phrase": "Edward, awake",
+        "kind": "Historia de lectura",
+        "title": "¿Personaje de Gondal?",
+        "body": "EBSCO señala que el nombre Edward y la situación evocan el entramado de Gondal, aunque la desaparición de contexto narrativo permite leer el poema autónomamente. Otras presentaciones cuestionan una identificación específica porque no hay correspondencia segura entre Edward y los personajes conocidos. La nota no identifica automáticamente a Edward con un personaje histórico ni ficticio concreto.",
+        "sources": [
+          {
+            "label": "EBSCO, The Poetry of Brontë, Gondal y referencias a Edward",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte/"
+          },
+          {
+            "label": "Edición de A Death-Scene, 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "phrase": "Arden's lake",
+        "kind": "Geografía literaria",
+        "title": "El lago de Arden",
+        "body": "El topónimo introduce un paisaje concreto, pero no basta para reconstruir un mapa seguro de Gondal. En la edición española conviene conservar el nombre sin ofrecer una localización no probada: el lugar importa por la luz que contrasta con el cuerpo moribundo.",
+        "sources": [
+          {
+            "label": "A Death-Scene, texto en la edición original",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "phrase": "eternal sea",
+        "kind": "Metáfora y religión",
+        "title": "La muerte como travesía sin horizonte visible",
+        "body": "La persona que ruega a Edward imagina la muerte como un mar que habría que cruzar, pero declara que no alcanza a ver la otra orilla. Ese límite de conocimiento se opone a los relatos tranquilizadores de islas edénicas: el texto dramatiza la duda de quien queda.",
+        "sources": [
+          {
+            "label": "Emily Brontë, A Death-Scene (1846)",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "EBSCO, tratamiento de la mortalidad en Emily",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte/"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "phrase": "Believe not",
+        "kind": "Lecturas alternativas",
+        "title": "Negar la consolación del más allá",
+        "body": "La hablante exhorta al moribundo a no creer promesas de islas del Edén. Puede leerse como resistencia al consuelo religioso o como un arrebato del duelo que más adelante se corrige: la composición no ofrece una sentencia teológica de la autora.",
+        "sources": [
+          {
+            "label": "A Death-Scene, primera edición",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "phrase": "One long look",
+        "kind": "Cambio ético",
+        "title": "La mirada que vuelve inútil la súplica",
+        "body": "Edward no necesita palabras: una mirada de sufrimiento lleva a la narradora a arrepentirse de haberle pedido que prolongue la agonía. El poema transforma el deseo de retener al amado en atención a su dolor.",
+        "sources": [
+          {
+            "label": "Texto de A Death-Scene",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "phrase": "they wept not",
+        "kind": "Técnica poética",
+        "title": "La inmovilidad de los ojos",
+        "body": "La secuencia de negaciones («no lloraban», «no se movían», «no se cerraban») aproxima al lector a la muerte por observaciones mínimas, no por una afirmación sentimental. El final se construye mediante la percepción corporal y el cese del aliento.",
+        "sources": [
+          {
+            "label": "Edición de 1846, estrofas finales",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      }
+    ]
   }
 };
