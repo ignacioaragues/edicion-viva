@@ -111,3 +111,23 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
     margin:0;
   }
 }
+
+/* Brontë 1846 · aparato de notas filológicas y bibliografía de investigación. */
+.poem-scholarship{max-width:980px;margin:40px 0 10px;padding:33px 0 10px;border-top:1px solid var(--border)}
+.poem-scholarship[hidden]{display:none!important}
+.poem-scholarship h2{font:400 clamp(25px,3vw,33px)/1.35 var(--serif);letter-spacing:-.045em;margin:13px 0 15px}
+.poem-scholarship .scholarship-intro{font:14px/1.9 var(--serif);color:#4f5c54;max-width:830px;margin:0 0 11px}
+.poem-scholarship .scholarship-method{font:11px/1.8 var(--sans);color:var(--muted);max-width:850px;margin:0 0 27px}
+.scholarship-notes{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+.scholarly-note{border-top:1px solid var(--border);padding:20px 0 21px;scroll-margin-top:90px}
+.scholarly-note-head{display:flex;align-items:center;gap:13px;font:10px/1.4 var(--sans)}
+.scholarly-note-line{color:var(--accent);font-weight:700;text-decoration:none;min-width:49px}
+.scholarly-note-line:hover{text-decoration:underline}
+.scholarly-note-kind{text-transform:uppercase;letter-spacing:.10em;font-size:9px;color:var(--muted)}
+.scholarly-note h3{font:500 17px/1.5 var(--serif);margin:9px 0 8px;color:var(--ink)}
+.scholarly-note p{font:13px/1.9 var(--serif);color:#566159;margin:0 0 11px;max-width:860px}
+.scholarly-sources{display:flex;flex-wrap:wrap;gap:7px 20px}
+.scholarly-sources a{font:600 10px/1.6 var(--sans);color:var(--accent);text-decoration:none;overflow-wrap:anywhere}
+.scholarly-sources a:hover{text-decoration:underline}
+.poem-view .verse:target{background:rgba(111,133,112,.17);scroll-margin-top:100px}
+@media(max-width:600px){.poem-scholarship{margin-top:32px}.scholarly-note h3{font-size:16px}.scholarly-sources{flex-direction:column;gap:6px}}
