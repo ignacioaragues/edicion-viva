@@ -163,7 +163,7 @@
     {
       "group": "sermones",
       "number": 82,
-      "status": "partial_aligned_draft_morphology_first_pass_complete_not_in_reader",
+      "status": "partial_reader_staged_unindexed_print_collation_pending",
       "skip_after_completion": true,
       "aligned_chapters": 7,
       "aligned_units": 18,
@@ -171,7 +171,7 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "18/18 units have first-pass contextual morphology (913 occurrences). NEXT: collate all seven chapters against PL 54 printed edition and apparatus, correct readings and annotations, build/test aligned interactive reader; only then mark complete/published and advance to Epistola X.",
+      "next": "All 18 aligned units and 913 occurrence-specific lexical cards staged in unindexed provisional reader. NEXT: collate all seven chapters against printed PL 54 and apparatus; correct Latin/translation/morphology, validate browser interactions and source readings, then index and mark complete. Epistola X follows.",
       "morphology_units_with_contextual_table": 18,
       "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -186,7 +186,11 @@
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-16.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-17.md",
         "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-18.md"
-      ]
+      ],
+      "reader_staged": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxxii/index.html",
+      "reader_data_path": "autores/leon-i/sermones/sermo-lxxxii/sermo-lxxxii.js",
+      "reader_first_pass_occurrences": 913
     },
     {
       "group": "epistolae",
