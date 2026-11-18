@@ -1,4 +1,4 @@
-/* Epistola CLXVII: proemio y responsiones I–VII; PL54 1197–1205; consultas diferenciadas de respuestas. Cotejo crítico y morfología exhaustiva pendientes. */
+/* Epistola CLXVII: proemio y respuestas I–XIX; primera traducción íntegra, cotejo crítico exhaustivo y morfología contextual pendientes. Base PL 54; cotejo puntual con transcripción crítica Epistula 167 (Hoskin). */
 window.LEO_EPISTOLA_CLXVII={
   "paragraphs": [
     {
@@ -210,6 +210,190 @@ window.LEO_EPISTOLA_CLXVII={
       "label": "VII · respuesta",
       "latin": "Culpanda est talium negligentia, sed non penitus deserenda: ut crebris cohortationibus incitati, quod necessarie expetierunt, fideliter exsequantur. Nemo enim desperandus est dum in hoc corpore constitutus est: quia nonnumquam quod diffidentia aetatis differtur, consilio maturiore perficitur.",
       "spanish": "Debe reprobarse su negligencia, pero no abandonarlos por completo: mediante exhortaciones frecuentes hay que impulsarlos a cumplir fielmente aquello que solicitaron por necesidad. No se debe perder la esperanza en nadie mientras viva, porque a veces lo que se posterga por la inseguridad propia de una edad se lleva a término con un juicio más maduro."
+    },
+    {
+      "id": "ep167-26",
+      "label": "VIII · consulta",
+      "latin": "De his qui jam deficientes poenitentiam accipiunt, et ante communionem moriuntur.",
+      "spanish": "Sobre quienes reciben penitencia cuando ya están muriendo y fallecen antes de recibir la comunión."
+    },
+    {
+      "id": "ep167-27",
+      "label": "VIII · respuesta",
+      "latin": "Horum causa Dei judicio reservanda est, in cujus manu fuit ut talium obitus usque ad communionis remedium differretur. Nos autem quibus viventibus non communicavimus, mortuis communicare non possumus.",
+      "spanish": "Su caso debe reservarse al juicio de Dios, en cuya mano estuvo aplazar la muerte de esas personas hasta que recibieran el remedio de la comunión. Nosotros, en cambio, no podemos conceder después de muertos la comunión a quienes no se la concedimos mientras vivían.",
+      "note": [
+        "Límite de jurisdicción",
+        "La respuesta distingue expresamente el juicio divino de la actuación sacramental humana; León no pretende pronunciarse sobre el destino último de esas personas."
+      ]
+    },
+    {
+      "id": "ep167-28",
+      "label": "IX · consulta",
+      "latin": "De his qui dolore nimio perurgente rogant dari sibi poenitentiam, et cum venerit presbyter daturus quod petebant, si dolor parum perquieverit, excusant et nolunt accipere quod offertur.",
+      "spanish": "Sobre quienes, apremiados por un dolor intenso, piden que se les conceda penitencia, pero cuando llega el presbítero a darles lo solicitado, si el dolor ha cedido un poco, se excusan y rechazan lo ofrecido."
+    },
+    {
+      "id": "ep167-29",
+      "label": "IX · respuesta",
+      "latin": "Dissimulatio haec potest non de contemptu esse remedii, sed de metu gravius delinquendi. Unde poenitentia, quae dilata est, cum studiosius petita fuerit, non negetur, ut quoquo modo ad indulgentiae medicinam anima vulnerata perveniat.",
+      "spanish": "Esta vacilación puede proceder no del desprecio del remedio, sino del temor a cometer una falta más grave. Por eso, cuando se solicite con mayor empeño la penitencia aplazada, no se la debe negar, para que el alma herida llegue de algún modo a la medicina del perdón.",
+      "note": [
+        "Interpretación benigna",
+        "La estructura «non de contemptu ... sed de metu» reemplaza la lectura acusatoria de una conducta por otra más favorable; reaparece la metáfora médica."
+      ]
+    },
+    {
+      "id": "ep167-30",
+      "label": "X · consulta",
+      "latin": "De his qui poenitentiam professi sunt, si in foro litigare coeperint.",
+      "spanish": "Sobre quienes, después de profesar penitencia, empiezan a litigar ante los tribunales."
+    },
+    {
+      "id": "ep167-31",
+      "label": "X · respuesta",
+      "latin": "Aliud quidem est debita justa reposcere, aliud propria perfectionis amore contemnere. Sed illicitorum veniam postulantem oportet a multis etiam licitis abstinere, dicente Apostolo: Omnia mihi licent, sed non omnia expediunt. Unde si poenitens habet causam quam negligere forte non debeat, melius expetit ecclesiasticum quam forense judicium.",
+      "spanish": "Una cosa es reclamar lo que legítimamente se debe y otra renunciar a ello por amor a la propia perfección. Pero quien pide perdón por actos ilícitos debe abstenerse incluso de muchas cosas lícitas, como dice el Apóstol: «Todo me está permitido, pero no todo conviene». Por eso, si el penitente tiene una causa que quizá no deba desatender, es mejor que solicite un juicio eclesiástico que uno civil.",
+      "note": [
+        "Derecho y conveniencia",
+        "«Aliud ... aliud» y «licent ... expediunt» separan el derecho formal de la conducta aconsejable para quien hace penitencia."
+      ]
+    },
+    {
+      "id": "ep167-32",
+      "label": "XI · consulta",
+      "latin": "De his qui in poenitentia vel post poenitentiam negotiantur.",
+      "spanish": "Sobre quienes comercian durante la penitencia o después de ella."
+    },
+    {
+      "id": "ep167-33",
+      "label": "XI · respuesta",
+      "latin": "Qualitas lucri negotiantem aut excusat aut arguit, quia est et honestus quaestus et turpis. Verumtamen poenitenti utilius est dispendia pati quam periculis negotiationis obstringi, quia difficile est inter ementis vendentisque commercium non intervenire peccatum.",
+      "spanish": "La naturaleza de la ganancia excusa o acusa a quien comercia, porque hay ganancias honradas y deshonrosas. Sin embargo, al penitente le resulta más provechoso sufrir pérdidas que quedar atrapado en los riesgos del comercio, pues es difícil que entre las operaciones del comprador y del vendedor no intervenga algún pecado.",
+      "note": [
+        "Casos antes que categorías",
+        "«Qualitas lucri» evita condenar toda ganancia por igual, aunque el consejo práctico posterior sea restrictivo."
+      ]
+    },
+    {
+      "id": "ep167-34",
+      "label": "XII · consulta",
+      "latin": "De his qui post poenitentiam ad militiam revertuntur.",
+      "spanish": "Sobre quienes vuelven al servicio militar después de hacer penitencia."
+    },
+    {
+      "id": "ep167-35",
+      "label": "XII · respuesta",
+      "latin": "Contrarium est omnino ecclesiasticis regulis post poenitentiae actionem redire ad militiam saecularem, cum Apostolus dicat: Nemo militans Deo implicat se negotiis saecularibus. Unde non est liber a laqueis diaboli qui se militia mundana voluerit implicare.",
+      "spanish": "Volver al servicio militar secular después de haber hecho penitencia es enteramente contrario a las normas eclesiásticas, pues el Apóstol dice: «Nadie que milita para Dios se enreda en asuntos mundanos». Por ello, no está libre de las trampas del diablo quien quiera enredarse en la milicia de este mundo."
+    },
+    {
+      "id": "ep167-36",
+      "label": "XIII · consulta",
+      "latin": "De his qui post poenitentiam uxores accipiunt vel concubinas sibi conjungunt.",
+      "spanish": "Sobre quienes, después de hacer penitencia, toman esposas o se unen a concubinas."
+    },
+    {
+      "id": "ep167-37",
+      "label": "XIII · respuesta",
+      "latin": "In adolescentia constitutus, si urgente aut metu mortis aut captivitatis periculo poenitentiam gessit et postea timens lapsum incontinentiae juvenilis copulam uxoris elegit ne crimen fornicationis incurreret, rem videtur fecisse venialem si praeter conjugem nullam omnino cognoverit. In quo tamen non regulam constituimus, sed quid sit tolerabilius aestimamus. Nam secundum veram cognitionem nihil magis ei congruit qui poenitentiam gessit quam castitas perseverans et mentis et corporis.",
+      "spanish": "Si alguien, siendo joven, hizo penitencia ante el apremio del miedo a la muerte o el peligro del cautiverio, y después, temiendo caer por la incontinencia propia de la juventud, eligió la unión con una esposa para no incurrir en fornicación, parece haber hecho algo perdonable, siempre que no haya conocido a ninguna otra mujer fuera de su esposa. Sin embargo, con ello no establecemos una regla, sino que valoramos qué resulta más tolerable. Pues, según el recto discernimiento, nada conviene más a quien ha hecho penitencia que una castidad perseverante del espíritu y del cuerpo.",
+      "note": [
+        "Excepción expresamente limitada",
+        "«Non regulam constituimus, sed quid sit tolerabilius aestimamus» distingue la tolerancia de un caso particular de la promulgación de una norma."
+      ]
+    },
+    {
+      "id": "ep167-38",
+      "label": "XIV · consulta",
+      "latin": "De monachis qui aut militare coeperint, aut uxores accipere.",
+      "spanish": "Sobre los monjes que comienzan a servir como soldados o contraen matrimonio."
+    },
+    {
+      "id": "ep167-39",
+      "label": "XIV · respuesta",
+      "latin": "Propositum monachi proprio arbitrio aut voluntate susceptum deseri non potest absque peccato; quod enim quis vovit Deo debet et reddere. Unde qui relicta singularitatis professione ad militiam vel ad nuptias devolutus est, publicae poenitentiae satisfactione purgandus est, quia, etsi innocens militia et honestum potest esse conjugium, electionem meliorum deseruisse transgressio est.",
+      "spanish": "El compromiso monástico asumido por decisión o voluntad propia no puede abandonarse sin pecado: lo que alguien prometió a Dios debe cumplirlo. Por eso, quien, abandonada su profesión de vida apartada, ha vuelto al servicio militar o al matrimonio, debe purificarse mediante una satisfacción penitencial pública; pues, aunque la milicia pueda ser irreprochable y el matrimonio honorable, haber abandonado la elección de lo mejor constituye una transgresión.",
+      "note": [
+        "Compromiso voluntario",
+        "La falta se sitúa en el abandono de una promesa elegida, no en declarar intrínsecamente ilícitos el matrimonio o la milicia."
+      ]
+    },
+    {
+      "id": "ep167-40",
+      "label": "XV · consulta",
+      "latin": "De puellis quae aliquamdiu in habitu religioso fuerunt non tamen consecratae, si postea nupserint.",
+      "spanish": "Sobre las jóvenes que llevaron durante un tiempo hábito religioso, sin haber sido consagradas, y después se casaron."
+    },
+    {
+      "id": "ep167-41",
+      "label": "XV · respuesta",
+      "latin": "Puellae quae non parentum coactae imperio, sed spontaneo judicio virginitatis propositum atque habitum susceperunt, si postea nuptias eligunt, praevaricantur, etiam si consecratio non accessit; cujus utique non fraudarentur munere, si in proposito permanerent.",
+      "spanish": "Las jóvenes que asumieron el propósito y el hábito de la virginidad no obligadas por sus padres, sino por decisión espontánea, si después eligen casarse, quebrantan su compromiso, aunque no se haya producido la consagración; ciertamente no quedarían privadas del don de esta si perseverasen en su propósito."
+    },
+    {
+      "id": "ep167-42",
+      "label": "XVI · consulta",
+      "latin": "De his qui a parentibus Christianis parvuli derelicti sunt, et utrum baptizati sint non potest inveniri, an debeant baptizari.",
+      "spanish": "Sobre los niños abandonados por padres cristianos de quienes no puede averiguarse si fueron bautizados, y si deben ser bautizados."
+    },
+    {
+      "id": "ep167-43",
+      "label": "XVI · respuesta",
+      "latin": "Si nulla existant indicia inter propinquos aut familiares, nulla inter clericos aut vicinos, quibus hi de quibus quaeritur baptizati fuisse doceantur, agendum est ut renascantur, ne manifeste pereant. In quibus quod non ostenditur gestum, ratio non sinit ut videatur iteratum.",
+      "spanish": "Si no hay indicio alguno entre parientes o allegados, ni entre clérigos o vecinos, que permita demostrar que las personas consultadas fueron bautizadas, hay que procurar que renazcan mediante el bautismo, para que no perezcan manifiestamente. En su caso, aquello cuya realización no puede demostrarse no debe considerarse una repetición.",
+      "note": [
+        "Prueba y decisión",
+        "La ausencia de testimonio verificable determina el curso de acción; la expresión «non ostenditur gestum» es central en el razonamiento."
+      ]
+    },
+    {
+      "id": "ep167-44",
+      "label": "XVII · consulta",
+      "latin": "De his qui parvuli ab hostibus capti sunt, et non se sapiunt baptizatos, sed sciunt se aliquotiens ad ecclesiam a parentibus ductos, utrum possint vel debeant cum ad Romaniam venerint baptizari.",
+      "spanish": "Sobre quienes fueron capturados de niños por enemigos y no saben si están bautizados, aunque recuerdan que sus padres los llevaron algunas veces a la iglesia: si pueden o deben bautizarse al regresar a territorio romano."
+    },
+    {
+      "id": "ep167-45",
+      "label": "XVII · respuesta",
+      "latin": "Qui possunt meminisse quod ad ecclesiam veniebant cum parentibus suis, possunt recordari an quod ab eorum parentibus dabatur acceperint. Sed si hoc etiam ab ipsorum memoria alienum est, conferendum eis videtur quod collatum esse nescitur, quia non temeritas intervenit praesumptionis ubi est diligentia pietatis.",
+      "spanish": "Quienes recuerdan que acudían a la iglesia con sus padres quizá puedan recordar también si recibieron aquello que sus padres les procuraban. Pero si tampoco esto está al alcance de su memoria, parece conveniente conferirles aquello que no se sabe que hayan recibido, porque donde hay diligencia piadosa no interviene una presunción temeraria.",
+      "note": [
+        "Cautela no paralizante",
+        "«Non temeritas ... ubi est diligentia pietatis» transforma una duda de hecho en una justificación de la acción pastoral."
+      ]
+    },
+    {
+      "id": "ep167-46",
+      "label": "XVIII · consulta",
+      "latin": "De his qui ex Africa vel de Mauritania venerunt, et nesciunt in qua secta sint baptizati, quid circa eos debeat observari.",
+      "spanish": "Sobre quienes llegaron de África o Mauritania y desconocen en qué secta fueron bautizados: cómo debe procederse con ellos."
+    },
+    {
+      "id": "ep167-47",
+      "label": "XVIII · respuesta",
+      "latin": "Non se isti baptizatos nesciunt, sed cujus fidei fuerint qui eos baptizaverunt se nescire profitentur; unde quoniam quolibet modo formam baptismatis acceperunt, baptizandi non sunt. Sed per manus impositionem invocata virtute Spiritus sancti, quam ab haereticis accipere non potuerunt, catholicis copulandi sunt.",
+      "spanish": "Estas personas no ignoran que fueron bautizadas, sino que reconocen ignorar qué fe profesaban quienes las bautizaron. Por tanto, dado que recibieron de algún modo la forma del bautismo, no deben ser bautizadas otra vez; pero deben incorporarse a los católicos mediante la imposición de manos y la invocación del poder del Espíritu Santo, que, según León, no pudieron recibir de los herejes.",
+      "note": [
+        "Distinción de hechos",
+        "«Non ... nesciunt, sed ... nescire profitentur» separa la certeza del rito de la incertidumbre sobre la confesión de sus ministros."
+      ]
+    },
+    {
+      "id": "ep167-48",
+      "label": "XIX · consulta",
+      "latin": "De his qui parvuli quidem baptizati a gentilibus capti sunt et cum illis gentiliter convixerunt, cum ad Romaniam adhuc juvenes venerint si communionem petierint quid erit observandum.",
+      "spanish": "Sobre quienes fueron bautizados de niños, capturados por paganos y criados entre ellos conforme a sus costumbres: qué hacer si, al volver jóvenes a territorio romano, piden la comunión."
+    },
+    {
+      "id": "ep167-49",
+      "label": "XIX · respuesta",
+      "latin": "Si convivio solo gentilium et escis immolatitiis usi sunt, possunt jejuniis et manus impositione purgari, ut deinceps ab idolothytis abstinentes, sacramentorum Christi possint esse participes. Si autem aut idola adoraverunt aut homicidiis vel fornicationibus contaminati sunt, ad communionem eos nisi per poenitentiam publicam non oportet admitti.",
+      "spanish": "Si únicamente participaron de los banquetes paganos y comieron alimentos ofrecidos en sacrificio, pueden purificarse mediante ayunos e imposición de manos, de modo que, absteniéndose en adelante de los alimentos sacrificados a los ídolos, puedan participar de los sacramentos de Cristo. Pero si adoraron ídolos o quedaron implicados en homicidios o relaciones sexuales ilícitas, no corresponde admitirlos a la comunión sin penitencia pública.",
+      "note": [
+        "Graduación de responsabilidades",
+        "La construcción condicional «Si ... Si autem» diferencia prácticas alimentarias de actos considerados más graves y establece respuestas disciplinarias distintas."
+      ]
     }
   ],
   "lexicon": {
