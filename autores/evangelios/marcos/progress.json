@@ -1491,12 +1491,21 @@
       "source": "Holmes, SBLGNT (2010)",
       "morphology": "12/12 fichas posicionales cotejadas con MorphGNT 6.12",
       "second_review": "pending"
+    },
+    {
+      "chapter": 6,
+      "from": 53,
+      "to": 53,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "10/10 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar en Marcos 6,52; segunda revisión filológica y Vulgata opcional pendientes.",
+  "pending": "Continuar en Marcos 6,54; segunda revisión filológica y Vulgata opcional pendientes.",
   "next": {
     "chapter": 6,
-    "verse": 53
+    "verse": 54
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3479,6 +3488,18 @@
       "https://raw.githubusercontent.com/Faithlife/SBLGNT/master/data/sblgnt/text/Mark.txt",
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-652/"
+    ]
+  },
+  "prepublication_research_6_53": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "10/10",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://raw.githubusercontent.com/Faithlife/SBLGNT/master/data/sblgnt/text/Mark.txt",
+      "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+      "https://tips.translation.bible/story/translation-commentary-on-mark-653/",
+      "https://biblehub.com/commentaries/icc/mark/6.htm"
     ]
   }
 }
