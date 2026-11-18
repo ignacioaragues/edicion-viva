@@ -220,20 +220,32 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "voice_notes": 8
+    },
+    {
+      "group": "epistolae",
+      "number": 166,
+      "section": "Epistola CLXVI, proem and capita I–II",
+      "paragraphs": 8,
+      "translation": "complete first-pass original Spanish",
+      "complete_work": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/epistolae/epistola-clxvi/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 6
     }
   ],
   "next": {
     "group": "epistolae",
-    "number": 166,
-    "section": "beginning",
-    "reason": "Next exceptional priority after Epistola CLIX"
+    "number": 167,
+    "section": "beginning"
   },
   "priority": "Completed first-pass special priorities 82, Ep. 10, 14, 28 and Sermo XI. New priority order: Epistolae 113, 159, 166, 167, then Sermo 84; resume ordinary sequence at Sermo XII afterward.",
-  "last_edit": "2026-11-18: Epistola CLIX complete first-pass bilingual reader (proem + VII chapters; 13 aligned units), morphology and printed collation pending.",
+  "last_edit": "2026-11-18: Epistola CLXVI first-pass full bilingual reader, 8 aligned units, 6 notes; critical collation and contextual morphology pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "epistolae",
-    "number": 166,
+    "number": 167,
     "section": "beginning",
     "status": "not_started"
   },
@@ -409,12 +421,19 @@
     {
       "group": "epistolae",
       "number": 166,
-      "status": "priority_pending",
+      "status": "published_complete_first_pass_morphology_and_collation_pending",
       "skip_after_completion": true,
-      "translation_complete": false,
-      "reader_published": false,
+      "translation_complete": true,
+      "reader_published": true,
       "source_collation_complete": false,
-      "morphology_complete": false
+      "morphology_complete": false,
+      "complete_work": true,
+      "aligned_chapters": 2,
+      "aligned_units": 8,
+      "reader_path": "autores/leon-i/epistolae/epistola-clxvi/index.html",
+      "lexical_coverage": "16 initial surface forms; contextual morphology incomplete",
+      "authenticity": "Leo I to Neon of Ravenna, 24 October 458, traditional PL 54 Epistola CLXVI; Ballerini discusses recipient attribution",
+      "editorial_caveat": "First-pass full Latin and original Spanish, eight units; source checked against Wikisource Migne transcription, printed critical collation pending; browser QA pending."
     },
     {
       "group": "epistolae",
