@@ -248,19 +248,34 @@
       "source_collation_complete": false,
       "voice_notes": 13,
       "editorial_caveat": "First-pass complete, full contextual morphology, print collation and browser QA pending"
+    },
+    {
+      "group": "sermones",
+      "number": 84,
+      "section": "Sermo LXXXIV De neglecta solemnitate, chapters I–II",
+      "paragraphs": 8,
+      "latin_tokens": 288,
+      "translation": "complete original first-pass Spanish translation",
+      "complete_work": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxxiv/index.html",
+      "voice_notes": 8,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Full first-pass Latin/Spanish translation, two chapters and eight units; compared with two public Latin transcriptions and PL54 apparatus. 49 lexical entries only; contextual token morphology and printed critical collation pending. Browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 84,
+    "number": 12,
     "section": "caput I"
   },
-  "priority": "First-pass special priorities Epistolae 113, 159, 166, 167 complete. Next Sermo LXXXIV, then resume ordinary sequence at Sermo XII.",
-  "last_edit": "2026-11-18: Epistola CLXVII completed in first-pass bilingual edition, proem and consultations I–XIX, 49 aligned units. Full contextual morphology, printed collation and browser QA pending.",
+  "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
+  "last_edit": "2026-11-18: Sermo LXXXIV complete first-pass bilingual edition, 2 chapters, 8 units, 288 Latin tokens, 49 selected lexical forms, 8 notes; full contextual morphology and printed collation pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 84,
+    "number": 12,
     "section": "caput I",
     "status": "not_started"
   },
@@ -470,12 +485,19 @@
     {
       "group": "sermones",
       "number": 84,
-      "status": "priority_pending",
+      "status": "published_complete_first_pass_morphology_and_collation_pending",
       "skip_after_completion": true,
-      "translation_complete": false,
-      "reader_published": false,
+      "translation_complete": true,
+      "reader_published": true,
       "source_collation_complete": false,
-      "morphology_complete": false
+      "morphology_complete": false,
+      "complete_work": true,
+      "aligned_chapters": 2,
+      "aligned_units": 8,
+      "latin_tokens": 288,
+      "lexical_coverage": "49 selected surface-form lexical entries; contextual morphology incomplete",
+      "reader_path": "autores/leon-i/sermones/sermo-lxxxiv/index.html",
+      "editorial_caveat": "Full first-pass Latin/Spanish translation, two chapters and eight units; compared with two public Latin transcriptions and PL54 apparatus. 49 lexical entries only; contextual token morphology and printed critical collation pending. Browser QA pending."
     }
   ],
   "resume_after_priority": {
