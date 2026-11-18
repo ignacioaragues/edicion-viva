@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,56 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–7,1 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -255,9 +255,12 @@
     ,{"chapter":6,"n":54,"gr":"καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν","es":"Y cuando salieron de la barca, enseguida lo reconocieron.","la":"","notes":["mc654genitive","mc654recognition"]}
     ,{"chapter":6,"n":55,"gr":"περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.","es":"Recorrieron corriendo toda aquella región y empezaron a llevar en camillas a los enfermos adonde oían que él estaba.","la":"","notes":["mc655run","mc655beds"]},
     {"chapter":6,"n":56,"gr":"καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.","es":"Y dondequiera que entraba, en aldeas, ciudades o campos, ponían a los enfermos en las plazas y le suplicaban que los dejara tocar siquiera el borde de su manto. Y todos los que lo tocaban quedaban sanos.","la":"","notes":["mc656places","mc656fringe","mc656healing"]}
+    ,{"chapter":7,"n":1,"gr":"Καὶ συνάγονται πρὸς αὐτὸν οἱ Φαρισαῖοι καί τινες τῶν γραμματέων ἐλθόντες ἀπὸ Ἱεροσολύμων","es":"Y se reúnen junto a él los fariseos y algunos de los escribas que habían llegado de Jerusalén.","la":"","notes":["mc701assembly","mc701jerusalem"]}
   ];
 
   const notes = {
+    mc701assembly: ["Nueva controversia", "El presente histórico συνάγονται introduce una nueva escena de discusión después de las curaciones de 6,53–56. El participio aoristo ἐλθόντες se refiere a los escribas llegados de Jerusalén; el relato no afirma que todos los fariseos procedan de allí. Cf. Peter Misselbrook, Reading the Greek New Testament, comentario a Marcos 7,1–20, https://www.misselbrook.org.uk/GNT/Mark.pdf"],
+    mc701jerusalem: ["Escribas procedentes de Jerusalén", "γραμματεῖς designa especialistas en la interpretación de la Ley. La mención de Jerusalén conecta la controversia galilea con el centro religioso; atribuir a este grupo una delegación oficial sería una inferencia, no una afirmación expresa del versículo. Texto: M. W. Holmes (ed.), SBLGNT (2010), Mc 7,1, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc656places: ["Aldeas, ciudades y campos", "La enumeración κώμας / πόλεις / ἀγρούς y los imperfectos εἰσεπορεύετο, ἐτίθεσαν y παρεκάλουν presentan una actividad repetida, no una única visita. Fuente: M. W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 6,56, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc656fringe: ["El borde del manto", "κράσπεδον significa borde o fleco del vestido; puede evocar los flecos prescritos en Nm 15,38–39, pero el versículo no identifica expresamente ese detalle ritual. Cf. Mc 5,27–28; Nm 15,38–39. Texto base: Holmes, SBLGNT (2010), Mc 6,56, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc656healing: ["Tocar y sanar", "ἐσῴζοντο es imperfecto pasivo de σῴζω: en este contexto de enfermos expresa que eran sanados. La forma verbal puede tener otros sentidos en otros pasajes. Morfología: J. K. Tauber (ed.), MorphGNT SBLGNT 6.12 (2017), Mc 6,56, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"],
