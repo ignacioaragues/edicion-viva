@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2894,
+    "reviewedUnits": 2944,
     "reviewed": [
       {
         "part": 1,
@@ -1058,28 +1058,43 @@
         "start": 1,
         "end": 47,
         "count": 47
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 2,
+        "start": 48,
+        "end": 64,
+        "count": 17
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 3,
+        "start": 1,
+        "end": 33,
+        "count": 33
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II II.1.61–63 y II.2.1–47",
+      "scope": "Parte II II.2.48–64 y II.3.1–33",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 48,
+      "translationLinesRevised": 49,
       "newNotes": 13,
       "readingCardsAdded": 2,
       "sourceBasis": [
-        "Texto inglés incorporado en text.js, contrastado internamente línea por línea",
-        "Génesis 1:26–27, referencia intertextual temática"
+        "Christopher Marlowe, Tamburlaine II, transcripción de grafía temprana, https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm, acto II, escenas 2–3 (consultada 18-11-2026); cotejo diplomático facsimilar pendiente."
       ],
-      "externalCollationPending": true,
+      "facsimileCollationPending": true,
       "browserQAPending": true
     },
     "next": {
       "part": 2,
       "act": 2,
-      "scene": 2,
-      "line": 48
+      "scene": 3,
+      "line": 34
     }
   }
 }
