@@ -205,7 +205,8 @@
       "reader_path": "autores/leon-i/epistolae/epistola-cxiii/index.html",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "voice_notes": 12
+      "voice_notes": 12,
+      "lexical_coverage": "40 initial surface-form cards; contextual token coverage incomplete"
     }
   ],
   "next": {
@@ -374,7 +375,8 @@
       "aligned_chapters": 4,
       "aligned_units": 13,
       "reader_path": "autores/leon-i/epistolae/epistola-cxiii/index.html",
-      "editorial_caveat": "Complete Latin and original Spanish first pass, 4 chapters, 13 aligned units. No contextual token morphology yet; manuscript variants and printed PL require critical audit. Reader deployment not browser-tested."
+      "editorial_caveat": "Complete Latin and original Spanish first pass, 4 chapters, 13 aligned units. No contextual token morphology yet; manuscript variants and printed PL require critical audit. Reader deployment not browser-tested.",
+      "lexical_coverage": "40 initial surface-form cards; contextual token coverage incomplete"
     },
     {
       "group": "epistolae",
