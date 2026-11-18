@@ -14,7 +14,7 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 - **Índice:** 61 de 61 en orden original.
 - **Texto inglés:** primera transcripción de 61 de 61, publicada y legible; cotejo diplomático exhaustivo pendiente.
 - **Traducción española:** 61/61 poemas y 3.795/3.795 líneas alineadas, primera versión íntegra publicada. Revisión estilística y cotejo textual pendientes.
-- **Notas filológicas:** 167 notas de investigación con referencias y versos concretos en los poemas 1–25, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
+- **Notas filológicas:** 340 notas vinculadas a versos de los poemas 1–55; bibliografía especializada y cotejo de manuscritos pendientes para las tandas preliminares.
 - **Navegación y lectura:** índice filtrable sin alterar orden original, páginas por poema, anterior/siguiente, diseño adaptable, temporizador común, resaltados compatibles.
 
 ## Criterios editoriales
@@ -119,3 +119,13 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - 50, Appeal: 5 notas, espera e historia editorial (UPenn).
 
 **Balance:** 31 notas nuevas, 323 en 50 poemas. Restan 51–61. Cotejo manuscrito pendiente. `poems-data.js` sin cambios.
+
+
+## Anotación: poemas 51–55
+- 51, *Honour's Martyr*: vigilia, traición, reputación y conciencia (3 notas).
+- 52, *The Student's Serenade*: estudio, naturaleza y autonomía (3 notas).
+- 53, *Apostasy*: confesión, cautiverio y credo amoroso (4 notas).
+- 54, *Stanzas*: llanto, mortalidad y despedida (3 notas).
+- 55, *The Captive Dove*: empatía, cautiverio y compañía (4 notas).
+
+**Balance:** 17 notas nuevas; 340 acumuladas en 55 poemas. Primera lectura textual apoyada en el impreso de 1846, no revisión académica exhaustiva. `poems-data.js` sin modificaciones.
