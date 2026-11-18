@@ -105,5 +105,17 @@ function renderPoem(p){
 $('#toggle-translation').addEventListener('click',()=>{
  const el=$('#reader');const hidden=el.classList.toggle('hide-translation');$('#toggle-translation').setAttribute('aria-pressed',String(!hidden));
 });
+function centerSelectedPoem(){
+  if(!current)return;
+  const nav=$('#poem-nav'), active=nav?.querySelector('a[aria-current="page"]');
+  if(!nav||!active||active.hidden)return;
+  // Scroll only the INNER navigation, never the document, and center when possible.
+  const navBox=nav.getBoundingClientRect(),activeBox=active.getBoundingClientRect();
+  const desired=nav.scrollTop+(activeBox.top-navBox.top)-(nav.clientHeight-activeBox.height)/2;
+  nav.scrollTop=Math.max(0,Math.min(nav.scrollHeight-nav.clientHeight,desired));
+}
 buildIndex();setFilter('all');if(current)renderPoem(poems[current-1]);
+requestAnimationFrame(centerSelectedPoem);
+window.addEventListener('pageshow',centerSelectedPoem);
+document.fonts?.ready.then(centerSelectedPoem);
 })();
