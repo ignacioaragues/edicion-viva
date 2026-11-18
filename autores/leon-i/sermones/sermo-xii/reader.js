@@ -41,7 +41,7 @@
       const value=entries?.[occurrence++]||lex(m[0]),word=document.createElement("button");
       word.type="button";word.className="token";word.textContent=m[0];word.setAttribute("aria-label","Ver ficha de "+m[0]);
       if(value)word.addEventListener("click",()=>showWord(m[0],value,section,word));
-      else {word.disabled=true;console.warn("Sin ficha:",m[0],section);}
+      else {word.disabled=true;word.classList.add("token-unannotated");}
       node.append(word);last=m.index+m[0].length;
     }
     if(last<text.length)node.append(document.createTextNode(text.slice(last)));
