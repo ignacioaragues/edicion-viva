@@ -163,6 +163,20 @@
       "voice_notes": 6,
       "lexical_coverage": "17 initial lexical surface forms; full contextual token morphology pending",
       "editorial_caveat": "Complete first-pass reader published; printed PL54 collation and critical attribution audit pending."
+    },
+    {
+      "group": "sermones",
+      "number": 10,
+      "section": "Sermo X caput IV, complete from Sed qui ab earum fructu fuerit vacuus through Amen",
+      "paragraphs": 4,
+      "translation": "Chapter IV complete first-pass original Spanish translation",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-x/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 4,
+      "next": "Sermo X chapters I–III; preserve existing chapter IV"
     }
   ],
   "next": {
