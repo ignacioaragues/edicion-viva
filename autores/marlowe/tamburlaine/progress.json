@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2444,
+    "reviewedUnits": 2494,
     "reviewed": [
       {
         "part": 1,
@@ -954,26 +954,43 @@
         "start": 80,
         "end": 129,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 1,
+        "start": 130,
+        "end": 166,
+        "count": 37
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 2,
+        "start": 1,
+        "end": 13,
+        "count": 13
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II I.1.80–129",
+      "scope": "Parte II I.1.130–166 (37) y I.2.1–13 (13)",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 43,
-      "newNotes": 12,
+      "translationLinesRevised": 31,
+      "newNotes": 10,
       "readingCardsAdded": 2,
-      "mode": "philology-49.js; inglés base cotejado con repositorio; Dyce/Neilson/1590 y QA navegador pendientes",
+      "mode": "philology-50.js; cotejo externo PG 1589 y notas Lukacs; impreso 1590 y QA navegador pendientes",
       "sourceBasis": [
-        "Texto inglés de la edición bilingüe del repositorio (part2Scenes.1.1, unidades 80–129); cotejo externo con Dyce, Neilson y 1590 pendiente"
+        "Christopher Marlowe, Tamburlaine the Great, Part Two, Project Gutenberg eBook 1589, Act I scenes I–II, https://www.gutenberg.org/files/1589/1589-h/1589-h.htm",
+        "Peter Lukacs, Tamburlaine Part Two: Annotated Edition, Act I scene I, lines 150–180, https://elizabethandrama.org/wp-content/uploads/2017/09/Tamburlaine-Part-Two-Annotated-Plain.pdf"
       ]
     },
     "next": {
       "part": 2,
       "act": 1,
-      "scene": 1,
-      "line": 130
+      "scene": 2,
+      "line": 14
     }
   }
 }
