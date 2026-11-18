@@ -78,3 +78,36 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
 .commentary-links{display:flex;flex-wrap:wrap;column-gap:22px;row-gap:12px}
 .commentary-links a{color:var(--accent);font:600 11px/1.7 var(--sans);text-decoration:none}
 .commentary-links a:hover{text-decoration:underline}
+
+
+/* Noviembre 2026: columnas enfrentadas próximas, pero sin comprimir los versos.
+   El límite de anchura se aplica al POEMA, no al índice general. */
+.poem-view .reader{
+  width:100%;
+  max-width:1120px;
+  margin-inline:auto;
+}
+.poem-view .verse{
+  padding:2px 5px;
+  margin-inline:-5px;
+  border-radius:4px;
+  transition:background-color .12s ease;
+}
+.poem-view .verse:hover,
+.poem-view .verse:focus-within{
+  background:rgba(111,133,112,.09);
+}
+.poem-view .verse:hover .number,
+.poem-view .verse:focus-within .number{color:#657e6d}
+@media(min-width:1581px){
+  .poem-view .reader[data-layout="parallel"]:not(.no-translation):not(.hide-translation) .verse,
+  .poem-view .reader[data-layout="parallel"]:not(.no-translation):not(.hide-translation) .column-captions{
+    grid-template-columns:28px minmax(0,1fr) minmax(0,1fr);
+    column-gap:18px;
+  }
+  .poem-view .reader[data-layout="parallel"]:not(.no-translation):not(.hide-translation) .verse .spanish{
+    grid-row:auto;
+    grid-column:auto;
+    margin:0;
+  }
+}
