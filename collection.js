@@ -44,7 +44,7 @@ const collection = [
     language: 'Griego koiné · Español · Latín opcional',
     status: 'available',
     url: './autores/evangelios/marcos/',
-    detail: 'En curso · Marcos 1,1–6,54',
+    detail: 'En curso · Marcos 1,1–6,55',
   },
   {
     author: 'León I el Grande',
