@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2144,
+    "reviewedUnits": 2194,
     "reviewed": [
       {
         "part": 1,
@@ -898,26 +898,34 @@
         "start": 314,
         "end": 363,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 5,
+        "scene": 1,
+        "start": 364,
+        "end": 413,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I, lector V1-314–363",
+      "scope": "Parte I, lector V1-364–413",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 23,
+      "translationLinesRevised": 26,
       "newNotes": 11,
       "readingCardsAdded": 2,
-      "mode": "philology-43.js; cotejo directo con Lukacs 2020 pp. 88–89; acotación de muerte de Zabina requiere auditoría en stageDirections; 1590 directo y QA navegador pendientes",
+      "mode": "philology-44.js; cotejo Lukacs 2020 pp. 89–91; acotación entrada Arabia y 1590 directo pendientes; QA navegador pendiente",
       "sourceBasis": [
-        "Peter Lukacs (ed.), Christopher Marlowe, Tamburlaine the Great, Part One, Annotated Popular Edition (2020), V.ii.303–361, pp. 88–89, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
+        "Peter Lukacs (ed.), Christopher Marlowe, Tamburlaine the Great, Part One, Annotated Popular Edition (2020), V.ii.362–422, pp. 89–91, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
       ]
     },
     "next": {
       "part": 1,
       "act": 5,
       "scene": 1,
-      "line": 364
+      "line": 414
     }
   }
 }
