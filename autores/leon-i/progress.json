@@ -178,22 +178,36 @@
       "voice_notes": 4,
       "next": "Sermo XI; Sermo X morphological token cards and printed collation remain",
       "translation_complete": true
+    },
+    {
+      "group": "sermones",
+      "number": 11,
+      "section": "Sermo XI · De Collectis VI · capita I–II, PL 54 cols. 167–168",
+      "paragraphs": 13,
+      "latin_tokens": 507,
+      "translation": "complete original Spanish first pass",
+      "complete_work": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xi/index.html",
+      "voice_notes": 5,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Latin based on Wikisource Ballerini–Migne; apparatus checked for manuscript attribution and variant readings. Full printed collation and contextual morphology pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 11,
-    "section": "caput I",
-    "reason": "Epistola XXVIII first-pass translation complete; critical and morphology audit tracked separately"
+    "number": 12,
+    "section": "caput I"
   },
-  "priority": "Epistola XXVIII is active priority (I–II published, III–VI pending); after finishing it resume Sermo XI. Prior exceptional Sermo LXXXII, Epistolae X and XIV already have complete first-pass translations.",
-  "last_edit": "2026-11-18: Epistola XXVIII (Tomus ad Flavianum) published chapters I–II, 16 bilingual aligned units, 4 rhetorical notes and 20 lexical forms. III–VI pending; print collation and contextual token morphology incomplete.",
+  "priority": "Exceptional priorities Sermo LXXXII, Epistolae X, XIV, XXVIII have complete first-pass translations. Sermo XI complete first-pass; resume Sermo XII.",
+  "last_edit": "2026-11-18: Sermo XI complete bilingual first-pass reader, 2 chapters, 13 units, 507 Latin tokens, five rhetorical notes; full contextual morphology and printed collation pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
-    "group": "epistolae",
-    "number": 28,
-    "section": "caput III",
-    "status": "partial_reader_published_chapters_I_II"
+    "group": "sermones",
+    "number": 12,
+    "section": "caput I",
+    "status": "not_started"
   },
   "priority_queue": [
     {
