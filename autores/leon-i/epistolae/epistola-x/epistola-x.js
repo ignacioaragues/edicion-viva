@@ -16,7 +16,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-3",
       "label": "I.2",
       "latin": "Sed hujus muneris sacramentum ita Dominus ad omnium apostolorum officium pertinere voluit, ut in beatissimo Petro apostolorum omnium summo, principaliter collocarit; et ab ipso quasi quodam capite, dona sua velit in corpus omne manare, ut exsortem se mysterii intelligeret esse divini, qui ausus fuisset a Petri soliditate recedere. Hunc enim in consortium individuae unitatis assumptum, id quod ipse erat, voluit nominari, dicendo: Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam (Matth. XVI, 18); ut aeterni templi aedificatio, mirabili munere gratiae Dei, in Petri soliditate consisteret; hac Ecclesiam suam firmitate corroborans, ut illam nec humana temeritas posset appetere, nec portae contra illam inferri praevalerent.",
-      "spanish": "Pero el Señor quiso que el misterio de este don perteneciera al ministerio de todos los apóstoles de tal modo que lo depositó principalmente en el bienaventurado Pedro, el primero de todos ellos, y quiso que desde él, como desde una cabeza, sus dones fluyeran hacia todo el cuerpo; así, quien se atreviera a apartarse de la firmeza de Pedro comprendería que quedaba excluido del misterio divino. Pues quiso que aquel, incorporado a la comunión de una unidad indivisible, recibiera el nombre de lo que él mismo era, al decir: «Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia» (Mt 16,18); para que la construcción del templo eterno descansara, por admirable don de la gracia de Dios, sobre la firmeza de Pedro. Con esa firmeza robusteció su Iglesia, para que ni la temeridad humana pudiera atacarla ni las puertas pudieran prevalecer contra ella."
+      "spanish": "Pero el Señor quiso que el misterio de este don perteneciera al ministerio de todos los apóstoles de tal modo que lo depositó principalmente en el bienaventurado Pedro, el primero de todos ellos, y quiso que desde él, como desde una cabeza, sus dones fluyeran hacia todo el cuerpo; así, quien se atreviera a apartarse de la firmeza de Pedro comprendería que quedaba excluido del misterio divino. Pues quiso que aquel, incorporado a la comunión de una unidad indivisible, recibiera el nombre de lo que él mismo era, al decir: «Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia» (Mt 16,18); para que la construcción del templo eterno descansara, por admirable don de la gracia de Dios, sobre la firmeza de Pedro. Con esa firmeza robusteció su Iglesia, para que ni la temeridad humana pudiera atacarla ni las puertas pudieran prevalecer contra ella.",
+      "note": [
+        "Cabeza y cuerpo",
+        "La primacía se presenta como circulación orgánica de los dones: desde Pedro, como cabeza, hacia el cuerpo eclesial."
+      ]
     },
     {
       "id": "ep10-4",
@@ -28,7 +32,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-5",
       "label": "II.1",
       "latin": "Verum haec nos, Deo, ut credimus, aspirante, servata circa vos nostrae charitatis gratia, quam sanctitati vestrae apostolica semper sedes, ut meministis, impendit, nitimur consilio maturiore corrigere, et vestrarum Ecclesiarum statum communicato vobiscum labore, componere, non nova instituentes, sed vetera renovantes: ut in status consuetudine, quae nobis a nostris patribus est tradita, perduremus, et Deo nostro per boni operis ministerium, remotis perturbationum scandalis, placeamus.",
-      "spanish": "Ahora bien, con la inspiración de Dios, según creemos, y manteniendo hacia vosotros el afecto de nuestra caridad, que la sede apostólica siempre ha dispensado a vuestra santidad, como recordáis, procuramos corregir estas cosas con una deliberación más madura y ordenar la situación de vuestras Iglesias mediante un esfuerzo compartido con vosotros. No establecemos novedades: renovamos lo antiguo, para perseverar en el orden acostumbrado que nos transmitieron nuestros padres y agradar a nuestro Dios mediante el servicio de las buenas obras, una vez apartados los escándalos de las perturbaciones."
+      "spanish": "Ahora bien, con la inspiración de Dios, según creemos, y manteniendo hacia vosotros el afecto de nuestra caridad, que la sede apostólica siempre ha dispensado a vuestra santidad, como recordáis, procuramos corregir estas cosas con una deliberación más madura y ordenar la situación de vuestras Iglesias mediante un esfuerzo compartido con vosotros. No establecemos novedades: renovamos lo antiguo, para perseverar en el orden acostumbrado que nos transmitieron nuestros padres y agradar a nuestro Dios mediante el servicio de las buenas obras, una vez apartados los escándalos de las perturbaciones.",
+      "note": [
+        "Tradición frente a innovación",
+        "«Non nova instituentes, sed vetera renovantes»: la intervención se formula como restauración de la costumbre, no como una ampliación novedosa de poder."
+      ]
     },
     {
       "id": "ep10-6",
@@ -40,7 +48,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-7",
       "label": "II.3",
       "latin": "Sed hunc tramitem semper inter majores nostros et bene tentum, et salubriter custoditum Hilarius Ecclesiarum statum et concordiam sacerdotum novis praesumptionibus turbaturus excessit; ita suae vos cupiens subdere potestati, ut se beato apostolo Petro non patiatur esse subjectum, ordinationis sibi omnium per Gallias Ecclesiarum vindicans, et debitam metropolitanis sacerdotibus in suam transferens dignitatem; ipsius quoque beatissimi Petri reverentiam verbis arrogantioribus minuendo: cui cum prae caeteris solvendi et ligandi tradita sit potestas (Matth. XVI), pascendarum tamen ovium cura specialius mandata est (Joan. XXI). Cui quisquis principatum aestimat denegandum, illius quidem nullo modo potest minuere dignitatem; sed inflatus spiritu superbiae suae, semetipsum in inferna demergit.",
-      "spanish": "Pero Hilario abandonó este camino, bien seguido y saludablemente custodiado desde siempre por nuestros mayores, con la intención de perturbar mediante nuevas pretensiones el orden de las Iglesias y la concordia de los obispos. Desea someteros a su potestad de tal manera que no tolera estar él mismo sometido al bienaventurado apóstol Pedro: reclama para sí la ordenación de todas las Iglesias de las Galias y transfiere a su propia dignidad la que corresponde a los metropolitanos. Incluso disminuye con palabras arrogantes la reverencia debida al bienaventurado Pedro, a quien se confió especialmente, por encima de los demás, el poder de atar y desatar (Mt 16), y de modo particular el cuidado de apacentar las ovejas (Jn 21). Quien considera que debe negársele la primacía no puede disminuir en absoluto su dignidad; antes bien, hinchado por el espíritu de su propia soberbia, se hunde a sí mismo en los abismos."
+      "spanish": "Pero Hilario abandonó este camino, bien seguido y saludablemente custodiado desde siempre por nuestros mayores, con la intención de perturbar mediante nuevas pretensiones el orden de las Iglesias y la concordia de los obispos. Desea someteros a su potestad de tal manera que no tolera estar él mismo sometido al bienaventurado apóstol Pedro: reclama para sí la ordenación de todas las Iglesias de las Galias y transfiere a su propia dignidad la que corresponde a los metropolitanos. Incluso disminuye con palabras arrogantes la reverencia debida al bienaventurado Pedro, a quien se confió especialmente, por encima de los demás, el poder de atar y desatar (Mt 16), y de modo particular el cuidado de apacentar las ovejas (Jn 21). Quien considera que debe negársele la primacía no puede disminuir en absoluto su dignidad; antes bien, hinchado por el espíritu de su propia soberbia, se hunde a sí mismo en los abismos.",
+      "note": [
+        "Acusación de soberbia",
+        "La antítesis entre someter a los otros y no someterse a Pedro construye la acusación contra Hilario."
+      ]
     },
     {
       "id": "ep10-8",
@@ -52,7 +64,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-9",
       "label": "III.2",
       "latin": "Doluimus, fateor, fratres, et hunc ejus mentis tumorem medelis patientiae nostrae curare tentavimus. Nolebamus etenim ea illi exacerbare vulnera, quae suae animae insolentibus subinde sermonibus infligebat, et quem susceperamus ut fratrem, delinire magis ipsum, quamvis ipse se suis responsionibus innodaret, quam contristare nostris interlocutionibus, nitebamur.",
-      "spanish": "Nos dolió, lo confieso, hermanos, e intentamos curar esa hinchazón de su ánimo con los remedios de nuestra paciencia. No queríamos agravar las heridas que él mismo infligía una y otra vez a su alma con palabras insolentes; a quien habíamos recibido como hermano procurábamos más bien apaciguarlo que afligirlo con nuestras intervenciones, aunque él mismo se enredara en sus respuestas."
+      "spanish": "Nos dolió, lo confieso, hermanos, e intentamos curar esa hinchazón de su ánimo con los remedios de nuestra paciencia. No queríamos agravar las heridas que él mismo infligía una y otra vez a su alma con palabras insolentes; a quien habíamos recibido como hermano procurábamos más bien apaciguarlo que afligirlo con nuestras intervenciones, aunque él mismo se enredara en sus respuestas.",
+      "note": [
+        "Paciencia terapéutica",
+        "León representa la corrección del adversario con léxico médico: «tumorem», «medelis», «vulnera»; presenta su paciencia como remedio."
+      ]
     },
     {
       "id": "ep10-10",
@@ -88,13 +104,21 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-15",
       "label": "IV.2",
       "latin": "Epistola quoque ingesta est civium ipsius, et numerosa singulorum subscriptione firmata, invidiosissimis contra Hilarium plena querimoniis: quod Projecto episcopo suo aegrotare liberum non fuisset, ejusque sacerdotium in alium praeter suam notitiam esse translatum, et tamquam in vacuam possessionem ab Hilario pervasore haeredem viventis inductum. Quid hic fraternitas vestra sentiat, cuperemus audire.",
-      "spanish": "También se presentó una carta de sus conciudadanos, respaldada por numerosas firmas individuales y llena de gravísimas quejas contra Hilario: que a Projecto, su obispo, ni siquiera se le había permitido estar enfermo, que su ministerio había sido transferido a otro sin su conocimiento y que Hilario, como un invasor de una propiedad vacante, había introducido al heredero de alguien todavía vivo. Quisiéramos escuchar qué piensa vuestra fraternidad de esto."
+      "spanish": "También se presentó una carta de sus conciudadanos, respaldada por numerosas firmas individuales y llena de gravísimas quejas contra Hilario: que a Projecto, su obispo, ni siquiera se le había permitido estar enfermo, que su ministerio había sido transferido a otro sin su conocimiento y que Hilario, como un invasor de una propiedad vacante, había introducido al heredero de alguien todavía vivo. Quisiéramos escuchar qué piensa vuestra fraternidad de esto.",
+      "note": [
+        "El heredero del vivo",
+        "«Haeredem viventis»: la sucesión episcopal se describe como una ocupación de propiedad antes de la muerte de su titular."
+      ]
     },
     {
       "id": "ep10-16",
       "label": "IV.3",
       "latin": "Quamquam de vestris animis nostra non debeat sententia dubitare: cum fratrem in lectulo constitutum, tam non infirmitate corporis aggravari quam alio videatis dolore torqueri. Quae spes illi de vita relinquitur, cui de sacerdotio suo desperatio, dum illi alter substituitur, irrogatur? Apparet quam mitis sit corde Hilarius, qui obesse praesumptioni suae fraternae mortis credidit tarditatem.",
-      "spanish": "Aunque nuestro juicio no debe dudar de vuestros sentimientos, pues veis a un hermano postrado en cama, atormentado no tanto por su enfermedad física como por otro dolor. ¿Qué esperanza de vida le queda a aquel a quien se impone la desesperación de perder su episcopado al sustituirlo por otro? Queda claro cuán manso de corazón es Hilario, que juzgó que la demora de la muerte de su hermano obstaculizaba sus pretensiones."
+      "spanish": "Aunque nuestro juicio no debe dudar de vuestros sentimientos, pues veis a un hermano postrado en cama, atormentado no tanto por su enfermedad física como por otro dolor. ¿Qué esperanza de vida le queda a aquel a quien se impone la desesperación de perder su episcopado al sustituirlo por otro? Queda claro cuán manso de corazón es Hilario, que juzgó que la demora de la muerte de su hermano obstaculizaba sus pretensiones.",
+      "note": [
+        "Ironía acusatoria",
+        "«Apparet quam mitis sit corde Hilarius»: la mansedumbre atribuida a Hilario contrasta irónicamente con el deseo de que la muerte de Projecto se apresure."
+      ]
     },
     {
       "id": "ep10-17",
@@ -112,7 +136,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-19",
       "label": "V.1",
       "latin": "Sed ille insperatus nescientibus supervenit, et improvisus abscessit, cursu, ut didicimus, celeri itinera multa conficiens, et per longinquas provincias tanta immaturitate discurrens, ut videatur gloriam de scurrili velocitate potius quam de sacerdotali moderatione captasse. Haec enim directarum ad nos civium verba sunt litterarum: Ante abscessit quam eum venisse nossemus.",
-      "spanish": "Pero él llegó inesperadamente, sin que nadie lo supiera, y se marchó de improviso; según hemos sabido, hizo numerosos viajes a toda velocidad y recorrió provincias lejanas con tal precipitación que parece haber buscado la gloria de una rapidez propia de un correveidile antes que la moderación de un obispo. Estas son, en efecto, las palabras de la carta que nos enviaron los ciudadanos: «Se fue antes de que supiéramos que había llegado»."
+      "spanish": "Pero él llegó inesperadamente, sin que nadie lo supiera, y se marchó de improviso; según hemos sabido, hizo numerosos viajes a toda velocidad y recorrió provincias lejanas con tal precipitación que parece haber buscado la gloria de una rapidez propia de un correveidile antes que la moderación de un obispo. Estas son, en efecto, las palabras de la carta que nos enviaron los ciudadanos: «Se fue antes de que supiéramos que había llegado».",
+      "note": [
+        "Rapidez impropia",
+        "El contraste «scurrili velocitate / sacerdotali moderatione» contrapone el apresuramiento del mensajero a la gravedad esperada del obispo."
+      ]
     },
     {
       "id": "ep10-20",
@@ -142,7 +170,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-24",
       "label": "VI.2",
       "latin": "Obtestor et obsecro, et sub Dei vos invocatione convenio, prohibete, fratres, talia, et omnem dissensionis materiam de vestris provinciis removete. Certe nos ante Deum absolvimus, qui vos, ne permittatis ultra haec fieri, convenimus. Per pacem et quietem sacerdotes qui futuri sunt postulentur. Teneatur subscriptio clericorum, honoratorum testimonium, ordinis consensus et plebis. Qui praefuturus est omnibus, ab omnibus eligatur.",
-      "spanish": "Os conjuro, os suplico y os exhorto invocando a Dios: impedid, hermanos, tales cosas y apartad de vuestras provincias toda ocasión de discordia. Nosotros ciertamente cumplimos nuestra responsabilidad ante Dios al exhortaros a que no permitáis que esto vuelva a suceder. Que los futuros obispos sean solicitados en paz y tranquilidad. Que se cuente con la firma de los clérigos, el testimonio de los notables y el consentimiento de los órdenes y del pueblo. Quien vaya a presidir a todos, sea elegido por todos."
+      "spanish": "Os conjuro, os suplico y os exhorto invocando a Dios: impedid, hermanos, tales cosas y apartad de vuestras provincias toda ocasión de discordia. Nosotros ciertamente cumplimos nuestra responsabilidad ante Dios al exhortaros a que no permitáis que esto vuelva a suceder. Que los futuros obispos sean solicitados en paz y tranquilidad. Que se cuente con la firma de los clérigos, el testimonio de los notables y el consentimiento de los órdenes y del pueblo. Quien vaya a presidir a todos, sea elegido por todos.",
+      "note": [
+        "Elección y consentimiento",
+        "«Qui praefuturus est omnibus, ab omnibus eligatur»: la sentencia universaliza el principio de consentimiento en la elección episcopal."
+      ]
     },
     {
       "id": "ep10-25",
@@ -172,7 +204,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-29",
       "label": "VII.2",
       "latin": "Dignum est enim, fratres, antiquitatis statuta reparari, cum is qui sibi ordinationem provinciae indebitae vindicabat, talis in praesenti etiam probatus fuerit exstitisse, ut cum ipse frequentius temerariis et insolentibus verbis sententiam damnationis expeteret, suae tantum civitatis illi sacerdotium, pro sedis apostolicae pietate, praeceptio nostra servaverit.",
-      "spanish": "Es justo, hermanos, restaurar las disposiciones antiguas, pues quien reclamaba para sí las ordenaciones de una provincia que no le correspondía ha mostrado también en este asunto una conducta tal que, aunque con sus palabras temerarias e insolentes se buscó repetidamente una sentencia condenatoria, nuestra disposición, por la clemencia de la sede apostólica, le ha conservado únicamente el episcopado de su propia ciudad."
+      "spanish": "Es justo, hermanos, restaurar las disposiciones antiguas, pues quien reclamaba para sí las ordenaciones de una provincia que no le correspondía ha mostrado también en este asunto una conducta tal que, aunque con sus palabras temerarias e insolentes se buscó repetidamente una sentencia condenatoria, nuestra disposición, por la clemencia de la sede apostólica, le ha conservado únicamente el episcopado de su propia ciudad.",
+      "note": [
+        "Severidad y clemencia",
+        "León presenta la limitación de Hilario a su propia ciudad como acto de «pietas» de la sede apostólica, pese al tono condenatorio."
+      ]
     },
     {
       "id": "ep10-30",
@@ -184,7 +220,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-31",
       "label": "VIII.1",
       "latin": "Nulli Christianorum facile communio denegetur, nec ad indignantis fiat hoc arbitrium sacerdotis, quod in magni reatus ultionem invitus et dolens quodammodo debet inferre animus judicantis. Cognovimus enim pro commissis et levibus verbis quosdam a gratia communionis exclusos, et animam pro qua Christi sanguis effusus est, irrogatione tam saevi supplicii sauciatam et inermem quodammodo, exutamque omni munimine, diabolicis incursibus, ut facile caperetur, objectam.",
-      "spanish": "Que no se niegue fácilmente la comunión a ningún cristiano, ni dependa del arbitrio de un obispo indignado una medida que el ánimo del juez debería imponer, en castigo de una falta grave, solo a disgusto y con dolor. Hemos sabido, en efecto, que algunos fueron excluidos de la gracia de la comunión por faltas y palabras leves, y que un alma por la cual se derramó la sangre de Cristo, herida por la imposición de un castigo tan cruel, quedó de algún modo desarmada, despojada de toda protección y expuesta a los ataques del diablo para que la capturara fácilmente."
+      "spanish": "Que no se niegue fácilmente la comunión a ningún cristiano, ni dependa del arbitrio de un obispo indignado una medida que el ánimo del juez debería imponer, en castigo de una falta grave, solo a disgusto y con dolor. Hemos sabido, en efecto, que algunos fueron excluidos de la gracia de la comunión por faltas y palabras leves, y que un alma por la cual se derramó la sangre de Cristo, herida por la imposición de un castigo tan cruel, quedó de algún modo desarmada, despojada de toda protección y expuesta a los ataques del diablo para que la capturara fácilmente.",
+      "note": [
+        "La pena y el dolor del juez",
+        "La excomunión se describe como una sanción que el juez debe imponer «invitus et dolens», no por indignación personal."
+      ]
     },
     {
       "id": "ep10-32",
@@ -202,7 +242,11 @@ window.LEO_EPISTOLA_X = {
       "id": "ep10-34",
       "label": "IX.2",
       "latin": "Non enim nobis ordinationes vestrarum provinciarum defendimus, quod potest forsitan ad depravandos vestrae sanctitatis animos Hilarius pro suo more mentiri; sed vobis per nostram sollicitudinem vindicamus, ne quid ulterius liceat novitati, nec praesumptori locus ultra jam pateat privilegia vestra cassandi.",
-      "spanish": "Pues no reivindicamos para nosotros las ordenaciones de vuestras provincias —aunque Hilario quizá mienta, como acostumbra, para perturbar vuestros ánimos—, sino que mediante nuestra solicitud las reclamamos para vosotros, a fin de que la innovación no tenga ya margen de acción ni se abra de nuevo al usurpador la posibilidad de anular vuestros privilegios."
+      "spanish": "Pues no reivindicamos para nosotros las ordenaciones de vuestras provincias —aunque Hilario quizá mienta, como acostumbra, para perturbar vuestros ánimos—, sino que mediante nuestra solicitud las reclamamos para vosotros, a fin de que la innovación no tenga ya margen de acción ni se abra de nuevo al usurpador la posibilidad de anular vuestros privilegios.",
+      "note": [
+        "Autoridad en beneficio ajeno",
+        "«Non enim nobis ... sed vobis»: el contraste afirma que Roma protege los derechos provinciales, en vez de apropiárselos."
+      ]
     },
     {
       "id": "ep10-35",
