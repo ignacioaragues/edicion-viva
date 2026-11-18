@@ -1397,5 +1397,101 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "16": {
+    "intro": "La música de Navidad transforma un despertar a oscuras en una experiencia de redención. Anne evoca el canto de los ángeles en Lucas y lo amplía a la Encarnación, la Pasión y la liberación.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Music I love",
+        "title": "Un poema adaptado posteriormente como himno",
+        "body": "La edición de Shorter sitúa la composición hacia 1845, sin fecha exacta. Hymnary registra una adaptación musical con la melodía Pater Omnium: pertenece a la recepción y no implica que Anne compusiera el poema para esa música.",
+        "kind": "Historia editorial",
+        "sources": [
+          {
+            "url": "https://hymnary.org/text/music_i_love_but_neer_a_strain",
+            "label": "Hymnary, registro de la musicalización"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "phrase": "Christmas morn",
+        "title": "Navidad antes del amanecer",
+        "body": "La música llega mientras la noche conserva su poder. El despertar de los oyentes y el nacimiento de Cristo se superponen: la escena literal prepara una experiencia de iluminación religiosa.",
+        "kind": "Lectura textual",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Primera edición de 1846"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "phrase": "angel's voice",
+        "title": "El canto convertido en anuncio",
+        "body": "La voz del canto recuerda al ángel que anuncia el nacimiento a los pastores en Lucas 2. Los oyentes del presente reviven el relato bíblico a través de la música.",
+        "kind": "Intertexto bíblico",
+        "sources": [
+          {
+            "url": "https://www.biblegateway.com/passage/?search=Luke+2%3A8-14&version=KJV",
+            "label": "Lucas 2:8–14, KJV"
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "phrase": "watched their flocks",
+        "title": "Los pastores del relato de Lucas",
+        "body": "La mención de quienes velaban los rebaños evoca específicamente Lucas 2:8. El poema transforma la memoria de la Natividad en participación litúrgica del yo.",
+        "kind": "Intertexto",
+        "sources": [
+          {
+            "url": "https://www.biblegateway.com/passage/?search=Luke+2%3A8-14&version=KJV",
+            "label": "Lucas 2:8–14"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "phrase": "Glory to God",
+        "title": "La aclamación de los ángeles",
+        "body": "Los versos reformulan la gloria a Dios, la paz y la buena voluntad de Lucas 2:14; Anne añade la figura de un rey salvador que desplaza el canto hacia la victoria redentora.",
+        "kind": "Cita y adaptación",
+        "sources": [
+          {
+            "url": "https://www.biblegateway.com/passage/?search=Luke+2%3A8-14&version=KJV",
+            "label": "Lucas 2:13–14"
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "phrase": "Hell MUST",
+        "title": "Una redención formulada como obligación",
+        "body": "La capitalización de MUST, y de RIGHT en el verso 36, da al triunfo de Cristo un lenguaje de necesidad y derecho. Puede compararse con la poesía religiosa de Anne, pero esta estrofa no establece por sí sola una doctrina precisa de salvación universal.",
+        "kind": "Teología y énfasis",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/bronte-anne.html",
+            "label": "University of Pennsylvania, poesía y creencias de Anne"
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "phrase": "captive's galling bonds",
+        "title": "Las cadenas del cautivo",
+        "body": "La liberación religiosa adopta la forma de unas cadenas rotas. El cierre convierte la salvación en regreso a Dios como hogar: una imagen potente, aunque no identificable sin más con una propuesta política literal.",
+        "kind": "Simbolismo",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Music_on_Christmas_Morning",
+            "label": "The Complete Poems of Anne Brontë, Music on Christmas Morning"
+          }
+        ]
+      }
+    ]
   }
 };
