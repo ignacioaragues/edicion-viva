@@ -171,7 +171,7 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "All 18 aligned units and 913 occurrence-specific lexical cards staged in unindexed provisional reader. NEXT: collate all seven chapters against printed PL 54 and apparatus; correct Latin/translation/morphology, validate browser interactions and source readings, then index and mark complete. Epistola X follows.",
+      "next": "Cotejar visualmente las siete secciones contra facsímil impreso PL 54 y aparato; resolver lecturas señaladas en COLLATION-REGISTER.md, actualizar las 913 fichas y lector, probar interacción y solo entonces publicar/indexar. Epistola X después.",
       "morphology_units_with_contextual_table": 18,
       "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -190,7 +190,9 @@
       "reader_staged": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxxii/index.html",
       "reader_data_path": "autores/leon-i/sermones/sermo-lxxxii/sermo-lxxxii.js",
-      "reader_first_pass_occurrences": 913
+      "reader_first_pass_occurrences": 913,
+      "secondary_transcription_review": "Seven chapters / 18 units checked for structural continuity against frcoulter.com/leo/latin/tractatus82.html (2026-11-18); no omitted chapter detected. NOT a printed PL 54 facsimile or apparatus collation.",
+      "collation_register": "autores/leon-i/sermones/sermo-lxxxii/COLLATION-REGISTER.md"
     },
     {
       "group": "epistolae",
