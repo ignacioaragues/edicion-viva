@@ -319,3 +319,8 @@
 - **50 unidades**: Parte II I.1.30–79. Acumulado **2.394/4.641 (51,6 %)**. Sigue Parte II I.1.80–129.
 - **31 correcciones**, 19 traducciones conservadas; **13 notas** y **2 fichas**. Inglés cotejado íntegramente contra las unidades efectivas del repositorio; no se consiguió verificar externamente Dyce, Neilson ni 1590 en esta pasada. Esta limitación queda registrada, sin atribuirles cotejos.
 - Se conservan original, IDs, acotaciones, numeración y navegación; la capa exige igualdad literal del inglés antes de aplicarse. QA en navegador pendiente.
+
+## Cuadragésima novena pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.1.80–129. Acumulado **2.444/4.641 (52,7 %)**. Sigue Parte II I.1.130–179 (si la escena alcanza esa numeración).
+- **43 correcciones**, 7 traducciones conservadas; **12 notas** y **2 fichas**. Inglés comprobado íntegramente contra las unidades efectivas del repositorio; sin cotejo externo verificable con Dyce, Neilson ni 1590. No atribuir cotejo externo.
+- IDs, inglés, numeración y acotaciones intactos; la capa verifica igualdad literal de cada unidad antes de aplicar. QA en navegador pendiente.
