@@ -196,17 +196,18 @@
     }
   ],
   "next": {
-    "group": "sermones",
-    "number": 12,
-    "section": "caput I"
+    "group": "epistolae",
+    "number": 113,
+    "section": "beginning",
+    "reason": "New user-prioritized sequence; resume Sermo XII after five works"
   },
-  "priority": "Exceptional priorities Sermo LXXXII, Epistolae X, XIV, XXVIII have complete first-pass translations. Sermo XI complete first-pass; resume Sermo XII.",
-  "last_edit": "2026-11-18: Sermo XI complete bilingual first-pass reader, 2 chapters, 13 units, 507 Latin tokens, five rhetorical notes; full contextual morphology and printed collation pending.",
+  "priority": "Completed first-pass special priorities 82, Ep. 10, 14, 28 and Sermo XI. New priority order: Epistolae 113, 159, 166, 167, then Sermo 84; resume ordinary sequence at Sermo XII afterward.",
+  "last_edit": "2026-11-18: User-designated next priorities registered in progress.json; no new text translated in this change.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
-    "group": "sermones",
-    "number": 12,
-    "section": "caput I",
+    "group": "epistolae",
+    "number": 113,
+    "section": "beginning",
     "status": "not_started"
   },
   "priority_queue": [
@@ -346,6 +347,56 @@
       "lexicon_surface_forms": 20,
       "voice_notes": 15,
       "authenticity": "Authentic doctrinal letter of Leo I to Flavian, dated 13 June 449; PL54 traditional epistle XXVIII; critical printed collation outstanding"
+    },
+    {
+      "group": "epistolae",
+      "number": 113,
+      "status": "priority_pending",
+      "skip_after_completion": true,
+      "translation_complete": false,
+      "reader_published": false,
+      "source_collation_complete": false,
+      "morphology_complete": false
+    },
+    {
+      "group": "epistolae",
+      "number": 159,
+      "status": "priority_pending",
+      "skip_after_completion": true,
+      "translation_complete": false,
+      "reader_published": false,
+      "source_collation_complete": false,
+      "morphology_complete": false
+    },
+    {
+      "group": "epistolae",
+      "number": 166,
+      "status": "priority_pending",
+      "skip_after_completion": true,
+      "translation_complete": false,
+      "reader_published": false,
+      "source_collation_complete": false,
+      "morphology_complete": false
+    },
+    {
+      "group": "epistolae",
+      "number": 167,
+      "status": "priority_pending",
+      "skip_after_completion": true,
+      "translation_complete": false,
+      "reader_published": false,
+      "source_collation_complete": false,
+      "morphology_complete": false
+    },
+    {
+      "group": "sermones",
+      "number": 84,
+      "status": "priority_pending",
+      "skip_after_completion": true,
+      "translation_complete": false,
+      "reader_published": false,
+      "source_collation_complete": false,
+      "morphology_complete": false
     }
   ],
   "resume_after_priority": {
