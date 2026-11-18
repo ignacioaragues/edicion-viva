@@ -49,3 +49,32 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
 @media(max-width:600px){
   body:has(.poem-view:not([hidden])) .main{padding-inline:17px}
 }
+
+
+/* Solo notas puntuales: nada de enlaces morfológicos sobre todas las palabras. */
+.note-anchor{
+  appearance:none;border:0;background:none;padding:0;margin:0;
+  display:inline;color:inherit;font:inherit;line-height:inherit;cursor:pointer;
+  text-decoration:none;text-underline-offset:4px;text-decoration-thickness:1px;
+}
+.note-anchor:hover,.note-anchor:focus-visible{
+  text-decoration:underline;text-decoration-color:#977f6d;
+}
+.poem-commentary{
+  margin-top:51px;border-top:1px solid var(--border);
+  padding:34px 0 9px;
+}
+.commentary-kicker{
+  display:block;font:700 10px var(--sans);letter-spacing:.17em;color:#946c57;
+}
+.poem-commentary h2{
+  font:400 clamp(25px,3vw,33px)/1.35 var(--serif);
+  letter-spacing:-.045em;margin:13px 0 19px;
+}
+.poem-commentary p{
+  font:400 14px/2 var(--serif);color:#576159;
+  max-width:830px;margin:0 0 25px;
+}
+.commentary-links{display:flex;flex-wrap:wrap;column-gap:22px;row-gap:12px}
+.commentary-links a{color:var(--accent);font:600 11px/1.7 var(--sans);text-decoration:none}
+.commentary-links a:hover{text-decoration:underline}
