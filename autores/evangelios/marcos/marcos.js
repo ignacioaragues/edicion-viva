@@ -1,4 +1,4 @@
-/* Marcos 1,1–7,1 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–7,2 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -256,9 +256,14 @@
     ,{"chapter":6,"n":55,"gr":"περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.","es":"Recorrieron corriendo toda aquella región y empezaron a llevar en camillas a los enfermos adonde oían que él estaba.","la":"","notes":["mc655run","mc655beds"]},
     {"chapter":6,"n":56,"gr":"καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.","es":"Y dondequiera que entraba, en aldeas, ciudades o campos, ponían a los enfermos en las plazas y le suplicaban que los dejara tocar siquiera el borde de su manto. Y todos los que lo tocaban quedaban sanos.","la":"","notes":["mc656places","mc656fringe","mc656healing"]}
     ,{"chapter":7,"n":1,"gr":"Καὶ συνάγονται πρὸς αὐτὸν οἱ Φαρισαῖοι καί τινες τῶν γραμματέων ἐλθόντες ἀπὸ Ἱεροσολύμων","es":"Y se reúnen junto a él los fariseos y algunos de los escribas que habían llegado de Jerusalén.","la":"","notes":["mc701assembly","mc701jerusalem"]}
+    ,{"chapter":7,"n":2,"gr":"καὶ ἰδόντες τινὰς τῶν μαθητῶν αὐτοῦ ὅτι κοιναῖς χερσίν, τοῦτ’ ἔστιν ἀνίπτοις, ἐσθίουσιν τοὺς ἄρτους","es":"Y, al ver que algunos de sus discípulos comían pan con las manos consideradas impuras, es decir, sin lavar…","la":"","notes":["mc702common","mc702syntax","mc702variant"]}
   ];
 
   const notes = {
+    mc702common: ["Manos «comunes»","κοιναῖς, literalmente «comunes», se emplea aquí para la impureza ritual; el propio narrador aclara τοῦτ’ ἔστιν ἀνίπτοις («es decir, sin lavar»). No debe equipararse sin más a una falta de higiene. A. T. Robertson, Word Pictures in the New Testament, comentario a Mc 7,2, https://ccel.org/ccel/robertson_at/wordpictures/htm/MR7.RWP.html"],
+    mc702syntax: ["Una oración suspendida","El participio ἰδόντες («al ver») no recibe aquí un verbo principal expreso en la lectura SBLGNT. Tras la explicación de 7,3–4, la narración retoma la pregunta de los fariseos en 7,5. La elipsis en español señala la continuidad sintáctica. Expositor’s Greek Testament, comentario a Mc 7,2, https://mail.biblehub.com/commentaries/egt/mark/7.htm"],
+    mc702variant: ["Variante de cierre","La lectura SBLGNT termina en ἄρτους sin ἐμέμψαντο («reprocharon»); otras tradiciones añaden ese verbo y regularizan la oración. No debe introducirse en el cuerpo del texto base. Cf. aparato comparativo en David Robert Palmer, Gospel of Mark, notas a 7,2, https://bibletranslation.ws/trans/markwgrk.pdf"],
+
     mc701assembly: ["Nueva controversia", "El presente histórico συνάγονται introduce una nueva escena de discusión después de las curaciones de 6,53–56. El participio aoristo ἐλθόντες se refiere a los escribas llegados de Jerusalén; el relato no afirma que todos los fariseos procedan de allí. Cf. Peter Misselbrook, Reading the Greek New Testament, comentario a Marcos 7,1–20, https://www.misselbrook.org.uk/GNT/Mark.pdf"],
     mc701jerusalem: ["Escribas procedentes de Jerusalén", "γραμματεῖς designa especialistas en la interpretación de la Ley. La mención de Jerusalén conecta la controversia galilea con el centro religioso; atribuir a este grupo una delegación oficial sería una inferencia, no una afirmación expresa del versículo. Texto: M. W. Holmes (ed.), SBLGNT (2010), Mc 7,1, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
     mc656places: ["Aldeas, ciudades y campos", "La enumeración κώμας / πόλεις / ἀγρούς y los imperfectos εἰσεπορεύετο, ἐτίθεσαν y παρεκάλουν presentan una actividad repetida, no una única visita. Fuente: M. W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 6,56, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
