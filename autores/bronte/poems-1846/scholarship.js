@@ -2803,5 +2803,483 @@ window.BRONTE_SCHOLARSHIP_1846={
       ]
     }
   ]
+},
+  "31": {
+  "intro": "La súplica dramatiza la fe como deseo y la duda como experiencia interior de una creyente; las afirmaciones religiosas aparecen a menudo en forma condicional.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "Eternal Power, of earth ",
+      "kind": "Lectura textual",
+      "title": "Invocación al poder invisible",
+      "body": "El apóstrofe inicial se dirige a una presencia perceptible en la creación, aunque no visible directamente.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "phrase": "And if, indeed, Thy Son ",
+      "kind": "Intertexto bíblico",
+      "title": "La cristología condicional",
+      "body": "El «if» introduce incertidumbre incluso acerca de la misión salvífica del Hijo.",
+      "sources": [
+        {
+          "label": "Biblia KJV, John 3:16",
+          "url": "https://www.biblegateway.com/passage/?search=John%203%3A16&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 12,
+      "phrase": "OH, GIVE ME--GIVE ME FAI",
+      "kind": "Intertexto bíblico",
+      "title": "La fe como don",
+      "body": "Repetición y mayúsculas convierten la fe, no el alivio material, en el objeto de la súplica.",
+      "sources": [
+        {
+          "label": "Biblia KJV, Mark 9:24",
+          "url": "https://www.biblegateway.com/passage/?search=Mark%209%3A24&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 29,
+      "phrase": "If this be vain delusion",
+      "kind": "Intertexto bíblico",
+      "title": "Muerte como sueño eterno",
+      "body": "La posibilidad de extinción después de la muerte se contempla explícitamente, en contraste con la esperanza de resurrección.",
+      "sources": [
+        {
+          "label": "Biblia KJV, 1 Corinthians 15:12-19",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A12-19&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 41,
+      "phrase": "If I believe that Jesus ",
+      "kind": "Intertexto bíblico",
+      "title": "Creer y transformarse",
+      "body": "La resurrección aparece como fundamento de una transformación moral presente.",
+      "sources": [
+        {
+          "label": "Biblia KJV, 1 Corinthians 15:3-4",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A3-4&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "32": {
+  "intro": "El diálogo entre Jane y Emma contrapone consuelo doméstico y presentimiento mortal. El epílogo, ocho meses después, introduce el problema de la memoria de los supervivientes.",
+  "notes": [
+    {
+      "line": 5,
+      "phrase": "That open book has lain,",
+      "kind": "Lectura textual",
+      "title": "El libro abandonado",
+      "body": "La lectura suspendida expresa la concentración de Emma en un paisaje de presagio.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 29,
+      "phrase": "I've swept the hearth, a",
+      "kind": "Lectura textual",
+      "title": "El hogar como refugio insuficiente",
+      "body": "Jane ofrece calor y compañía, pero Emma no encuentra paz en ese espacio.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 38,
+      "phrase": "I'm on a distant journey",
+      "kind": "Lectura textual",
+      "title": "El viaje como figura de muerte",
+      "body": "La partida se formula primero como desplazamiento y luego como tránsito a la eternidad.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 51,
+      "phrase": "Eight months are gone, t",
+      "kind": "Lectura textual",
+      "title": "Salto temporal",
+      "body": "El relato pasa del diálogo al duelo retrospectivo de Jane.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 65,
+      "phrase": "And how her sister's mem",
+      "kind": "Lectura textual",
+      "title": "La memoria que se desvanece",
+      "body": "El recuerdo de Emma se atenúa como la nieve de invierno bajo la luz primaveral.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 71,
+      "phrase": "On Beulah's hills she wa",
+      "kind": "Intertexto bíblico",
+      "title": "Beulah",
+      "body": "La geografía celestial evoca Isaías 62:4 y la tradición alegórica cristiana.",
+      "sources": [
+        {
+          "label": "Biblia KJV, Isaiah 62:4",
+          "url": "https://www.biblegateway.com/passage/?search=Isaiah%2062%3A4&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "33": {
+  "intro": "Emily imagina otros mundos moralmente distintos del mundo presente; la hipótesis cósmica está explícitamente marcada como sueño, no como certeza.",
+  "notes": [
+    {
+      "line": 4,
+      "phrase": "\"To morrow, wake, but dr",
+      "kind": "Lectura textual",
+      "title": "Permiso para soñar",
+      "body": "La noche permite suspender provisionalmente la presión del mundo.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "phrase": "Yes, Fancy, come, my Fai",
+      "kind": "Lectura textual",
+      "title": "Fantasía personificada",
+      "body": "La imaginación se invoca como una compañera capaz de traer reposo.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "phrase": "While gazing on the star",
+      "kind": "Lectura textual",
+      "title": "Escala cósmica",
+      "body": "La mirada a las estrellas permite preguntar si el sufrimiento es universal.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "I'll think, there's not ",
+      "kind": "Lectura textual",
+      "title": "Otros mundos posibles",
+      "body": "El «I'll think» limita la afirmación sobre mundos libres de injusticia a una esperanza imaginativa.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 35,
+      "phrase": "And Truth is weak, and T",
+      "kind": "Lectura textual",
+      "title": "Inversiones morales",
+      "body": "Verdad, traición, placer y dolor se presentan en una secuencia de oposiciones éticas.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 40,
+      "phrase": "And Death, the despot of",
+      "kind": "Lectura textual",
+      "title": "La muerte déspota",
+      "body": "La personificación política de la muerte culmina el catálogo de dominaciones.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "34": {
+  "intro": "Anne interpela a los supuestos elegidos por su complacencia ante la condenación ajena y formula una esperanza de restauración universal tras el juicio.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "You may rejoice to think",
+      "kind": "Lectura textual",
+      "title": "Seguridad de los elegidos",
+      "body": "La segunda persona transforma una doctrina abstracta en examen moral del creyente.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 6,
+      "phrase": "Thousands excluded from ",
+      "kind": "Lectura textual",
+      "title": "Exclusión y justicia",
+      "body": "La comparación de méritos cuestiona la justicia de la exclusión de miles.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "phrase": "And, wherefore should yo",
+      "kind": "Intertexto bíblico",
+      "title": "Alcance de la expiación",
+      "body": "La pregunta discute una redención limitada a unos pocos.",
+      "sources": [
+        {
+          "label": "Biblia KJV, 1 Timothy 2:3-6",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Timothy%202%3A3-6&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "phrase": "Say, does your heart exp",
+      "kind": "Intertexto bíblico",
+      "title": "Caridad universal",
+      "body": "La expansión del corazón y la reciprocidad evocan la regla de oro.",
+      "sources": [
+        {
+          "label": "Biblia KJV, Matthew 7:12",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew%207%3A12&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 27,
+      "phrase": "But, none shall sink to ",
+      "kind": "Lectura textual",
+      "title": "Culpa y castigo",
+      "body": "El lenguaje del merecimiento debe leerse junto a la esperanza de salvación final.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 33,
+      "phrase": "That as in Adam all have",
+      "kind": "Intertexto bíblico",
+      "title": "Paralelismo paulino",
+      "body": "El verso reproduce 1 Corintios 15:22 y fundamenta la esperanza universal.",
+      "sources": [
+        {
+          "label": "Biblia KJV, 1 Corinthians 15:22",
+          "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A22&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 37,
+      "phrase": "That even the wicked sha",
+      "kind": "Lectura textual",
+      "title": "Restauración posterior al juicio",
+      "body": "«At last» mantiene una secuencia de sufrimiento y transformación antes de la vida.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 43,
+      "phrase": "Before their dross is pu",
+      "kind": "Intertexto bíblico",
+      "title": "Purificación metalúrgica",
+      "body": "La escoria eliminada representa un juicio transformador.",
+      "sources": [
+        {
+          "label": "Biblia KJV, Malachi 3:2-3",
+          "url": "https://www.biblegateway.com/passage/?search=Malachi%203%3A2-3&version=KJV"
+        },
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "35": {
+  "intro": "Charlotte presenta el fin de la jornada docente como una apertura hacia la nostalgia, el agotamiento y la dificultad de componer una canción consoladora.",
+  "notes": [
+    {
+      "line": 3,
+      "phrase": "The yoke put off, the lo",
+      "kind": "Lectura textual",
+      "title": "El yugo del trabajo",
+      "body": "El fin de las tareas se representa como una liberación solo momentánea.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "phrase": "Sweet dreams of home my ",
+      "kind": "Lectura textual",
+      "title": "El hogar distante",
+      "body": "El paisaje separa físicamente a la hablante de su comunidad afectiva.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 21,
+      "phrase": "Sometimes, I think a nar",
+      "kind": "Lectura textual",
+      "title": "Autocrítica de la nostalgia",
+      "body": "La voz considera que su añoranza pueda impedirle establecer nuevos vínculos.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 40,
+      "phrase": "\"Thy golden sheaves are ",
+      "kind": "Lectura textual",
+      "title": "Cosecha vacía",
+      "body": "La imagen agrícola cuestiona el valor de las esperanzas cultivadas.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 51,
+      "phrase": "'Tis not the air I wishe",
+      "kind": "Lectura textual",
+      "title": "Autocomentario poético",
+      "body": "La hablante reconoce que la canción se ha desviado del tono que deseaba.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 79,
+      "phrase": "Life will be gone ere I ",
+      "kind": "Lectura textual",
+      "title": "Vida consumida",
+      "body": "La paradoja distingue entre duración vital y experiencia de vivir.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 89,
+      "phrase": "Then, aid me, Reason, Pa",
+      "kind": "Lectura textual",
+      "title": "Resistencia final",
+      "body": "Razón, paciencia y fe son invocadas para soportar, no eliminar, el sufrimiento.",
+      "sources": [
+        {
+          "label": "Texto de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
 }
+
 };
