@@ -31,42 +31,41 @@ function setFilter(author){
 }
 document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>setFilter(b.dataset.author)));
 $('#toggle-index').addEventListener('click',()=>{const opened=document.body.classList.toggle('nav-open');$('#toggle-index').setAttribute('aria-expanded',String(opened))});
-const labels={
-"quench'd":"quench: extinguir, apagar. Contracción de la terminación de pasado -ed.",
-"blent":"Forma poética de blended (mezclado).",
-"wrapt":"Grafía literaria de wrapped (envuelto).",
-"retinge":"Volver a teñir o colorear; del verbo retinge.",
-"thou":"Pronombre de segunda persona singular arcaico: tú.",
-"thee":"Forma objeto del pronombre arcaico thou: te, a ti.",
-"thy":"Posesivo arcaico correspondiente a thou: tu.",
-"'tis":"Contracción poética de it is.",
-"ne'er":"Contracción poética de never: nunca.",
-"o'er":"Contracción poética de over: sobre, por encima de."
-};
-let popup=$('#word-popup');
-function showWord(word,node){
- const lower=word.toLowerCase().replace(/[.,!?;:()"]/g,'');const note=labels[lower]||'Forma del texto original. Consultá la entrada lexicográfica; la ficha filológica específica está pendiente de revisión.';
- $('#word-label').textContent=word;$('#word-explanation').textContent=note;
- $('#word-lookup').href='https://en.wiktionary.org/wiki/'+encodeURIComponent(word.replace(/^[^A-Za-z]+|[^A-Za-z]+$/g,''));
+/* Se anotan solo referencias y dificultades relevantes, no cada palabra inglesa. */
+const notes=window.BRONTE_READING_NOTES_1846||{};
+const commentaries=window.BRONTE_COMMENTARIES_1846||[];
+const popup=$('#word-popup');
+function showNote(note,node){
+ $('#word-label').textContent=note.label;
+ $('#word-explanation').textContent=note.explanation;
+ const a=$('#word-lookup');
+ if(note.url){a.hidden=false;a.href=note.url;a.textContent=(note.linkText||'Ver fuente')+' ↗';}
+ else {a.hidden=true;a.removeAttribute('href');}
  popup.hidden=false;
- const box=node.getBoundingClientRect(),width=295;
- popup.style.left=Math.min(window.innerWidth-width-12,Math.max(12,box.left))+'px';
- popup.style.top=Math.min(window.innerHeight-210,Math.max(12,box.bottom+9))+'px';
+ const bounds=node.getBoundingClientRect(),w=295;
+ popup.style.left=Math.max(12,Math.min(innerWidth-w-12,bounds.left))+'px';
+ popup.style.top=Math.max(12,Math.min(innerHeight-220,bounds.bottom+10))+'px';
 }
 $('#close-word-popup').addEventListener('click',()=>popup.hidden=true);
 window.addEventListener('keydown',e=>{if(e.key==='Escape'){popup.hidden=true;document.body.classList.remove('nav-open')}});
-document.addEventListener('pointerdown',e=>{if(!popup.hidden&&!popup.contains(e.target)&&!e.target.closest('.word'))popup.hidden=true});
-function tokenized(line){
- const fragment=document.createDocumentFragment();
- // Words retain historical spelling; no automatic grammatical claims are made.
- for(const part of String(line).match(/\b[A-Za-z]+(?:['’\-][A-Za-z]+)*\b|[^A-Za-z]+/g)||[line]){
-  if(/^[A-Za-z]/.test(part)){
-    const sp=document.createElement('span');sp.className='word';sp.tabIndex=0;sp.textContent=part;
-    sp.addEventListener('click',()=>showWord(part,sp));sp.addEventListener('keydown',e=>{if(e.key==='Enter')showWord(part,sp)});
-    fragment.append(sp);
-  }else fragment.append(document.createTextNode(part));
+document.addEventListener('pointerdown',e=>{if(!popup.hidden&&!popup.contains(e.target)&&!e.target.closest('.note-anchor'))popup.hidden=true});
+function renderOriginal(text,line,pNo,lineNo){
+ const note=notes[pNo]?.[lineNo],idx=note?text.indexOf(note.phrase):-1;
+ if(!note||idx<0){line.textContent=text;return;}
+ line.append(document.createTextNode(text.slice(0,idx)));
+ const trigger=document.createElement('button');trigger.type='button';trigger.className='note-anchor';trigger.textContent=note.phrase;
+ trigger.setAttribute('aria-label','Nota: '+note.label);
+ trigger.addEventListener('click',()=>showNote(note,trigger));
+ line.append(trigger,document.createTextNode(text.slice(idx+note.phrase.length)));
+}
+function renderCommentary(p){
+ const box=$('#poem-commentary'),body=$('#poem-commentary-body'),links=$('#poem-commentary-links');
+ const comment=commentaries[p.n-1];
+ if(!comment){box.hidden=true;return;}
+ box.hidden=false;body.textContent=comment.body;links.replaceChildren();
+ for(const item of comment.links||[]){
+   const a=document.createElement('a');a.href=item.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=item.label+' ↗';links.append(a);
  }
- return fragment;
 }
 function renderPoem(p){
  $('#overview').hidden=true;$('#poem-view').hidden=false;
@@ -86,7 +85,7 @@ function renderPoem(p){
    for(const original of stanza){
     n++;const row=document.createElement('div');row.className='verse';row.id='bronte-p'+p.n+'-v'+n;
     const number=document.createElement('span');number.className='number';number.textContent=(n===1||n%5===0)?String(n):'';
-    const en=document.createElement('div');en.className='latin';en.lang='en';en.append(tokenized(original));
+    const en=document.createElement('div');en.className='latin';en.lang='en';renderOriginal(original,en,p.n,n);
     const es=document.createElement('div');es.className='spanish';es.lang='es';es.textContent=p.translatedLines?.[n-1]||'';
     if(p.translatedLines?.[n-1])row.classList.add('has-translation');
     if(/^([IVX]+\.|A FRAGMENT\.)/.test(original))row.classList.add('subheading-verse');
@@ -94,6 +93,7 @@ function renderPoem(p){
    }
    root.append(block);
  }
+ renderCommentary(p);
  const note=$('#editorial-note');
  note.textContent='Transcripción inicial: '+(p.sourceType==='wikisource-1846'?'Wikisource, testimonio de 1846.':'GITenberg / Project Gutenberg, comparada con el índice del volumen de 1846.')+' El cotejo de variantes gráficas, puntuación y lecturas con el ejemplar original está pendiente. La traducción española se publicará por poemas completos.';
  const prev=$('#poem-prev'),next=$('#poem-next');
