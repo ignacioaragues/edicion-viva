@@ -23,3 +23,6 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 3. Toda intervención en el texto se registrará cuando represente una variante sustantiva.
 4. Priorizar traducciones españolas propias completas por poema; revisarlas luego a fondo.
 5. No presentar como traducción completa un poema parcialmente traducido; mantener diferenciados texto y revisión.
+
+## Erratas de la edición de 1846
+En el índice de la primera edición figura *The Student's Life*, p. 140, cuando el título del poema es *The Student's Serenade* y comienza en la p. 143. También el índice da una página errónea para *Honour's Martyr*: el texto comienza en la p. 140. La presente edición mantiene la posición original pero usa el título del poema y las páginas reales. Referencia: Thomas J. Wise, *A Bibliography of the Writings in Prose and Verse of the Members of the Brontë Family*, pp. 8 y 15.
