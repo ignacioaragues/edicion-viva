@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1600,
+    "reviewedUnits": 1650,
     "reviewed": [
       {
         "part": 1,
@@ -794,17 +794,33 @@
         "start": 1,
         "end": 26,
         "count": 26
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 3,
+        "start": 27,
+        "end": 68,
+        "count": 42
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 4,
+        "start": 1,
+        "end": 8,
+        "count": 8
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I IV.2.103–126; IV.3.1–26",
+      "scope": "Parte I IV.3.27–68; IV.4.1–8",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 14,
-      "newNotes": 12,
+      "translationLinesRevised": 16,
+      "newNotes": 11,
       "readingCardsAdded": 2,
-      "mode": "philology-32.js; texto base Dyce; cotejo 1590 y QA navegador pendientes",
+      "mode": "philology-33.js; texto base Dyce; cotejo 1590 y QA navegador pendientes",
       "sourceBasis": [
         "https://files.libertyfund.org/files/1687/Marlowe_1319.01_EBk_v6.0.pdf"
       ]
@@ -812,8 +828,8 @@
     "next": {
       "part": 1,
       "act": 4,
-      "scene": 3,
-      "line": 27
+      "scene": 4,
+      "line": 9
     }
   }
 }
