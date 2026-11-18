@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2344,
+    "reviewedUnits": 2394,
     "reviewed": [
       {
         "part": 1,
@@ -938,27 +938,34 @@
         "start": 1,
         "end": 29,
         "count": 29
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 1,
+        "start": 30,
+        "end": 79,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I V1-514–534 (21) y Parte II I.1.1–29 (29)",
+      "scope": "Parte II I.1.30–79",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 30,
-      "newNotes": 14,
+      "translationLinesRevised": 33,
+      "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-47.js; comparación con inglés base Dyce; 1590 directo y QA navegador pendientes",
+      "mode": "philology-48.js; cotejo íntegro con inglés del repositorio; verificación externa y QA navegador pendientes",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine the Great, Part One, texto de Alexander Dyce, Project Gutenberg #1094, acto V, final; https://www.gutenberg.org/ebooks/1094",
-        "Christopher Marlowe, Tamburlaine the Great, Part Two, texto de Alexander Dyce, Project Gutenberg #1094, acto I, escena 1; https://www.gutenberg.org/ebooks/1094"
+        "Christopher Marlowe, Tamburlaine the Great, Part Two, I.1.30–79, inglés base del propio repositorio; no se verificó edición externa en esta pasada."
       ]
     },
     "next": {
       "part": 2,
       "act": 1,
       "scene": 1,
-      "line": 30
+      "line": 80
     }
   }
 }

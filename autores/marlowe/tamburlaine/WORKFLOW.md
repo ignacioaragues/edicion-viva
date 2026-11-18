@@ -314,3 +314,8 @@
 - **50 unidades**: Parte I V1-514–534 (21, cierre de Parte I) y Parte II I.1.1–29 (29). Acumulado **2.344/4.641 (50,5 %)**. Sigue Parte II I.1.30–79.
 - **31 correcciones de traducción**, 19 líneas conservadas; **14 notas** y **2 fichas**. Texto inglés base Dyce / Project Gutenberg #1094; 1590 directo y QA navegador pendientes.
 - Se preservan original, IDs, numeración, acotaciones y navegación; capa condicionada a igualdad literal de cada línea inglesa.
+
+## Cuadragésima octava pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.1.30–79. Acumulado **2.394/4.641 (51,6 %)**. Sigue Parte II I.1.80–129.
+- **31 correcciones**, 19 traducciones conservadas; **13 notas** y **2 fichas**. Inglés cotejado íntegramente contra las unidades efectivas del repositorio; no se consiguió verificar externamente Dyce, Neilson ni 1590 en esta pasada. Esta limitación queda registrada, sin atribuirles cotejos.
+- Se conservan original, IDs, acotaciones, numeración y navegación; la capa exige igualdad literal del inglés antes de aplicarse. QA en navegador pendiente.
