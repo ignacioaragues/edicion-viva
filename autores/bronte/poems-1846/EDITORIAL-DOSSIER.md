@@ -100,3 +100,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **40, Plead for Me:** 8 notas. Juicio interior entre Razón y una figura visionaria, a la vez esclava, compañera y soberana.
 
 **Balance:** 35 notas nuevas, **261 notas en 40 poemas**. Restan 41–61. Primera lectura textual documentada; cotejo manuscrito pendiente. No se modificó poems-data.js.
+
+## Aparato académico: novena tanda (poemas 41–45)
+- **41, The Consolation (Anne):** 6 notas sobre hogar y esperanza.
+- **42, Evening Solace (Charlotte):** 6 notas sobre memoria y duelo.
+- **43, Self-Interrogation (Emily):** 7 notas sobre examen interior y derrota.
+- **44, Lines composed in a Wood on a Windy Day (Anne):** 5 notas sobre viento y mar imaginado.
+- **45, Stanzas (Charlotte):** 7 notas sobre ausencia y amor desigual.
+
+**Balance:** 31 notas nuevas; **292 notas en 45 poemas**. Restan 46–61. Lectura textual inicial basada en la transcripción de 1846; bibliografía especializada y cotejo manuscrito pendientes. No se modificó `poems-data.js`.
