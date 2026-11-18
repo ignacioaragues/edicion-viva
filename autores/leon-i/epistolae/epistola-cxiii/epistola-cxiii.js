@@ -1,4 +1,4 @@
-/* Epistola CXIII, Ballerini–Migne PL 54, cols. 1024–1027. Primera edición bilingüe. La morfología contextual y el cotejo impreso siguen pendientes. */
+/* Primera traducción completa; lexicón inicial de formas inequívocas, sin fingir cobertura contextual total. */
 window.LEO_EPISTOLA_CXIII={
   "paragraphs": [
     {
@@ -128,5 +128,206 @@ window.LEO_EPISTOLA_CXIII={
       ]
     }
   ],
-  "lexicon": {}
+  "lexicon": {
+    "Leo": [
+      "Leo, Leonis",
+      "sust. masc., nominativo singular",
+      "León"
+    ],
+    "episcopus": [
+      "episcopus, -i",
+      "sust. masc., nominativo singular",
+      "obispo"
+    ],
+    "Romae": [
+      "Roma, -ae",
+      "sust. fem., locativo singular",
+      "en Roma"
+    ],
+    "Juliano": [
+      "Julianus, -i",
+      "nombre propio, dativo singular",
+      "a Juliano"
+    ],
+    "Coensi": [
+      "Coensis, -e",
+      "adjetivo, dativo masc. singular",
+      "de Cos"
+    ],
+    "Agnovi": [
+      "agnosco, agnoscere",
+      "verbo, perfecto indicativo activo, 1.ª sing.",
+      "reconocí"
+    ],
+    "litteris": [
+      "litterae, -arum",
+      "sust. fem., ablativo plural",
+      "en la carta"
+    ],
+    "fraternae": [
+      "fraternus, -a, -um",
+      "adjetivo, genitivo fem. singular",
+      "fraterna"
+    ],
+    "charitatis": [
+      "caritas, -atis",
+      "sust. fem., genitivo singular",
+      "de la caridad"
+    ],
+    "affectum": [
+      "affectus, -us",
+      "sust. masc., acusativo singular",
+      "afecto"
+    ],
+    "multa": [
+      "multus, -a, -um",
+      "adjetivo, acusativo neutro plural",
+      "muchos"
+    ],
+    "saeva": [
+      "saevus, -a, -um",
+      "adjetivo, acusativo neutro plural",
+      "crueles"
+    ],
+    "pertulimus": [
+      "perfero, perferre",
+      "verbo, perfecto indicativo activo, 1.ª plural",
+      "hemos soportado"
+    ],
+    "utinam": [
+      "utinam",
+      "partícula optativa",
+      "ojalá"
+    ],
+    "Dominus": [
+      "dominus, -i",
+      "sust. masc., nominativo singular",
+      "el Señor"
+    ],
+    "aut": [
+      "aut",
+      "conjunción disyuntiva",
+      "o"
+    ],
+    "permisit": [
+      "permitto, permittere",
+      "verbo, perfecto indicativo activo, 3.ª sing.",
+      "permitió"
+    ],
+    "voluit": [
+      "volo, velle",
+      "verbo, perfecto indicativo activo, 3.ª sing.",
+      "quiso"
+    ],
+    "correctionem": [
+      "correctio, -onis",
+      "sust. fem., acusativo singular",
+      "corrección"
+    ],
+    "Dei": [
+      "Deus, Dei",
+      "sust. masc., genitivo singular",
+      "de Dios"
+    ],
+    "misericordia": [
+      "misericordia, -ae",
+      "sust. fem., ablativo singular",
+      "por misericordia"
+    ],
+    "hostilitas": [
+      "hostilitas, -atis",
+      "sust. fem., nominativo singular",
+      "hostilidad"
+    ],
+    "insidiae": [
+      "insidiae, -arum",
+      "sust. fem., nominativo plural",
+      "intrigas"
+    ],
+    "Aetius": [
+      "Aetius, -i",
+      "nombre propio, nominativo singular",
+      "Aecio"
+    ],
+    "Andreas": [
+      "Andreas, -ae",
+      "nombre propio, nominativo singular",
+      "Andrés"
+    ],
+    "archidiaconatus": [
+      "archidiaconatus, -us",
+      "sust. masc., genitivo singular",
+      "del archidiaconado"
+    ],
+    "materno": [
+      "maternus, -a, -um",
+      "adjetivo, ablativo neutro singular",
+      "materno"
+    ],
+    "jure": [
+      "ius, iuris",
+      "sust. neutro, ablativo singular",
+      "por derecho"
+    ],
+    "ignoro": [
+      "ignoro, ignorare",
+      "verbo, presente indicativo activo, 1.ª sing.",
+      "ignoro"
+    ],
+    "aliud": [
+      "alius, alia, aliud",
+      "pronombre/adjetivo, nominativo neutro singular",
+      "una cosa distinta"
+    ],
+    "est": [
+      "sum, esse",
+      "verbo, presente indicativo, 3.ª sing.",
+      "es"
+    ],
+    "contra": [
+      "contra",
+      "preposición con acusativo",
+      "contra"
+    ],
+    "fidem": [
+      "fides, -ei",
+      "sust. fem., acusativo singular",
+      "la fe"
+    ],
+    "specialiter": [
+      "specialiter",
+      "adverbio",
+      "especialmente"
+    ],
+    "injungo": [
+      "iniungo, iniungere",
+      "verbo, presente indicativo activo, 1.ª sing.",
+      "ordeno / encomiendo"
+    ],
+    "Latinum": [
+      "Latinus, -a, -um",
+      "adjetivo, acusativo masc. singular",
+      "latino"
+    ],
+    "sermonem": [
+      "sermo, sermonis",
+      "sust. masc., acusativo singular",
+      "lengua / discurso"
+    ],
+    "interpretatione": [
+      "interpretatio, -onis",
+      "sust. fem., ablativo singular",
+      "traducción"
+    ],
+    "Data": [
+      "do, dare",
+      "participio perfecto pasivo, nominativo fem. singular",
+      "dada"
+    ],
+    "Martii": [
+      "Martius, -i",
+      "sust. masc., genitivo singular",
+      "de marzo"
+    ]
+  }
 };
