@@ -3768,5 +3768,433 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
-  }
+  },
+"41": {
+  "intro": "Anne contrapone el paisaje invernal y la soledad social a la certeza de un hogar que sostiene la esperanza desde lejos.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "Though bleak these woods",
+      "kind": "Lectura textual",
+      "title": "Intemperie exterior y soledad",
+      "body": "El pasaje «Though bleak these woods» articula intemperie exterior y soledad en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "phrase": "There IS a friendly roof",
+      "kind": "Lectura textual",
+      "title": "Énfasis tipográfico de la esperanza",
+      "body": "El pasaje «There IS a friendly roof» articula énfasis tipográfico de la esperanza en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "phrase": "solitude, endured too long",
+      "kind": "Lectura textual",
+      "title": "La soledad que envejece",
+      "body": "El pasaje «solitude, endured too long» articula la soledad que envejece en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 21,
+      "phrase": "Warm hands are there",
+      "kind": "Lectura textual",
+      "title": "Hogar como comunidad afectiva",
+      "body": "El pasaje «Warm hands are there» articula hogar como comunidad afectiva en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "The ice that gathers round my heart",
+      "kind": "Lectura textual",
+      "title": "Deshielo emocional",
+      "body": "El pasaje «The ice that gathers round my heart» articula deshielo emocional en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 29,
+      "phrase": "Though far I roam",
+      "kind": "Lectura textual",
+      "title": "El consuelo anticipado",
+      "body": "El pasaje «Though far I roam» articula el consuelo anticipado en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+"42": {
+  "intro": "Charlotte describe la transformación del dolor agudo en memoria contemplativa y su proyección hacia una vida futura.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "hidden treasures",
+      "kind": "Lectura textual",
+      "title": "Reserva de la intimidad",
+      "body": "El pasaje «hidden treasures» articula reserva de la intimidad en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "phrase": "Fame's or Wealth's illusion",
+      "kind": "Lectura textual",
+      "title": "Distracción mundana",
+      "body": "El pasaje «Fame's or Wealth's illusion» articula distracción mundana en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 14,
+      "phrase": "A tender grief that is not woe",
+      "kind": "Lectura textual",
+      "title": "Melancolía y dolor",
+      "body": "El pasaje «A tender grief that is not woe» articula melancolía y dolor en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "phrase": "feelings, once as strong as passions",
+      "kind": "Lectura textual",
+      "title": "Distancia temporal",
+      "body": "El pasaje «feelings, once as strong as passions» articula distancia temporal en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 23,
+      "phrase": "mist of years receding",
+      "kind": "Lectura textual",
+      "title": "Memoria y perspectiva",
+      "body": "El pasaje «mist of years receding» articula memoria y perspectiva en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 31,
+      "phrase": "solemn thoughts that soar to heaven",
+      "kind": "Lectura textual",
+      "title": "Proyección escatológica",
+      "body": "El pasaje «solemn thoughts that soar to heaven» articula proyección escatológica en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+"43": {
+  "intro": "Emily organiza un interrogatorio interior sobre el esfuerzo, el fracaso y la posibilidad de aceptar la muerte sin renunciar al valor.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "The evening passes fast away",
+      "kind": "Lectura textual",
+      "title": "Examen al anochecer",
+      "body": "El pasaje «The evening passes fast away» articula examen al anochecer en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "phrase": "Time stands before the door of Death",
+      "kind": "Lectura textual",
+      "title": "Personificaciones acusadoras",
+      "body": "El pasaje «Time stands before the door of Death» articula personificaciones acusadoras en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "phrase": "Then art thou glad to seek repose",
+      "kind": "Lectura textual",
+      "title": "Muerte como puerto",
+      "body": "El pasaje «Then art thou glad to seek repose» articula muerte como puerto en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "countless links are strong",
+      "kind": "Lectura textual",
+      "title": "Apego a la existencia corporal",
+      "body": "El pasaje «countless links are strong» articula apego a la existencia corporal en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 29,
+      "phrase": "laurelled fame",
+      "kind": "Lectura textual",
+      "title": "Honor y derrota",
+      "body": "El pasaje «laurelled fame» articula honor y derrota en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 40,
+      "phrase": "But little learnt to bear",
+      "kind": "Lectura textual",
+      "title": "Combatir frente a soportar",
+      "body": "El pasaje «But little learnt to bear» articula combatir frente a soportar en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 45,
+      "phrase": "The long war closing in defeat",
+      "kind": "Lectura textual",
+      "title": "Derrota aceptada",
+      "body": "El pasaje «The long war closing in defeat» articula derrota aceptada en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+"44": {
+  "intro": "Anne presenta el viento como estímulo vital y extiende el paisaje visible hacia un océano imaginado.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "My soul is awakened",
+      "kind": "Lectura textual",
+      "title": "Despertar anímico",
+      "body": "El pasaje «My soul is awakened» articula despertar anímico en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "phrase": "wild wind is roaring",
+      "kind": "Lectura textual",
+      "title": "Paisaje sonoro",
+      "body": "El pasaje «wild wind is roaring» articula paisaje sonoro en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "phrase": "withered grass",
+      "kind": "Lectura textual",
+      "title": "Júbilo en lo marchito",
+      "body": "El pasaje «withered grass» articula júbilo en lo marchito en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "phrase": "I wish I could see",
+      "kind": "Lectura textual",
+      "title": "El mar imaginado",
+      "body": "El pasaje «I wish I could see» articula el mar imaginado en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "phrase": "proud waves are dashing",
+      "kind": "Lectura textual",
+      "title": "Deseo de sublimidad",
+      "body": "El pasaje «proud waves are dashing» articula deseo de sublimidad en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+"45": {
+  "intro": "Charlotte interpela al amado ausente y revela una reciprocidad imposible antes de solicitar apenas un recuerdo póstumo.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "If thou be in a lonely place",
+      "kind": "Lectura textual",
+      "title": "Apóstrofe condicional",
+      "body": "El pasaje «If thou be in a lonely place» articula apóstrofe condicional en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 8,
+      "phrase": "One moment--think of me",
+      "kind": "Lectura textual",
+      "title": "Memoria como sustituto",
+      "body": "El pasaje «One moment--think of me» articula memoria como sustituto en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "phrase": "Hark! for a sound upon the wind",
+      "kind": "Lectura textual",
+      "title": "Escucha y ausencia",
+      "body": "El pasaje «Hark! for a sound upon the wind» articula escucha y ausencia en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 21,
+      "phrase": "If thy love were like mine",
+      "kind": "Lectura textual",
+      "title": "Asimetría amorosa",
+      "body": "El pasaje «If thy love were like mine» articula asimetría amorosa en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 30,
+      "phrase": "dark eyes shine",
+      "kind": "Lectura textual",
+      "title": "Signos afectivos ambiguos",
+      "body": "El pasaje «dark eyes shine» articula signos afectivos ambiguos en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 37,
+      "phrase": "transient flower",
+      "kind": "Lectura textual",
+      "title": "Devoción desigual",
+      "body": "El pasaje «transient flower» articula devoción desigual en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 46,
+      "phrase": "Beneath the churchyard tree",
+      "kind": "Lectura textual",
+      "title": "Recuerdo póstumo",
+      "body": "El pasaje «Beneath the churchyard tree» articula recuerdo póstumo en el desarrollo del poema. La observación se basa en el texto impreso, sin atribución biográfica automática.",
+      "sources": [
+        {
+          "label": "Primera edición de 1846, University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+}
 };
