@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2944,
+    "reviewedUnits": 2994,
     "reviewed": [
       {
         "part": 1,
@@ -1074,18 +1074,34 @@
         "start": 1,
         "end": 33,
         "count": 33
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 3,
+        "start": 34,
+        "end": 47,
+        "count": 14
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 4,
+        "start": 1,
+        "end": 36,
+        "count": 36
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II II.2.48–64 y II.3.1–33",
+      "scope": "Parte II II.3.34–47 y II.4.1–36",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 49,
+      "translationLinesRevised": 40,
       "newNotes": 13,
       "readingCardsAdded": 2,
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine II, transcripción de grafía temprana, https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm, acto II, escenas 2–3 (consultada 18-11-2026); cotejo diplomático facsimilar pendiente."
+        "Texto inglés de base del repositorio; cotejo externo con edición histórica pendiente"
       ],
       "facsimileCollationPending": true,
       "browserQAPending": true
@@ -1093,8 +1109,8 @@
     "next": {
       "part": 2,
       "act": 2,
-      "scene": 3,
-      "line": 34
+      "scene": 4,
+      "line": 37
     }
   }
 }

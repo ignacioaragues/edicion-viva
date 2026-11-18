@@ -374,3 +374,8 @@
 - **50 unidades**: Parte II II.2.48–64 (17) y II.3.1–33 (33). Acumulado **2.944/4.641 (63,4 %)**. Sigue II.3.34.
 - **49 traducciones corregidas**, 1 conservadas; **13 notas** y **2 fichas**. Cotejo externo con transcripción de grafía temprana de mercaba.es, II.2–II.3; variante «imperiall heaven» frente a «empyreal heaven» anotada sin alterar el original base. Cotejo facsimilar y QA navegador pendientes.
 - Se preservaron inglés, acotaciones, IDs y estructura del lector; capa condicionada a coincidencia literal del inglés.
+
+## Sexagésima pasada filológica (18-11-2026)
+- **50 unidades**: Parte II II.3.34–47 (14) y II.4.1–36 (36). Acumulado **2.994/4.641 (64,5 %)**. Sigue II.4.37–86.
+- **40 traducciones corregidas**, 10 conservadas; **13 notas** y **2 fichas**. Revisión interna del inglés; cotejo externo histórico y QA navegador pendientes.
+- Inglés, acotaciones, IDs y navegación conservados; nueva capa condicionada a coincidencia literal del inglés.
