@@ -224,21 +224,25 @@
     {
       "group": "epistolae",
       "number": 10,
-      "status": "partial_reader_published_chapter_I",
+      "status": "partial_reader_published_chapters_I_III",
       "skip_after_completion": true,
       "work_file": "autores/leon-i/epistolae/epistola-x/EDITORIAL-DOSSIER.md",
       "source": "https://www.mignereadingroom.org/PL/54/epistolae/628-635",
-      "next": "Caput II: Verum haec nos, Deo, ut credimus, aspirante; finish II–IX, then contextual token cards and final review",
+      "next": "Caput IV: Huic negotio sic finito, fratris et coepiscopi nostri Projecti querela successit; complete chapters IV–IX, then contextual morphology",
       "recipient": "Bishops of the province of Vienne",
       "sender": "Leo, bishop of Rome",
       "translation_complete": false,
       "reader_published": true,
       "published_chapters": [
-        1
+        1,
+        2,
+        3
       ],
       "total_chapters": 9,
       "reader_path": "autores/leon-i/epistolae/epistola-x/index.html",
-      "morphology_complete": false
+      "morphology_complete": false,
+      "aligned_units": 13,
+      "source_collation_complete": false
     },
     {
       "group": "epistolae",
