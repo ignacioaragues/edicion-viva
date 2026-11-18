@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,53 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,54 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -252,9 +252,12 @@
     ,{"chapter":6,"n":51,"gr":"καὶ ἀνέβη πρὸς αὐτοὺς εἰς τὸ πλοῖον, καὶ ἐκόπασεν ὁ ἄνεμος. καὶ λίαν ἐκ περισσοῦ ἐν ἑαυτοῖς ἐξίσταντο,","es":"Y subió con ellos a la barca, y el viento amainó. Ellos quedaron extraordinariamente atónitos.","la":"","notes":["mc651amazement","mc651variant"]}
     ,{"chapter":6,"n":52,"gr":"οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις, ἀλλʼ ἦν αὐτῶν ἡ καρδία πεπωρωμένη.","es":"Porque no habían comprendido lo sucedido con los panes, sino que tenían el corazón endurecido.","la":"","notes":["mc652loaves","mc652heart"]}
     ,{"chapter":6,"n":53,"gr":"Καὶ διαπεράσαντες ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρὲτ καὶ προσωρμίσθησαν.","es":"Después de atravesar el lago, llegaron a tierra, a Genesaret, y amarraron la barca.","la":"","notes":["mc653landing","mc653moor","mc653variant"]}
+    ,{"chapter":6,"n":54,"gr":"καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν","es":"Y cuando salieron de la barca, enseguida lo reconocieron.","la":"","notes":["mc654genitive","mc654recognition"]}
   ];
 
   const notes = {
+    mc654genitive: ["Una construcción absoluta", "ἐξελθόντων αὐτῶν es un genitivo absoluto temporal: «cuando ellos salieron». El participio ἐπιγνόντες, en nominativo plural, introduce a quienes reconocieron a Jesús, no necesariamente a los mismos que bajaron de la barca. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,54: https://old-tips.translation.bible/tip_verse/mark-654/"],
+    mc654recognition: ["Reconocimiento inmediato", "εὐθὺς expresa inmediatez; ἐπιγνόντες (de ἐπιγινώσκω) señala que lo identificaron. La oración prosigue en 6,55, donde se cuenta la reacción de la gente: este versículo no constituye una oración independiente completa en el griego. Cambridge Greek Testament for Schools and Colleges, comentario a 6,54: https://truthaccordingtoscripture.com/commentaries/cgt/mark-6.php; SIL Translator’s Notes on Mark (2008), 6,54: https://tips.translation.bible/story/sil-translators-notes-on-mark-654/"],
     mc653landing: ["Genesaret y el itinerario", "Γεννησαρέτ designa el lugar de llegada, habitualmente identificado con la llanura de la orilla noroccidental del lago. El rumbo difiere de la indicación hacia Betsaida de 6,45; el relato no explica inequívocamente la desviación. E. P. Gould, A Critical and Exegetical Commentary on the Gospel according to St. Mark (ICC, 1896), comentario a 6,53: https://biblehub.com/commentaries/icc/mark/6.htm"],
     mc653moor: ["Amarraron la barca", "προσωρμίσθησαν, aoristo pasivo de προσορμίζομαι, indica que la embarcación quedó fondeada o amarrada. Es la única aparición de este verbo en el Nuevo Testamento; no precisa el procedimiento exacto. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,53: https://tips.translation.bible/story/translation-commentary-on-mark-653/"],
     mc653variant: ["Orden de palabras y variantes", "SBLGNT lee ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρέτ. El Textus Receptus dispone ἦλθον ἐπὶ τὴν γῆν Γενησαρέτ, con sintaxis distinta. Se conserva el orden de SBLGNT sin armonizar las lecturas. Holmes (ed.), SBLGNT (2010), Marcos 6,53: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; Bratcher y Nida (1961): https://tips.translation.bible/story/translation-commentary-on-mark-653/"],
