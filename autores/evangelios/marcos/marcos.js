@@ -1,4 +1,4 @@
-/* Marcos 1,1–6,55 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–6,56 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -253,10 +253,15 @@
     ,{"chapter":6,"n":52,"gr":"οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις, ἀλλʼ ἦν αὐτῶν ἡ καρδία πεπωρωμένη.","es":"Porque no habían comprendido lo sucedido con los panes, sino que tenían el corazón endurecido.","la":"","notes":["mc652loaves","mc652heart"]}
     ,{"chapter":6,"n":53,"gr":"Καὶ διαπεράσαντες ἐπὶ τὴν γῆν ἦλθον εἰς Γεννησαρὲτ καὶ προσωρμίσθησαν.","es":"Después de atravesar el lago, llegaron a tierra, a Genesaret, y amarraron la barca.","la":"","notes":["mc653landing","mc653moor","mc653variant"]}
     ,{"chapter":6,"n":54,"gr":"καὶ ἐξελθόντων αὐτῶν ἐκ τοῦ πλοίου εὐθὺς ἐπιγνόντες αὐτὸν","es":"Y cuando salieron de la barca, enseguida lo reconocieron.","la":"","notes":["mc654genitive","mc654recognition"]}
-    ,{"chapter":6,"n":55,"gr":"περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.","es":"Recorrieron corriendo toda aquella región y empezaron a llevar en camillas a los enfermos adonde oían que él estaba.","la":"","notes":["mc655run","mc655beds"]}
+    ,{"chapter":6,"n":55,"gr":"περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν ὅπου ἤκουον ὅτι ἐστίν.","es":"Recorrieron corriendo toda aquella región y empezaron a llevar en camillas a los enfermos adonde oían que él estaba.","la":"","notes":["mc655run","mc655beds"]},
+    {"chapter":6,"n":56,"gr":"καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.","es":"Y dondequiera que entraba, en aldeas, ciudades o campos, ponían a los enfermos en las plazas y le suplicaban que los dejara tocar siquiera el borde de su manto. Y todos los que lo tocaban quedaban sanos.","la":"","notes":["mc656places","mc656fringe","mc656healing"]}
   ];
 
   const notes = {
+    mc656places: ["Aldeas, ciudades y campos", "La enumeración κώμας / πόλεις / ἀγρούς y los imperfectos εἰσεπορεύετο, ἐτίθεσαν y παρεκάλουν presentan una actividad repetida, no una única visita. Fuente: M. W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 6,56, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
+    mc656fringe: ["El borde del manto", "κράσπεδον significa borde o fleco del vestido; puede evocar los flecos prescritos en Nm 15,38–39, pero el versículo no identifica expresamente ese detalle ritual. Cf. Mc 5,27–28; Nm 15,38–39. Texto base: Holmes, SBLGNT (2010), Mc 6,56, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"],
+    mc656healing: ["Tocar y sanar", "ἐσῴζοντο es imperfecto pasivo de σῴζω: en este contexto de enfermos expresa que eran sanados. La forma verbal puede tener otros sentidos en otros pasajes. Morfología: J. K. Tauber (ed.), MorphGNT SBLGNT 6.12 (2017), Mc 6,56, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"],
+
     mc655run: ["La reacción de la comarca", "περιέδραμον, aoristo de περιτρέχω, describe el recorrido apresurado por toda la región. El verbo completa la construcción iniciada en 6,54: quienes reconocen a Jesús se movilizan. Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Marcos 6,54–55: https://biblia.com/bible/sblgnt/mark/6"],
     mc655beds: ["Los enfermos en camillas", "κραβάττοις designa camillas o lechos portátiles; τοὺς κακῶς ἔχοντας significa idiomáticamente «los enfermos». El imperfecto ἤκουον encaja con las noticias que iban recibiendo sobre dónde estaba Jesús. No se especifican las enfermedades. Holmes (2010), Marcos 6,55: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; James K. Tauber (ed.), MorphGNT SBLGNT 6.12 (2017), Marcos 6,55: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"],
     mc654genitive: ["Una construcción absoluta", "ἐξελθόντων αὐτῶν es un genitivo absoluto temporal: «cuando ellos salieron». El participio ἐπιγνόντες, en nominativo plural, introduce a quienes reconocieron a Jesús, no necesariamente a los mismos que bajaron de la barca. Robert G. Bratcher y Eugene A. Nida, A Handbook on the Gospel of Mark (UBS, 1961), comentario a 6,54: https://old-tips.translation.bible/tip_verse/mark-654/"],
