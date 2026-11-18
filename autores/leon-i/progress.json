@@ -237,31 +237,32 @@
     {
       "group": "epistolae",
       "number": 167,
-      "section": "Epistola CLXVII to Rusticus of Narbonne, proem partial through 'permanere' (PL54 cols.1199–1200)",
-      "paragraphs": 5,
+      "section": "Epistola CLXVII to Rusticus, proem and responsiones I–XIX",
+      "paragraphs": 49,
       "latin_tokens_approx": 161,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
+      "translation": "complete first-pass original Spanish aligned translation",
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/epistolae/epistola-clxvii/index.html",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "voice_notes": 4
+      "voice_notes": 13,
+      "editorial_caveat": "First-pass complete, full contextual morphology, print collation and browser QA pending"
     }
   ],
   "next": {
-    "group": "epistolae",
-    "number": 167,
-    "section": "consultation VIII"
+    "group": "sermones",
+    "number": 84,
+    "section": "caput I"
   },
-  "priority": "Completed first-pass special priorities 82, Ep. 10, 14, 28 and Sermo XI. New priority order: Epistolae 113, 159, 166, 167, then Sermo 84; resume ordinary sequence at Sermo XII afterward.",
-  "last_edit": "2026-11-18: Epistola CLXVII extended through consultation VII, 25 aligned units; consultations VIII–XIX pending. First-pass lexicon 50 selected forms; full morphology and printed collation pending.",
+  "priority": "First-pass special priorities Epistolae 113, 159, 166, 167 complete. Next Sermo LXXXIV, then resume ordinary sequence at Sermo XII.",
+  "last_edit": "2026-11-18: Epistola CLXVII completed in first-pass bilingual edition, proem and consultations I–XIX, 49 aligned units. Full contextual morphology, printed collation and browser QA pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
-    "group": "epistolae",
-    "number": 167,
-    "section": "consultation VIII",
-    "status": "partial"
+    "group": "sermones",
+    "number": 84,
+    "section": "caput I",
+    "status": "not_started"
   },
   "priority_queue": [
     {
@@ -452,19 +453,19 @@
     {
       "group": "epistolae",
       "number": 167,
-      "status": "published_partial",
+      "status": "published_complete_first_pass_morphology_and_collation_pending",
       "skip_after_completion": true,
-      "translation_complete": false,
+      "translation_complete": true,
       "reader_published": true,
       "source_collation_complete": false,
       "morphology_complete": false,
-      "complete_work": false,
-      "aligned_units": 25,
+      "complete_work": true,
+      "aligned_units": 49,
       "lexical_coverage": "50 selected surface-form lexical entries; contextual token morphology incomplete",
       "reader_path": "autores/leon-i/epistolae/epistola-clxvii/index.html",
-      "last_completed": "Proem and consultation responses I–VII; 25 aligned units",
-      "next": "Consultation VIII, then IX–XIX",
-      "editorial_caveat": "Consultations II–VII and their headings checked against PL54 1203–1205 transcription and selected printed apparatus variants; full critical collation, contextual morphology and browser QA pending. Consultations VIII–XIX untranslated."
+      "last_completed": "Proem and all consultation responses I–XIX; 49 aligned units",
+      "next": "Sermo LXXXIV (84); full contextual morphology and print collation remain for Epistola CLXVII",
+      "editorial_caveat": "First-pass Latin and original Spanish complete through XIX. Critical edition transcription (Hoskin, Epistula 167) consulted for VIII–XIX and selected variants. Full printed PL54 collation, contextual morphology and browser QA pending."
     },
     {
       "group": "sermones",
