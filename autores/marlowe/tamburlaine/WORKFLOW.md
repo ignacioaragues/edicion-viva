@@ -379,3 +379,7 @@
 - **50 unidades**: Parte II II.3.34–47 (14) y II.4.1–36 (36). Acumulado **2.994/4.641 (64,5 %)**. Sigue II.4.37–86.
 - **40 traducciones corregidas**, 10 conservadas; **13 notas** y **2 fichas**. Revisión interna del inglés; cotejo externo histórico y QA navegador pendientes.
 - Inglés, acotaciones, IDs y navegación conservados; nueva capa condicionada a coincidencia literal del inglés.
+
+## Pasada LXI (18-11-2026)
+- Parte II II.4.37–86: 50 unidades, 20 traducciones ajustadas, 13 notas, 2 fichas. Total 3.044/4.641 (65,6 %); sigue II.4.87–136.
+- Inglés, IDs y estructura conservados. Cotejo externo y QA navegador pendientes.
