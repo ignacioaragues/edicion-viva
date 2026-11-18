@@ -167,46 +167,32 @@
     {
       "group": "sermones",
       "number": 10,
-      "section": "Sermo X caput IV, complete from Sed qui ab earum fructu fuerit vacuus through Amen",
-      "paragraphs": 4,
-      "translation": "Chapter IV complete first-pass original Spanish translation",
-      "complete_work": false,
+      "section": "Sermo X complete: chapters I–IV, PL 54 cols. 163–166",
+      "paragraphs": 15,
+      "translation": "Complete first-pass original Spanish translation, all four chapters",
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-x/index.html",
       "morphology_complete": false,
       "source_collation_complete": false,
       "voice_notes": 4,
-      "next": "Sermo X chapters I–III; preserve existing chapter IV"
+      "next": "Sermo XI; Sermo X morphological token cards and printed collation remain",
+      "translation_complete": true
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 10,
-    "beginning": "Caput IV (provisional): Sed qui ab earum fructu fuerit vacuus",
-    "location": "PL 54 col. 165C–166A",
-    "editorial_state": "Sermo X translation draft 15 units; chapters I–III aligned (11 units), contextual morphology only I.1; not published in reader."
+    "number": 11,
+    "section": "caput I"
   },
   "priority": "Sermo LXXXII published as complete first-pass reader (critical review open), Epistola X active, then Epistola XIV; resume Sermo X chapter IV after priorities.",
-  "last_edit": "2026-11-18",
+  "last_edit": "2026-11-18: Sermo X chapters I–III added; whole sermon now 15 aligned units, first-pass translation complete, morphological analysis pending",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 10,
-    "title": "De Collectis V",
-    "status": "partial_working_edition_not_in_reader",
-    "aligned_chapters": [
-      1,
-      2,
-      3
-    ],
-    "aligned_units": 11,
-    "translation_draft_units": 15,
-    "morphology_units_with_contextual_table": 1,
-    "reader_published": false,
-    "source": "https://la.wikisource.org/wiki/Patrologia_Latina/54/Sermo_X",
-    "work_file": "autores/leon-i/sermones/sermo-x/CHAPTER-I-ALIGNED.md",
-    "chapter_ii_file": "autores/leon-i/sermones/sermo-x/CHAPTER-II-ALIGNED.md",
-    "chapter_iii_file": "autores/leon-i/sermones/sermo-x/CHAPTER-III-ALIGNED.md"
+    "number": 11,
+    "section": "caput I",
+    "status": "not_started"
   },
   "priority_queue": [
     {
