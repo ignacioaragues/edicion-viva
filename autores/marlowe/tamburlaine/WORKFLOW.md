@@ -344,3 +344,8 @@
 - **50 unidades**: Parte II I.3.36–85. Acumulado **2.644/4.641 (57,0 %)**. Sigue Parte II I.3.86–135.
 - **31 traducciones corregidas**, 19 conservadas; **12 notas** y **2 fichas**. Revisión interna del inglés base de text.js; cotejo externo no completado (Gutenberg 503), facsímil 1590 y QA navegador pendientes.
 - Inglés, IDs, numeración y navegación sin modificaciones; capa condicionada a coincidencia literal del inglés.
+
+## Quincuagésima cuarta pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.3.86–135. Acumulado **2.694/4.641 (58,0 %)**. Sigue Parte II I.3.136–185.
+- **44 traducciones corregidas**, 6 conservadas; **13 notas** y **2 fichas**. Cotejo literal del inglés en text.js; cotejo histórico externo y QA navegador pendientes.
+- Original inglés, IDs, numeración, acotaciones y navegación sin modificaciones; nueva capa condicionada a coincidencia literal de cada línea.
