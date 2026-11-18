@@ -1306,5 +1306,96 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "15": {
+    "intro": "Poema de arrepentimiento que opone el juicio social al consuelo religioso. En 1845 era un Fragment sin título; el de 1846 orienta la lectura hacia el penitente. Dos alusiones evangélicas enmarcan el cambio moral.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "I mourn with thee",
+        "kind": "Historia editorial",
+        "title": "Del Fragment a The Penitent",
+        "body": "La edición posterior registra que el manuscrito original carecía de título y se encabezaba Fragment, 1845. El título editorial de 1846 aclara el tema pero no revela el nombre del destinatario.",
+        "sources": [
+          {
+            "label": "The Complete Poems of Anne Brontë, nota de manuscrito",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Penitent"
+          }
+        ]
+      },
+      {
+        "line": 1,
+        "phrase": "and yet rejoice",
+        "kind": "Paradoja espiritual",
+        "title": "Compasión y alegría al mismo tiempo",
+        "body": "La hablante comparte el sufrimiento y, sin embargo, lo considera motivo de júbilo por su potencial penitencial. No se afirma que la pena sea buena en sí misma, sino que puede acompañar una transformación moral.",
+        "sources": [
+          {
+            "label": "The Penitent, texto de Anne y fecha",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Penitent"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "phrase": "friends and kindred",
+        "kind": "Interpretación",
+        "title": "Una comunidad que rechaza al arrepentido",
+        "body": "Los vínculos familiares y las amistades se vuelven hostiles. El poema contrapone el desdén externo al valor religioso del arrepentimiento, pero no ofrece datos suficientes para reconstruir un suceso personal concreto.",
+        "sources": [
+          {
+            "label": "The Penitent, edición documental",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Penitent"
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "phrase": "Blessed are ye that mourn",
+        "kind": "Fuente evangélica",
+        "title": "Mateo 5:4: la bienaventuranza",
+        "body": "Anne adapta la bienaventuranza que promete consuelo a quienes lloran. En Mateo la promesa no se refiere exclusivamente al arrepentimiento: el poema la reinterpreta como defensa del penitente.",
+        "sources": [
+          {
+            "label": "Mateo 5:4, King James Version",
+            "url": "https://www.biblegateway.com/passage/?search=Matthew+5%3A4&version=KJV"
+          },
+          {
+            "label": "Poema en The Complete Poems of Anne Brontë",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Penitent"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "phrase": "earthly cords",
+        "kind": "Interpretaciones alternativas",
+        "title": "Los lazos terrenales que se rompen",
+        "body": "Puede tratarse de la pérdida de apoyo social o de una separación necesaria para el cambio moral. El verso no establece qué relaciones concretas se han roto; ambas posibilidades son inferencias de lectura.",
+        "sources": [
+          {
+            "label": "Texto de The Penitent",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Penitent"
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "phrase": "joy in heaven",
+        "kind": "Fuente bíblica e hipótesis",
+        "title": "Lucas 15:7 y la posible lectura de Branwell",
+        "body": "El final evoca Lucas 15:7, sobre la alegría celestial por un pecador que se arrepiente. Se ha propuesto vincular el poema a la situación de Branwell; la cronología de Anne presenta esa conexión como sugerencia, no como hecho demostrado.",
+        "sources": [
+          {
+            "label": "Lucas 15:7, KJV",
+            "url": "https://www.biblegateway.com/passage/?search=Luke+15%3A7&version=KJV"
+          },
+          {
+            "label": "University of Pennsylvania, cronología y comentario sobre Anne",
+            "url": "https://digital.library.upenn.edu/women/bronte/bronte-anne.html"
+          }
+        ]
+      }
+    ]
   }
 };
