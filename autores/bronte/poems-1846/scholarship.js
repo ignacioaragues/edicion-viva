@@ -1807,5 +1807,88 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "20": {
+    "intro": "Tres escenas componen la historia de Gilbert: un jardín donde recuerda con crueldad a Elinor; un salón familiar interrumpido por una visión; y el regreso nocturno en que el pasado exige cuentas. La crítica ha estudiado su castigo gótico como retorno de la violencia masculina.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "I. THE GARDEN.",
+        "title": "Tres espacios de la culpa",
+        "body": "La estructura se divide en jardín, salón y regreso a casa. Cada escena confronta la prosperidad visible con un recuerdo o aparición que Gilbert intenta reprimir.",
+        "kind": "Estructura",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Gilbert, texto de 1846"
+          }
+        ]
+      },
+      {
+        "line": 49,
+        "phrase": "Elinor",
+        "title": "Elinor no es Frances",
+        "body": "Poetry Foundation sugiere que Gilbert es el tipo de amante arrogante que habría abandonado a Frances, pero la víctima de este relato lleva otro nombre, Elinor. La conexión es una analogía narrativa, no identidad demostrada.",
+        "kind": "Comparación",
+        "sources": [
+          {
+            "url": "https://www.poetryfoundation.org/poets/charlotte-bronte",
+            "label": "Poetry Foundation, relaciones entre los poemas de Charlotte"
+          }
+        ]
+      },
+      {
+        "line": 52,
+        "phrase": "triumph of a selfish heart",
+        "title": "El placer del dominio",
+        "body": "Gilbert recuerda como triunfo su capacidad de provocar amor y permanecer indiferente. Un estudio de Kent interpreta esa crueldad como origen de la venganza que el poema despliega.",
+        "kind": "Crítica académica",
+        "sources": [
+          {
+            "url": "https://kar.kent.ac.uk/94486/1/346646%20%281%29.pdf",
+            "label": "University of Kent, lectura de Gilbert y la violencia de género"
+          }
+        ]
+      },
+      {
+        "line": 78,
+        "phrase": "like a god",
+        "title": "La divinidad como autoimagen abusiva",
+        "body": "Gilbert se imagina descendiendo como un dios a la vida de Elinor y retirándose a su propio cielo. La comparación denuncia la desigualdad de poder y su soberbia, no le atribuye auténtica autoridad divina.",
+        "kind": "Imagen",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Gilbert, primera sección"
+          }
+        ]
+      },
+      {
+        "line": 130,
+        "phrase": "II. THE PARLOUR.",
+        "title": "Un salón aparentemente inocente",
+        "body": "Gilbert posee esposa, hijos y prosperidad. El contraste entre comodidad doméstica y violencia pasada interroga la apariencia de respetabilidad: la riqueza no corrige su indiferencia hacia Elinor.",
+        "kind": "Contexto narrativo",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Gilbert, segunda sección"
+          }
+        ]
+      },
+      {
+        "line": 179,
+        "phrase": "Misery should come",
+        "title": "La Miseria personificada",
+        "body": "La Miseria irrumpe como presencia casi corporal. El estudio de Kent la interpreta como figura que rompe la indiferencia del protagonista y hace operativa una represalia que Elinor no puede ejercer.",
+        "kind": "Alegoría",
+        "sources": [
+          {
+            "url": "https://kar.kent.ac.uk/94486/1/346646%20%281%29.pdf",
+            "label": "University of Kent, el castigo gótico en Gilbert"
+          }
+        ]
+      }
+    ]
   }
 };
