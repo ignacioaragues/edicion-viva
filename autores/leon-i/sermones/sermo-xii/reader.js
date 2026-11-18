@@ -98,7 +98,7 @@
     const old=read(),id=idOf(chosen),found=old.findIndex(w=>w.id===id);
     if(found>=0)old.splice(found,1);
     else old.push({id,language:"latín",form:chosen.form,lemma:chosen.lemma,
-       morphology:chosen.morphology,gloss:chosen.gloss,work:"León I · Sermo X",reference:chosen.reference,addedAt:new Date().toISOString()});
+       morphology:chosen.morphology,gloss:chosen.gloss,work:"León I · Sermo XII",reference:chosen.reference,addedAt:new Date().toISOString()});
     if(!store(old)){$("#dictionary-feedback").textContent="No se pudo guardar en este navegador.";return;}
     refreshSaved();showDictionary();
   });
