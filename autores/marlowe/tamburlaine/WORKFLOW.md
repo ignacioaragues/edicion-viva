@@ -304,3 +304,8 @@
 - **50 unidades consecutivas**: Parte I V1-414–463. Acumulado **2.244/4.641 (48,4 %)**. Sigue V1-464–513.
 - **22 traducciones revisadas**, 28 conservadas; **12 notas** y **2 fichas**. Cotejo con Lukacs 2020, V.ii.423–482, pp. 92–93. 1590 directo y QA navegador pendientes.
 - Se preservan el inglés, los IDs, la numeración, las acotaciones y la navegación por escenas. La capa nueva verifica coincidencia literal antes de aplicar cambios.
+
+## Cuadragésima sexta pasada filológica (18-11-2026)
+- **50 unidades consecutivas**: Parte I V1-464–513. Acumulado **2.294/4.641 (49,4 %)**. Sigue V1-514–534 y luego Parte II.
+- **33 traducciones corregidas**, 17 conservadas; **13 notas** y **2 fichas**. Cotejo Lukacs 2020, V.ii.483–541, pp. 93–95. Impreso 1590 y QA navegador pendientes.
+- Original inglés, IDs, acotaciones y navegación intactos; capa condicionada a cotejo literal de cada unidad.
