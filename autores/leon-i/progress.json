@@ -233,21 +233,35 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "voice_notes": 6
+    },
+    {
+      "group": "epistolae",
+      "number": 167,
+      "section": "Epistola CLXVII to Rusticus of Narbonne, proem partial through 'permanere' (PL54 cols.1199–1200)",
+      "paragraphs": 5,
+      "latin_tokens_approx": 161,
+      "translation": "partial original Spanish aligned translation",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/epistolae/epistola-clxvii/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 4
     }
   ],
   "next": {
     "group": "epistolae",
     "number": 167,
-    "section": "beginning"
+    "section": "proem continuation at Dicente vero Domino: Beatus qui perseveraverit usque in finem (PL54 col.1201)"
   },
   "priority": "Completed first-pass special priorities 82, Ep. 10, 14, 28 and Sermo XI. New priority order: Epistolae 113, 159, 166, 167, then Sermo 84; resume ordinary sequence at Sermo XII afterward.",
-  "last_edit": "2026-11-18: Epistola CLXVI first-pass full bilingual reader, 8 aligned units, 6 notes; critical collation and contextual morphology pending.",
+  "last_edit": "2026-11-18: Epistola CLXVII proem partial, five bilingual units through permanere, 4 voice notes, 28 initial lexical entries; continue PL54 col.1201. No claim of complete letter.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "epistolae",
     "number": 167,
-    "section": "beginning",
-    "status": "not_started"
+    "section": "proem continuation at Dicente vero Domino: Beatus qui perseveraverit usque in finem (PL54 col.1201)",
+    "status": "partial"
   },
   "priority_queue": [
     {
@@ -438,12 +452,19 @@
     {
       "group": "epistolae",
       "number": 167,
-      "status": "priority_pending",
+      "status": "published_partial",
       "skip_after_completion": true,
       "translation_complete": false,
-      "reader_published": false,
+      "reader_published": true,
       "source_collation_complete": false,
-      "morphology_complete": false
+      "morphology_complete": false,
+      "complete_work": false,
+      "aligned_units": 5,
+      "lexical_coverage": "28 selected first-pass surface-form entries; full contextual token analysis pending",
+      "reader_path": "autores/leon-i/epistolae/epistola-clxvii/index.html",
+      "last_completed": "Proem: address and opening through 'quam in his quae tibi commissa sunt permanere' (PL54 cols.1199–1200)",
+      "next": "Continue proem at 'Dicente vero Domino: Beatus qui perseveraverit usque in finem' (PL54 col.1201), then 19 consultationes and responsiones",
+      "editorial_caveat": "Partial edition: first five aligned units only, c. 161 whitespace-delimited Latin words. Base compared with Migne Reading Room PL54 cols.1199–1200 and variant notes. Full contextual morphology, print collation and browser QA pending. Rusticus's 19 inquiries must be kept distinct from Leo's replies."
     },
     {
       "group": "sermones",
