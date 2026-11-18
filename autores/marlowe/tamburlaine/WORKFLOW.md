@@ -408,3 +408,8 @@
 - **50 unidades**: Parte II III.2.66–115. Acumulado **3.294/4.641 (71,0 %)**. Sigue III.2.116–157 y III.3.1–8.
 - **50 traducciones ajustadas**, 0 conservadas; **13 notas** y **2 fichas**. Cotejo de secuencia con transcripción temprana de https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm (III.2); variantes «shattered rims»/«shatter'd limbs», «dram»/«drop» y acotación «He cuts his arme» no resueltas. Cotejo facsimilar y QA navegador pendientes.
 - Inglés, acotaciones, IDs y navegación conservados; capa condicionada a coincidencia literal del inglés.
+
+## Sexagésima séptima pasada filológica (19-11-2026)
+- **50 unidades**: Parte II III.2.116–157 (42) y III.3.1–8 (8). Acumulado **3.344/4.641 (72,1 %)**. Sigue III.3.9.
+- **50 traducciones corregidas**, 0 conservadas; **13 notas** y **2 fichas**. Comparación con transcripción de grafía temprana https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm, III.2–III.3 (19-11-2026).
+- En III.3.8, transcripción «gold» frente a base «hold», seguida por «How say ye Souldiers, Shal we not?» y réplica de soldados ausentes de la secuencia base. No se alteró el inglés ni la numeración: cotejo facsimilar y QA navegador pendientes.
