@@ -305,6 +305,10 @@ window.LEO_SERMO_LXXXII = {
           "nom. sg. masc.",
           "primacía"
         ]
+      ],
+      "note": [
+        "Apóstrofe a Roma",
+        "La celebración de los apóstoles se presenta como universal, pero reclama un gozo particular para Roma. El discurso construye un público local sin negar la comunidad de fe."
       ]
     },
     {
@@ -891,6 +895,10 @@ window.LEO_SERMO_LXXXII = {
           "perf. ind. act. 3 sg.",
           "sometió"
         ]
+      ],
+      "note": [
+        "Fundación y memoria cívica",
+        "La oposición magistra erroris / discipula veritatis desplaza la autoridad cultural de Roma hacia una nueva condición de aprendizaje. Es una antítesis retórica, no una descripción neutral de la ciudad."
       ]
     },
     {
@@ -1512,6 +1520,10 @@ window.LEO_SERMO_LXXXII = {
           "gen. sg. fem.",
           "ciudad"
         ]
+      ],
+      "note": [
+        "Providencia y poder",
+        "La unidad política del imperio se representa como condición histórica de circulación de la predicación, no como fuente de la verdad cristiana."
       ]
     },
     {
@@ -2211,6 +2223,10 @@ window.LEO_SERMO_LXXXII = {
           "part. perf. pas. nom. sg. neutro",
           "instituido"
         ]
+      ],
+      "note": [
+        "Escenario de confrontación",
+        "La repetición de hic concentra en Roma una serie de prácticas y errores que la predicación debe afrontar. Revisar la puntuación de los gerundivos contra PL 54."
       ]
     },
     {
@@ -2464,6 +2480,10 @@ window.LEO_SERMO_LXXXII = {
           "ac. sg. fem.",
           "criada"
         ]
+      ],
+      "note": [
+        "Interlocutor: Pedro",
+        "El vocativo beatissime Petre apostole desplaza la apóstrofe desde Roma a Pedro. La oposición entre miedo anterior y misión posterior estructura el elogio."
       ]
     },
     {
@@ -2717,6 +2737,10 @@ window.LEO_SERMO_LXXXII = {
           "abl. sg. neutro",
           "mediante el misterio"
         ]
+      ],
+      "note": [
+        "La fuerza del amor",
+        "Vincebat ergo materiam formidinis vis amoris: la sentencia da al amor una fuerza causal superior al temor, y organiza la interpretación del episodio apostólico."
       ]
     },
     {
@@ -3198,6 +3222,10 @@ window.LEO_SERMO_LXXXII = {
           "gen. sg. fem.",
           "del padecimiento"
         ]
+      ],
+      "note": [
+        "Anáforas de experiencia",
+        "Tot ... tot ... tot enumera signos de confianza; jam ... jam ... jam organiza los antecedentes de la misión de Pedro. Romanis arcibus requiere cotejo de la puntuación y del valor de quo."
       ]
     },
     {
@@ -3794,6 +3822,10 @@ window.LEO_SERMO_LXXXII = {
           "indicativo presente deponente tercera plural",
           "nacen"
         ]
+      ],
+      "note": [
+        "Persecución y crecimiento",
+        "Non minuitur persecutionibus Ecclesia, sed augetur formula la inversión del propósito persecutorio. La metáfora agrícola de los granos desarrolla la paradoja."
       ]
     },
     {
@@ -3992,6 +4024,10 @@ window.LEO_SERMO_LXXXII = {
           "indicativo perfecto activo tercera plural, forma sincopada de coronaverunt",
           "coronaron"
         ]
+      ],
+      "note": [
+        "La diadema de mártires",
+        "La imagen de una Roma coronada con gemas y púrpura reutiliza atributos del prestigio imperial para representar una comunidad martirial. Revisar la sintaxis de ex multarum honore gemmarum."
       ]
     },
     {
@@ -4270,6 +4306,10 @@ window.LEO_SERMO_LXXXII = {
           "sust. gen. m. pl.",
           "de los ojos"
         ]
+      ],
+      "note": [
+        "Dos luces, una cabeza",
+        "Geminum lumen oculorum equipara a Pedro y Pablo en la imagen de los ojos, mientras caput est Christus conserva explícitamente la jefatura de Cristo."
       ]
     },
     {
@@ -4603,6 +4643,10 @@ window.LEO_SERMO_LXXXII = {
           "subj. pres. pas. 1pl",
           "seamos elevados"
         ]
+      ],
+      "note": [
+        "Igualdad y memoria compartida",
+        "Electio pares, labor similes, finis aequales: la tríada iguala a los apóstoles por elección, trabajo y final. Nos experti sumus / nostri probavere majores suma experiencia propia y testimonio heredado."
       ]
     },
     {
@@ -4711,6 +4755,10 @@ window.LEO_SERMO_LXXXII = {
           "aclamación litúrgica",
           "amén"
         ]
+      ],
+      "note": [
+        "Doxología",
+        "Eadem potestas, una Divinitas clausura el sermón mediante una fórmula de unidad trinitaria; la grafía Divinitas queda sujeta al cotejo editorial."
       ]
     }
   ]
