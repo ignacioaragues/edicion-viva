@@ -224,25 +224,33 @@
     {
       "group": "epistolae",
       "number": 10,
-      "status": "partial_reader_published_chapters_I_III",
+      "status": "published_complete_first_pass_morphology_and_collation_pending",
       "skip_after_completion": true,
       "work_file": "autores/leon-i/epistolae/epistola-x/EDITORIAL-DOSSIER.md",
-      "source": "https://www.mignereadingroom.org/PL/54/epistolae/628-635",
-      "next": "Caput IV: Huic negotio sic finito, fratris et coepiscopi nostri Projecti querela successit; complete chapters IV–IX, then contextual morphology",
+      "source": "https://la.wikisource.org/wiki/Epistolae_(Leo_I)/1",
+      "next": "Epistola X bilingual text complete; contextual morphology and printed PL54 collation pending as later editorial pass. Priority Epistola XIV next.",
       "recipient": "Bishops of the province of Vienne",
       "sender": "Leo, bishop of Rome",
-      "translation_complete": false,
+      "translation_complete": true,
       "reader_published": true,
       "published_chapters": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
       ],
       "total_chapters": 9,
       "reader_path": "autores/leon-i/epistolae/epistola-x/index.html",
       "morphology_complete": false,
-      "aligned_units": 13,
-      "source_collation_complete": false
+      "aligned_units": 37,
+      "source_collation_complete": false,
+      "complete_work": true,
+      "voice_notes": 11
     },
     {
       "group": "epistolae",
