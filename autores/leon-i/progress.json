@@ -171,7 +171,7 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Cotejar visualmente las siete secciones contra facsímil impreso PL 54 y aparato; resolver lecturas señaladas en COLLATION-REGISTER.md, actualizar las 913 fichas y lector, probar interacción y solo entonces publicar/indexar. Epistola X después.",
+      "next": "Printed PL54 facsimile/apparatus collation for all seven chapters, propagate verified readings to 913 fichas, then browser/mobile runtime verification and catalogue publication. Do not advance to Epistola X until completed.",
       "morphology_units_with_contextual_table": 18,
       "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -192,7 +192,9 @@
       "reader_data_path": "autores/leon-i/sermones/sermo-lxxxii/sermo-lxxxii.js",
       "reader_first_pass_occurrences": 913,
       "secondary_transcription_review": "Seven chapters / 18 units checked for structural continuity against frcoulter.com/leo/latin/tractatus82.html (2026-11-18); no omitted chapter detected. NOT a printed PL 54 facsimile or apparatus collation.",
-      "collation_register": "autores/leon-i/sermones/sermo-lxxxii/COLLATION-REGISTER.md"
+      "collation_register": "autores/leon-i/sermones/sermo-lxxxii/COLLATION-REGISTER.md",
+      "reader_notes": 12,
+      "reader_metadata_audit": "2026-11-18: corrected copied Sermo I title, section labels, navigation, source and voice analysis; added 12 passage notes, checked 913 lexical entries retained. Browser/mobile runtime testing and printed PL54 collation still pending."
     },
     {
       "group": "epistolae",
