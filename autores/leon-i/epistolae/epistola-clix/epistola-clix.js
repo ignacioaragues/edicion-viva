@@ -116,5 +116,81 @@ window.LEO_EPISTOLA_CLIX={
       ]
     }
   ],
-  "lexicon": {}
+  "lexicon": {
+  "curatio": [
+    "curatio, -onis",
+    "sust. fem., nominativo singular",
+    "tratamiento, remedio"
+  ],
+  "vulnera": [
+    "vulnus, vulneris",
+    "sust. neutro, acusativo plural",
+    "heridas"
+  ],
+  "sanentur": [
+    "sano, sanare",
+    "verbo, presente subjuntivo pasivo, 3.ª plural",
+    "sean sanadas"
+  ],
+  "necessitas": [
+    "necessitas, -atis",
+    "sust. fem., nominativo singular",
+    "necesidad"
+  ],
+  "fides": [
+    "fides, -ei",
+    "sust. fem., nominativo singular",
+    "fidelidad / fe"
+  ],
+  "restituendum": [
+    "restituo, restituere",
+    "gerundivo neutro singular",
+    "que debe restituirse"
+  ],
+  "moderatio": [
+    "moderatio, -onis",
+    "sust. fem., nominativo singular",
+    "moderación"
+  ],
+  "poenitentiae": [
+    "poenitentia, -ae",
+    "sust. fem., genitivo singular",
+    "de penitencia"
+  ],
+  "compunctione": [
+    "compunctio, -onis",
+    "sust. fem., ablativo singular",
+    "contrición"
+  ],
+  "sollicitudinem": [
+    "sollicitudo, -inis",
+    "sust. fem., acusativo singular",
+    "solicitud"
+  ],
+  "auctoritas": [
+    "auctoritas, -atis",
+    "sust. fem., nominativo singular",
+    "autoridad"
+  ],
+  "fraternitatis": [
+    "fraternitas, -atis",
+    "sust. fem., genitivo singular",
+    "de fraternidad"
+  ],
+  "communionis": [
+    "communio, -onis",
+    "sust. fem., genitivo singular",
+    "de comunión"
+  ],
+  "sanctificationis": [
+    "sanctificatio, -onis",
+    "sust. fem., genitivo singular",
+    "de santificación"
+  ],
+  "baptismum": [
+    "baptismus, -i",
+    "sust. masc., acusativo singular",
+    "bautismo"
+  ]
+}
 };
