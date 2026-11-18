@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2844,
+    "reviewedUnits": 2894,
     "reviewed": [
       {
         "part": 1,
@@ -1042,26 +1042,44 @@
         "start": 11,
         "end": 60,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 1,
+        "start": 61,
+        "end": 63,
+        "count": 3
+      },
+      {
+        "part": 2,
+        "act": 2,
+        "scene": 2,
+        "start": 1,
+        "end": 47,
+        "count": 47
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II II.1.11–60",
+      "scope": "Parte II II.1.61–63 y II.2.1–47",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 47,
+      "translationLinesRevised": 48,
       "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-57.js; inglés del repositorio cotejado línea a línea; cotejo externo y QA navegador pendientes",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine the Great, Part Two, texto inglés de base del repositorio Edición Viva; cotejo con testimonios externos y variantes históricas pendiente."
-      ]
+        "Texto inglés incorporado en text.js, contrastado internamente línea por línea",
+        "Génesis 1:26–27, referencia intertextual temática"
+      ],
+      "externalCollationPending": true,
+      "browserQAPending": true
     },
     "next": {
       "part": 2,
       "act": 2,
-      "scene": 1,
-      "line": 61
+      "scene": 2,
+      "line": 48
     }
   }
 }

@@ -364,3 +364,8 @@
 - **50 unidades**: Parte II II.1.11–60. Acumulado **2.844/4.641 (61,3 %)**. Sigue Parte II II.1.61–110.
 - **47 traducciones corregidas**, 3 conservadas; **13 notas** y **2 fichas**. Cotejo literal interno del inglés en text.js; cotejo externo y QA navegador pendientes.
 - Original inglés, IDs, numeración, acotaciones y navegación sin modificaciones; nueva capa condicionada a coincidencia literal de cada línea.
+
+## Quincuagésima octava pasada filológica (18-11-2026)
+- **50 unidades**: Parte II II.1.61–63 (3) y II.2.1–47 (47). Acumulado **2.894/4.641 (62,4 %)**. Sigue II.2.48–64 y II.3.1–33.
+- **48 traducciones corregidas**, 2 conservadas; **13 notas** y **2 fichas**. Cotejo interno completo del inglés de text.js; cotejo histórico externo y QA navegador pendientes.
+- Se preservaron inglés, acotaciones, IDs y estructura del lector; capa nueva condicionada a coincidencia literal del inglés.
