@@ -35,7 +35,7 @@ const labels={
 "quench'd":"quench: extinguir, apagar. Contracción de la terminación de pasado -ed.",
 "blent":"Forma poética de blended (mezclado).",
 "wrapt":"Grafía literaria de wrapped (envuelto).",
-"ret inge":"Volver a teñir o colorear; del verbo retinge.",
+"retinge":"Volver a teñir o colorear; del verbo retinge.",
 "thou":"Pronombre de segunda persona singular arcaico: tú.",
 "thee":"Forma objeto del pronombre arcaico thou: te, a ti.",
 "thy":"Posesivo arcaico correspondiente a thou: tu.",
