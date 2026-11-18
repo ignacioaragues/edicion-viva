@@ -128,6 +128,19 @@
       "voice_notes": 21,
       "complete_work": true,
       "editorial_caveat": "Base Ballerini–Migne Wikisource; caput I variants quasi/tamquam gesta, qualitatem/aequalitatem, timenda/inferenda, Quisquis/Quidquid; printed critical collation pending. Caput II opening: discretionis/districtionis in apparatus; printed collation pending. Caput III: collationum/collectionum variant; printed collation pending. Caput III quarta feria retained in base; Ballerini notes quinta feria as likely correction without manuscript support. Caput III §15: miseria/molestia, sublevandi/revelandi; critical printed collation pending. Caput III conclusion: enim/autem, alternate Pauline citation and sua/sui praesentia in apparatus; printed critical collation pending. Caput IV: scutum/arma, corripere/arripere, in omission, et hujus/hujus, nobis/vobis; printed critical collation pending."
+    },
+    {
+      "group": "sermones",
+      "number": 82,
+      "section": "Sermo LXXXII · In Natali apostolorum Petri et Pauli · capita I–VII",
+      "paragraphs": 18,
+      "latin_tokens": 913,
+      "lexical_coverage": "913/913 first-pass contextual lexical cards",
+      "translation": "complete first-pass aligned Spanish translation",
+      "voice_notes": 12,
+      "complete_work": true,
+      "reader_published": true,
+      "editorial_caveat": "Reader published with complete first-pass text and annotation. Exhaustive printed PL54 collation and full runtime/browser QA remain open; not a definitive critical edition."
     }
   ],
   "next": {
@@ -137,7 +150,7 @@
     "location": "PL 54 col. 165C–166A",
     "editorial_state": "Sermo X translation draft 15 units; chapters I–III aligned (11 units), contextual morphology only I.1; not published in reader."
   },
-  "priority": "Sermo LXXXII provisional reader editorially frozen awaiting inaccessible PL54 print collation; Epistola X active, then Epistola XIV; once all completed resume Sermo X chapter IV. No false completion of Sermo 82.",
+  "priority": "Sermo LXXXII published as complete first-pass reader (critical review open), Epistola X active, then Epistola XIV; resume Sermo X chapter IV after priorities.",
   "last_edit": "2026-11-18",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
@@ -163,15 +176,15 @@
     {
       "group": "sermones",
       "number": 82,
-      "status": "partial_reader_staged_unindexed_print_collation_deferred",
+      "status": "published_complete_first_pass_critical_review_open",
       "skip_after_completion": true,
       "aligned_chapters": 7,
       "aligned_units": 18,
       "morphology_complete": true,
       "source_collation_complete": false,
-      "reader_published": false,
+      "reader_published": true,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Editorial freeze: 18/18 units, 913 cards and 12 notes staged. PL54 printed facsimile inaccessible (502); no false claim of print collation. Revisit when accessible; priority work proceeds to Epistola X without declaring Sermo 82 complete.",
+      "next": "Published for reading by explicit user approval; critical print collation may be revisited later. Continue priority Epistola X now.",
       "morphology_units_with_contextual_table": 18,
       "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -195,7 +208,9 @@
       "collation_register": "autores/leon-i/sermones/sermo-lxxxii/COLLATION-REGISTER.md",
       "reader_notes": 12,
       "reader_metadata_audit": "2026-11-18: corrected copied Sermo I title, section labels, navigation, source and voice analysis; added 12 passage notes, checked 913 lexical entries retained. Browser/mobile runtime testing and printed PL54 collation still pending.",
-      "editorial_freeze": "2026-11-18: print collation deferred after repeated 502 errors; leave reader provisional and unindexed; no further micro-passes until accessible source."
+      "editorial_freeze": "2026-11-18: print collation deferred after repeated 502 errors; leave reader provisional and unindexed; no further micro-passes until accessible source.",
+      "translation_complete": true,
+      "complete_work": true
     },
     {
       "group": "epistolae",
