@@ -1628,5 +1628,101 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "18": {
+    "intro": "Una voz explica por qué conserva esperanza mientras sus contemporáneos se han desilusionado. Simon Marsden propone una lectura ecoteológica: la mirada hacia el porvenir no implica huir de la naturaleza presente, sino poder seguir percibiendo su belleza.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "How beautiful the earth",
+        "title": "Dos voces ante la belleza natural",
+        "body": "La primera voz se sorprende de que el interlocutor siga viendo la tierra como hermosa. Desde el verso 19 llega la respuesta. Esta estructura dialógica impide atribuir todos los juicios a una sola perspectiva del poema.",
+        "kind": "Estructura",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Anticipation",
+            "label": "Anticipation, edición de los poemas de Emily"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "phrase": "Because, I hoped",
+        "title": "La paradoja de la esperanza",
+        "body": "Los otros disfrutaron y consumieron sus ilusiones; el hablante conserva la esperanza porque aplazó el cumplimiento. El poema pregunta si sostener un deseo futuro puede ser una fuerza más durable que satisfacerlo.",
+        "kind": "Argumento",
+        "sources": [
+          {
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html",
+            "label": "Poema publicado en 1846"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "phrase": "A thoughtful spirit",
+        "title": "La voz del aprendizaje",
+        "body": "El espíritu reflexivo enseña que los placeres terrenales se agotan. No se identifica como profeta o aparición sobrenatural: también puede ser una personificación de la experiencia y la conciencia.",
+        "kind": "Interpretación",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Anticipation",
+            "label": "Anticipation, estrofa tercera"
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "phrase": "anchor of desire",
+        "title": "El ancla en un mar de eternidad",
+        "body": "La playa cambiante contrasta con la continuidad del mar; la hablante fija allí su deseo. La eternidad funciona como orientación existencial y no como una realidad que la voz pueda demostrar empíricamente.",
+        "kind": "Metáfora",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Anticipation",
+            "label": "Anticipation, estrofa cuarta"
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "phrase": "hope's spell",
+        "title": "Una esperanza que cambia la percepción del presente",
+        "body": "Simon Marsden, en Religions (2021), interpreta la esperanza escatológica de Emily como una capacidad de contemplar con alegría los misterios de la naturaleza actual. Es una lectura diferente de considerar el porvenir como simple evasión de la tierra.",
+        "kind": "Estudio académico",
+        "sources": [
+          {
+            "url": "https://www.mdpi.com/2077-1444/12/7/546",
+            "label": "Simon Marsden, Ecological Apocalypse in the Poetry of Patrick and Emily Brontë (2021)"
+          }
+        ]
+      },
+      {
+        "line": 45,
+        "phrase": "Glad comforter",
+        "title": "¿Fe fortalecedora o satisfacción diferida?",
+        "body": "La voz dice que podrá afrontar la tumba sostenida por la esperanza. Puede leerse como fortaleza moral o como aplazamiento de una plenitud imposible aquí. Marsden enfatiza que también produce vigor en el presente.",
+        "kind": "Perspectivas",
+        "sources": [
+          {
+            "url": "https://www.mdpi.com/2077-1444/12/7/546",
+            "label": "Marsden (2021), esperanza y experiencia de la naturaleza"
+          }
+        ]
+      },
+      {
+        "line": 49,
+        "phrase": "unjust seems present fate",
+        "title": "Injusticia actual y recompensa esperada",
+        "body": "La mayor apariencia de injusticia del presente intensifica la expectativa de una recompensa. La esperanza no niega el sufrimiento; se construye precisamente frente a él.",
+        "kind": "Lectura textual",
+        "sources": [
+          {
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/Anticipation",
+            "label": "Anticipation, desenlace"
+          }
+        ]
+      }
+    ]
   }
 };
