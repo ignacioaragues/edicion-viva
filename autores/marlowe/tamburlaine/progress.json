@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2294,
+    "reviewedUnits": 2344,
     "reviewed": [
       {
         "part": 1,
@@ -922,26 +922,43 @@
         "start": 464,
         "end": 513,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 5,
+        "scene": 1,
+        "start": 514,
+        "end": 534,
+        "count": 21
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 1,
+        "start": 1,
+        "end": 29,
+        "count": 29
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I, lector V1-464–513",
+      "scope": "Parte I V1-514–534 (21) y Parte II I.1.1–29 (29)",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 33,
-      "newNotes": 13,
+      "translationLinesRevised": 30,
+      "newNotes": 14,
       "readingCardsAdded": 2,
-      "mode": "philology-46.js; cotejo Lukacs 2020; impreso 1590 y QA navegador pendientes",
+      "mode": "philology-47.js; comparación con inglés base Dyce; 1590 directo y QA navegador pendientes",
       "sourceBasis": [
-        "Peter Lukacs (ed.), Christopher Marlowe, Tamburlaine the Great, Part One, Annotated Popular Edition (2020), V.ii.483–541, pp. 93–95 (PDF pp. 92–94), https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
+        "Christopher Marlowe, Tamburlaine the Great, Part One, texto de Alexander Dyce, Project Gutenberg #1094, acto V, final; https://www.gutenberg.org/ebooks/1094",
+        "Christopher Marlowe, Tamburlaine the Great, Part Two, texto de Alexander Dyce, Project Gutenberg #1094, acto I, escena 1; https://www.gutenberg.org/ebooks/1094"
       ]
     },
     "next": {
-      "part": 1,
-      "act": 5,
+      "part": 2,
+      "act": 1,
       "scene": 1,
-      "line": 514
+      "line": 30
     }
   }
 }

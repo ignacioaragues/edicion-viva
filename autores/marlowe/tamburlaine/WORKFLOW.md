@@ -309,3 +309,8 @@
 - **50 unidades consecutivas**: Parte I V1-464–513. Acumulado **2.294/4.641 (49,4 %)**. Sigue V1-514–534 y luego Parte II.
 - **33 traducciones corregidas**, 17 conservadas; **13 notas** y **2 fichas**. Cotejo Lukacs 2020, V.ii.483–541, pp. 93–95. Impreso 1590 y QA navegador pendientes.
 - Original inglés, IDs, acotaciones y navegación intactos; capa condicionada a cotejo literal de cada unidad.
+
+## Cuadragésima séptima pasada filológica (18-11-2026)
+- **50 unidades**: Parte I V1-514–534 (21, cierre de Parte I) y Parte II I.1.1–29 (29). Acumulado **2.344/4.641 (50,5 %)**. Sigue Parte II I.1.30–79.
+- **31 correcciones de traducción**, 19 líneas conservadas; **14 notas** y **2 fichas**. Texto inglés base Dyce / Project Gutenberg #1094; 1590 directo y QA navegador pendientes.
+- Se preservan original, IDs, numeración, acotaciones y navegación; capa condicionada a igualdad literal de cada línea inglesa.
