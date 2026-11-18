@@ -1,0 +1,19 @@
+/* Sermones de León — utiliza el lector de Aulularia sin duplicar sus estilos */
+.sermon-nav{display:flex;flex-direction:column;gap:12px;margin-bottom:26px}
+.sermon-nav a{display:block;border:1px solid #e1e0d6;background:#fffdf8;padding:12px;text-decoration:none;font:700 11px/1.7 'DM Sans',sans-serif;color:#59655a}
+.sermon-nav a small{display:block;font:10px 'DM Sans',sans-serif;color:#a2a69d}
+.sermon-nav>span{font:10px/1.6 'DM Sans',sans-serif;color:#9fa59b}
+.word-gloss{font:italic 12px/1.7 'Libre Baskerville',Georgia,serif;color:#667067;padding-top:12px;border-top:1px solid #e3e2d8;margin-top:14px}
+.word-paradigm{display:inline-block;font:600 11px 'DM Sans',sans-serif;margin-top:12px;color:#9d5747;text-decoration:none}
+.word-paradigm:hover{text-decoration:underline}
+.voice-section{background:#f2f0e9;border-top:2px solid #a5ae9f;padding:29px 32px 30px;margin:32px 0}
+.voice-kicker{font:700 10px 'DM Sans',sans-serif;letter-spacing:.17em;color:#9d5747}
+.voice-section h2{font:400 21px/1.45 'Libre Baskerville',Georgia,serif;margin:12px 0}
+.voice-section p:not(.voice-kicker){font:12px/1.9 'Libre Baskerville',Georgia,serif;color:#657066}
+.dict-record{border-bottom:1px solid #e6e5dd;padding:12px 0;display:grid;gap:7px}
+.dict-record strong{font:700 13px Georgia,serif}
+.dict-record small{font:10px/1.5 'DM Sans',sans-serif;color:#777f76}
+.dict-record button{justify-self:end;font:700 10px 'DM Sans',sans-serif;border:0;background:none;color:#9d5747;cursor:pointer}
+@media(max-width:860px){.sidebar.open{display:block;position:fixed;top:65px;bottom:0;left:0;width:min(290px,90vw);z-index:40;background:#f4f2eb;box-shadow:8px 0 22px #0002}
+.sidebar.open .sidebar-inner{position:static;height:100%;padding:18px}
+.sidebar.open .sidebar-content{display:flex}.voice-section{padding:22px 20px}}
