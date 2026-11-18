@@ -79,8 +79,12 @@ window.LEO_EPISTOLA_X = {
     {
       "id": "ep10-11",
       "label": "III.4",
-      "latin": "Quod nos quidem servantes legatia constituta, sollicitius voluimus custodiri, non solum circa sacerdotes, sed circa clericos quoque minoris officii: ne ad sacram militiam hi permittantur accedere quibus sit tale conjugium, vel qui contra apostolicam disciplinam non unius tantum uxoris viri fuisse monstrentur.",
-      "spanish": "Esta disposición legal, que nosotros observamos, quisimos que se respetara con especial cuidado, no solo respecto de los obispos, sino también de los clérigos de grado inferior: que no se permita acceder al servicio sagrado a quienes hayan contraído un matrimonio semejante o a quienes se demuestre que, contra la disciplina apostólica, han tenido más de una esposa."
+      "latin": "Quod nos quidem servantes legalia constituta, sollicitius voluimus custodiri, non solum circa sacerdotes, sed circa clericos quoque minoris officii: ne ad sacram militiam hi permittantur accedere quibus sit tale conjugium, vel qui contra apostolicam disciplinam non unius tantum uxoris viri fuisse monstrentur.",
+      "spanish": "Esta disposición legal, que nosotros observamos, quisimos que se respetara con especial cuidado, no solo respecto de los obispos, sino también de los clérigos de grado inferior: que no se permita acceder al servicio sagrado a quienes hayan contraído un matrimonio semejante o a quienes se demuestre que, contra la disciplina apostólica, han tenido más de una esposa.",
+      "note": [
+        "Lección por cotejar",
+        "La transcripción digital de PL lee «legatia constituta», probablemente por error de lectura; se mantiene provisionalmente «legalia constituta» por coherencia sintáctica y semántica hasta cotejo del impreso."
+      ]
     },
     {
       "id": "ep10-12",
