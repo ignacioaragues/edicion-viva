@@ -1985,5 +1985,447 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "21": {
+    "intro": "El marco de prisión y la voz de la cautiva permiten leer el poema como un diálogo dramático, no como confesión directa de Emily. La visión nocturna promete una libertad que contrasta con el retorno doloroso al cuerpo; el fragmento conserva resonancias del universo narrativo de Gondal.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "A FRAGMENT.",
+        "kind": "Historia editorial",
+        "title": "Un fragmento y una voz narrativa",
+        "body": "La rúbrica señala la condición fragmentaria de la pieza publicada. La escena presenta primero a un visitante y un carcelero, y luego deja hablar a la prisionera; no hay que atribuir automáticamente todas las afirmaciones a Emily.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Poetry Foundation, Emily Brontë: contexto de Gondal",
+            "url": "https://www.poetryfoundation.org/poets/emily-bronte"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "phrase": "The captive raised her face",
+        "kind": "Caracterización",
+        "title": "La serenidad de la cautiva",
+        "body": "La comparación con una santa de mármol o un niño dormido contrasta la violencia del encierro con una calma exterior que el visitante no esperaba.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 36,
+        "phrase": "A messenger of Hope",
+        "kind": "Imaginario visionario",
+        "title": "La visita nocturna de la Esperanza",
+        "body": "La esperanza no aparece como mera actitud psicológica: es un mensajero recurrente, cuya llegada está vinculada con la noche, el viento y las estrellas.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Poetry Foundation, Emily Brontë: contexto de Gondal",
+            "url": "https://www.poetryfoundation.org/poets/emily-bronte"
+          }
+        ]
+      },
+      {
+        "line": 50,
+        "phrase": "Then dawns the Invisible",
+        "kind": "Interpretación",
+        "title": "El sentido interior frente al exterior",
+        "body": "La antítesis entre lo invisible y los sentidos corporales articula una experiencia de liberación espiritual. Se trata de una lectura del discurso de la cautiva, no de una doctrina demostrada de la autora.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 57,
+        "phrase": "The soul to feel the flesh",
+        "kind": "Forma y sentido",
+        "title": "La cadena vuelve con el cuerpo",
+        "body": "La repetición de «feel» y «flesh» dramatiza el retorno brusco de la conciencia al cuerpo encarcelado: el verso junta materialidad, percepción y coerción.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 65,
+        "phrase": "overruled by Heaven",
+        "kind": "Cierre narrativo",
+        "title": "Una sentencia revocada",
+        "body": "La última palabra queda en manos del narrador, que opone el fallo humano a un juicio celestial. El desenlace no describe una liberación física efectiva.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      }
+    ]
+  },
+  "22": {
+    "intro": "La oración condicional acumula privaciones afectivas, laborales y espirituales hasta desembocar en una petición alternativa: morir pronto o recibir fuerzas para resistir. Su tensión religiosa no debe reducirse a desesperación sin salida.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "O God! if this indeed be all",
+        "kind": "Forma",
+        "title": "Una plegaria condicional",
+        "body": "El «if» inicial gobierna una larga serie de hipótesis y retrasa la petición principal hasta los versos finales. La estructura retórica hace audible el peso acumulativo del sufrimiento.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "phrase": "Wandering and toiling without gain",
+        "kind": "Contexto social",
+        "title": "Trabajo sin recompensa",
+        "body": "La voz se presenta como alguien que trabaja y deambula sometida a voluntades ajenas. La dimensión laboral está explícita en el texto; cualquier identificación biográfica concreta requiere pruebas adicionales.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "phrase": "The silent current from within",
+        "kind": "Lectura textual",
+        "title": "Mal exterior e interior",
+        "body": "La contraposición entre corriente silenciosa interior y torrente exterior impide leer la queja solo como acusación a otros: la hablante también reconoce una lucha moral íntima.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 24,
+        "phrase": "turned to wormwood there",
+        "kind": "Imagen bíblica",
+        "title": "El ajenjo de la amargura",
+        "body": "«Wormwood» designa una planta proverbialmente amarga y frecuente en la imaginería bíblica del sufrimiento; aquí transforma afectos que no encuentran salida en amargura interior.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "phrase": "Then call me soon to thee",
+        "kind": "Teología",
+        "title": "La petición final no es unívoca",
+        "body": "La oración ofrece dos desenlaces —ser llamada por Dios o recibir fortaleza—. La segunda alternativa evita interpretar el texto como una afirmación simple de que la muerte sea la única respuesta.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      }
+    ]
+  },
+  "23": {
+    "intro": "Charlotte construye una exhortación al coraje mediante lluvia, flores, alas y personificaciones de la muerte y la esperanza. Su optimismo no elimina la pérdida: la reconoce antes de responder con un imperativo ético.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Life, believe, is not a dream",
+        "kind": "Retórica",
+        "title": "Una réplica a los sabios",
+        "body": "El poema comienza discutiendo una máxima pesimista atribuida a «sages». El imperativo «believe» implica un interlocutor y da al texto el tono de exhortación.",
+        "sources": [
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          },
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "phrase": "the roses bloom",
+        "kind": "Imagen natural",
+        "title": "La lluvia como condición de crecimiento",
+        "body": "La lluvia pasa de signo de adversidad a causa del florecimiento. La imagen sostiene el argumento del poema, aunque no afirma que todo sufrimiento produzca necesariamente un bien.",
+        "sources": [
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "phrase": "Rapidly, merrily",
+        "kind": "Prosodia",
+        "title": "Adverbios y aceleración rítmica",
+        "body": "La serie de adverbios y los versos breves aceleran el ritmo y representan la fugacidad de las horas felices, antes de pedir que se las disfrute agradecidamente.",
+        "sources": [
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "phrase": "Death at times steps in",
+        "kind": "Personificación",
+        "title": "La muerte interrumpe la alegría",
+        "body": "La muerte entra como personaje y arrebata a los seres queridos. El poema reconoce pérdidas concretas en lugar de sostener una alegría ininterrumpida.",
+        "sources": [
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "Hope again elastic springs",
+        "kind": "Personificación",
+        "title": "La esperanza como fuerza de rebote",
+        "body": "«Elastic» sugiere recuperación después de la caída; las alas doradas de los versos siguientes desarrollan una imagen de movimiento y resistencia.",
+        "sources": [
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "phrase": "Manfully, fearlessly",
+        "kind": "Registro histórico",
+        "title": "El lenguaje del valor",
+        "body": "El adverbio «manfully» pertenece a un léxico decimonónico del coraje asociado con lo masculino. Su función exhortativa puede comentarse sin trasladar mecánicamente su valor a una identidad del hablante.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Academy of American Poets, Life (Charlotte Brontë)",
+            "url": "https://poets.org/poem/life-2"
+          }
+        ]
+      }
+    ]
+  },
+  "24": {
+    "intro": "En contraste con la Esperanza que visita a la prisionera del poema 21, aquí Hope aparece personificada como una amiga cobarde y finalmente desertora. La escena carcelaria es una metáfora sostenida de abandono.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Hope Was but a timid friend",
+        "kind": "Personificación",
+        "title": "La esperanza acusada",
+        "body": "La voz personifica a Hope como una amistad temerosa e incapaz de acompañar el sufrimiento; el inicio invierte la valoración convencionalmente positiva de la esperanza.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "phrase": "the grated den",
+        "kind": "Motivo",
+        "title": "La reja y el encierro",
+        "body": "La reja permite relacionar formalmente este poema con «The Prisoner», aunque esa semejanza no prueba que ambos compartan personaje o episodio de Gondal.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Poetry Foundation, Emily Brontë: contexto de Gondal",
+            "url": "https://www.poetryfoundation.org/poets/emily-bronte"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "phrase": "Like a false guard",
+        "kind": "Símil",
+        "title": "La falsa guardia",
+        "body": "El símil convierte a la esperanza en una guardiana negligente: promete vigilancia y consuelo, pero falla justamente cuando se la necesita.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "phrase": "Even Sorrow saw, repenting",
+        "kind": "Personificación",
+        "title": "La tristeza siente compasión",
+        "body": "El poema atribuye arrepentimiento a Sorrow y lo niega a Hope. La inversión intensifica el reproche: hasta el dolor reconoce lo que la esperanza rehúsa reconocer.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "phrase": "soared to heaven",
+        "kind": "Final",
+        "title": "Ascenso sin retorno",
+        "body": "El vuelo al cielo puede sugerir trascendencia, pero desde la perspectiva de la hablante equivale a abandono definitivo; la dirección ascendente no asegura consuelo.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      }
+    ]
+  },
+  "25": {
+    "intro": "Anne pasa de una evocación botánica de la infancia a una discusión explícita de la idealización retrospectiva. La crítica ha situado el poema en diálogo con Wordsworth y ha subrayado que su final cuestiona tanto la inocencia absoluta de la niñez como el poder embellecedor del recuerdo.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "the sun of summer shone",
+        "kind": "Forma",
+        "title": "Una apertura romántica deliberada",
+        "body": "Ciara Glasscott (2023) estudia la sibilancia inicial y el patrón de rimas AABCCB como recursos que inducen una lectura apacible antes del cuestionamiento final.",
+        "sources": [
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "phrase": "one sweet breath of memory",
+        "kind": "Memoria",
+        "title": "Del paisaje presente al recuerdo",
+        "body": "La experiencia de memoria desplaza la atención desde el entorno estival visible hacia una flor evocada. El recuerdo actúa sobre la percepción, no solo sobre un relato del pasado.",
+        "sources": [
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          },
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "phrase": "a primrose fair",
+        "kind": "Imaginario botánico",
+        "title": "La primavera infantil",
+        "body": "La prímula, el croco, el alhelí y la campanilla forman un catálogo de flores cuya belleza se vincula a la experiencia temprana, no únicamente a sus cualidades visibles.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "phrase": "Sweet Memory!",
+        "kind": "Apóstrofe",
+        "title": "La memoria como destinataria",
+        "body": "La invocación transforma la memoria en interlocutora activa a la que se pide conservar el encanto de los lugares y las estaciones.",
+        "sources": [
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          },
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "phrase": "Is childhood, then, so all divine?",
+        "kind": "Debate crítico",
+        "title": "Una respuesta a Wordsworth",
+        "body": "Glasscott reúne las lecturas de Chitham, Langland y Colón sobre el diálogo de Anne con Wordsworth: el poema interroga la supuesta divinidad de la infancia en lugar de aceptarla sin reservas.",
+        "sources": [
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      },
+      {
+        "line": 40,
+        "phrase": "Not ALL divine",
+        "kind": "Contradicción",
+        "title": "La niñez también conoce dolor",
+        "body": "La respuesta explícita corrige el idilio precedente. Glasscott considera este giro una crítica a la idealización romántica y rousseauniana de la infancia.",
+        "sources": [
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "phrase": "Nor is the glory all thine own",
+        "kind": "Conclusión",
+        "title": "Límites del poder de recordar",
+        "body": "La voz niega que el brillo retrospectivo sea obra exclusiva de Memory: la particularidad de las primeras alegrías no puede reproducirse plenamente sobre placeres posteriores.",
+        "sources": [
+          {
+            "label": "Ciara Glasscott, Brontë Studies 48 (2023), 309–323",
+            "url": "https://doi.org/10.1080/14748932.2023.2209606"
+          },
+          {
+            "label": "Poems (1846), transcripción de University of Pennsylvania",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      }
+    ]
   }
 };
