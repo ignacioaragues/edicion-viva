@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 2544,
+    "reviewedUnits": 2594,
     "reviewed": [
       {
         "part": 1,
@@ -978,26 +978,42 @@
         "start": 14,
         "end": 63,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 2,
+        "start": 64,
+        "end": 78,
+        "count": 15
+      },
+      {
+        "part": 2,
+        "act": 1,
+        "scene": 3,
+        "start": 1,
+        "end": 35,
+        "count": 35
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte II I.2.14–63",
+      "scope": "Parte II I.2.64–78 (15) y I.3.1–35 (35)",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 39,
+      "translationLinesRevised": 35,
       "newNotes": 13,
       "readingCardsAdded": 2,
-      "mode": "philology-51.js; cotejo transcripción temprana y Dyce; QA navegador pendiente",
+      "mode": "philology-52.js; cotejo con transcripción de texto temprano; facsímil y QA navegador pendientes",
       "sourceBasis": [
-        "Transcripción de la edición temprana de la Parte II, I.ii, https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm (líneas web 215–274); cotejo de variantes con Alexander Dyce, The Works of Christopher Marlowe, https://upload.wikimedia.org/wikipedia/commons/3/32/The_works_of_Christopher_Marlowe-_with_some_account_of_the_author%2C_and_notes%2C_by_the_Rev._Alexander_Dyce_%28IA_workschristophe01davigoog%29.pdf"
+        "Christopher Marlowe, Tamburlaine Part II, transcripción de texto temprano, acto I, escenas 2–3, https://www.mercaba.es/renacimiento/tamburlaine_II_de_marlowe.htm (consultado 18-11-2026; transcripción, no facsímil)"
       ]
     },
     "next": {
       "part": 2,
       "act": 1,
-      "scene": 2,
-      "line": 64
+      "scene": 3,
+      "line": 36
     }
   }
 }

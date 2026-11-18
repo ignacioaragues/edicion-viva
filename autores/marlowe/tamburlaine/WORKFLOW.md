@@ -334,3 +334,8 @@
 - **50 unidades**: Parte II I.2.14–63. Acumulado **2.544/4.641 (54,8 %)**. Sigue Parte II I.2.64 en adelante.
 - **39 correcciones**, **13 notas** y **2 fichas**. Inglés cotejado con transcripción temprana (mercaba.es) y edición Dyce (Wikimedia Commons). La transcripción no sustituye inspección facsimilar directa. QA navegador pendiente.
 - Inglés, IDs, numeración y estructura de escenas intactos. La capa exige igualdad literal del inglés de cada unidad.
+
+## Quincuagésima segunda pasada filológica (18-11-2026)
+- **50 unidades**: Parte II I.2.64–78 (15) y I.3.1–35 (35). Acumulado **2.594/4.641 (55,9 %)**. Sigue Parte II I.3.36–85.
+- **35 correcciones**, **13 notas** y **2 fichas**. Cotejo de inglés con transcripción de texto temprano en Mercaba, acto I, escenas 2–3. Sin inspección facsimilar directa ni QA navegador.
+- Inglés, IDs, numeración, acotaciones y navegación sin alteraciones. Capa condicionada a coincidencia literal del inglés.
