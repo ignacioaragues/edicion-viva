@@ -1,4 +1,4 @@
-/* Epistola CLXVII: proemio completo y responsio I; base PL54, cotejo parcial con transmisión pseudoisidoriana MGH. */
+/* Epistola CLXVII: proemio y responsiones I–VII; PL54 1197–1205; consultas diferenciadas de respuestas. Cotejo crítico y morfología exhaustiva pendientes. */
 window.LEO_EPISTOLA_CLXVII={
   "paragraphs": [
     {
@@ -116,6 +116,100 @@ window.LEO_EPISTOLA_CLXVII={
         "Legitimidad y excepción",
         "La triple negación establece requisitos públicos de legitimidad; la cláusula «potest rata haberi» admite una excepción delimitada."
       ]
+    },
+    {
+      "id": "ep167-13",
+      "label": "II · consulta",
+      "latin": "De presbytero vel diacono, qui si cognito crimine suo poenitentiam publicam petat, utrum ei per manus impositionem danda sit?",
+      "spanish": "Sobre el presbítero o diácono que, conocida su falta, solicita penitencia pública: ¿debe concedérsele mediante imposición de manos?"
+    },
+    {
+      "id": "ep167-14",
+      "label": "II · respuesta",
+      "latin": "Alienum est a consuetudine ecclesiastica, ut qui in presbyterali honore aut in diaconii gradu fuerint consecrati, ii pro crimine aliquo suo per manus impositionem remedium accipiant poenitendi: quod sine dubio ex apostolica traditione descendit, secundum quod scriptum est: Sacerdos si peccaverit, quis orabit pro illo? Unde hujusmodi lapsis, ad promerendam misericordiam Dei, privata est expetenda secessio, ubi illis satisfactio, si fuerit digna, sit etiam fructuosa.",
+      "spanish": "Es ajeno a la costumbre eclesiástica que quienes han sido consagrados en la dignidad presbiteral o en el grado diaconal reciban, por alguna falta propia, el remedio de la penitencia mediante imposición de manos. Esto procede sin duda de la tradición apostólica, según lo escrito: «Si peca un sacerdote, ¿quién intercederá por él?». Por ello, quienes así han caído deben buscar, para alcanzar la misericordia de Dios, un retiro privado, donde su reparación, si es digna, pueda también dar fruto.",
+      "note": [
+        "Penitencia privada",
+        "La respuesta separa la exclusión del rito público de penitencia de la posibilidad de obtener misericordia mediante reparación privada."
+      ]
+    },
+    {
+      "id": "ep167-15",
+      "label": "III · consulta",
+      "latin": "De his qui altario ministrant et conjuges habent, utrum eis licito misceantur?",
+      "spanish": "Sobre quienes sirven al altar y tienen esposas: ¿les está permitido mantener relaciones con ellas?"
+    },
+    {
+      "id": "ep167-16",
+      "label": "III · respuesta",
+      "latin": "Lex continentiae eadem est ministris altaris quae episcopis atque presbyteris, qui cum essent laici sive lectores, licito et uxores ducere et filios procreare potuerunt. Sed cum ad praedictos pervenerunt gradus, coepit eis non licere quod licuit. Unde, ut de carnali fiat spirituale conjugium, oportet eos nec dimittere uxores, et quasi non habeant sic habere, quo et salva sit charitas connubiorum, et cesset opera nuptiarum.",
+      "spanish": "La norma de continencia es la misma para los ministros del altar que para los obispos y presbíteros: cuando eran laicos o lectores podían legítimamente casarse y tener hijos. Pero al acceder a esos grados comenzó a estarles vedado lo que antes les estaba permitido. Por eso, para que el vínculo carnal se transforme en vínculo espiritual, es necesario que no abandonen a sus esposas y que vivan con ellas como si no las tuvieran: así se conserva el afecto matrimonial y cesa la actividad conyugal.",
+      "note": [
+        "Continencia y vínculo",
+        "La fórmula «nec dimittere uxores» evita equiparar continencia con repudio, aunque impone una disciplina sexual estricta."
+      ]
+    },
+    {
+      "id": "ep167-17",
+      "label": "IV · consulta",
+      "latin": "De presbytero vel diacono qui filiam suam virginem illi viro in conjugium dederit qui jam habebat conjunctam mulierem, ex qua etiam filios susceperat.",
+      "spanish": "Sobre el presbítero o diácono que dio a su hija soltera en matrimonio a un hombre que ya convivía con una mujer con la que había tenido hijos."
+    },
+    {
+      "id": "ep167-18",
+      "label": "IV · respuesta, 1",
+      "latin": "Non omnis mulier juncta viro uxor est viri, quia nec omnis filius haeres est patris. Nuptiarum autem foedera inter ingenuos sunt legitima et inter aequales; multo prius hoc ipsum Domino constituente (Gen. II, 24) quam initium Romani juris existeret. Itaque aliud est uxor, aliud concubina; sicut aliud ancilla, aliud libera.",
+      "spanish": "No toda mujer unida a un hombre es su esposa, como tampoco todo hijo es heredero de su padre. Los vínculos matrimoniales son legítimos entre personas nacidas libres y entre iguales, según lo estableció el Señor mucho antes de que existiera el derecho romano. Así pues, una cosa es la esposa y otra la concubina, como una cosa es la esclava y otra la mujer libre.",
+      "note": [
+        "Distinciones jurídicas",
+        "La doble fórmula «non omnis» y «aliud est» clasifica relaciones por condición jurídica; no debe proyectarse sin más sobre conceptos modernos de matrimonio."
+      ]
+    },
+    {
+      "id": "ep167-19",
+      "label": "IV · respuesta, 2",
+      "latin": "Propter quod etiam Apostolus ad manifestandam harum personarum discretionem, testimonium ponit ex Genesi, ubi dicitur Abrahae: Ejice ancillam et filium ejus: non enim haeres erit filius ancillae cum filio meo Isaac (Galat. IV, 30; Gen. XXI, 10). Unde cum societas nuptiarum ita ab initio constituta sit, ut praeter sexuum conjunctionem haberet in se Christi et Ecclesiae sacramentum (Eph. V, 32), dubium non est eam mulierem non pertinere ad matrimonium, in qua docetur nuptiale non fuisse mysterium. Igitur cujuslibet loci clericus, si filiam suam viro habenti concubinam in matrimonium dederit, non ita accipiendum est quasi eam conjugato dederit; nisi forte illa mulier, et ingenua facta, et dotata legitime, et publicis nuptiis honestata videatur.",
+      "spanish": "Por eso también el Apóstol, para distinguir estas situaciones, cita el Génesis, donde se dice a Abraham: «Expulsá a la esclava y a su hijo, porque el hijo de la esclava no heredará con mi hijo Isaac». Puesto que la unión matrimonial fue instituida desde el principio para contener, además de la unión de los sexos, el misterio de Cristo y la Iglesia, no cabe considerar matrimonio aquella relación en la que consta que no existió ese vínculo nupcial. Por consiguiente, si un clérigo, de cualquier lugar, entrega a su hija en matrimonio a un hombre que tiene una concubina, no debe entenderse que la ha entregado a un hombre casado, salvo que aquella mujer haya obtenido la libertad, recibido una dote legítima y sido reconocida mediante nupcias públicas."
+    },
+    {
+      "id": "ep167-20",
+      "label": "V · consulta",
+      "latin": "De puellis quae viris concubinas habentibus nupserint.",
+      "spanish": "Sobre las jóvenes que se casaron con hombres que tenían concubinas."
+    },
+    {
+      "id": "ep167-21",
+      "label": "V · respuesta",
+      "latin": "Paterno arbitrio viris junctae carent culpa, si mulieres quae a viris habebantur in matrimonio non fuerunt.",
+      "spanish": "Quedan libres de culpa las que fueron unidas a esos hombres por decisión paterna, si las mujeres que ellos tenían no estaban casadas con ellos."
+    },
+    {
+      "id": "ep167-22",
+      "label": "VI · consulta",
+      "latin": "De his qui mulieres ex quibus filios habent relinquant, et uxores accipiunt.",
+      "spanish": "Sobre quienes dejan a las mujeres con las que tuvieron hijos y toman esposas."
+    },
+    {
+      "id": "ep167-23",
+      "label": "VI · respuesta",
+      "latin": "Quia aliud est nupta, aliud concubina, ancillam a toro abjicere et uxorem certae ingenuitatis accipere, non duplicatio conjugii, sed profectus est honestatis.",
+      "spanish": "Puesto que una cosa es la esposa y otra la concubina, apartar del lecho a una esclava y tomar una esposa cuya condición libre está acreditada no constituye duplicación del matrimonio, sino, según este criterio, un avance hacia una situación considerada honorable."
+    },
+    {
+      "id": "ep167-24",
+      "label": "VII · consulta",
+      "latin": "De his qui in aegritudine poenitentiam accipiunt, et cum revaluerint, agere eam nolunt.",
+      "spanish": "Sobre quienes aceptan la penitencia durante una enfermedad y, cuando se recuperan, no quieren cumplirla.",
+      "note": [
+        "Esperanza disciplinaria",
+        "«Culpanda ... sed non penitus deserenda» y «Nemo enim desperandus est» articulan censura y perseverancia pastoral."
+      ]
+    },
+    {
+      "id": "ep167-25",
+      "label": "VII · respuesta",
+      "latin": "Culpanda est talium negligentia, sed non penitus deserenda: ut crebris cohortationibus incitati, quod necessarie expetierunt, fideliter exsequantur. Nemo enim desperandus est dum in hoc corpore constitutus est: quia nonnumquam quod diffidentia aetatis differtur, consilio maturiore perficitur.",
+      "spanish": "Debe reprobarse su negligencia, pero no abandonarlos por completo: mediante exhortaciones frecuentes hay que impulsarlos a cumplir fielmente aquello que solicitaron por necesidad. No se debe perder la esperanza en nadie mientras viva, porque a veces lo que se posterga por la inseguridad propia de una edad se lleva a término con un juicio más maduro."
     }
   ],
   "lexicon": {
@@ -263,6 +357,111 @@ window.LEO_EPISTOLA_CLXVII={
       "permaneo",
       "infinitivo presente activo",
       "permanecer"
+    ],
+    "Alienum": [
+      "alienus",
+      "nominativo singular neutro, predicativo",
+      "ajeno"
+    ],
+    "consuetudine": [
+      "consuetudo",
+      "ablativo singular femenino",
+      "costumbre"
+    ],
+    "ecclesiastica": [
+      "ecclesiasticus",
+      "ablativo singular femenino",
+      "eclesiástica"
+    ],
+    "consecrati": [
+      "consecro",
+      "participio perfecto pasivo nominativo plural masculino",
+      "consagrados"
+    ],
+    "poenitendi": [
+      "poeniteo",
+      "gerundio genitivo",
+      "de hacer penitencia"
+    ],
+    "privata": [
+      "privatus",
+      "nominativo singular femenino",
+      "privada"
+    ],
+    "secessio": [
+      "secessio",
+      "nominativo singular femenino",
+      "retiro"
+    ],
+    "continentiae": [
+      "continentia",
+      "genitivo singular femenino",
+      "de continencia"
+    ],
+    "licito": [
+      "licite",
+      "adverbio",
+      "lícitamente"
+    ],
+    "conjugium": [
+      "coniugium",
+      "nominativo singular neutro",
+      "matrimonio"
+    ],
+    "dimittere": [
+      "dimitto",
+      "infinitivo presente activo",
+      "abandonar"
+    ],
+    "haeres": [
+      "heres",
+      "nominativo singular común",
+      "heredero"
+    ],
+    "ingenuos": [
+      "ingenuus",
+      "acusativo plural masculino",
+      "nacidos libres"
+    ],
+    "ancilla": [
+      "ancilla",
+      "nominativo singular femenino",
+      "esclava"
+    ],
+    "libera": [
+      "liber",
+      "nominativo singular femenino",
+      "libre"
+    ],
+    "paterno": [
+      "paternus",
+      "ablativo singular neutro",
+      "paterno"
+    ],
+    "arbitrio": [
+      "arbitrium",
+      "ablativo singular neutro",
+      "decisión"
+    ],
+    "culpa": [
+      "culpa",
+      "ablativo singular femenino",
+      "culpa"
+    ],
+    "negligentia": [
+      "negligentia",
+      "nominativo singular femenino",
+      "negligencia"
+    ],
+    "desperandus": [
+      "despero",
+      "gerundivo nominativo singular masculino",
+      "a quien se deba dar por perdido"
+    ],
+    "cohortationibus": [
+      "cohortatio",
+      "ablativo plural femenino",
+      "exhortaciones"
     ]
   }
 };
