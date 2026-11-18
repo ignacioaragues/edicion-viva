@@ -14,7 +14,7 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 - **Índice:** 61 de 61 en orden original.
 - **Texto inglés:** primera transcripción de 61 de 61, publicada y legible; cotejo diplomático exhaustivo pendiente.
 - **Traducción española:** 61/61 poemas y 3.795/3.795 líneas alineadas, primera versión íntegra publicada. Revisión estilística y cotejo textual pendientes.
-- **Notas filológicas:** 95 notas de investigación con referencias y versos concretos en los poemas 1–15, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
+- **Notas filológicas:** 138 notas de investigación con referencias y versos concretos en los poemas 1–20, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
 - **Navegación y lectura:** índice filtrable sin alterar orden original, páginas por poema, anterior/siguiente, diseño adaptable, temporizador común, resaltados compatibles.
 
 ## Criterios editoriales
@@ -54,3 +54,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **15, The Penitent (Anne):** 6 notas. Manuscrito *Fragment, 1845*, intertextos Mateo 5:4 y Lucas 15:7, arrepentimiento y conjetura no demostrada sobre Branwell.
 
 **Balance de la tercera tanda:** 34 notas (7 + 8 + 7 + 6 + 6). **Total acumulado:** 95 notas en 15 poemas. Se señalan explícitamente inferencias, testimonios documentales y posturas críticas divergentes. Ninguna nota modifica el texto inglés ni la traducción española.
+
+## Aparato académico: cuarta tanda (poemas 16–20)
+- **16, Music on Christmas Morning (Anne):** 7 notas; Lucas 2:8–14, escena de Navidad, redención, énfasis tipográfico sobre el triunfo de Cristo y recepción musical registrada por Hymnary.
+- **17, Frances (Charlotte):** 10 notas; Euménides, monólogo dramático, asimetría amorosa, sufrimiento, cambio de perspectiva espacial, decisión de viajar y la difícil coexistencia entre fe y confianza en sí misma. Referencias a Paula Guimarães y el texto de 1846.
+- **18, Anticipation (Emily):** 7 notas; voces dialogadas, esperanza diferida, naturaleza presente, eternidad y ecoteología. Referencia central: Simon Marsden, «Ecological Apocalypse in the Poetry of Patrick and Emily Brontë», *Religions* 12(7), 546 (2021).
+- **19, Stanzas (Anne):** 6 notas; manuscrito de 1 de octubre de 1845, Zerona, título «Parting address from Z. L. to A. E.», tensión entre amor y familia, variante *fear / doubt* registrada por C. K. Shorter.
+- **20, Gilbert (Charlotte):** 13 notas; tres movimientos narrativos, Elinor, crueldad y respetabilidad, alegoría de la Miseria, visión oceánica, espectro, juicio bíblico (Mateo 7:2 y Lucas 6:38), suicidio del protagonista. Referencias: Victor A. Neufeld, *The Poems of Charlotte Brontë: A New Text and Commentary*, estudio universitario sobre la venganza gótica y Poetry Foundation.
+
+**Balance de la cuarta tanda:** 43 notas nuevas (7+10+7+6+13). **Acumulado:** 138 notas en los primeros 20 poemas. El aparato crítico ofrece observaciones propias identificadas como lecturas, fuentes primarias y posiciones académicas específicas. Sigue pendiente el cotejo diplomático completo con todos los manuscritos y testimonios de 1846.
