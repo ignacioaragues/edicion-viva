@@ -81,3 +81,13 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **30, To Imagination (Emily):** 6 notas sobre imaginación, libertad interior, razón, verdad y consuelo sin credulidad.
 
 **Balance de la sexta tanda:** 27 notas nuevas; **194 notas en 30 poemas**. Estas son lecturas textuales iniciales apoyadas en el testimonio de 1846, no una revisión de variantes manuscritas ni un estudio bibliográfico exhaustivo. Restan los poemas 31–61.
+
+
+## Aparato académico: séptima tanda (poemas 31–35)
+- **31, The Doubter's Prayer (Anne):** 5 notas sobre fe, duda y resurrección.
+- **32, Presentiment (Charlotte):** 6 notas sobre diálogo, presagio, duelo y Beulah.
+- **33, How clear she shines (Emily):** 6 notas sobre fantasía, mundos posibles e inversión moral.
+- **34, A Word to the Elect (Anne):** 8 notas sobre elección, expiación, universalismo y purificación.
+- **35, The Teacher's Monologue (Charlotte):** 7 notas sobre docencia, nostalgia y metapoesía.
+
+**Balance:** 32 notas nuevas; **226 notas en 35 poemas**. Fuentes primarias e intertextos identificados; cotejo manuscrito y revisión bibliográfica exhaustiva pendientes. Restan 36–61.
