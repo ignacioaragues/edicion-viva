@@ -72,3 +72,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **25, Memory (Anne):** 7 notas sobre forma y rima, memoria y botánica, apóstrofe, diálogo crítico con Wordsworth e idealización de la infancia; referencia central: Ciara Glasscott, «Is Childhood Then so All-Divine?», *Brontë Studies* 48 (2023), 309–323, https://doi.org/10.1080/14748932.2023.2209606.
 
 **Balance:** 29 notas nuevas, **167 notas en 25 poemas**. Restan los poemas 26–61. Primera anotación crítica, no cotejo diplomático final. Las traducciones originales se conservan.
+
+## Aparato académico: sexta tanda (poemas 26–30)
+- **26, The Letter (Charlotte):** 5 notas sobre escritura femenina, suspense visual, retrato, distancia imperial y matrimonio.
+- **27, A Day-Dream (Emily):** 6 notas sobre alegoría estacional, visión, discurso de los espíritus y reserva epistemológica.
+- **28, To Cowper (Anne):** 5 notas sobre lectura infantil, sufrimiento de William Cowper, salvación, gracia y crítica de la condenación; consultar también la colección de manuscritos de Anne en la Morgan Library (https://www.themorgan.org/collection/anne-bronte-poems/81293) y su cronología (https://digital.library.upenn.edu/women/bronte/bronte-anne.html).
+- **29, Regret (Charlotte):** 5 notas sobre hogar, matrimonio, metáfora marítima, William y el paraíso.
+- **30, To Imagination (Emily):** 6 notas sobre imaginación, libertad interior, razón, verdad y consuelo sin credulidad.
+
+**Balance de la sexta tanda:** 27 notas nuevas; **194 notas en 30 poemas**. Estas son lecturas textuales iniciales apoyadas en el testimonio de 1846, no una revisión de variantes manuscritas ni un estudio bibliográfico exhaustivo. Restan los poemas 31–61.
