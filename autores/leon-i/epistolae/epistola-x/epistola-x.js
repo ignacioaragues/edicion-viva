@@ -267,5 +267,471 @@ window.LEO_EPISTOLA_X = {
       "spanish": "Pues es justo, y no parece perjudicar a ninguno de los hermanos, que los demás obispos de sus provincias rindan deferencia a quienes los preceden por antigüedad episcopal, en consideración a los méritos de su edad. Que Dios os conserve sanos y salvos, queridísimos hermanos."
     }
   ],
-  "lexicon": {}
+  "lexicon": {
+    "et": [
+      "et",
+      "conjunción coordinante",
+      "y"
+    ],
+    "sed": [
+      "sed",
+      "conjunción adversativa",
+      "pero"
+    ],
+    "non": [
+      "non",
+      "adverbio de negación",
+      "no"
+    ],
+    "enim": [
+      "enim",
+      "conjunción explicativa pospositiva",
+      "pues, en efecto"
+    ],
+    "autem": [
+      "autem",
+      "conjunción adversativa pospositiva",
+      "sin embargo"
+    ],
+    "ergo": [
+      "ergo",
+      "conjunción ilativa",
+      "por tanto"
+    ],
+    "igitur": [
+      "igitur",
+      "conjunción ilativa",
+      "así pues"
+    ],
+    "quia": [
+      "quia",
+      "conjunción causal",
+      "porque"
+    ],
+    "quoniam": [
+      "quoniam",
+      "conjunción causal",
+      "puesto que"
+    ],
+    "ut": [
+      "ut",
+      "conjunción subordinante (valor según contexto)",
+      "que, para que, como"
+    ],
+    "ne": [
+      "ne",
+      "conjunción subordinante negativa",
+      "para que no"
+    ],
+    "nec": [
+      "nec",
+      "conjunción coordinante negativa",
+      "ni, y no"
+    ],
+    "neque": [
+      "neque",
+      "conjunción coordinante negativa",
+      "ni, y no"
+    ],
+    "aut": [
+      "aut",
+      "conjunción disyuntiva",
+      "o"
+    ],
+    "vel": [
+      "vel",
+      "conjunción disyuntiva",
+      "o, incluso"
+    ],
+    "si": [
+      "si",
+      "conjunción condicional",
+      "si"
+    ],
+    "cum": [
+      "cum",
+      "preposición con ablativo o conjunción subordinante",
+      "con; cuando, puesto que"
+    ],
+    "in": [
+      "in",
+      "preposición con acusativo o ablativo",
+      "hacia, en"
+    ],
+    "ad": [
+      "ad",
+      "preposición con acusativo",
+      "a, hacia, para"
+    ],
+    "de": [
+      "de",
+      "preposición con ablativo",
+      "de, acerca de"
+    ],
+    "per": [
+      "per",
+      "preposición con acusativo",
+      "por, a través de"
+    ],
+    "pro": [
+      "pro",
+      "preposición con ablativo",
+      "por, en favor de"
+    ],
+    "sine": [
+      "sine",
+      "preposición con ablativo",
+      "sin"
+    ],
+    "sub": [
+      "sub",
+      "preposición con acusativo o ablativo",
+      "bajo"
+    ],
+    "ante": [
+      "ante",
+      "preposición con acusativo o adverbio",
+      "antes de, antes"
+    ],
+    "post": [
+      "post",
+      "preposición con acusativo o adverbio",
+      "después de, después"
+    ],
+    "inter": [
+      "inter",
+      "preposición con acusativo",
+      "entre"
+    ],
+    "contra": [
+      "contra",
+      "preposición con acusativo",
+      "contra"
+    ],
+    "ab": [
+      "ab",
+      "preposición con ablativo",
+      "de, desde, por"
+    ],
+    "a": [
+      "a",
+      "preposición con ablativo",
+      "de, desde, por"
+    ],
+    "ex": [
+      "ex",
+      "preposición con ablativo",
+      "de, desde"
+    ],
+    "e": [
+      "ex",
+      "preposición con ablativo",
+      "de, desde"
+    ],
+    "sibi": [
+      "sui",
+      "pronombre reflexivo, dativo singular/plural",
+      "para sí, a sí mismo"
+    ],
+    "se": [
+      "sui",
+      "pronombre reflexivo, acusativo o ablativo",
+      "a sí, se"
+    ],
+    "nos": [
+      "nos",
+      "pronombre personal, acusativo plural",
+      "nos, a nosotros"
+    ],
+    "nobis": [
+      "nos",
+      "pronombre personal, dativo o ablativo plural",
+      "a nosotros, por nosotros"
+    ],
+    "vos": [
+      "vos",
+      "pronombre personal, nominativo o acusativo plural",
+      "vosotros, a vosotros"
+    ],
+    "vobis": [
+      "vos",
+      "pronombre personal, dativo o ablativo plural",
+      "a vosotros, para vosotros"
+    ],
+    "nostra": [
+      "noster",
+      "adjetivo posesivo, forma femenina o neutra",
+      "nuestra, nuestros"
+    ],
+    "nostrae": [
+      "noster",
+      "adjetivo posesivo, genitivo o dativo femenino singular / nominativo plural",
+      "de nuestra, a nuestra"
+    ],
+    "nostrum": [
+      "noster",
+      "adjetivo posesivo, acusativo masculino o nominativo/acusativo neutro",
+      "nuestro"
+    ],
+    "vestra": [
+      "vester",
+      "adjetivo posesivo, forma femenina o neutra",
+      "vuestra, vuestros"
+    ],
+    "vestrae": [
+      "vester",
+      "adjetivo posesivo, genitivo/dativo femenino singular o nominativo plural",
+      "de vuestra, a vuestra"
+    ],
+    "vestrum": [
+      "vester",
+      "adjetivo posesivo, acusativo masculino o nominativo/acusativo neutro",
+      "vuestro"
+    ],
+    "Deus": [
+      "Deus",
+      "sustantivo masculino, nominativo singular",
+      "Dios"
+    ],
+    "Dei": [
+      "Deus",
+      "sustantivo masculino, genitivo singular",
+      "de Dios"
+    ],
+    "Deo": [
+      "Deus",
+      "sustantivo masculino, dativo o ablativo singular",
+      "a Dios, por Dios"
+    ],
+    "Deum": [
+      "Deus",
+      "sustantivo masculino, acusativo singular",
+      "a Dios"
+    ],
+    "Christi": [
+      "Christus",
+      "sustantivo masculino, genitivo singular",
+      "de Cristo"
+    ],
+    "Christus": [
+      "Christus",
+      "sustantivo masculino, nominativo singular",
+      "Cristo"
+    ],
+    "Petrus": [
+      "Petrus",
+      "nombre propio, nominativo singular",
+      "Pedro"
+    ],
+    "Petri": [
+      "Petrus",
+      "nombre propio, genitivo singular",
+      "de Pedro"
+    ],
+    "Petro": [
+      "Petrus",
+      "nombre propio, dativo o ablativo singular",
+      "a Pedro, por Pedro"
+    ],
+    "Hilarius": [
+      "Hilarius",
+      "nombre propio, nominativo singular",
+      "Hilario"
+    ],
+    "Hilarium": [
+      "Hilarius",
+      "nombre propio, acusativo singular",
+      "a Hilario"
+    ],
+    "fratres": [
+      "frater",
+      "sustantivo masculino, nominativo o vocativo plural",
+      "hermanos"
+    ],
+    "fratrum": [
+      "frater",
+      "sustantivo masculino, genitivo plural",
+      "de los hermanos"
+    ],
+    "fratribus": [
+      "frater",
+      "sustantivo masculino, dativo o ablativo plural",
+      "a los hermanos, por los hermanos"
+    ],
+    "episcopus": [
+      "episcopus",
+      "sustantivo masculino, nominativo singular",
+      "obispo"
+    ],
+    "episcopi": [
+      "episcopus",
+      "sustantivo masculino, genitivo singular o nominativo plural",
+      "del obispo, obispos"
+    ],
+    "episcopum": [
+      "episcopus",
+      "sustantivo masculino, acusativo singular",
+      "al obispo"
+    ],
+    "episcoporum": [
+      "episcopus",
+      "sustantivo masculino, genitivo plural",
+      "de los obispos"
+    ],
+    "Ecclesiae": [
+      "ecclesia",
+      "sustantivo femenino, genitivo o dativo singular / nominativo plural",
+      "de la Iglesia, a la Iglesia, Iglesias"
+    ],
+    "Ecclesiam": [
+      "ecclesia",
+      "sustantivo femenino, acusativo singular",
+      "Iglesia"
+    ],
+    "Ecclesiarum": [
+      "ecclesia",
+      "sustantivo femenino, genitivo plural",
+      "de las Iglesias"
+    ],
+    "Ecclesiis": [
+      "ecclesia",
+      "sustantivo femenino, dativo o ablativo plural",
+      "a las Iglesias, en las Iglesias"
+    ],
+    "omnibus": [
+      "omnis",
+      "adjetivo/pronombre, dativo o ablativo plural",
+      "a todos, por todos"
+    ],
+    "omnium": [
+      "omnis",
+      "adjetivo/pronombre, genitivo plural",
+      "de todos"
+    ],
+    "omnes": [
+      "omnis",
+      "adjetivo/pronombre, nominativo o acusativo plural",
+      "todos"
+    ],
+    "omnem": [
+      "omnis",
+      "adjetivo/pronombre, acusativo singular",
+      "todo, toda"
+    ],
+    "nullus": [
+      "nullus",
+      "adjetivo/pronombre, nominativo masculino singular",
+      "ninguno"
+    ],
+    "nulli": [
+      "nullus",
+      "adjetivo/pronombre, genitivo singular o dativo masculino singular / nominativo plural",
+      "de ninguno, a ninguno"
+    ],
+    "nulla": [
+      "nullus",
+      "adjetivo/pronombre, nominativo femenino o neutro plural",
+      "ninguna"
+    ],
+    "est": [
+      "sum",
+      "verbo sum, presente de indicativo, tercera singular",
+      "es, está"
+    ],
+    "sunt": [
+      "sum",
+      "verbo sum, presente de indicativo, tercera plural",
+      "son, están"
+    ],
+    "fuit": [
+      "sum",
+      "verbo sum, perfecto de indicativo, tercera singular",
+      "fue, ha sido"
+    ],
+    "fuerit": [
+      "sum",
+      "verbo sum, futuro perfecto de indicativo o perfecto de subjuntivo, tercera singular",
+      "habrá sido, haya sido"
+    ],
+    "esse": [
+      "sum",
+      "verbo sum, infinitivo presente activo",
+      "ser, estar"
+    ],
+    "sit": [
+      "sum",
+      "verbo sum, presente de subjuntivo, tercera singular",
+      "sea, esté"
+    ],
+    "sint": [
+      "sum",
+      "verbo sum, presente de subjuntivo, tercera plural",
+      "sean, estén"
+    ],
+    "erat": [
+      "sum",
+      "verbo sum, imperfecto de indicativo, tercera singular",
+      "era, estaba"
+    ],
+    "fuerunt": [
+      "sum",
+      "verbo sum, perfecto de indicativo, tercera plural",
+      "fueron, han sido"
+    ],
+    "debet": [
+      "debeo",
+      "verbo, presente de indicativo activo, tercera singular",
+      "debe"
+    ],
+    "debeant": [
+      "debeo",
+      "verbo, presente de subjuntivo activo, tercera plural",
+      "deban"
+    ],
+    "potest": [
+      "possum",
+      "verbo, presente de indicativo, tercera singular",
+      "puede"
+    ],
+    "possit": [
+      "possum",
+      "verbo, presente de subjuntivo, tercera singular",
+      "pueda"
+    ],
+    "posset": [
+      "possum",
+      "verbo, imperfecto de subjuntivo, tercera singular",
+      "pudiera, pudiese"
+    ],
+    "voluit": [
+      "volo",
+      "verbo, perfecto de indicativo activo, tercera singular",
+      "quiso"
+    ],
+    "volumus": [
+      "volo",
+      "verbo, presente de indicativo activo, primera plural",
+      "queremos"
+    ],
+    "nostri": [
+      "noster",
+      "adjetivo posesivo, genitivo masculino/neutro singular o nominativo masculino plural",
+      "de nuestro, nuestros"
+    ],
+    "suum": [
+      "suus",
+      "adjetivo posesivo reflexivo, acusativo masculino o nominativo/acusativo neutro",
+      "suyo, propio"
+    ],
+    "sua": [
+      "suus",
+      "adjetivo posesivo reflexivo, nominativo femenino o neutro plural",
+      "suya, sus"
+    ],
+    "suae": [
+      "suus",
+      "adjetivo posesivo reflexivo, genitivo/dativo femenino singular o nominativo plural",
+      "de su, a su, sus"
+    ]
+  }
 };
