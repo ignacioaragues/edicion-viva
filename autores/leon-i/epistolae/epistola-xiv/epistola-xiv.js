@@ -34,7 +34,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-6",
       "label": "I.4",
       "latin": "Quae moderatio si quibuscumque inferioribus membris ex apostolica institutione debetur, quanto magis fratribus et coepiscopis nostris sine offensione reddenda est? ut licet nonnumquam accidant, quae in sacerdotalibus sunt reprehendenda personis, plus tamen erga corrigendos agat benevolentia quam severitas, plus cohortatio quam commotio, plus charitas quam potestas. Sed ab his qui quae sua sunt quaerunt, non quae Jesu Christi (Philip. II, 21), facile ab hac lege disceditur, et dum dominari magis quam consulere subditis placet, honor inflat superbiam, et quod provisum est ad concordiam, tendit ad noxam: quod, ut necesse habeamus ita dicere, non de parvo animi dolore procedit. Meipsum enim quodammodo in culpam trahi sentio, cum te a traditis tibi regulis immodice discessisse cognosco. Qui si tuae existimationis parum diligens eras, meae saltem famae parcere debuisti: ne quae tuo tantum facta sunt animo, nostro viderentur gesta judicio.",
-      "spanish": "Si esa moderación se debe, por institución apostólica, incluso a los miembros de menor rango, ¡cuánto más ha de dispensarse sin ofensa a nuestros hermanos y colegas obispos! Aunque a veces haya conductas reprochables en quienes ejercen el sacerdocio, al corregirlos debe obrar más la benevolencia que la severidad, más la exhortación que la indignación, más la caridad que el poder. Pero quienes buscan sus propios intereses y no los de Jesucristo (Flp 2,21) se apartan fácilmente de esta norma. Cuando se prefiere dominar a los subordinados antes que velar por ellos, el honor hincha la soberbia y lo dispuesto para la concordia acaba causando daño. No digo esto sin profundo dolor: siento que de algún modo se me arrastra a mí mismo a la culpa cuando descubro que te apartaste desmesuradamente de las reglas transmitidas. Si cuidabas poco de tu reputación, al menos debiste preservar la mía, para que lo hecho por tu sola iniciativa no pareciera realizado por decisión nuestra."
+      "spanish": "Si esa moderación se debe, por institución apostólica, incluso a los miembros de menor rango, ¡cuánto más ha de dispensarse sin ofensa a nuestros hermanos y colegas obispos! Aunque a veces haya conductas reprochables en quienes ejercen el sacerdocio, al corregirlos debe obrar más la benevolencia que la severidad, más la exhortación que la indignación, más la caridad que el poder. Pero quienes buscan sus propios intereses y no los de Jesucristo (Flp 2,21) se apartan fácilmente de esta norma. Cuando se prefiere dominar a los subordinados antes que velar por ellos, el honor hincha la soberbia y lo dispuesto para la concordia acaba causando daño. No digo esto sin profundo dolor: siento que de algún modo se me arrastra a mí mismo a la culpa cuando descubro que te apartaste desmesuradamente de las reglas transmitidas. Si cuidabas poco de tu reputación, al menos debiste preservar la mía, para que lo hecho por tu sola iniciativa no pareciera realizado por decisión nuestra.",
+      "note": [
+        "La gradación de la moderación",
+        "Plus benevolentia quam severitas; plus cohortatio quam commotio; plus charitas quam potestas: tres comparaciones paralelas que contraponen cuidado y dominio."
+      ]
     },
     {
       "id": "ep14-7",
@@ -76,7 +80,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-13",
       "label": "I.11",
       "latin": "Sed etiam si quid grave intolerandumque committeret, nostra erat exspectanda censura; ut nihil prius ipse decerneres, quam quid nobis placeret agnosceres. Vices enim nostras ita tuae credidimus charitati, ut in partem sis vocatus sollicitudinis, non in plenitudinem potestatis. Unde sicut multum nos ea quae a te pie sunt curata laetificant, ita nimium ea quae perperam sunt gesta contristant.",
-      "spanish": "Pero incluso si hubiera cometido algo grave e intolerable, debías esperar nuestra decisión, sin resolver nada antes de conocer nuestro parecer. Pues te confiamos nuestra representación de tal modo que fuiste llamado a compartir la responsabilidad, no a poseer la plenitud del poder. Así como nos alegran mucho las cosas que administraste piadosamente, nos entristecen profundamente las que hiciste mal."
+      "spanish": "Pero incluso si hubiera cometido algo grave e intolerable, debías esperar nuestra decisión, sin resolver nada antes de conocer nuestro parecer. Pues te confiamos nuestra representación de tal modo que fuiste llamado a compartir la responsabilidad, no a poseer la plenitud del poder. Así como nos alegran mucho las cosas que administraste piadosamente, nos entristecen profundamente las que hiciste mal.",
+      "note": [
+        "Límite de la delegación",
+        "In partem ... sollicitudinis, non in plenitudinem potestatis: oposición jurídica entre participación en la responsabilidad y plenitud de poder."
+      ]
     },
     {
       "id": "ep14-14",
@@ -112,7 +120,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-19",
       "label": "V.1",
       "latin": "Cum ergo de summi sacerdotis electione tractabitur, ille omnibus praeponatur quem cleri plebisque consensus concorditer postularit: ita ut si in aliam forte personam partium se vota diviserint, metropolitani judicio is alteri praeferatur qui majoribus et studiis juvatur et meritis: tantum ut nullus invitis et non petentibus ordinetur; ne civitas episcopum non optatum aut contemnat, aut oderit; et fiat minus religiosa quam convenit, cui non licuerit habere quem voluit.",
-      "spanish": "Por consiguiente, cuando se trate de elegir al obispo principal, sea preferido aquel a quien el clero y el pueblo pidan de común acuerdo. Si los votos se dividen entre distintas personas, el juicio del metropolitano debe preferir a quien tenga mayores apoyos y méritos; pero que nadie sea ordenado contra la voluntad de quienes no lo han pedido, para que la ciudad no desprecie ni odie a un obispo que no deseaba y no pierda fervor religioso por no haber podido tener al que quería."
+      "spanish": "Por consiguiente, cuando se trate de elegir al obispo principal, sea preferido aquel a quien el clero y el pueblo pidan de común acuerdo. Si los votos se dividen entre distintas personas, el juicio del metropolitano debe preferir a quien tenga mayores apoyos y méritos; pero que nadie sea ordenado contra la voluntad de quienes no lo han pedido, para que la ciudad no desprecie ni odie a un obispo que no deseaba y no pierda fervor religioso por no haber podido tener al que quería.",
+      "note": [
+        "Consentimiento de los gobernados",
+        "Cleri plebisque consensus: el acuerdo del clero y del pueblo legitima la elección; la imposición de un obispo no deseado amenaza la cohesión."
+      ]
     },
     {
       "id": "ep14-20",
@@ -148,7 +160,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-25",
       "label": "VIII.1",
       "latin": "Si quis episcopus, civitatis suae mediocritate despecta, administrationem loci celebrioris ambierit, et ad majorem se plebem quacumque ratione transtulerit, a cathedra quidem pelletur aliena, sed carebit et propria: ut nec illis praesideat quos per avaritiam concupivit, nec illis quos per superbiam sprevit. Suis igitur terminis quisque contentus sit, nec supra mensuram juris sui affectet augeri.",
-      "spanish": "Si un obispo desprecia su ciudad y ambiciona gobernar una sede más importante, será expulsado de la cátedra ajena y perderá también la propia: no gobernará a quienes codició por avaricia ni a quienes desdeñó por soberbia. Que cada cual se contente con sus límites y no pretenda extender sus derechos."
+      "spanish": "Si un obispo desprecia su ciudad y ambiciona gobernar una sede más importante, será expulsado de la cátedra ajena y perderá también la propia: no gobernará a quienes codició por avaricia ni a quienes desdeñó por soberbia. Que cada cual se contente con sus límites y no pretenda extender sus derechos.",
+      "note": [
+        "Avaricia y soberbia",
+        "Per avaritiam concupivit / per superbiam sprevit: antítesis causal que sanciona tanto la ambición de una sede mayor como el desprecio de la propia."
+      ]
     },
     {
       "id": "ep14-26",
@@ -190,7 +206,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-32",
       "label": "XI.4",
       "latin": "Quibus cum dignitas sit communis, non est tamen ordo generalis: quoniam et inter beatissimos apostolos in similitudine honoris fuit quaedam discretio potestatis; et cum omnium par esset electio, uni tamen datum est ut caeteris praeemineret.",
-      "spanish": "Aunque todos comparten dignidad, no existe una organización indiferenciada: entre los apóstoles, pese a la semejanza de honor, hubo distinción de potestad, y aunque todos fueron elegidos por igual, a uno se le concedió preceder a los demás."
+      "spanish": "Aunque todos comparten dignidad, no existe una organización indiferenciada: entre los apóstoles, pese a la semejanza de honor, hubo distinción de potestad, y aunque todos fueron elegidos por igual, a uno se le concedió preceder a los demás.",
+      "note": [
+        "Dignidad y jerarquía",
+        "Dignitas communis / discretio potestatis: León distingue igualdad de dignidad y distribución de atribuciones."
+      ]
     },
     {
       "id": "ep14-33",
@@ -202,7 +222,11 @@ window.LEO_EPISTOLA_XIV = {
       "id": "ep14-34",
       "label": "XI.6",
       "latin": "Qui ergo scit se quibusdam esse praepositum, non moleste ferat aliquem sibi esse praelatum; sed obedientiam quam exigit, etiam ipse dependat: et sicut non vult gravis oneris sarcinam ferre, ita non audeat alii importabile pondus imponere (Matth. XXIII, 4). Discipuli enim sumus humilis et mitis magistri, dicentis: Discite a me quia mitis sum et humilis corde; et invenietis requiem animabus vestris. Jugum enim meum suave est, et onus meum leve (Matth. XI, 29).",
-      "spanish": "Quien preside sobre algunos no debe molestarse porque otro presida sobre él, sino ofrecer la obediencia que exige. Y así como no quiere cargar un peso grave, tampoco debe imponer a otros cargas insoportables. Somos discípulos del maestro humilde y manso: «Aprendan de mí, que soy manso y humilde de corazón; encontrarán descanso para sus almas. Mi yugo es suave y mi carga ligera» (Mt 11,29)."
+      "spanish": "Quien preside sobre algunos no debe molestarse porque otro presida sobre él, sino ofrecer la obediencia que exige. Y así como no quiere cargar un peso grave, tampoco debe imponer a otros cargas insoportables. Somos discípulos del maestro humilde y manso: «Aprendan de mí, que soy manso y humilde de corazón; encontrarán descanso para sus almas. Mi yugo es suave y mi carga ligera» (Mt 11,29).",
+      "note": [
+        "Reciprocidad de la obediencia",
+        "El que exige obediencia debe también ofrecerla: Leo convierte la subordinación en obligación recíproca de los superiores."
+      ]
     },
     {
       "id": "ep14-35",
@@ -211,5 +235,91 @@ window.LEO_EPISTOLA_XIV = {
       "spanish": "¿Cómo experimentaremos esto si no observamos también lo que dijo el Señor? «El mayor entre ustedes será su servidor. Quien se ensalce será humillado y quien se humille será ensalzado» (Mt 20,26; Mc 10,43; Lc 22,26; 14,11)."
     }
   ],
-  "lexicon": {}
+  "lexicon": {
+    "fraternitati": [
+      "fraternitas, -atis",
+      "dativo singular femenino",
+      "a la fraternidad"
+    ],
+    "tuae": [
+      "tuus, -a, -um",
+      "dativo o genitivo singular femenino según contexto",
+      "tuya"
+    ],
+    "apostoli": [
+      "apostolus, -i",
+      "genitivo singular masculino",
+      "del apóstol"
+    ],
+    "potestatis": [
+      "potestas, -atis",
+      "genitivo singular femenino",
+      "del poder"
+    ],
+    "sollicitudinis": [
+      "sollicitudo, -inis",
+      "genitivo singular femenino",
+      "de la responsabilidad / del cuidado"
+    ],
+    "charitatis": [
+      "caritas, -atis",
+      "genitivo singular femenino",
+      "de la caridad"
+    ],
+    "mansuetudinis": [
+      "mansuetudo, -inis",
+      "genitivo singular femenino",
+      "de la mansedumbre"
+    ],
+    "episcopi": [
+      "episcopus, -i",
+      "genitivo singular masculino o nominativo plural",
+      "del obispo / los obispos"
+    ],
+    "metropolitanus": [
+      "metropolitanus, -a, -um",
+      "nominativo singular masculino",
+      "metropolitano"
+    ],
+    "consensus": [
+      "consensus, -us",
+      "nominativo singular masculino",
+      "consentimiento"
+    ],
+    "dignitas": [
+      "dignitas, -atis",
+      "nominativo singular femenino",
+      "dignidad"
+    ],
+    "concordia": [
+      "concordia, -ae",
+      "nominativo singular femenino",
+      "concordia"
+    ],
+    "auctoritas": [
+      "auctoritas, -atis",
+      "nominativo singular femenino",
+      "autoridad"
+    ],
+    "fratres": [
+      "frater, fratris",
+      "nominativo o acusativo plural masculino",
+      "hermanos"
+    ],
+    "humilis": [
+      "humilis, -e",
+      "nominativo singular masculino/femenino",
+      "humilde"
+    ],
+    "mitis": [
+      "mitis, -e",
+      "nominativo singular masculino/femenino",
+      "manso"
+    ],
+    "pastorum": [
+      "pastor, -oris",
+      "genitivo plural masculino",
+      "de los pastores"
+    ]
+  }
 };
