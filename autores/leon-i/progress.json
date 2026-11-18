@@ -145,12 +145,24 @@
     {
       "group": "epistolae",
       "number": 10,
-      "section": "Caput I only, PL54 cols 628–629",
-      "translation": "chapter I first-pass original Spanish, incomplete letter",
-      "complete_work": false,
+      "section": "Epistola X · capita I–IX, complete first-pass text",
+      "translation": "complete aligned original Spanish translation",
+      "complete_work": true,
       "reader_published": true,
-      "editorial_caveat": "Chapter I available to read; chapters II–IX and per-token morphology pending",
+      "editorial_caveat": "All nine chapters and 37 aligned units published. Contextual morphology and printed PL collation pending.",
       "lexical_coverage": "93 first-pass surface-form lexical entries, not complete contextual token coverage"
+    },
+    {
+      "group": "epistolae",
+      "number": 14,
+      "section": "Epistola XIV · ad Anastasium Thessalonicensem · capita I–XI",
+      "paragraphs": 35,
+      "translation": "complete first-pass aligned original Spanish translation",
+      "complete_work": true,
+      "reader_published": true,
+      "voice_notes": 6,
+      "lexical_coverage": "17 initial lexical surface forms; full contextual token morphology pending",
+      "editorial_caveat": "Complete first-pass reader published; printed PL54 collation and critical attribution audit pending."
     }
   ],
   "next": {
@@ -257,8 +269,36 @@
     {
       "group": "epistolae",
       "number": 14,
-      "status": "priority_pending",
-      "skip_after_completion": true
+      "status": "published_complete_first_pass_morphology_and_collation_pending",
+      "skip_after_completion": true,
+      "source": "https://la.wikisource.org/wiki/Epistolae_(Leo_I)/2",
+      "recipient": "Anastasius, bishop of Thessalonica",
+      "sender": "Leo, bishop of Rome",
+      "authenticity": "Leo's letter in Ballerini–Migne traditional collection; full critical attribution audit pending",
+      "translation_complete": true,
+      "reader_published": true,
+      "complete_work": true,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "total_chapters": 11,
+      "aligned_units": 35,
+      "reader_path": "autores/leon-i/epistolae/epistola-xiv/index.html",
+      "morphology_complete": false,
+      "lexicon_surface_forms": 17,
+      "voice_notes": 6,
+      "source_collation_complete": false,
+      "next": "Resume Sermo X caput IV, Sed qui ab earum fructu fuerit vacuus; Epistola XIV contextual morphology and printed collation remain review tasks"
     }
   ],
   "resume_after_priority": {
