@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1550,
+    "reviewedUnits": 1600,
     "reviewed": [
       {
         "part": 1,
@@ -778,27 +778,42 @@
         "start": 53,
         "end": 102,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 2,
+        "start": 103,
+        "end": 126,
+        "count": 24
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 3,
+        "start": 1,
+        "end": 26,
+        "count": 26
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I IV.2.53–102",
+      "scope": "Parte I IV.2.103–126; IV.3.1–26",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 13,
+      "translationLinesRevised": 14,
       "newNotes": 12,
       "readingCardsAdded": 2,
-      "mode": "philology-31.js; cotejo Dyce y edición anotada; QA navegador y 1590 pendientes",
+      "mode": "philology-32.js; texto base Dyce; cotejo 1590 y QA navegador pendientes",
       "sourceBasis": [
-        "https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf",
-        "https://upload.wikimedia.org/wikipedia/commons/3/32/The_works_of_Christopher_Marlowe-_with_some_account_of_the_author%2C_and_notes%2C_by_the_Rev._Alexander_Dyce_%28IA_workschristophe01davigoog%29.pdf"
+        "https://files.libertyfund.org/files/1687/Marlowe_1319.01_EBk_v6.0.pdf"
       ]
     },
     "next": {
       "part": 1,
       "act": 4,
-      "scene": 2,
-      "line": 103
+      "scene": 3,
+      "line": 27
     }
   }
 }
