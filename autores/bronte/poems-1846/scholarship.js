@@ -1927,6 +1927,62 @@ window.BRONTE_SCHOLARSHIP_1846={
             "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
           }
         ]
+      },
+      {
+        "line": 331,
+        "phrase": "III. THE WELCOME HOME.",
+        "kind": "Historia textual",
+        "title": "Diez años de impunidad",
+        "body": "La última sección empieza diez años después y muestra que la prosperidad de Gilbert continuó. La edición crítica de Victor A. Neufeld sitúa un borrador de la obra hacia la primavera o el verano de 1845, antes de su publicación en 1846.",
+        "sources": [
+          {
+            "label": "V. A. Neufeld, The Poems of Charlotte Brontë, introducción",
+            "url": "https://api.pageplace.de/preview/DT0400.9781317400677_A25442933/preview-9781317400677_A25442933.pdf"
+          },
+          {
+            "label": "Gilbert, tercera parte",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 364,
+        "phrase": "The hand that lifts",
+        "kind": "Gótico",
+        "title": "Un recibimiento invertido",
+        "body": "Gilbert espera que lo reciba su familia, pero una mujer empapada, con arena y algas en el vestido, ocupa la puerta. El umbral doméstico se convierte en lugar de irrupción del pasado negado.",
+        "sources": [
+          {
+            "label": "Estudio académico sobre Elinor y Gilbert, University of Kent",
+            "url": "https://kar.kent.ac.uk/94486/1/346646%20%281%29.pdf"
+          }
+        ]
+      },
+      {
+        "line": 394,
+        "phrase": "The measure thou to her didst mete",
+        "kind": "Intertexto bíblico",
+        "title": "La medida que regresa",
+        "body": "La condena reproduce el principio de Mateo 7:2 y Lucas 6:38: la medida aplicada a los otros vuelve contra uno mismo. Charlotte lo convierte en sentencia contra la crueldad de Gilbert.",
+        "sources": [
+          {
+            "label": "Mateo 7:2 y Lucas 6:38, King James Version",
+            "url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A2%2CLuke+6%3A38&version=KJV"
+          }
+        ]
+      },
+      {
+        "line": 404,
+        "phrase": "Across his throat",
+        "kind": "Crítica académica",
+        "title": "Un castigo realizado por el propio culpable",
+        "body": "Gilbert se quita la vida, en lugar de ser atacado directamente por la figura espectral. Un estudio de Kent analiza esta mediación como forma de venganza indirecta, comparable con la retribución de personajes masculinos en las novelas posteriores de Charlotte.",
+        "sources": [
+          {
+            "label": "Universidad de Kent, estudio sobre venganza gótica en Charlotte",
+            "url": "https://kar.kent.ac.uk/94486/1/346646%20%281%29.pdf"
+          }
+        ]
       }
     ]
   }
