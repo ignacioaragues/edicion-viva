@@ -1,4 +1,4 @@
-/* Edición provisional cotejada con transcripción Ballerini–Migne; capítulos I–II */
+/* Edición bilingüe provisional; capítulos I–IV. Fuente: Ballerini–Migne PL 54, transcripción Wikisource. Cotejo impreso y morfología completa pendientes. */
 window.LEO_EPISTOLA_XXVIII={
   "paragraphs": [
     {
@@ -112,6 +112,104 @@ window.LEO_EPISTOLA_XXVIII={
         "Quiasmo",
         "singulariter mirabilis / mirabiliter singularis hace que el paralelismo formal refuerce la distinción entre singularidad del nacimiento y continuidad de la naturaleza humana."
       ]
+    },
+    {
+      "id": "ep28-17",
+      "label": "III · 1",
+      "latin": "Salva igitur proprietate utriusque naturae et substantiae, et in unam coeunte personam, suscepta est a majestate humilitas, a virtute infirmitas, ab aeternitate mortalitas: et ad resolvendum conditionis nostrae debitum, natura inviolabilis naturae est unita passibili: ut, quod nostris remediis congruebat, unus atque idem mediator Dei et hominum, homo Jesus Christus, et mori posset ex uno, et mori non posset ex altero.",
+      "spanish": "Conservadas, pues, las propiedades de ambas naturalezas y sustancias, que concurren en una sola persona, la majestad asumió la humildad, el poder la debilidad y la eternidad la mortalidad. Para saldar la deuda de nuestra condición, la naturaleza inviolable se unió a la naturaleza capaz de padecer, de modo que, como convenía a nuestra salvación, uno y el mismo mediador entre Dios y los seres humanos, Jesucristo hombre, pudiera morir por una naturaleza y no pudiera morir por la otra.",
+      "note": [
+        "Antítesis y finalidad",
+        "Las parejas majestas/humilitas, virtus/infirmitas y aeternitas/mortalitas conducen a la paradoja de poder morir y no poder morir en una misma persona."
+      ]
+    },
+    {
+      "id": "ep28-18",
+      "label": "III · 2",
+      "latin": "In integra ergo veri hominis perfectaque natura verus natus est Deus, totus in suis, totus in nostris. Nostra autem dicimus quae in nobis ab initio Creator condidit, et quae reparanda suscepit. Non illa quae deceptor intulit, et homo deceptus admisit, nullum habuerunt in Salvatore vestigium. Nec quia communionem humanarum subiit infirmitatum, ideo nostrorum fuit particeps delictorum.",
+      "spanish": "Así, el Dios verdadero nació en la naturaleza íntegra y perfecta del hombre verdadero: entero en lo que le es propio y entero en lo nuestro. Llamamos nuestro a lo que el Creador puso en nosotros desde el principio y asumió para restaurarlo. Lo que introdujo el engañador y aceptó el ser humano engañado no dejó huella alguna en el Salvador. Y el hecho de compartir las debilidades humanas no lo hizo partícipe de nuestros delitos."
+    },
+    {
+      "id": "ep28-19",
+      "label": "III · 3",
+      "latin": "Assumpsit formam servi sine sorde peccati, humana augens, divina non minuens: quia exinanitio illa qua se invisibilis visibilem praebuit, et Creator ac Dominus omnium rerum unus voluit esse mortalium, inclinatio fuit miserationis, non defectio potestatis. Proinde qui manens in forma Dei fecit hominem, idem in forma servi factus est homo. Tenet enim sine defectu proprietatem suam utraque natura: et sicut formam servi Dei forma non adimit, ita formam Dei servi forma non minuit.",
+      "spanish": "Asumió la condición de siervo sin mancha de pecado, acrecentando lo humano sin disminuir lo divino: porque aquel anonadamiento por el cual el invisible se hizo visible y el Creador y Señor de todas las cosas quiso ser uno de los mortales fue una inclinación de misericordia, no una pérdida de poder. Por tanto, quien permaneciendo en condición divina creó al ser humano, ese mismo se hizo hombre en condición de siervo. Cada naturaleza conserva íntegra su propiedad: así como la condición divina no suprime la de siervo, tampoco la de siervo disminuye la divina.",
+      "note": [
+        "Autoridad mediante distinción",
+        "Inclinatio miserationis, non defectio potestatis transforma una aparente pérdida de rango en un acto voluntario de compasión."
+      ]
+    },
+    {
+      "id": "ep28-20",
+      "label": "III · 4",
+      "latin": "Nam quia gloriabatur diabolus hominem sua fraude deceptum divinis caruisse muneribus, et immortalitatis dote nudatum duram mortis subiisse sententiam, seque in malis suis quoddam de praevaricatoris consortio invenisse solatium; Deum quoque, justitiae exigente ratione, erga hominem, quem in tanto honore condiderat, propriam mutasse sententiam; opus fuit secreti dispensatione consilii, ut incommutabilis Deus, cujus voluntas non potest sua benignitate privari, primam erga nos pietatis suae dispositionem sacramento occultiore compleret; et homo diabolicae iniquitatis versutia actus in culpam contra Dei propositum non periret.",
+      "spanish": "Pues el diablo se jactaba de que el ser humano, engañado por su fraude, había perdido los dones divinos y, despojado de la inmortalidad, había sufrido la dura sentencia de muerte; de hallar cierto consuelo en su desgracia al compartir la suerte del transgresor; y de que también Dios, por exigencia de justicia, había cambiado su decisión respecto del ser humano al que había creado con tan alto honor. Fue necesario entonces el designio de una disposición secreta: que el Dios inmutable, cuya voluntad no puede perder su bondad, cumpliera mediante un misterio más profundo su primera decisión misericordiosa hacia nosotros, y que el ser humano, llevado al pecado por la astucia diabólica, no pereciera contra el propósito divino."
+    },
+    {
+      "id": "ep28-21",
+      "label": "IV · 1",
+      "latin": "Ingreditur ergo haec mundi infima Filius Dei, de coelesti sede descendens, et a paterna gloria non recedens, novo ordine, nova nativitate generatus.",
+      "spanish": "Entra, pues, el Hijo de Dios en las regiones inferiores de este mundo, descendiendo de la sede celestial sin apartarse de la gloria paterna, engendrado según un orden nuevo y un nacimiento nuevo."
+    },
+    {
+      "id": "ep28-22",
+      "label": "IV · 2",
+      "latin": "Novo ordine, quia invisibilis in suis, visibilis factus est in nostris, incomprehensibilis voluit comprehendi; ante tempora manens esse coepit ex tempore; universitatis Dominus servilem formam, obumbrata majestatis suae immensitate, suscepit; impassibilis Deus non dedignatus est homo esse passibilis, et immortalis mortis legibus subjacere. Nova autem nativitate generatus: quia inviolata virginitas concupiscentiam nescivit, carnis materiam ministravit.",
+      "spanish": "Según un orden nuevo, porque, invisible en lo suyo, se hizo visible en lo nuestro; incomprensible, quiso ser comprendido; existiendo antes de los tiempos, comenzó a existir en el tiempo; Señor del universo, asumió la condición de siervo, velando la inmensidad de su majestad; Dios incapaz de padecer, no desdeñó ser hombre capaz de padecer, ni, siendo inmortal, someterse a las leyes de la muerte. Y fue engendrado mediante un nacimiento nuevo, porque una virginidad intacta, ajena a la concupiscencia, aportó la materia de la carne.",
+      "note": [
+        "Anáforas y oposiciones",
+        "Novo ordine / nova nativitate ordena una serie de inversiones de atributos sin confundir las naturalezas."
+      ]
+    },
+    {
+      "id": "ep28-23",
+      "label": "IV · 3",
+      "latin": "Assumpta est de Matre Domini, natura, non culpa; nec in Domino Jesu Christo, ex utero virginis genito, quia nativitas est mirabilis, ideo nostri est natura dissimilis. Qui enim verus est Deus, idem verus est homo, et nullum est in hac unitate mendacium, dum invicem sunt et humilitas hominis et altitudo Deitatis. Sicut enim Deus non mutatur miseratione, ita homo non consumitur dignitate.",
+      "spanish": "De la madre del Señor se asumió la naturaleza, no la culpa; y en Jesucristo, nacido del vientre de la virgen, el carácter admirable del nacimiento no hace que su naturaleza sea distinta de la nuestra. Porque quien es Dios verdadero es también hombre verdadero, y no hay falsedad en esta unidad, en la que se encuentran la humildad humana y la elevación divina. Así como Dios no cambia por su misericordia, tampoco el hombre se disuelve por la dignidad recibida."
+    },
+    {
+      "id": "ep28-24",
+      "label": "IV · 4",
+      "latin": "Agit enim utraque forma cum alterius communione, quod proprium est; Verbo scilicet operante quod Verbi est, et carne exsequente quod carnis est. Unum horum coruscat miraculis, aliud succumbit injuriis. Et sicut Verbum ab aequalitate paternae gloriae non recedit, ita caro naturam nostri generis non relinquit. Unus enim idemque est, quod saepe dicendum est, vere Dei Filius, et vere hominis filius.",
+      "spanish": "Cada una de las dos condiciones actúa, en comunión con la otra, según lo que le es propio: el Verbo realiza lo que corresponde al Verbo y la carne ejecuta lo que corresponde a la carne. Una resplandece con milagros; la otra soporta agravios. Y así como el Verbo no se aparta de la igualdad con la gloria paterna, tampoco la carne abandona la naturaleza de nuestro linaje. Porque uno y el mismo es —hay que repetirlo con frecuencia— verdaderamente Hijo de Dios y verdaderamente hijo del hombre.",
+      "note": [
+        "Repetición deliberada",
+        "Quod saepe dicendum est explicita la voluntad de repetir una fórmula hasta fijarla: la insistencia es parte del método argumentativo."
+      ]
+    },
+    {
+      "id": "ep28-25",
+      "label": "IV · 5",
+      "latin": "Deus per id quod in principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum (Joan. i, 1); homo per id quod Verbum caro factum est, et habitavit in nobis (Ibid., 14). Deus per id quod omnia per ipsum facta sunt, et sine ipso factum est nihil (Ibid., 3); homo per id quod factus est ex muliere, factus sub lege (Galat. iv, 4). Nativitatis carnis manifestatio est humanae naturae; partus virginis, divinae est virtutis indicium. Infantia parvuli ostenditur humilitate cunarum (Luc. ii, 7): magnitudo Altissimi declaratur vocibus angelorum (Luc. ii, 13).",
+      "spanish": "Es Dios porque «en el principio era el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios» (Jn 1,1); es hombre porque «el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14). Es Dios porque «todo fue hecho por él y sin él nada fue hecho» (Jn 1,3); es hombre porque «nació de mujer, nació bajo la ley» (Ga 4,4). El nacimiento carnal manifiesta la naturaleza humana; el parto virginal señala el poder divino. La infancia del pequeño se muestra en la humildad del pesebre; la grandeza del Altísimo se proclama por las voces de los ángeles."
+    },
+    {
+      "id": "ep28-26",
+      "label": "IV · 6",
+      "latin": "Similis est rudimentis hominum, quem Herodes impie molitur occidere (Matth. ii, 16); sed Dominus est omnium, quem magi gaudent suppliciter adorare. Jam cum ad praecursoris sui Joannis baptismum venit (Matth. iii, 13), ne lateret quod carnis velamine Divinitas tegeretur, vox Patris de coelo intonans dixit: Hic est Filius meus dilectus, in quo mihi bene complacui (Ibid., 17). Quem itaque sicut hominem diabolica tentat astutia, eidem sicut Deo angelica famulantur officia (Matth. iv, 1, 11).",
+      "spanish": "Aquel a quien Herodes intenta matar impíamente comparte la fragilidad de los primeros años humanos; pero aquel a quien los magos adoran gozosos es Señor de todos. Cuando acude al bautismo de su precursor Juan, para que no quede oculto que la divinidad se cubre con el velo de la carne, resuena desde el cielo la voz del Padre: «Este es mi Hijo amado, en quien me complazco». Aquel a quien la astucia diabólica tienta como hombre recibe, como Dios, el servicio de los ángeles."
+    },
+    {
+      "id": "ep28-27",
+      "label": "IV · 7",
+      "latin": "Esurire, sitire, lassescere atque dormire, evidenter humanum est. Sed quinque panibus quinque millia hominum satiare (Joan. vi, 5), et largiri Samaritanae aquam vivam (Joan. iv, 10), cujus haustus bibenti praestet ne ultra jam sitiat; supra dorsum maris plantis non desidentibus ambulare (Matth. xiv, 25), et elationes fluctuum increpata tempestate consternere (Luc. viii, 24); sine ambiguitate divinum est.",
+      "spanish": "Tener hambre, sed, cansarse y dormir es evidentemente humano. Pero saciar a cinco mil personas con cinco panes, ofrecer a la samaritana agua viva que quite para siempre la sed a quien la beba, caminar sobre la superficie del mar sin hundir los pies y aplacar las olas encrespadas reprendiendo la tempestad es, sin duda alguna, divino."
+    },
+    {
+      "id": "ep28-28",
+      "label": "IV · 8",
+      "latin": "Sicut ergo, ut multa praeteream, non ejusdem naturae est, flere miserationis affectu amicum mortuum (Joan. xi, 35) et eumdem, remoto quatriduanae aggere sepulturae, ad vocis imperium excitare redivivum (Ibid., 43); aut in ligno pendere, et in noctem luce conversa, omnia elementa tremefacere; aut clavis transfixum esse, et paradisi portas fidei latronis aperire (Matth. xxvii, 35); ita non ejusdem naturae est, dicere: Ego et Pater unum sumus (Joan. x, 30), et dicere, Pater major me est (Joan. xiv, 28).",
+      "spanish": "Así, por omitir muchos ejemplos, no corresponde a una misma naturaleza llorar por compasión ante un amigo muerto y devolverlo a la vida con una orden, removida la piedra de una sepultura de cuatro días; ni pender de un madero y hacer temblar todos los elementos cuando la luz se torna noche; ni estar atravesado por clavos y abrir las puertas del paraíso a la fe del ladrón. Tampoco corresponde a una misma naturaleza decir «Yo y el Padre somos uno» y decir «El Padre es mayor que yo».",
+      "note": [
+        "Pruebas mediante escenas",
+        "La argumentación doctrinal se vuelve una sucesión de acciones contrastadas: llorar/resucitar, padecer/abrir el paraíso."
+      ]
+    },
+    {
+      "id": "ep28-29",
+      "label": "IV · 9",
+      "latin": "Quamvis enim in Domino Jesu Christo Dei et hominis una persona sit; aliud tamen est, unde in utroque communis est contumelia, aliud unde communis est gloria. De nostro enim illi est minor Patre humanitas; de Patre illi est aequalis cum Patre Divinitas.",
+      "spanish": "Aunque en el Señor Jesucristo haya una sola persona de Dios y hombre, una cosa es aquello de donde procede la afrenta compartida por ambos, y otra aquello de donde procede su gloria común. Por lo nuestro tiene una humanidad inferior al Padre; del Padre posee una divinidad igual a la del Padre."
     }
   ],
   "lexicon": {
