@@ -383,3 +383,8 @@
 ## Pasada LXI (18-11-2026)
 - Parte II II.4.37–86: 50 unidades, 20 traducciones ajustadas, 13 notas, 2 fichas. Total 3.044/4.641 (65,6 %); sigue II.4.87–136.
 - Inglés, IDs y estructura conservados. Cotejo externo y QA navegador pendientes.
+
+## Sexagésima segunda pasada filológica (19-11-2026)
+- **50 unidades**: Parte II II.4.87–136. Acumulado **3.094/4.641 (66,7 %)**. Sigue II.4.137–142 y escena siguiente.
+- **49 traducciones corregidas**, 1 conservadas; **13 notas** y **2 fichas**. Cotejo interno; cotejo histórico independiente y QA navegador pendientes.
+- Inglés, acotaciones, IDs y navegación conservados; capa condicionada a coincidencia literal del inglés.
