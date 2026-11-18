@@ -91,3 +91,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **35, The Teacher's Monologue (Charlotte):** 7 notas sobre docencia, nostalgia y metapoesía.
 
 **Balance:** 32 notas nuevas; **226 notas en 35 poemas**. Fuentes primarias e intertextos identificados; cotejo manuscrito y revisión bibliográfica exhaustiva pendientes. Restan 36–61.
+
+## Aparato académico: octava tanda (poemas 36–40)
+- **36, Sympathy:** 6 notas. Exhortación consolatoria que reconoce el duelo y utiliza la recurrencia natural para imaginar resistencia.
+- **37, Past Days:** 6 notas. Evocación de una sociabilidad perdida que contrapone la alegría compartida al cansancio actual.
+- **38, Passion:** 7 notas. Monólogo de deseo posesivo ambientado en la primera guerra anglo-sij; la voz dramática no debe confundirse con la autora.
+- **39, Preference:** 8 notas. Respuesta de una hablante que rechaza al soldado y elige a un intelectual; contrapunto de «Passion».
+- **40, Plead for Me:** 8 notas. Juicio interior entre Razón y una figura visionaria, a la vez esclava, compañera y soberana.
+
+**Balance:** 35 notas nuevas, **261 notas en 40 poemas**. Restan 41–61. Primera lectura textual documentada; cotejo manuscrito pendiente. No se modificó poems-data.js.
