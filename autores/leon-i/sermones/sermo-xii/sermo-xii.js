@@ -109,6 +109,106 @@ window.LEO_SERMO_XII = {
         "Triple transformación",
         "La anáfora de ... de ... de con resultados reconciliatos/adoptivos/justos convierte el universalismo en transformación moral."
       ]
+    },
+    {
+      "id": "s12-12",
+      "label": "III.1",
+      "latin": "Cum ergo Deus bonos nos esse velit, quia bonus est, nihil nobis debet de ejus judiciis displicere. Nam non per omnia illi gratias agere, quid est aliud quam ex quadam eum parte reprehendere? Audet enim plerumque humana insipientia adversus Creatorem suum, non solum de inopia, sed etiam de copia murmurare; ut et cum aliquid non suppetit, querula, et cum quaedam exuberant, sit ingrata.",
+      "spanish": "Puesto que Dios, que es bueno, quiere que seamos buenos, nada de sus juicios debería desagradarnos. Porque no darle gracias por todo, ¿qué otra cosa es sino censurarlo en cierto modo? La insensatez humana se atreve muchas veces a murmurar contra su Creador, no solo por la escasez, sino también por la abundancia: se queja cuando algo le falta y es ingrata cuando ciertas cosas le sobran.",
+      "note": [
+        "La queja contradictoria",
+        "La interrogación retórica y el paralelismo inopia/copia exponen una ingratitud que se manifiesta en circunstancias opuestas."
+      ]
+    },
+    {
+      "id": "s12-13",
+      "label": "III.2",
+      "latin": "Multae messis dominus, horreorum suorum plenitudinem fastidivit (Luc. xii, 16), et ad copiam vindemiae affluentis ingemuit; nec de magnitudine fructuum gratulatus, sed de vilitate conquestus est.",
+      "spanish": "El dueño de una cosecha abundante desdeñó sus graneros repletos (Lc 12,16) y se lamentó ante la abundancia de la vendimia; en vez de alegrarse por la cantidad de frutos, se quejó de su escaso precio.",
+      "note": [
+        "Ejemplo económico",
+        "León dramatiza la paradoja del propietario que convierte la prosperidad en motivo de disgusto."
+      ]
+    },
+    {
+      "id": "s12-14",
+      "label": "III.3",
+      "latin": "Si autem parcior fuerit in susceptis terra seminibus, et castigatiore proventu vites oleaeque defluxerint, accusantur anni, arguuntur elementa, et nec aeri parcitur, nec caelo, cum fideles et pios discipulos veritatis nihil magis commendet et muniat, quam perseverans in Deum, et indefessa laudatio, dicente Apostolo: Semper gaudete, sine intermissione orate; in omnibus gratias agite. Haec enim voluntas Dei est in Christo Jesu in omnibus vobis (I Thess. v, 16).",
+      "spanish": "Pero si la tierra rinde menos de las semillas recibidas y las vides y los olivos dan una producción más reducida, se acusa a los años, se reprende a los elementos y no se perdona ni al aire ni al cielo. Sin embargo, nada distingue y fortalece más a los discípulos fieles y piadosos de la verdad que la alabanza constante e incansable de Dios, como dice el Apóstol: «Estén siempre alegres, oren sin cesar, den gracias en toda circunstancia. Esta es la voluntad de Dios para ustedes en Cristo Jesús» (1 Tes 5,16–18).",
+      "note": [
+        "Acumulación acusatoria",
+        "La secuencia accusantur, arguuntur, nec ... parcitur personifica la protesta contra la naturaleza."
+      ]
+    },
+    {
+      "id": "s12-15",
+      "label": "III.4",
+      "latin": "Hujus autem devotionis quemadmodum poterimus esse participes, nisi rerum varietas constantiam mentis exerceat? ut amor directus in Deum nec inter secunda superbiat, nec inter adversa deficiat. Quod placet Deo, placeat et nobis. De omni mensura munerum ejus gaudeamus. Qui bene usus est magnis, bene utatur et modicis. Tam nobis copia quam parcitate consulitur. Nec in spiritalibus lucris angustia gravabimur fructuum, si fecunditas non arescat animorum.",
+      "spanish": "¿Cómo podremos participar de esta devoción si la variedad de las circunstancias no ejercita la constancia del espíritu? Así, el amor dirigido a Dios no se ensoberbece en la prosperidad ni desfallece en la adversidad. Que nos agrade también a nosotros lo que agrada a Dios. Alegrémonos cualquiera sea la medida de sus dones. Quien hizo buen uso de los grandes, haga buen uso también de los pequeños. Tanto la abundancia como la escasez pueden beneficiarnos. Y no nos agobiará la falta de frutos en las ganancias espirituales si no se seca la fecundidad de nuestras almas.",
+      "note": [
+        "Antítesis y máxima",
+        "La simetría nec inter secunda ... nec inter adversa y la sentencia Quod placet Deo, placeat et nobis convierten la reflexión en regla memorable."
+      ]
+    },
+    {
+      "id": "s12-16",
+      "label": "III.5",
+      "latin": "Oriatur de cordis agro, quod terra non edidit. Semper illi, quod largiatur, occurrit, cui bene velle non deficit. Ad omnia igitur, dilectissimi, opera pietatis, omnium nobis qualitas prosit annorum, nec benevolentiam christianam difficultas temporalis impediat.",
+      "spanish": "Que brote del campo del corazón lo que la tierra no produjo. Nunca le faltará qué dar a quien no le falta buena voluntad. Así pues, queridos hermanos, aprovechemos cualquier clase de año para todas las obras de piedad, y que las dificultades pasajeras no impidan la benevolencia cristiana.",
+      "note": [
+        "Campo interior",
+        "La metáfora agrícola se desplaza desde la cosecha material hacia la fecundidad moral."
+      ]
+    },
+    {
+      "id": "s12-17",
+      "label": "III.6",
+      "latin": "Novit Dominus vasa hospitalis viduae in opus pietatis suae vacuata complere (IV Reg. iv, 5); novit aquas in vina convertere (Joan. ii, 9); novit de paucissimis panibus quinque millia esurientium saturare populorum (Joan. vi, 9). Et ille qui in pauperibus suis pascitur, quae potuit augere dando, potest multiplicare sumendo.",
+      "spanish": "El Señor sabe llenar los recipientes que la viuda hospitalaria vació para practicar la piedad (2 Re 4,5); sabe convertir el agua en vino (Jn 2,9); sabe alimentar a cinco mil hambrientos con poquísimos panes (Jn 6,9). Y aquel que es alimentado en sus pobres puede multiplicar al recibir lo que fue capaz de aumentar al dar.",
+      "note": [
+        "Anáfora de capacidad",
+        "La triple repetición novit prepara el juego paradójico entre dar, recibir y multiplicar."
+      ]
+    },
+    {
+      "id": "s12-18",
+      "label": "IV.1",
+      "latin": "Tria vero sunt quae maxime ad religiosas pertinent actiones, oratio scilicet, jejunium, et eleemosyna, quibus exercendis omne quidem tempus acceptum, sed illud est studiosius observandum, quod apostolicis accepimus traditionibus consecratum; sicut etiam decimus hic mensis morem refert veteris instituti, ut tria illa de quibus locutus sum diligentius exsequamur.",
+      "spanish": "Tres son las prácticas que pertenecen especialmente a la vida religiosa: la oración, el ayuno y la limosna. Todo tiempo es adecuado para ejercitarlas, pero debemos observar con mayor empeño el que hemos recibido consagrado por las tradiciones apostólicas. Así también este décimo mes conserva la costumbre de una antigua institución, para que cumplamos con mayor diligencia las tres prácticas mencionadas.",
+      "note": [
+        "Enumeración normativa",
+        "El paso de la exhortación moral al calendario comunitario se articula mediante la tríada oratio, jejunium, eleemosyna."
+      ]
+    },
+    {
+      "id": "s12-19",
+      "label": "IV.2",
+      "latin": "Oratione enim propitiatio Dei quaeritur, jejunio concupiscentia carnis exstinguitur, eleemosynis peccata redimuntur (Dan. iv, 24); simulque per omnia Dei in nobis imago renovatur, si et in laudem ejus semper parati, et ad purificationem nostram sine cessatione solliciti, et ad sustentationem proximi indesinenter simus intenti.",
+      "spanish": "Porque mediante la oración se busca el favor de Dios; mediante el ayuno se extingue la concupiscencia de la carne; mediante las limosnas se expían los pecados (Dn 4,24). Al mismo tiempo, en todo ello se renueva en nosotros la imagen de Dios, si estamos siempre dispuestos a alabarlo, continuamente atentos a nuestra purificación e incesantemente dedicados al sostenimiento del prójimo.",
+      "note": [
+        "Tres medios y tres fines",
+        "La sintaxis paralela distribuye los ejercicios entre Dios, el propio sujeto y el prójimo."
+      ]
+    },
+    {
+      "id": "s12-20",
+      "label": "IV.3",
+      "latin": "Haec triplex observantia, dilectissimi, omnium virtutum comprehendit effectus. Haec ad imaginem et similitudinem Dei pervenit, et a Spiritu sancto inseparabiles facit. Quia in orationibus permanet fides recta, in jejuniis innocens vita, in eleemosynis mens benigna.",
+      "spanish": "Esta triple observancia, queridos hermanos, reúne los efectos de todas las virtudes. Ella alcanza la imagen y semejanza de Dios y nos hace inseparables del Espíritu Santo. Porque en las oraciones permanece la fe recta; en los ayunos, la vida inocente; en las limosnas, el espíritu benévolo.",
+      "note": [
+        "Cierre doctrinal de la tríada",
+        "La repetición de haec y las tres cláusulas con in fijan en la memoria la correspondencia entre práctica y virtud."
+      ]
+    },
+    {
+      "id": "s12-21",
+      "label": "IV.4",
+      "latin": "Quarta igitur et sexta feria jejunemus; sabbato autem apud beatissimum apostolum Petrum vigilias celebremus; qui et orationes, et jejunia, et eleemosynas nostras precibus suis dignabitur adjuvare. Per Dominum nostrum Jesum Christum, qui cum Patre et sancto Spiritu vivit et regnat in saecula saeculorum. Amen.",
+      "spanish": "Ayunemos, pues, el miércoles y el viernes; celebremos el sábado las vigilias junto al bienaventurado apóstol Pedro, que se dignará ayudar con sus plegarias nuestras oraciones, ayunos y limosnas. Por nuestro Señor Jesucristo, que vive y reina con el Padre y el Espíritu Santo por los siglos de los siglos. Amén.",
+      "note": [
+        "Convocatoria final",
+        "El sermón concluye en instrucciones temporales precisas y recupera la tríada como cierre litúrgico."
+      ]
     }
   ],
   "lexicon": {}
