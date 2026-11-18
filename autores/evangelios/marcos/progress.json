@@ -1590,12 +1590,25 @@
         "https://biblehub.com/commentaries/egt/mark/7.htm",
         "https://biblehub.com/commentaries/mark/7-5.htm"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 6,
+      "to": 6,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "29/29 fichas posicionales MorphGNT 6.12",
+      "second_review": "pending",
+      "external_references": [
+        "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php",
+        "https://midamerica.edu/uploads/files/pdf/journal/02waltersjournal2021edited17august.pdf"
+      ]
     }
   ],
-  "pending": "Continuar en Marcos 7,6; segunda revisión filológica y Vulgata opcional pendientes.",
+  "pending": "Continuar en Marcos 7,7; segunda revisión filológica y Vulgata opcional pendientes.",
   "next": {
     "chapter": 7,
-    "verse": 6
+    "verse": 7
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3684,6 +3697,18 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://biblehub.com/commentaries/egt/mark/7.htm"
+    ]
+  },
+  "prepublication_research_7_6": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "29/29",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php",
+      "https://midamerica.edu/uploads/files/pdf/journal/02waltersjournal2021edited17august.pdf"
     ]
   }
 }
