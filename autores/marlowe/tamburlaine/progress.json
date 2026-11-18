@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 1700,
+    "reviewedUnits": 1750,
     "reviewed": [
       {
         "part": 1,
@@ -818,26 +818,34 @@
         "start": 9,
         "end": 58,
         "count": 50
+      },
+      {
+        "part": 1,
+        "act": 4,
+        "scene": 4,
+        "start": 59,
+        "end": 108,
+        "count": 50
       }
     ],
     "lastPass": {
       "date": "2026-11-18",
-      "scope": "Parte I IV.4.9–58",
+      "scope": "Parte I IV.4.59–108",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 22,
-      "newNotes": 13,
+      "translationLinesRevised": 18,
+      "newNotes": 12,
       "readingCardsAdded": 2,
-      "mode": "philology-34.js; cotejo anotada 2020; 1590 directo y QA navegador pendientes",
+      "mode": "philology-35.js; cotejo edición anotada 2020; 1590 directo y QA navegador pendientes",
       "sourceBasis": [
-        "Christopher Marlowe, Tamburlaine I, IV.iv; Peter Lukacs (ed.), Annotated Popular Edition (2020), pp. 72–74, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
+        "Christopher Marlowe, Tamburlaine I, IV.iv; Peter Lukacs (ed.), Annotated Popular Edition (2020), pp. 73–75, https://www.elizabethandrama.org/wp-content/uploads/2017/08/Tamburlaine-Part-One-Annotated.pdf"
       ]
     },
     "next": {
       "part": 1,
       "act": 4,
       "scene": 4,
-      "line": 59
+      "line": 109
     }
   }
 }
