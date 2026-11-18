@@ -183,17 +183,17 @@
   "next": {
     "group": "epistolae",
     "number": 28,
-    "section": "caput I",
-    "reason": "user-designated priority before Sermo XI"
+    "section": "caput III",
+    "incipit": "Salva igitur proprietate utriusque naturae et substantiae"
   },
-  "priority": "Sermo LXXXII published as complete first-pass reader (critical review open), Epistola X active, then Epistola XIV; resume Sermo X chapter IV after priorities.",
-  "last_edit": "2026-11-18: Sermo X chapters I–III added; whole sermon now 15 aligned units, first-pass translation complete, morphological analysis pending",
+  "priority": "Epistola XXVIII is active priority (I–II published, III–VI pending); after finishing it resume Sermo XI. Prior exceptional Sermo LXXXII, Epistolae X and XIV already have complete first-pass translations.",
+  "last_edit": "2026-11-18: Epistola XXVIII (Tomus ad Flavianum) published chapters I–II, 16 bilingual aligned units, 4 rhetorical notes and 20 lexical forms. III–VI pending; print collation and contextual token morphology incomplete.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
-    "group": "sermones",
-    "number": 11,
-    "section": "caput I",
-    "status": "not_started"
+    "group": "epistolae",
+    "number": 28,
+    "section": "caput III",
+    "status": "partial_reader_published_chapters_I_II"
   },
   "priority_queue": [
     {
@@ -305,17 +305,29 @@
       "group": "epistolae",
       "number": 28,
       "title": "Epistola XXVIII ad Flavianum episcopum Constantinopolitanum (Tomus ad Flavianum)",
-      "status": "priority_pending",
+      "status": "partial_reader_published_chapters_I_II",
       "skip_after_completion": true,
-      "source": "https://www.mignereadingroom.org/PL/54/epistolae/755-780",
+      "source": "https://la.wikisource.org/wiki/Tomus_ad_Flavianum",
       "base_edition": "Ballerini–Migne, PL 54 cols. 755–780",
       "sender": "Leo episcopus",
       "recipient": "Flavianus episcopus Constantinopolitanus",
       "date": "449-06-13",
       "total_chapters": 6,
       "translation_complete": false,
-      "reader_published": false,
-      "next": "Begin and seek to complete all six chapters, original aligned Spanish translation, lexical and rhetorical apparatus; then resume Sermo XI"
+      "reader_published": true,
+      "next": "Caput III: Salva igitur proprietate utriusque naturae et substantiae; continue through VI, then Sermo XI",
+      "reader_path": "autores/leon-i/epistolae/epistola-xxviii/index.html",
+      "complete_work": false,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "aligned_units": 16,
+      "lexicon_surface_forms": 20,
+      "voice_notes": 4,
+      "authenticity": "Authentic doctrinal letter of Leo I to Flavian, dated 13 June 449; PL54 traditional epistle XXVIII; critical printed collation outstanding"
     }
   ],
   "resume_after_priority": {
