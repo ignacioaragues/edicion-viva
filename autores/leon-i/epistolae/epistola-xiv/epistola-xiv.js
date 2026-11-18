@@ -113,6 +113,102 @@ window.LEO_EPISTOLA_XIV = {
       "label": "V.1",
       "latin": "Cum ergo de summi sacerdotis electione tractabitur, ille omnibus praeponatur quem cleri plebisque consensus concorditer postularit: ita ut si in aliam forte personam partium se vota diviserint, metropolitani judicio is alteri praeferatur qui majoribus et studiis juvatur et meritis: tantum ut nullus invitis et non petentibus ordinetur; ne civitas episcopum non optatum aut contemnat, aut oderit; et fiat minus religiosa quam convenit, cui non licuerit habere quem voluit.",
       "spanish": "Por consiguiente, cuando se trate de elegir al obispo principal, sea preferido aquel a quien el clero y el pueblo pidan de común acuerdo. Si los votos se dividen entre distintas personas, el juicio del metropolitano debe preferir a quien tenga mayores apoyos y méritos; pero que nadie sea ordenado contra la voluntad de quienes no lo han pedido, para que la ciudad no desprecie ni odie a un obispo que no deseaba y no pierda fervor religioso por no haber podido tener al que quería."
+    },
+    {
+      "id": "ep14-20",
+      "label": "VI.1",
+      "latin": "De persona autem consecrandi episcopi, et de cleri plebisque consensu metropolitanus episcopus ad fraternitatem tuam referat; quodque in provincia bene placuit, scire te faciat, ut ordinationem rite celebrandam tua quoque firmet auctoritas. Quae rectis dispositionibus nihil morae aut difficultatis debebit afferre, ne gregibus Domini diu desit cura pastorum.",
+      "spanish": "El metropolitano deberá informarte sobre el candidato al episcopado y el consentimiento del clero y el pueblo, para que tu autoridad confirme la ordenación aprobada en la provincia. Tu intervención no debe causar demoras ni dificultades a las decisiones legítimas, para que los rebaños del Señor no queden largo tiempo sin pastores."
+    },
+    {
+      "id": "ep14-21",
+      "label": "VI.2",
+      "latin": "Metropolitano vero defuncto, cum in locum ejus alius fuerit subrogandus, provinciales episcopi ad civitatem metropolim convenire debebunt, ut omnium clericorum atque omnium civium voluntate discussa, ex presbyteris ejusdem Ecclesiae, vel ex diaconis optimus eligatur, de cujus nomine ad tuam notitiam provinciales referant sacerdotes, impleturi vota poscentium, cum quod ipsis placuit, tibi quoque placuisse cognoverint.",
+      "spanish": "Cuando muera un metropolitano, los obispos provinciales se reunirán en la ciudad metropolitana y, examinada la voluntad de todos los clérigos y ciudadanos, elegirán al mejor presbítero o diácono de esa Iglesia. Te comunicarán el nombre del elegido y cumplirán el deseo de quienes lo pidieron cuando sepan que también vos lo aprobás."
+    },
+    {
+      "id": "ep14-22",
+      "label": "VI.3",
+      "latin": "Sicut enim justas electiones nullis dilationibus volumus fatigari; ita nihil permittimus te ignorante praesumi.",
+      "spanish": "Así como no queremos agotar con demoras las elecciones justas, tampoco permitimos que se emprenda nada sin tu conocimiento."
+    },
+    {
+      "id": "ep14-23",
+      "label": "VII.1",
+      "latin": "De conciliis autem episcopalibus non aliud indicimus quam sancti Patres salubriter ordinarunt: ut scilicet bini conventus per annos singulos habeantur, in quibus de omnibus querelis quae inter diversos Ecclesiae ordines nasci assolent, judicetur.",
+      "spanish": "Sobre los concilios episcopales, no ordenamos nada distinto de lo que establecieron los santos Padres: que se celebren dos reuniones anuales para juzgar las quejas surgidas entre los distintos órdenes de la Iglesia."
+    },
+    {
+      "id": "ep14-24",
+      "label": "VII.2",
+      "latin": "Ac si forte inter ipsos qui praesunt de majoribus (quod absit) peccatis causa nascitur, quae provinciali nequeat examine definiri; fraternitatem tuam de totius negotii qualitate metropolitanus curabit instruere, ut si coram positis partibus nec tuo fuerit res sopita judicio, ad nostram cognitionem, quidquid illud est, transferatur.",
+      "spanish": "Si entre los propios responsables surge una causa por faltas graves que no pueda resolverse provincialmente, el metropolitano te informará de todos sus detalles. Si tampoco tu juicio consigue resolverla ante las partes, el asunto se remitirá a nosotros."
+    },
+    {
+      "id": "ep14-25",
+      "label": "VIII.1",
+      "latin": "Si quis episcopus, civitatis suae mediocritate despecta, administrationem loci celebrioris ambierit, et ad majorem se plebem quacumque ratione transtulerit, a cathedra quidem pelletur aliena, sed carebit et propria: ut nec illis praesideat quos per avaritiam concupivit, nec illis quos per superbiam sprevit. Suis igitur terminis quisque contentus sit, nec supra mensuram juris sui affectet augeri.",
+      "spanish": "Si un obispo desprecia su ciudad y ambiciona gobernar una sede más importante, será expulsado de la cátedra ajena y perderá también la propia: no gobernará a quienes codició por avaricia ni a quienes desdeñó por soberbia. Que cada cual se contente con sus límites y no pretenda extender sus derechos."
+    },
+    {
+      "id": "ep14-26",
+      "label": "IX.1",
+      "latin": "Alienum clericum, invito episcopo ipsius, nemo suscipiat, nemo sollicitet, nisi forte ex placito charitatis id inter dantem accipientemque convenerit. Nam gravis injuriae reus est qui de fratris Ecclesia id quod est utilius aut pretiosius audet vel allicere, vel tenere. Itaque si intra provinciam res agitur, transfugam clericum ad suam Ecclesiam metropolitanus redire compellet.",
+      "spanish": "Nadie debe recibir ni atraer a un clérigo ajeno contra la voluntad de su obispo, salvo acuerdo caritativo entre ambos. Incurre en grave injusticia quien atrae o retiene lo más valioso de la Iglesia de un hermano. Si sucede dentro de la provincia, el metropolitano obligará al clérigo a regresar."
+    },
+    {
+      "id": "ep14-27",
+      "label": "IX.2",
+      "latin": "Si autem longius recessit, tui praecepti auctoritate revocabitur; ut nec cupiditati, nec ambitioni occasio relinquatur.",
+      "spanish": "Si se ha alejado más, será llamado de vuelta por tu mandato, para no dar ocasión a la codicia ni a la ambición."
+    },
+    {
+      "id": "ep14-28",
+      "label": "X.1",
+      "latin": "In evocandis autem ad te episcopis moderatissimum esse te volumus, ne per majoris diligentiae speciem fraternis gloriari videaris injuriis. Unde si causa aliqua major exstiterit ob quam rationabile ac necessarium sit fraternum advocare conventum, binos de singulis provinciis episcopos, quos metropolitani crediderint esse mittendos, ad fraternitatem tuam venire sufficiat, ita ut a praestituto tempore non ultra quindecim dies qui convenerint retardentur.",
+      "spanish": "Queremos que seas muy moderado al convocar obispos, para que no parezca que te enorgullecés de humillar a tus hermanos bajo apariencia de diligencia. Si una causa importante exige una reunión, bastarán dos obispos por provincia, elegidos por sus metropolitanos, y no serán retenidos más de quince días."
+    },
+    {
+      "id": "ep14-29",
+      "label": "XI.1",
+      "latin": "Si autem in eo quod cum fratribus tractandum definiendumve credideris diversa eorum fuerit a tua voluntate sententia, ad nos omnia sub gestorum testificatione referantur, ut, remotis ambiguitatibus, quod Deo placeat decernatur. Ad hunc enim finem omnem affectum nostrum curamque dirigimus, ut quod ad unitatem concordiae, et quod ad custodiam pertinet disciplinae, nulla dissensione violetur, nulla desidia negligatur.",
+      "spanish": "Si la opinión de los hermanos difiere de la tuya en algo que deba tratarse o decidirse, que todo se nos remita con actas, para resolver las dudas y decidir lo que agrade a Dios. A ello dirigimos nuestro cuidado: que la discordia no vulnere la concordia ni la negligencia la disciplina."
+    },
+    {
+      "id": "ep14-30",
+      "label": "XI.2",
+      "latin": "Et te igitur, frater dilectissime, et eos fratres nostros qui de tuis offenduntur excessibus, cum tamen non similis sit omnibus materia querelarum, hortor et moneo, ut quae pie sunt ordinata, salubriterque disposita nulla concertatione turbentur. Nemo quod suum est quaerat, sed quod alterius (Philip. II, 4, 21), sicut Apostolus ait: Unusquisque vestrum proximo suo placeat in bonum ad aedificationem (Rom. XV, 2).",
+      "spanish": "Por eso te exhorto a vos, queridísimo hermano, y a los hermanos ofendidos por tus excesos, aunque sus quejas no sean idénticas, a no perturbar con disputas lo piadosamente ordenado. «Que nadie busque lo suyo, sino lo del otro» (Flp 2,4.21); «que cada uno agrade a su prójimo para su bien y edificación» (Rom 15,2)."
+    },
+    {
+      "id": "ep14-31",
+      "label": "XI.3",
+      "latin": "Nec enim poterit unitatis nostrae firma esse compago, nisi nos ad inseparabilem soliditatem vinculum charitatis astrinxerit: quia sicut in uno corpore multa membra habemus, omnia autem membra non eumdem actum habent; ita multi unum corpus sumus in Christo, singuli autem alter alterius membra (Rom. XII, 5; I Cor. XII, 12). Connexio totius corporis unam sanitatem, unam pulchritudinem facit: et haec connexio totius quidem corporis unanimitatem requirit, sed praecipue exigit concordiam sacerdotum.",
+      "spanish": "Nuestra unión no podrá ser firme si el vínculo de la caridad no nos une sólidamente: como tenemos muchos miembros en un cuerpo, con funciones distintas, también nosotros somos un cuerpo en Cristo, miembros unos de otros. La conexión de todo el cuerpo produce una salud y una belleza únicas; exige unanimidad general y especialmente concordia episcopal."
+    },
+    {
+      "id": "ep14-32",
+      "label": "XI.4",
+      "latin": "Quibus cum dignitas sit communis, non est tamen ordo generalis: quoniam et inter beatissimos apostolos in similitudine honoris fuit quaedam discretio potestatis; et cum omnium par esset electio, uni tamen datum est ut caeteris praeemineret.",
+      "spanish": "Aunque todos comparten dignidad, no existe una organización indiferenciada: entre los apóstoles, pese a la semejanza de honor, hubo distinción de potestad, y aunque todos fueron elegidos por igual, a uno se le concedió preceder a los demás."
+    },
+    {
+      "id": "ep14-33",
+      "label": "XI.5",
+      "latin": "De qua forma episcoporum quoque est orta distinctio, et magna ordinatione provisum est ne omnes sibi omnia vindicarent; sed essent in singulis provinciis singuli, quorum inter fratres haberetur prima sententia; et rursus quidam in majoribus urbibus constituti sollicitudinem susciperent ampliorem, per quos ad unam Petri sedem universalis Ecclesiae cura conflueret, et nihil usquam a suo capite dissideret.",
+      "spanish": "De ese modelo surgió la distinción episcopal: no todos deben reclamar todas las atribuciones. En cada provincia uno tiene precedencia y en las grandes ciudades algunos asumen un cuidado más amplio, por medio de los cuales la atención de la Iglesia universal confluye hacia la sede de Pedro, sin separarse de su cabeza."
+    },
+    {
+      "id": "ep14-34",
+      "label": "XI.6",
+      "latin": "Qui ergo scit se quibusdam esse praepositum, non moleste ferat aliquem sibi esse praelatum; sed obedientiam quam exigit, etiam ipse dependat: et sicut non vult gravis oneris sarcinam ferre, ita non audeat alii importabile pondus imponere (Matth. XXIII, 4). Discipuli enim sumus humilis et mitis magistri, dicentis: Discite a me quia mitis sum et humilis corde; et invenietis requiem animabus vestris. Jugum enim meum suave est, et onus meum leve (Matth. XI, 29).",
+      "spanish": "Quien preside sobre algunos no debe molestarse porque otro presida sobre él, sino ofrecer la obediencia que exige. Y así como no quiere cargar un peso grave, tampoco debe imponer a otros cargas insoportables. Somos discípulos del maestro humilde y manso: «Aprendan de mí, que soy manso y humilde de corazón; encontrarán descanso para sus almas. Mi yugo es suave y mi carga ligera» (Mt 11,29)."
+    },
+    {
+      "id": "ep14-35",
+      "label": "XI.7",
+      "latin": "Quod quomodo experiemur, nisi et illud in observantiam veniat, quod idem Dominus ait? Qui major est vestrum, erit minister vester. Qui autem se exaltaverit, humiliabitur; et qui se humiliat exaltabitur (Matth. XX, 26; Marc. X, 43; Luc. XXII, 26; Luc. XIV, 11).",
+      "spanish": "¿Cómo experimentaremos esto si no observamos también lo que dijo el Señor? «El mayor entre ustedes será su servidor. Quien se ensalce será humillado y quien se humille será ensalzado» (Mt 20,26; Mc 10,43; Lc 22,26; 14,11)."
     }
   ],
   "lexicon": {}
