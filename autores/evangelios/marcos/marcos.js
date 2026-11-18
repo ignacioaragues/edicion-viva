@@ -1,4 +1,4 @@
-/* Marcos 1,1–7,13 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
+/* Marcos 1,1–7,14 · SBLGNT (signos de aparato omitidos), Vulgata Clementina opcional, traducción propia. */
 (() => {
   'use strict';
 
@@ -269,9 +269,12 @@
     ,{"chapter":7,"n":12,"gr":"οὐκέτι ἀφίετε αὐτὸν οὐδὲν ποιῆσαι τῷ πατρὶ ἢ τῇ μητρί,","es":"Entonces ya no le permiten hacer nada por su padre ni por su madre,","la":"","notes":["mc712construction","mc712allow"]}
 
     ,{"chapter":7,"n":13,"gr":"ἀκυροῦντες τὸν λόγον τοῦ θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε.","es":"Así dejan sin efecto la palabra de Dios mediante la tradición que ustedes han transmitido. Y hacen muchas otras cosas semejantes.","la":"","notes":["mc713invalidate","mc713tradition"]}
+    ,{"chapter":7,"n":14,"gr":"Καὶ προσκαλεσάμενος πάλιν τὸν ὄχλον ἔλεγεν αὐτοῖς· Ἀκούσατέ μου πάντες καὶ σύνετε.","es":"Y, convocando otra vez a la multitud, les decía: «Escúchenme todos y comprendan:","la":"Et advocans iterum turbam, dicebat illis: Audite me omnes, et intelligite.","notes":["mc714audience","mc714variants"]}
   ];
 
   const notes = {
+    mc714audience: ["De la controversia a la multitud", "προσκαλεσάμενος, participio aoristo medio, introduce la convocatoria de la multitud después de la controversia con los fariseos y escribas. Los imperativos plurales Ἀκούσατέ y σύνετε exigen escuchar y comprender. Fuente: Michael W. Holmes (ed.), The Greek New Testament: SBL Edition (2010), Mc 7,14, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."],
+    mc714variants: ["Variación textual", "SBLGNT lee πάλιν y los imperativos Ἀκούσατέ / σύνετε; otros testigos presentan πάντa τὸν ὄχλον y ἀκούετε / συνίετε. Cotejo de testimonios: James K. Tauber, https://jtauber.github.io/gothica/proiel/alignment/700.html. Son diferencias de formulación, no de identidad de los interlocutores."],
     mc713invalidate: ["Anular la palabra", "ἀκυροῦντες es participio presente activo de ἀκυρόω («invalidar», «dejar sin efecto»), y continúa la acusación de 7,11–12. El verbo aparece también en Gálatas 3,17 con el sentido de anular una disposición. Véanse Holmes, SBLGNT (2010), Marcos 7,13: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; Ellicott, comentario a Marcos 7,13: https://biblehub.com/mark/7-13.htm."],
     mc713tradition: ["Tradición transmitida", "La proximidad de παραδόσει («tradición», dativo instrumental) y παρεδώκατε («ustedes transmitieron») hace explícita la relación etimológica y retórica entre el legado y su transmisión. La crítica se dirige aquí a la tradición invocada para impedir la ayuda a los padres, sin constituir por sí sola una descripción exhaustiva del judaísmo del siglo I. Fuente textual: Holmes, SBLGNT (2010), Marcos 7,13, https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; W. N. Clarke, comentario a Marcos 7,9–13, https://www.bibliaplus.org/en/commentaries/272/college-press-bible-study-textbook-series/mark/7/9-13."],
     mc712construction: ["Una construcción que se reanuda", "La prótasis ἐὰν εἴπῃ de 7,11 desemboca aquí en οὐκέτι ἀφίετε («ya no permiten»), aunque el λέγετε anterior produce una construcción irregular. La observación es sintáctica, no una corrección del texto. Cambridge Greek Testament for Schools and Colleges, comentario a Marcos 7,11–12: https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php."],
