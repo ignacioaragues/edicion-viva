@@ -28,7 +28,7 @@
 | provinciam | provincia | sustantivo acusativo femenino singular | provincia |
 | constitutis | constituo | participio perfecto pasivo dativo masculino plural | establecidos |
 | Leo | Leo | nombre propio nominativo masculino singular | León |
-| Romae | Roma | nombre propio genitivo locativo singular, valor locativo «en Roma» | de Roma / en Roma |
+| Romae | Roma | nombre propio genitivo singular, complemento de episcopus | de Roma |
 | episcopus | episcopus | sustantivo nominativo masculino singular | obispo |
 
 ## Voz institucional: observación inicial
