@@ -1888,6 +1888,45 @@ window.BRONTE_SCHOLARSHIP_1846={
             "label": "University of Kent, el castigo gótico en Gilbert"
           }
         ]
+      },
+      {
+        "line": 225,
+        "phrase": "Jonah's doom",
+        "kind": "Alusión bíblica",
+        "title": "Jonás y las aguas",
+        "body": "La comparación con Jonás evoca la inmersión y el confinamiento en el mar. La alusión bíblica se incorpora a una visión gótica que Gilbert no consigue dominar.",
+        "sources": [
+          {
+            "label": "Gilbert, texto de 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 243,
+        "phrase": "A woman drowned",
+        "kind": "Perspectivas",
+        "title": "¿Espectro o culpa?",
+        "body": "La mujer ahogada surge en una visión que puede entenderse como aparición sobrenatural o retorno de una culpa reprimida. La crítica ha estudiado el espectro como instrumento de una represalia que Elinor no puede ejecutar.",
+        "sources": [
+          {
+            "label": "Estudio académico, University of Kent",
+            "url": "https://kar.kent.ac.uk/94486/1/346646%20%281%29.pdf"
+          }
+        ]
+      },
+      {
+        "line": 307,
+        "phrase": "Gilbert has reasoned",
+        "kind": "Psicología narrativa",
+        "title": "Reprimir la visión",
+        "body": "Gilbert decide que todo ha sido un sueño y recupera el dominio de su expresión. El narrador señala su falta de piedad hacia Elinor y la utilidad egoísta de ese razonamiento.",
+        "sources": [
+          {
+            "label": "Gilbert, estrofas 40–43",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
       }
     ]
   }
