@@ -1,391 +1,153 @@
-/*
- * Catálogo de Edición Viva.
- * Para incorporar otra edición, agregá una entrada con status: "available"
- * y su URL real. Las obras en consideración no generan enlaces vacíos.
- * Pueden enlazarse tanto páginas alojadas aquí como proyectos externos.
- */
-const collection = [
-  {
-    author: 'Charlotte, Emily y Anne Brontë',
-    period: 'POESÍA VICTORIANA',
-    work: 'Poems by Currer, Ellis, and Acton Bell',
-    translated: 'Poemas · edición original de 1846',
-    language: 'Inglés · Español en curso',
-    status: 'available',
-    url: './autores/bronte/poems-1846/',
-    detail: '61 poemas originales disponibles · traducción y cotejo en curso',
-  },
-  {
-    author: 'Christopher Marlowe',
-    period: 'TEATRO ISABELINO',
-    work: 'Tamburlaine the Great',
-    translated: 'Tamerlán el Grande · partes I y II',
-    language: 'Inglés · Español',
-    status: 'available',
-    url: './autores/marlowe/tamburlaine/',
-    detail: 'Partes I y II completas en primera traducción · revisión filológica y literaria pendiente',
-  },
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5ef">
+  <meta name="description" content="Evangelio según Marcos: edición griego-español, con Vulgata latina opcional y notas filológicas.">
+  <title>Marcos · Evangelio — Edición Viva</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../plauto/aulularia/styles.css">
+  <link rel="stylesheet" href="./marcos.css?v=20261108-paradigms">
+<link rel="stylesheet" href="../../../highlights.css?v=20261112-shared-header">
+</head>
+<body data-reading-id="evangelios-marcos" data-reading-title="Evangelio según Marcos">
+  <a class="skip" href="#texto">Ir al texto</a>
+  <div class="app-shell" id="app-shell">
+    <header class="topbar">
+      <a class="brand" href="../../../index.html" aria-label="Volver a Edición Viva">
+        <span class="brand-mark" aria-hidden="true">E<span>·</span></span>
+        <span class="brand-name"><span>EDICIÓN VIVA</span><small>BIBLIOTECA DE LECTURA</small></span>
+      </a>
+      <div class="topbar-center">Evangelio según Marcos</div>
+      <div class="topbar-actions">
+        <a class="source-button" href="../../../mis-lecturas.html">Mis lecturas</a>
+          <a class="source-button" href="../../../cuenta.html" data-account-link>Iniciar sesión</a>
+        <a class="top-button library-link" href="../../../index.html" aria-label="Volver a la biblioteca">↗</a>
+        <button class="top-button mobile-contents-button" type="button" data-drawer="position" aria-expanded="false">☰ <span>Posición</span></button>
+      </div>
+    </header>
 
-  {
-    author: 'Tito Maccio Plauto',
-    period: 'COMEDIA LATINA',
-    work: 'Aulularia',
-    translated: 'La comedia de la olla',
-    language: 'Latín · Español',
-    status: 'available',
-    url: './autores/plauto/aulularia/',
-    detail: 'En curso',
-  },
-  {
-    author: 'William Shakespeare',
-    period: 'TEATRO ISABELINO',
-    work: 'Coriolanus',
-    translated: 'Coriolano',
-    language: 'Inglés · Español',
-    status: 'available',
-    url: 'https://ignacioaragues.github.io/shakespeare-edicion-viva/',
-    detail: 'En curso',
-  },
-  {
-    author: 'Evangelio según Marcos',
-    period: 'TEXTOS BÍBLICOS',
-    work: 'Κατὰ Μᾶρκον',
-    translated: 'Evangelio según Marcos',
-    language: 'Griego koiné · Español · Latín opcional',
-    status: 'available',
-    url: './autores/evangelios/marcos/',
-    detail: 'En curso · Marcos 1,1–7,8',
-  },
-  {
-    author: 'León I el Grande',
-    period: 'PATRÍSTICA LATINA',
-    work: 'Sermones et epistolae',
-    translated: 'Obras · Sermones y correspondencia',
-    language: 'Latín · Español',
-    status: 'available',
-    url: './autores/leon-i/',
-    detail: 'En curso · Sermo I',
-  },
-  {
-    author: 'Pierre Corneille',
-    period: 'TEATRO CLÁSICO FRANCÉS',
-    work: 'Attila',
-    translated: 'Atila',
-    language: 'Francés · Español',
-    status: 'available',
-    url: './autores/corneille/attila/',
-    detail: 'En curso · I.1, vv. 1–28',
-  },
-  {
-    author: 'Evangelio según Mateo',
-    period: 'TEXTOS BÍBLICOS',
-    work: 'Κατὰ Μαθθαῖον',
-    translated: 'Evangelio según Mateo',
-    language: 'Griego koiné · Español · Latín opcional',
-    status: 'considering',
-    detail: 'Próxima edición bíblica',
-  },
-  {
-    author: 'Evangelio según Lucas',
-    period: 'TEXTOS BÍBLICOS',
-    work: 'Κατὰ Λουκᾶν',
-    translated: 'Evangelio según Lucas',
-    language: 'Griego koiné · Español · Latín opcional',
-    status: 'considering',
-    detail: 'Próxima edición bíblica',
-  },
-  {
-    author: 'Evangelio según Juan',
-    period: 'TEXTOS BÍBLICOS',
-    work: 'Κατὰ Ἰωάννην',
-    translated: 'Evangelio según Juan',
-    language: 'Griego koiné · Español · Latín opcional',
-    status: 'considering',
-    detail: 'Próxima edición bíblica',
-  },
-  {
-    author: 'John Milton',
-    period: 'POESÍA ÉPICA',
-    work: 'Paradise Lost',
-    translated: 'El paraíso perdido',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
-  },
-  {
-    author: 'Christopher Marlowe',
-    period: 'TEATRO ISABELINO',
-    work: 'Doctor Faustus',
-    translated: 'Doctor Fausto',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
-  },
-  {
-    author: 'Walt Whitman',
-    period: 'POESÍA ESTADOUNIDENSE',
-    work: 'Leaves of Grass',
-    translated: 'Hojas de hierba',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración · edición de 1855 como punto de partida',
-  },
-  {
-    author: 'Emily Dickinson',
-    period: 'POESÍA ESTADOUNIDENSE',
-    work: 'Poems',
-    translated: 'Poemas',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración · edición por poemas',
-  },
-  {
-    author: 'Francesco Petrarca',
-    period: 'LÍRICA ITALIANA',
-    work: 'Rerum vulgarium fragmenta',
-    translated: 'Cancionero',
-    language: 'Italiano · Español',
-    status: 'considering',
-    detail: 'En consideración · selección de obra pendiente de confirmar',
-  },
-  {
-    author: 'Geoffrey Chaucer',
-    period: 'LITERATURA MEDIEVAL INGLESA',
-    work: 'The Canterbury Tales',
-    translated: 'Los cuentos de Canterbury',
-    language: 'Inglés medio · Inglés moderno · Español',
-    status: 'considering',
-    detail: 'En consideración · tres versiones seleccionables',
-  },
-  {
-    author: 'Ludovico Ariosto',
-    period: 'POESÍA ÉPICA ITALIANA',
-    work: 'Orlando furioso',
-    translated: 'Orlando furioso',
-    language: 'Italiano · Español',
-    status: 'considering',
-    detail: 'En consideración · 46 cantos',
-  },
-  {
-    author: 'Stanisław Wyspiański',
-    period: 'TEATRO POLACO',
-    work: 'Wesele',
-    translated: 'La boda',
-    language: 'Polaco · Español',
-    status: 'considering',
-    detail: 'En consideración',
-  },
-  {
-    author: 'Victor Hugo',
-    period: 'POESÍA FRANCESA',
-    work: 'La Légende des siècles',
-    translated: 'La leyenda de los siglos',
-    language: 'Francés · Español',
-    status: 'considering',
-    detail: 'En consideración · tres series (1859, 1877, 1883)',
-  },
-  {
-    author: 'Herman Melville',
-    period: 'NOVELA ESTADOUNIDENSE',
-    work: 'The Confidence-Man: His Masquerade',
-    translated: 'El estafador y sus disfraces',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
-  },
-  {
-    author: 'William Shakespeare',
-    period: 'POESÍA ISABELINA',
-    work: 'Shakespeare’s Sonnets',
-    translated: 'Sonetos de Shakespeare',
-    language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración · 154 sonetos',
-  },
-  {
-    author: 'Thomas Malory',
-    period: 'PROSA ARTÚRICA INGLESA',
-    work: "Le Morte d'Arthur",
-    translated: 'La muerte de Arturo',
-    language: 'Inglés del siglo XV · Inglés moderno opcional · Español',
-    status: 'considering',
-    detail: 'En consideración · edición de referencia por determinar',
-  },
-];
+    <aside class="sidebar" id="sidebar" aria-label="Posición y navegación">
+      <div class="sidebar-inner">
+        <button class="panel-toggle" id="nav-panel-toggle" type="button" data-drawer="position" aria-expanded="true" aria-controls="sidebar-content">
+          <span class="panel-toggle-icon" aria-hidden="true">←</span><span>Posición</span>
+        </button>
+        <div class="sidebar-content" id="sidebar-content">
+          <div class="side-overline">MI BIBLIOTECA</div>
+          <a class="work-picker" href="../../../index.html">
+            <span class="work-monogram">M</span>
+            <span class="work-picker-copy"><strong>Κατὰ Μᾶρκον</strong><small>Evangelio según Marcos</small></span>
+            <span class="work-picker-arrow">›</span>
+          </a>
+          <div class="side-overline chapter-label">NAVEGACIÓN</div>
+          <nav class="passage-nav" aria-label="Capítulos y pasajes disponibles"></nav>
+          <div class="sidebar-bottom" id="drawer-position">
+            <div class="side-overline">TU LECTURA</div>
+            <p class="position-current">Capítulo 1 · Comienzo</p>
+            <div class="position-marker"><span>Pasaje disponible</span><strong>1,1–7,5</strong></div>
+            <div class="reading-stats" aria-label="Tiempo de lectura">
+              <p class="reading-stats-heading">TIEMPO DE LECTURA</p>
+              <p><span>Hoy</span><strong id="reading-today">0 min</strong></p>
+              <p><span>Esta sesión</span><strong id="reading-session">0 min</strong></p>
+              <p><span>En esta obra</span><strong id="reading-total">0 min</strong></p>
+              <a href="../../../mis-lecturas.html" class="drawer-link">Ver registro diario y semanal ↗</a>
+            </div>
+            <a href="#texto" class="resume-button" id="return-to-text">Volver al texto <span>→</span></a>
+          </div>
+        </div>
+      </div>
+    </aside>
 
-const list = document.querySelector('#library-list');
-const viewButtons = document.querySelectorAll('[data-library-view]');
+    <main class="main-content" id="texto">
+      <div class="reader-heading">
+        <div class="eyebrow"><span class="eyebrow-square"></span> GRIEGO KOINÉ <span class="separator-dot">·</span> EDICIÓN BILINGÜE</div>
+        <div class="heading-line">
+          <div><h1>Κατὰ Μᾶρκον<span class="title-period">.</span></h1><p class="heading-translation">Evangelio según Marcos</p></div>
+          <div class="act-ornament" aria-hidden="true">I<span>.</span></div>
+        </div>
+        <div class="heading-rule"><div class="chapter-title">CAPÍTULOS PRIMERO A SÉPTIMO</div><div class="heading-place">1,1–7,8 · DEL DESIERTO A LA CONTROVERSIA</div></div>
+        <p class="scene-introduction">Los números abren notas sobre palabras, alusiones y variantes. Las palabras griegas muestran su ficha léxica al tocarlas o pasar el cursor; el texto latino puede activarse como tercera versión.</p>
+      </div>
 
-// La portada comparte las fechas de commits verificadas con el destacado.
-// Las lecturas locales/sincronizadas tienen prioridad cuando son más recientes.
-const updateDates = new Map();
-const readingIds = new Map([
-  ['./autores/bronte/poems-1846/', ['bronte-poems-1846']],
-  ['./autores/marlowe/tamburlaine/', ['marlowe-tamburlaine-1']],
-  ['./autores/plauto/aulularia/', ['plauto-aulularia']],
-  ['https://ignacioaragues.github.io/shakespeare-edicion-viva/', ['shakespeare-coriolanus']],
-  ['./autores/evangelios/marcos/', ['evangelios-marcos']],
-  ['./autores/leon-i/', ['leo-i-']],
-  ['./autores/corneille/attila/', ['corneille-attila']]
-]);
+      <div class="mobile-reader-tools" aria-label="Herramientas del lector">
+        <button type="button" data-drawer="position" aria-expanded="false">Posición</button>
+        <button type="button" data-drawer="characters" aria-expanded="false">Contexto</button>
+        <button type="button" data-drawer="dictionary" aria-expanded="false">Diccionario <span class="mobile-saved-count" aria-hidden="true"></span></button>
+      </div>
 
-function activityTime(item, works) {
-  const updated = Date.parse(updateDates.get(item.url) || '') || 0;
-  const keys = readingIds.get(item.url) || [];
-  const read = Object.entries(works).reduce((latest, [id, record]) => {
-    if (!keys.some(key => key.endsWith('-') ? id.startsWith(key) : id === key)) return latest;
-    const date = Date.parse(record?.lastReadAt || '') || 0;
-    return Math.max(latest, date);
-  }, 0);
-  return Math.max(updated, read);
-}
+      <section class="reader" id="reader" aria-label="Texto griego y traducción española">
+        <div class="reader-controls">
+          <div class="reader-help">Griego y español por versículo · latín opcional</div>
+          <div class="edition-actions">
+            <button id="toggle-vulgate" type="button" aria-pressed="false">Mostrar Vulgata</button>
+            <button id="toggle-layout" type="button" aria-pressed="false">Ver en bloques</button>
+          </div>
+        </div>
+        <div class="reader-columns-heading">
+          <div class="line-gutter-heading">VERS.</div>
+          <div class="column-heading"><span class="lang-code">GR</span><span>Griego</span></div>
+          <div class="column-heading spanish-heading"><span class="lang-code">ES</span><span>Traducción</span></div>
+          <div class="column-heading vulgate-heading"><span class="lang-code">LA</span><span>Vulgata</span></div>
+        </div>
+        <div class="verses" id="verses"></div>
+      </section>
 
-function orderedWorks() {
-  const works = window.EdicionVivaReading?.read()?.works || {};
-  return [...collection].sort((a, b) => {
-    if (isAvailable(a) !== isAvailable(b)) return isAvailable(a) ? -1 : 1;
-    if (!isAvailable(a)) return 0; // Las futuras conservan su orden editorial.
-    return activityTime(b, works) - activityTime(a, works);
-  });
-}
+      <section class="word-panel popover-card" id="word-panel" aria-label="Ficha léxica" hidden>
+        <div class="word-panel-top"><span>GRIEGO · ANÁLISIS</span><button type="button" id="close-word" aria-label="Cerrar ficha">×</button></div>
+        <div class="word-detail"><strong id="word-form"></strong><dl><div><dt>LEMA</dt><dd id="word-lemma"></dd></div><div><dt>FORMA</dt><dd id="word-morphology"></dd></div></dl></div>
+        <p class="word-gloss" id="word-gloss"></p>
+        <a class="word-paradigm" id="word-paradigm" href="#" target="_blank" rel="noopener noreferrer" hidden>Ver conjugación ↗</a>
+        <button class="save-word" id="save-word" type="button">+ Guardar en mi diccionario</button>
+      </section>
+      <section class="note-panel popover-card" id="note-panel" aria-label="Nota filológica" hidden>
+        <div class="word-panel-top"><span>NOTA FILOLÓGICA</span><button type="button" id="close-note" aria-label="Cerrar nota">×</button></div>
+        <h3 id="note-heading"></h3><p id="note-content"></p>
+      </section>
 
-function isAvailable(item) {
-  return item.status === 'available' && Boolean(item.url);
-}
+      <div class="endnote"><span>Continuación en preparación</span><span>El relato continúa en Marcos 7,3.</span></div>
+      <footer class="source">
+        <p>Texto griego: Michael W. Holmes (ed.), <i>The Greek New Testament: SBL Edition</i> (2010), <a href="https://sblgnt.com/" target="_blank" rel="noopener noreferrer">SBLGNT</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Se omiten aquí los signos de referencia al aparato crítico; sus variantes significativas se describen en notas.</p>
+        <p>Latín: <i>Vulgata Clementina</i>, <a href="https://hermeticcloud.com/library/vulgate/mark/" target="_blank" rel="noopener noreferrer">Clementine Vulgate Project</a> (texto de dominio público). Traducción española, notas y fichas léxicas originales de Edición Viva. Las variantes entre el griego y el latín no se han armonizado.</p>
+        <p>Lematización y análisis morfológico: James K. Tauber (ed.), <a href="https://github.com/morphgnt/sblgnt" target="_blank" rel="noopener noreferrer"><i>MorphGNT: SBLGNT Edition</i>, v. 6.12 (2017)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a> (<a href="https://doi.org/10.5281/zenodo.376200" target="_blank" rel="noopener noreferrer">DOI</a>). Glosas españolas de esta edición; revisión contextual en curso.</p>
+      </footer>
+    </main>
 
-function titleOf(item) {
-  // En los evangelios, el nombre reconocible en español encabeza la ficha.
-  return item.period === 'TEXTOS BÍBLICOS' ? item.translated : item.work;
-}
+    <aside class="character-rail" id="character-rail" aria-label="Contextos y diccionario">
+      <div class="rail-sticky">
+        <button class="panel-toggle" id="characters-panel-toggle" type="button" data-drawer="characters" aria-expanded="true" aria-controls="characters-panel-content"><span class="panel-toggle-icon" aria-hidden="true">→</span><span>Contexto</span></button>
+        <div class="rail-content" id="characters-panel-content">
+          <div class="side-overline">PERSONAS Y LUGARES</div>
+          <p class="rail-lead">El comienzo del relato: una voz en el desierto.</p>
+          <div id="drawer-characters">
+            <div class="character-card static-character"><span class="character-initial">J</span><span class="character-card-copy"><strong class="character-card-name">Juan</strong><span class="character-card-sub">Predicador y bautizador en el Jordán.</span></span></div>
+            <div class="character-card static-character"><span class="character-initial">J</span><span class="character-card-copy"><strong class="character-card-name">Jesús</strong><span class="character-card-sub">Llega de Nazaret, en Galilea.</span></span></div>
+            <div class="character-card static-character"><span class="character-initial color-olive">D</span><span class="character-card-copy"><strong class="character-card-name">Desierto</strong><span class="character-card-sub">Espacio de anuncio, prueba y transición.</span></span></div>
+          </div>
+          <button type="button" class="all-characters-button" data-drawer="dictionary" aria-expanded="false">Mi diccionario <span><span id="saved-count">0</span> →</span></button>
+          <div class="rail-hint"><span class="rail-hint-icon">i</span><span>Tocá una palabra griega o pasá el cursor para consultar su ficha léxica.</span></div>
+        </div>
+      </div>
+    </aside>
+  </div>
 
-function subtitleOf(item) {
-  const subtitle = item.period === 'TEXTOS BÍBLICOS' ? item.work : item.translated;
-  return subtitle && subtitle !== titleOf(item) ? subtitle : '';
-}
-
-function authorGroupOf(item) {
-  // El catálogo agrupa los evangelios como corpus, sin atribuirles una autoría segura.
-  return item.period === 'TEXTOS BÍBLICOS' ? 'Evangelios' : item.author;
-}
-
-function makeElement(tag, className, value) {
-  const element = document.createElement(tag);
-  if (className) element.className = className;
-  if (value !== undefined) element.textContent = value;
-  return element;
-}
-
-function makeNumber(index) {
-  return makeElement('span', 'library-number', String(index + 1).padStart(2, '0'));
-}
-
-function renderWorks() {
-  orderedWorks().forEach((item, index) => {
-    const available = isAvailable(item);
-    const row = document.createElement(available ? 'a' : 'div');
-    row.className = 'library-row ' + (available ? 'library-row-active' : 'library-row-future');
-    if (available) {
-      row.href = item.url;
-      row.setAttribute('aria-label', `${titleOf(item)}. Entrar en la edición`);
-    }
-
-    const identity = makeElement('div', 'library-identity');
-    const overline = makeElement('span', 'library-overline', item.period);
-    const title = makeElement('h3', '', titleOf(item));
-    const byline = makeElement('p', 'library-byline');
-    if (item.period !== 'TEXTOS BÍBLICOS') {
-      byline.append(makeElement('span', 'library-work-author', item.author));
-    }
-    if (subtitleOf(item)) {
-      if (byline.childNodes.length) byline.append(document.createTextNode(' · '));
-      byline.append(makeElement('em', 'library-work-translation', subtitleOf(item)));
-    }
-    identity.append(overline, title, byline);
-
-    const meta = makeElement('div', 'library-meta');
-    meta.append(
-      makeElement('span', 'library-lang', item.language),
-      makeElement('span', 'library-status' + (available ? ' is-live' : ''), item.detail)
-    );
-    const arrow = makeElement('span', 'library-arrow', available ? '→' : '—');
-    arrow.setAttribute('aria-hidden', 'true');
-    row.append(makeNumber(index), identity, meta, arrow);
-    list.append(row);
-  });
-}
-
-function renderAuthors() {
-  const groups = new Map();
-  collection.forEach(item => {
-    const name = authorGroupOf(item);
-    if (!groups.has(name)) groups.set(name, []);
-    groups.get(name).push(item);
-  });
-
-  const sorted = [...groups].sort(([a], [b]) => a.localeCompare(b, 'es', { sensitivity: 'base' }));
-  sorted.forEach(([author, works], index) => {
-    const row = makeElement('div', 'library-author-row');
-    const identity = makeElement('div', 'library-identity library-author-identity');
-    identity.append(
-      makeElement('span', 'library-overline', works.length === 1 ? '1 OBRA EN CATÁLOGO' : `${works.length} OBRAS EN CATÁLOGO`),
-      makeElement('h3', '', author)
-    );
-    const availableCount = works.filter(isAvailable).length;
-    const availableLabel = availableCount === 1 ? '1 edición disponible' : `${availableCount} ediciones disponibles`;
-    identity.append(makeElement('p', 'library-author-count', availableLabel));
-
-    const workList = makeElement('div', 'library-author-works');
-    works.forEach(item => {
-      const available = isAvailable(item);
-      const work = makeElement(available ? 'a' : 'div',
-        'library-author-work ' + (available ? 'is-available' : 'is-future'));
-      if (available) {
-        work.href = item.url;
-        work.setAttribute('aria-label', `${titleOf(item)}. Entrar en la edición`);
-      }
-      const main = makeElement('span', 'library-author-work-main');
-      main.append(makeElement('span', 'library-author-work-title', titleOf(item)));
-      if (subtitleOf(item)) main.append(makeElement('span', 'library-author-work-subtitle', subtitleOf(item)));
-      const detail = makeElement('span', 'library-author-work-detail',
-        `${item.language} · ${available ? 'Edición disponible' : 'En consideración'}`);
-      const arrow = makeElement('span', 'library-author-work-arrow', available ? '→' : '—');
-      arrow.setAttribute('aria-hidden', 'true');
-      work.append(main, detail, arrow);
-      workList.append(work);
-    });
-
-    row.append(makeNumber(index), identity, workList);
-    list.append(row);
-  });
-}
-
-function setLibraryView(view) {
-  if (!list) return;
-  const selected = view === 'authors' ? 'authors' : 'works';
-  viewButtons.forEach(button => {
-    const active = button.dataset.libraryView === selected;
-    button.setAttribute('aria-pressed', String(active));
-  });
-  list.dataset.view = selected;
-  list.setAttribute('aria-label', selected === 'works' ? 'Catálogo de obras' : 'Catálogo por autores');
-  list.replaceChildren();
-  if (selected === 'authors') renderAuthors();
-  else renderWorks();
-}
-
-viewButtons.forEach(button => {
-  button.addEventListener('click', () => setLibraryView(button.dataset.libraryView));
-});
-function refreshWorks() {
-  if (list?.dataset.view === 'works') setLibraryView('works');
-}
-window.addEventListener('edicion-viva:updates-loaded', event => {
-  for (const entry of event.detail?.entries || []) {
-    if (entry?.url && Number.isFinite(Date.parse(entry.date))) {
-      updateDates.set(entry.url, entry.date);
-    }
-  }
-  refreshWorks();
-});
-window.addEventListener('edicion-viva:reading-updated', refreshWorks);
-setLibraryView('works');
+  <aside class="side-drawer" id="side-drawer" aria-label="Diccionario personal" hidden>
+    <div class="drawer-heading"><h2>Mi diccionario · Griego</h2><button type="button" id="close-drawer" aria-label="Cerrar diccionario">×</button></div>
+    <div class="drawer-content" id="drawer-dictionary">
+      <p class="storage-note">Las palabras se guardan en este navegador. Con tu cuenta, también se sincronizan entre dispositivos.</p>
+      <div class="dictionary-tools"><button type="button" id="start-review">Repasar</button><button type="button" id="export-dictionary">Exportar</button><button type="button" id="import-trigger">Importar</button><input type="file" id="import-dictionary" accept=".json,application/json" hidden></div>
+      <p class="dictionary-feedback" id="dictionary-feedback" role="status"></p>
+      <div class="dictionary-list" id="dictionary-list"></div>
+      <div id="flashcard" class="flashcard" hidden><p id="flash-progress" class="flash-progress"></p><div id="flash-form" class="flash-form"></div><div class="flash-answer" id="flash-answer" hidden><strong id="flash-lemma"></strong><p id="flash-morph"></p></div><div class="flash-actions"><button id="reveal-card" type="button">Revelar</button><button id="next-card" type="button" hidden>Siguiente</button><button id="end-review" type="button">Cerrar repaso</button></div></div>
+    </div>
+  </aside>
+  <script src="./morphology.js?v=20261118-mk708" defer></script>
+  <script src="./marcos.js?v=20261118-mk708" defer></script>
+  <script src="../../../reading-layout.js?v=20261115-font-shared" defer></script>
+  <script src="../../../reading-tracker.js" defer></script>
+  <script type="module" src="../../../account-sync.js?v=2"></script>
+<script defer src="../../../highlights.js?v=2"></script>
+</body>
+</html>
