@@ -1,5 +1,7 @@
 # Edición Viva
 
+**Política editorial general:** [publicar para leer, revisar para perfeccionar](./EDITORIAL-POLICY.md). Se aplica a todas las obras y proyectos, actuales y futuros.
+
 Biblioteca de ediciones bilingües y anotadas de clásicos literarios. Una lectura del original con traducción de apoyo y notas filológicas consultables.
 
 ## Estado
