@@ -263,21 +263,45 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Full first-pass Latin/Spanish translation, two chapters and eight units; compared with two public Latin transcriptions and PL54 apparatus. 49 lexical entries only; contextual token morphology and printed critical collation pending. Browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 12,
+      "section": "Sermo XII De Jejunio decimi mensis I, chapters I–II of IV",
+      "paragraphs": 11,
+      "translation": "partial original Spanish translation, chapters I–II",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xii/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 11,
+      "editorial_caveat": "Source PL54 Wikisource and its apparatus consulted; chapters III–IV not translated. No word-by-word morphology yet. Transcription variants and biblical references need printed review."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 12,
-    "section": "caput I"
+    "section": "caput III",
+    "incipit": "Cum ergo Deus bonos nos esse velit"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-18: Sermo LXXXIV complete first-pass bilingual edition, 2 chapters, 8 units, 288 Latin tokens, 49 selected lexical forms, 8 notes; full contextual morphology and printed collation pending.",
+  "last_edit": "2026-11-18: Sermo XII chapters I-II bilingual reader published, 11 aligned units and 11 rhetorical notes. Chapters III-IV and token morphology pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
     "number": 12,
-    "section": "caput I",
-    "status": "not_started"
+    "section": "caput III",
+    "status": "partial",
+    "completed_chapters": [
+      1,
+      2
+    ],
+    "pending_chapters": [
+      3,
+      4
+    ],
+    "aligned_units": 11
   },
   "priority_queue": [
     {
