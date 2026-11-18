@@ -29,7 +29,7 @@ La división de 18 unidades es editorial y no debe confundirse con los siete cap
 - **IV, 82.9–82.11:** comprobar la lectura *Caiphae*, la puntuación de *pascendis ejus quem diligeres, ovibus* y las referencias a Mt 14, Mt 26 y Jn 21. Las referencias parentéticas del testimonio auxiliar no deben insertarse como palabras del sermón.
 - **V, 82.12:** *Romanis arcibus* y *quo* (valor locativo/direccional); verificar la puntuación antes de decidir nota sintáctica definitiva.
 - **VI, 82.14:** *in hunc eum usque torrentem suae praecipitavit insaniae* exige distinguir el acusativo *eum* (objeto) del acusativo *torrentem* regido por *in*. **82.15:** *ex multarum honore gemmarum conserto uno diademate* requiere control de la relación entre *ex*, *honore* y *diademate*.
-- **VII, 82.17:** *nos ... adjuvandos* es construcción acusativa dependiente de *credimus atque confidimus* con *esse* sobreentendido; evitar glosa que haga de *adjuvandos* un infinitivo. Revisar también el valor de *probavere* como perfecto sincopado.
+- **VII, 82.17:** *nos ... adjuvandos* es construcción acusativa dependiente de *credimus atque confidimus* con *esse* sobreentendido; evitar glosa que haga de *adjuvandos* un infinitivo. *probavere* es perfecto indicativo activo de tercera persona plural con terminación alternativa *-ere* por *-erunt* (*probaverunt*): no es perfecto sincopado. *nos experti sumus / nostri probavere majores* invoca experiencia propia y tradición ancestral.
 - **VII, 82.18:** distinguir mayúsculas editoriales de *Divinitas* y variantes gráficas de *Jesum*.
 
 ## Notas para la voz dramática (fundadas en el texto)
@@ -44,3 +44,9 @@ La división de 18 unidades es editorial y no debe confundirse con los siete cap
 - Propagar cada enmienda comprobada simultáneamente al borrador latino, traducción, 913 fichas y lector, sin romper el orden token–ficha.
 - Probar en navegador de escritorio y móvil: apertura de fichas, paradigma, diccionario compartido, resaltados, contador y navegación.
 - Solo después cambiar `source_collation_complete`, `reader_published` y el índice de obras terminadas.
+
+## Segunda tentativa de cotejo impreso · 18-XI-2026
+
+- El PDF de Documenta Catholica Omnia identificado arriba devolvió 502 Bad Gateway; tampoco se pudo resolver el dominio desde el entorno local. No se pudo examinar el facsímil ni su aparato en esta tentativa.
+- No se cambia el estado editorial ni se finge cotejo: las 18 unidades y 913 fichas siguen siendo primera pasada, con lector provisional fuera del catálogo definitivo.
+- Corrección filológica: *probavere* presenta la desinencia alternativa -ere de perfecto plural por -erunt, no síncopa; la ficha de 82.17 ya lo clasificaba correctamente.
