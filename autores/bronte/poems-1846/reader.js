@@ -33,6 +33,18 @@ document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>s
 $('#toggle-index').addEventListener('click',()=>{const opened=document.body.classList.toggle('nav-open');$('#toggle-index').setAttribute('aria-expanded',String(opened));if(opened)requestAnimationFrame(centerSelectedPoem)});
 /* Se anotan solo referencias y dificultades relevantes, no cada palabra inglesa. */
 const notes=window.BRONTE_READING_NOTES_1846||{};
+const scholarship=window.BRONTE_SCHOLARSHIP_1846||{};
+for(const [poemNo,dossier] of Object.entries(scholarship)){
+  if(!notes[poemNo])notes[poemNo]={};
+  for(const item of dossier.notes||[]){
+    if(!item.phrase||notes[poemNo][item.line])continue;
+    const primary=item.sources?.[0];
+    notes[poemNo][item.line]={
+      phrase:item.phrase,label:item.title,explanation:item.body,
+      url:primary?.url||null,linkText:primary?.label||"Ver fuente"
+    };
+  }
+}
 const commentaries=window.BRONTE_COMMENTARIES_1846||[];
 const popup=$('#word-popup');
 function showNote(note,node){
@@ -67,6 +79,29 @@ function renderCommentary(p){
    const a=document.createElement('a');a.href=item.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=item.label+' ↗';links.append(a);
  }
 }
+function renderScholarship(p){
+ const panel=$('#poem-scholarship'),intro=$('#scholarship-intro'),list=$('#scholarship-notes');
+ const dossier=scholarship[p.n];
+ list.replaceChildren();
+ if(!dossier?.notes?.length){panel.hidden=true;return;}
+ panel.hidden=false;
+ intro.textContent=dossier.intro||'Notas de lectura y fuentes contrastadas.';
+ for(const item of dossier.notes){
+   const li=document.createElement('li');li.className='scholarly-note';li.id='bronte-p'+p.n+'-note-'+item.line;
+   const head=document.createElement('div');head.className='scholarly-note-head';
+   const verse=document.createElement('a');verse.className='scholarly-note-line';verse.href='#bronte-p'+p.n+'-v'+item.line;verse.textContent='v. '+item.line+' ↑';verse.title='Ir al verso '+item.line;
+   const kind=document.createElement('span');kind.className='scholarly-note-kind';kind.textContent=item.kind||'Nota';
+   const title=document.createElement('h3');title.textContent=item.title;
+   const body=document.createElement('p');body.textContent=item.body;
+   const sources=document.createElement('div');sources.className='scholarly-sources';
+   for(const source of item.sources||[]){
+     if(!source.url||!source.label)continue;
+     const a=document.createElement('a');a.href=source.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=source.label+' ↗';
+     sources.append(a);
+   }
+   head.append(verse,kind);li.append(head,title,body,sources);list.append(li);
+ }
+}
 function renderPoem(p){
  $('#overview').hidden=true;$('#poem-view').hidden=false;
  document.title=p.title+' · Brontë 1846 — Edición Viva';
@@ -94,8 +129,9 @@ function renderPoem(p){
    root.append(block);
  }
  renderCommentary(p);
+ renderScholarship(p);
  const note=$('#editorial-note');
- note.textContent='Transcripción inicial: '+(p.sourceType==='wikisource-1846'?'Wikisource, testimonio de 1846.':'GITenberg / Project Gutenberg, comparada con el índice del volumen de 1846.')+' El cotejo de variantes gráficas, puntuación y lecturas con el ejemplar original está pendiente. La traducción española se publicará por poemas completos.';
+ note.textContent='Transcripción inicial: '+(p.sourceType==='wikisource-1846'?'Wikisource, testimonio de 1846.':'GITenberg / Project Gutenberg, comparada con el índice del volumen de 1846.')+' El cotejo de variantes gráficas, puntuación y lecturas con el ejemplar original está pendiente. Traducción española completa para los 61 poemas; aparato crítico en elaboración por tandas, con fuentes identificadas.';
  const prev=$('#poem-prev'),next=$('#poem-next');
  prev.href=link(p.n>1?p.n-1:0);
  prev.innerHTML='<small>← '+(p.n>1?'ANTERIOR':'VOLVER AL ÍNDICE')+'</small>'+esc(p.n>1?poems[p.n-2].title:'Los 61 poemas');
