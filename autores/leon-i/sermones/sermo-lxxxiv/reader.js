@@ -1,4 +1,4 @@
-/* Lector del Sermón XII de León. Conserva la estructura .verse de Edición Viva,
+/* Lector del Sermón LXXXIVI de León. Conserva la estructura .verse de Edición Viva,
    compatible con resaltados, estadísticas de lectura y vista en bloques. */
 (() => {
   "use strict";
