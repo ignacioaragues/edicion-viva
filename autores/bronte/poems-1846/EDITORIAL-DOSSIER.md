@@ -14,7 +14,7 @@ Se han tomado las transcripciones base de 57 poemas coincidentes del archivo Gut
 - **Índice:** 61 de 61 en orden original.
 - **Texto inglés:** primera transcripción de 61 de 61, publicada y legible; cotejo diplomático exhaustivo pendiente.
 - **Traducción española:** 61/61 poemas y 3.795/3.795 líneas alineadas, primera versión íntegra publicada. Revisión estilística y cotejo textual pendientes.
-- **Notas filológicas:** 61 notas de investigación con referencias y versos concretos en los poemas 1–10, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
+- **Notas filológicas:** 95 notas de investigación con referencias y versos concretos en los poemas 1–15, además de fichas puntuales preexistentes. Se distinguen fuentes, interpretaciones editoriales y lecturas académicas; ampliación por tandas pendiente.
 - **Navegación y lectura:** índice filtrable sin alterar orden original, páginas por poema, anterior/siguiente, diseño adaptable, temporizador común, resaltados compatibles.
 
 ## Criterios editoriales
@@ -45,3 +45,12 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **10, Remembrance (Emily):** ocho notas sobre su procedencia de Gondal, *R. Alcona to J. Brenzaida*, los quince inviernos, el olvido, el deseo de morir y la supervivencia. Referencias: Magdalena Pypeć, Janet Gezari, University of Toronto y EBSCO.
 
 **Balance de las tandas 1–2:** 61 notas (28 + 33) repartidas entre 10 poemas. Todas están ancladas a versos del inglés y tienen bibliografía navegable. Se conservan las 61 traducciones alineadas. Las hipótesis críticas están señaladas como tales y no sustituyen al testimonio impreso de 1846. El cotejo textual definitivo sigue pendiente.
+
+## Aparato académico: tercera tanda (poemas 11–15)
+- **11, Vanitas Vanitatum, Omnia Vanitas (Anne):** 7 notas. Paralelos precisos con Eclesiastés 1:2–8; tensión entre vanidad, gozo de los dones y moral de Eclesiastés 2:24 y 12:13; cronología manuscrita de 1845 y discusión de Edward Chitham.
+- **12, The Wood (Charlotte):** 8 notas. Exilio político y geografía del viaje por Bretaña y Normandía; marco de la secuencia *The Wife's Will*, *The Wood*, *Regret*, *Apostasy*, identificado por Poetry Foundation; voluntad y acción femenina.
+- **13, A Death Scene (Emily):** 7 notas. Debate sobre su posible asociación con Gondal, Edward, Arden, mar de la muerte, incertidumbre religiosa y descripción corporal del final; EBSCO y texto de 1846.
+- **14, Song (Emily):** 6 notas. Gondal y personajes posibles, cotejo de grafías del manuscrito con 1846, recepción de «changed and careless», memoria y paisaje. Fuentes: trabajo académico de Lima, EBSCO y estudio de naturaleza y libertad en la poesía de Emily.
+- **15, The Penitent (Anne):** 6 notas. Manuscrito *Fragment, 1845*, intertextos Mateo 5:4 y Lucas 15:7, arrepentimiento y conjetura no demostrada sobre Branwell.
+
+**Balance de la tercera tanda:** 34 notas (7 + 8 + 7 + 6 + 6). **Total acumulado:** 95 notas en 15 poemas. Se señalan explícitamente inferencias, testimonios documentales y posturas críticas divergentes. Ninguna nota modifica el texto inglés ni la traducción española.
