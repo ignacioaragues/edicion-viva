@@ -252,15 +252,15 @@
   "next": {
     "group": "epistolae",
     "number": 167,
-    "section": "consultation II"
+    "section": "consultation VIII"
   },
   "priority": "Completed first-pass special priorities 82, Ep. 10, 14, 28 and Sermo XI. New priority order: Epistolae 113, 159, 166, 167, then Sermo 84; resume ordinary sequence at Sermo XII afterward.",
-  "last_edit": "2026-11-18: Epistola CLXVII extended to complete proem and first response (12 aligned units), seven new voice notes. Remaining consultationes II–XIX. Printed collation and token morphology pending.",
+  "last_edit": "2026-11-18: Epistola CLXVII extended through consultation VII, 25 aligned units; consultations VIII–XIX pending. First-pass lexicon 50 selected forms; full morphology and printed collation pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "epistolae",
     "number": 167,
-    "section": "consultation II",
+    "section": "consultation VIII",
     "status": "partial"
   },
   "priority_queue": [
@@ -459,12 +459,12 @@
       "source_collation_complete": false,
       "morphology_complete": false,
       "complete_work": false,
-      "aligned_units": 12,
-      "lexical_coverage": "28 selected first-pass surface-form entries; full contextual token analysis pending",
+      "aligned_units": 25,
+      "lexical_coverage": "50 selected surface-form lexical entries; contextual token morphology incomplete",
       "reader_path": "autores/leon-i/epistolae/epistola-clxvii/index.html",
-      "last_completed": "Proem complete plus response to consultation I (12 aligned units)",
-      "next": "Consultation II (presbyters/deacons and penance), then III–XIX",
-      "editorial_caveat": "Proem and first response published; remaining 18 consultations untranslated. Proem checked against monumenta excerpt and MGH Pseudoisidor witness; significant textual variants require printed Ballerini–Migne collation. Morphological token coverage incomplete; no browser runtime test."
+      "last_completed": "Proem and consultation responses I–VII; 25 aligned units",
+      "next": "Consultation VIII, then IX–XIX",
+      "editorial_caveat": "Consultations II–VII and their headings checked against PL54 1203–1205 transcription and selected printed apparatus variants; full critical collation, contextual morphology and browser QA pending. Consultations VIII–XIX untranslated."
     },
     {
       "group": "sermones",
