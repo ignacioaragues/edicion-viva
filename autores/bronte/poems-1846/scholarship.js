@@ -404,5 +404,258 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "6": {
+    "intro": "Diálogo entre un pensador escéptico y una voz visionaria. El poema opone la búsqueda de certezas a una visión de unidad que, paradójicamente, no elimina el deseo de olvido.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "Enough of thought",
+        "kind": "Voces y forma",
+        "title": "La voz que interpela",
+        "body": "El inicio no pertenece al filósofo, sino a quien lo invita a abandonar su aislamiento; luego el filósofo responde. Un estudio crítico interpreta ambas voces como figuras de intuición y pensamiento, quizá también como aspectos divididos de un yo.",
+        "sources": [
+          {
+            "label": "Investigación sobre The Philosopher: diálogo y estructura",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "phrase": "Without identity",
+        "kind": "Filosofía",
+        "title": "Dormir sin identidad",
+        "body": "La esperanza del personaje no es una vida celestial mejor, sino una cesación de su individualidad. La crítica distingue este anhelo de aniquilación de la unión mística con Dios: es una posición de la voz dramática, no necesariamente la de Emily.",
+        "sources": [
+          {
+            "label": "Estudio crítico sobre trascendencia y aniquilación",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "Three gods",
+        "kind": "Interpretaciones alternativas",
+        "title": "Tres dioses interiores",
+        "body": "El conflicto de tres dioses ha sido explicado tanto como reivindicación de autonomía como forma de fractura interior. El análisis consultado cuestiona que la primera lectura pueda separarse del anhelo del personaje de olvidar su identidad.",
+        "sources": [
+          {
+            "label": "Discusión de la interpretación de Ghnassia",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "phrase": "A golden stream",
+        "kind": "Simbolismo",
+        "title": "Tres ríos y una visión de unidad",
+        "body": "Los ríos dorado, sanguíneo y azul convergen y, por un instante, iluminan un mar oscuro. Una lectura los relaciona con los tres poderes enfrentados; otras proponen analogías neoplatónicas o alquímicas. Ninguna equivalencia está fijada por el texto.",
+        "sources": [
+          {
+            "label": "Análisis de colores y tradiciones simbólicas",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          }
+        ]
+      },
+      {
+        "line": 41,
+        "phrase": "that spirit, seer",
+        "kind": "Forma poética",
+        "title": "La visión del vidente",
+        "body": "El filósofo revela que busca el espíritu que el otro personaje acaba de contemplar. La investigación observa que el filósofo adopta momentáneamente la forma rítmica de su interlocutor: se aproxima a la visión, pero no logra conservarla.",
+        "sources": [
+          {
+            "label": "Estudio sobre las dos voces y su prosodia",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "phrase": "let me die",
+        "kind": "Debate crítico",
+        "title": "Un final sin reconciliación",
+        "body": "Pese a la visión unificadora, el filósofo vuelve al deseo de muerte y reposo. Para una lectura crítica, el poema deja al lector entre fe y escepticismo sin una demostración final del mundo trascendente.",
+        "sources": [
+          {
+            "label": "Análisis del cierre de The Philosopher",
+            "url": "https://www.academia.edu/110035901/Silent_in_the_light_and_speaking_in_the_dark_Journeys_of_the_self_in_Emily_Bront%C3%AB_s_poetry"
+          },
+          {
+            "label": "Janet Gezari, Last Things, perspectiva sobre los finales",
+            "url": "https://blog.oup.com/2008/05/last_things/"
+          }
+        ]
+      }
+    ]
+  },
+  "7": {
+    "intro": "La naturaleza funciona como un refugio engañoso: lo que parece verano es en realidad invierno. El cambio de percepción se convierte en límite de la imaginación y permite también una lectura de la restricción social.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "sheltered bower",
+        "kind": "Lectura textual",
+        "title": "Un refugio provisional",
+        "body": "La arboleda se presenta como un lugar protector que favorece el recuerdo y el ensueño. Su efecto queda en cuestión cuando se revela que la claridad no procede del verano, sino de un día de helada.",
+        "sources": [
+          {
+            "label": "The Arbour, texto y fecha aproximada",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Arbour"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "phrase": "My winged soul",
+        "kind": "Imagen y libertad",
+        "title": "El vuelo del alma",
+        "body": "El cuerpo permanece bajo los árboles, pero el alma imaginada con alas viaja al pasado y al futuro. Este vuelo entra en tensión con el último verso, donde la hablante se confiesa encadenada.",
+        "sources": [
+          {
+            "label": "Estudio sobre naturaleza y libertad en la poesía de Anne",
+            "url": "https://westminsterresearch.westminster.ac.uk/download/5a4e4d43cfac26d84249ed7259a013184a4a3f330dc6a86d13e7be5efcecf23d/112823/Politics%2C%20Legal%20Concerns%2C%20and%20Reforms.pdf"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "phrase": "summer's very breath",
+        "kind": "Crítica literaria",
+        "title": "El engaño perceptivo",
+        "body": "Isobel Armstrong ha destacado el giro por el cual lo que parecía el aliento del verano resulta ser un paisaje de nieve. Las estrofas anteriores no desaparecen: deben releerse a partir del descubrimiento.",
+        "sources": [
+          {
+            "label": "Discusión de Armstrong sobre The Arbour",
+            "url": "https://www.yumpu.com/en/document/view/5873562/emily-pfeiffer-and-victorian-womens-religious-poetry/36"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "phrase": "the snow is on the ground",
+        "kind": "Estructura",
+        "title": "La corrección de la mirada",
+        "body": "La llamada a mirar interrumpe el ensueño y descubre la nieve en el mismo lugar que parecía estival. El poema transforma el significado del paisaje sin cambiar de escenario.",
+        "sources": [
+          {
+            "label": "Edición de The Arbour, The Complete Poems of Anne Brontë",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Arbour"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "phrase": "FROST",
+        "kind": "Historia textual",
+        "title": "La helada explica el cielo azul",
+        "body": "La claridad del cielo se debe al FRÍO, no al calor. Anne insiste en FROST y WINTER'S para deshacer la ilusión inicial. La fecha de composición exacta no está establecida; una edición la sitúa aproximadamente en 1845.",
+        "sources": [
+          {
+            "label": "Texto y fecha aproximada, edición de Anne",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/The_Arbour"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "phrase": "winter's chill",
+        "kind": "Perspectivas",
+        "title": "El invierno exterior y el interior",
+        "body": "El frío es tanto paisaje como estado anímico: impide al espíritu imaginar el futuro. Una lectura social añade que la naturaleza en Anne también puede representar deseos de autonomía y restricciones que no son puramente personales.",
+        "sources": [
+          {
+            "label": "Estudio sobre política, naturaleza y libertad en las Brontë",
+            "url": "https://westminsterresearch.westminster.ac.uk/download/5a4e4d43cfac26d84249ed7259a013184a4a3f330dc6a86d13e7be5efcecf23d/112823/Politics%2C%20Legal%20Concerns%2C%20and%20Reforms.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "8": {
+    "intro": "El poema de Anne opone la belleza del lugar donde está a la pertenencia sentida hacia un paisaje más austero. La crítica ha estudiado su nostalgia, sus recursos sonoros y hasta su reutilización creativa en lecturas contemporáneas.",
+    "notes": [
+      {
+        "line": 2,
+        "phrase": "The woodland ivy",
+        "kind": "Lectura textual",
+        "title": "La belleza que no basta",
+        "body": "El sitio presente resulta hermoso: la hiedra centellea bajo el sol. El rechazo posterior de ese paisaje no implica que sea objetivamente feo, sino que carece del vínculo afectivo del hogar.",
+        "sources": [
+          {
+            "label": "Home en el volumen de 1846",
+            "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "phrase": "wind of winter",
+        "kind": "Estilística académica",
+        "title": "El sonido del viento",
+        "body": "Kieran O'Halloran analiza consonantes sibilantes y repeticiones fonéticas que evocan el viento del poema. Es un detalle importante para la traducción literaria, aunque los efectos fónicos del inglés no sean reproducibles de forma idéntica.",
+        "sources": [
+          {
+            "label": "Kieran O'Halloran, Posthumanist stylistics (2023)",
+            "url": "https://journals.sagepub.com/doi/10.1177/09639470221140693"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "phrase": "my barren hills",
+        "kind": "Contexto",
+        "title": "Las colinas y el sentido de pertenencia",
+        "body": "La hablante prefiere sus colinas estériles a un jardín bien diseñado. La crítica de la poesía doméstica victoriana lee aquí nostalgia de un paisaje y de lazos familiares, más que idealización de una vivienda concreta.",
+        "sources": [
+          {
+            "label": "A Companion to Victorian Poetry, discusión de Home",
+            "url": "https://www.academia.edu/39054343/A_C_O_M_P_A_N_I_O_N_T_O_VICTORIAN_POETRY"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "phrase": "a wilderness of heath",
+        "kind": "Imagen sonora",
+        "title": "El páramo responde",
+        "body": "Los árboles escasos apenas producen sonido, pero los brezos responden al viento. Así, un paisaje aparentemente vacío adquiere voz. O'Halloran analiza la organización sonora y espacial de estos versos.",
+        "sources": [
+          {
+            "label": "O'Halloran, análisis del paisaje sonoro de Home",
+            "url": "https://journals.sagepub.com/doi/10.1177/09639470221140693"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "phrase": "that little spot",
+        "kind": "Interpretación comparativa",
+        "title": "Jardín ornamental frente a rincón descuidado",
+        "body": "La hablante elige un terreno pequeño, cercado por muros grises y cubierto de malezas, antes que una finca elegante. La oposición cuestiona que orden, riqueza y amplitud equivalgan a hogar.",
+        "sources": [
+          {
+            "label": "Estudio sobre poesía doméstica victoriana y Home",
+            "url": "https://www.academia.edu/39054343/A_C_O_M_P_A_N_I_O_N_T_O_VICTORIAN_POETRY"
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "phrase": "my HOME",
+        "kind": "Recepción contemporánea",
+        "title": "Una lectura digital del siglo XXI",
+        "body": "O'Halloran relee Home en un experimento de estilística multimodal sobre desplazamiento, pandemia y crisis climática. Es una apropiación interpretativa actual, no evidencia de que Anne tratara esos temas en 1846.",
+        "sources": [
+          {
+            "label": "O'Halloran, Posthumanist stylistics, artículo completo",
+            "url": "https://journals.sagepub.com/doi/10.1177/09639470221140693"
+          }
+        ]
+      }
+    ]
   }
 };
