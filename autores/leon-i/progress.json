@@ -183,8 +183,8 @@
   "next": {
     "group": "epistolae",
     "number": 28,
-    "section": "caput III",
-    "incipit": "Salva igitur proprietate utriusque naturae et substantiae"
+    "section": "caput V",
+    "incipit": "Propter hanc ergo unitatem personae in utraque natura intelligendam"
   },
   "priority": "Epistola XXVIII is active priority (I–II published, III–VI pending); after finishing it resume Sermo XI. Prior exceptional Sermo LXXXII, Epistolae X and XIV already have complete first-pass translations.",
   "last_edit": "2026-11-18: Epistola XXVIII (Tomus ad Flavianum) published chapters I–II, 16 bilingual aligned units, 4 rhetorical notes and 20 lexical forms. III–VI pending; print collation and contextual token morphology incomplete.",
@@ -305,7 +305,7 @@
       "group": "epistolae",
       "number": 28,
       "title": "Epistola XXVIII ad Flavianum episcopum Constantinopolitanum (Tomus ad Flavianum)",
-      "status": "partial_reader_published_chapters_I_II",
+      "status": "partial_reader_published_chapters_I_IV",
       "skip_after_completion": true,
       "source": "https://la.wikisource.org/wiki/Tomus_ad_Flavianum",
       "base_edition": "Ballerini–Migne, PL 54 cols. 755–780",
@@ -315,18 +315,20 @@
       "total_chapters": 6,
       "translation_complete": false,
       "reader_published": true,
-      "next": "Caput III: Salva igitur proprietate utriusque naturae et substantiae; continue through VI, then Sermo XI",
+      "next": "Caput V: Propter hanc ergo unitatem personae in utraque natura intelligendam; then caput VI, complete lexical and critical collation",
       "reader_path": "autores/leon-i/epistolae/epistola-xxviii/index.html",
       "complete_work": false,
       "morphology_complete": false,
       "source_collation_complete": false,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4
       ],
-      "aligned_units": 16,
+      "aligned_units": 29,
       "lexicon_surface_forms": 20,
-      "voice_notes": 4,
+      "voice_notes": 9,
       "authenticity": "Authentic doctrinal letter of Leo I to Flavian, dated 13 June 449; PL54 traditional epistle XXVIII; critical printed collation outstanding"
     }
   ],
