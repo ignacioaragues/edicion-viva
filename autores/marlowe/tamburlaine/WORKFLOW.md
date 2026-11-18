@@ -393,3 +393,8 @@
 - **50 unidades**: Parte II II.4.137–142 (6) y III.1.1–44 (44). Acumulado **3.144/4.641 (67,7 %)**. Sigue III.1.45–94.
 - **50 traducciones corregidas**, 0 conservadas; **13 notas** y **2 fichas**. Cotejo interno; cotejo histórico independiente y QA navegador pendientes.
 - Inglés, acotaciones, IDs y navegación conservados; capa condicionada a coincidencia literal del inglés.
+
+## Sexagésima cuarta pasada filológica (19-11-2026)
+- **50 unidades**: Parte II III.1.45–79 (35) y III.2.1–15 (15). Acumulado **3.194/4.641 (68,8 %)**. Sigue III.2.16.
+- **45 traducciones corregidas**, 5 conservadas; **13 notas** y **2 fichas**. Cotejo interno; cotejo histórico independiente y QA navegador pendientes.
+- Inglés, acotaciones, IDs y navegación conservados; capa condicionada a coincidencia literal del inglés.
