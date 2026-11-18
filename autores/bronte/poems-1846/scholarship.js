@@ -2427,5 +2427,381 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
-  }
+  },
+  "26": {
+  "intro": "Primera anotación contextual de «The Letter», Charlotte Brontë: atención a las voces, las imágenes y las tensiones internas del texto de 1846. Las observaciones son lecturas editoriales, no atribuciones de tesis a investigadores.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "What is she writing? Watch ",
+      "kind": "Lectura textual",
+      "title": "Escritura observada",
+      "body": "El narrador abre con una pregunta y dirige la mirada del lector hacia el trabajo de la mujer. La identidad del destinatario se aplaza: es un mecanismo de suspense, no una confesión directa de Charlotte.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "phrase": "The very loveliest hour tha",
+      "kind": "Lectura textual",
+      "title": "Tiempo exterior y tiempo íntimo",
+      "body": "El sol de junio y el paisaje exterior avanzan mientras la protagonista permanece concentrada en la carta. El contraste organiza la primera mitad del poema.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 41,
+      "phrase": "Where do they turn, as now ",
+      "kind": "Lectura textual",
+      "title": "La mirada hacia el retrato",
+      "body": "La suspensión de la pluma precede a la identificación visual del ausente. La descripción depende de una mirada que aprende a distinguir formas en la penumbra.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 61,
+      "phrase": "Black Spanish locks, a sunb",
+      "kind": "Lectura textual",
+      "title": "Retrato masculino y autoridad",
+      "body": "Los rasgos físicos del retrato culminan en una valoración de fuerza intelectual y moral. Conviene distinguir esta idealización narratorial de un retrato biográfico comprobado.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 77,
+      "phrase": "Three seas and many a leagu",
+      "kind": "Lectura textual",
+      "title": "Tres mares y el mundo colonial",
+      "body": "La distancia marítima conduce al desenlace: el marido está retenido en territorios coloniales. El texto presupone una geografía imperial británica sin nombrar una colonia concreta.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "27": {
+  "intro": "Primera anotación contextual de «A Day-Dream», Emily Brontë: atención a las voces, las imágenes y las tensiones internas del texto de 1846. Las observaciones son lecturas editoriales, no atribuciones de tesis a investigadores.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "On a sunny brae alone I lay",
+      "kind": "Lectura textual",
+      "title": "Boda de los meses",
+      "body": "Mayo y junio aparecen como figuras nupciales; el júbilo del paisaje se contrapone desde el inicio al ánimo de la hablante.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "We thought, \"When winter co",
+      "kind": "Lectura textual",
+      "title": "La estación como objeción",
+      "body": "El invierno anticipado vuelve precaria la alegría de primavera. Es la reflexión de la voz poética, que después será discutida por la visión.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 41,
+      "phrase": "A thousand thousand gleamin",
+      "kind": "Lectura textual",
+      "title": "La irrupción visionaria",
+      "body": "Los fuegos y las liras desplazan el escenario del páramo hacia una experiencia imaginativa extraordinaria. El propio relato deja en suspenso su estatuto de realidad.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 53,
+      "phrase": "\"O mortal! mortal! let them",
+      "kind": "Lectura textual",
+      "title": "La voz de los espíritus",
+      "body": "La respuesta visionaria invierte la valoración humana de pérdida y muerte, asociándolas con una alegría más allá del tiempo; es discurso de las figuras soñadas.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 65,
+      "phrase": "\"And, could we lift the vei",
+      "kind": "Lectura textual",
+      "title": "El velo del conocimiento",
+      "body": "La revelación queda formulada condicionalmente: los espíritus no levantan de hecho el velo para el lector.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 69,
+      "phrase": "The music ceased; the noond",
+      "kind": "Lectura textual",
+      "title": "Final epistemológicamente abierto",
+      "body": "El cierre distingue la desaparición del sueño y la persistencia de la fantasía: la hablante no afirma haber verificado la promesa sobrenatural.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "28": {
+  "intro": "Primera anotación contextual de «To Cowper», Anne Brontë: atención a las voces, las imágenes y las tensiones internas del texto de 1846. Las observaciones son lecturas editoriales, no atribuciones de tesis a investigadores.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "Sweet are thy strains, cele",
+      "kind": "Lectura textual",
+      "title": "Cowper como interlocutor",
+      "body": "El destinatario es William Cowper (1731–1800), poeta religioso inglés. La alocución presenta una lectura formativa, afectiva y reiterada.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "phrase": "I did not know the nights o",
+      "kind": "Lectura textual",
+      "title": "Biografía y angustia espiritual",
+      "body": "Anne contrapone su lectura infantil con la conciencia posterior de los sufrimientos del poeta. La descripción remite a la conocida crisis religiosa y psicológica de Cowper, pero no autoriza un diagnóstico retrospectivo.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 21,
+      "phrase": "It must be so, if God is lo",
+      "kind": "Lectura textual",
+      "title": "Argumento sobre el amor divino",
+      "body": "El razonamiento condicional sostiene que la bondad divina sería incompatible con la condenación del poeta. La esperanza de salvación no se presenta como información revelada.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 37,
+      "phrase": "Are THESE the symptoms of a",
+      "kind": "Lectura textual",
+      "title": "Contra la desesperación religiosa",
+      "body": "Las virtudes de Cowper son esgrimidas contra la idea de que estuviera privado de gracia. El poema disputa una interpretación severa de la elección y la condenación.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 41,
+      "phrase": "Yet, should thy darkest fea",
+      "kind": "Lectura textual",
+      "title": "Pregunta final y juicio propio",
+      "body": "El cierre desplaza el problema desde Cowper a la propia hablante: si una persona así pudiera perderse, ¿qué esperanza quedaría para ella?",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "29": {
+  "intro": "Primera anotación contextual de «Regret», Charlotte Brontë: atención a las voces, las imágenes y las tensiones internas del texto de 1846. Las observaciones son lecturas editoriales, no atribuciones de tesis a investigadores.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "Long ago I wished to leave",
+      "kind": "Lectura textual",
+      "title": "La casa natal reconsiderada",
+      "body": "El rechazo juvenil del hogar se transforma en añoranza; el poema está construido sobre una inversión temporal de los afectos.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "phrase": "Life and marriage I have kn",
+      "kind": "Lectura textual",
+      "title": "Matrimonio y desengaño",
+      "body": "La voz se presenta como casada y desilusionada. La primera persona no permite atribuir automáticamente esa experiencia a Charlotte Brontë.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "phrase": "'Mid the unknown sea, of li",
+      "kind": "Lectura textual",
+      "title": "Metáfora del viaje marítimo",
+      "body": "El mar desconocido representa la experiencia vital y la embarcación que vuelve a casa, una posible orientación hacia el reposo último.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "Though the soul's bright mo",
+      "kind": "Lectura textual",
+      "title": "Paraíso y deseo humano",
+      "body": "Incluso la proximidad al paraíso no apaga la llamada de William: el poema enfrenta trascendencia y memoria del amor concreto.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 27,
+      "phrase": "William! even from Heaven's",
+      "kind": "Lectura textual",
+      "title": "William como destinatario",
+      "body": "El nombre propio dramatiza el retorno de una relación personal. Sin prueba externa no debe identificarse con una persona de la biografía de la autora.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+},
+  "30": {
+  "intro": "Primera anotación contextual de «To Imagination», Emily Brontë: atención a las voces, las imágenes y las tensiones internas del texto de 1846. Las observaciones son lecturas editoriales, no atribuciones de tesis a investigadores.",
+  "notes": [
+    {
+      "line": 1,
+      "phrase": "When weary with the long da",
+      "kind": "Lectura textual",
+      "title": "Invocación a la imaginación",
+      "body": "La Imaginación se presenta como interlocutora consoladora, con una voz capaz de devolver a la hablante del desaliento.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "phrase": "So hopeless is the world wi",
+      "kind": "Lectura textual",
+      "title": "Dos mundos contrapuestos",
+      "body": "El exterior hostil y el interior protegido se distribuyen en un paralelismo explícito; el refugio no depende de la transformación del entorno.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "phrase": "Where thou, and I, and Libe",
+      "kind": "Lectura textual",
+      "title": "Soberanía de la libertad",
+      "body": "La tríada tú, yo y Libertad convierte el mundo imaginado en un territorio de autonomía. La personificación es central para su sentido.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 19,
+      "phrase": "Reason, indeed, may oft com",
+      "kind": "Lectura textual",
+      "title": "Razón y verdad no desaparecen",
+      "body": "La voz reconoce la objeción de la razón y la dureza de la realidad; el poema no afirma que toda fantasía sea conocimiento verdadero.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "phrase": "But thou art ever there, to",
+      "kind": "Lectura textual",
+      "title": "Restauración imaginativa",
+      "body": "La imaginación reanima la primavera marchita y evoca vida desde la muerte. Es una formulación poética de consuelo, no una demostración metafísica.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    },
+    {
+      "line": 31,
+      "phrase": "I trust not to thy phantom ",
+      "kind": "Lectura textual",
+      "title": "Consuelo sin credulidad",
+      "body": "El rechazo explícito de una felicidad fantasmal limita la confianza de la hablante: agradece el poder consolador sin convertirlo en certeza.",
+      "sources": [
+        {
+          "label": "Texto de la primera edición (1846), University of Pennsylvania",
+          "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+        }
+      ]
+    }
+  ]
+}
 };
