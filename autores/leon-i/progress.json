@@ -141,6 +141,15 @@
       "complete_work": true,
       "reader_published": true,
       "editorial_caveat": "Reader published with complete first-pass text and annotation. Exhaustive printed PL54 collation and full runtime/browser QA remain open; not a definitive critical edition."
+    },
+    {
+      "group": "epistolae",
+      "number": 10,
+      "section": "Caput I only, PL54 cols 628–629",
+      "translation": "chapter I first-pass original Spanish, incomplete letter",
+      "complete_work": false,
+      "reader_published": true,
+      "editorial_caveat": "Chapter I available to read; chapters II–IX and per-token morphology pending"
     }
   ],
   "next": {
@@ -215,15 +224,21 @@
     {
       "group": "epistolae",
       "number": 10,
-      "status": "partial_dossier_inscription_translated",
+      "status": "partial_reader_published_chapter_I",
       "skip_after_completion": true,
       "work_file": "autores/leon-i/epistolae/epistola-x/EDITORIAL-DOSSIER.md",
       "source": "https://www.mignereadingroom.org/PL/54/epistolae/628-635",
-      "next": "Caput I: Divinae cultum religionis, quem in omnes gentes omnesque nationes Dei voluit gratia coruscare",
+      "next": "Caput II: Verum haec nos, Deo, ut credimus, aspirante; finish II–IX, then contextual token cards and final review",
       "recipient": "Bishops of the province of Vienne",
       "sender": "Leo, bishop of Rome",
       "translation_complete": false,
-      "reader_published": false
+      "reader_published": true,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 9,
+      "reader_path": "autores/leon-i/epistolae/epistola-x/index.html",
+      "morphology_complete": false
     },
     {
       "group": "epistolae",
