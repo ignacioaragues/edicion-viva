@@ -1324,8 +1324,8 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       },
       {
-        "line": 1,
-        "phrase": "and yet rejoice",
+        "line": 2,
+        "phrase": "That thou shouldst sorrow so",
         "kind": "Paradoja espiritual",
         "title": "Compasión y alegría al mismo tiempo",
         "body": "La hablante comparte el sufrimiento y, sin embargo, lo considera motivo de júbilo por su potencial penitencial. No se afirma que la pena sea buena en sí misma, sino que puede acompañar una transformación moral.",
@@ -1731,13 +1731,13 @@ window.BRONTE_SCHOLARSHIP_1846={
       {
         "line": 1,
         "phrase": "Oh, weep not",
-        "title": "Manuscrito y fecha",
-        "body": "La despedida de Zerona",
-        "kind": "C. K. Shorter (ed.), Stanzas: manuscrito y variantes",
+        "title": "La despedida de Zerona",
+        "body": "La edición de Clement King Shorter registra el nombre Zerona, el título manuscrito Parting address from Z. L. to A. E. y la fecha 1 de octubre de 1845. El título genérico Stanzas de 1846 deja menos visible ese contexto ficcional.",
+        "kind": "Manuscrito y fecha",
         "sources": [
           {
-            "url": "La edición de Clement King Shorter registra el nombre Zerona, el título manuscrito Parting address from Z. L. to A. E. y la fecha 1 de octubre de 1845. El título genérico Stanzas de 1846 deja menos visible ese contexto ficcional.",
-            "label": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas"
+            "label": "C. K. Shorter (ed.), Stanzas: manuscrito y variantes",
+            "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Anne_Bront%C3%AB/Stanzas"
           }
         ]
       },
