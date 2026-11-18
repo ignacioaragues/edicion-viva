@@ -137,7 +137,7 @@
     "location": "PL 54 col. 165C–166A",
     "editorial_state": "Sermo X translation draft 15 units; chapters I–III aligned (11 units), contextual morphology only I.1; not published in reader."
   },
-  "priority": "PRIORIDAD TEMPORAL: Sermo LXXXII, Epistola X, Epistola XIV, en ese orden; completar cada uno y luego retomar Sermo X capítulo IV y recorrido secuencial, saltando esas tres piezas ya terminadas. No alterar estados de publicación antes de verificar.",
+  "priority": "Sermo LXXXII provisional reader editorially frozen awaiting inaccessible PL54 print collation; Epistola X active, then Epistola XIV; once all completed resume Sermo X chapter IV. No false completion of Sermo 82.",
   "last_edit": "2026-11-18",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
@@ -163,7 +163,7 @@
     {
       "group": "sermones",
       "number": 82,
-      "status": "partial_reader_staged_unindexed_print_collation_pending",
+      "status": "partial_reader_staged_unindexed_print_collation_deferred",
       "skip_after_completion": true,
       "aligned_chapters": 7,
       "aligned_units": 18,
@@ -171,7 +171,7 @@
       "source_collation_complete": false,
       "reader_published": false,
       "work_file": "autores/leon-i/sermones/sermo-lxxxii/ALIGNED-DRAFT.md",
-      "next": "Printed PL54 facsimile/apparatus collation for all seven chapters, propagate verified readings to 913 fichas, then browser/mobile runtime verification and catalogue publication. Do not advance to Epistola X until completed.",
+      "next": "Editorial freeze: 18/18 units, 913 cards and 12 notes staged. PL54 printed facsimile inaccessible (502); no false claim of print collation. Revisit when accessible; priority work proceeds to Epistola X without declaring Sermo 82 complete.",
       "morphology_units_with_contextual_table": 18,
       "morphology_token_occurrences": 913,
       "morphology_file": "autores/leon-i/sermones/sermo-lxxxii/MORPHOLOGY-82-1-2.md",
@@ -194,13 +194,21 @@
       "secondary_transcription_review": "Seven chapters / 18 units checked for structural continuity against frcoulter.com/leo/latin/tractatus82.html (2026-11-18); no omitted chapter detected. NOT a printed PL 54 facsimile or apparatus collation.",
       "collation_register": "autores/leon-i/sermones/sermo-lxxxii/COLLATION-REGISTER.md",
       "reader_notes": 12,
-      "reader_metadata_audit": "2026-11-18: corrected copied Sermo I title, section labels, navigation, source and voice analysis; added 12 passage notes, checked 913 lexical entries retained. Browser/mobile runtime testing and printed PL54 collation still pending."
+      "reader_metadata_audit": "2026-11-18: corrected copied Sermo I title, section labels, navigation, source and voice analysis; added 12 passage notes, checked 913 lexical entries retained. Browser/mobile runtime testing and printed PL54 collation still pending.",
+      "editorial_freeze": "2026-11-18: print collation deferred after repeated 502 errors; leave reader provisional and unindexed; no further micro-passes until accessible source."
     },
     {
       "group": "epistolae",
       "number": 10,
-      "status": "priority_pending",
-      "skip_after_completion": true
+      "status": "partial_dossier_inscription_translated",
+      "skip_after_completion": true,
+      "work_file": "autores/leon-i/epistolae/epistola-x/EDITORIAL-DOSSIER.md",
+      "source": "https://www.mignereadingroom.org/PL/54/epistolae/628-635",
+      "next": "Caput I: Divinae cultum religionis, quem in omnes gentes omnesque nationes Dei voluit gratia coruscare",
+      "recipient": "Bishops of the province of Vienne",
+      "sender": "Leo, bishop of Rome",
+      "translation_complete": false,
+      "reader_published": false
     },
     {
       "group": "epistolae",
