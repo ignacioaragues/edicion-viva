@@ -11,7 +11,7 @@ function render(type) {
     item.textContent=(type==='sermones'?'Sermo ':'Ep. ')+toRoman(n);
     const sub=document.createElement('small');sub.textContent=available?((n===9||n===10)?'Edición parcial':n===82?'Texto completo · revisión abierta':type==='epistolae'?'Texto bilingüe completo · revisión abierta':'Edición completa'):'Pendiente';
     item.append(sub);
-    if(available)item.href=type==='epistolae'?(n===14?'./epistolae/epistola-xiv/':'./epistolae/epistola-x/'):n===82?'./sermones/sermo-lxxxii/':n===1?'./sermones/sermo-i/':n===2?'./sermones/sermo-ii/':n===3?'./sermones/sermo-iii/' :n===4?'./sermones/sermo-iv/':n===5?'./sermones/sermo-v/':n===6?'./sermones/sermo-vi/':n===7?'./sermones/sermo-vii/':n===8?'./sermones/sermo-viii/':'./sermones/sermo-ix/';
+    if(available)item.href=type==='epistolae'?(n===14?'./epistolae/epistola-xiv/':'./epistolae/epistola-x/'):n===82?'./sermones/sermo-lxxxii/':n===10?'./sermones/sermo-x/':n===1?'./sermones/sermo-i/':n===2?'./sermones/sermo-ii/':n===3?'./sermones/sermo-iii/' :n===4?'./sermones/sermo-iv/':n===5?'./sermones/sermo-v/':n===6?'./sermones/sermo-vi/':n===7?'./sermones/sermo-vii/':n===8?'./sermones/sermo-viii/':'./sermones/sermo-ix/';
     container.append(item);
   }
 }
