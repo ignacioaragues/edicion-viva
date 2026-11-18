@@ -6,6 +6,16 @@
  */
 const collection = [
   {
+    author: 'René Goscinny y Albert Uderzo',
+    period: 'HISTORIETA FRANCESA',
+    work: 'Astérix et Cléopâtre',
+    translated: 'Astérix y Cleopatra',
+    language: 'Francés · Español opcional',
+    status: 'available',
+    url: 'https://ignacioaragues.github.io/lingua-viva/francais/asterix/',
+    detail: 'Lector en Lengua Viva · 50 páginas · edición privada en revisión',
+  },
+  {
     author: 'Charlotte, Emily y Anne Brontë',
     period: 'POESÍA VICTORIANA',
     work: 'Poems by Currer, Ellis, and Acton Bell',
