@@ -109,3 +109,13 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - **45, Stanzas (Charlotte):** 7 notas sobre ausencia y amor desigual.
 
 **Balance:** 31 notas nuevas; **292 notas en 45 poemas**. Restan 46–61. Lectura textual inicial basada en la transcripción de 1846; bibliografía especializada y cotejo manuscrito pendientes. No se modificó `poems-data.js`.
+
+
+## Décima tanda: poemas 46–50
+- 46, Death: 6 notas, muerte y eternidad.
+- 47, Views of Life: 9 notas, Juventud, Experiencia y maternidad; Glasscott (2023).
+- 48, Parting: 5 notas, separación y memoria.
+- 49, Stanzas to ——: 6 notas, juicio y compasión.
+- 50, Appeal: 5 notas, espera e historia editorial (UPenn).
+
+**Balance:** 31 notas nuevas, 323 en 50 poemas. Restan 51–61. Cotejo manuscrito pendiente. `poems-data.js` sin cambios.
