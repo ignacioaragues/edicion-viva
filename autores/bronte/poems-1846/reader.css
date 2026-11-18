@@ -10,3 +10,42 @@
 @media(max-width:600px){.header-links a{display:none}.poem-description{flex-wrap:wrap}.verse,.column-captions{grid-template-columns:23px minmax(0,1fr);gap:9px}.verse .spanish{grid-column:2;grid-row:2;font-size:calc(var(--reading-size) - 1px);padding-bottom:7px}.column-captions span:last-child{display:none}.reader:not(.no-translation):not(.hide-translation) .verse{grid-template-columns:23px 1fr}.reader.no-translation .verse,.reader.hide-translation .verse{grid-template-columns:23px 1fr}.overview-stats{gap:20px}.poem-pagination{gap:8px}.poem-pagination a{font-size:11px;padding:10px}.main{padding:28px 17px 70px}}
 
 .poem-nav a[hidden]{display:none!important}
+
+
+/* Lector de poesía: el verso íntegro tiene prioridad sobre las tres columnas
+   de la página de índice. En pantallas ordinarias, usar bloques alineados. */
+body:has(.poem-view:not([hidden])) .shell{
+  grid-template-columns:240px minmax(0,1fr);
+  max-width:1900px;
+}
+body:has(.poem-view:not([hidden])) .right-rail{display:none}
+body:has(.poem-view:not([hidden])) .main{padding-inline:clamp(22px,3vw,54px)}
+body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
+.poem-view .verse{grid-template-columns:30px minmax(0,1fr) minmax(0,1fr);column-gap:clamp(22px,2.5vw,58px)}
+.poem-view .column-captions{grid-template-columns:30px minmax(0,1fr) minmax(0,1fr);column-gap:clamp(22px,2.5vw,58px)}
+.poem-view .verse .latin,.poem-view .verse .spanish{overflow-wrap:normal;word-break:normal}
+@media(max-width:1580px){
+  .poem-view .reader:not(.hide-translation):not(.no-translation) .verse,
+  .poem-view .reader[data-layout="parallel"]:not(.hide-translation):not(.no-translation) .verse{
+    grid-template-columns:30px minmax(0,1fr);
+    gap:0 12px;
+  }
+  .poem-view .reader:not(.hide-translation):not(.no-translation) .verse .spanish{
+    grid-column:2;grid-row:2;margin-top:0;margin-bottom:9px;
+    color:#748076;
+  }
+  .poem-view .reader:not(.hide-translation):not(.no-translation) .column-captions{
+    grid-template-columns:30px minmax(0,1fr);
+  }
+  .poem-view .reader:not(.hide-translation):not(.no-translation) .column-captions span:last-child{display:none}
+  .poem-view #toggle-layout{display:none}
+}
+@media(max-width:850px){
+  body:has(.poem-view:not([hidden])) .shell{display:block}
+  body:has(.poem-view:not([hidden])) .main{padding-inline:22px}
+  body:has(.poem-view:not([hidden])) .left-rail{display:none}
+  body.nav-open:has(.poem-view:not([hidden])) .left-rail{display:flex}
+}
+@media(max-width:600px){
+  body:has(.poem-view:not([hidden])) .main{padding-inline:17px}
+}
