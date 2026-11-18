@@ -1549,12 +1549,25 @@
         "https://mail.biblehub.com/commentaries/egt/mark/7.htm",
         "https://bibletranslation.ws/trans/markwgrk.pdf"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 3,
+      "to": 3,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "20/20 fichas posicionales cotejadas con MorphGNT 6.12",
+      "second_review": "pending",
+      "external_references": [
+        "https://doi.org/10.1017/S0028688518000358",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/7/3"
+      ]
     }
   ],
-  "pending": "Continuar en Marcos 7,3; segunda revisión filológica y Vulgata opcional pendientes.",
+  "pending": "Continuar en Marcos 7,4; segunda revisión filológica y Vulgata opcional pendientes.",
   "next": {
     "chapter": 7,
-    "verse": 3
+    "verse": 4
   },
   "last_edit": "2026-11-18",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3608,6 +3621,18 @@
       "https://ccel.org/ccel/robertson_at/wordpictures/htm/MR7.RWP.html",
       "https://mail.biblehub.com/commentaries/egt/mark/7.htm",
       "https://bibletranslation.ws/trans/markwgrk.pdf"
+    ]
+  },
+  "prepublication_research_7_3": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://doi.org/10.1017/S0028688518000358",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/7/3"
     ]
   }
 }
