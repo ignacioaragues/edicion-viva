@@ -1203,5 +1203,108 @@ window.BRONTE_SCHOLARSHIP_1846={
         ]
       }
     ]
+  },
+  "14": {
+    "intro": "Una elegía que proviene de Gondal, pero funciona también sin conocer sus personajes. Las variantes manuscritas, el cambio de los dolientes y el reposo de la fallecida permiten lecturas distintas del recuerdo y de la muerte.",
+    "notes": [
+      {
+        "line": 1,
+        "phrase": "The linnet",
+        "kind": "Historia manuscrita",
+        "title": "Una canción originada en Gondal",
+        "body": "El cuaderno de Gondal no llevaba el título Song: lo adquiere en 1846. Un estudio de las versiones, siguiendo a Christine Alexander, relaciona la voz con Lord Eldred W. y a la fallecida con A.G.A. Esa identificación no figura en la edición de 1846.",
+        "sources": [
+          {
+            "label": "Lima, estudio sobre manuscritos de Emily, pp. 44–45",
+            "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/234340/Lavine-Lima-TCC-versaofinal.pdf?isAllowed=y&sequence=1"
+          },
+          {
+            "label": "EBSCO, contexto de Gondal",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte/"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "phrase": "moor-lark",
+        "kind": "Cotejo filológico",
+        "title": "Un guion añadido",
+        "body": "Lima constata la grafía moorlark en el manuscrito y moor-lark en el volumen de 1846. El estudio registra otras regularizaciones ortográficas. Son variantes que deben registrarse sin exagerar su impacto semántico.",
+        "sources": [
+          {
+            "label": "Lima, cotejo de Song, p. 44",
+            "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/234340/Lavine-Lima-TCC-versaofinal.pdf?isAllowed=y&sequence=1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "phrase": "my lady fair",
+        "kind": "Personajes",
+        "title": "La dama no identificada en 1846",
+        "body": "El manuscrito llevaba las iniciales E. W., interpretadas como Lord Eldred W. y asociadas con la reina A.G.A. La antología elimina esas claves y permite leer a la figura como amada fallecida sin nombre.",
+        "sources": [
+          {
+            "label": "Lima, sobre Alexander y Gondal",
+            "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/234340/Lavine-Lima-TCC-versaofinal.pdf?isAllowed=y&sequence=1"
+          },
+          {
+            "label": "Comentario documental del manuscrito",
+            "url": "https://www.annebronte.org/2021/05/02/emily-brontes-may-day-linnet/"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "phrase": "where is all their anguish",
+        "kind": "Lecturas posibles",
+        "title": "¿Reproche u observación de la memoria?",
+        "body": "La pregunta contrasta el duelo inicial de los supervivientes con su olvido posterior. Puede escucharse como ironía acusadora o como constatación de que el dolor cambia: no se impone una sola psicología a esos versos.",
+        "sources": [
+          {
+            "label": "EBSCO, Emily y el duelo",
+            "url": "https://www.ebsco.com/research-starters/history/poetry-bronte-emily-bronte/"
+          },
+          {
+            "label": "Philip V. Allingham, edición de Song",
+            "url": "https://www.victorianweb.org/authors/bronte/ebronte/song.html"
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "phrase": "changed and careless",
+        "kind": "Debate interpretativo",
+        "title": "Indiferencia y liberación",
+        "body": "¿La fallecida conserva alguna conciencia? La lectura que recoge Lima de Janet Gezari deja abierta la pregunta; una interpretación sociopolítica ve la muerte como salida de presiones del mundo. El verso no confirma una doctrina del más allá.",
+        "sources": [
+          {
+            "label": "Lima, diálogo con Gezari, pp. 44–45",
+            "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/234340/Lavine-Lima-TCC-versaofinal.pdf?isAllowed=y&sequence=1"
+          },
+          {
+            "label": "Estudio sobre naturaleza y libertad en Emily",
+            "url": "https://westminsterresearch.westminster.ac.uk/download/5a4e4d43cfac26d84249ed7259a013184a4a3f330dc6a86d13e7be5efcecf23d/112823/Politics%2C%20Legal%20Concerns%2C%20and%20Reforms.pdf"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "phrase": "Blow, west-wind",
+        "kind": "Ecocrítica",
+        "title": "La naturaleza basta para acompañar la tumba",
+        "body": "El reposo final queda a cargo del viento y del agua, no de una garantía explícita de reunión en el cielo. Un estudio vincula ese paisaje protector a formas de emancipación; Lima propone un paralelo con las tumbas del final de Wuthering Heights.",
+        "sources": [
+          {
+            "label": "Análisis sociopolítico de la naturaleza en Emily",
+            "url": "https://westminsterresearch.westminster.ac.uk/download/5a4e4d43cfac26d84249ed7259a013184a4a3f330dc6a86d13e7be5efcecf23d/112823/Politics%2C%20Legal%20Concerns%2C%20and%20Reforms.pdf"
+          },
+          {
+            "label": "Lima, paralelo con Wuthering Heights",
+            "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/234340/Lavine-Lima-TCC-versaofinal.pdf?isAllowed=y&sequence=1"
+          }
+        ]
+      }
+    ]
   }
 };
