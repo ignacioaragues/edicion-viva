@@ -1974,12 +1974,25 @@
         "https://greeknewtestament.net/mk8-2",
         "https://lemma.gebible.app/v/mark/8/2"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 3,
+      "to": 3,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "18/18 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://sermonindex.net/commentary/cambridgegreek/MRK/8/",
+        "https://www.biblegateway.com/passage/?search=Mark+8&version=SBLGNT"
+      ]
     }
   ],
   "pending": "Continuar Marcos 8,3; segunda revisión contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 3
+    "verse": 4
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4333,6 +4346,16 @@
       "https://biblia.com/bible/sblgnt/mark/8/2",
       "https://greeknewtestament.net/mk8-2",
       "https://lemma.gebible.app/v/mark/8/2"
+    ]
+  },
+  "prepublication_research_8_3": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "18/18",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://sermonindex.net/commentary/cambridgegreek/MRK/8/",
+      "https://www.biblegateway.com/passage/?search=Mark+8&version=SBLGNT"
     ]
   }
 }
