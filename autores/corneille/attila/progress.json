@@ -1,7 +1,7 @@
 {
   "work": "Pierre Corneille — Attila",
   "edition": "Œuvres de P. Corneille, éd. Ch. Marty-Laveaux, Hachette, 1862, tome VII",
-  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_II",
+  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_III",
   "crosscheck": "https://www.gutenberg.org/files/51612/51612-h/51612-h.htm",
   "first_performance": "1667-03-04",
   "total_acts": 5,
@@ -80,13 +80,31 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 5
+    },
+    {
+      "act": 2,
+      "scene": 6,
+      "from": 591,
+      "to": 712,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 9
+    },
+    {
+      "act": 3,
+      "scene": 1,
+      "from": 713,
+      "to": 797,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 9
     }
   ],
   "next": {
-    "act": 2,
-    "scene": 6,
-    "verse": 591
+    "act": 3,
+    "scene": 2,
+    "verse": 798
   },
   "last_edit": "2026-11-19",
-  "instructions": "Acto I completo vv. 1–360. Acto II escenas 1–5 completas vv. 361–590. Siguiente II.6 verso 591. En I.3 se fundieron los hemistiquios de dos versos compartidos (335–336) y se recuperaron los versos 415–416 omitidos en II.1. Texto francés y traducción alineados; glosario detallado pendiente."
+  "instructions": "Actos I y II completos (vv. 1–712). Acto III, escena I completa (vv. 713–797). Continuar con escena III.2 desde el v. 798; sin repetir versos; segunda revisión léxica, morfológica y variantes pendiente."
 }
