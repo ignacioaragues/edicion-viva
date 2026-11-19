@@ -430,3 +430,7 @@
 ## Septuagésima primera pasada filológica (19-11-2026)
 - 50 unidades: Parte II III.4.86–91 (6) y III.5.1–44 (44). Acumulado 3.534/4.641 (76,1 %). Sigue III.5.45.
 - 20 traducciones ajustadas, 13 notas y 2 fichas. Cotejo histórico externo y QA navegador pendientes. Inglés, acotaciones e IDs preservados.
+
+## Septuagésima segunda pasada filológica (19-11-2026)
+- 50 unidades: Parte II III.5.45–94; acumulado 3.584/4.641 (77,2 %). Sigue III.5.95.
+- 27 correcciones, 12 notas y 2 fichas. Revisión del discurso de Calapino y del desafío de Tamerlán; cotejo externo y QA navegador pendientes.
