@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado actual (19 noviembre 2026):** Acto I completo vv. 1–360, acto II escenas I–V completas vv. 361–590. Próximo verso 591 (II.6, Ardaric e Ildione). Corregidos 19/11/2026 los dos alejandrinos compartidos 335–336 (antes desdoblados) y reincorporados los vv. 415–416; no repetirlos. Revisión filológica detallada y fichas morfológicas posteriores.
+**Estado actual (19 noviembre 2026):** Actos I y II completos vv. 1–712 y acto III escena primera vv. 713–797. Siguiente: III.2 verso 798. Las escenas II.6 y III.1 se publicaron con traducción alineada y notas selectivas. Se conservaron versos compartidos II.6 (631, 662–663) y III.1 (725, 741, 792). Segunda revisión morfológica y de variantes pendiente.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
