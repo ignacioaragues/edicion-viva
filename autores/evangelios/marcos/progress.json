@@ -1933,12 +1933,26 @@
         "https://biblehub.com/commentaries/icc/mark/7.htm",
         "https://greeknewtestament.net/mk7-35"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 36,
+      "to": 37,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "29/29 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://www.sermonindex.net/commentary/cambridgegreek/MRK/7/",
+        "https://biblehub.com/commentaries/meyer/mark/7.htm",
+        "https://www.biblegateway.com/passage/?search=Mark+7&version=SBLGNT"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,35; segunda revisión de 7,34 pendiente.",
+  "pending": "Continuar Marcos 8,1; segunda revisión contextual pendiente.",
   "next": {
-    "chapter": 7,
-    "verse": 36
+    "chapter": 8,
+    "verse": 1
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4270,5 +4284,11 @@
       "https://biblehub.com/commentaries/icc/mark/7.htm",
       "https://greeknewtestament.net/mk7-35"
     ]
+  },
+  "prepublication_research_7_36_37": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "29/29",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
   }
 }
