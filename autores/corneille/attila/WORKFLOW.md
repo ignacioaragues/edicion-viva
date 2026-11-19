@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado actual (19 noviembre 2026):** Actos I–III completos, acto IV escenas 1–4 completas hasta v. 1362. Siguiente: IV.5 v. 1363. IV.4 dividida en dos archivos sin duplicación: acte4-scene4a.js (1265–1320) y acte4-scene4.js (1321–1362). Segunda revisión filológica pendiente.
+**Estado actual (19 noviembre 2026):** Actos I–IV completos (vv. 1–1452). Acto V escenas primera, segunda y tercera completas (vv. 1453–1610). Siguiente V.4, verso 1611. Esta pasada añadió 158 versos cotejados con Marty-Laveaux en Wikisource y 17 notas. El verso 1515 se comparte entre las escenas II y III; 1567 y 1571 son versos compartidos por dos voces. Revisión filológica y fichas morfológicas siguen pendientes.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
