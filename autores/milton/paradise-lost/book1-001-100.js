@@ -437,66 +437,66 @@ window.MILTON_BOOK1_PART1 = [
  {
   "n": 88,
   "en": "United thoughts and counsels, equal hope",
-  "es": "a quien una alianza mutua, unos mismos pensamientos"
+  "es": "a quien un pacto mutuo, pensamientos y consejos unidos,"
  },
  {
   "n": 89,
   "en": "And hazard in the glorious enterprise,",
-  "es": "y consejos, idénticas esperanzas y peligros"
+  "es": "igual esperanza y riesgo en la gloriosa empresa,"
  },
  {
   "n": 90,
   "en": "Joined with me once, now misery hath joined",
-  "es": "en nuestra gloriosa empresa unieron"
+  "es": "enlazaron conmigo antaño y a quien ahora la desdicha"
  },
  {
   "n": 91,
   "en": "In equal ruin: into what pit thou seest",
-  "es": "antaño conmigo, y a quien ahora la desgracia reúne"
+  "es": "ha unido a una misma ruina: ¡mira en qué abismo"
  },
  {
   "n": 92,
   "en": "From what highth fallen, so much the stronger proved",
-  "es": "en una misma ruina: ¡a qué abismo, ya lo ves,"
+  "es": "hemos caído desde tan gran altura! ¡Cuán fuerte se mostró"
  },
  {
   "n": 93,
   "en": "He with his thunder: and till then who knew",
-  "es": "hemos caído desde qué altura! Tanto más poderoso se mostró"
+  "es": "él con su trueno! ¿Y quién conocía hasta entonces"
  },
  {
   "n": 94,
   "en": "The force of those dire arms? Yet not for those,",
-  "es": "él con su trueno; y ¿quién conocía antes"
+  "es": "la fuerza de esas armas terribles? Sin embargo, ni por ellas"
  },
  {
   "n": 95,
   "en": "Nor what the potent victor in his rage",
-  "es": "la fuerza de aquellas armas terribles? Pero ni por ellas"
+  "es": "ni por cuanto el poderoso vencedor, en su ira,"
  },
  {
   "n": 96,
   "en": "Can else inflict, do I repent, or change,",
-  "es": "ni por cuanto el vencedor poderoso pueda infligirnos"
+  "es": "pueda aún infligirnos me arrepiento ni cambio,"
  },
  {
   "n": 97,
   "en": "Though changed in outward lustre, that fixed mind,",
-  "es": "en su ira me arrepiento ni cambio,"
+  "es": "aunque haya cambiado mi brillo exterior, aquel ánimo firme"
  },
  {
   "n": 98,
   "en": "And high disdain from sense of injured merit,",
-  "es": "aunque haya cambiado mi esplendor exterior, aquella voluntad resuelta"
+  "es": "y aquel desprecio altivo nacido del mérito agraviado"
  },
  {
   "n": 99,
   "en": "That with the Mightiest raised me to contend,",
-  "es": "y aquel elevado desprecio nacido del mérito agraviado"
+  "es": "que me alzó a luchar con el más Poderoso"
  },
  {
   "n": 100,
   "en": "And to the fierce contention brought along",
-  "es": "que me levantaron a disputar con el más poderoso,"
+  "es": "y llevó a la feroz contienda innumerables tropas"
  }
 ];
