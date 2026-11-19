@@ -350,5 +350,117 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 19, title: "Narcotics, Tooth y alternativa", body: "La comparación final lleva la pregunta metafísica al dolor físico: el diente que roe el alma ni siquiera se calma con narcóticos. Miller registra «Mouse» como alternativa a «Tooth»."},
       {line: 20, title: "Tres posiciones críticas", body: "Preest lee el poema como vacilación entre convicción y duda; Wendy Martin destaca la imposibilidad de conocer qué sucede tras la muerte; Miller permite ver que esa indeterminación también se encuentra en las alternativas del manuscrito."}
     ]
+  },
+  J449: {
+    id: "J449", franklin: "F448", approx: "c. 1862",
+    incipit: "I died for Beauty – but was scarce",
+    titleES: "Morí por la Belleza — pero apenas",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J449, p. 215; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 21, p. 225 (F448); Preest, Emily Dickinson Poems Commentary, pp. 151–152.",
+    lines: [
+      ["I died for Beauty – but was scarce", "Morí por la Belleza — pero apenas"],
+      ["Adjusted in the Tomb", "me había acomodado en la Tumba"],
+      ["When One who died for Truth, was lain", "cuando a Alguien que murió por la Verdad lo tendieron"],
+      ["In an adjoining Room –", "en una Habitación contigua —"],
+      ["He questioned softly “Why I failed”?", "Me preguntó en voz baja: «¿Por qué sucumbí?»"],
+      ["“For Beauty”, I replied –", "«Por la Belleza», respondí —"],
+      ["“And I – for Truth – Themself are One –", "«Y yo — por la Verdad — ellas son Una misma —"],
+      ["We Brethren, are”, He said –", "somos Hermanos», dijo Él —"],
+      ["And so, as Kinsmen, met a Night –", "Y así, como Parientes que se encuentran de Noche —"],
+      ["We talked between the Rooms –", "hablábamos entre las Habitaciones —"],
+      ["Until the Moss had reached our lips –", "hasta que el Musgo nos alcanzó los labios —"],
+      ["And covered up – our names –", "y cubrió — nuestros nombres —"]
+    ],
+    notes: [
+      {line: 1, title: "Morir por una abstracción", body: "La voz no relata por qué o cómo murió. «Por la Belleza» puede sugerir una causa estética, moral o intelectual, pero es el poema —no una biografía— el que construye esa posición."},
+      {line: 3, title: "La tumba como habitación", body: "«Room» y «adjoining» vuelven familiar una situación imposible: dos personas fallecidas conversan desde espacios contiguos como vecinos de una casa. La normalidad del escenario hace más inquietante la desaparición final."},
+      {line: 5, title: "Why I failed", body: "El verbo «failed» es ambiguo: puede significar que el recién llegado murió, cayó o fracasó. La traducción «sucumbí» preserva parte de esa ambigüedad, aunque reduce su posible dimensión de fracaso."},
+      {line: 7, title: "Belleza y Verdad: intertextos", body: "Miller recuerda la «Oda a una urna griega» de Keats, pero considera también ecos de Emerson y, especialmente, «A Vision of Poets» de Elizabeth Barrett Browning, cuyos versos sobre morir por la Belleza y la Verdad aparecen marcados en un libro familiar de los Dickinson. No atribuir la imagen únicamente a Keats."},
+      {line: 9, title: "El parentesco", body: "«Kinsmen» convierte la semejanza ideal en parentesco. La conversación continúa hasta que algo más material —el musgo— llega a los cuerpos y deshace el lenguaje."},
+      {line: 12, title: "¿Qué borra el musgo?", body: "El poema afirma que el musgo cubre labios y nombres. Roger Lundin, citado por Preest, señala el límite de la supervivencia, aunque el propio poema que leemos puede mantenerse cuando desaparece el nombre escrito en una tumba. La tensión no se resuelve."},
+      {line: 12, title: "Una diferencia editorial", body: "Miller imprime «Our names» con mayúscula en la copia del fascículo 21. Johnson da «our names». Se conserva aquí la lectura Johnson y se registra la diferencia, sin crear un texto mixto."}
+    ]
+  },
+  J465: {
+    id: "J465", franklin: "F591", approx: "c. 1862–1863",
+    incipit: "I heard a Fly buzz – when I died –",
+    titleES: "Oí zumbar una Mosca — cuando morí —",
+    stanzaBreaks: [4, 8, 12],
+    source: "Johnson, The Complete Poems, J465, pp. 223–224; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 26, p. 270 (F591); Preest, Emily Dickinson Poems Commentary, pp. 156–157.",
+    lines: [
+      ["I heard a Fly buzz – when I died –", "Oí zumbar una Mosca — cuando morí —"],
+      ["The Stillness in the Room", "La Quietud de la Habitación"],
+      ["Was like the Stillness in the Air –", "era como la Quietud en el Aire —"],
+      ["Between the Heaves of Storm –", "entre las Ráfagas de una Tormenta —"],
+      ["The Eyes around – had wrung them dry –", "Los Ojos alrededor — ya se habían exprimido hasta secarse —"],
+      ["And Breaths were gathering firm", "y los Alientos cobraban firmeza"],
+      ["For that last Onset – when the King", "para aquella última Arremetida — cuando el Rey"],
+      ["Be witnessed – in the Room –", "fuese visto — en la Habitación —"],
+      ["I willed my Keepsakes – Signed away", "Legué mis Recuerdos — firmé la cesión"],
+      ["What portion of me be", "de la parte de mí que pudiera"],
+      ["Assignable – and then it was", "transferirse — y entonces fue cuando"],
+      ["There interposed a Fly –", "se interpuso una Mosca —"],
+      ["With Blue – uncertain stumbling Buzz –", "con un Zumbido azul — incierto, vacilante —"],
+      ["Between the light – and me –", "entre la luz — y yo —"],
+      ["And then the Windows failed – and then", "Y entonces las Ventanas fallaron — y entonces"],
+      ["I could not see to see –", "ya no pude ver para ver —"]
+    ],
+    notes: [
+      {line: 1, title: "Una narración imposible", body: "La voz cuenta una escena desde después de su propia muerte. La gramática en pasado no demuestra una existencia consciente tras morir: es la premisa dramática que hace posible el poema."},
+      {line: 3, title: "La quietud entre tormentas", body: "La comparación introduce una suspensión tensa, no una paz asegurada. El aire se calma entre embates, de modo que algo parece estar a punto de suceder."},
+      {line: 5, title: "Los ojos de los presentes", body: "«Wrung them dry» transforma las lágrimas de los acompañantes en un paño que se exprime. El agotamiento del llanto es físico, doméstico e inmediato."},
+      {line: 7, title: "¿Quién es el Rey?", body: "Una lectura religiosa identifica al «King» con Cristo o Dios; otra entiende la llegada majestuosa de la muerte. El poema no fija la identidad y frustra la expectativa en el verso siguiente con una mosca."},
+      {line: 9, title: "Legar lo asignable", body: "La escena del testamento distingue los bienes transferibles de aquello que no puede dejarse por escrito. La muerte es también un acontecimiento jurídico y doméstico, no solo metafísico."},
+      {line: 12, title: "El intruso ordinario", body: "La mosca ocupa el lugar donde parecía que iba a producirse una aparición solemne. Su presencia puede sugerir corporalidad, descomposición o simplemente un zumbido inoportuno; el texto permite varios matices sin confirmar un dogma."},
+      {line: 13, title: "Blue – uncertain stumbling Buzz", body: "La distribución de adjetivos y guiones produce una sensación discontinua; «Blue» puede sugerir color o cualidad sonora. Se mantiene el orden extraño en la traducción."},
+      {line: 16, title: "Ver para ver", body: "La repetición de «see» separa la facultad física de visión de la posibilidad de conocer o percibir algo más. La frase no dice qué se ve después de morir: se corta en la falla misma de la percepción."},
+      {line: 16, title: "Una lectura de Preest", body: "Preest señala que Dickinson imagina el instante de morir pero rehúsa describir qué habría más allá: el poema termina justamente donde debería comenzar un testimonio imposible."}
+    ]
+  },
+  J712: {
+    id: "J712", franklin: "F479", approx: "c. 1862",
+    incipit: "Because I could not stop for Death –",
+    titleES: "Como no podía detenerme por la Muerte —",
+    stanzaBreaks: [4, 8, 12, 16, 20],
+    source: "Johnson, The Complete Poems, J712, pp. 349–350; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 23, pp. 239–240 (F479); Preest, Emily Dickinson Poems Commentary, pp. 241–242. Sobre la edición póstuma de 1890: Dartmouth, White Heat, «Because I could not stop for Death» (F479).",
+    lines: [
+      ["Because I could not stop for Death –", "Como no podía detenerme por la Muerte —"],
+      ["He kindly stopped for me –", "Él tuvo la amabilidad de detenerse por mí —"],
+      ["The Carriage held but just Ourselves –", "El Carruaje solo nos llevaba a Nosotros —"],
+      ["And Immortality.", "y a la Inmortalidad."],
+      ["We slowly drove – He knew no haste", "Avanzábamos despacio — Él no conocía la prisa"],
+      ["And I had put away", "y yo había dejado de lado"],
+      ["My labor and my leisure too,", "mi trabajo y también mi ocio,"],
+      ["For His Civility –", "por Su Cortesía —"],
+      ["We passed the School, where Children strove", "Pasamos por la Escuela, donde los Niños se afanaban"],
+      ["At Recess – in the Ring –", "en el Recreo — formando un Corro —"],
+      ["We passed the Fields of Gazing Grain –", "Pasamos por los Campos de Grano que miraba —"],
+      ["We passed the Setting Sun –", "Pasamos por el Sol Poniente —"],
+      ["Or rather – He passed Us –", "O más bien — Él nos pasó —"],
+      ["The Dews drew quivering and Chill –", "El Rocío nos envolvió, tembloroso y Frío —"],
+      ["For only Gossamer, my Gown –", "porque mi Vestido era apenas de Gasa —"],
+      ["My Tippet – only Tulle –", "mi Manteleta — solo de Tul —"],
+      ["We paused before a House that seemed", "Nos detuvimos ante una Casa que parecía"],
+      ["A Swelling of the Ground –", "una Hinchazón del Suelo —"],
+      ["The Roof was scarcely visible –", "el Techo apenas se distinguía —"],
+      ["The Cornice – in the Ground –", "la Cornisa — estaba en la Tierra —"],
+      ["Since then – ’tis Centuries – and yet", "Desde entonces — han pasado Siglos — y, sin embargo,"],
+      ["Feels shorter than the Day", "parecen más breves que el Día"],
+      ["I first surmised the Horses’ Heads", "en que por primera vez sospeché que las Cabezas de los Caballos"],
+      ["Were toward Eternity –", "apuntaban hacia la Eternidad —"]
+    ],
+    notes: [
+      {line: 1, title: "Una muerte cortés", body: "La muerte aparece como un hombre que detiene su carruaje y ofrece un paseo. Esa personificación evita el horror explícito, pero es inquietante precisamente por su normalidad."},
+      {line: 4, title: "La tercera pasajera", body: "La «Inmortalidad» comparte el carruaje, aunque no actúa ni habla. Su presencia no demuestra por sí sola que la travesía termine en una vida posterior comprobable."},
+      {line: 5, title: "La cortesía cambia el tiempo", body: "El viaje es lento, y la hablante deja atrás tanto el trabajo como el ocio. La vida social organizada por actividades cede ante un ritmo que no controla."},
+      {line: 9, title: "La escuela y el grano", body: "La infancia y la maduración agrícola permiten leer un recorrido por etapas de la vida o por distintas escalas del tiempo. Es una interpretación, no una equivalencia alegórica declarada por la autora."},
+      {line: 11, title: "Fields of Gazing Grain", body: "«Gazing» atribuye al grano la facultad de mirar. En español, «de Grano que miraba» intenta no perder la personificación; evita sustituirla por «grano dorado» u otra imagen que no está en el verso."},
+      {line: 13, title: "¿Quién pasa a quién?", body: "«Or rather – He passed Us –» corrige el verso anterior: no está claro que los viajeros dejen atrás el sol; es el sol el que los sobrepasa. La corrección modifica la orientación de la escena y anuncia el frío posterior."},
+      {line: 14, title: "Ropa insuficiente", body: "Gossamer y Tulle son materiales ligeros. La delicadeza de la vestimenta transforma la cortesía inicial en exposición al frío, con una evidente fragilidad corporal."},
+      {line: 18, title: "La casa enterrada", body: "La «Casa» que parece una elevación del suelo es una tumba: el techo apenas visible y la cornisa bajo tierra condensan lo doméstico y lo funerario."},
+      {line: 21, title: "Centuries: una voz fuera del tiempo", body: "Han pasado siglos desde el viaje y, sin embargo, parecen más cortos que un solo día. El poema modifica la duración y la perspectiva de la voz, sin ofrecer una descripción verificable del más allá."},
+      {line: 23, title: "Una lectura alternativa de Sewall y Ruth Miller", body: "Preest recoge la interpretación de Richard Sewall y Ruth Miller según la cual la cabalgata figura el descubrimiento temprano de la vocación de Dickinson: escribir sobre muerte e inmortalidad. Es una hipótesis distinta de la lectura convencional desde el sepulcro y debe presentarse como tal."},
+      {line: 24, title: "La versión de 1890", body: "En su primera publicación póstuma, bajo el título editorial «The Chariot», Todd y Higginson omitieron la estrofa que empieza «Or rather – He passed Us –» y regularizaron otras partes. La presente edición conserva los 24 versos de Johnson y permite cotejarlos con Miller (F479)."}
+    ]
   }
 });
