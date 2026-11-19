@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado actual (19 noviembre 2026):** Acto I, escenas 1 y 2, versos 1–302 publicados como primera edición bilingüe completa de ambas escenas (42 notas). **Siguiente:** acto I, escena 3, verso 303 (Ardaric y Valamir a solas). Revisión léxica y sintáctica detallada pendiente para la nueva escena.
+**Estado actual (19 noviembre 2026):** Acto I completo (vv. 1–362), acto II escena I parcial (vv. 363–416). Siguiente verso: 417. Revisión filológica detallada posterior.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
