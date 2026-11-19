@@ -31,15 +31,15 @@
       "act": 1,
       "scene": 3,
       "from": 303,
-      "to": 362,
+      "to": 360,
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
-      "notes": 4
+      "notes": 6
     },
     {
       "act": 2,
       "scene": 1,
-      "from": 363,
+      "from": 361,
       "to": 449,
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
@@ -88,5 +88,5 @@
     "verse": 591
   },
   "last_edit": "2026-11-19",
-  "instructions": "Acto I completo (vv. 1–362). Acto II escenas 1–5 completas (vv. 363–590). Próxima escena II.6 v. 591. Revisión filológica y morfológica pendiente."
+  "instructions": "Acto I completo vv. 1–360. Acto II escenas 1–5 completas vv. 361–590. Siguiente II.6 verso 591. En I.3 se fundieron los hemistiquios de dos versos compartidos (335–336) y se recuperaron los versos 415–416 omitidos en II.1. Texto francés y traducción alineados; glosario detallado pendiente."
 }
