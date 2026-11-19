@@ -30,3 +30,8 @@
  .scene-index a{min-height:50px}
  .context-note h2{font-size:18px}
 }
+/* Separación editorial de escenas dentro del mismo lector. */
+.scene-transition{margin:38px 0 22px;padding:22px 12px 18px;border-top:1px solid #b9b4a6;border-bottom:1px solid #e2ded5;scroll-margin-top:82px}
+.scene-transition span{font:700 10px/1.5 'DM Sans',sans-serif;letter-spacing:.12em;color:#8d6b5c}
+.scene-transition h2{font:400 20px/1.4 'Libre Baskerville',Georgia,serif;color:#333b37;margin:7px 0 0}
+.verse[id]{scroll-margin-top:86px}
