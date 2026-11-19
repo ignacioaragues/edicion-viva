@@ -25,6 +25,7 @@
     grid.append(head);
     poem.lines.forEach((pair, index) => {
       const line = make('div', 'poem-line');
+      if ((poem.stanzaBreaks || []).includes(index)) line.classList.add('stanza-start');
       const en = make('div', 'poem-en', pair[0]); en.lang = 'en';
       const es = make('div', 'poem-es', pair[1]); es.lang = 'es';
       en.dataset.line = String(index + 1);
