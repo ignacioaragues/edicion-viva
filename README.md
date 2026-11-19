@@ -8,8 +8,9 @@ Biblioteca de ediciones bilingües y anotadas de clásicos literarios. Una lectu
 
 - **Disponible:** Marlowe · *Tamburlaine the Great*, Partes I y II (ambas partes y sus prólogos traducidos íntegramente en primera versión; revisión filológica pendiente): https://ignacioaragues.github.io/edicion-viva/autores/marlowe/tamburlaine/
 - **Disponible:** Shakespeare · *Coriolanus*, en edición continua: https://ignacioaragues.github.io/shakespeare-edicion-viva/
+- **Disponible en curso:** Milton · *Paradise Lost*, libro I, versos 1–300 en inglés y español, con 40 notas originales en español: https://ignacioaragues.github.io/edicion-viva/autores/milton/paradise-lost/
 - **Disponible en curso:** Evangelio según Marcos, 1,1–13: `autores/evangelios/marcos/`. Griego SBLGNT, traducción española original y Vulgata Clementina opcional.
-- **En consideración:** Mateo, Lucas y Juan; Milton · *Paradise Lost*; Marlowe · *Doctor Faustus* y continuación de *Tamburlaine the Great*; Corneille · *Attila*; Whitman · *Leaves of Grass*; Dickinson · poemas; Petrarca · *Canzoniere* (selección por confirmar); Chaucer · *The Canterbury Tales*; Ariosto · *Orlando furioso*; Wyspiański · *Wesele*; Hugo · *La Légende des siècles*; Melville · *The Confidence-Man: His Masquerade*; Shakespeare · *Sonnets*.
+- **En consideración:** Mateo, Lucas y Juan; Marlowe · *Doctor Faustus* y continuación de *Tamburlaine the Great*; Corneille · *Attila*; Whitman · *Leaves of Grass*; Dickinson · poemas; Petrarca · *Canzoniere* (selección por confirmar); Chaucer · *The Canterbury Tales*; Ariosto · *Orlando furioso*; Wyspiański · *Wesele*; Hugo · *La Légende des siècles*; Melville · *The Confidence-Man: His Masquerade*; Shakespeare · *Sonnets*.
 
 La portada general y el lector de Shakespeare son proyectos independientes. Este repositorio **no modifica** el flujo editorial ni las actualizaciones automáticas de Shakespeare.
 
