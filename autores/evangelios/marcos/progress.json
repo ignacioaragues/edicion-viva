@@ -1779,12 +1779,26 @@
         "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
         "https://tips.translation.bible/story/translation-commentary-on-mark-721-722/"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 22,
+      "to": 23,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "20/20 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://biblehub.com/text/mark/7-22.htm"
+      ]
     }
   ],
   "pending": "Continuar Marcos 7,21; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 22
+    "verse": 24
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4018,5 +4032,11 @@
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-721-722/"
     ]
+  },
+  "prepublication_research_7_22_23": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
   }
 }
