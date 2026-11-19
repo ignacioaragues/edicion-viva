@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado inicial:** Acto I, escena primera, versos 1–28 publicados. **Siguiente:** v. 29 (réplica de Octar). Continuar dentro de la misma escena, sin marcarla como completa antes de su cierre real.
+**Estado actual (19 noviembre 2026):** Acto I, escena primera, versos 1–72 publicados (primera edición bilingüe completa; 18 notas). **Siguiente:** acto I, escena segunda, verso 73 (entrada de Ardaric y Valamir). La revisión léxica y sintáctica fina continúa abierta.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
