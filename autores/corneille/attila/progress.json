@@ -1,7 +1,7 @@
 {
   "work": "Pierre Corneille — Attila",
   "edition": "Œuvres de P. Corneille, éd. Ch. Marty-Laveaux, Hachette, 1862, tome VII",
-  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I",
+  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_II",
   "crosscheck": "https://www.gutenberg.org/files/51612/51612-h/51612-h.htm",
   "first_performance": "1667-03-04",
   "total_acts": 5,
@@ -40,17 +40,53 @@
       "act": 2,
       "scene": 1,
       "from": 363,
-      "to": 416,
-      "status": "in_progress",
-      "translation": "complete_first_pass_for_range",
+      "to": 449,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 9
+    },
+    {
+      "act": 2,
+      "scene": 2,
+      "from": 450,
+      "to": 496,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
       "notes": 3
+    },
+    {
+      "act": 2,
+      "scene": 3,
+      "from": 497,
+      "to": 516,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 2
+    },
+    {
+      "act": 2,
+      "scene": 4,
+      "from": 517,
+      "to": 530,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 0
+    },
+    {
+      "act": 2,
+      "scene": 5,
+      "from": 531,
+      "to": 590,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 5
     }
   ],
   "next": {
     "act": 2,
-    "scene": 1,
-    "verse": 417
+    "scene": 6,
+    "verse": 591
   },
   "last_edit": "2026-11-19",
-  "instructions": "Acto I completo vv. 1–362; acto II escena I vv. 363–416; seguir v. 417, cotejando con fuente antes de publicar."
+  "instructions": "Acto I completo (vv. 1–362). Acto II escenas 1–5 completas (vv. 363–590). Próxima escena II.6 v. 591. Revisión filológica y morfológica pendiente."
 }
