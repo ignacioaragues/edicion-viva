@@ -121,7 +121,7 @@ const collection = [
     language: 'Inglés · Español',
     status: 'available',
     url: './autores/milton/paradise-lost/',
-    detail: 'Libro I completo · libro II, vv. 1–814 · 199 notas originales en español',
+    detail: 'Libro I completo · libro II, vv. 1–910 · 209 notas originales en español',
   },
   {
     author: 'Christopher Marlowe',
