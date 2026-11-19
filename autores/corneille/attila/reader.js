@@ -438,7 +438,8 @@
       1165:['act4scene3','ACTO CUARTO · ESCENA TERCERA','Atila, Honoria y Flavia'],
       1265:['act4scene4','ACTO CUARTO · ESCENA CUARTA','Atila y Ardaric'],
       1363:['act4scene5','ACTO CUARTO · ESCENA QUINTA','Atila, Ardaric e Ildione'],
-      1373:['act4scene6','ACTO CUARTO · ESCENA SEXTA','Ardaric e Ildione']
+      1373:['act4scene6','ACTO CUARTO · ESCENA SEXTA','Ardaric e Ildione'],
+      1437:['act4scene7','ACTO CUARTO · ESCENA SÉPTIMA','Ildione']
     };
     if(n===361||n===713||n===1085){const end=document.createElement('p');end.className='act-end';end.textContent=n===361?'FIN DEL ACTO PRIMERO':n===713?'FIN DEL ACTO SEGUNDO':'FIN DEL ACTO TERCERO';verses.append(end);}
     if(headings[n]){
