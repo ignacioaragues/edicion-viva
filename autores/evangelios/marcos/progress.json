@@ -1822,12 +1822,26 @@
         "https://www.biblehub.com/commentaries/egt/mark/7.htm",
         "https://etheses.dur.ac.uk/4428/1/Wilkinson_-_Prelims_and_Main_Chapters_and_Appendices.pdf"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 26,
+      "to": 26,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT 2010; Tauber MorphGNT 6.12",
+      "morphology": "19/19 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+        "https://old-tips.translation.bible/story/translation-commentary-on-mark-726/",
+        "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,21; segunda revisión filológica pendiente.",
+  "pending": "Continuar Marcos 7,27; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 26
+    "verse": 27
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4075,6 +4089,12 @@
     "latin": "optional_pending"
   },
   "prepublication_research_7_25": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "19/19",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
+  },
+  "prepublication_research_7_26": {
     "status": "published_morphology_mechanically_aligned",
     "morphology_audit": "19/19",
     "second_passage_review": "pending",
