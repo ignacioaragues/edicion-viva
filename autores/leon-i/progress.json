@@ -419,13 +419,27 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "17 aligned units across three complete chapters; Latin compared against Tractatus XXI and traditional PL transcription. Variant caritatem/misericordiam and closing formula remain for critical printed collation. Contextual word-by-word morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 22,
+      "section": "Sermo XXII, secciones I–II de VI",
+      "paragraphs": 15,
+      "translation": "first-pass aligned original Spanish translation, sections I–II only",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxii/index.html",
+      "voice_notes": 5,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Digital long version of Tractatus XXII, pars 1–2, 15 aligned units; shorter duplicate in source not conflated. Printed PL collation, contextual morphology, sections III–VI and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 22,
-    "section": "caput I",
-    "incipit": "Sermo XXII, In Nativitate Domini II"
+    "section": "III",
+    "incipit": "Hoc ipsum autem, dilectissimi, quod christus nasci elegit ex uirgine"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-19: Sermo XXI complete first-pass bilingual edition, 17 aligned units, three chapters, eight rhetorical notes. Contextual morphology, critical print collation and browser QA pending.",
@@ -433,8 +447,14 @@
   "in_progress_work": {
     "group": "sermones",
     "number": 22,
-    "status": "not_started",
-    "next": "Sermo XXII, caput I"
+    "status": "partial",
+    "completed_sections": [
+      "I",
+      "II"
+    ],
+    "next_section": "III",
+    "next_incipit": "Hoc ipsum autem, dilectissimi",
+    "total_sections": 6
   },
   "priority_queue": [
     {
