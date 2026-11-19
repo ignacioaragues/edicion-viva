@@ -462,7 +462,7 @@
       const title=document.createElement('h2');title.textContent='Atila, Ardaric, Valamir y Octar';
       heading.append(kicker,title);verses.append(heading);
     }
-    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<361?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':n<591?'corneille-attila-2-5':n<713?'corneille-attila-2-6':n<797?'corneille-attila-3-1':n<925?'corneille-attila-3-2':n<957?'corneille-attila-3-3':n<1085?'corneille-attila-3-4':n<1121?'corneille-attila-4-1':n<1165?'corneille-attila-4-2':n<1265?'corneille-attila-4-3':n<1363?'corneille-attila-4-4':n<1373?'corneille-attila-4-5':n<1437?'corneille-attila-4-6':n<1453?'corneille-attila-4-7':n<1485?'corneille-attila-5-1':n<1515?'corneille-attila-5-2':'corneille-attila-5-3';
+    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<361?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':n<591?'corneille-attila-2-5':n<713?'corneille-attila-2-6':n<797?'corneille-attila-3-1':n<925?'corneille-attila-3-2':n<957?'corneille-attila-3-3':n<1085?'corneille-attila-3-4':n<1121?'corneille-attila-4-1':n<1165?'corneille-attila-4-2':n<1265?'corneille-attila-4-3':n<1363?'corneille-attila-4-4':n<1373?'corneille-attila-4-5':n<1437?'corneille-attila-4-6':n<1453?'corneille-attila-4-7':n<1485?'corneille-attila-5-1':n<1515?'corneille-attila-5-2':n<1611?'corneille-attila-5-3':n<1697?'corneille-attila-5-4':n<1726?'corneille-attila-5-5':n<1769?'corneille-attila-5-6':'corneille-attila-5-7';
     const num=document.createElement('span');num.className='number';num.textContent=n;
     const speech=document.createElement('div');speech.className='speech';speech.lang='fr';
     if (speaker){const sp=document.createElement('span');sp.className='speaker';sp.textContent=speaker;speech.append(sp);}
@@ -479,6 +479,7 @@
     const translation=document.createElement('p');translation.className='spanish';translation.lang='es';translation.textContent=es;
     row.append(num,speech,translation);verses.append(row);
   }
+  if(edition.complete){const fin=document.createElement('p');fin.className='act-end';fin.textContent='FIN DEL QUINTO Y ÚLTIMO ACTO';verses.append(fin);}
   function readSaved(){try{const a=JSON.parse(localStorage.getItem(STORE)||'[]');return Array.isArray(a)?a:[];}catch{return [];}}
   function storeSaved(a){try{localStorage.setItem(STORE,JSON.stringify(a));return true;}catch{return false;}}
   function showWord(form,anchor){
