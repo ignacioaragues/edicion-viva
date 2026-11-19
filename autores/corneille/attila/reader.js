@@ -400,6 +400,25 @@
     const y=below+r.height+pad<window.innerHeight?below:Math.max(pad,b.top-r.height-9);
     panel.style.left=x+'px';panel.style.top=y+'px';
   }
+  // Las notas son marginales en pantallas amplias; los glosarios conservan el popup habitual.
+  function placeNote(panel,anchor){
+    const b=anchor.getBoundingClientRect();
+    panel.hidden=false;
+    panel.classList.add('marginal-note-panel');
+    const rect=panel.getBoundingClientRect(),pad=12,gap=12;
+    const availRight=window.innerWidth-b.right-gap-pad;
+    const availLeft=b.left-gap-pad;
+    if(Math.max(availRight,availLeft)>=rect.width && window.innerWidth>=690){
+      const x=availRight>=rect.width?b.right+gap:b.left-rect.width-gap;
+      const y=Math.max(pad,Math.min(window.innerHeight-rect.height-pad,b.top-7));
+      panel.style.left=x+'px';panel.style.top=y+'px';
+    }else{
+      const x=Math.max(pad,Math.min(window.innerWidth-rect.width-pad,b.left));
+      const below=b.bottom+10;
+      const y=below+rect.height+pad<=window.innerHeight?below:Math.max(pad,b.top-rect.height-10);
+      panel.style.left=x+'px';panel.style.top=y+'px';
+    }
+  }
   function hidePanels(){popup.hidden=true;notePopup.hidden=true;document.querySelectorAll('.token[aria-pressed]').forEach(t=>t.removeAttribute('aria-pressed'));}
   for(const [n,speaker,fr,es] of edition.verses) {
     const headings={
@@ -432,12 +451,16 @@
     const num=document.createElement('span');num.className='number';num.textContent=n;
     const speech=document.createElement('div');speech.className='speech';speech.lang='fr';
     if (speaker){const sp=document.createElement('span');sp.className='speaker';sp.textContent=speaker;speech.append(sp);}
-    const original=document.createElement('p');original.className='latin';renderText(fr,original);speech.append(original);
+    const originalLine=document.createElement('div');originalLine.className='verse-original-line';
+    const original=document.createElement('p');original.className='latin';renderText(fr,original);originalLine.append(original);
     if (edition.notes[n]){
       const anchor=document.createElement('button');anchor.type='button';anchor.className='note-anchor';anchor.textContent='n';anchor.setAttribute('aria-label','Nota al verso '+n);
-      anchor.addEventListener('click',()=>{hidePanels();$('#note-heading').textContent=edition.notes[n][0];$('#note-content').textContent=edition.notes[n][1];place(notePopup,anchor);});
-      speech.append(anchor);
+      anchor.setAttribute('aria-haspopup','dialog');anchor.setAttribute('aria-controls','note-panel');
+      anchor.title='Nota al verso '+n;
+      anchor.addEventListener('click',()=>{hidePanels();$('#note-heading').textContent=edition.notes[n][0];$('#note-content').textContent=edition.notes[n][1];placeNote(notePopup,anchor);});
+      originalLine.append(anchor);
     }
+    speech.append(originalLine);
     const translation=document.createElement('p');translation.className='spanish';translation.lang='es';translation.textContent=es;
     row.append(num,speech,translation);verses.append(row);
   }
