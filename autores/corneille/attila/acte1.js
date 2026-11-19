@@ -1,8 +1,8 @@
-/* Corneille, Attila, I.1, vv. 1–72. Texte: Marty-Laveaux (1862), t. VII, pp. 109–110.
-   Traducción de apoyo propia. El fragmento concluye en un límite de parlamento.
-   No se completa la escena: la escena siguiente empieza en el v. 73. */
+/* Corneille, Attila, I.1, vv. 1–72. Texte: Marty-Laveaux (1862), t. VII, pp. 109 y ss.
+   Traducción de apoyo propia. La escena primera está completa (vv. 1–72).
+   La escena segunda empieza en el v. 73. */
 window.ATTILA_EDITION = {
-  source: "Pierre Corneille, Attila (1667), éd. Marty-Laveaux, 1862, VII, 109–110",
+  source: "Pierre Corneille, Attila (1667), éd. Marty-Laveaux, 1862, VII, 109 y ss.",
   next: {act:1, scene:2, verse:73},
   notes: {
     1:["Los dos reyes","Son Ardaric, rey de los gépidos, y Valamir, rey de los ostrogodos. Aunque conservan sus títulos, aparecen sometidos a Atila. La relación entre título y poder efectivo organiza todo el parlamento."],
