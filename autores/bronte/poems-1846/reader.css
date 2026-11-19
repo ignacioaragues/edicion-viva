@@ -84,7 +84,7 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
    El límite de anchura se aplica al POEMA, no al índice general. */
 .poem-view .reader{
   width:100%;
-  max-width:1120px;
+  max-width:var(--poem-width,1120px);
   margin-inline:auto;
 }
 .poem-view .verse{
@@ -131,3 +131,13 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
 .scholarly-sources a:hover{text-decoration:underline}
 .poem-view .verse:target{background:rgba(111,133,112,.17);scroll-margin-top:100px}
 @media(max-width:600px){.poem-scholarship{margin-top:32px}.scholarly-note h3{font-size:16px}.scholarly-sources{flex-direction:column;gap:6px}}
+
+/* Ajuste del ancho de los poemas; independiente del tamaño de letra. */
+.reader-controls{align-items:center;flex-wrap:wrap}
+.reader-width-controls{display:inline-flex;align-items:center;gap:9px;margin-right:auto;font:600 11px var(--sans);color:var(--soft);white-space:nowrap}
+.reader-width-controls label{cursor:pointer}
+.reader-width-controls input[type="range"]{width:115px;max-width:25vw;accent-color:var(--deep);cursor:pointer}
+.reader-width-controls output{min-width:39px;text-align:right;font-variant-numeric:tabular-nums}
+.reader-width-controls button{padding:7px 9px;font-size:10px}
+.reader-width-controls button:disabled{opacity:.45;cursor:default}
+@media(max-width:850px){.reader-width-controls{display:none}}
