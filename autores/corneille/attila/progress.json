@@ -161,13 +161,31 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 7
+    },
+    {
+      "act": 4,
+      "scene": 5,
+      "from": 1363,
+      "to": 1372,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 1
+    },
+    {
+      "act": 4,
+      "scene": 6,
+      "from": 1373,
+      "to": 1400,
+      "status": "in_progress",
+      "translation": "complete_first_pass",
+      "notes": 2
     }
   ],
   "next": {
     "act": 4,
-    "scene": 5,
-    "verse": 1363
+    "scene": 6,
+    "verse": 1401
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I–III completos; acto IV escenas 1–4 completas hasta v. 1362. Próximo IV.5 v. 1363. IV.4 repartida en acte4-scene4a.js (1265–1320) y acte4-scene4.js (1321–1362); evitar duplicados."
+  "instructions": "Acto IV escena V completa y escena VI parcialmente traducida hasta 1400; continuar desde 1401."
 }
