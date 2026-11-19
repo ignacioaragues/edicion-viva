@@ -388,7 +388,7 @@
     215,
     "",
     "Et c’en seroit la sœur qu’il faudroit obtenir,",
-    "y habría que conseguir a la hermana de este,"
+    "y habría que conseguir a la hermana del emperador,"
   ],
   [
     216,
