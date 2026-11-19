@@ -443,7 +443,10 @@
       1453:['act5','ACTO QUINTO · ESCENA PRIMERA','Ardaric y Valamir'],
       1485:['act5scene2','ACTO QUINTO · ESCENA SEGUNDA','Ardaric, Valamir y Honoria'],
       1515:['act5scene3','ACTO QUINTO · ESCENA TERCERA','Atila, Valamir, Ardaric, Honoria y Octar'],
-      1611:['act5scene4','ACTO QUINTO · ESCENA CUARTA','Atila, Valamir, Ardaric, Honoria, Ildione y Octar']
+      1611:['act5scene4','ACTO QUINTO · ESCENA CUARTA','Atila, Valamir, Ardaric, Honoria, Ildione y Octar'],
+      1697:['act5scene5','ACTO QUINTO · ESCENA QUINTA','Honoria y Octar'],
+      1726:['act5scene6','ACTO QUINTO · ESCENA SEXTA','Valamir, Honoria y Octar'],
+      1769:['act5scene7','ACTO QUINTO · ESCENA SÉPTIMA','Ardaric, Valamir, Honoria, Ildione y Octar']
     };
     if(n===361||n===713||n===1085||n===1453){const end=document.createElement('p');end.className='act-end';end.textContent=n===361?'FIN DEL ACTO PRIMERO':n===713?'FIN DEL ACTO SEGUNDO':n===1085?'FIN DEL ACTO TERCERO':'FIN DEL ACTO CUARTO';verses.append(end);}
     if(headings[n]){
