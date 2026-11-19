@@ -146,10 +146,11 @@ const collection = [
     author: 'Emily Dickinson',
     period: 'POESÍA ESTADOUNIDENSE',
     work: 'Poems',
-    translated: 'Poemas',
+    translated: 'Poemas · edición completa en preparación',
     language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración · edición por poemas',
+    status: 'available',
+    url: './autores/dickinson/',
+    detail: 'J288 y J441 publicados · orden Johnson · curso vinculado',
   },
   {
     author: 'Francesco Petrarca',
@@ -239,7 +240,8 @@ const readingIds = new Map([
   ['./autores/evangelios/marcos/', ['evangelios-marcos']],
   ['./autores/leon-i/', ['leo-i-']],
   ['./autores/corneille/attila/', ['corneille-attila']],
-  ['./autores/milton/paradise-lost/', ['milton-paradise-lost']]
+  ['./autores/milton/paradise-lost/', ['milton-paradise-lost']],
+  ['./autores/dickinson/', ['dickinson-poemas']]
 ]);
 
 function activityTime(item, works) {
