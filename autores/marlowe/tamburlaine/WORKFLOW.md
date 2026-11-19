@@ -418,3 +418,7 @@
 - **50 unidades**: Parte II III.3.9–58. Acumulado **3.394/4.641 (73,1 %)**. Sigue III.3.59–63 y III.4.1–45.
 - **44 traducciones corregidas**, 6 conservadas; **13 notas** y **2 fichas**. Comparación con transcripción de grafía temprana de mercaba.es, III.3 (19-11-2026); variantes «ruin/wine» y «gallions/Gabions» documentadas sin modificar inglés. Cotejo facsimilar y QA navegador pendientes.
 - Inglés, acotaciones, IDs y navegación conservados; capa condicionada a coincidencia literal del inglés.
+
+## Sexagésima novena pasada filológica (19-11-2026)
+- **40 unidades**: Parte II III.3.59–63 y III.4.1–35. Acumulado **3.434/4.641 (74,0 %)**. Sigue III.4.36.
+- **12 traducciones corregidas**, 28 conservadas; **10 notas** y **2 fichas**. Cotejo interno; cotejo histórico externo y QA navegador pendientes.
