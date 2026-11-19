@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado actual (19 noviembre 2026):** Actos I y II completos vv. 1–712 y acto III escena primera vv. 713–797. Siguiente: III.2 verso 798. Las escenas II.6 y III.1 se publicaron con traducción alineada y notas selectivas. Se conservaron versos compartidos II.6 (631, 662–663) y III.1 (725, 741, 792). Segunda revisión morfológica y de variantes pendiente.
+**Estado actual (19 noviembre 2026):** Actos I–II completos vv. 1–712, acto III escenas 1–3 completas vv. 713–956; siguiente III.4 verso 957. El verso 791 contiene tres intervenciones en un solo alejandrino (Atila–Octar–Atila): corregida la numeración de cierre III.1 (796) e inicio III.2 (797). La publicación primaria precede la revisión morfológica, de variantes y notas secundarias.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
