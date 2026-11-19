@@ -264,5 +264,91 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 24, title: "Zero at the Bone", body: "Una cifra abstracta, «Zero», nombra una sensación física extrema: un frío que atraviesa el cuerpo hasta los huesos. Puede sugerir tanto el miedo súbito como una experiencia radical de alteridad."},
       {line: 1, title: "Historia de publicación", body: "El Springfield Daily Republican publicó el poema el 14 de febrero de 1866 como «The Snake», con alteraciones editoriales; Dickinson escribió a Thomas Wentworth Higginson el 17 de marzo de 1866 para protestar, especialmente por la puntuación. Véase Miller, nota a la hoja 54, y Emily Dickinson Museum, «Poems Published in Dickinson's Lifetime»."}
     ]
+  },
+  J185: {
+    id: "J185", franklin: "F202", approx: "c. 1860",
+    incipit: "“Faith” is a fine invention",
+    titleES: "La «Fe» es un buen invento",
+    source: "Johnson, The Complete Poems, J185, p. 87; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículos, pp. 119 y 137 (F202); Preest, Emily Dickinson Poems Commentary, comentario de J185, pp. 57–58.",
+    lines: [
+      ["“Faith” is a fine invention", "La «Fe» es un buen invento"],
+      ["When Gentlemen can see –", "cuando los Caballeros pueden ver —"],
+      ["But Microscopes are prudent", "pero los Microscopios son prudentes"],
+      ["In an Emergency.", "en una Emergencia."]
+    ],
+    notes: [
+      {line: 1, title: "Comillas en «Faith»", body: "Johnson encierra «Faith» entre comillas; una copia conservada que imprime Miller (F202) comienza sin ellas. No hay que borrar la discrepancia: las comillas hacen que la palabra misma quede bajo examen."},
+      {line: 2, title: "Gentlemen: ¿quiénes ven?", body: "El sujeto puede leerse como un grupo social con autoridad, o como quienes se consideran capaces de ver sin prueba instrumental. La ironía se dirige a un tipo de seguridad, no exige deducir un credo personal definitivo de la poeta."},
+      {line: 3, title: "El microscopio como método", body: "El instrumento pone a prueba lo que no se percibe a simple vista. «Prudente» no significa omnisciente: la observación científica tampoco resuelve sin más todas las cuestiones religiosas."},
+      {line: 4, title: "Emergency: crisis y contexto", body: "El remate puede aludir a una crisis de creencia, pero Preest recoge además la hipótesis de Richard Sewall y Ruth Miller: en una carta a Samuel Bowles, el poema podría intervenir irónicamente en la decisión de publicar o no versos de Dickinson. No se presenta esa interpretación como única."}
+    ]
+  },
+  J376: {
+    id: "J376", franklin: "F581", approx: "c. 1862",
+    incipit: "Of Course – I prayed –",
+    titleES: "Por supuesto — recé —",
+    source: "Johnson, The Complete Poems, J376, p. 179; Miller, Emily Dickinson’s Poems: As She Preserved Them, p. 265 (F581); Preest, Emily Dickinson Poems Commentary, comentario de J376, p. 127.",
+    lines: [
+      ["Of Course – I prayed –", "Por supuesto — recé —"],
+      ["And did God Care?", "¿Y a Dios le importó?"],
+      ["He cared as much as on the Air", "Le importó tanto como si, en el Aire,"],
+      ["A Bird – had stamped her foot –", "un Pájaro — hubiera golpeado con su pata —"],
+      ["And cried “Give Me” –", "y gritado: «Dame» —"],
+      ["My Reason – Life –", "Mi Razón — la Vida —"],
+      ["I had not had – but for Yourself –", "no la habría tenido — de no ser por Ti —"],
+      ["’Twere better Charity", "Mayor Caridad habría sido"],
+      ["To leave me in the Atom’s Tomb –", "dejarme en la Tumba del Átomo —"],
+      ["Merry, and Nought, and gay, and numb –", "alegre, y Nada, y jovial, e insensible —"],
+      ["Than this smart Misery.", "que esta Miseria lacerante."]
+    ],
+    notes: [
+      {line: 1, title: "Oración sin respuesta", body: "El texto empieza dando por supuesto que la voz ha rezado, pero el diálogo esperado con Dios queda sustituido por una pregunta acusatoria."},
+      {line: 3, title: "La comparación con el pájaro", body: "El hipotético reclamo del ave al aire no provoca respuesta; la oración humana parece igual de ineficaz. La imagen impide identificar el poema como una plegaria convencional."},
+      {line: 5, title: "«Give Me»: un imperativo", body: "La puntuación deja abierto el encadenamiento exacto de las frases; David Preest propone un corte fuerte después de «Give Me». En la traducción se conserva la respiración fragmentada del original."},
+      {line: 6, title: "Reason – Life", body: "El reproche no se dirige únicamente a la falta de consuelo: cuestiona haber recibido la vida de un Dios que, según la voz, no socorre a su criatura. «Reason» puede indicar la razón o causa de la existencia."},
+      {line: 9, title: "Atom’s Tomb", body: "La tumba del átomo representa un estado anterior o ajeno a la vida consciente. La imagen combina vocabulario científico con una acusación teológica."},
+      {line: 11, title: "Smart Misery", body: "En inglés «smart» puede significar dolor agudo, punzante. Aquí no se usa en el sentido contemporáneo de «inteligente»; «lacerante» intenta expresar el dolor vivo que contrasta con la insensibilidad del verso anterior."},
+      {line: 11, title: "La voz frente a la autora", body: "La intensidad del reproche no demuestra que Dickinson sostuviera siempre una negación de Dios. Como observa Preest, es una de las formulaciones más severas del sufrimiento por una plegaria no atendida."}
+    ]
+  },
+  J501: {
+    id: "J501", franklin: "F373", approx: "c. 1862",
+    incipit: "This World is not Conclusion.",
+    titleES: "Este Mundo no es la Conclusión.",
+    source: "Johnson, The Complete Poems, J501, p. 243; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 18, pp. 198–199 (F373); Martin, The Cambridge Introduction to Emily Dickinson, p. 105; Preest, Emily Dickinson Poems Commentary, J501, pp. 167–168.",
+    lines: [
+      ["This World is not Conclusion.", "Este Mundo no es la Conclusión."],
+      ["A Species stands beyond –", "Hay una Especie más allá —"],
+      ["Invisible, as Music –", "invisible, como la Música —"],
+      ["But positive, as Sound –", "pero tan cierta como el Sonido —"],
+      ["It beckons, and it baffles –", "Llama y desconcierta —"],
+      ["Philosophy – don’t know –", "la Filosofía — no lo sabe —"],
+      ["And through a Riddle, at the last –", "y a través de un Enigma, al final —"],
+      ["Sagacity, must go –", "la Sagacidad ha de pasar —"],
+      ["To guess it, puzzles scholars –", "Adivinarlo confunde a los eruditos —"],
+      ["To gain it, Men have borne", "por alcanzarlo, los Hombres han soportado"],
+      ["Contempt of Generations", "el Desprecio de Generaciones"],
+      ["And Crucifixion, shown –", "y aun la Crucifixión, como se ha visto —"],
+      ["Faith slips – and laughs, and rallies –", "La Fe resbala — y ríe, y se recobra —"],
+      ["Blushes, if any see –", "se ruboriza si alguien la ve —"],
+      ["Plucks at a twig of Evidence –", "arranca una ramita de Evidencia —"],
+      ["And asks a Vane, the way –", "y le pregunta el camino a una Veleta —"],
+      ["Much Gesture, from the Pulpit –", "Mucho Gesto desde el Púlpito —"],
+      ["Strong Hallelujahs roll –", "resuenan vigorosos Aleluyas —"],
+      ["Narcotics cannot still the Tooth", "los Narcóticos no pueden calmar el Diente"],
+      ["That nibbles at the soul –", "que roe el alma —"]
+    ],
+    notes: [
+      {line: 1, title: "La afirmación que no cierra la discusión", body: "El poema abre negando que este mundo sea el final, pero los siguientes versos presentan una búsqueda sin prueba concluyente. Wendy Martin subraya que el texto se ocupa más del misterio de la muerte que de una certeza sobre la vida posterior."},
+      {line: 2, title: "Species y alternativa manuscrita", body: "«Species» no identifica claramente qué clase de existencia vendría después. Miller registra «a sequel» como alternativa a «stands» en la copia retenida: la redacción de ese verso no estaba completamente clausurada."},
+      {line: 4, title: "Positivo como sonido", body: "La paradoja separa ver de oír: una realidad podría ser imperceptible para la vista y, aun así, parecer tan contundente como algo audible. Eso no equivale a demostrar que exista."},
+      {line: 6, title: "Filosofía y sabiduría", body: "«Philosophy – don’t know» en Johnson presenta una sintaxis deliberadamente abrupta; Miller lee «Philosophy, don’t know». El texto enfrenta herramientas intelectuales con un enigma que persiste."},
+      {line: 10, title: "Crucifixión y testimonio", body: "La referencia a generaciones que soportaron desprecio y crucifixión remite a martirio y sufrimiento en nombre de una esperanza ultraterrena. No establece que el poema convalide esa experiencia como prueba."},
+      {line: 13, title: "Fe personificada e inestable", body: "La Fe resbala, ríe, se rehace, se avergüenza y busca pruebas. La personificación niega una oposición simple entre creyentes seguros y escépticos racionales."},
+      {line: 15, title: "Evidencia y veleta", body: "Una ramita no equivale a un fundamento, y una veleta no es una brújula fiable. El par puede leerse como sátira de la insuficiencia de las pruebas y del deseo de recibir orientación."},
+      {line: 18, title: "El púlpito no resuelve la duda", body: "Miller registra «Sure» como alternativa a «Strong» en el verso de los aleluyas. El énfasis de la predicación no elimina, por sí solo, el problema intelectual o afectivo."},
+      {line: 19, title: "Narcotics, Tooth y alternativa", body: "La comparación final lleva la pregunta metafísica al dolor físico: el diente que roe el alma ni siquiera se calma con narcóticos. Miller registra «Mouse» como alternativa a «Tooth»."},
+      {line: 20, title: "Tres posiciones críticas", body: "Preest lee el poema como vacilación entre convicción y duda; Wendy Martin destaca la imposibilidad de conocer qué sucede tras la muerte; Miller permite ver que esa indeterminación también se encuentra en las alternativas del manuscrito."}
+    ]
   }
 });
