@@ -478,33 +478,37 @@
     {
       "group": "sermones",
       "number": 25,
-      "section": "Sermo XXV In Nativitate Domini V, sections I–II of VI",
-      "paragraphs": 10,
-      "aligned_units": 10,
+      "section": "Sermo XXV In Nativitate Domini V, sections I–VI",
+      "paragraphs": 38,
+      "aligned_units": 38,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6
       ],
       "total_chapters": 6,
-      "translation": "partial original Spanish translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxv/index.html",
-      "voice_notes": 4,
+      "voice_notes": 8,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "First two sections from digital Tractatus XXV; remaining III–VI not translated. Printed PL54 collation, full contextual token morphology and browser QA pending."
+      "editorial_caveat": "All six sections aligned from digital Tractatus XXV Latin transcription; full printed PL54 collation, contextual word-by-word morphology and browser QA remain pending. First-pass translation complete, not definitive critical edition."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 25,
-    "section": "III",
-    "beginning": "Repudiatis igitur longe que reiectis omnibus opinionibus impiorum"
+    "number": 26,
+    "section": "I",
+    "beginning": "Sermo XXVI · In Nativitate Domini VI; verify incipit against PL54"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-19: Sermo XXV sections I–II, 10 aligned units, partial.",
+  "last_edit": "2026-11-19",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
