@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 4434,
+    "reviewedUnits": 4632,
     "reviewed": [
       {
         "part": 1,
@@ -1410,27 +1410,32 @@
         "start": 7,
         "end": 56,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 5,
+        "scene": 3,
+        "start": 57,
+        "end": 254,
+        "count": 198
       }
     ],
     "lastPass": {
       "date": "2026-11-19",
-      "scope": "Parte II V.3.7–56",
-      "unitsReviewed": 50,
-      "translationLinesValidated": 50,
-      "translationLinesRevised": 50,
-      "newNotes": 12,
-      "readingCardsAdded": 2,
+      "scope": "Parte II V.3.57–254: desenlace completo",
+      "unitsReviewed": 198,
+      "translationLinesValidated": 198,
+      "translationLinesRevised": 92,
+      "newNotes": 31,
+      "readingCardsAdded": 6,
       "sourceBasis": [
-        "Texto inglés del lector text.js; cotejo externo pendiente"
+        "Texto inglés y traducción existente del lector text.js; cotejo externo pendiente"
       ],
       "facsimileCollationPending": true,
       "browserQAPending": true
     },
-    "next": {
-      "part": 2,
-      "act": 5,
-      "scene": 3,
-      "line": 57
-    }
+    "next": null,
+    "integrityAuditPending": true,
+    "countDiscrepancy": 9
   }
 }
