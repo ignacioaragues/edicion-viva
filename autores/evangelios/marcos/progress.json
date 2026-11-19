@@ -2013,12 +2013,26 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 6,
+      "to": 6,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "26/26 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/8",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://bibletranslation.ws/down/Robinson_Pierpont_GNT.pdf"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,5; segunda revisión contextual pendiente.",
+  "pending": "Continuar Marcos 8,7; segunda revisión contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 6
+    "verse": 7
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4402,6 +4416,17 @@
     "sources": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+    ]
+  },
+  "prepublication_research_8_6": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "26/26",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/8",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://bibletranslation.ws/down/Robinson_Pierpont_GNT.pdf"
     ]
   }
 }
