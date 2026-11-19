@@ -94,17 +94,35 @@
       "act": 3,
       "scene": 1,
       "from": 713,
-      "to": 797,
+      "to": 796,
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 9
+    },
+    {
+      "act": 3,
+      "scene": 2,
+      "from": 797,
+      "to": 924,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 11
+    },
+    {
+      "act": 3,
+      "scene": 3,
+      "from": 925,
+      "to": 956,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 4
     }
   ],
   "next": {
     "act": 3,
-    "scene": 2,
-    "verse": 798
+    "scene": 4,
+    "verse": 957
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I y II completos (vv. 1–712). Acto III, escena I completa (vv. 713–797). Continuar con escena III.2 desde el v. 798; sin repetir versos; segunda revisión léxica, morfológica y variantes pendiente."
+  "instructions": "Actos I–II completos (vv. 1–712), acto III escenas I (713–796), II (797–924) y III (925–956) completas. Verso 791 compuesto por tres intervenciones; NO partirlo ni duplicar numeración. Próxima III.4 desde el verso 957. Glosario y variantes quedan para segunda revisión."
 }
