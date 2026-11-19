@@ -404,7 +404,7 @@
   for(const [n,speaker,fr,es] of edition.verses) {
     const headings={
       303:['scene3','ACTO PRIMERO · ESCENA TERCERA','Ardaric y Valamir'],
-      363:['act2','ACTO SEGUNDO · ESCENA PRIMERA','Honoria y Flavia'],
+      361:['act2','ACTO SEGUNDO · ESCENA PRIMERA','Honoria y Flavia'],
       450:['act2scene2','ACTO SEGUNDO · ESCENA SEGUNDA','Honoria, Valamir y Flavia'],
       497:['act2scene3','ACTO SEGUNDO · ESCENA TERCERA','Valamir y Flavia'],
       517:['act2scene4','ACTO SEGUNDO · ESCENA CUARTA','Ardaric y Valamir'],
@@ -417,7 +417,7 @@
       const title=document.createElement('h2');title.textContent=titleText;
       heading.append(kicker,title);verses.append(heading);
     }
-    if(n===363){
+    if(n===361){
       const end=document.createElement('p');end.className='act-end';end.textContent='FIN DEL ACTO PRIMERO';verses.append(end);
     }
     if(n===73){
@@ -426,7 +426,7 @@
       const title=document.createElement('h2');title.textContent='Atila, Ardaric, Valamir y Octar';
       heading.append(kicker,title);verses.append(heading);
     }
-    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<363?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':'corneille-attila-2-5';
+    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<361?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':'corneille-attila-2-5';
     const num=document.createElement('span');num.className='number';num.textContent=n;
     const speech=document.createElement('div');speech.className='speech';speech.lang='fr';
     if (speaker){const sp=document.createElement('span');sp.className='speaker';sp.textContent=speaker;speech.append(sp);}
