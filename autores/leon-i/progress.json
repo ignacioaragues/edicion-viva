@@ -341,6 +341,24 @@
       "voice_notes": 9,
       "lexical_coverage": "13 selective lexical forms; contextual morphology incomplete",
       "editorial_caveat": "Complete first-pass aligned Latin/Spanish (27 units); source based on digital Corpus Corporum/PL54 transcription. Printed critical collation, exhaustive contextual morphology and browser QA pending. Anti-Manichaean allegations are Leo's claims, not independently established facts."
+    },
+    {
+      "group": "sermones",
+      "number": 17,
+      "section": "Sermo XVII De jejunio decimi mensis VI, capita I–IV",
+      "paragraphs": 21,
+      "translation": "complete first-pass original Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xvii/index.html",
+      "aligned_chapters": 4,
+      "aligned_units": 21,
+      "voice_notes": 4,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "lexical_coverage": "Latin words link to Logeion surface-form lookup; contextual lemma/morphology cards not yet implemented",
+      "editorial_caveat": "Text compared with frcoulter Tractatus XVII and Wikisource Ballerini–Migne; variants auctoritatis/utilitatis, demonstratur/monstratur, assumi/adsumi require print collation. Browser QA pending."
     }
   ],
   "next": {
