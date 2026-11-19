@@ -1960,14 +1960,28 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://www.biblegateway.com/passage/?search=Mark+8&version=SBLGNT"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 2,
+      "to": 2,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "15/15 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/8/2",
+        "https://greeknewtestament.net/mk8-2",
+        "https://lemma.gebible.app/v/mark/8/2"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,2; segunda revisión contextual pendiente.",
+  "pending": "Continuar Marcos 8,3; segunda revisión contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 2
+    "verse": 3
   },
-  "last_edit": "2026-11-19",
+  "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -4309,5 +4323,16 @@
     "morphology_audit": "18/18",
     "second_passage_review": "pending",
     "latin": "optional_pending"
+  },
+  "prepublication_research_8_2": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "15/15",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/8/2",
+      "https://greeknewtestament.net/mk8-2",
+      "https://lemma.gebible.app/v/mark/8/2"
+    ]
   }
 }
