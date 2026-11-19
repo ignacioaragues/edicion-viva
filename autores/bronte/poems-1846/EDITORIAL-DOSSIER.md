@@ -129,3 +129,7 @@ Estas notas son **una primera pasada crítica**, no un cotejo diplomático defin
 - 55, *The Captive Dove*: empatía, cautiverio y compañía (4 notas).
 
 **Balance:** 17 notas nuevas; 340 acumuladas en 55 poemas. Primera lectura textual apoyada en el impreso de 1846, no revisión académica exhaustiva. `poems-data.js` sin modificaciones.
+
+
+## Tanda final: poemas 56–61
+Se incorporan 45 notas académicas: 56 *Winter Stores* (7); 57 *My Comforter* (7); 58 *Self-Congratulation* (7); 59 *The Missionary* (12); 60 *The Old Stoic* (5); 61 *Fluctuations* (7). **Total: 61 de 61 poemas anotados y 385 notas acumuladas.** Primera pasada crítica completa; pendientes el cotejo diplomático y la ampliación bibliográfica especializada, especialmente para la documentación del discurso colonial en *The Missionary*. No se modificó `poems-data.js` ni las 3795 líneas traducidas.
