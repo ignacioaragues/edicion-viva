@@ -1891,12 +1891,26 @@
         "https://tips.translation.bible/story/sil-translators-notes-on-mark-731/",
         "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 33,
+      "to": 33,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT 2010; Tauber MorphGNT 6.12",
+      "morphology": "22/22 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.biblehub.com/commentaries/egt/mark/7.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,33; segunda revisión filológica contextual pendiente.",
+  "pending": "Continuar Marcos 7,34; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 33
+    "verse": 34
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4199,6 +4213,17 @@
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php",
       "https://greeknewtestament.net/mk7-32"
+    ]
+  },
+  "prepublication_research_7_33": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "22/22",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.biblehub.com/commentaries/egt/mark/7.htm"
     ]
   }
 }
