@@ -393,18 +393,17 @@
   ],
   "next": {
     "group": "sermones",
-    "number": 19,
+    "number": 20,
     "section": "caput I",
-    "incipit": "Sermo XIX · De jejunio decimi mensis VIII"
+    "incipit": "Dispensationes misericordiae Dei"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-19: Sermo XVIII chapters II–III added (12 new aligned units); first-pass translation complete; critical collation and contextual morphology pending.",
+  "last_edit": "2026-11-19: Sermo XIX chapters I–III, 23 aligned units, first-pass complete; full morphology and printed collation pending",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 19,
-    "section": "caput I",
-    "status": "not_started"
+    "number": 20,
+    "section": "not started"
   },
   "priority_queue": [
     {
