@@ -438,27 +438,26 @@
     {
       "group": "sermones",
       "number": 23,
-      "section": "Sermo XXIII In Nativitate Domini III, pars I of V",
-      "paragraphs": 7,
-      "translation": "original Spanish translation of complete section I",
-      "complete_work": false,
-      "translation_complete": false,
+      "section": "Sermo XXIII In Nativitate Domini III, partes I–V",
+      "paragraphs": 35,
+      "translation": "complete original Spanish first-pass aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxiii/index.html",
-      "voice_notes": 3,
+      "voice_notes": 7,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Section I aligned in 7 units, digital Tractatus XXIII source. Sections II–V, full contextual morphology, printed PL54 collation and browser QA pending."
+      "editorial_caveat": "35 aligned units, five sections, digital Tractatus XXIII transcription; first-pass translation complete. Printed PL54 critical collation, full contextual morphology and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 23,
-    "section": "II",
-    "incipit": "Hanc unitatem, dilectissimi, qua creatori creatura conseritur"
+    "number": 24,
+    "section": "Sermo XXIV In Nativitate Domini IV"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-19",
+  "last_edit": "2026-11-19: Sermo XXIII complete first-pass Latin/Spanish (35 units), sections II–V added; contextual morphology and printed collation pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
