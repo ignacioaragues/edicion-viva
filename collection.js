@@ -121,7 +121,7 @@ const collection = [
     language: 'Inglés · Español',
     status: 'available',
     url: './autores/milton/paradise-lost/',
-    detail: 'Libro I · vv. 1–75 · traducción y notas en curso',
+    detail: 'Libro I · vv. 1–125 · traducción y notas en curso',
   },
   {
     author: 'Christopher Marlowe',
