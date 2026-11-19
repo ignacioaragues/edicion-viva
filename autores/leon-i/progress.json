@@ -359,6 +359,21 @@
       "source_collation_complete": false,
       "lexical_coverage": "Latin words link to Logeion surface-form lookup; contextual lemma/morphology cards not yet implemented",
       "editorial_caveat": "Text compared with frcoulter Tractatus XVII and Wikisource Ballerini–Migne; variants auctoritatis/utilitatis, demonstratur/monstratur, assumi/adsumi require print collation. Browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 18,
+      "section": "Sermo XVIII, caput I, PL 54 182C–183B; 6 unidades",
+      "paragraphs": 6,
+      "translation": "partial original aligned Spanish translation",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xviii/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 3,
+      "editorial_caveat": "Only chapter I published. Chapters II–III pending. Latin normalized from digital PL transcription; printed critical collation and contextual morphology pending.",
+      "next": "Sermo XVIII caput II, Sed his atque aliis omnibus destruendis"
     }
   ],
   "next": {
