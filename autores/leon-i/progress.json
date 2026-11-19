@@ -453,48 +453,41 @@
     {
       "group": "sermones",
       "number": 24,
-      "section": "Sermo XXIV In Nativitate Domini IV, sections I–III of VI",
-      "paragraphs": 25,
-      "translation": "original Spanish aligned translation, sections I–III",
-      "complete_work": false,
-      "translation_complete": false,
+      "section": "Sermo XXIV In Nativitate Domini IV, sections I–VI",
+      "paragraphs": 44,
+      "translation": "complete original Spanish first-pass aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxiv/index.html",
       "published_chapters": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6
       ],
       "total_chapters": 6,
-      "aligned_units": 25,
-      "voice_notes": 6,
+      "aligned_units": 44,
+      "voice_notes": 10,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "First-pass Latin from Tractatus XXIV online transcription; printed PL54 collation, contextual token morphology and browser QA pending. Sections IV–VI not yet published.",
-      "next": "Sermo XXIV section IV, Ab hoc sacramento, dilectissimi; complete sections IV–VI before starting XXV"
+      "editorial_caveat": "All six sections translated in first pass from public Tractatus XXIV Latin transcription. Printed Ballerini–Migne collation, exhaustive contextual morphology and browser QA remain pending. Accusations about Manichaeans are Leo's polemical allegations, not independently verified facts."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 24,
-    "section": "Sermo XXIV section IV: Ab hoc sacramento, dilectissimi; sections IV–VI pending"
+    "number": 25,
+    "section": "Sermo XXV, In Nativitate Domini V, section I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-19: Sermo XXIV sections I–III published, 25 aligned units; remaining IV–VI, morphology and printed collation pending.",
+  "last_edit": "2026-11-19",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 24,
-    "completed_sections": [
-      "I",
-      "II",
-      "III"
-    ],
-    "pending_sections": [
-      "IV",
-      "V",
-      "VI"
-    ]
+    "number": 25,
+    "section": "pending source verification and first translation"
   },
   "priority_queue": [
     {
