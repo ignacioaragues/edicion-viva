@@ -438,3 +438,7 @@
 ## Septuagésima tercera pasada filológica (19-11-2026)
 - 50 unidades: Parte II III.5.95–144; acumulado 3.634/4.641 (78,3 %). Sigue III.5.145.
 - 38 correcciones, 12 notas y 2 fichas. Cotejo externo y QA navegador pendientes; inglés e IDs preservados.
+
+## Septuagésima cuarta pasada filológica (19-11-2026)
+- 50 unidades: Parte II III.5.145–172 (28) y IV.1.1–22 (22). Acumulado 3.684/4.641 (79,4 %). Sigue IV.1.23.
+- 24 correcciones, 13 notas, 2 fichas. Cotejo externo y QA navegador pendientes; inglés, acotaciones e IDs preservados.
