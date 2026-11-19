@@ -2053,12 +2053,24 @@
         "https://www.biblehub.com/texts/mark/8-8.htm",
         "https://sermonindex.net/commentary/cambridgegreek/MRK/8/"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 9,
+      "to": 9,
+      "status": "edited_not_revised",
+      "morphology": "7/7 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/8",
+        "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/66/"
+      ]
     }
   ],
   "pending": "Continuar Marcos 8,9; segunda revisión contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 9
+    "verse": 10
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4476,6 +4488,17 @@
       "https://www.biblestudytools.com/sblg/mark/8-8.html",
       "https://www.biblehub.com/texts/mark/8-8.htm",
       "https://sermonindex.net/commentary/cambridgegreek/MRK/8/"
+    ]
+  },
+  "prepublication_research_8_9": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "7/7",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/8",
+      "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/66/",
+      "https://lemma.gebible.app/v/mark/8/9"
     ]
   }
 }
