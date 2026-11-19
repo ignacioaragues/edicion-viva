@@ -1862,12 +1862,27 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/7/28",
         "https://www.biblehub.com/commentaries/egt/mark/7.htm"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 29,
+      "to": 30,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT 2010; Tauber MorphGNT 6.12",
+      "morphology": "32/32 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.biblestudytools.com/sblg/mark/7-29.html",
+        "https://freely-given.org/OBD/lst/MRK/C7V29.htm"
+      ]
     }
   ],
   "pending": "Continuar Marcos 7,29; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 29
+    "verse": 31
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4143,5 +4158,11 @@
     "morphology_audit": "19/19",
     "second_passage_review": "pending",
     "latin": "optional_pending"
+  },
+  "prepublication_research_7_29_30": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "32/32",
+    "second_passage_review": "pending",
+    "latin": "7,29 included; 7,30 pending"
   }
 }
