@@ -6,6 +6,28 @@ if(poems.length!==61){document.querySelector('#overview').textContent='No se pud
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 const getNum=()=>{const n=Number(new URLSearchParams(location.search).get('poem'));return Number.isInteger(n)&&n>=1&&n<=poems.length?n:0};
 let current=getNum(), filter='all';
+/* El ancho del poema se personaliza sin alterar texto, traducciones ni índice. */
+const widthControl=$('#reader-width-slider'),widthLabel=$('#reader-width-value'),widthReset=$('#reader-width-reset');
+const widthKey='edicion-viva:bronte:poem-width:v1';
+const widthDefault=1120,widthMin=720,widthMax=1520,widthStep=80;
+let poemWidth=widthDefault;
+try {
+ const saved=Number(localStorage.getItem(widthKey));
+ if(Number.isFinite(saved)&&saved>=widthMin&&saved<=widthMax&&(saved-widthMin)%widthStep===0)poemWidth=saved;
+} catch { /* Almacenamiento no disponible: la preferencia dura esta página. */ }
+function applyPoemWidth(value){
+ poemWidth=value;
+ document.documentElement.style.setProperty('--poem-width',value+'px');
+ widthControl.value=String(value);
+ const percentage=Math.round(value/widthDefault*100);
+ widthLabel.textContent=percentage+'%';
+ widthControl.setAttribute('aria-valuetext',percentage+' por ciento del ancho original');
+ widthReset.disabled=value===widthDefault;
+ try { localStorage.setItem(widthKey,String(value)); } catch { /* sin almacenamiento persistente */ }
+}
+widthControl.addEventListener('input',()=>applyPoemWidth(Number(widthControl.value)));
+widthReset.addEventListener('click',()=>applyPoemWidth(widthDefault));
+applyPoemWidth(poemWidth);
 const link=n=>n?'?poem='+n:'./';
 const authorInitial=name=>name.startsWith('Charlotte')?'C':name.startsWith('Emily')?'E':'A';
 function buildIndex(){
