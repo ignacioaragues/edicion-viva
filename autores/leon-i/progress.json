@@ -423,23 +423,24 @@
     {
       "group": "sermones",
       "number": 22,
-      "section": "Sermo XXII, secciones I–II de VI",
-      "paragraphs": 15,
-      "translation": "first-pass aligned original Spanish translation, sections I–II only",
-      "complete_work": false,
+      "section": "Sermo XXII · In Nativitate Domini II · sections I–VI",
+      "paragraphs": 50,
+      "translation": "complete original Spanish first-pass aligned translation",
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxii/index.html",
-      "voice_notes": 5,
+      "voice_notes": 9,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Digital long version of Tractatus XXII, pars 1–2, 15 aligned units; shorter duplicate in source not conflated. Printed PL collation, contextual morphology, sections III–VI and browser QA pending."
+      "editorial_caveat": "50 aligned units across six sections, long Tractatus XXII version; digital Latin compared against source, printed PL54 collation, contextual morphology and browser QA pending. Shorter alternative source version not conflated.",
+      "translation_complete": true
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 22,
-    "section": "III",
-    "incipit": "Hoc ipsum autem, dilectissimi, quod christus nasci elegit ex uirgine"
+    "number": 23,
+    "section": "I",
+    "incipit": "Sermo XXIII · In Nativitate Domini III"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-19: Sermo XXI complete first-pass bilingual edition, 17 aligned units, three chapters, eight rhetorical notes. Contextual morphology, critical print collation and browser QA pending.",
