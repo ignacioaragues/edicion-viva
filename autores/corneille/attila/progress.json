@@ -26,13 +26,31 @@
       "translation": "complete_first_pass",
       "lexical_tokens": "glossary not yet individually reviewed for new verses; dictionary fallback active",
       "notes": 24
+    },
+    {
+      "act": 1,
+      "scene": 3,
+      "from": 303,
+      "to": 362,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 4
+    },
+    {
+      "act": 2,
+      "scene": 1,
+      "from": 363,
+      "to": 416,
+      "status": "in_progress",
+      "translation": "complete_first_pass_for_range",
+      "notes": 3
     }
   ],
   "next": {
-    "act": 1,
-    "scene": 3,
-    "verse": 303
+    "act": 2,
+    "scene": 1,
+    "verse": 417
   },
   "last_edit": "2026-11-19",
-  "instructions": "Escenas 1–2 de acto I completas (vv. 1–302); siguiente escena 3 v. 303. Priorizar lectura bilingüe íntegra y publicación por escenas, luego revisar morfología y notas."
+  "instructions": "Acto I completo vv. 1–362; acto II escena I vv. 363–416; seguir v. 417, cotejando con fuente antes de publicar."
 }
