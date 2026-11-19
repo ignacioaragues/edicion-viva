@@ -6,7 +6,7 @@ Biblioteca de ediciones bilingües y anotadas de clásicos literarios. Una lectu
 
 ## Estado
 
-- **Disponible:** Emily Dickinson · *Poems*, traducción y notas J254, J288, J303, J324, J441 y J444 (72 versos; tres lecciones de introducción): https://ignacioaragues.github.io/edicion-viva/autores/dickinson/ · Curso: https://ignacioaragues.github.io/edicion-viva/cursos/emily-dickinson/\n- **Disponible:** Marlowe · *Tamburlaine the Great*, Partes I y II (ambas partes y sus prólogos traducidos íntegramente en primera versión; revisión filológica pendiente): https://ignacioaragues.github.io/edicion-viva/autores/marlowe/tamburlaine/
+- **Disponible:** Emily Dickinson · *Poems*, traducción y notas J254, J288, J303, J324, J328, J441, J444 y J986 (116 versos; cuatro lecciones de introducción): https://ignacioaragues.github.io/edicion-viva/autores/dickinson/ · Curso: https://ignacioaragues.github.io/edicion-viva/cursos/emily-dickinson/\n- **Disponible:** Marlowe · *Tamburlaine the Great*, Partes I y II (ambas partes y sus prólogos traducidos íntegramente en primera versión; revisión filológica pendiente): https://ignacioaragues.github.io/edicion-viva/autores/marlowe/tamburlaine/
 - **Disponible:** Shakespeare · *Coriolanus*, en edición continua: https://ignacioaragues.github.io/shakespeare-edicion-viva/
 - **Disponible en curso:** Milton · *Paradise Lost*, libro I completo (798 versos) y libro II, versos 1–777, con texto paralelo y 195 notas originales en español: https://ignacioaragues.github.io/edicion-viva/autores/milton/paradise-lost/
 - **Disponible en curso:** Evangelio según Marcos, 1,1–13: `autores/evangelios/marcos/`. Griego SBLGNT, traducción española original y Vulgata Clementina opcional.
