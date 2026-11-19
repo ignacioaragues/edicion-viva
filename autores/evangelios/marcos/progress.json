@@ -2039,12 +2039,26 @@
         "https://sermonindex.net/commentary/cambridgegreek/MRK/8/",
         "https://bibletranslation.ws/down/Robinson_Pierpont_GNT.pdf"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 8,
+      "to": 8,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010); Tauber, MorphGNT 6.12",
+      "morphology": "10/10 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/8-8.html",
+        "https://www.biblehub.com/texts/mark/8-8.htm",
+        "https://sermonindex.net/commentary/cambridgegreek/MRK/8/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,8; segunda revisión contextual pendiente.",
+  "pending": "Continuar Marcos 8,9; segunda revisión contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 8
+    "verse": 9
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4450,6 +4464,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-87/",
+      "https://sermonindex.net/commentary/cambridgegreek/MRK/8/"
+    ]
+  },
+  "prepublication_research_8_8": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "10/10",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.biblestudytools.com/sblg/mark/8-8.html",
+      "https://www.biblehub.com/texts/mark/8-8.htm",
       "https://sermonindex.net/commentary/cambridgegreek/MRK/8/"
     ]
   }
