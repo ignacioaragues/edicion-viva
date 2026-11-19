@@ -309,11 +309,27 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Latin checked against public Ballerini–Migne transcriptions; printed critical collation and shared dictionary integration pending. Standalone bilingual reader; full Aulularia reader feature parity pending."
+    },
+    {
+      "group": "sermones",
+      "number": 15,
+      "section": "Sermo XV De jejunio decimi mensis IV, capita I–II, PL54 cols. 174–176",
+      "paragraphs": 19,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xv/index.html",
+      "voice_notes": 6,
+      "lexical_coverage": "selective contextual lexical cards; exhaustive morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Latin checked against Tractatus XV transcription; variant experimento/experimentis remains for printed collation; browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 15,
+    "number": 16,
     "section": "caput I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
