@@ -1851,12 +1851,23 @@
         "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php",
         "https://www.studylight.org/commentaries/eng/egt/mark-7.html"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 28,
+      "to": 28,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/7/28",
+        "https://www.biblehub.com/commentaries/egt/mark/7.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,27; segunda revisión filológica pendiente.",
+  "pending": "Continuar Marcos 7,29; segunda revisión filológica pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 28
+    "verse": 29
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4126,5 +4137,11 @@
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-7.php",
       "https://www.studylight.org/commentaries/eng/egt/mark-7.html"
     ]
+  },
+  "prepublication_research_7_28": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "19/19",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
   }
 }
