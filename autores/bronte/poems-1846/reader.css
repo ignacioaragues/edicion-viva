@@ -82,10 +82,23 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
 
 /* Noviembre 2026: columnas enfrentadas próximas, pero sin comprimir los versos.
    El límite de anchura se aplica al POEMA, no al índice general. */
+/* El marco y su barra de controles no cambian de posición al arrastrar.
+   Solo varía la caja del poema; así el deslizador permanece inmóvil. */
 .poem-view .reader{
+  width:100%;
+  max-width:none;
+  margin-inline:auto;
+}
+.poem-view .reader .column-captions,
+.poem-view .reader .poem-content{
   width:100%;
   max-width:var(--poem-width,1120px);
   margin-inline:auto;
+}
+.poem-view .reader-controls{
+  width:100%;
+  max-width:1120px;
+  margin:19px auto 24px;
 }
 .poem-view .verse{
   padding:2px 5px;
