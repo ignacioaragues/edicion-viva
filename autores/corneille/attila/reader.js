@@ -402,7 +402,13 @@
   }
   function hidePanels(){popup.hidden=true;notePopup.hidden=true;document.querySelectorAll('.token[aria-pressed]').forEach(t=>t.removeAttribute('aria-pressed'));}
   for(const [n,speaker,fr,es] of edition.verses) {
-    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId='corneille-attila-1-1';
+    if(n===73){
+      const heading=document.createElement('div');heading.className='scene-transition';heading.id='scene2';
+      const kicker=document.createElement('span');kicker.textContent='ACTO PRIMERO · ESCENA SEGUNDA';
+      const title=document.createElement('h2');title.textContent='Atila, Ardaric, Valamir y Octar';
+      heading.append(kicker,title);verses.append(heading);
+    }
+    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':'corneille-attila-1-2';
     const num=document.createElement('span');num.className='number';num.textContent=n;
     const speech=document.createElement('div');speech.className='speech';speech.lang='fr';
     if (speaker){const sp=document.createElement('span');sp.className='speaker';sp.textContent=speaker;speech.append(sp);}
