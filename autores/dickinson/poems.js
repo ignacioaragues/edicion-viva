@@ -107,5 +107,75 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 12, title: "Como piedra", body: "El símil final no resuelve si la elección es una conquista de la autonomía, un acto de dureza o una imagen inquietante de clausura. El poema permite mantener esas lecturas en tensión."}
     ]
   }
-
+,
+  J324: {
+    id: "J324", franklin: "F236", approx: "c. 1860 (Johnson); copia de c. 1861 (Miller)",
+    incipit: "Some keep the Sabbath going to Church –",
+    titleES: "Algunos guardan el domingo yendo a la Iglesia",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J324, pp. 153–154; Miller, As She Preserved Them, fascículo 9, p. 115; Preest, comentario a J324, p. 106.",
+    lines: [
+      ["Some keep the Sabbath going to Church –", "Algunos guardan el domingo yendo a la Iglesia —"],
+      ["I keep it, staying at Home –", "yo lo guardo quedándome en Casa —"],
+      ["With a Bobolink for a Chorister –", "con un Tordo arrocero por Corista —"],
+      ["And an Orchard, for a Dome –", "y un Huerto de frutales por Cúpula —"],
+      ["Some keep the Sabbath in Surplice –", "Algunos guardan el domingo con Sobrepelliz —"],
+      ["I just wear my Wings –", "yo solo llevo mis Alas —"],
+      ["And instead of tolling the Bell, for Church,", "y en vez de tañer la Campana para la Iglesia,"],
+      ["Our little Sexton – sings.", "nuestro pequeño Sacristán — canta."],
+      ["God preaches, a noted Clergyman –", "Predica Dios, un célebre Clérigo —"],
+      ["And the sermon is never long,", "y el sermón nunca es largo,"],
+      ["So instead of getting to Heaven, at last –", "así que, en vez de llegar al Cielo, al final —"],
+      ["I'm going, all along.", "voy llegando a él, todo el tiempo."]
+    ],
+    notes: [
+      {line: 1, title: "Sabbath y domingo", body: "En el protestantismo de Nueva Inglaterra «Sabbath» designa habitualmente el domingo cristiano, no el sábado judío. Se traduce «domingo» para no confundir el contexto histórico; «guardar el día del Señor» sería otra posibilidad."},
+      {line: 3, title: "Bobolink", body: "Dolichonyx oryzivorus, ave canora norteamericana conocida en español como tordo arrocero. El canto sustituye la música del coro y, en la octava línea, el toque de campana."},
+      {line: 4, title: "Orchard / Dome", body: "El huerto o vergel reemplaza la cúpula arquitectónica de un templo. La imagen transforma un espacio doméstico y natural en lugar de culto sin negar necesariamente a Dios."},
+      {line: 5, title: "Surplice", body: "La sobrepelliz es una vestidura litúrgica. El contraste con las «Wings» desplaza la formalidad del oficio religioso hacia una elevación imaginativa."},
+      {line: 8, title: "Sexton", body: "El sexton se ocupa de la iglesia, su mantenimiento y a menudo las campanas o las sepulturas. El «pequeño Sacristán» vuelve a ser, en este poema, el pájaro que canta."},
+      {line: 9, title: "La voz de Dios", body: "Aunque no entra a la iglesia, la hablante escucha un sermón: no se trata de un simple rechazo de toda experiencia religiosa. Miller presenta «God» entre comillas en el testimonio que imprime, una diferencia significativa respecto del texto Johnson."},
+      {line: 12, title: "El Cielo en presente", body: "La oposición entre «at last» y «all along» cambia la salvación diferida por una experiencia continua. El texto no obliga a identificar cielo con jardín de manera literal; la oración final puede ser una provocación teológica."}
+    ]
+  },
+  J444: {
+    id: "J444", franklin: "F524", approx: "c. 1862",
+    incipit: "It feels a shame to be Alive –",
+    titleES: "Da vergüenza estar vivo",
+    stanzaBreaks: [4, 8, 12, 16],
+    source: "Johnson, The Complete Poems, J444, p. 213; Miller, As She Preserved Them, fascículo 24, pp. 257–258; Preest, comentario a J444, pp. 149–150; W. Martin, Cambridge Introduction, pp. 34–36.",
+    lines: [
+      ["It feels a shame to be Alive –", "Da vergüenza estar Vivo —"],
+      ["When Men so brave – are dead –", "cuando han muerto Hombres tan valientes —"],
+      ["One envies the Distinguished Dust –", "uno envidia el distinguido Polvo —"],
+      ["Permitted – such a Head –", "al que se le permitió — tal Cabeza —"],
+      ["The Stone – that tells defending Whom", "la Piedra — que dice defendiendo a Quién"],
+      ["This Spartan put away", "este Espartano entregó"],
+      ["What little of Him we – possessed", "lo poco de Él que nosotros — poseíamos"],
+      ["In Pawn for Liberty –", "como Prenda de la Libertad —"],
+      ["The price is great – Sublimely paid –", "El precio es alto — pagado de modo sublime —"],
+      ["Do we deserve – a Thing –", "¿merecemos — algo —"],
+      ["That lives – like Dollars – must be piled", "que vive — y, como Dólares, debe apilarse"],
+      ["Before we may obtain?", "antes de que podamos obtenerlo?"],
+      ["Are we that wait – sufficient worth –", "¿Valemos lo suficiente — quienes esperamos —"],
+      ["That such Enormous Pearl", "para que una Perla tan inmensa"],
+      ["As life – dissolved be – for Us –", "como la vida — se disuelva — por Nosotros —"],
+      ["In Battle's – horrid Bowl?", "en el horrendo Cuenco — de la Batalla?"],
+      ["It may be – a Renown to live –", "Puede ser — una Gloria vivir —"],
+      ["I think the Man who die –", "creo que quienes mueren —"],
+      ["Those unsustained – Saviors –", "esos Salvadores — sin amparo —"],
+      ["Present Divinity –", "son Divinidad presente —"]
+    ],
+    notes: [
+      {line: 1, title: "Vivir después de la muerte ajena", body: "La primera línea plantea una vergüenza de superviviente. El poema no relata una batalla particular; confronta el valor de los muertos con la pregunta de si los vivos merecen su sacrificio."},
+      {line: 3, title: "Distinguished Dust", body: "«Polvo» remite a la mortalidad y la descomposición corporal, mientras «distinguished» concede honor público a lo que parece reducido a materia. La ironía y el elogio permanecen juntos."},
+      {line: 5, title: "La imagen espartana", body: "Como explica Preest, la estela del espartano evoca la defensa de las Termópilas y el epitafio transmitido en Heródoto 7.228. Se trata de una analogía histórica dentro de un poema sobre el sacrificio contemporáneo."},
+      {line: 8, title: "In Pawn for Liberty", body: "El soldado deposita o empeña su propia vida como garantía de libertad. Las imágenes financieras dominan la estrofa siguiente y convierten el sacrificio en un precio inquietante."},
+      {line: 11, title: "Dollars", body: "La acumulación de vidas comparadas con dólares convierte una noción abstracta —la libertad— en una contabilidad moral. No debemos inferir de la comparación una condena inequívoca de una causa concreta: el poema formula preguntas, no un programa político."},
+      {line: 15, title: "Una vida disuelta", body: "La «Perla» preciosa se disuelve en el cuenco de la batalla. El contraste entre joya y recipiente horrendo rompe cualquier entusiasmo simplista por la gloria de guerra."},
+      {line: 18, title: "Man / Men: posible errata de Johnson", body: "Johnson imprime «I think the Man who die», una construcción anómala. Miller lee «Men», igual que Preest, quien señala que «Man» parece una errata editorial. La traducción evita reproducir la anomalía sin silenciarla en esta nota."},
+      {line: 20, title: "Present Divinity", body: "La formulación final puede entenderse como identificación de los muertos con una divinidad presente, en contraste con el reconocimiento humano posterior. No se trata de una afirmación doctrinal precisa."},
+      {line: 1, title: "La Guerra Civil y Frazar Stearns", body: "Wendy Martin relaciona el poema con la muerte del joven Frazar Stearns en New Bern en marzo de 1862; el Emily Dickinson Museum lo considera claramente una respuesta a la Guerra Civil. La ocasión histórica orienta la lectura, pero el poema no nombra a Stearns y su alcance puede ser más general."}
+    ]
+  }
 });
