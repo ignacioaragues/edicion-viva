@@ -4,7 +4,7 @@
 <meta name="description" content="Los 61 poemas del libro de 1846 de Charlotte, Emily y Anne Brontë, en el orden de la primera edición. Lector bilingüe de los 61 poemas con traducción española completa y notas académicas en desarrollo.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./reader.css?v=20261118-scholarship-v1">
+<link rel="stylesheet" href="./reader.css?v=20261119-width-controls-v1">
 <link rel="stylesheet" href="../../../highlights.css?v=20261112-shared">
 </head>
 <body data-reading-id="bronte-poems-1846" data-reading-title="Hermanas Brontë · Poems (1846)" data-reading-active-selector=".poem-content">
@@ -45,7 +45,7 @@
      <div class="poem-description"><span id="poem-status"></span><span id="poem-original-page"></span></div>
    </div>
    <div class="reader" id="reader">
-    <div class="reader-controls"><button id="toggle-layout" type="button">Ver en bloques</button><button id="toggle-translation" type="button" aria-pressed="true">Traducción</button></div>
+    <div class="reader-controls"><div class="reader-width-controls" role="group" aria-label="Ajustar ancho del poema"><label for="reader-width-slider">Ancho</label><input type="range" id="reader-width-slider" min="720" max="1520" step="80" value="1120" aria-label="Ancho del poema"><output id="reader-width-value" for="reader-width-slider">100%</output><button id="reader-width-reset" type="button" aria-label="Restablecer ancho original">Restablecer</button></div><button id="toggle-layout" type="button">Ver en bloques</button><button id="toggle-translation" type="button" aria-pressed="true">Traducción</button></div>
     <div class="column-captions"><span>VERSO</span><span>ORIGINAL · INGLÉS</span><span>TRADUCCIÓN · ESPAÑOL</span></div>
     <div id="poem-content" class="poem-content" aria-live="polite"></div>
    </div>
@@ -78,7 +78,7 @@
 <script src="./poems-data.js?v=20261118-poems-1-61-complete"></script>
 <script src="./commentary.js?v=20261118-lectura-v3"></script>
 <script src="./scholarship.js?v=20261119-notas-1-20"></script>
-<script src="./reader.js?v=20261118-scholarship-v1" defer></script>
+<script src="./reader.js?v=20261119-width-controls-v1" defer></script>
 <script src="../../../reading-layout.js?v=20261117" defer></script>
 <script src="../../../reading-tracker.js?v=20261117" defer></script>
 <script type="module" src="../../../account-sync.js?v=2"></script>
