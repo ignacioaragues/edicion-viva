@@ -439,9 +439,12 @@
       1265:['act4scene4','ACTO CUARTO · ESCENA CUARTA','Atila y Ardaric'],
       1363:['act4scene5','ACTO CUARTO · ESCENA QUINTA','Atila, Ardaric e Ildione'],
       1373:['act4scene6','ACTO CUARTO · ESCENA SEXTA','Ardaric e Ildione'],
-      1437:['act4scene7','ACTO CUARTO · ESCENA SÉPTIMA','Ildione']
+      1437:['act4scene7','ACTO CUARTO · ESCENA SÉPTIMA','Ildione'],
+      1453:['act5','ACTO QUINTO · ESCENA PRIMERA','Ardaric y Valamir'],
+      1485:['act5scene2','ACTO QUINTO · ESCENA SEGUNDA','Ardaric, Valamir y Honoria'],
+      1515:['act5scene3','ACTO QUINTO · ESCENA TERCERA','Atila, Valamir, Ardaric, Honoria y Octar']
     };
-    if(n===361||n===713||n===1085){const end=document.createElement('p');end.className='act-end';end.textContent=n===361?'FIN DEL ACTO PRIMERO':n===713?'FIN DEL ACTO SEGUNDO':'FIN DEL ACTO TERCERO';verses.append(end);}
+    if(n===361||n===713||n===1085||n===1453){const end=document.createElement('p');end.className='act-end';end.textContent=n===361?'FIN DEL ACTO PRIMERO':n===713?'FIN DEL ACTO SEGUNDO':n===1085?'FIN DEL ACTO TERCERO':'FIN DEL ACTO CUARTO';verses.append(end);}
     if(headings[n]){
       const [id,kickerText,titleText]=headings[n];
       const heading=document.createElement('div');heading.className='scene-transition';heading.id=id;
@@ -455,7 +458,7 @@
       const title=document.createElement('h2');title.textContent='Atila, Ardaric, Valamir y Octar';
       heading.append(kicker,title);verses.append(heading);
     }
-    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<361?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':n<591?'corneille-attila-2-5':n<713?'corneille-attila-2-6':n<797?'corneille-attila-3-1':n<925?'corneille-attila-3-2':n<957?'corneille-attila-3-3':n<1085?'corneille-attila-3-4':n<1121?'corneille-attila-4-1':n<1165?'corneille-attila-4-2':'corneille-attila-4-3';
+    const row=document.createElement('div');row.className='verse';row.id='v'+n;row.dataset.sceneId=n<73?'corneille-attila-1-1':n<303?'corneille-attila-1-2':n<361?'corneille-attila-1-3':n<450?'corneille-attila-2-1':n<497?'corneille-attila-2-2':n<517?'corneille-attila-2-3':n<531?'corneille-attila-2-4':n<591?'corneille-attila-2-5':n<713?'corneille-attila-2-6':n<797?'corneille-attila-3-1':n<925?'corneille-attila-3-2':n<957?'corneille-attila-3-3':n<1085?'corneille-attila-3-4':n<1121?'corneille-attila-4-1':n<1165?'corneille-attila-4-2':n<1265?'corneille-attila-4-3':n<1363?'corneille-attila-4-4':n<1373?'corneille-attila-4-5':n<1437?'corneille-attila-4-6':n<1453?'corneille-attila-4-7':n<1485?'corneille-attila-5-1':n<1515?'corneille-attila-5-2':'corneille-attila-5-3';
     const num=document.createElement('span');num.className='number';num.textContent=n;
     const speech=document.createElement('div');speech.className='speech';speech.lang='fr';
     if (speaker){const sp=document.createElement('span');sp.className='speaker';sp.textContent=speaker;speech.append(sp);}
