@@ -49,7 +49,7 @@
       actions.append(a);
     } else {
       const a = make('a', 'inline-link', 'Volver a la lección 1 →');
-      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : '#') + poem.id;
+      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : '#') + poem.id;
       actions.append(a);
     }
     mount.append(actions);
