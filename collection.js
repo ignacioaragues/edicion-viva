@@ -129,8 +129,9 @@ const collection = [
     work: 'Doctor Faustus',
     translated: 'Doctor Fausto',
     language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
+    status: 'available',
+    url: './autores/milton/paradise-lost/',
+    detail: 'Libro I, versos 1–300 en paralelo · 40 notas en español · primera traducción',
   },
   {
     author: 'Walt Whitman',
