@@ -1877,12 +1877,26 @@
         "https://www.biblestudytools.com/sblg/mark/7-29.html",
         "https://freely-given.org/OBD/lst/MRK/C7V29.htm"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 31,
+      "to": 31,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT 2010; Tauber MorphGNT 6.12",
+      "morphology": "20/20 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/7-31.html",
+        "https://tips.translation.bible/story/sil-translators-notes-on-mark-731/",
+        "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,29; segunda revisión filológica pendiente.",
+  "pending": "Continuar Marcos 7,32; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 31
+    "verse": 32
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4164,5 +4178,15 @@
     "morphology_audit": "32/32",
     "second_passage_review": "pending",
     "latin": "7,29 included; 7,30 pending"
+  },
+  "prepublication_research_7_31": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://tips.translation.bible/story/sil-translators-notes-on-mark-731/",
+      "https://www.biblestudytools.com/sblg/mark/7-31.html"
+    ]
   }
 }
