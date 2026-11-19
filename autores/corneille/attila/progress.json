@@ -143,13 +143,22 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 5
+    },
+    {
+      "act": 4,
+      "scene": 3,
+      "from": 1165,
+      "to": 1264,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 9
     }
   ],
   "next": {
     "act": 4,
-    "scene": 3,
-    "verse": 1165
+    "scene": 4,
+    "verse": 1265
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I–III completos, 1–1084; acto IV escenas 1–2 completas, 1085–1164. Próximo IV.3 verso 1165. El alejandrino 1161 es compartido Flavia/Honoria. Mantener la navegación y la vista lateral de notas; segunda revisión filológica y morfológica pendiente."
+  "instructions": "Actos I–III completos; acto IV escenas 1–3 completas hasta v. 1264. Próxima IV.4 desde v. 1265. Mantener versos compartidos, notas laterales; segunda revisión filológica y morfológica pendiente."
 }
