@@ -16,13 +16,23 @@
       "translation": "complete_first_pass",
       "lexical_tokens": "word popups active; contextual morphology review remains open",
       "notes": 18
+    },
+    {
+      "act": 1,
+      "scene": 2,
+      "from": 73,
+      "to": 302,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "lexical_tokens": "glossary not yet individually reviewed for new verses; dictionary fallback active",
+      "notes": 24
     }
   ],
   "next": {
     "act": 1,
-    "scene": 2,
-    "verse": 73
+    "scene": 3,
+    "verse": 303
   },
   "last_edit": "2026-11-19",
-  "instructions": "Escena primera íntegra vv. 1–72; siguiente acto I escena II v. 73. Priorizar unidades completas, traducción alineada, notas pertinentes y publicación inmediata, con posterior revisión filológica."
+  "instructions": "Escenas 1–2 de acto I completas (vv. 1–302); siguiente escena 3 v. 303. Priorizar lectura bilingüe íntegra y publicación por escenas, luego revisar morfología y notas."
 }
