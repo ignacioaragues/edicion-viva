@@ -1905,12 +1905,26 @@
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
         "https://www.biblehub.com/commentaries/egt/mark/7.htm"
       ]
+    },
+    {
+      "chapter": 7,
+      "from": 34,
+      "to": 34,
+      "status": "edited_not_revised",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "morphology": "13/13 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/7-34.html",
+        "https://greeknewtestament.net/mk7-34",
+        "https://lemma.gebible.app/v/mark/7/34"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 7,34; segunda revisión filológica contextual pendiente.",
+  "pending": "Continuar Marcos 7,35; segunda revisión de 7,34 pendiente.",
   "next": {
     "chapter": 7,
-    "verse": 34
+    "verse": 35
   },
   "last_edit": "2026-11-19",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4225,5 +4239,11 @@
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.biblehub.com/commentaries/egt/mark/7.htm"
     ]
+  },
+  "prepublication_research_7_34": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "13/13",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
   }
 }
