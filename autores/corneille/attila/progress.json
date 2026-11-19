@@ -1,7 +1,7 @@
 {
   "work": "Pierre Corneille — Attila",
   "edition": "Œuvres de P. Corneille, éd. Ch. Marty-Laveaux, Hachette, 1862, tome VII",
-  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_III",
+  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_IV",
   "crosscheck": "https://www.gutenberg.org/files/51612/51612-h/51612-h.htm",
   "first_performance": "1667-03-04",
   "total_acts": 5,
@@ -125,13 +125,31 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 17
+    },
+    {
+      "act": 4,
+      "scene": 1,
+      "from": 1085,
+      "to": 1120,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 4
+    },
+    {
+      "act": 4,
+      "scene": 2,
+      "from": 1121,
+      "to": 1164,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 5
     }
   ],
   "next": {
     "act": 4,
-    "scene": 1,
-    "verse": 1085
+    "scene": 3,
+    "verse": 1165
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I, II y III completos vv. 1–1084. Continuar en IV.1, verso 1085, sin repetir. Alejandrinos compartidos entre personajes conservados. Notas marginales laterales en escritorio y adaptables en móvil. Segunda revisión filológica y morfológica pendiente."
+  "instructions": "Actos I–III completos, 1–1084; acto IV escenas 1–2 completas, 1085–1164. Próximo IV.3 verso 1165. El alejandrino 1161 es compartido Flavia/Honoria. Mantener la navegación y la vista lateral de notas; segunda revisión filológica y morfológica pendiente."
 }
