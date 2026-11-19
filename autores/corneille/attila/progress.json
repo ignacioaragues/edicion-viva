@@ -116,13 +116,22 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 4
+    },
+    {
+      "act": 3,
+      "scene": 4,
+      "from": 957,
+      "to": 1084,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 14
     }
   ],
   "next": {
-    "act": 3,
-    "scene": 4,
-    "verse": 957
+    "act": 4,
+    "scene": 1,
+    "verse": 1085
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I–II completos (vv. 1–712), acto III escenas I (713–796), II (797–924) y III (925–956) completas. Verso 791 compuesto por tres intervenciones; NO partirlo ni duplicar numeración. Próxima III.4 desde el verso 957. Glosario y variantes quedan para segunda revisión."
+  "instructions": "Actos I, II y III completos vv. 1–1084. Continuar en IV.1, verso 1085, sin repetir. Alejandrinos compartidos entre personajes conservados. Notas marginales laterales en escritorio y adaptables en móvil. Segunda revisión filológica y morfológica pendiente."
 }
