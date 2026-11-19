@@ -422,3 +422,7 @@
 ## Sexagésima novena pasada filológica (19-11-2026)
 - **40 unidades**: Parte II III.3.59–63 y III.4.1–35. Acumulado **3.434/4.641 (74,0 %)**. Sigue III.4.36.
 - **12 traducciones corregidas**, 28 conservadas; **10 notas** y **2 fichas**. Cotejo interno; cotejo histórico externo y QA navegador pendientes.
+
+## Septuagésima pasada filológica (19-11-2026)
+- 50 unidades: Parte II III.4.36–85; acumulado 3.484/4.641 (75,1 %); sigue III.4.86.
+- 17 correcciones, 13 notas, 2 fichas. Se corrigió el desfase de traducción en III.4.56. Cotejo histórico externo y QA navegador pendientes.
