@@ -446,3 +446,7 @@
 ## Septuagésima quinta pasada filológica (19-11-2026)
 - 50 unidades: Parte II IV.1.23–72. Acumulado 3.734/4.641 (80,5 %). Sigue IV.1.73.
 - 40 correcciones de traducción, 12 notas y 2 fichas; se revisó la oposición entre conciencia y gloria militar. Cotejo histórico independiente y QA navegador pendientes.
+
+## Septuagésima sexta pasada filológica (19-11-2026)
+- 50 unidades: Parte II IV.1.73–122. Acumulado 3.784/4.641 (81,5 %). Sigue IV.1.123.
+- 50 traducciones ajustadas, 12 notas y 2 fichas. Inglés, acotaciones e IDs preservados; cotejo histórico independiente y QA navegador pendientes.
