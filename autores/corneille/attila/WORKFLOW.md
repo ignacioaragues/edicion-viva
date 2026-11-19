@@ -4,7 +4,7 @@
 
 **Texto base:** Ch. Marty-Laveaux (ed.), Œuvres de P. Corneille, t. VII, Hachette, 1862, pp. 109 y siguientes. Transcripción: https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_I . Contrastar, cuando haya duda, con https://www.gutenberg.org/files/51612/51612-h/51612-h.htm . Grafías como aimerois, prendrois y die se conservan, sin modernizar a escondidas. Verificar guiones, acentos, puntuación y numeración.
 
-**Estado actual (19 noviembre 2026):** Actos I–III completos vv. 1–1084, acto IV escenas primera y segunda completas vv. 1085–1164. Próxima: acto IV escena III, verso 1165. Se mantuvo el verso compartido 1161 entre Flavia y Honoria. Evitar repetir los versos, editar desde progress.json. Notas laterales disponibles; pendientes fichas morfológicas y revisión filológica profunda.
+**Estado actual (19 noviembre 2026):** Actos I–III completos, acto IV escenas 1–3 completas hasta v. 1264. Siguiente: acto IV, escena 4, v. 1265. Publicada IV.3 con 100 versos y nueve notas. Revisión filológica exhaustiva pendiente.
 
 ## Por cada nueva pasada
 1. Leer progress.json, acte1.js, reader.js y el texto base actualizado. No reinsertar ni duplicar versos.
