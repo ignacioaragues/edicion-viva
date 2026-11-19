@@ -408,17 +408,18 @@
   ],
   "next": {
     "group": "sermones",
-    "number": 20,
+    "number": 21,
     "section": "caput I",
-    "incipit": "Dispensationes misericordiae Dei"
+    "incipit": "Sermo XXI, De nativitate Domini I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-19: Sermo XIX chapters I–III, 23 aligned units, first-pass complete; full morphology and printed collation pending",
+  "last_edit": "2026-11-19: Sermo XX complete first-pass bilingual edition, 27 aligned units, three chapters; 18 selected lexical cards; critical print collation and browser QA pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 20,
-    "section": "not started"
+    "number": 21,
+    "status": "not_started",
+    "next": "Sermo XXI, caput I"
   },
   "priority_queue": [
     {
