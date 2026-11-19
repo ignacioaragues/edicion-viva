@@ -175,3 +175,9 @@ a:focus-visible { outline: 3px solid #d59877; outline-offset: 4px; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+/* Navegación al portal que agrupa los proyectos Viva. */
+.header-parent-link{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;white-space:nowrap;padding:10px 13px;border:1px solid var(--line-strong);border-radius:4px;text-decoration:none;color:var(--deep);font:600 11px var(--sans);transition:background .2s,border-color .2s}
+.header-parent-link:hover{background:#eeeee7;border-color:#a7b8aa}
+@media(max-width:1080px){.site-header{gap:17px;padding-inline:clamp(18px,3vw,36px)}.header-nav{gap:17px}}
+@media(max-width:760px){.site-header .brand{flex:1 1 auto}.site-header .header-parent-link{margin-left:auto;padding:8px 10px}.site-header .header-nav{order:3}}
