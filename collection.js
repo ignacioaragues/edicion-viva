@@ -119,8 +119,9 @@ const collection = [
     work: 'Paradise Lost',
     translated: 'El paraíso perdido',
     language: 'Inglés · Español',
-    status: 'considering',
-    detail: 'En consideración',
+    status: 'available',
+    url: './autores/milton/paradise-lost/',
+    detail: 'Libro I · vv. 1–75 · traducción y notas en curso',
   },
   {
     author: 'Christopher Marlowe',
@@ -236,7 +237,8 @@ const readingIds = new Map([
   ['https://ignacioaragues.github.io/shakespeare-edicion-viva/', ['shakespeare-coriolanus']],
   ['./autores/evangelios/marcos/', ['evangelios-marcos']],
   ['./autores/leon-i/', ['leo-i-']],
-  ['./autores/corneille/attila/', ['corneille-attila']]
+  ['./autores/corneille/attila/', ['corneille-attila']],
+  ['./autores/milton/paradise-lost/', ['milton-paradise-lost']]
 ]);
 
 function activityTime(item, works) {
