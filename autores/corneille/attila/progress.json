@@ -1,7 +1,7 @@
 {
   "work": "Pierre Corneille — Attila",
   "edition": "Œuvres de P. Corneille, éd. Ch. Marty-Laveaux, Hachette, 1862, tome VII",
-  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_IV",
+  "source": "https://fr.wikisource.org/wiki/Attila_(Corneille)/Acte_V",
   "crosscheck": "https://www.gutenberg.org/files/51612/51612-h/51612-h.htm",
   "first_performance": "1667-03-04",
   "total_acts": 5,
@@ -188,13 +188,40 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 1
+    },
+    {
+      "act": 5,
+      "scene": 1,
+      "from": 1453,
+      "to": 1484,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 3
+    },
+    {
+      "act": 5,
+      "scene": 2,
+      "from": 1485,
+      "to": 1514,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 3
+    },
+    {
+      "act": 5,
+      "scene": 3,
+      "from": 1515,
+      "to": 1610,
+      "status": "complete_first_pass",
+      "translation": "complete_first_pass",
+      "notes": 11
     }
   ],
   "next": {
     "act": 5,
-    "scene": 1,
-    "verse": 1453
+    "scene": 4,
+    "verse": 1611
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I–IV completos hasta v.1452; comenzar acto V escena I v.1453."
+  "instructions": "Actos I-IV completos (vv. 1–1452); acto V escenas I-III completas (vv. 1453–1610). Continuar V.4 desde el verso 1611. Atención: el alejandrino 1515 es compartido entre Honoria (fin de V.2) y Atila (inicio de V.3); versos 1567 y 1571 también compartidos. Verificar cambios de interlocutor. Fichas léxicas exhaustivas quedan para la revisión posterior."
 }
