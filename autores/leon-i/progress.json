@@ -449,6 +449,29 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "35 aligned units, five sections, digital Tractatus XXIII transcription; first-pass translation complete. Printed PL54 critical collation, full contextual morphology and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 24,
+      "section": "Sermo XXIV In Nativitate Domini IV, sections I–III of VI",
+      "paragraphs": 25,
+      "translation": "original Spanish aligned translation, sections I–III",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxiv/index.html",
+      "published_chapters": [
+        1,
+        2,
+        3
+      ],
+      "total_chapters": 6,
+      "aligned_units": 25,
+      "voice_notes": 6,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "First-pass Latin from Tractatus XXIV online transcription; printed PL54 collation, contextual token morphology and browser QA pending. Sections IV–VI not yet published.",
+      "next": "Sermo XXIV section IV, Ab hoc sacramento, dilectissimi; complete sections IV–VI before starting XXV"
     }
   ],
   "next": {
