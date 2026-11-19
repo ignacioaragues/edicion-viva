@@ -325,12 +325,29 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Latin checked against Tractatus XV transcription; variant experimento/experimentis remains for printed collation; browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 16,
+      "section": "Sermo XVI De jejunio decimi mensis V, chapters I–II of VI",
+      "paragraphs": 9,
+      "translation": "partial original aligned Spanish translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xvi/index.html",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "voice_notes": 5,
+      "lexical_coverage": "13 selective lexical forms; contextual morphology incomplete",
+      "editorial_caveat": "Partial first pass. Chapters III–VI missing; source checked against Corpus Corporum / Migne transcriptions, printed collation and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 16,
-    "section": "caput I"
+    "section": "caput III",
+    "incipit": "Inter haec autem, dilectissimi, opera pietatis"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-19: Sermo XIV first-pass bilingual translation published, eight aligned units and 19 selective lexical forms; full morphology, print collation and reader parity pending.",
