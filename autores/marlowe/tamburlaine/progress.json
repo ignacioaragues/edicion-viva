@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 3834,
+    "reviewedUnits": 3884,
     "reviewed": [
       {
         "part": 1,
@@ -1274,11 +1274,27 @@
         "start": 123,
         "end": 172,
         "count": 50
+      },
+      {
+        "part": 2,
+        "act": 4,
+        "scene": 1,
+        "start": 173,
+        "end": 206,
+        "count": 34
+      },
+      {
+        "part": 2,
+        "act": 4,
+        "scene": 2,
+        "start": 1,
+        "end": 16,
+        "count": 16
       }
     ],
     "lastPass": {
       "date": "2026-11-19",
-      "scope": "Parte II IV.1.123–172",
+      "scope": "Parte II IV.1.173–206 y IV.2.1–16",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
       "translationLinesRevised": 50,
@@ -1293,8 +1309,8 @@
     "next": {
       "part": 2,
       "act": 4,
-      "scene": 1,
-      "line": 173
+      "scene": 2,
+      "line": 17
     }
   }
 }
