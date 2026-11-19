@@ -11,18 +11,18 @@
       "act": 1,
       "scene": 1,
       "from": 1,
-      "to": 28,
-      "status": "first_pass",
+      "to": 72,
+      "status": "complete_first_pass",
       "translation": "complete_first_pass",
-      "lexical_tokens": "239/239 annotated; ambiguous forms require contextual audit",
-      "notes": 6
+      "lexical_tokens": "word popups active; contextual morphology review remains open",
+      "notes": 18
     }
   ],
   "next": {
     "act": 1,
-    "scene": 1,
-    "verse": 29
+    "scene": 2,
+    "verse": 73
   },
-  "last_edit": "2026-11-15",
-  "instructions": "Continue without replacing existing verses; use coherent dramatic units (normally 20–30 alexandrines). Preserve Marty-Laveaux typography, review every word contextually; align translation verse by verse, notes selectively. Verify source before publishing; never invent missing text."
+  "last_edit": "2026-11-19",
+  "instructions": "Escena primera íntegra vv. 1–72; siguiente acto I escena II v. 73. Priorizar unidades completas, traducción alineada, notas pertinentes y publicación inmediata, con posterior revisión filológica."
 }
