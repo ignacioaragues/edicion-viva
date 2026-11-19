@@ -48,9 +48,9 @@
       a.href = '../../autores/dickinson/#' + poem.id;
       actions.append(a);
     } else {
-      const lesson = ['J254', 'J303'].includes(poem.id) ? 2 : ['J324', 'J444'].includes(poem.id) ? 3 : ['J328', 'J986'].includes(poem.id) ? 4 : 1;
+      const lesson = ['J254', 'J303'].includes(poem.id) ? 2 : ['J324', 'J444'].includes(poem.id) ? 3 : ['J328', 'J986'].includes(poem.id) ? 4 : ['J185', 'J376', 'J501'].includes(poem.id) ? 5 : 1;
       const a = make('a', 'inline-link', 'Volver a la lección ' + lesson + ' →');
-      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : ['J328', 'J986'].includes(poem.id) ? 'leccion-4.html#' : '#') + poem.id;
+      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : ['J328', 'J986'].includes(poem.id) ? 'leccion-4.html#' : ['J185', 'J376', 'J501'].includes(poem.id) ? 'leccion-5.html#' : '#') + poem.id;
       actions.append(a);
     }
     mount.append(actions);
