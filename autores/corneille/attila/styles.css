@@ -18,7 +18,13 @@
 .dict-record button{justify-self:end;background:none;border:none;font:600 10px 'DM Sans',sans-serif;color:#9d5747;cursor:pointer}
 .dict-record button:hover{text-decoration:underline}
 .verse .spanish{white-space:normal}
-.verse .speech .note-anchor{margin-top:6px}
+/* Nota al margen del mismo renglón, sin crear un renglón vacío tras el texto. */
+.verse .verse-original-line{display:flex;align-items:flex-start;min-width:0;gap:8px}
+.verse .verse-original-line .latin{flex:1 1 auto;min-width:0}
+.verse .speech .note-anchor{flex:0 0 19px;width:19px;height:19px;min-width:19px;min-height:19px;margin:calc((var(--reading-size, 17px) * .93) - 9px) 0 0;align-self:flex-start;vertical-align:baseline;cursor:pointer}
+.verse .speech .note-anchor:focus-visible{outline:2px solid #9d5747;outline-offset:3px}
+.marginal-note-panel{max-width:360px}
+@media(max-width:690px){.verse .verse-original-line{gap:5px}.verse .speech .note-anchor{flex-basis:18px;width:18px;min-width:18px}}
 @media(max-width:860px){
  .sidebar.open{position:fixed;display:block;left:0;top:65px;bottom:0;width:min(285px,90vw);z-index:39;background:#f4f2eb;box-shadow:8px 0 20px #0002}
  .sidebar.open .sidebar-inner{position:static;height:100%;padding:18px}
