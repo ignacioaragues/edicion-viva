@@ -450,3 +450,7 @@
 ## Septuagésima sexta pasada filológica (19-11-2026)
 - 50 unidades: Parte II IV.1.73–122. Acumulado 3.784/4.641 (81,5 %). Sigue IV.1.123.
 - 50 traducciones ajustadas, 12 notas y 2 fichas. Inglés, acotaciones e IDs preservados; cotejo histórico independiente y QA navegador pendientes.
+
+## Septuagésima séptima pasada filológica (19-11-2026)
+- 50 unidades: Parte II IV.1.123–172. Acumulado 3.834/4.641 (82,6 %). Sigue IV.1.173.
+- 50 traducciones ajustadas, 12 notas y 2 fichas. Inglés, acotaciones e IDs preservados; cotejo histórico independiente y QA navegador pendientes.
