@@ -426,7 +426,7 @@
   "philologicalReview": {
     "status": "in_progress",
     "targetUnitsPerPass": 50,
-    "reviewedUnits": 4334,
+    "reviewedUnits": 4384,
     "reviewed": [
       {
         "part": 1,
@@ -1386,14 +1386,30 @@
         "start": 1,
         "end": 15,
         "count": 15
+      },
+      {
+        "part": 2,
+        "act": 5,
+        "scene": 2,
+        "start": 16,
+        "end": 59,
+        "count": 44
+      },
+      {
+        "part": 2,
+        "act": 5,
+        "scene": 3,
+        "start": 1,
+        "end": 6,
+        "count": 6
       }
     ],
     "lastPass": {
       "date": "2026-11-19",
-      "scope": "Parte II V.1.186–220 y V.2.1–15",
+      "scope": "Parte II V.2.16–59 y V.3.1–6",
       "unitsReviewed": 50,
       "translationLinesValidated": 50,
-      "translationLinesRevised": 50,
+      "translationLinesRevised": 13,
       "newNotes": 12,
       "readingCardsAdded": 2,
       "sourceBasis": [
@@ -1405,8 +1421,8 @@
     "next": {
       "part": 2,
       "act": 5,
-      "scene": 2,
-      "line": 16
+      "scene": 3,
+      "line": 7
     }
   }
 }
