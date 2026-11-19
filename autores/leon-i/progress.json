@@ -375,6 +375,20 @@
       "editorial_caveat": "Three chapters, 18 aligned units; digital Latin compared against Ballerini–Migne Wikisource and Tractatus XVIII. Printed critical collation, exhaustive contextual morphology and browser QA pending.",
       "next": "Sermo XIX",
       "translation_complete": true
+    },
+    {
+      "group": "sermones",
+      "number": 19,
+      "section": "Sermo XIX · De jejunio decimi mensis VIII · capita I–III",
+      "paragraphs": 23,
+      "translation": "complete original first-pass Spanish translation",
+      "complete_work": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xix/index.html",
+      "voice_notes": 5,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "23 aligned units, full three chapters. Latin compared against public Migne and Tractatus XIX transcriptions; printed critical collation and contextual word-by-word morphology pending. Dictionary lookup is provisional, not verified contextual analysis."
     }
   ],
   "next": {
