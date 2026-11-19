@@ -6,7 +6,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   J288: {
     id: "J288", franklin: "F260", approx: "c. 1861",
     incipit: "I'm Nobody! Who are you?",
-    titleES: "¡Soy Nadie! ¿Quién eres tú?",
+    titleES: "¡Soy Nadie! ¿Quién eres tú?", stanzaBreaks: [4],
     source: "Johnson, The Complete Poems, n.º 288, p. 133; Miller, As She Preserved Them, p. 128 (variantes).",
     lines: [
       ["I'm Nobody! Who are you?", "¡Soy Nadie! ¿Quién eres tú?"],
@@ -34,7 +34,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     lines: [
       ["This is my letter to the World", "Esta es mi carta al Mundo"],
       ["That never wrote to Me –", "que nunca me escribió —"],
-      ["The simple News that Nature told –", "las sencillas Noticias que la Naturaleza contó —"],
+      ["The Simple News that Nature told –", "las sencillas Noticias que la Naturaleza contó —"],
       ["With tender Majesty", "con tierna Majestad"],
       ["Her Message is committed", "Su Mensaje queda confiado"],
       ["To Hands I cannot see –", "a Manos que no puedo ver —"],
