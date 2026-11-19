@@ -44,7 +44,7 @@
     mount.append(notes, source);
     if (document.body.dataset.page === 'curso') {
       const a = make('a', 'inline-link', 'Abrir en la edición completa →');
-      a.href = '../../../autores/dickinson/#' + poem.id;
+      a.href = '../../autores/dickinson/#' + poem.id;
       actions.append(a);
     } else {
       const a = make('a', 'inline-link', 'Volver a la lección 1 →');
