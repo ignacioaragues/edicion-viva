@@ -404,6 +404,21 @@
       "source_collation_complete": false,
       "lexical_coverage": "18 selected contextual surface-form entries; full token-by-token morphology pending",
       "editorial_caveat": "Latin checked against Tractatus XX and a traditional Latin PDF; complete three-chapter first-pass translation. Printed PL54 collation, variants and full browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 21,
+      "section": "Sermo XXI · In Nativitate Domini I, capita I–III",
+      "paragraphs": 17,
+      "translation": "complete first-pass original Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxi/index.html",
+      "voice_notes": 8,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "17 aligned units across three complete chapters; Latin compared against Tractatus XXI and traditional PL transcription. Variant caritatem/misericordiam and closing formula remain for critical printed collation. Contextual word-by-word morphology, shared dictionary integration and browser QA pending."
     }
   ],
   "next": {
