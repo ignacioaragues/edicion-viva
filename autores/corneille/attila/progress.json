@@ -215,13 +215,22 @@
       "status": "complete_first_pass",
       "translation": "complete_first_pass",
       "notes": 11
+    },
+    {
+      "act": 5,
+      "scene": 4,
+      "from": 1611,
+      "to": 1640,
+      "status": "in_progress",
+      "translation": "complete_first_pass",
+      "notes": 3
     }
   ],
   "next": {
     "act": 5,
     "scene": 4,
-    "verse": 1611
+    "verse": 1641
   },
   "last_edit": "2026-11-19",
-  "instructions": "Actos I-IV completos (vv. 1–1452); acto V escenas I-III completas (vv. 1453–1610). Continuar V.4 desde el verso 1611. Atención: el alejandrino 1515 es compartido entre Honoria (fin de V.2) y Atila (inicio de V.3); versos 1567 y 1571 también compartidos. Verificar cambios de interlocutor. Fichas léxicas exhaustivas quedan para la revisión posterior."
+  "instructions": "Continuar acto V escena IV desde verso 1641; ya publicados 1611–1640 en acte5-scene4a.js."
 }
