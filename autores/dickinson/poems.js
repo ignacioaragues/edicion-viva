@@ -1579,6 +1579,295 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz adopta una solemnidad desmesurada para defender una idea sencilla: dormir hasta que verdaderamente amanezca. La imagen de la estación, sus testigos y la Aurora triunfal convierten una disputa doméstica sobre los horarios en una escena casi cósmica. El poema demuestra que el vocabulario religioso o trascendente de Dickinson también puede estar al servicio de la ironía.",
   "preest": "Preest (J13, F35, pp. 5–6) insiste en que este poema no trata del despertar a la vida eterna, pese a su léxico grandioso. Recuerda que Dickinson lo dirigió a su padre en una carta (L198), con una dedicatoria irónica que le agradecía hacerla levantar a horas intempestivas. La exageración de las tres de la mañana refuerza la broma: las almas sensatas saben que la mañana empieza con la luz, no con las órdenes paternas."
 },
+  J15: {
+  "id": "J15",
+  "franklin": "F44",
+  "approx": "c. 1858",
+  "incipit": "The Guest is gold and crimson -",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems, J15; David Preest, Emily Dickinson Poems Commentary, J15, pp. 6–7.",
+  "lines": [
+    [
+      "The Guest is gold and crimson -",
+      "El Huésped es oro y carmesí,"
+    ],
+    [
+      "An Opal guest and gray -",
+      "un huésped de ópalo y gris;"
+    ],
+    [
+      "Of Ermine is his doublet -",
+      "de armiño lleva el jubón,"
+    ],
+    [
+      "His Capuchin gay -",
+      "alegre la capucha."
+    ],
+    [
+      "He reaches town at nightfall -",
+      "Llega al pueblo al caer la noche;"
+    ],
+    [
+      "He stops at every door -",
+      "se detiene ante cada puerta."
+    ],
+    [
+      "Who looks for him at morning",
+      "Quien lo busque por la mañana"
+    ],
+    [
+      "I pray him too - explore",
+      "le ruego que explore"
+    ],
+    [
+      "The Lark's pure territory -",
+      "el territorio puro de la alondra,"
+    ],
+    [
+      "Or the Lapwing's shore!",
+      "¡o la costa del avefría!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Capuchin",
+      "body": "Capucha o capote con capucha; parte de la indumentaria personificada del sol."
+    }
+  ],
+  "interpretation": "El atardecer entra en escena como un visitante de vestiduras suntuosas. El acertijo desplaza la mirada desde la luz crepuscular hacia el cielo matinal: el mismo sol que parecía detenerse ante las casas se encontrará después en el dominio de las aves. La personificación hace de una transición diaria una visita ceremonial.",
+  "preest": "Preest identifica al huésped con el sol poniente y recuerda que Dickinson tituló «Navy Sunset» la copia enviada a Susan. Relaciona el lujo cromático del traje con otra descripción epistolar de un cielo vespertino (L189); también señala una posible reminiscencia del avefría de Much Ado About Nothing, sin presentarla como fuente demostrada."
+},
+  J16: {
+  "id": "J16",
+  "franklin": null,
+  "approx": "c. 1858",
+  "incipit": "I would distil a cup,",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems, J16; David Preest, Emily Dickinson Poems Commentary, J16, pp. 7.",
+  "lines": [
+    [
+      "I would distil a cup,",
+      "Destilaría una copa"
+    ],
+    [
+      "And bear to all my friends,",
+      "y la llevaría a todos mis amigos,"
+    ],
+    [
+      "Drinking to her no more astir,",
+      "para brindar por ella, que ya no se mueve"
+    ],
+    [
+      "By beck, or burn, or moor!",
+      "junto al arroyo, el torrente o el páramo."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "beck / burn / moor",
+      "body": "Tres palabras de paisaje: arroyo, corriente de agua y páramo. Johnson conserva el pasaje como J16; Franklin lo excluye del corpus poético."
+    }
+  ],
+  "interpretation": "La copa imaginaria concentra una estación que acaba de terminar. El brindis no celebra una persona ausente, sino el verano que se retira: destilarlo equivale a conservar su esencia para compartirla con los amigos. El tono es breve, afectuoso y elegíaco.",
+  "preest": "Preest sitúa estos versos en la carta L193 a Samuel Bowles, escrita al terminar el verano de 1858. El contexto de siega permite entender el pronombre femenino como referencia a la estación. Advierte además que Franklin no cuenta este pasaje epistolar en verso como poema independiente."
+},
+  J17: {
+  "id": "J17",
+  "franklin": "F66",
+  "approx": "c. 1858",
+  "incipit": "Baffled for just a day or two -",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems, J17; David Preest, Emily Dickinson Poems Commentary, J17, pp. 7.",
+  "lines": [
+    [
+      "Baffled for just a day or two -",
+      "Desconcertada apenas un día o dos,"
+    ],
+    [
+      "Embarrassed - not afraid -",
+      "turbada, pero sin miedo,"
+    ],
+    [
+      "Encounter in my garden",
+      "encuentro en mi jardín"
+    ],
+    [
+      "An unexpected Maid.",
+      "a una Doncella inesperada."
+    ],
+    [
+      "She beckons, and the woods start -",
+      "Ella hace señas y el bosque se estremece;"
+    ],
+    [
+      "She nods, and all begin -",
+      "asiente y todo comienza."
+    ],
+    [
+      "Surely, such a country",
+      "Sin duda, en un país semejante"
+    ],
+    [
+      "I was never in!",
+      "¡jamás había estado!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Maid",
+      "body": "La mayúscula permite personificar la flor; también facilita una lectura alegórica de la vocación poética."
+    }
+  ],
+  "interpretation": "La visitante del jardín inaugura una experiencia que desborda el entorno conocido. El desconcierto inicial no es terror, sino la sorpresa de descubrir que lo familiar —bosques y jardín— puede convertirse en un país desconocido. La Doncella admite una lectura botánica y otra como figura de la inspiración.",
+  "preest": "Preest recuerda que Dickinson envió el poema a la señora Holland acompañado de un capullo de rosa: en el nivel inmediato, la Doncella puede ser esa primera flor. Recoge asimismo la propuesta de Judith Farr de leerla como Musa de la poesía; esa hipótesis explica mejor el desconcierto de los dos primeros versos, aunque no constituye una identificación segura."
+},
+  J18: {
+  "id": "J18",
+  "franklin": "F21",
+  "approx": "c. 1858",
+  "incipit": "The Gentian weaves her fringes -",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems, J18; David Preest, Emily Dickinson Poems Commentary, J18, pp. 7–8.",
+  "lines": [
+    [
+      "The Gentian weaves her fringes -",
+      "La genciana teje sus flecos;"
+    ],
+    [
+      "The Maple's loom is red -",
+      "rojo es el telar del arce."
+    ],
+    [
+      "My departing blossoms",
+      "Mis flores que se marchan"
+    ],
+    [
+      "Obviate parade.",
+      "evitan desfilar."
+    ],
+    [
+      "A brief, but patient illness -",
+      "Una enfermedad breve, pero paciente;"
+    ],
+    [
+      "An hour to prepare,",
+      "una hora para prepararse;"
+    ],
+    [
+      "And one below this morning",
+      "y una que esta mañana estaba aquí abajo"
+    ],
+    [
+      "Is where the angels are -",
+      "está donde están los ángeles."
+    ],
+    [
+      "It was a short procession,",
+      "Fue breve la procesión;"
+    ],
+    [
+      "The Bobolink was there -",
+      "estaba allí el tordo arrocero;"
+    ],
+    [
+      "An aged Bee addressed us -",
+      "una abeja anciana nos dirigió la palabra"
+    ],
+    [
+      "And then we knelt in prayer -",
+      "y luego nos arrodillamos a rezar."
+    ],
+    [
+      "We trust that she was willing -",
+      "Confiamos en que ella lo aceptara;"
+    ],
+    [
+      "We ask that we may be.",
+      "pedimos poder aceptarlo nosotros."
+    ],
+    [
+      "Summer - Sister - Seraph!",
+      "¡Verano, Hermana, Serafín!"
+    ],
+    [
+      "Let us go with thee!",
+      "¡Déjanos ir contigo!"
+    ],
+    [
+      "In the name of the Bee -",
+      "En nombre de la Abeja,"
+    ],
+    [
+      "And of the Butterfly -",
+      "y de la Mariposa,"
+    ],
+    [
+      "And of the Breeze - Amen!",
+      "y de la Brisa. ¡Amén!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Obviate parade",
+      "body": "Expresión elíptica: las flores que se marchitan dejan de participar en el desfile de la estación."
+    },
+    {
+      "line": 10,
+      "title": "Bobolink",
+      "body": "Dolichonyx oryzivorus, ave cantora norteamericana, aquí participante del funeral."
+    }
+  ],
+  "interpretation": "El final del verano se convierte en un funeral completo: hay procesión, orador, oración y doxología. La parodia del ceremonial cristiano no destruye su emoción: presenta la pérdida estacional como una muerte verdadera, pero imagina a la naturaleza como comunidad de duelo y esperanza. La Trinidad final es sustituida por criaturas del jardín.",
+  "preest": "Preest lee la difunta como el verano de 1858 y detalla los papeles de los asistentes: el tordo arrocero proporciona el marco musical y la abeja anciana pronuncia el discurso. Destaca el cierre litúrgico, en el que Abeja, Mariposa y Brisa ocupan las posiciones de una fórmula trinitaria. La escena oscila entre juego verbal y sentimiento de pérdida."
+},
+  J19: {
+  "id": "J19",
+  "franklin": "F25",
+  "approx": "c. 1858",
+  "incipit": "A sepal, petal, and a thorn",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems, J19; David Preest, Emily Dickinson Poems Commentary, J19, pp. 8.",
+  "lines": [
+    [
+      "A sepal, petal, and a thorn",
+      "Un sépalo, un pétalo y una espina"
+    ],
+    [
+      "Upon a common summer's morn -",
+      "en una mañana cualquiera de verano;"
+    ],
+    [
+      "A flask of Dew - A Bee or two -",
+      "un frasco de rocío, una abeja o dos;"
+    ],
+    [
+      "A Breeze - a caper in the trees -",
+      "una brisa, un retozo entre los árboles;"
+    ],
+    [
+      "And I'm a Rose!",
+      "¡y soy una Rosa!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Sepal",
+      "body": "Sépalo: pieza exterior del cáliz de una flor, distinta del pétalo."
+    }
+  ],
+  "interpretation": "El poema construye una identidad a partir de un inventario mínimo: piezas de una flor, rocío, insectos y movimiento del aire. El último verso transforma la enumeración en una revelación juguetona: la voz no contempla la rosa, sino que habla como ella. La brevedad reproduce la ligereza de una adivinanza.",
+  "preest": "Preest entiende los cuatro primeros versos como una pregunta implícita cuya solución llega al final. Esa lectura de acertijo explica la economía extrema del texto y su exclamación conclusiva."
+},
   J14: {
     id: "J14", franklin: "F5", approx: "c. 1858",
     incipit: "One Sister have I in our house,",
