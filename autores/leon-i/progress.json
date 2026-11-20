@@ -902,18 +902,37 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Complete first-pass text, six chapters and Amen, based on public Tractatus XLII. Printed PL54 collation, exhaustive contextual morphology, dictionary integration and browser QA pending. Romans 16:27 reference in source should read Romans 16:17–18; anti-Manichaean claims are Leo's polemic."
+    },
+    {
+      "group": "sermones",
+      "number": 43,
+      "section": "Sermo XLIII · De Quadragesima V · capita I–IV",
+      "paragraphs": 21,
+      "aligned_units": 21,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xliii/index.html",
+      "voice_notes": 8,
+      "lexical_coverage": "24 selective contextual entries; full word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four chapters and Amen from public Tractatus XLIII Latin transcription; printed PL54 collation, full contextual token morphology, shared dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XLIII · De Quadragesima V, caput I",
+  "next": "Sermo XLIV · De Quadragesima VI, caput I",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 43,
-    "next_chapter": 1,
-    "status": "not_started"
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
