@@ -149,7 +149,7 @@ const collection = [
     language: 'Inglés · Español',
     status: 'available',
     url: './autores/dickinson/',
-    detail: '20 poemas / 341 versos publicados · orden Johnson · 8 lecciones disponibles',
+    detail: '23 poemas / 371 versos publicados · orden Johnson · 9 lecciones disponibles',
   },
   {
     author: 'Francesco Petrarca',
