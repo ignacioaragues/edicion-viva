@@ -2649,6 +2649,217 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "La voz comienza declarando la pobreza de su presente, pero la repetición de «This» lo agranda hasta incluir el corazón y un mundo entero de campos, praderas y abejas. La paradoja reside en que el regalo parece a la vez mínimo e inconmensurable. El destinatario debe «contar», aunque la enumeración desborda cualquier cálculo. Puede leerse como una poética del don: una cosa pequeña, investida de afecto, se vuelve equivalente a todo cuanto la imaginación puede convocar. No es necesario identificar al destinatario ni convertir la escena en una oración religiosa para reconocer esa expansión."
   },
+  J27: {
+    "id": "J27",
+    "incipit": "Morns like these — we parted —",
+    "franklin": "pendiente de cotejo",
+    "lines": [
+      [
+        "Morns like these — we parted —",
+        "En mañanas como estas — nos separamos —"
+      ],
+      [
+        "Noons like these — she rose —",
+        "En mediodías como estos — ella se elevó —"
+      ],
+      [
+        "Fluttering first — then firmer",
+        "Primero aleteando — luego más firme"
+      ],
+      [
+        "To her fair repose.",
+        "hacia su hermoso reposo."
+      ],
+      [
+        "Never did she lisp it —",
+        "Nunca llegó a balbucearlo —"
+      ],
+      [
+        "It was not for me —",
+        "No estaba destinado a mí —"
+      ],
+      [
+        "She — was mute from transport —",
+        "Ella — enmudeció de arrobamiento —"
+      ],
+      [
+        "I — from agony —",
+        "Yo — de agonía —"
+      ],
+      [
+        "Till — the evening nearing",
+        "Hasta que — al acercarse la tarde"
+      ],
+      [
+        "One the curtains drew —",
+        "alguien corrió las cortinas —"
+      ],
+      [
+        "Quick! A sharper rustling!",
+        "¡De pronto! ¡Un roce más intenso!"
+      ],
+      [
+        "And this linnet flew!",
+        "¡Y este pardillo alzó el vuelo!"
+      ]
+    ],
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Tiempo repetido",
+        "body": "La repetición de «like these» transforma un acontecimiento singular en un recuerdo que vuelve con cada mañana y cada mediodía."
+      },
+      {
+        "line": 7,
+        "title": "Dos silencios",
+        "body": "«Transport» designa un arrobamiento o éxtasis; el silencio de ella se opone al de la voz, producido por el dolor."
+      },
+      {
+        "line": 12,
+        "title": "Linnet",
+        "body": "El pardillo, un ave cantora, permite imaginar la partida como vuelo. La identidad de «she» permanece abierta; la lectura de una muerte no es la única posible."
+      }
+    ],
+    "interpretation": "El poema distribuye una separación entre dos experiencias incompatibles: la figura que asciende calla por arrobamiento, mientras quien la observa calla por agonía. La llegada de la tarde y el gesto de correr las cortinas preparan una revelación súbita, pero lo que aparece es otro alejamiento: el pájaro vuela. La escena admite una lectura elegíaca, aunque el lenguaje de elevación también permite pensar en una partida o transformación espiritual.",
+    "titleES": "Morns like these — we parted —",
+    "approx": "c. 1858 (Johnson)",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J27, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
+  },
+  J28: {
+    "id": "J28",
+    "incipit": "So has a Daisy vanished",
+    "franklin": "pendiente de cotejo",
+    "lines": [
+      [
+        "So has a Daisy vanished",
+        "Así ha desaparecido una Margarita"
+      ],
+      [
+        "From the fields today —",
+        "de los campos hoy —"
+      ],
+      [
+        "So tiptoed many a slipper",
+        "Así, de puntillas, tantos zapatos"
+      ],
+      [
+        "To Paradise away —",
+        "se alejaron hacia el Paraíso —"
+      ],
+      [
+        "Oozed so in crimson bubbles",
+        "Así rezumó en burbujas carmesí"
+      ],
+      [
+        "Day's departing tide —",
+        "la marea del día que se retira —"
+      ],
+      [
+        "Blooming — tripping — flowing —",
+        "Floreciendo — tropezando — fluyendo —"
+      ],
+      [
+        "Are ye then with God?",
+        "¿Estáis entonces con Dios?"
+      ]
+    ],
+    "stanzaBreaks": [
+      4
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Daisy",
+        "body": "La margarita puede ser flor literal y figura de una presencia desaparecida; el poema no fija una identidad biográfica."
+      },
+      {
+        "line": 3,
+        "title": "Slipper",
+        "body": "«Slipper» es calzado ligero; el movimiento de puntillas sugiere una salida discreta y casi infantil."
+      },
+      {
+        "line": 5,
+        "title": "Crimson bubbles",
+        "body": "El carmesí puede evocar el ocaso, pero la imagen líquida no se deja reducir a una descripción naturalista."
+      },
+      {
+        "line": 8,
+        "title": "Pregunta final",
+        "body": "El cierre no certifica el destino de los ausentes: pregunta si han llegado a Dios."
+      }
+    ],
+    "interpretation": "La desaparición de la margarita se despliega en tres movimientos: marcharse, desangrarse en color y fluir. La voz enlaza la vida vegetal, la caminata humana y el ocaso, pero el interrogante final impide convertir la semejanza en certeza teológica. La gracia ligera del calzado contrasta con la intensidad del rojo.",
+    "titleES": "So has a Daisy vanished",
+    "approx": "c. 1858 (Johnson)",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J28, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
+  },
+  J29: {
+    "id": "J29",
+    "incipit": "If those I loved were lost",
+    "franklin": "pendiente de cotejo",
+    "lines": [
+      [
+        "If those I loved were lost",
+        "Si se perdieran quienes amé"
+      ],
+      [
+        "The Crier's voice would tell me —",
+        "la voz del pregonero me lo diría —"
+      ],
+      [
+        "If those I loved were found",
+        "Si encontraran a quienes amé"
+      ],
+      [
+        "The bells of Ghent would ring —",
+        "repicarían las campanas de Gante —"
+      ],
+      [
+        "Did those I loved repose",
+        "Si descansaran quienes amé"
+      ],
+      [
+        "The Daisy would impel me",
+        "la Margarita me impulsaría"
+      ],
+      [
+        "Philip — when bewildered",
+        "como a Felipe — desconcertado —"
+      ],
+      [
+        "Bore his riddle in!",
+        "a llevar su enigma adentro."
+      ]
+    ],
+    "stanzaBreaks": [
+      4
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Crier",
+        "body": "El pregonero público contrasta con la intimidad de los seres amados: la pérdida sería anunciada a voces."
+      },
+      {
+        "line": 4,
+        "title": "Ghent",
+        "body": "Las campanas de Gante evocan un anuncio festivo y resonante; el poema no especifica un acontecimiento histórico concreto."
+      },
+      {
+        "line": 7,
+        "title": "Philip",
+        "body": "Alusión probable al Felipe del Evangelio de Juan 1:43–46 o al apóstol de Juan 14:8–9; el contexto preciso requiere cotejo crítico, por lo que no se presenta una identificación definitiva."
+      }
+    ],
+    "interpretation": "El poema ensaya tres modos de saber el destino de los amados: noticia pública, celebración sonora y señal natural. La tercera condición altera la lógica de las anteriores, porque la margarita no comunica una información inequívoca: obliga a cargar con un enigma. La aparente seguridad de los dos primeros condicionales desemboca así en una incertidumbre religiosa.",
+    "titleES": "If those I loved were lost",
+    "approx": "c. 1858 (Johnson)",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J29, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
