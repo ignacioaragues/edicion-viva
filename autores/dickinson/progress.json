@@ -1,0 +1,40 @@
+{
+  "project": "Emily Dickinson · Edición Viva",
+  "phase": "B",
+  "course": {
+    "completed": true,
+    "lessons": 10,
+    "completedThrough": 10
+  },
+  "corpus": {
+    "numbering": "Thomas H. Johnson",
+    "targetPoems": 1775,
+    "publishedPoems": 17,
+    "publishedVerses": 292,
+    "alreadyPublishedJohnsonIds": [
+      "J288",
+      "J441",
+      "J254",
+      "J303",
+      "J324",
+      "J444",
+      "J328",
+      "J986",
+      "J185",
+      "J376",
+      "J501",
+      "J449",
+      "J465",
+      "J712",
+      "J14",
+      "J249",
+      "J640"
+    ],
+    "completedSequentialThrough": 0,
+    "nextJohnsonId": "J1",
+    "targetNewVersesPerRun": 200
+  },
+  "lastCompletedMilestone": "Lección 10: diez poemas ya publicados, nueva lectura comparada, cero versos nuevos",
+  "nextAction": "Abrir Johnson J1; cotejar original con el PDF del usuario; traducir y publicar poemas consecutivos hasta unos 200 versos nuevos, omitiendo los ya existentes",
+  "updatedOn": "2026-11-20"
+}
