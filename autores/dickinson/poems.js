@@ -2860,6 +2860,300 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "approx": "c. 1858 (Johnson)",
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J29, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
   },
+  J30: {
+  "id": "J30",
+  "franklin": "F6",
+  "incipit": "Adrift! A little boat adrift!",
+  "titleES": "¡A la deriva! ¡Una barquita a la deriva!",
+  "approx": "1858",
+  "source": "Johnson, J30; correspondencia Franklin F6; cotejo con emilydickinson.it, J1–50.",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "lines": [
+    [
+      "Adrift! A little boat adrift!",
+      "¡A la deriva! ¡Una barquita a la deriva!"
+    ],
+    [
+      "And night is coming down!",
+      "¡Y cae la noche!"
+    ],
+    [
+      "Will no one guide a little boat",
+      "¿Nadie guiará una barquita"
+    ],
+    [
+      "Unto the nearest town?",
+      "hasta el pueblo más cercano?"
+    ],
+    [
+      "So sailors say - on yesterday -",
+      "Así dicen los marineros — que ayer —"
+    ],
+    [
+      "Just as the dusk was brown",
+      "cuando el crepúsculo oscurecía"
+    ],
+    [
+      "One little boat gave up it's strife",
+      "una barquita abandonó su lucha"
+    ],
+    [
+      "And gurgled down and down.",
+      "y se hundió borboteando, más y más."
+    ],
+    [
+      "So angels say - on yesterday -",
+      "Así dicen los ángeles — que ayer —"
+    ],
+    [
+      "Just as the dawn was red",
+      "cuando el alba enrojecía"
+    ],
+    [
+      "One little boat - o'erspent with gales -",
+      "una barquita — exhausta por los vendavales —"
+    ],
+    [
+      "Retrimmed it's masts - redecked it's sails -",
+      "enderezó sus mástiles — renovó sus velas —"
+    ],
+    [
+      "And shot - exultant on!",
+      "¡y avanzó — exultante!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Dos relatos incompatibles describen la misma travesía: hundimiento para los marineros, salvación para los ángeles."
+    }
+  ],
+  "interpretation": "Dos relatos incompatibles describen la misma travesía: hundimiento para los marineros, salvación para los ángeles."
+},
+  J31: {
+  "id": "J31",
+  "franklin": "F7",
+  "incipit": "Summer for thee, grant I may be",
+  "titleES": "Dejame ser verano para vos",
+  "approx": "1858",
+  "source": "Johnson, J31; correspondencia Franklin F7; cotejo con emilydickinson.it, J1–50.",
+  "stanzaBreaks": [
+    4
+  ],
+  "lines": [
+    [
+      "Summer for thee, grant I may be",
+      "Dejame ser verano para vos"
+    ],
+    [
+      "When Summer days are flown!",
+      "cuando los días del verano hayan volado."
+    ],
+    [
+      "Thy music still, when Whippowil",
+      "Ser todavía tu música, cuando el chotacabras"
+    ],
+    [
+      "And Oriole - are done!",
+      "y la oropéndola — hayan callado."
+    ],
+    [
+      "For thee to bloom, I'll skip the tomb",
+      "Para florecer por vos, saltaré la tumba"
+    ],
+    [
+      "And row my blossoms o'er!",
+      "¡y remaré con mis flores hasta la otra orilla!"
+    ],
+    [
+      "Pray gather me -",
+      "Recogeme, te ruego —"
+    ],
+    [
+      "Anemone -",
+      "anémona —"
+    ],
+    [
+      "Thy flower - forevermore!",
+      "¡tu flor — para siempre!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La ofrenda amorosa quiere durar más allá de las estaciones y aun de la muerte."
+    }
+  ],
+  "interpretation": "La ofrenda amorosa quiere durar más allá de las estaciones y aun de la muerte."
+},
+  J32: {
+  "id": "J32",
+  "franklin": "F8",
+  "incipit": "When Roses cease to bloom, Sir,",
+  "titleES": "Cuando las Rosas dejen de florecer, señor,",
+  "approx": "1858",
+  "source": "Johnson, J32; correspondencia Franklin F8; cotejo con emilydickinson.it, J1–50.",
+  "stanzaBreaks": [
+    4
+  ],
+  "lines": [
+    [
+      "When Roses cease to bloom, Sir,",
+      "Cuando las Rosas dejen de florecer, señor,"
+    ],
+    [
+      "And Violets are done -",
+      "y las Violetas hayan terminado —"
+    ],
+    [
+      "When Bumblebees in solemn flight",
+      "cuando los Abejorros en solemne vuelo"
+    ],
+    [
+      "Have passed beyond the Sun -",
+      "hayan pasado más allá del Sol —"
+    ],
+    [
+      "The hand that paused to gather",
+      "la mano que se detuvo a recogerlas"
+    ],
+    [
+      "Upon this Summer's day",
+      "en este día de verano"
+    ],
+    [
+      "Will idle lie - in Auburn -",
+      "yacerá inmóvil — en Auburn —"
+    ],
+    [
+      "Then take my flowers - pray!",
+      "¡tomá entonces mis flores — te lo ruego!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La ofrenda es urgente porque el tiempo de recoger flores y el de vivir son limitados. Auburn puede aludir al cementerio de Mount Auburn."
+    }
+  ],
+  "interpretation": "La ofrenda es urgente porque el tiempo de recoger flores y el de vivir son limitados. Auburn puede aludir al cementerio de Mount Auburn."
+},
+  J33: {
+  "id": "J33",
+  "franklin": "F9",
+  "incipit": "If recollecting were forgetting,",
+  "titleES": "Si recordar fuera olvidar,",
+  "approx": "1858",
+  "source": "Johnson, J33; correspondencia Franklin F9; cotejo con emilydickinson.it, J1–50.",
+  "stanzaBreaks": [
+    4
+  ],
+  "lines": [
+    [
+      "If recollecting were forgetting,",
+      "Si recordar fuera olvidar,"
+    ],
+    [
+      "Then I remember not,",
+      "entonces no recuerdo nada;"
+    ],
+    [
+      "And if forgetting, recollecting,",
+      "y si olvidar fuera recordar,"
+    ],
+    [
+      "How near I had forgot,",
+      "¡qué cerca estuve de olvidar!"
+    ],
+    [
+      "And if to miss, were merry,",
+      "Y si extrañar fuera alegría,"
+    ],
+    [
+      "And to mourn, were gay,",
+      "y lamentarse fuera regocijo,"
+    ],
+    [
+      "How very blithe the fingers",
+      "¡qué dichosos serían los dedos"
+    ],
+    [
+      "That gathered this, today!",
+      "que recogieron esto, hoy!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La inversión imposible de los contrarios da forma al dolor de la ausencia."
+    }
+  ],
+  "interpretation": "La inversión imposible de los contrarios da forma al dolor de la ausencia."
+},
+  J34: {
+  "id": "J34",
+  "franklin": "F10",
+  "incipit": "Garlands for Queens, may be -",
+  "titleES": "Guirnaldas para las Reinas, quizá —",
+  "approx": "1858",
+  "source": "Johnson, J34; correspondencia Franklin F10; cotejo con emilydickinson.it, J1–50.",
+  "stanzaBreaks": [
+    3
+  ],
+  "lines": [
+    [
+      "Garlands for Queens, may be -",
+      "Guirnaldas para las Reinas, quizá —"
+    ],
+    [
+      "Laurels - for rare degree",
+      "laureles — para grados excepcionales"
+    ],
+    [
+      "Of soul or sword -",
+      "del alma o de la espada —"
+    ],
+    [
+      "Ah - but remembering me -",
+      "Ah — pero para recordarme a mí —"
+    ],
+    [
+      "Ah - but remembering thee -",
+      "ah — pero para recordarte a vos —"
+    ],
+    [
+      "Nature in chivalry -",
+      "la Naturaleza, con caballerosidad —"
+    ],
+    [
+      "Nature in charity -",
+      "la Naturaleza, con caridad —"
+    ],
+    [
+      "Nature in equity -",
+      "la Naturaleza, con justicia —"
+    ],
+    [
+      "This Rose ordained!",
+      "¡ordenó esta Rosa!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La rosa reemplaza las insignias de prestigio por un emblema de memoria íntima."
+    }
+  ],
+  "interpretation": "La rosa reemplaza las insignias de prestigio por un emblema de memoria íntima."
+},
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
