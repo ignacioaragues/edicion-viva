@@ -1290,6 +1290,81 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 24, title: "La versión de 1890", body: "En su primera publicación póstuma, bajo el título editorial «The Chariot», Todd y Higginson omitieron la estrofa que empieza «Or rather – He passed Us –» y regularizaron otras partes. La presente edición conserva los 24 versos de Johnson y permite cotejarlos con Miller (F479)."}
     ]
   },
+  J6: {
+  "id": "J6",
+  "franklin": "pendiente de cotejo",
+  "approx": "c. 1858",
+  "incipit": "Frequently the woods are pink",
+  "titleES": "Frequently the woods are pink",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems, J6, p. 8; comentario de Preest pendiente de cotejo.",
+  "lines": [
+    [
+      "Frequently the woods are pink —",
+      "A menudo los bosques son rosados;"
+    ],
+    [
+      "Frequently are brown —",
+      "a menudo son pardos;"
+    ],
+    [
+      "Frequently the hills undress",
+      "a menudo se desnudan las colinas"
+    ],
+    [
+      "Behind my native town.",
+      "detrás de mi ciudad natal."
+    ],
+    [
+      "Oft a head is crested",
+      "A veces aparece una cresta"
+    ],
+    [
+      "I was wont to see —",
+      "que solía contemplar,"
+    ],
+    [
+      "And as oft a cranny",
+      "y otras veces una hendidura"
+    ],
+    [
+      "Where it used to be —",
+      "donde antes estaba aquella."
+    ],
+    [
+      "And the Earth — they tell me —",
+      "Y la Tierra —me dicen—"
+    ],
+    [
+      "On its Axis turned!",
+      "¡giró sobre su eje!"
+    ],
+    [
+      "Wonderful Rotation!",
+      "¡Maravillosa rotación,"
+    ],
+    [
+      "By but twelve performed!",
+      "realizada en solo doce meses!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Las colinas se desnudan",
+      "body": "La personificación hace del cambio estacional un gesto de quitarse la ropa."
+    },
+    {
+      "line": 9,
+      "title": "Eje y doce meses",
+      "body": "La rotación axial se combina poéticamente con el ciclo anual; la aparente imprecisión es significativa."
+    }
+  ],
+  "interpretation": "El paisaje muda de color y de forma, mientras la hablante descubre con asombro la repetición anual. La combinación de la rotación terrestre con los doce meses no constituye una explicación científica: comprime en una imagen el movimiento de la Tierra y la transformación de la mirada. El poema encuentra lo maravilloso en lo familiar, detrás de la ciudad natal."
+},
   J14: {
     id: "J14", franklin: "F5", approx: "c. 1858",
     incipit: "One Sister have I in our house,",
