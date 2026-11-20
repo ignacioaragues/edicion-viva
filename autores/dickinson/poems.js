@@ -2528,6 +2528,127 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El poema imagina una primavera que no está al alcance de los vivos. En ese espacio, los ausentes siguen moviéndose y las aves regresan a una estación que no termina. La comparación con las estrellas convierte el cielo en una fiesta colectiva, pero la hablante no se incluye entre sus participantes: pide bailar y cantar con ellos. La distancia entre la visión y el deseo organiza el desenlace. Las campanas esperadas anuncian otra aurora, sin garantizar que haya llegado. Esta interpretación es editorial propia; queda pendiente el cotejo del comentario de David Preest."
 },
+  J25: {
+    "id": "J25",
+    "franklin": "F15",
+    "approx": "c. 1858",
+    "incipit": "She slept beneath a tree –",
+    "titleES": "Dormía bajo un árbol",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J25; cotejo con la transcripción Johnson de AmericanPoems y la concordancia F15–J25 de emilydickinson.it. Interpretación original; pendiente cotejo de Preest.",
+    "lines": [
+      [
+        "She slept beneath a tree –",
+        "Dormía bajo un árbol —"
+      ],
+      [
+        "Remembered but by me.",
+        "y solo yo la recordaba."
+      ],
+      [
+        "I touched her Cradle mute –",
+        "Toqué su Cuna silenciosa —"
+      ],
+      [
+        "She recognized the foot –",
+        "reconoció el pie —"
+      ],
+      [
+        "Put on her carmine suit",
+        "se puso su traje carmesí"
+      ],
+      [
+        "And see!",
+        "¡y mirá!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Adivinanza botánica",
+        "body": "El referente es una flor que brota, probablemente un tulipán. La edición de 1896 publicó el poema como «The Tulip»; ese título posterior resuelve el enigma que el original deja abierto."
+      },
+      {
+        "line": 3,
+        "title": "Cradle",
+        "body": "La «cuna» alude al alojamiento de la flor antes de brotar; su silencio intensifica la personificación de una vida latente."
+      },
+      {
+        "line": 4,
+        "title": "The foot",
+        "body": "El pie puede ser el de quien visita la planta. El reconocimiento se atribuye imaginativamente a una flor, no se describe como un hecho botánico."
+      },
+      {
+        "line": 5,
+        "title": "Carmine",
+        "body": "El carmín convierte la floración en el acto humano de vestirse. Se conserva el color específico en la traducción."
+      }
+    ],
+    "interpretation": "El poema dramatiza una aparición primaveral: lo que parecía dormido y olvidado responde al contacto de quien lo recuerda y se viste de rojo. El lenguaje de la cuna, el reconocimiento y el traje desplaza la botánica al registro de una pequeña resurrección. La última exclamación invita al lector a mirar, pero la identidad de la flor queda sin nombrar en el texto de Johnson. Esta lectura botánica se distingue de la posible resonancia funeraria de «dormía» y «silenciosa»: el poema permite oír ambas, aunque su desenlace cromático favorece la renovación."
+  },
+  J26: {
+    "id": "J26",
+    "franklin": "",
+    "approx": "c. 1858",
+    "incipit": "It's all I have to bring today –",
+    "titleES": "Es todo lo que puedo traer hoy",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Johnson, The Complete Poems, J26; texto contrastado con la transcripción de la Universidad de Pensilvania. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "It's all I have to bring today –",
+        "Es todo lo que puedo traer hoy —"
+      ],
+      [
+        "This, and my heart beside –",
+        "esto, y además mi corazón —"
+      ],
+      [
+        "This, and my heart, and all the fields –",
+        "esto, mi corazón y todos los campos —"
+      ],
+      [
+        "And all the meadows wide –",
+        "y todas las extensas praderas —"
+      ],
+      [
+        "Be sure you count – should I forget",
+        "Asegurate de contar — si llegara a olvidarme"
+      ],
+      [
+        "Some one the sum could tell –",
+        "alguien podría decirte la suma —"
+      ],
+      [
+        "This, and my heart, and all the Bees",
+        "esto, mi corazón y todas las Abejas"
+      ],
+      [
+        "Which in the Clover dwell.",
+        "que habitan entre los Tréboles."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "This",
+        "body": "El demostrativo nunca identifica de manera explícita el objeto ofrecido; la indeterminación permite que el regalo se expanda imaginativamente."
+      },
+      {
+        "line": 5,
+        "title": "Count",
+        "body": "El lenguaje contable contrasta con la imposibilidad de medir una ofrenda que incluye el paisaje y sus criaturas."
+      },
+      {
+        "line": 7,
+        "title": "Bees / Clover",
+        "body": "La capitalización de las abejas y el trébol concede protagonismo a los seres naturales que integran la dádiva."
+      }
+    ],
+    "interpretation": "La voz comienza declarando la pobreza de su presente, pero la repetición de «This» lo agranda hasta incluir el corazón y un mundo entero de campos, praderas y abejas. La paradoja reside en que el regalo parece a la vez mínimo e inconmensurable. El destinatario debe «contar», aunque la enumeración desborda cualquier cálculo. Puede leerse como una poética del don: una cosa pequeña, investida de afecto, se vuelve equivalente a todo cuanto la imaginación puede convocar. No es necesario identificar al destinatario ni convertir la escena en una oración religiosa para reconocer esa expansión."
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
