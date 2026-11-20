@@ -643,6 +643,21 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All three sections and 24 aligned units translated from public digital Tractatus XXXI. Printed Ballerini–Migne PL54 collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 32,
+      "section": "Sermo XXXII · In Epiphania Domini II · partes I–IV",
+      "paragraphs": 31,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxii/index.html",
+      "voice_notes": 9,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Latin based on public Tractatus XXXII transcription; full printed PL54 collation, contextual token morphology, shared dictionary integration and browser QA pending. Anti-Jewish rhetoric identified as polemic."
     }
   ],
   "next": "Sermo XXXII · In Epiphania Domini II; Sermo XXXI morphology and printed collation pending",
