@@ -547,20 +547,46 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All six sections aligned from public digital Tractatus XXVII transcription. Full contextual token morphology, printed Ballerini–Migne PL54 collation and browser QA pending; not a definitive critical edition."
+    },
+    {
+      "group": "sermones",
+      "number": 28,
+      "section": "Sermo XXVIII In Nativitate Domini VIII, sections I–VII",
+      "paragraphs": 33,
+      "aligned_units": 33,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "total_chapters": 7,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxviii/index.html",
+      "voice_notes": 7,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All seven sections in 33 aligned units from public digital Tractatus XXVIII; selected enclitic spacing normalized. Printed Ballerini–Migne collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending. This is a complete first-pass translation, not a definitive critical edition."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 28,
+    "number": 29,
     "section": "I",
-    "beginning": "Verify full Latin Sermo XXVIII before translation"
+    "beginning": "Verify full Latin Sermo XXIX before translation"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: completed Sermo XXVII first-pass bilingual sections III–VI (29 new units; 47 total); contextual morphology and printed collation pending.",
+  "last_edit": "2026-11-20: Sermo XXVIII first-pass bilingual complete, sections I–VII, 33 aligned units; printed collation, contextual morphology and browser QA pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 28,
+    "number": 29,
     "status": "not_started"
   },
   "priority_queue": [
