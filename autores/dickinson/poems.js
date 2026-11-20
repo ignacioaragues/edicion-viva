@@ -962,5 +962,234 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "body": "La expresión final puede significar soltarse, ceder o dejar de resistir. No fija un único desenlace: supervivencia, abandono o muerte."
       }
     ]
+  },
+  J709: {
+    "id": "J709",
+    "franklin": "F788",
+    "approx": "c. 1863",
+    "incipit": "Publication – is the Auction",
+    "titleES": "Publicar — es subastar",
+    "source": "Johnson J709, pp. 348–349; Miller F788, fascículo 37, p. 386.",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "lines": [
+      [
+        "Publication – is the Auction",
+        "Publicar — es subastar"
+      ],
+      [
+        "Of the Mind of Man –",
+        "la Mente del Ser Humano —"
+      ],
+      [
+        "Poverty – be justifying",
+        "La Pobreza — podría justificar"
+      ],
+      [
+        "For so foul a thing",
+        "algo tan infame."
+      ],
+      [
+        "Possibly – but We – would rather",
+        "Quizá — pero Nosotros — preferiríamos"
+      ],
+      [
+        "From Our Garret go",
+        "salir de nuestra Buhardilla"
+      ],
+      [
+        "White – unto the White Creator –",
+        "puros — hacia el Creador puro —"
+      ],
+      [
+        "Than invest – Our Snow –",
+        "antes que invertir — nuestra Nieve —"
+      ],
+      [
+        "Thought belong to Him who gave it –",
+        "El Pensamiento pertenece a Quien lo dio —"
+      ],
+      [
+        "Then – to Him Who bear",
+        "y luego — a Quien lleva"
+      ],
+      [
+        "Its Corporeal illustration – sell",
+        "su manifestación Corpórea — vender"
+      ],
+      [
+        "The Royal Air –",
+        "el Aire Regio —"
+      ],
+      [
+        "In the Parcel – Be the Merchant",
+        "en un Lote — ser Mercader"
+      ],
+      [
+        "Of the Heavenly Grace –",
+        "de la Gracia Celestial —"
+      ],
+      [
+        "But reduce no Human Spirit",
+        "pero no rebajar ningún Espíritu Humano"
+      ],
+      [
+        "To Disgrace of Price –",
+        "a la Vergüenza de un Precio —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Auction",
+        "body": "La subasta convierte la publicación en transacción comercial. No equivale a una prohibición universal de publicar: es una voz poética que denuncia la mercantilización del pensamiento."
+      },
+      {
+        "line": 6,
+        "title": "Garret",
+        "body": "La buhardilla es un lugar humilde de creación y retiro, en contraste con el mercado."
+      },
+      {
+        "line": 8,
+        "title": "Snow",
+        "body": "La nieve representa una blancura vulnerable, asociada a integridad y pureza; «invest» la trata como capital."
+      },
+      {
+        "line": 11,
+        "title": "Corporeal illustration",
+        "body": "El pensamiento intangible toma cuerpo en una obra vendible: el poema pregunta quién puede apropiarse de ese acto."
+      },
+      {
+        "line": 16,
+        "title": "Precio y dignidad",
+        "body": "La estrofa final contrapone la gracia celestial a la reducción del espíritu a mercancía. El poema figura en el fascículo 37 según Miller."
+      }
+    ]
+  },
+  J1129: {
+    "id": "J1129",
+    "franklin": "F1263",
+    "approx": "c. 1868 (Johnson); c. 1872 (Miller)",
+    "incipit": "Tell all the Truth but tell it slant –",
+    "titleES": "Decí toda la Verdad, pero de sesgo",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Johnson J1129, pp. 506–507; Miller F1263, p. 563, poemas sueltos; variantes «bold» y «moderately».",
+    "lines": [
+      [
+        "Tell all the Truth but tell it slant –",
+        "Decí toda la Verdad, pero decila de sesgo —"
+      ],
+      [
+        "Success in Circuit lies",
+        "el éxito está en el Rodeo"
+      ],
+      [
+        "Too bright for our infirm Delight",
+        "Demasiado brillante para nuestro frágil Deleite"
+      ],
+      [
+        "The Truth's superb surprise",
+        "es la soberbia sorpresa de la Verdad"
+      ],
+      [
+        "As Lightning to the Children eased",
+        "Como el Relámpago, suavizado para los Niños"
+      ],
+      [
+        "With explanation kind",
+        "mediante una explicación amable"
+      ],
+      [
+        "The Truth must dazzle gradually",
+        "la Verdad debe deslumbrar gradualmente"
+      ],
+      [
+        "Or every man be blind –",
+        "o todos quedarán ciegos —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Slant",
+        "body": "No propone mentir: exige un modo oblicuo de transmitir una verdad que excede la recepción inmediata. «De sesgo» preserva la orientación espacial."
+      },
+      {
+        "line": 2,
+        "title": "Circuit",
+        "body": "Circuito, rodeo o vía indirecta: el sentido puede necesitar un trayecto no rectilíneo."
+      },
+      {
+        "line": 3,
+        "title": "Variantes de Miller",
+        "body": "Miller registra «bold» como alternativa a «bright» en el manuscrito, y «moderately» a «gradually» más adelante. La primera altera el tipo de intensidad; la segunda, el ritmo de exposición."
+      },
+      {
+        "line": 5,
+        "title": "Relámpago",
+        "body": "La explicación dirigida a los niños amortigua el choque de una iluminación repentina. La metáfora se puede leer como reflexión sobre la propia técnica poética."
+      },
+      {
+        "line": 8,
+        "title": "Cronología",
+        "body": "Johnson fecha el poema hacia 1868; Miller sitúa el testimonio que edita hacia 1872. No se unifican estas fechas artificialmente."
+      }
+    ]
+  },
+  J1212: {
+    "id": "J1212",
+    "franklin": "F278",
+    "approx": "c. 1872 (Johnson); copia enviada a Frances Norcross probablemente a comienzos de 1862 (Miller)",
+    "incipit": "A word is dead",
+    "titleES": "Una palabra muere",
+    "source": "Johnson J1212, p. 534; Miller F278, p. 702, «Poems Not Retained», versión dirigida a Frances Norcross.",
+    "lines": [
+      [
+        "A word is dead",
+        "Una palabra muere"
+      ],
+      [
+        "When it is said,",
+        "cuando se pronuncia,"
+      ],
+      [
+        "Some say.",
+        "dicen algunos."
+      ],
+      [
+        "I say it just",
+        "Yo digo que apenas"
+      ],
+      [
+        "Begins to live",
+        "empieza a vivir"
+      ],
+      [
+        "That day.",
+        "ese día."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una palabra viva",
+        "body": "El poema contrapone una teoría del lenguaje como pérdida a otra en la que la enunciación inaugura una vida pública y relacional."
+      },
+      {
+        "line": 3,
+        "title": "Some say / I say",
+        "body": "La forma mínima pone en escena una discusión: no afirma un consenso, sino una posición personal frente a una opinión ajena."
+      },
+      {
+        "line": 6,
+        "title": "Versiones y cronología",
+        "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
+      }
+    ]
   }
 });
