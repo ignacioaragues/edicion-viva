@@ -682,17 +682,49 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All five parts and final Amen in the second continuous public Tractatus XXXIII version. Divergent first transcription recorded; critical printed PL54 collation, contextual word-by-word morphology, dictionary integration and browser QA remain pending."
+    },
+    {
+      "group": "sermones",
+      "number": 34,
+      "section": "Sermo XXXIV · In Epiphania Domini IV · partes I–II de V",
+      "paragraphs": 17,
+      "aligned_units": 17,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 5,
+      "translation": "partial first-pass original aligned Spanish translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxiv/index.html",
+      "voice_notes": 6,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Parts I–II aligned from digital Tractatus XXXIV; III–V missing. Contextual morphology, printed PL54 collation and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 34,
-    "section": "Sermo XXXIV · In Epiphania Domini IV"
+    "section": "Sermo XXXIV · pars III",
+    "incipit": "Deducti igitur, dilectissimi, in Bethlehem magi"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": null,
+  "in_progress_work": {
+    "group": "sermones",
+    "number": 34,
+    "completed_parts": [
+      1,
+      2
+    ],
+    "total_parts": 5,
+    "next_part": 3,
+    "incipit": "Deducti igitur, dilectissimi, in Bethlehem magi"
+  },
   "priority_queue": [
     {
       "group": "sermones",
