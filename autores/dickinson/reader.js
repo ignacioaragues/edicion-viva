@@ -48,9 +48,9 @@
       a.href = '../../autores/dickinson/#' + poem.id;
       actions.append(a);
     } else {
-      const lesson = ['J254', 'J303'].includes(poem.id) ? 2 : ['J324', 'J444'].includes(poem.id) ? 3 : ['J328', 'J986'].includes(poem.id) ? 4 : ['J185', 'J376', 'J501'].includes(poem.id) ? 5 : ['J449', 'J465', 'J712'].includes(poem.id) ? 6 : ['J14', 'J249', 'J640'].includes(poem.id) ? 7 : ['J258', 'J280', 'J341'].includes(poem.id) ? 8 : 1;
+      const lesson = ['J254', 'J303'].includes(poem.id) ? 2 : ['J324', 'J444'].includes(poem.id) ? 3 : ['J328', 'J986'].includes(poem.id) ? 4 : ['J185', 'J376', 'J501'].includes(poem.id) ? 5 : ['J449', 'J465', 'J712'].includes(poem.id) ? 6 : ['J14', 'J249', 'J640'].includes(poem.id) ? 7 : ['J258', 'J280', 'J341'].includes(poem.id) ? 8 : ['J709', 'J1129', 'J1212'].includes(poem.id) ? 9 : 1;
       const a = make('a', 'inline-link', 'Volver a la lección ' + lesson + ' →');
-      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : ['J328', 'J986'].includes(poem.id) ? 'leccion-4.html#' : ['J185', 'J376', 'J501'].includes(poem.id) ? 'leccion-5.html#' : ['J449', 'J465', 'J712'].includes(poem.id) ? 'leccion-6.html#' : ['J14', 'J249', 'J640'].includes(poem.id) ? 'leccion-7.html#' : ['J258', 'J280', 'J341'].includes(poem.id) ? 'leccion-8.html#' : '#') + poem.id;
+      a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : ['J328', 'J986'].includes(poem.id) ? 'leccion-4.html#' : ['J185', 'J376', 'J501'].includes(poem.id) ? 'leccion-5.html#' : ['J449', 'J465', 'J712'].includes(poem.id) ? 'leccion-6.html#' : ['J14', 'J249', 'J640'].includes(poem.id) ? 'leccion-7.html#' : ['J258', 'J280', 'J341'].includes(poem.id) ? 'leccion-8.html#' : ['J709', 'J1129', 'J1212'].includes(poem.id) ? 'leccion-9.html#' : '#') + poem.id;
       actions.append(a);
     }
     mount.append(actions);
