@@ -1586,6 +1586,376 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La violencia verbal aparece como una herida que atraviesa incluso la armadura. El vocabulario militar y patriótico transforma la ofensa íntima en una batalla de memoria: el homenaje público a los caídos contrasta con el alma olvidada del cierre. La identidad de la «palabra» queda abierta, y la última imagen desplaza el triunfo de la puntería hacia la crueldad del olvido."
 },
+  J9: {
+  "id": "J9",
+  "franklin": "F43",
+  "approx": "c. 1858",
+  "incipit": "Through lane it lay – through bramble –",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Banditti",
+      "body": "Italianismo plural que introduce una amenaza de relato de aventuras."
+    },
+    {
+      "line": 10,
+      "title": "Poniards",
+      "body": "Puñales cortos: el relámpago se convierte en arma blanca."
+    },
+    {
+      "line": 13,
+      "title": "Sátiro y valle",
+      "body": "Dos tentaciones de detenerse o desviarse, junto a las amenazas físicas del camino."
+    }
+  ],
+  "interpretation": "El poema transforma el regreso al hogar en una travesía de peligros que combina cuento infantil, peregrinación y aventura espiritual. La sucesión de animales, tempestades y figuras míticas vuelve amenazador un paisaje que podría ser familiar. La voz no explica de dónde parten los viajeros ni quiénes son esos «niños»: esa omisión permite leer el viaje como crecimiento, experiencia humana o búsqueda de salvación. La palabra final, «home», concentra una seguridad que el trayecto ha mantenido en suspenso.",
+  "preest": "David Preest (comentario a J9, F43) entiende el camino como una imagen del viaje vital y observa que los peligros de los primeros catorce versos se resuelven en la llegada final. Señala una particularidad formal importante: la última estrofa incorpora un quinto verso, a diferencia de las anteriores, y el hogar aparece precisamente en la última palabra. Destaca también el uso transitivo inusual de «fluttered», que conserva el temblor de los viajeros en el instante del regreso, y propone entender el valle como una figura seductora, no como refugio.",
+  "source": "Johnson, The Complete Poems, J9; David Preest, Emily Dickinson Poems Commentary, J9; correspondencia Franklin F43.",
+  "lines": [
+    [
+      "Through lane it lay – through bramble –",
+      "Atravesaba senderos y zarzales,"
+    ],
+    [
+      "Through clearing and through wood –",
+      "claros y bosques;"
+    ],
+    [
+      "Banditti often passed us",
+      "a menudo pasaban bandidos"
+    ],
+    [
+      "Upon the lonely road.",
+      "por el camino solitario."
+    ],
+    [
+      "The wolf came peering curious –",
+      "El lobo se asomaba curioso;"
+    ],
+    [
+      "The owl looked puzzled down –",
+      "el búho miraba desconcertado;"
+    ],
+    [
+      "The serpent's satin figure",
+      "la figura satinada de la serpiente"
+    ],
+    [
+      "Glid stealthily along –",
+      "se deslizaba furtivamente."
+    ],
+    [
+      "The tempests touched our garments –",
+      "Las tempestades rozaban nuestra ropa;"
+    ],
+    [
+      "The lightning's poniards gleamed –",
+      "brillaban los puñales del relámpago;"
+    ],
+    [
+      "Fierce from the Crag above us",
+      "desde el risco, feroz, sobre nosotros,"
+    ],
+    [
+      "The hungry Vulture screamed –",
+      "gritaba el buitre hambriento."
+    ],
+    [
+      "The satyr's fingers beckoned –",
+      "Los dedos del sátiro nos llamaban;"
+    ],
+    [
+      "The valley murmured 'Come' –",
+      "el valle murmuraba: «Ven»."
+    ],
+    [
+      "These were the mates –",
+      "Estos fueron los compañeros;"
+    ],
+    [
+      "This was the road",
+      "este fue el camino"
+    ],
+    [
+      "These children fluttered home.",
+      "por el que estos niños, temblorosos, llegaron a casa."
+    ]
+  ]
+},
+  J10: {
+  "id": "J10",
+  "franklin": "F61",
+  "approx": "c. 1858",
+  "incipit": "My wheel is in the dark!",
+  "stanzaBreaks": [
+    4,
+    8,
+    11
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Rueda",
+      "body": "La rueda de paletas de una embarcación ofrece señales de movimiento aunque no pueda verse."
+    },
+    {
+      "line": 9,
+      "title": "Loom",
+      "body": "Aquí no es «telar»: designa la parte del remo entre el escálamo y la mano."
+    },
+    {
+      "line": 15,
+      "title": "You and I",
+      "body": "La fórmula final involucra al lector en la incertidumbre sobre lo que sigue a la muerte."
+    }
+  ],
+  "interpretation": "La conciencia percibe que avanza, pero no dispone de un mapa de su destino. La rueda que gira a oscuras y el pie puesto sobre la marea expresan una existencia en movimiento cuya dirección permanece oculta. El poema ensaya respuestas posibles a la muerte: abandono del remo, extraña actividad en la tumba, tránsito regio por una puerta. Ninguna de ellas puede confirmar qué sucede después. El cierre no resuelve el misterio: lo devuelve a quienes siguen vivos. La forma interrogativa se desplaza del yo al lector.",
+  "preest": "Preest (J10, F61) interpreta la escena como una navegación posiblemente situada al final de la vida. El movimiento de la rueda permite saber que la viajera sigue viva, pero no conocer la costa a la que llegará. Preest distingue las distintas imágenes de los muertos y subraya que ninguno regresa para describir el destino. Su aclaración léxica de «loom» como parte del remo evita interpretar equivocadamente la estrofa como una referencia al tejido.",
+  "source": "Johnson, The Complete Poems, J10; David Preest, Emily Dickinson Poems Commentary, J10; correspondencia Franklin F61.",
+  "lines": [
+    [
+      "My wheel is in the dark!",
+      "¡Mi rueda está en la oscuridad!"
+    ],
+    [
+      "I cannot see a spoke",
+      "No puedo ver ni un radio,"
+    ],
+    [
+      "Yet know its dripping feet",
+      "pero sé que sus pies mojados"
+    ],
+    [
+      "Go round and round.",
+      "giran y giran."
+    ],
+    [
+      "My foot is on the Tide!",
+      "¡Tengo el pie sobre la marea!"
+    ],
+    [
+      "An unfrequented road –",
+      "Un camino poco transitado;"
+    ],
+    [
+      "Yet have all roads",
+      "sin embargo, todos los caminos"
+    ],
+    [
+      "A clearing at the end –",
+      "terminan en un claro."
+    ],
+    [
+      "Some have resigned the Loom –",
+      "Algunos han soltado el remo;"
+    ],
+    [
+      "Some in the busy tomb",
+      "otros, en la tumba atareada,"
+    ],
+    [
+      "Find quaint employ: –",
+      "encuentran extrañas ocupaciones;"
+    ],
+    [
+      "Some with new – stately feet –",
+      "otros, con pies nuevos y solemnes,"
+    ],
+    [
+      "Pass royal through the gate –",
+      "atraviesan regios el portal,"
+    ],
+    [
+      "Flinging the problem back",
+      "devolviéndonos el problema"
+    ],
+    [
+      "At you and I!",
+      "¡a vos y a mí!"
+    ]
+  ]
+},
+  J11: {
+  "id": "J11",
+  "franklin": "F38",
+  "approx": "c. 1858",
+  "incipit": "I never told the buried gold",
+  "stanzaBreaks": [
+    4,
+    9,
+    13,
+    17
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "Brake",
+      "body": "Maleza o matorral espeso, donde una serpiente podría pasar inadvertida."
+    },
+    {
+      "line": 17,
+      "title": "Kidd",
+      "body": "Alusión al capitán William Kidd, figura legendaria de piratería y tesoros escondidos."
+    },
+    {
+      "line": 21,
+      "title": "Átropos",
+      "body": "Parca que corta el hilo de la vida en la mitología griega; aquí sentencia el riesgo de traición."
+    }
+  ],
+  "interpretation": "Un atardecer se convierte en una escena de piratería. El sol, lejos de ser un astro pasivo, aparece como ladrón que oculta lingotes de oro en la colina. La imaginación convierte la contemplación del paisaje en un secreto valioso, capaz de suscitar codicia, sospecha y peligro. La hablante vacila entre preservar la experiencia y compartirla: ese dilema también puede leerse como una reflexión sobre la escritura, que transforma una visión íntima en algo comunicable. El cierre invoca a Átropos con humor oscuro: la aventura imaginaria alcanza de pronto las dimensiones de una sentencia mortal.",
+  "preest": "Preest (J11, F38), apoyándose en Ruth Miller, explica la metáfora del sol poniente como pirata agazapado sobre sus lingotes. La intensidad de la visión hace que la hablante se olvide del peligro real de una serpiente cercana. El comentario destaca la indecisión entre divulgar el hallazgo y conservarlo, identifica a Kidd como pirata y explica que Átropos representa la decisión última del destino. Esta lectura permite entender el episodio como un juego de imaginación sostenido por un paisaje concreto.",
+  "source": "Johnson, The Complete Poems, J11; David Preest, Emily Dickinson Poems Commentary, J11; correspondencia Franklin F38.",
+  "lines": [
+    [
+      "I never told the buried gold",
+      "Nunca revelé el oro enterrado"
+    ],
+    [
+      "Upon the hill – that lies –",
+      "que yace en la colina;"
+    ],
+    [
+      "I saw the sun – his plunder done",
+      "vi al sol, concluido su saqueo,"
+    ],
+    [
+      "Crouch low to guard his prize.",
+      "agacharse a guardar su botín."
+    ],
+    [
+      "He stood as near",
+      "Estaba tan cerca"
+    ],
+    [
+      "As stood you here –",
+      "como estás vos aquí;"
+    ],
+    [
+      "A pace had been between –",
+      "apenas un paso nos separaba."
+    ],
+    [
+      "Did but a snake bisect the brake",
+      "Si una serpiente hubiera cruzado la maleza,"
+    ],
+    [
+      "My life had forfeit been.",
+      "habría perdido la vida."
+    ],
+    [
+      "That was a wondrous booty –",
+      "¡Qué botín maravilloso!"
+    ],
+    [
+      "I hope 'twas honest gained.",
+      "Espero que lo consiguiera honradamente."
+    ],
+    [
+      "Those were the fairest ingots",
+      "Eran los lingotes más hermosos"
+    ],
+    [
+      "That ever kissed the spade!",
+      "que jamás besaron una pala."
+    ],
+    [
+      "Whether to keep the secret –",
+      "¿Guardar el secreto?"
+    ],
+    [
+      "Whether to reveal –",
+      "¿Revelarlo?"
+    ],
+    [
+      "Whether as I ponder",
+      "¿Y si, mientras lo pienso,"
+    ],
+    [
+      "Kidd will sudden sail –",
+      "Kidd zarpa de pronto?"
+    ],
+    [
+      "Could a shrewd advise me",
+      "Si un astuto me aconsejara,"
+    ],
+    [
+      "We might e'en divide –",
+      "podríamos repartirlo;"
+    ],
+    [
+      "Should a shrewd betray me –",
+      "si ese astuto me traicionara,"
+    ],
+    [
+      "Atropos decide!",
+      "¡que decida Átropos!"
+    ]
+  ]
+},
+  J12: {
+  "id": "J12",
+  "franklin": "F32",
+  "approx": "c. 1858",
+  "incipit": "The morns are meeker than they were –",
+  "stanzaBreaks": [
+    4
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "La rosa ausente",
+      "body": "La flor del verano desaparece, sustituida por los colores del otoño."
+    },
+    {
+      "line": 8,
+      "title": "Trinket",
+      "body": "Adorno o alhaja pequeña: el cambio de estación se representa como una moda que también sigue la hablante."
+    }
+  ],
+  "interpretation": "El otoño no se anuncia mediante una abstracción melancólica sino como un cambio de vestuario. Nueces, bayas, arces y campos muestran una transformación gradual del paisaje. La hablante, lejos de observarlo desde fuera, decide vestirse también para la ocasión. La broma final acerca de quedar anticuada introduce una sociabilidad imaginaria entre naturaleza y persona. La pérdida del verano no excluye el placer de la renovación.",
+  "preest": "Preest (J12, F32) lee el adorno final como la decisión juguetona de acompañar la moda cromática del otoño. Señala además que Dickinson vuelve a emplear «trinket» en J687, allí con una tonalidad más solemne.",
+  "source": "Johnson, The Complete Poems, J12; David Preest, Emily Dickinson Poems Commentary, J12; correspondencia Franklin F32.",
+  "lines": [
+    [
+      "The morns are meeker than they were –",
+      "Las mañanas son más mansas que antes;"
+    ],
+    [
+      "The nuts are getting brown –",
+      "las nueces se están poniendo pardas;"
+    ],
+    [
+      "The berry's cheek is plumper –",
+      "la mejilla de la baya está más rellena;"
+    ],
+    [
+      "The Rose is out of town.",
+      "la rosa se fue de la ciudad."
+    ],
+    [
+      "The Maple wears a gayer scarf –",
+      "El arce lleva una bufanda más vistosa;"
+    ],
+    [
+      "The field a scarlet gown –",
+      "el campo, un vestido escarlata;"
+    ],
+    [
+      "Lest I should be old fashioned",
+      "para no quedarme anticuada,"
+    ],
+    [
+      "I'll put a trinket on.",
+      "me pondré algún adorno."
+    ]
+  ]
+},
   J14: {
     id: "J14", franklin: "F5", approx: "c. 1858",
     incipit: "One Sister have I in our house,",
