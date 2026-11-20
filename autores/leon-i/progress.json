@@ -802,17 +802,43 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All four parts and Amen from public Tractatus XXXVIII Latin transcription; minor enclitic normalization. Printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 39,
+      "section": "Sermo XXXIX · De Quadragesima I · capita I–II de VI",
+      "paragraphs": 6,
+      "aligned_units": 6,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 6,
+      "translation": "partial original aligned Spanish translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxix/index.html",
+      "voice_notes": 5,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Latin from public Tractatus XXXIX digital transcription, uncollated with printed PL54. Source typo mandatotum flagged. Selective lexical notes only; contextual morphology, dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XXXIX · In Epiphania Domini IX; Sermo XXXVIII critical collation and morphology pending",
+  "next": "Sermo XXXIX, caput III, Accedentes ergo, dilectissimi, ad Quadragesimae initium; finish chapters III–VI",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XXXVIII four parts, 18 aligned units, first-pass translation published; further philological review pending.",
+  "last_edit": "2026-11-20: Sermo XXXIX (De Quadragesima I) chapters I-II, six aligned units, partial; title corrected from previously anticipated Epiphany IX.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 38,
-    "status": "not_started",
-    "next": "Sermo XXXVIII, caput I"
+    "number": 39,
+    "status": "partial",
+    "published_chapters": [
+      1,
+      2
+    ],
+    "total_chapters": 6,
+    "next": "Caput III, Accedentes ergo, dilectissimi, ad Quadragesimae initium"
   },
   "priority_queue": [
     {
