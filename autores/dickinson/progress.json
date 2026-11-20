@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 48,
-    "publishedVerses": 825,
+    "publishedPoems": 51,
+    "publishedVerses": 853,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -38,6 +38,9 @@
       "J24",
       "J25",
       "J26",
+      "J27",
+      "J28",
+      "J29",
       "J185",
       "J249",
       "J254",
@@ -61,11 +64,11 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 26,
-    "nextJohnsonId": "J27",
+    "completedSequentialThrough": 29,
+    "nextJohnsonId": "J30",
     "targetNewVersesPerRun": 200
   },
-  "lastCompletedMilestone": "J25–J26: 14 bilingual verses, notes and interpretations",
-  "nextAction": "Continue from J27, targeting approximately 200 new verses",
+  "lastCompletedMilestone": "J27–J29: 28 bilingual verses, notes and interpretations",
+  "nextAction": "Continue from J30; verify Franklin concordances and expand Preest commentary",
   "updatedOn": "2026-11-21"
 }
