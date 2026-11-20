@@ -5481,5 +5481,382 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
       }
     ]
+  },
+  J54: {
+    "id": "J54",
+    "franklin": null,
+    "approx": "1858",
+    "incipit": "If I should die,",
+    "titleES": "Si yo muriera,",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J54; cotejo de transcripción con PDF aportado, pp. 29–30. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "If I should die,",
+        "Si yo muriera,"
+      ],
+      [
+        "And you should live -",
+        "y vos siguieras viviendo —"
+      ],
+      [
+        "And time should gurgle on -",
+        "y el tiempo siguiera borboteando —"
+      ],
+      [
+        "And morn should beam -",
+        "y la mañana resplandeciera —"
+      ],
+      [
+        "And noon should burn -",
+        "y el mediodía ardiera —"
+      ],
+      [
+        "As it has usual done -",
+        "como siempre lo ha hecho —"
+      ],
+      [
+        "If Birds should build as early",
+        "si las aves construyeran tan temprano"
+      ],
+      [
+        "And Bees as bustling go -",
+        "y las abejas fueran tan atareadas —"
+      ],
+      [
+        "One might depart at option",
+        "uno podría marcharse a voluntad"
+      ],
+      [
+        "From enterprise below!",
+        "de los afanes de aquí abajo."
+      ],
+      [
+        "'Tis sweet to know that stocks will stand",
+        "Es dulce saber que las acciones conservarán su valor"
+      ],
+      [
+        "When we with Daisies lie -",
+        "cuando yazcamos entre margaritas —"
+      ],
+      [
+        "That Commerce will continue -",
+        "que el comercio continuará —"
+      ],
+      [
+        "And Trades as briskly fly -",
+        "y los negocios seguirán su curso vivaz —"
+      ],
+      [
+        "It makes the parting tranquil",
+        "eso vuelve tranquila la despedida"
+      ],
+      [
+        "And keeps the soul serene -",
+        "y mantiene serena el alma —"
+      ],
+      [
+        "That gentlemen so sprightly",
+        "que caballeros tan animosos"
+      ],
+      [
+        "Conduct the pleasing scene!",
+        "dirijan la agradable escena."
+      ]
+    ],
+    "commentary": "La hablante imagina su propia muerte frente a la continuidad indiferente de la actividad económica y natural. La serenidad declarada puede leerse también como ironía.",
+    "notes": [
+      {
+        "line": 11,
+        "title": "stocks",
+        "body": "La palabra admite valores de existencias o acciones; la proximidad de Commerce y Trades acentúa el registro mercantil."
+      }
+    ]
+  },
+  J55: {
+    "id": "J55",
+    "franklin": null,
+    "approx": "1858",
+    "incipit": "By Chivalries as tiny,",
+    "titleES": "Por caballerosidades tan pequeñas,",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J55; cotejo de transcripción con PDF aportado, pp. 29–30. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "By Chivalries as tiny,",
+        "Por caballerosidades tan pequeñas,"
+      ],
+      [
+        "A Blossom, or a Book,",
+        "una flor, o un libro,"
+      ],
+      [
+        "The seeds of smiles are planted -",
+        "se siembran semillas de sonrisas —"
+      ],
+      [
+        "Which blossom in the dark.",
+        "que florecen en la oscuridad."
+      ]
+    ],
+    "commentary": "La cortesía diminuta adquiere una vida secreta: el gesto recibido germina fuera de la vista.",
+    "notes": []
+  },
+  J56: {
+    "id": "J56",
+    "franklin": null,
+    "approx": "1858",
+    "incipit": "If I should cease to bring a Rose",
+    "titleES": "Si dejara de llevar una rosa",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J56; cotejo de transcripción con PDF aportado, pp. 29–30. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "If I should cease to bring a Rose",
+        "Si dejara de llevar una rosa"
+      ],
+      [
+        "Upon a festal day,",
+        "en un día de fiesta,"
+      ],
+      [
+        "'Twill be because beyond the Rose",
+        "sería porque más allá de la rosa"
+      ],
+      [
+        "I have been called away -",
+        "me habrían llamado a partir —"
+      ],
+      [
+        "If I should cease to take the names",
+        "Si dejara de pronunciar los nombres"
+      ],
+      [
+        "My buds commemorate -",
+        "que mis capullos conmemoran —"
+      ],
+      [
+        "'Twill be because Death's finger",
+        "sería porque el dedo de la Muerte"
+      ],
+      [
+        "Claps my murmuring lip!",
+        "me sella el labio murmurante."
+      ]
+    ],
+    "commentary": "Las flores son prácticas de memoria y vínculo. Solo la muerte interrumpiría la costumbre de ofrendarlas.",
+    "notes": []
+  },
+  J57: {
+    "id": "J57",
+    "franklin": null,
+    "approx": "1858",
+    "incipit": "To venerate the simple days",
+    "titleES": "Para venerar los días sencillos",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J57; cotejo de transcripción con PDF aportado, pp. 29–30. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "To venerate the simple days",
+        "Para venerar los días sencillos"
+      ],
+      [
+        "Which lead the seasons by,",
+        "que conducen las estaciones,"
+      ],
+      [
+        "Needs but to remember",
+        "basta con recordar"
+      ],
+      [
+        "That from you or I,",
+        "que de vos o de mí"
+      ],
+      [
+        "They may take the trifle",
+        "pueden quitar esa nimiedad"
+      ],
+      [
+        "Termed mortality!",
+        "llamada mortalidad."
+      ]
+    ],
+    "commentary": "El poema desplaza el valor de lo cotidiano hacia su fragilidad: el tiempo común puede arrebatar la vida.",
+    "notes": []
+  },
+  J58: {
+    "id": "J58",
+    "franklin": null,
+    "approx": "1859",
+    "incipit": "Delayed till she had ceased to know -",
+    "titleES": "Demorada hasta que ella dejó de saber —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J58; cotejo de transcripción con PDF aportado, pp. 30–31. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "Delayed till she had ceased to know -",
+        "Demorada hasta que ella dejó de saber —"
+      ],
+      [
+        "Delayed till in its vest of snow",
+        "demorada hasta que bajo su vestido de nieve"
+      ],
+      [
+        "Her loving bosom lay -",
+        "yacía su pecho amoroso —"
+      ],
+      [
+        "An hour behind the fleeting breath -",
+        "una hora después del aliento fugitivo —"
+      ],
+      [
+        "Later by just an hour than Death -",
+        "apenas una hora más tarde que la Muerte —"
+      ],
+      [
+        "Oh lagging Yesterday!",
+        "¡Oh, ayer rezagado!"
+      ],
+      [
+        "Could she have guessed that it would be -",
+        "Si hubiera podido adivinar lo que vendría —"
+      ],
+      [
+        "Could but a crier of the joy",
+        "si tan solo un heraldo de la dicha"
+      ],
+      [
+        "Have climbed the distant hill -",
+        "hubiera subido la colina distante —"
+      ],
+      [
+        "Had not the bliss so slow a pace",
+        "si la felicidad no caminara tan despacio,"
+      ],
+      [
+        "Who knows but this surrendered face",
+        "quién sabe si este rostro rendido"
+      ],
+      [
+        "Were undefeated still!",
+        "no seguiría invicto aún."
+      ],
+      [
+        "Oh if there may departing be",
+        "Oh, si entre quienes parten hay"
+      ],
+      [
+        "Any forgot by Victory",
+        "alguien olvidado por la Victoria"
+      ],
+      [
+        "In her Imperial round -",
+        "en su ronda imperial —"
+      ],
+      [
+        "Show them this meek appareled thing",
+        "mostradles esta criatura de humilde atuendo"
+      ],
+      [
+        "That could not stop to be a king -",
+        "que no pudo detenerse a ser rey —"
+      ],
+      [
+        "Doubtful if it be crowned!",
+        "¡dudoso que llegue a ser coronado!"
+      ]
+    ],
+    "commentary": "Una alegría llega demasiado tarde para quien acaba de morir. La alegoría de la Victoria vuelve incierta la compensación póstuma.",
+    "notes": [
+      {
+        "line": 6,
+        "title": "Yesterday",
+        "body": "El ayer aparece personificado como mensajero retrasado: el tiempo del acontecimiento no coincide con el de su conocimiento."
+      }
+    ]
+  },
+  J59: {
+    "id": "J59",
+    "franklin": null,
+    "approx": "1859",
+    "incipit": "A little East of Jordan,",
+    "titleES": "Un poco al este del Jordán,",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J59; cotejo de transcripción con PDF aportado, pp. 30–31. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "A little East of Jordan,",
+        "Un poco al este del Jordán,"
+      ],
+      [
+        "Evangelists record,",
+        "según cuentan los evangelistas,"
+      ],
+      [
+        "A Gymnast and an Angel",
+        "un gimnasta y un ángel"
+      ],
+      [
+        "Did wrestle long and hard -",
+        "lucharon largo y tendido —"
+      ],
+      [
+        "Till morning touching mountain -",
+        "hasta que el alba tocó la montaña —"
+      ],
+      [
+        "And Jacob, waxing strong,",
+        "y Jacob, cobrando fuerzas,"
+      ],
+      [
+        "The Angel begged permission",
+        "vio al ángel pedir permiso"
+      ],
+      [
+        "To Breakfast - to return -",
+        "para desayunar — para volver —"
+      ],
+      [
+        "Not so, said cunning Jacob!",
+        "¡De ningún modo!, dijo el astuto Jacob."
+      ],
+      [
+        "I will not let thee go",
+        "No te dejaré marchar"
+      ],
+      [
+        "Except thou bless me - Stranger!",
+        "si no me bendecís — ¡extranjero!"
+      ],
+      [
+        "The which acceded to -",
+        "A lo cual el otro accedió —"
+      ],
+      [
+        "Light swung the silver fleeces",
+        "La luz meció los vellones de plata"
+      ],
+      [
+        "Peniel Hills beyond,",
+        "más allá de los montes de Peniel,"
+      ],
+      [
+        "And the bewildered Gymnast",
+        "y el desconcertado gimnasta"
+      ],
+      [
+        "Found he had worsted God!",
+        "descubrió que había vencido a Dios."
+      ]
+    ],
+    "commentary": "Reescritura juguetona de Génesis 32: la lucha de Jacob se convierte en una competición atlética y una victoria sorprendente.",
+    "notes": [
+      {
+        "line": 2,
+        "title": "Evangelists",
+        "body": "La escena procede de Génesis 32, no de los Evangelios: la atribución puede ser parte del humor irreverente del poema."
+      }
+    ]
   }
+
 });
