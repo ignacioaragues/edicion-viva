@@ -2224,12 +2224,23 @@
         "https://tips.translation.bible/story/translation-commentary-on-mark-825/",
         "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/8/25"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 26,
+      "to": 26,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://old-tips.translation.bible/story/translation-commentary-on-mark-826/",
+        "https://mail.biblehub.com/commentaries/mark/8-26.htm"
+      ]
     }
   ],
   "pending": "Continuar Marcos 8,25; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 26
+    "verse": 27
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4788,6 +4799,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-825/"
+    ]
+  },
+  "prepublication_research_8_26": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "12/12",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://old-tips.translation.bible/story/translation-commentary-on-mark-826/"
     ]
   }
 }
