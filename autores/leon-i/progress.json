@@ -778,11 +778,35 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All four parts translated from public Tractatus XXXVII Latin transcription; printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending. Source transcription has no explicit Amen; no ending invented."
+    },
+    {
+      "group": "sermones",
+      "number": 38,
+      "section": "Sermo XXXVIII · In Epiphania Domini VIII · partes I–IV",
+      "paragraphs": 18,
+      "aligned_units": 18,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxviii/index.html",
+      "voice_notes": 8,
+      "lexical_coverage": "12 selective lemma/morphology entries; full contextual word-by-word analysis pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four parts and Amen from public Tractatus XXXVIII Latin transcription; minor enclitic normalization. Printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XXXVIII · In Epiphania Domini VIII; Sermo XXXVII full morphology and critical collation pending",
+  "next": "Sermo XXXIX · In Epiphania Domini IX; Sermo XXXVIII critical collation and morphology pending",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20",
+  "last_edit": "2026-11-20: Sermo XXXVIII four parts, 18 aligned units, first-pass translation published; further philological review pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
