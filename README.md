@@ -6,7 +6,7 @@ Biblioteca de ediciones bilingües y anotadas de clásicos literarios. Una lectu
 
 ## Estado
 
-- **Disponible:** Emily Dickinson · *Poems*, traducción y notas J14, J185, J249, J254, J258, J280, J288, J303, J324, J328, J341, J376, J441, J444, J449, J465, J501, J640, J709, J712, J986, J1129 y J1212 (371 versos; diez lecciones de introducción completas): https://ignacioaragues.github.io/edicion-viva/autores/dickinson/ · Curso: https://ignacioaragues.github.io/edicion-viva/cursos/emily-dickinson/
+- **Disponible:** Emily Dickinson · *Poems*, traducción y notas J14, J185, J249, J254, J258, J280, J288, J303, J324, J328, J341, J376, J441, J444, J449, J465, J501, J640, J709, J712, J986, J1129 y J1212 (535 versos; diez lecciones de introducción completas): https://ignacioaragues.github.io/edicion-viva/autores/dickinson/ · Curso: https://ignacioaragues.github.io/edicion-viva/cursos/emily-dickinson/
 - **Disponible:** Marlowe · *Tamburlaine the Great*, Partes I y II (ambas partes y sus prólogos traducidos íntegramente en primera versión; revisión filológica pendiente): https://ignacioaragues.github.io/edicion-viva/autores/marlowe/tamburlaine/
 - **Disponible:** Shakespeare · *Coriolanus*, en edición continua: https://ignacioaragues.github.io/shakespeare-edicion-viva/
 - **Disponible en curso:** Milton · *Paradise Lost*, libros I y II completos (1.853 versos), con texto paralelo y 225 notas originales en español: https://ignacioaragues.github.io/edicion-viva/autores/milton/paradise-lost/
