@@ -3,6 +3,833 @@
  * Traducciones y notas: originales de Edición Viva. No reproducir comentarios ajenos.
  */
 window.ED_DICKINSON_POEMS = Object.freeze({
+  J1: {
+  "id": "J1",
+  "franklin": "F1",
+  "approx": "1850",
+  "incipit": "Awake ye muses nine",
+  "titleES": "Awake ye muses nine",
+  "stanzaBreaks": [
+    2,
+    10,
+    18,
+    26,
+    34
+  ],
+  "source": "Johnson, The Complete Poems, J1; David Preest, Emily Dickinson Poems Commentary, J1, pp. 1. Texto cotejado con Johnson; correspondencia F según Preest.",
+  "lines": [
+    [
+      "Awake ye muses nine, sing me a strain divine,",
+      "Despertad, nueve musas, cantadme una melodía divina,"
+    ],
+    [
+      "Unwind the solemn twine, and tie my Valentine!",
+      "desenredad el hilo solemne y atad mi valentín."
+    ],
+    [
+      "Oh the Earth was made for lovers, for damsel, and hopeless swain,",
+      "¡Ah, la Tierra fue hecha para amantes, doncellas y pretendientes sin esperanza,"
+    ],
+    [
+      "For sighing, and gentle whispering, and unity made of twain.",
+      "para suspiros, tiernos murmullos y la unión de dos en uno!"
+    ],
+    [
+      "All things do go a courting, in earth, or sea, or air,",
+      "Todo sale a cortejar, en la tierra, el mar o el aire,"
+    ],
+    [
+      "God hath made nothing single but thee in His world so fair!",
+      "¡Dios no ha creado nada solitario, salvo a ti, en su mundo tan hermoso!"
+    ],
+    [
+      "The bride, and then the bridegroom, the two, and then the one,",
+      "La novia, luego el novio; los dos, y después uno;"
+    ],
+    [
+      "Adam, and Eve, his consort, the moon, and then the sun,",
+      "Adán y Eva, su compañera; la luna y luego el sol;"
+    ],
+    [
+      "The life doth prove the precept, who obey shall happy be,",
+      "la vida confirma el precepto: quien obedezca será feliz;"
+    ],
+    [
+      "Who will not serve the sovereign, be hanged on fatal tree.",
+      "¡quien no sirva al soberano, que cuelgue del árbol fatal!"
+    ],
+    [
+      "The high do seek the lowly, the great do seek the small,",
+      "Los altos buscan a los humildes, los grandes a los pequeños;"
+    ],
+    [
+      "None cannot find who seeketh, on this terrestrial ball;",
+      "nadie que busque dejará de hallar en esta esfera terrestre."
+    ],
+    [
+      "The bee doth court the flower, the flower his suit receives,",
+      "La abeja corteja a la flor, la flor acepta sus galanteos,"
+    ],
+    [
+      "And they make merry wedding, whose guests are hundred leaves;",
+      "y celebran alegres bodas con cien hojas por invitados."
+    ],
+    [
+      "The wind doth woo the branches, the branches they are won,",
+      "El viento enamora a las ramas, y las ramas se dejan conquistar;"
+    ],
+    [
+      "And the father fond demandeth the maiden for his son.",
+      "el padre cariñoso pide la mano de la doncella para su hijo."
+    ],
+    [
+      "The storm doth walk the seashore humming a mournful tune,",
+      "La tormenta recorre la costa tarareando una tonada triste;"
+    ],
+    [
+      "The wave with eye so pensive, looketh to see the moon,",
+      "la ola, de mirada pensativa, alza los ojos hacia la luna."
+    ],
+    [
+      "Their spirits meet together, they make them solemn vows,",
+      "Sus espíritus se encuentran, intercambian votos solemnes;"
+    ],
+    [
+      "No more he singeth mournful, her sadness she doth lose.",
+      "él deja de cantar con tristeza y ella pierde su melancolía."
+    ],
+    [
+      "The worm doth woo the mortal, death claims a living bride,",
+      "El gusano corteja al mortal, la muerte reclama una novia viva;"
+    ],
+    [
+      "Night unto day is married, morn unto eventide,",
+      "la noche se casa con el día, la mañana con la tarde;"
+    ],
+    [
+      "Earth is a merry damsel, and heaven a knight so true,",
+      "la Tierra es una alegre doncella, y el cielo un caballero fiel;"
+    ],
+    [
+      "And Earth is quite coquettish, and beseemeth in vain to sue.",
+      "la Tierra es bastante coqueta, y parece vano pretenderla."
+    ],
+    [
+      "Now to the application, to the reading of the roll,",
+      "Ahora pasemos a la aplicación, a leer la lista,"
+    ],
+    [
+      "To bringing thee to justice, and marshalling thy soul:",
+      "a llevarte ante la justicia y poner tu alma en formación:"
+    ],
+    [
+      "Thou art a human solo, a being cold, and lone,",
+      "eres un solo humano, un ser frío y solitario;"
+    ],
+    [
+      "Wilt have no kind companion, thou reap'st what thou hast sown.",
+      "no quieres compañía amable: cosecharás lo que sembraste."
+    ],
+    [
+      "Hast never silent hours, and minutes all too long,",
+      "¿Nunca tienes horas silenciosas y minutos demasiado largos,"
+    ],
+    [
+      "And a deal of sad reflection, and wailing instead of song?",
+      "muchas reflexiones tristes y lamentos en vez de canciones?"
+    ],
+    [
+      "There's Sarah, and Eliza, and Emeline so fair,",
+      "Ahí están Sarah, Eliza y la hermosa Emeline,"
+    ],
+    [
+      "And Harriet, and Susan, and she with curling hair!",
+      "Harriet, Susan, ¡y la de cabellos rizados!"
+    ],
+    [
+      "Thine eyes are sadly blinded, but yet thou mayest see",
+      "Tus ojos están tristemente ciegos, pero aún puedes ver"
+    ],
+    [
+      "Six true, and comely maidens sitting upon the tree,",
+      "seis doncellas sinceras y bonitas sentadas en el árbol."
+    ],
+    [
+      "Approach that tree with caution, then up it boldly climb,",
+      "Acércate al árbol con cautela, luego trepa con audacia;"
+    ],
+    [
+      "And seize the one thou lovest, nor care for space, or time!",
+      "¡toma a la que amas, sin preocuparte por el espacio ni el tiempo!"
+    ],
+    [
+      "Then bear her to the greenwood, and build for her a bower,",
+      "Llévala entonces al bosque verde y construye para ella una glorieta;"
+    ],
+    [
+      "And give her what she asketh, jewel, or bird, or flower —",
+      "dale lo que pida, joya, pájaro o flor;"
+    ],
+    [
+      "And bring the fife, and trumpet, and beat upon the drum —",
+      "traed el pífano y la trompeta, y haced sonar el tambor;"
+    ],
+    [
+      "And bid the world Goodmorrow, and go to glory home!",
+      "¡dad los buenos días al mundo y volved gloriosamente a casa!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Nueve musas",
+      "body": "Invocación épica desproporcionada para una tarjeta de San Valentín; la elevación deliberada del registro crea comicidad."
+    },
+    {
+      "line": 24,
+      "title": "El gusano corteja al mortal",
+      "body": "La metáfora del matrimonio se extiende incluso a la descomposición y la muerte, una hipérbole macabra dentro de un poema festivo."
+    },
+    {
+      "line": 31,
+      "title": "La mujer de cabello rizado",
+      "body": "Preest propone identificar a Dickinson entre las seis candidatas. Se trata de una identificación contextual, no de una firma dentro del poema."
+    }
+  ],
+  "interpretation": "Esta extensa valentín es una sátira de la presión social por emparejarse: empieza con una aparente ley universal de cortejo, la aplica con ironía al destinatario soltero y termina en una extravagante propuesta de elección entre seis mujeres. La enumeración convierte la naturaleza en un desfile de parejas, pero la exageración del castigo al célibe deja ver que no se trata de una doctrina amorosa seria. David Preest identifica al destinatario como Elbridge Bowdoin, socio del padre de Dickinson, y señala que la propia poeta aparece discretamente como la joven de cabello rizado. La lectura biográfica explica la ocasión; la voz del poema, sin embargo, se construye como una oradora burlesca, no como una confesión."
+},
+  J2: {
+  "id": "J2",
+  "franklin": "sin F (carta L58)",
+  "approx": "1851",
+  "incipit": "There is another sky",
+  "titleES": "There is another sky",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J2; David Preest, Emily Dickinson Poems Commentary, J2, pp. 1. Texto cotejado con Johnson; correspondencia F según Preest.",
+  "lines": [
+    [
+      "There is another sky,",
+      "Hay otro cielo,"
+    ],
+    [
+      "Ever serene and fair,",
+      "siempre sereno y hermoso,"
+    ],
+    [
+      "And there is another sunshine,",
+      "y hay otro resplandor de sol,"
+    ],
+    [
+      "Though it be darkness there;",
+      "aunque allí reine la oscuridad."
+    ],
+    [
+      "Never mind faded forests, Austin,",
+      "No te preocupes por los bosques marchitos, Austin,"
+    ],
+    [
+      "Never mind silent fields —",
+      "ni por los campos silenciosos:"
+    ],
+    [
+      "Here is a little forest,",
+      "aquí hay un bosquecillo"
+    ],
+    [
+      "Whose leaf is ever green;",
+      "cuyas hojas están siempre verdes;"
+    ],
+    [
+      "Here is a brighter garden,",
+      "aquí hay un jardín más luminoso"
+    ],
+    [
+      "Where not a frost has been;",
+      "donde jamás ha habido una helada;"
+    ],
+    [
+      "In its unfading flowers",
+      "en sus flores que nunca se marchitan"
+    ],
+    [
+      "I hear the bright bee hum;",
+      "oigo zumbar a la abeja radiante;"
+    ],
+    [
+      "Prithee, my brother,",
+      "te ruego, hermano mío,"
+    ],
+    [
+      "Into my garden come!",
+      "¡entra en mi jardín!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Austin",
+      "body": "El vocativo identifica al hermano de Dickinson y sitúa el poema en una comunicación familiar concreta."
+    },
+    {
+      "line": 13,
+      "title": "Prithee",
+      "body": "Forma arcaizante de súplica («te ruego»), que añade ternura y cierta teatralidad al cierre."
+    }
+  ],
+  "interpretation": "El «otro cielo» no necesita ser un paisaje sobrenatural: es el espacio de la escritura que permite ofrecer al hermano ausente un jardín sin heladas. La oposición entre campos silenciosos y flores que no se marchitan convierte la carta en un lugar donde la separación queda suspendida. Preest relaciona el poema con una carta a Austin de octubre de 1851, cuando la poeta esperaba su regreso; esa situación favorece una lectura afectiva y doméstica, sin excluir el valor metapoético del jardín que la voz crea con palabras."
+},
+  J3: {
+  "id": "J3",
+  "franklin": "F2",
+  "approx": "1852",
+  "incipit": "Sic transit gloria mundi",
+  "titleES": "Sic transit gloria mundi",
+  "stanzaBreaks": [
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    36,
+    40,
+    44,
+    48,
+    52,
+    56,
+    60,
+    64
+  ],
+  "source": "Johnson, The Complete Poems, J3; David Preest, Emily Dickinson Poems Commentary, J3, pp. 2. Texto cotejado con Johnson; correspondencia F según Preest.",
+  "lines": [
+    [
+      "\"Sic transit gloria mundi,\"",
+      "«Así pasa la gloria del mundo»,"
+    ],
+    [
+      "\"How doth the busy bee,\"",
+      "«Cómo trabaja la abeja industriosa»,"
+    ],
+    [
+      "\"Dum vivimus vivamus,\"",
+      "«Mientras vivamos, vivamos»,"
+    ],
+    [
+      "I stay mine enemy!",
+      "¡detengo a mi enemigo!"
+    ],
+    [
+      "Oh \"veni, vidi, vici!\"",
+      "¡Oh, «vine, vi, vencí»!"
+    ],
+    [
+      "Oh caput cap-a-pie!",
+      "¡Oh, de la cabeza a los pies!"
+    ],
+    [
+      "And oh \"memento mori\"",
+      "Y oh, «recuerda que has de morir»"
+    ],
+    [
+      "When I am far from thee!",
+      "cuando esté lejos de ti."
+    ],
+    [
+      "Hurrah for Peter Parley!",
+      "¡Hurra por Peter Parley!"
+    ],
+    [
+      "Hurrah for Daniel Boone!",
+      "¡Hurra por Daniel Boone!"
+    ],
+    [
+      "Three cheers, Sir, for the gentleman",
+      "¡Tres vítores, señor, para el caballero"
+    ],
+    [
+      "Who first observed the moon!",
+      "que primero observó la luna!"
+    ],
+    [
+      "Peter, put up the sunshine;",
+      "Peter, guarda la luz del sol;"
+    ],
+    [
+      "Patti, arrange the stars,",
+      "Patti, ordena las estrellas;"
+    ],
+    [
+      "Tell Luna, tea is waiting,",
+      "dile a Luna que el té está listo"
+    ],
+    [
+      "And call your brother Mars!",
+      "y llama a tu hermano Marte."
+    ],
+    [
+      "Put down the apple, Adam,",
+      "Deja la manzana, Adán,"
+    ],
+    [
+      "And come away with me,",
+      "y ven conmigo;"
+    ],
+    [
+      "So shalt thou have a pippin",
+      "así tendrás una manzanita"
+    ],
+    [
+      "From off my father's tree!",
+      "del árbol de mi padre."
+    ],
+    [
+      "I climb the \"Hill of Science,\"",
+      "Subo a la «Colina de la Ciencia»,"
+    ],
+    [
+      "I \"view the landscape o'er;\"",
+      "«contemplo el paisaje entero»;"
+    ],
+    [
+      "Such transcendental prospect,",
+      "¡semejante panorama trascendental"
+    ],
+    [
+      "I ne'er beheld before!",
+      "jamás había visto antes!"
+    ],
+    [
+      "Unto the Legislature",
+      "A la Legislatura"
+    ],
+    [
+      "My country bids me go;",
+      "me manda mi país;"
+    ],
+    [
+      "I'll take my india rubbers,",
+      "llevaré mis botas de goma,"
+    ],
+    [
+      "In case the wind should blow!",
+      "¡por si llega a soplar el viento!"
+    ],
+    [
+      "During my education,",
+      "Durante mi educación"
+    ],
+    [
+      "It was announced to me",
+      "me anunciaron"
+    ],
+    [
+      "That gravitation, stumbling,",
+      "que la gravitación, tropezando,"
+    ],
+    [
+      "Fell from an apple tree!",
+      "¡se cayó de un manzano!"
+    ],
+    [
+      "The earth upon an axis",
+      "Se suponía que la Tierra"
+    ],
+    [
+      "Was once supposed to turn,",
+      "giraba sobre un eje,"
+    ],
+    [
+      "By way of a gymnastic",
+      "como ejercicio gimnástico"
+    ],
+    [
+      "In honor of the sun!",
+      "¡en honor del sol!"
+    ],
+    [
+      "It was the brave Columbus,",
+      "Fue el valiente Colón,"
+    ],
+    [
+      "A sailing o'er the tide,",
+      "navegando sobre las aguas,"
+    ],
+    [
+      "Who notified the nations",
+      "quien informó a las naciones"
+    ],
+    [
+      "Of where I would reside!",
+      "¡de dónde iba yo a vivir!"
+    ],
+    [
+      "Mortality is fatal —",
+      "La mortalidad es fatal;"
+    ],
+    [
+      "Gentility is fine,",
+      "la buena crianza, refinada;"
+    ],
+    [
+      "Rascality, heroic,",
+      "la picardía, heroica;"
+    ],
+    [
+      "Insolvency, sublime!",
+      "¡la insolvencia, sublime!"
+    ],
+    [
+      "Our Fathers being weary,",
+      "Nuestros Padres, fatigados,"
+    ],
+    [
+      "Laid down on Bunker Hill;",
+      "se acostaron en Bunker Hill;"
+    ],
+    [
+      "And tho' full many a morning,",
+      "y aunque han pasado muchas mañanas,"
+    ],
+    [
+      "Yet they are sleeping still, —",
+      "todavía siguen durmiendo."
+    ],
+    [
+      "The trumpet, sir, shall wake them,",
+      "La trompeta, señor, los despertará;"
+    ],
+    [
+      "In dreams I see them rise,",
+      "en sueños los veo levantarse,"
+    ],
+    [
+      "Each with a solemn musket",
+      "cada uno con su solemne mosquete,"
+    ],
+    [
+      "A marching to the skies!",
+      "¡marchando hacia los cielos!"
+    ],
+    [
+      "A coward will remain, Sir,",
+      "Un cobarde permanecerá, señor,"
+    ],
+    [
+      "Until the fight is done,",
+      "hasta que termine la batalla;"
+    ],
+    [
+      "But an immortal hero",
+      "pero un héroe inmortal"
+    ],
+    [
+      "Will take his hat, and run!",
+      "¡tomará su sombrero y echará a correr!"
+    ],
+    [
+      "Good bye, Sir, I am going;",
+      "Adiós, señor, me voy;"
+    ],
+    [
+      "My country calleth me;",
+      "mi país me llama;"
+    ],
+    [
+      "Allow me, Sir, at parting,",
+      "permítame, señor, al despedirme,"
+    ],
+    [
+      "To wipe my weeping e'e.",
+      "secarme el ojo lloroso."
+    ],
+    [
+      "In token of our friendship",
+      "En señal de nuestra amistad"
+    ],
+    [
+      "Accept this \"Bonnie Doon,\"",
+      "acepte este «Bonnie Doon»,"
+    ],
+    [
+      "And when the hand that plucked it",
+      "y cuando la mano que lo arrancó"
+    ],
+    [
+      "Hath passed beyond the moon,",
+      "haya pasado más allá de la luna,"
+    ],
+    [
+      "The memory of my ashes",
+      "el recuerdo de mis cenizas"
+    ],
+    [
+      "Will consolation be,",
+      "será un consuelo;"
+    ],
+    [
+      "Then, farewell, Tuscarora,",
+      "entonces, adiós, Tuscarora,"
+    ],
+    [
+      "And farewell, Sir, to thee!",
+      "¡y adiós, señor, a ti!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Collage de citas",
+      "body": "El latín del primer verso significa «Así pasa la gloria del mundo»; las citas siguientes mezclan moral clásica, máximas y literatura infantil en una parodia de la erudición."
+    },
+    {
+      "line": 9,
+      "title": "Peter Parley",
+      "body": "Seudónimo del divulgador Samuel Griswold Goodrich, autor de libros juveniles; identificación señalada por Preest."
+    },
+    {
+      "line": 45,
+      "title": "Bunker Hill",
+      "body": "Referencia a la batalla de 1775 de la guerra de Independencia estadounidense; el poema convierte a los patriotas en durmientes de una resurrección cómica."
+    },
+    {
+      "line": 65,
+      "title": "Bonnie Doon",
+      "body": "Alusión escocesa asociada al canto y a la flor ofrecida con el saludo; Preest interpreta que el poema pudo acompañar un obsequio floral."
+    }
+  ],
+  "interpretation": "Esta segunda valentín transforma la cultura escolar en un carnaval de citas latinas, refranes, ciencia popular, historia nacional y absurdos deliberados. La hablante se proclama exploradora de la ciencia y heroína patriótica mientras sabotea la solemnidad de cada referencia. La broma de la gravitación que «cayó» del manzano y el héroe inmortal que sale corriendo revelan una inteligencia paródica muy temprana. Preest señala que fue enviada a William Hoyland y publicada en el Springfield Daily Republican en febrero de 1852; la dimensión pública del texto ayuda a entender su tono de exhibición verbal. La despedida final introduce una sombra de mortalidad en una pieza por lo demás juguetona."
+},
+  J4: {
+  "id": "J4",
+  "franklin": "F3",
+  "approx": "c. 1853",
+  "incipit": "On this wondrous sea",
+  "titleES": "On this wondrous sea",
+  "stanzaBreaks": [
+    3,
+    6,
+    9
+  ],
+  "source": "Johnson, The Complete Poems, J4; David Preest, Emily Dickinson Poems Commentary, J4, pp. 2. Texto cotejado con Johnson; correspondencia F según Preest.",
+  "lines": [
+    [
+      "On this wondrous sea",
+      "En este mar maravilloso,"
+    ],
+    [
+      "Sailing silently,",
+      "navegando en silencio,"
+    ],
+    [
+      "Ho! Pilot, ho!",
+      "¡Eh, piloto, eh!"
+    ],
+    [
+      "Knowest thou the shore",
+      "¿Conoces la costa"
+    ],
+    [
+      "Where no breakers roar —",
+      "donde no rugen las rompientes,"
+    ],
+    [
+      "Where the storm is o'er?",
+      "donde ha terminado la tormenta?"
+    ],
+    [
+      "In the peaceful west",
+      "En el poniente apacible"
+    ],
+    [
+      "Many the sails at rest —",
+      "descansan muchas velas,"
+    ],
+    [
+      "The anchors fast —",
+      "firmes las anclas."
+    ],
+    [
+      "Thither I pilot thee —",
+      "Hacia allí te conduzco;"
+    ],
+    [
+      "Land Ho! Eternity!",
+      "¡Tierra a la vista! ¡Eternidad!"
+    ],
+    [
+      "Ashore at last!",
+      "¡Por fin en tierra!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Piloto",
+      "body": "Puede representar un guía espiritual o la voz que conduce a un lugar seguro; no se debe identificar de manera definitiva sin atender a la carta que acompañó el poema."
+    },
+    {
+      "line": 7,
+      "title": "West",
+      "body": "El oeste, lugar del ocaso, funciona como imagen tradicional del final de la vida y del descanso."
+    }
+  ],
+  "interpretation": "La voz pide a un piloto que la conduzca por un mar desconocido hasta una costa sin tempestades. La respuesta del piloto convierte el poniente en figura de la eternidad, pero el poema no fija una única identidad para quien habla ni para el guía. Preest documenta que Dickinson lo envió a Susan Gilbert con la exhortación «Write! Comrade, write!» y propone dos lecturas: una invitación a que Sue vuelva a escribir y encuentre refugio en la relación, o una escena religiosa de tránsito hacia la vida eterna. La imagen del puerto hace posible ambas lecturas sin resolver la ambigüedad."
+},
+  J5: {
+  "id": "J5",
+  "franklin": "F4",
+  "approx": "1854",
+  "incipit": "I have a Bird in spring",
+  "titleES": "I have a Bird in spring",
+  "stanzaBreaks": [
+    6,
+    12,
+    18,
+    24
+  ],
+  "source": "Johnson, The Complete Poems, J5; David Preest, Emily Dickinson Poems Commentary, J5, pp. 3. Texto cotejado con Johnson; correspondencia F según Preest.",
+  "lines": [
+    [
+      "I have a Bird in spring",
+      "Tengo un Pájaro en primavera"
+    ],
+    [
+      "Which for myself doth sing —",
+      "que canta solo para mí;"
+    ],
+    [
+      "The spring decoys.",
+      "la primavera me engaña."
+    ],
+    [
+      "And as the summer nears —",
+      "Y cuando se acerca el verano"
+    ],
+    [
+      "And as the Rose appears,",
+      "y aparece la Rosa,"
+    ],
+    [
+      "Robin is gone.",
+      "el Petirrojo se ha ido."
+    ],
+    [
+      "Yet do I not repine",
+      "Sin embargo, no me lamento,"
+    ],
+    [
+      "Knowing that Bird of mine",
+      "pues sé que ese Pájaro mío,"
+    ],
+    [
+      "Though flown —",
+      "aunque haya volado,"
+    ],
+    [
+      "Learneth beyond the sea",
+      "aprende más allá del mar"
+    ],
+    [
+      "Melody new for me",
+      "una nueva melodía para mí"
+    ],
+    [
+      "And will return.",
+      "y volverá."
+    ],
+    [
+      "Fast in a safer hand",
+      "Firmemente en una mano más segura,"
+    ],
+    [
+      "Held in a truer land",
+      "guardados en una tierra más fiel,"
+    ],
+    [
+      "Are mine —",
+      "están los míos;"
+    ],
+    [
+      "And though they now depart,",
+      "y aunque ahora se marchen,"
+    ],
+    [
+      "Tell I my doubting heart",
+      "le digo a mi corazón dudoso"
+    ],
+    [
+      "They're thine.",
+      "que te pertenecen."
+    ],
+    [
+      "In a serener Bright,",
+      "En una claridad más serena,"
+    ],
+    [
+      "In a more golden light",
+      "en una luz más dorada,"
+    ],
+    [
+      "I see",
+      "veo"
+    ],
+    [
+      "Each little doubt and fear,",
+      "cada pequeña duda y temor,"
+    ],
+    [
+      "Each little discord here",
+      "cada pequeña discordia de aquí"
+    ],
+    [
+      "Removed.",
+      "desvanecidos."
+    ],
+    [
+      "Then will I not repine,",
+      "Entonces no me lamentaré,"
+    ],
+    [
+      "Knowing that Bird of mine",
+      "pues sé que ese Pájaro mío,"
+    ],
+    [
+      "Though flown",
+      "aunque haya volado"
+    ],
+    [
+      "Shall in a distant tree",
+      "en un árbol lejano"
+    ],
+    [
+      "Bright melody for me",
+      "una luminosa melodía para mí"
+    ],
+    [
+      "Return.",
+      "devolverá."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Decoys",
+      "body": "La primavera seduce y engaña: el comienzo feliz del vínculo puede ocultar la separación posterior."
+    },
+    {
+      "line": 13,
+      "title": "A safer hand",
+      "body": "La mano más segura puede sugerir confianza religiosa o una seguridad afectiva proyectada; el poema no identifica explícitamente a su poseedor."
+    },
+    {
+      "line": 25,
+      "title": "Repetición final",
+      "body": "El regreso a «I will not repine» funciona como ejercicio de autoconvencimiento, no como garantía objetiva del retorno."
+    }
+  ],
+  "interpretation": "El pájaro de primavera es una figura de la presencia querida que se aleja al llegar el verano. La hablante intenta persuadir a su propio corazón de que la ausencia no significa pérdida definitiva: el ave aprenderá nuevas melodías y regresará. La repetición del consuelo no demuestra serenidad, sino la dificultad de alcanzarla. Preest relaciona el poema con una carta de septiembre de 1854 a Susan Gilbert, marcada por tensiones afectivas; esa documentación permite leer el ave como figura de Sue, sin reducir todas las imágenes a equivalencias biográficas rígidas."
+},
   J288: {
     id: "J288", franklin: "F260", approx: "c. 1861",
     incipit: "I'm Nobody! Who are you?",
