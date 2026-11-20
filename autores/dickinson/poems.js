@@ -614,5 +614,353 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 49, title: "White Sustenance / exercise / privilege", body: "Miller reproduce dos alternativas («exercise», «privilege») a «Sustenance» en la copia retenida; la elección afecta al modo de concebir la desesperación como alimento, ejercicio o prerrogativa."},
       {line: 50, title: "¿A quién se dirige el poema?", body: "El texto no nombra a Sue, a Bowles, a Wadsworth ni a otro destinatario. Preest lo relaciona con el «Master» de otras interpretaciones, pero esa identificación no es un dato establecido por los versos."}
     ]
+  },
+  J258: {
+    "id": "J258",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1861",
+    "incipit": "There's a certain Slant of light,",
+    "titleES": "Hay cierta inclinación de la luz",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Johnson, The Complete Poems, J258, pp. 118–119 (texto base).",
+    "lines": [
+      [
+        "There's a certain Slant of light,",
+        "Hay cierta inclinación de la luz,"
+      ],
+      [
+        "Winter Afternoons –",
+        "en las tardes de invierno —"
+      ],
+      [
+        "That oppresses, like the Heft",
+        "que oprime, como el peso"
+      ],
+      [
+        "Of Cathedral Tunes –",
+        "de las melodías de catedral —"
+      ],
+      [
+        "Heavenly Hurt, it gives us –",
+        "Nos inflige una herida celestial —"
+      ],
+      [
+        "We can find no scar,",
+        "no podemos hallar cicatriz,"
+      ],
+      [
+        "But internal difference,",
+        "sino una diferencia interior,"
+      ],
+      [
+        "Where the Meanings, are –",
+        "allí donde están los sentidos —"
+      ],
+      [
+        "None may teach it – Any –",
+        "Nadie puede enseñarla — nadie —"
+      ],
+      [
+        "'Tis the Seal Despair –",
+        "es el Sello de la Desesperación —"
+      ],
+      [
+        "An imperial affliction",
+        "una aflicción imperial"
+      ],
+      [
+        "Sent us of the Air –",
+        "que nos envía el Aire —"
+      ],
+      [
+        "When it comes, the Landscape listens –",
+        "Cuando llega, el Paisaje escucha —"
+      ],
+      [
+        "Shadows – hold their breath –",
+        "las Sombras — contienen el aliento —"
+      ],
+      [
+        "When it goes, 'tis like the Distance",
+        "cuando se va, es como la Distancia"
+      ],
+      [
+        "On the look of Death –",
+        "en la mirada de la Muerte —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Slant",
+        "body": "La inclinación de la luz es un fenómeno perceptible, pero la carga emocional que se le atribuye no puede verse: el poema desplaza una observación óptica al interior de la conciencia."
+      },
+      {
+        "line": 3,
+        "title": "Heft",
+        "body": "El término indica peso o gravedad física; la música de catedral adquiere una materialidad opresiva."
+      },
+      {
+        "line": 5,
+        "title": "Heavenly Hurt",
+        "body": "La paradoja reúne procedencia celestial y herida. No obliga a entenderla como gracia religiosa ni como condena."
+      },
+      {
+        "line": 8,
+        "title": "Meanings",
+        "body": "El plural evita reducir la diferencia interior a una sola explicación. La puntuación mantiene abierta la relación entre sensación y significado."
+      },
+      {
+        "line": 10,
+        "title": "Seal Despair",
+        "body": "El sello convierte la desesperación en una marca de autoridad; el adjetivo «imperial» refuerza su carácter soberano e impuesto."
+      },
+      {
+        "line": 16,
+        "title": "Distancia en la muerte",
+        "body": "La retirada de la luz deja una expresión comparable a la mirada de la muerte. No es la muerte misma sino una semejanza perceptiva."
+      }
+    ]
+  },
+  J280: {
+    "id": "J280",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1861",
+    "incipit": "I felt a Funeral, in my Brain,",
+    "titleES": "Sentí un funeral en mi cerebro",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "source": "Johnson, The Complete Poems, J280, pp. 128–129 (texto base).",
+    "lines": [
+      [
+        "I felt a Funeral, in my Brain,",
+        "Sentí un Funeral en mi Cerebro,"
+      ],
+      [
+        "And Mourners to and fro",
+        "y los Deudos, de un lado a otro,"
+      ],
+      [
+        "Kept treading – treading – till it seemed",
+        "seguían pisando — pisando — hasta que parecía"
+      ],
+      [
+        "That Sense was breaking through –",
+        "que el Sentido estaba abriéndose paso —"
+      ],
+      [
+        "And when they all were seated,",
+        "Y cuando todos se sentaron,"
+      ],
+      [
+        "A Service, like a Drum –",
+        "un Oficio, como un Tambor —"
+      ],
+      [
+        "Kept beating – beating – till I thought",
+        "seguía golpeando — golpeando — hasta que pensé"
+      ],
+      [
+        "My Mind was going numb –",
+        "que mi Mente se entumecía —"
+      ],
+      [
+        "And then I heard them lift a Box",
+        "Y entonces los oí levantar una Caja"
+      ],
+      [
+        "And creak across my Soul",
+        "y crujir al atravesar mi Alma"
+      ],
+      [
+        "With those same Boots of Lead, again,",
+        "otra vez con aquellas mismas Botas de Plomo,"
+      ],
+      [
+        "Then Space – began to toll,",
+        "entonces el Espacio — comenzó a doblar,"
+      ],
+      [
+        "As all the Heavens were a Bell,",
+        "como si todos los Cielos fueran una Campana,"
+      ],
+      [
+        "And Being, but an Ear,",
+        "y el Ser, apenas un Oído,"
+      ],
+      [
+        "And I, and Silence, some strange Race",
+        "y yo, y el Silencio, una extraña Raza"
+      ],
+      [
+        "Wrecked, solitary, here –",
+        "naufragada, solitaria, aquí —"
+      ],
+      [
+        "And then a Plank in Reason, broke,",
+        "Y entonces se quebró una Tabla de la Razón,"
+      ],
+      [
+        "And I dropped down, and down –",
+        "y caí hacia abajo, y hacia abajo —"
+      ],
+      [
+        "And hit a World, at every plunge,",
+        "y golpeé un Mundo en cada caída,"
+      ],
+      [
+        "And Finished knowing – then –",
+        "y dejé de saber — entonces —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Funeral in my Brain",
+        "body": "El poema dramatiza una experiencia mental como una ceremonia fúnebre; no constituye un informe clínico ni demuestra que Dickinson padeciera un trastorno específico."
+      },
+      {
+        "line": 3,
+        "title": "Treading",
+        "body": "La repetición de «treading» hace oír los pasos y convierte la presión rítmica en forma poética."
+      },
+      {
+        "line": 4,
+        "title": "Sense",
+        "body": "Puede leerse como sentido, conciencia o facultad de comprender. «Breaking through» sugiere tanto una irrupción como una ruptura."
+      },
+      {
+        "line": 6,
+        "title": "Service",
+        "body": "El oficio religioso se oye como un tambor; el rito de duelo se transforma en percusión insistente."
+      },
+      {
+        "line": 12,
+        "title": "Space began to toll",
+        "body": "El verbo «toll» suele referirse al doblar de una campana; aquí el propio espacio parece emitir el sonido."
+      },
+      {
+        "line": 14,
+        "title": "Being, but an Ear",
+        "body": "La existencia entera se reduce a un órgano receptor. El desplazamiento de lo visual a lo auditivo intensifica la pérdida de referencias."
+      },
+      {
+        "line": 17,
+        "title": "Plank in Reason",
+        "body": "La razón se imagina como un suelo de tablas que puede ceder. El desplome convierte una crisis de comprensión en caída física."
+      },
+      {
+        "line": 20,
+        "title": "Finished knowing",
+        "body": "El final suspende el conocimiento sin explicar qué sucede después; el guion final evita clausurar la experiencia como muerte, sueño o locura inequívocos."
+      }
+    ]
+  },
+  J341: {
+    "id": "J341",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "After great pain, a formal feeling comes –",
+    "titleES": "Tras un gran dolor llega un sentir formal",
+    "source": "Johnson, The Complete Poems, J341, p. 162 (texto base).",
+    "lines": [
+      [
+        "After great pain, a formal feeling comes –",
+        "Tras un gran dolor llega un sentir formal —"
+      ],
+      [
+        "The Nerves sit ceremonious, like Tombs –",
+        "los Nervios se sientan ceremoniosos, como Tumbas —"
+      ],
+      [
+        "The stiff Heart questions was it He, that bore,",
+        "el Corazón rígido pregunta: ¿fue Él quien sufrió,"
+      ],
+      [
+        "And Yesterday, or Centuries before?",
+        "y fue Ayer, o hace Siglos?"
+      ],
+      [
+        "The Feet, mechanical, go round –",
+        "Los Pies, mecánicos, dan vueltas —"
+      ],
+      [
+        "Of Ground, or Air, or Ought –",
+        "sobre Suelo, o Aire, o Nada —"
+      ],
+      [
+        "A Wooden way",
+        "con un andar de Madera,"
+      ],
+      [
+        "Regardless grown,",
+        "ya indiferente,"
+      ],
+      [
+        "A Quartz contentment, like a stone –",
+        "una conformidad de Cuarzo, como una piedra —"
+      ],
+      [
+        "This is the Hour of Lead –",
+        "Esta es la Hora de Plomo —"
+      ],
+      [
+        "Remembered, if outlived,",
+        "recordada, si se sobrevive a ella,"
+      ],
+      [
+        "As Freezing persons, recollect the Snow –",
+        "como quienes se congelan recuerdan la Nieve —"
+      ],
+      [
+        "First – Chill – then Stupor – then the letting go –",
+        "Primero — Frío — luego Estupor — luego dejarse ir —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Formal feeling",
+        "body": "«Formal» sugiere una rigidez ceremonial y un orden que sucede al dolor, no necesariamente alivio. El poema estudia el entumecimiento posterior a una experiencia extrema."
+      },
+      {
+        "line": 2,
+        "title": "Nerves sit ceremonious",
+        "body": "Los nervios adquieren postura humana y funeraria. La imagen enlaza con los rituales de J280, aunque el punto de vista y el ritmo son diferentes."
+      },
+      {
+        "line": 3,
+        "title": "He, that bore",
+        "body": "El pronombre «He» puede aludir a Cristo y al sufrimiento que cargó, pero el poema no lo explica expresamente; se conserva la ambigüedad."
+      },
+      {
+        "line": 6,
+        "title": "Ought",
+        "body": "En esta construcción puede sugerir «nada»; la incertidumbre entre suelo, aire y vacío es parte de la desorientación corporal."
+      },
+      {
+        "line": 9,
+        "title": "Quartz contentment",
+        "body": "La dureza mineral vuelve inquietante «contentment»: la quietud parece anestesia o petrificación, no felicidad."
+      },
+      {
+        "line": 10,
+        "title": "Hour of Lead",
+        "body": "El plomo combina peso, rigidez y duración opresiva. El tiempo se convierte en materia."
+      },
+      {
+        "line": 13,
+        "title": "Letting go",
+        "body": "La expresión final puede significar soltarse, ceder o dejar de resistir. No fija un único desenlace: supervivencia, abandono o muerte."
+      }
+    ]
   }
 });
