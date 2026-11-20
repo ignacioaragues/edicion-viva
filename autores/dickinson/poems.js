@@ -2383,6 +2383,151 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  J24: {
+  "id": "J24",
+  "franklin": "F13",
+  "approx": "c. 1858",
+  "incipit": "There is a morn by men unseen -",
+  "titleES": "Hay una aurora que los hombres no ven —",
+  "stanzaBreaks": [
+    6,
+    12,
+    18,
+    24
+  ],
+  "source": "Johnson, The Complete Poems, J24, pp. 17–18; Amherst College manuscript catalogue J24/F13; cotejo con transcripciones independientes. Comentario original, no atribuido a Preest.",
+  "lines": [
+    [
+      "There is a morn by men unseen -",
+      "Hay una aurora que los hombres no ven —"
+    ],
+    [
+      "Whose maids upon remoter green",
+      "cuyas doncellas, en un prado remoto,"
+    ],
+    [
+      "Keep their Seraphic May -",
+      "celebran su mayo seráfico —"
+    ],
+    [
+      "And all day long, with dance and game,",
+      "y todo el día, entre danzas y juegos,"
+    ],
+    [
+      "And gambol I may never name -",
+      "y retozos que ni sé nombrar —"
+    ],
+    [
+      "Employ their holiday.",
+      "pasan su día de fiesta."
+    ],
+    [
+      "Here to light measure, move the feet",
+      "Allí, al compás ligero, se mueven los pies"
+    ],
+    [
+      "Which walk no more the village street -",
+      "que ya no recorren la calle del pueblo —"
+    ],
+    [
+      "Nor by the wood are found -",
+      "ni se encuentran junto al bosque —"
+    ],
+    [
+      "Here are the birds that sought the sun",
+      "allí están las aves que buscaron el sol"
+    ],
+    [
+      "When last year's distaff idle hung",
+      "cuando la rueca del año pasado quedó ociosa"
+    ],
+    [
+      "And summer's brows were bound.",
+      "y el verano se ciñó la frente."
+    ],
+    [
+      "Ne'er saw I such a wondrous scene -",
+      "Nunca vi escena tan maravillosa —"
+    ],
+    [
+      "Ne'er such a ring on such a green -",
+      "ni corro semejante en prado semejante —"
+    ],
+    [
+      "Nor so serene array -",
+      "ni formación tan serena —"
+    ],
+    [
+      "As if the stars some summer night",
+      "como si las estrellas, una noche estival,"
+    ],
+    [
+      "Should swing their cups of Chrysolite -",
+      "alzaran sus copas de crisólito —"
+    ],
+    [
+      "And revel till the day -",
+      "y festejaran hasta el día —"
+    ],
+    [
+      "Like thee to dance - like thee to sing -",
+      "Como vosotras, bailar — como vosotras, cantar —"
+    ],
+    [
+      "People upon the mystic green -",
+      "gentes del prado misterioso —"
+    ],
+    [
+      "I ask, each new May Morn.",
+      "eso pido cada nueva mañana de mayo."
+    ],
+    [
+      "I wait thy far, fantastic bells -",
+      "Espero tus campanas lejanas, fantásticas —"
+    ],
+    [
+      "Announcing me in other dells -",
+      "que me anuncien en otros valles —"
+    ],
+    [
+      "Unto the different dawn!",
+      "ante un amanecer distinto."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Mañana invisible",
+      "body": "El paisaje se sitúa fuera de la percepción ordinaria; puede leerse como una visión de ultratumba, no como descripción literal comprobable."
+    },
+    {
+      "line": 3,
+      "title": "Seraphic May",
+      "body": "La primavera terrenal se combina con el vocabulario de los ángeles."
+    },
+    {
+      "line": 8,
+      "title": "Pies ausentes",
+      "body": "Los pies que ya no transitan la calle evocan a quienes han muerto; la danza imagina su continuidad."
+    },
+    {
+      "line": 11,
+      "title": "Distaff",
+      "body": "La rueca, objeto del trabajo textil, enlaza el paso estacional con las tareas domésticas."
+    },
+    {
+      "line": 17,
+      "title": "Chrysolite",
+      "body": "El crisólito, piedra verdosa o dorada, aporta luminosidad mineral a la fiesta de las estrellas."
+    },
+    {
+      "line": 24,
+      "title": "Amanecer distinto",
+      "body": "El poema concluye en una espera: la hablante desea ser llamada a la celebración, pero aún no ha ingresado en ella."
+    }
+  ],
+  "interpretation": "El poema imagina una primavera que no está al alcance de los vivos. En ese espacio, los ausentes siguen moviéndose y las aves regresan a una estación que no termina. La comparación con las estrellas convierte el cielo en una fiesta colectiva, pero la hablante no se incluye entre sus participantes: pide bailar y cantar con ellos. La distancia entre la visión y el deseo organiza el desenlace. Las campanas esperadas anuncian otra aurora, sin garantizar que haya llegado. Esta interpretación es editorial propia; queda pendiente el cotejo del comentario de David Preest."
+},
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
