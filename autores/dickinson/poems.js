@@ -3718,6 +3718,628 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  J44: {
+    "id": "J44",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "If she had been the Mistletoe",
+    "titleES": "If she had been the Mistletoe",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J44; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "If she had been the Mistletoe",
+        "Si ella hubiera sido el muérdago"
+      ],
+      [
+        "And I had been the Rose –",
+        "y yo hubiera sido la rosa,"
+      ],
+      [
+        "How gay upon your table",
+        "¡qué alegre habría sido acabar"
+      ],
+      [
+        "My velvet life to close –",
+        "mi vida de terciopelo sobre tu mesa!"
+      ],
+      [
+        "Since I am of the Druid,",
+        "Como yo pertenezco al druida"
+      ],
+      [
+        "And she is of the dew –",
+        "y ella al rocío,"
+      ],
+      [
+        "I'll deck Tradition's buttonhole –",
+        "adornaré el ojal de la Tradición"
+      ],
+      [
+        "And send the Rose to you.",
+        "y te enviaré la rosa."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J45: {
+    "id": "J45",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "There's something quieter than sleep",
+    "titleES": "There's something quieter than sleep",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J45; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "There's something quieter than sleep",
+        "Hay algo más quieto que el sueño"
+      ],
+      [
+        "Within this inner room!",
+        "en esta habitación interior."
+      ],
+      [
+        "It wears a sprig upon its breast –",
+        "Lleva una ramita sobre el pecho"
+      ],
+      [
+        "And will not tell its name.",
+        "y no quiere decir su nombre."
+      ],
+      [
+        "Some touch it, and some kiss it –",
+        "Unos lo tocan, otros lo besan;"
+      ],
+      [
+        "Some chafe its idle hand –",
+        "algunos frotan su mano inerte."
+      ],
+      [
+        "It has a simple gravity",
+        "Tiene una sencilla gravedad"
+      ],
+      [
+        "I do not understand!",
+        "que no alcanzo a comprender."
+      ],
+      [
+        "I would not weep if I were they –",
+        "Yo no lloraría en su lugar:"
+      ],
+      [
+        "How rude in one to sob!",
+        "¡qué descortesía sollozar!"
+      ],
+      [
+        "Might scare the quiet fairy",
+        "Podría espantar al hada silenciosa"
+      ],
+      [
+        "Back to her native wood!",
+        "y devolverla a su bosque natal."
+      ],
+      [
+        "While simple-hearted neighbors",
+        "Mientras los vecinos de buen corazón"
+      ],
+      [
+        "Chat of the \"Early dead\" –",
+        "hablan de quien «murió temprano»,"
+      ],
+      [
+        "We – prone to periphrasis,",
+        "nosotros, dados al circunloquio,"
+      ],
+      [
+        "Remark that Birds have Red!",
+        "observamos que los pájaros tienen rojo."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J46: {
+    "id": "J46",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "I keep my pledge",
+    "titleES": "I keep my pledge",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J46; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I keep my pledge.",
+        "Cumplo mi promesa."
+      ],
+      [
+        "I was not called –",
+        "No me llamaron:"
+      ],
+      [
+        "Death did not notice me.",
+        "la Muerte no reparó en mí."
+      ],
+      [
+        "I bring my Rose.",
+        "Traigo mi rosa."
+      ],
+      [
+        "I plight again,",
+        "Vuelvo a empeñar mi palabra"
+      ],
+      [
+        "By every sainted Bee –",
+        "por cada abeja santificada,"
+      ],
+      [
+        "By Daisy called from hillside –",
+        "por la margarita llamada desde la ladera,"
+      ],
+      [
+        "By Bobolink from lane",
+        "por el tordo de los prados del sendero:"
+      ],
+      [
+        "Blossom and I –",
+        "la Flor y yo,"
+      ],
+      [
+        "Her oath, and mine –",
+        "su juramento y el mío,"
+      ],
+      [
+        "Will surely come again.",
+        "volveremos sin falta."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J47: {
+    "id": "J47",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "Heart! We will forget him!",
+    "titleES": "Heart! We will forget him!",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J47; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Heart! We will forget him!",
+        "¡Corazón! ¡Lo olvidaremos!"
+      ],
+      [
+        "You and I – tonight!",
+        "¡Vos y yo, esta noche!"
+      ],
+      [
+        "You may forget the warmth he gave –",
+        "Vos olvidá el calor que nos dio;"
+      ],
+      [
+        "I will forget the light!",
+        "yo olvidaré la luz."
+      ],
+      [
+        "When you have done, pray tell me",
+        "Cuando hayas terminado, avisame,"
+      ],
+      [
+        "That I may straight begin!",
+        "para que yo empiece enseguida."
+      ],
+      [
+        "Haste! lest while you're lagging",
+        "¡Apurate! No sea que, mientras te demorás,"
+      ],
+      [
+        "I remember him!",
+        "yo vuelva a recordarlo."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J48: {
+    "id": "J48",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "Once more, my now bewildered Dove",
+    "titleES": "Once more, my now bewildered Dove",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J48; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Once more, my now bewildered Dove",
+        "Una vez más, mi paloma desconcertada"
+      ],
+      [
+        "Bestirs her puzzled wings",
+        "agita sus alas perplejas;"
+      ],
+      [
+        "Once more her mistress, on the deep",
+        "una vez más, su dueña arroja al abismo"
+      ],
+      [
+        "Her troubled question flings –",
+        "su pregunta inquieta."
+      ],
+      [
+        "Thrice to the floating casement",
+        "Tres veces volvió a la ventana flotante"
+      ],
+      [
+        "The Patriarch's bird returned,",
+        "el ave del Patriarca."
+      ],
+      [
+        "Courage! My brave Columba!",
+        "¡Valor, mi valiente paloma!"
+      ],
+      [
+        "There may yet be Land!",
+        "¡Puede que todavía haya tierra!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J49: {
+    "id": "J49",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "I never lost as much but twice",
+    "titleES": "I never lost as much but twice",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J49; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I never lost as much but twice,",
+        "Solo dos veces perdí tanto,"
+      ],
+      [
+        "And that was in the sod.",
+        "y fue bajo la tierra."
+      ],
+      [
+        "Twice have I stood a beggar",
+        "Dos veces me encontré mendigando"
+      ],
+      [
+        "Before the door of God!",
+        "ante la puerta de Dios."
+      ],
+      [
+        "Angels – twice descending",
+        "Ángeles que descendieron dos veces"
+      ],
+      [
+        "Reimbursed my store –",
+        "repusieron mis reservas."
+      ],
+      [
+        "Burglar! Banker – Father!",
+        "¡Ladrón! ¡Banquero! ¡Padre!"
+      ],
+      [
+        "I am poor once more!",
+        "¡Otra vez soy pobre!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J50: {
+    "id": "J50",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "I haven't told my garden yet",
+    "titleES": "I haven't told my garden yet",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J50; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I haven't told my garden yet –",
+        "Todavía no se lo dije a mi jardín,"
+      ],
+      [
+        "Lest that should conquer me.",
+        "por temor a que eso me venza."
+      ],
+      [
+        "I haven't quite the strength now",
+        "Aún no tengo fuerzas suficientes"
+      ],
+      [
+        "To break it to the Bee –",
+        "para darle la noticia a la abeja."
+      ],
+      [
+        "I will not name it in the street",
+        "No lo mencionaré en la calle,"
+      ],
+      [
+        "For shops would stare at me –",
+        "porque las tiendas se quedarían mirándome:"
+      ],
+      [
+        "That one so shy – so ignorant",
+        "que alguien tan tímido, tan ignorante,"
+      ],
+      [
+        "Should have the face to die.",
+        "tenga el descaro de morir."
+      ],
+      [
+        "The hillsides must not know it –",
+        "No deben saberlo las laderas"
+      ],
+      [
+        "Where I have rambled so –",
+        "por las que tanto he vagado,"
+      ],
+      [
+        "Nor tell the loving forests",
+        "ni contarles a los bosques queridos"
+      ],
+      [
+        "The day that I shall go –",
+        "el día en que me iré."
+      ],
+      [
+        "Nor lisp it at the table –",
+        "Ni musitarlo en la mesa,"
+      ],
+      [
+        "Nor heedless by the way",
+        "ni insinuar distraídamente, al pasar,"
+      ],
+      [
+        "Hint that within the Riddle",
+        "que hoy alguien caminará"
+      ],
+      [
+        "One will walk today –",
+        "dentro del Enigma."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J51: {
+    "id": "J51",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "I often passed the village",
+    "titleES": "I often passed the village",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J51; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I often passed the village",
+        "Solía pasar junto al pueblo"
+      ],
+      [
+        "When going home from school –",
+        "al volver de la escuela"
+      ],
+      [
+        "And wondered what they did there –",
+        "y preguntarme qué hacían allí"
+      ],
+      [
+        "And why it was so still –",
+        "y por qué reinaba tanta quietud."
+      ],
+      [
+        "I did not know the year then –",
+        "Entonces no sabía el año"
+      ],
+      [
+        "In which my call would come –",
+        "en que llegaría mi llamado,"
+      ],
+      [
+        "Earlier, by the Dial,",
+        "más temprano, según el reloj,"
+      ],
+      [
+        "Than the rest have gone",
+        "que el de los demás."
+      ],
+      [
+        "It's stiller than the sundown.",
+        "Es más quieto que el ocaso,"
+      ],
+      [
+        "It's cooler than the dawn –",
+        "más fresco que el amanecer."
+      ],
+      [
+        "The Daisies dare to come here –",
+        "Las margaritas se atreven a venir aquí"
+      ],
+      [
+        "And birds can flutter down –",
+        "y los pájaros pueden descender revoloteando."
+      ],
+      [
+        "So when you are tired –",
+        "Así que, cuando estés cansada,"
+      ],
+      [
+        "Or perplexed – or cold –",
+        "o perpleja, o tengas frío,"
+      ],
+      [
+        "Trust the loving promise",
+        "confiá en la promesa amorosa"
+      ],
+      [
+        "Underneath the mould,",
+        "que hay debajo del mantillo."
+      ],
+      [
+        "Cry \"it's I,\" \"take Dollie,\"",
+        "Gritá «soy yo», «recibí a Dollie»,"
+      ],
+      [
+        "And I will enfold!",
+        "¡y te abrazaré!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J52: {
+    "id": "J52",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "Whether my bark went down at sea",
+    "titleES": "Whether my bark went down at sea",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J52; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Whether my bark went down at sea –",
+        "Si mi barca se hundió en el mar,"
+      ],
+      [
+        "Whether she met with gales –",
+        "si se encontró con vendavales,"
+      ],
+      [
+        "Whether to isles enchanted",
+        "si hacia islas encantadas"
+      ],
+      [
+        "She bent her docile sails –",
+        "orientó sus dóciles velas,"
+      ],
+      [
+        "By what mystic mooring",
+        "qué amarre misterioso"
+      ],
+      [
+        "She is held today –",
+        "la retiene hoy:"
+      ],
+      [
+        "This is the errand of the eye",
+        "eso es lo que buscan mis ojos"
+      ],
+      [
+        "Out upon the Bay.",
+        "allá, sobre la bahía."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
+  J53: {
+    "id": "J53",
+    "franklin": null,
+    "approx": "c. 1858",
+    "incipit": "Taken from men – this morning",
+    "titleES": "Taken from men – this morning",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J53; cotejo preliminar con PDF aportado por el usuario. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Taken from men – this morning –",
+        "Apartada de los hombres esta mañana,"
+      ],
+      [
+        "Carried by men today –",
+        "llevada hoy por los hombres,"
+      ],
+      [
+        "Met by the Gods with banners –",
+        "recibida por dioses con estandartes"
+      ],
+      [
+        "Who marshalled her away –",
+        "que la escoltaron en su partida:"
+      ],
+      [
+        "One little maid – from playmates –",
+        "una niña separada de sus compañeros,"
+      ],
+      [
+        "One little mind from school –",
+        "una pequeña mente de la escuela."
+      ],
+      [
+        "There must be guests in Eden –",
+        "Debe de haber huéspedes en el Edén:"
+      ],
+      [
+        "All the rooms are full –",
+        "todas las habitaciones están llenas."
+      ],
+      [
+        "Far – as the East from Even –",
+        "Lejanos como Oriente de la tarde,"
+      ],
+      [
+        "Dim – as the border star –",
+        "tenues como la estrella del confín,"
+      ],
+      [
+        "Courtiers quaint, in Kingdoms",
+        "nuestros difuntos son extraños cortesanos"
+      ],
+      [
+        "Our departed are.",
+        "en sus reinos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Lectura de las imágenes, la voz y la tensión entre lo dicho y lo insinuado; se requiere un cotejo filológico adicional con los manuscritos y la edición de Miller."
+      }
+    ]
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
