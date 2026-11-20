@@ -2159,12 +2159,25 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://tips.translation.bible/story/translation-commentary-on-mark-820/"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 21,
+      "to": 21,
+      "status": "edited_not_revised",
+      "morphology": "5/5 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/8/21",
+        "https://biblehub.com/commentaries/meyer/mark/8.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,20; segunda revisión filológica contextual pendiente.",
+  "pending": "Continuar Marcos 8,22; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 21
+    "verse": 22
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4668,6 +4681,16 @@
     "sources": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-820/"
+    ]
+  },
+  "prepublication_research_8_21": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "5/5",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/8/21",
+      "https://biblehub.com/commentaries/meyer/mark/8.htm"
     ]
   }
 }
