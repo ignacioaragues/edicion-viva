@@ -2079,12 +2079,25 @@
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
         "https://www.bibliaplus.org/en/commentaries/428/a-textual-commentary-on-the-greek-new-testament-by-bruce-m-metzger/mark/8/10"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 11,
+      "to": 13,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010); Tauber, MorphGNT 6.12",
+      "morphology": "47/47 fichas posicionales",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/8/11-13",
+        "https://www.biblehub.com/commentaries/egt/mark/8.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,11; revisión filológica contextual pendiente.",
+  "pending": "Continuar Marcos 8,14; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 11
+    "verse": 14
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4524,6 +4537,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.bibliaplus.org/en/commentaries/428/a-textual-commentary-on-the-greek-new-testament-by-bruce-m-metzger/mark/8/10"
+    ]
+  },
+  "prepublication_research_8_11_13": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "47/47",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/8/11-13",
+      "https://www.biblehub.com/commentaries/egt/mark/8.htm",
+      "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt"
     ]
   }
 }
