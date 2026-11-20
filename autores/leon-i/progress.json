@@ -662,39 +662,37 @@
     {
       "group": "sermones",
       "number": 33,
-      "section": "Sermo XXXIII · In Epiphania Domini III · pars I",
-      "paragraphs": 4,
-      "aligned_units": 4,
+      "section": "Sermo XXXIII · In Epiphania Domini III · partes I–V",
+      "paragraphs": 27,
+      "aligned_units": 27,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "original aligned Spanish translation of part I only",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxxiii/index.html",
-      "voice_notes": 4,
+      "voice_notes": 9,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Part I only. Digital Tractatus XXXIII has two divergent transcriptions; second continuous version provisionally used. Selective morphology only; printed PL54 collation and full contextual token cards pending."
+      "editorial_caveat": "All five parts and final Amen in the second continuous public Tractatus XXXIII version. Divergent first transcription recorded; critical printed PL54 collation, contextual word-by-word morphology, dictionary integration and browser QA remain pending."
     }
   ],
-  "next": "Sermo XXXIII · pars II, beginning Huius autem, dilectissimi, ineffabilis misericordiae manifestatio; complete parts II–V before moving on",
+  "next": {
+    "group": "sermones",
+    "number": 34,
+    "section": "Sermo XXXIV · In Epiphania Domini IV"
+  },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 33,
-    "status": "partial",
-    "completed_sections": [
-      1
-    ],
-    "total_sections": 5,
-    "next_section": 2,
-    "next_incipit": "Huius autem, dilectissimi, ineffabilis misericordiae manifestatio"
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
