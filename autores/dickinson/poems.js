@@ -2191,6 +2191,198 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "El poema enlaza el ceremonial de mayo con la posibilidad de recuperar aquello que parecía perdido. Las flores son banderas, la llanura un presbiterio y el crecimiento vegetal una procesión que se alza y vuelve a descansar. La segunda estrofa interrumpe la celebración con una meditación sobre el extravío: si algo puede reencontrarse, el robo y el engaño pierden su carácter definitivo. La pequeña pala, las margaritas, las aguileñas y el croco convierten esa intuición en trabajo de jardín. La última imagen no asegura que el mundo carezca de invierno, sino que quien conserva una sensibilidad afín a las flores puede percibir anticipadamente la llegada de junio. Se trata de una interpretación editorial propia; el comentario específico de David Preest queda pendiente de consulta."
   },
+  J23: {
+    "id": "J23",
+    "franklin": "F12",
+    "approx": "c. 1858",
+    "incipit": "I had a guinea golden —",
+    "titleES": "Tenía una guinea de oro",
+    "stanzaBreaks": [
+      8,
+      16,
+      24
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J23; correspondencia Franklin F12. Texto cotejado con transcripciones de Johnson; interpretación editorial propia.",
+    "lines": [
+      [
+        "I had a guinea golden —",
+        "Tenía una guinea de oro —"
+      ],
+      [
+        "I lost it in the sand —",
+        "la perdí entre la arena —"
+      ],
+      [
+        "And tho' the sum was simple",
+        "y aunque era poca la suma"
+      ],
+      [
+        "And pounds were in the land —",
+        "y había libras en el país —"
+      ],
+      [
+        "Still, had it such a value",
+        "tanto valor tenía"
+      ],
+      [
+        "Unto my frugal eye —",
+        "para mis ojos ahorrativos —"
+      ],
+      [
+        "That when I could not find it —",
+        "que al no poder encontrarla —"
+      ],
+      [
+        "I sat me down to sigh.",
+        "me senté a suspirar."
+      ],
+      [
+        "I had a crimson Robin —",
+        "Tenía un petirrojo carmesí —"
+      ],
+      [
+        "Who sang full many a day",
+        "que cantó durante muchos días,"
+      ],
+      [
+        "But when the woods were painted,",
+        "pero cuando los bosques se pintaron,"
+      ],
+      [
+        "He, too, did fly away —",
+        "también él se marchó volando —"
+      ],
+      [
+        "Time brought me other Robins —",
+        "El tiempo me trajo otros petirrojos —"
+      ],
+      [
+        "Their ballads were the same —",
+        "sus canciones eran iguales —"
+      ],
+      [
+        "Still, for my missing Troubador",
+        "pero para mi trovador perdido"
+      ],
+      [
+        "I kept the \"house at hame.\"",
+        "guardé «la casa en el hogar»."
+      ],
+      [
+        "I had a star in heaven —",
+        "Tenía una estrella en el cielo —"
+      ],
+      [
+        "One \"Pleiad\" was its name —",
+        "se llamaba una «Pléyade» —"
+      ],
+      [
+        "And when I was not heeding,",
+        "y cuando yo no prestaba atención,"
+      ],
+      [
+        "It wandered from the same.",
+        "se alejó de aquel lugar."
+      ],
+      [
+        "And tho' the skies are crowded —",
+        "Y aunque los cielos están poblados —"
+      ],
+      [
+        "And all the night ashine —",
+        "y toda la noche resplandece —"
+      ],
+      [
+        "I do not care about it —",
+        "no me importan las otras estrellas —"
+      ],
+      [
+        "Since none of them are mine.",
+        "pues ninguna de ellas es mía."
+      ],
+      [
+        "My story has a moral —",
+        "Mi historia tiene una moraleja —"
+      ],
+      [
+        "I have a missing friend —",
+        "me falta un amigo —"
+      ],
+      [
+        "\"Pleiad\" its name, and Robin,",
+        "«Pléyade» se llama, y petirrojo,"
+      ],
+      [
+        "And guinea in the sand.",
+        "y guinea entre la arena."
+      ],
+      [
+        "And when this mournful ditty",
+        "Y cuando esta triste cancioncilla,"
+      ],
+      [
+        "Accompanied with tear —",
+        "acompañada de una lágrima —"
+      ],
+      [
+        "Shall meet the eye of traitor",
+        "llegue a los ojos del traidor"
+      ],
+      [
+        "In country far from here —",
+        "en un país lejano de aquí —"
+      ],
+      [
+        "Grant that repentance solemn",
+        "concedé que un solemne arrepentimiento"
+      ],
+      [
+        "May seize upon his mind —",
+        "se apodere de su mente —"
+      ],
+      [
+        "And he no consolation",
+        "y que consuelo alguno"
+      ],
+      [
+        "Beneath the sun may find.",
+        "encuentre bajo el sol."
+      ]
+    ],
+    "commentary": "Las tres pérdidas —la moneda, el petirrojo y la estrella— forman una escala desde lo material y terrestre hasta lo celeste. Ninguna posesión equivalente puede reemplazar lo singular: la abundancia de libras, pájaros o estrellas no compensa aquello que se ha ido. La última estrofa revela que las tres imágenes figuraban a un amigo ausente. El giro es deliberadamente teatral: la canción doliente se transforma en una maldición contra el destinatario, llamado «traidor». Esa hipérbole puede leerse como un reproche afectuoso por la distancia o el silencio, sin identificar al amigo ni convertir la broma en dato biográfico seguro.",
+    "notes": [
+      {
+        "line": 1,
+        "title": "Guinea",
+        "body": "Moneda británica de oro; su valor particular contrasta con la abundancia de otras libras."
+      },
+      {
+        "line": 11,
+        "title": "Bosques pintados",
+        "body": "Imagen del otoño y de la partida estacional del pájaro."
+      },
+      {
+        "line": 16,
+        "title": "«house at hame»",
+        "body": "Expresión dialectal escocesa, de sabor popular; «hame» equivale a «home». La traducción conserva el carácter extraño de la fórmula."
+      },
+      {
+        "line": 18,
+        "title": "Pléyade",
+        "body": "Una de las estrellas de las Pléyades; la imagen convierte la pérdida personal en una ausencia cósmica."
+      },
+      {
+        "line": 31,
+        "title": "Traidor",
+        "body": "El cambio de elegía a imprecación introduce una ironía que impide reducir el poema a un lamento solemne."
+      },
+      {
+        "line": 33,
+        "title": "Identidad del amigo",
+        "body": "El poema no permite identificar con certeza al destinatario. Cualquier atribución biográfica requiere evidencia externa."
+      }
+    ]
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
