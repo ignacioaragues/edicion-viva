@@ -876,17 +876,40 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Three chapters and Amen included. Based on public Latin transcription; printed PL54 collation, exhaustive token morphology, dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 42,
+      "section": "Sermo XLII · De Quadragesima IV · capita I–II de VI",
+      "paragraphs": 9,
+      "aligned_units": 9,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 6,
+      "translation": "partial original Spanish translation aligned with Latin",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xlii/index.html",
+      "voice_notes": 6,
+      "lexical_coverage": "9 selective morphological entries; full token coverage pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapters I–II only; III–VI pending. Public Tractatus XLII transcription used; printed PL54 collation, exhaustive contextual morphology, dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XLII · De Quadragesima IV, caput I",
+  "next": "Sermo XLII · De Quadragesima IV, caput III: His autem studiis, dilectissimi",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XLI complete first-pass bilingual reader (13 units, three chapters); print collation and exhaustive morphology pending.",
+  "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
     "number": 42,
-    "status": "not_started",
-    "next": "caput I"
+    "next_chapter": 3,
+    "total_chapters": 6,
+    "status": "partial"
   },
   "priority_queue": [
     {
