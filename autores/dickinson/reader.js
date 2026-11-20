@@ -41,6 +41,11 @@
       p.append(make('strong', '', 'v. ' + note.line + ' · ' + note.title), make('p', '', note.body));
       notes.append(p);
     });
+    if (poem.interpretation) {
+      const reading = make('section', 'poem-interpretation');
+      reading.append(make('h4', '', 'Interpretación'), make('p', '', poem.interpretation));
+      mount.append(reading);
+    }
     const source = make('p', 'poem-source', 'Fuentes: ' + poem.source);
     mount.append(notes, source);
     if (document.body.dataset.page === 'curso') {
