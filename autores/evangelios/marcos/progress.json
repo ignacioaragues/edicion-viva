@@ -2327,12 +2327,26 @@
         "https://biblehub.com/lexicon/mark/8-33.htm",
         "https://greekdoc.github.io/nt-poly/mk08.html"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 34,
+      "to": 34,
+      "status": "edited_not_revised",
+      "morphology": "26/26 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/8/34",
+        "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 8,31–33; segunda revisión filológica contextual pendiente.",
+  "pending": "Continuar Marcos 8,35–38; revisión contextual y Vulgata pendientes.",
   "next": {
     "chapter": 8,
-    "verse": 34
+    "verse": 35
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4977,6 +4991,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://biblehub.com/lexicon/mark/8-33.htm"
+    ]
+  },
+  "prepublication_research_8_34": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "26/26",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/8/34",
+      "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf"
     ]
   }
 }
