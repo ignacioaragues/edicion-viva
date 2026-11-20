@@ -2064,6 +2064,133 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "En apenas tres versos, Dickinson transforma una sentencia aparentemente contradictoria en una pequeña escena de conducta humana. La ganancia contiene una pérdida posible: la desaparición del deseo que daba valor a la espera. El segundo verso, deliberadamente elíptico, no aclara si los jugadores recuerdan la victoria o la derrota. Esa vacilación importa: cualquiera de las dos experiencias puede devolverlos a la mesa. El tercer verso no resuelve el dilema moral, sino que muestra su persistencia. El juego puede leerse literalmente, pero también como figura de la esperanza, la ambición y la repetición del deseo. No es necesario convertirlo en una doctrina universal sobre el fracaso: la fuerza del poema está en la ambigüedad entre experiencia y compulsión."
   },
+  J22: {
+    "id": "J22",
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "All these my banners be.",
+    "titleES": "Todas estas son mis banderas.",
+    "stanzaBreaks": [
+      7,
+      11,
+      15,
+      19
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J22, p. 16 (PDF del usuario, página 26). Texto cotejado con la página extraída; puntuación normalizada a raya tipográfica. Correspondencia Franklin pendiente de comprobación.",
+    "lines": [
+      [
+        "All these my banners be.",
+        "Todas estas son mis banderas."
+      ],
+      [
+        "I sow my pageantry",
+        "Siembro mi pompa"
+      ],
+      [
+        "In May –",
+        "en mayo —"
+      ],
+      [
+        "It rises train by train –",
+        "se alza en filas sucesivas —"
+      ],
+      [
+        "Then sleeps in state again –",
+        "y vuelve a dormir con solemnidad —"
+      ],
+      [
+        "My chancel – all the plain",
+        "mi presbiterio: toda la llanura"
+      ],
+      [
+        "Today.",
+        "hoy."
+      ],
+      [
+        "To lose – if One can find again –",
+        "Perder — si se puede volver a encontrar —"
+      ],
+      [
+        "To miss – if one shall meet –",
+        "echar de menos — si habrá reencuentro —"
+      ],
+      [
+        "The Burglar cannot rob – then –",
+        "el ladrón ya no puede robar — entonces —"
+      ],
+      [
+        "The Broker cannot cheat.",
+        "ni el corredor puede engañar."
+      ],
+      [
+        "So build the hillocks gaily",
+        "Levantá alegremente los montículos,"
+      ],
+      [
+        "Thou little spade of mine",
+        "pequeña pala mía,"
+      ],
+      [
+        "Leaving nooks for Daisy",
+        "dejando rincones para la margarita"
+      ],
+      [
+        "And for Columbine –",
+        "y para la aguileña —"
+      ],
+      [
+        "You and I the secret",
+        "vos y yo conocemos"
+      ],
+      [
+        "Of the Crocus know –",
+        "el secreto del azafrán silvestre —"
+      ],
+      [
+        "Let us chant it softly –",
+        "cantémoslo bajito —"
+      ],
+      [
+        "There is no more snow!",
+        "¡ya no queda nieve!"
+      ],
+      [
+        "To him who keeps an Orchis' heart –",
+        "Para quien conserva un corazón de orquídea —"
+      ],
+      [
+        "The swamps are pink with June.",
+        "los pantanos se tiñen de rosa con junio."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Banderas y procesión",
+        "body": "La hablante identifica su despliegue de flores primaverales con un ceremonial: banderas, cortejo, presbiterio y reposo solemne. No es una descripción neutral del paisaje."
+      },
+      {
+        "line": 8,
+        "title": "Perder y volver a encontrar",
+        "body": "La esperanza del reencuentro modifica la naturaleza misma de la pérdida: ladrón y corredor dejan de tener poder sobre aquello que se recupera."
+      },
+      {
+        "line": 12,
+        "title": "La pala",
+        "body": "La voz se dirige a una pequeña pala, posiblemente la de quien planta o remueve la tierra; la exhortación reúne labor de jardín y ceremonia estacional."
+      },
+      {
+        "line": 18,
+        "title": "El fin de la nieve",
+        "body": "La fórmula exclamativa aparece como un secreto compartido con el croco, flor temprana que anuncia el deshielo."
+      },
+      {
+        "line": 20,
+        "title": "Orchis' heart",
+        "body": "La orquídea aparece como disposición perceptiva: quien mantiene ese corazón puede reconocer la primavera incluso en los pantanos."
+      }
+    ],
+    "interpretation": "El poema enlaza el ceremonial de mayo con la posibilidad de recuperar aquello que parecía perdido. Las flores son banderas, la llanura un presbiterio y el crecimiento vegetal una procesión que se alza y vuelve a descansar. La segunda estrofa interrumpe la celebración con una meditación sobre el extravío: si algo puede reencontrarse, el robo y el engaño pierden su carácter definitivo. La pequeña pala, las margaritas, las aguileñas y el croco convierten esa intuición en trabajo de jardín. La última imagen no asegura que el mundo carezca de invierno, sino que quien conserva una sensibilidad afín a las flores puede percibir anticipadamente la llegada de junio. Se trata de una interpretación editorial propia; el comentario específico de David Preest queda pendiente de consulta."
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
