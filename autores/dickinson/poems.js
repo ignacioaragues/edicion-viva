@@ -3154,6 +3154,482 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La rosa reemplaza las insignias de prestigio por un emblema de memoria íntima."
 },
+  J35: {
+    "id": "J35",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "Nobody knows this little Rose –",
+    "titleES": "Nadie conoce esta pequeña Rosa —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J35; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Nobody knows this little Rose –",
+        "Nadie conoce esta pequeña Rosa —"
+      ],
+      [
+        "It might a pilgrim be",
+        "Podría ser una peregrina"
+      ],
+      [
+        "Did I not take it from the ways",
+        "si yo no la hubiera recogido del camino"
+      ],
+      [
+        "And lift it up to thee.",
+        "y elevado hasta vos."
+      ],
+      [
+        "Only a Bee will miss it –",
+        "Solo una Abeja la echará de menos —"
+      ],
+      [
+        "Only a Butterfly,",
+        "solo una Mariposa,"
+      ],
+      [
+        "Hastening from far journey –",
+        "que regresa apresurada de un largo viaje —"
+      ],
+      [
+        "On its breast to lie –",
+        "para posarse sobre su pecho —"
+      ],
+      [
+        "Only a Bird will wonder –",
+        "Solo un Pájaro se preguntará —"
+      ],
+      [
+        "Only a Breeze will sigh –",
+        "solo una Brisa suspirará —"
+      ],
+      [
+        "Ah Little Rose – how easy",
+        "Ah, pequeña Rosa — qué fácil"
+      ],
+      [
+        "For such as thee to die!",
+        "es morir para alguien como vos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La rosa insignificante para el mundo concentra una comunidad diminuta de duelo. La voz que la arranca del camino participa de la pérdida que después lamenta."
+      }
+    ]
+  },
+  J36: {
+    "id": "J36",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "Snow flakes.",
+    "titleES": "Copos de nieve.",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J36; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Snow flakes.",
+        "Copos de nieve."
+      ],
+      [
+        "I counted till they danced so",
+        "Los conté hasta que bailaron tanto"
+      ],
+      [
+        "Their slippers leaped the town,",
+        "que sus zapatillas saltaron por el pueblo,"
+      ],
+      [
+        "And then I took a pencil",
+        "y entonces tomé un lápiz"
+      ],
+      [
+        "To note the rebels down.",
+        "para registrar a los rebeldes."
+      ],
+      [
+        "And then they grew so jolly",
+        "Pero se pusieron tan alegres"
+      ],
+      [
+        "I did resign the prig,",
+        "que renuncié a ser una pedante,"
+      ],
+      [
+        "And ten of my once stately toes",
+        "y mis diez dedos, antes tan solemnes,"
+      ],
+      [
+        "Are marshalled for a jig!",
+        "se alinearon para bailar una giga."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El intento de contar los copos fracasa ante su danza: la observadora abandona la disciplina y entra en el movimiento que quería registrar."
+      }
+    ]
+  },
+  J37: {
+    "id": "J37",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "Before the ice is in the pools –",
+    "titleES": "Antes de que haya hielo en los estanques —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J37; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Before the ice is in the pools –",
+        "Antes de que haya hielo en los estanques —"
+      ],
+      [
+        "Before the skaters go,",
+        "antes de que salgan los patinadores,"
+      ],
+      [
+        "Or any cheek at nightfall",
+        "o de que alguna mejilla al anochecer"
+      ],
+      [
+        "Is tarnished by the snow –",
+        "se empañe con la nieve —"
+      ],
+      [
+        "Before the fields have finished,",
+        "antes de que los campos hayan terminado,"
+      ],
+      [
+        "Before the Christmas tree,",
+        "antes del árbol de Navidad,"
+      ],
+      [
+        "Wonder upon wonder",
+        "maravilla tras maravilla"
+      ],
+      [
+        "Will arrive to me!",
+        "vendrá a mi encuentro."
+      ],
+      [
+        "What we touch the hems of",
+        "Aquello cuyo borde rozamos"
+      ],
+      [
+        "On a summer's day –",
+        "en un día de verano —"
+      ],
+      [
+        "What is only walking",
+        "aquello que está a solo un paseo"
+      ],
+      [
+        "Just a bridge away –",
+        "a un puente de distancia —"
+      ],
+      [
+        "That which sings so – speaks so –",
+        "aquello que tanto canta — tanto habla —"
+      ],
+      [
+        "When there's no one here –",
+        "cuando aquí no hay nadie —"
+      ],
+      [
+        "Will the frock I wept in",
+        "¿Responderá el vestido en que lloré"
+      ],
+      [
+        "Answer me to wear?",
+        "cuando le pida volver a usarlo?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La anticipación de las maravillas invernales se vuelve una interrogación enigmática sobre la cercanía de lo ausente y la memoria del dolor."
+      }
+    ]
+  },
+  J38: {
+    "id": "J38",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "By such and such an offering",
+    "titleES": "Con tal o cual ofrenda",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J38; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "By such and such an offering",
+        "Con tal o cual ofrenda"
+      ],
+      [
+        "To Mr. So and So,",
+        "al señor Fulano de Tal,"
+      ],
+      [
+        "The web of life woven –",
+        "se teje la trama de la vida —"
+      ],
+      [
+        "So martyrs' albums show!",
+        "¡así lo muestran los álbumes de mártires!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La fórmula deliberadamente vaga de la ofrenda contrasta con el registro solemne del martirio: el poema ironiza sobre los modos de documentar el sacrificio."
+      }
+    ]
+  },
+  J39: {
+    "id": "J39",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "It did not surprise me –",
+    "titleES": "No me sorprendió —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J39; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "It did not surprise me –",
+        "No me sorprendió —"
+      ],
+      [
+        "So I said – or thought –",
+        "eso dije — o pensé —"
+      ],
+      [
+        "She will stir her pinions",
+        "que ella agitaría las alas"
+      ],
+      [
+        "And the nest forgot,",
+        "y olvidaría el nido,"
+      ],
+      [
+        "Traverse broader forests –",
+        "atravesaría bosques más amplios —"
+      ],
+      [
+        "Build in gayer boughs,",
+        "haría su casa en ramas más alegres,"
+      ],
+      [
+        "Breathe in Ear more modern",
+        "escucharía con oído más moderno"
+      ],
+      [
+        "God's old fashioned vows –",
+        "las antiguas promesas de Dios —"
+      ],
+      [
+        "This was but a Birdling –",
+        "No era más que un pajarillo —"
+      ],
+      [
+        "What and if it be",
+        "¿Y si resultara ser"
+      ],
+      [
+        "One within my bosom",
+        "uno que vivía en mi pecho"
+      ],
+      [
+        "Had departed me?",
+        "el que me abandonó?"
+      ],
+      [
+        "This was but a story –",
+        "No era más que una historia —"
+      ],
+      [
+        "What and if indeed",
+        "¿Y si de verdad"
+      ],
+      [
+        "There were just such coffin",
+        "hubiera un ataúd semejante"
+      ],
+      [
+        "In the heart instead?",
+        "dentro del corazón?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La partida aparentemente natural de un ave se transforma en imagen de una pérdida íntima: el nido vacío pasa a ser un ataúd interior."
+      }
+    ]
+  },
+  J40: {
+    "id": "J40",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "When I count the seeds",
+    "titleES": "Cuando cuento las semillas",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J40; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "When I count the seeds",
+        "Cuando cuento las semillas"
+      ],
+      [
+        "That are sown beneath,",
+        "sembradas bajo tierra,"
+      ],
+      [
+        "To bloom so, bye and bye –",
+        "para florecer, tarde o temprano —"
+      ],
+      [
+        "When I con the people",
+        "cuando estudio a las personas"
+      ],
+      [
+        "Lain so low,",
+        "que yacen tan abajo,"
+      ],
+      [
+        "To be received as high –",
+        "para ser recibidas en lo alto —"
+      ],
+      [
+        "When I believe the garden",
+        "cuando creo en el jardín"
+      ],
+      [
+        "Mortal shall not see –",
+        "que ningún mortal verá —"
+      ],
+      [
+        "Pick by faith its blossom",
+        "y recojo por fe su flor"
+      ],
+      [
+        "And avoid its Bee,",
+        "evitando su Abeja,"
+      ],
+      [
+        "I can spare this summer, unreluctantly.",
+        "puedo prescindir de este verano sin pesar."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La analogía entre germinación y resurrección convierte la renuncia al verano presente en una apuesta por un jardín invisible."
+      }
+    ]
+  },
+  J41: {
+    "id": "J41",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "I robbed the Woods –",
+    "titleES": "¡Robé en los Bosques! —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J41; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "I robbed the Woods –",
+        "¡Robé en los Bosques! —"
+      ],
+      [
+        "The trusting Woods.",
+        "los confiados Bosques."
+      ],
+      [
+        "The unsuspecting Trees",
+        "Los Árboles desprevenidos"
+      ],
+      [
+        "Brought out their Burs and mosses",
+        "sacaron sus abrojos y musgos"
+      ],
+      [
+        "My fantasy to please.",
+        "para complacer mi fantasía."
+      ],
+      [
+        "I scanned their trinkets curious –",
+        "Examiné sus curiosas baratijas —"
+      ],
+      [
+        "I grasped – I bore away –",
+        "tomé — me las llevé —"
+      ],
+      [
+        "What will the solemn Hemlock –",
+        "¿Qué dirá la solemne Cicuta —"
+      ],
+      [
+        "What will the Oak tree say?",
+        "qué dirá el Roble?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La recolección infantil se cuenta como robo, haciendo de los árboles testigos morales de una transgresión juguetona."
+      }
+    ]
+  },
+  J42: {
+    "id": "J42",
+    "franklin": null,
+    "approx": "c. 1858 (Johnson)",
+    "incipit": "A Day! Help! Help! Another Day!",
+    "titleES": "¡Un Día! ¡Auxilio! ¡Auxilio! ¡Otro Día!",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J42; edición base, pp. 22–24. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "A Day! Help! Help! Another Day!",
+        "¡Un Día! ¡Auxilio! ¡Auxilio! ¡Otro Día!"
+      ],
+      [
+        "Your prayers, oh Passer by!",
+        "¡Tus oraciones, oh Transeúnte!"
+      ],
+      [
+        "From such a common ball as this",
+        "De una bola tan corriente como esta"
+      ],
+      [
+        "Might date a Victory!",
+        "¡podría nacer una Victoria!"
+      ],
+      [
+        "From marshallings as simple",
+        "De formaciones tan sencillas"
+      ],
+      [
+        "The flags of nations swung.",
+        "ondearon las banderas de las naciones."
+      ],
+      [
+        "Steady – my soul: What issues",
+        "Firme — alma mía: ¡qué destinos"
+      ],
+      [
+        "Upon thine arrow hang!",
+        "penden de tu flecha!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La llegada de otro día se presenta como emergencia y oportunidad histórica: el yo se exhorta a no subestimar las consecuencias de sus actos."
+      }
+    ]
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
