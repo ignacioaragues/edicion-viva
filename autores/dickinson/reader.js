@@ -3,12 +3,9 @@
   const poems = window.ED_DICKINSON_POEMS || {};
   const library = document.getElementById('dickinson-poem-list');
   if (library) {
-    const entries = Object.values(poems).filter(p => p && /^J\\d+$/.test(p.id) && Array.isArray(p.lines)).sort((a,b) => Number(a.id.slice(1)) - Number(b.id.slice(1)));
+    const entries = Object.values(poems).filter(p => p && /^J\d+$/.test(p.id) && Array.isArray(p.lines)).sort((a,b) => Number(a.id.slice(1)) - Number(b.id.slice(1)));
     const index = document.getElementById('dickinson-poem-index');
     entries.forEach(poem => {
-      const mount = document.createElement('div');
-      mount.dataset.dickinsonPoem = poem.id;
-      library.append(mount);
       if (index) {
         const link = document.createElement('a');
         link.href = '#' + poem.id;
@@ -20,16 +17,16 @@
     document.querySelectorAll('[data-poem-count]').forEach(el => el.textContent = entries.length.toLocaleString('es'));
     document.querySelectorAll('[data-verse-count]').forEach(el => el.textContent = verses.toLocaleString('es'));
   }
-  const all = [...document.querySelectorAll('[data-dickinson-poem]')];
+  const all = [...document.querySelectorAll('body[data-page="curso"] [data-dickinson-poem]')];
   const make = (tag, className, content) => {
     const el = document.createElement(tag);
     if (className) el.className = className;
     if (content !== undefined) el.textContent = content;
     return el;
   };
-  for (const mount of all) {
+  const renderPoem = (mount) => {
     const poem = poems[mount.dataset.dickinsonPoem];
-    if (!poem) { mount.textContent = 'Poema todavía no incorporado.'; continue; }
+    if (!poem) { mount.textContent = 'Poema todavía no incorporado.'; return; }
     mount.classList.add('poem-view');
     mount.id = poem.id;
     const header = make('div', 'poem-heading');
@@ -79,6 +76,49 @@
       actions.append(a);
     }
     mount.append(actions);
+  };
+  all.forEach(renderPoem);
+  if (library) {
+    const ids = Object.keys(poems).filter(id => /^J\d+$/.test(id) && Array.isArray(poems[id].lines)).sort((a,b) => Number(a.slice(1))-Number(b.slice(1)));
+    const navigation = document.createElement('nav');
+    navigation.className = 'poem-pagination';
+    navigation.setAttribute('aria-label', 'Navegación entre poemas');
+    library.after(navigation);
+    const display = () => {
+      const requested = decodeURIComponent(location.hash.slice(1));
+      const id = ids.includes(requested) ? requested : ids[0];
+      if (!id) return;
+      library.replaceChildren();
+      const mount = document.createElement('div');
+      mount.dataset.dickinsonPoem = id;
+      library.append(mount);
+      renderPoem(mount);
+      navigation.replaceChildren();
+      const pos = ids.indexOf(id);
+      const makeLink = (target, label) => {
+        const a = document.createElement('a');
+        a.href = '#' + target;
+        a.textContent = label;
+        return a;
+      };
+      if (pos > 0) navigation.append(makeLink(ids[pos-1], '← Poema anterior'));
+      const position = document.createElement('span');
+      position.textContent = 'Poema ' + (pos+1) + ' de ' + ids.length;
+      navigation.append(position);
+      if (pos < ids.length-1) navigation.append(makeLink(ids[pos+1], 'Poema siguiente →'));
+      document.querySelectorAll('#dickinson-poem-index a').forEach(a => {
+        const active = a.getAttribute('href') === '#' + id;
+        a.classList.toggle('active', active);
+        if (active) a.setAttribute('aria-current','page');
+        else a.removeAttribute('aria-current');
+      });
+      document.title = id + ' · ' + poems[id].incipit + ' — Emily Dickinson · Edición Viva';
+    };
+    window.addEventListener('hashchange', () => {
+      display();
+      window.scrollTo({top:0,behavior:'instant'});
+    });
+    display();
   }
   const layout = document.getElementById('dickinson-reader-layout');
   const widthControl = document.getElementById('dickinson-reader-width');
