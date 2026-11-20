@@ -1,6 +1,25 @@
 /* Un único lector para el curso y el corpus; evita bifurcar las traducciones. */
 (function () {
   const poems = window.ED_DICKINSON_POEMS || {};
+  const library = document.getElementById('dickinson-poem-list');
+  if (library) {
+    const entries = Object.values(poems).filter(p => p && /^J\\d+$/.test(p.id) && Array.isArray(p.lines)).sort((a,b) => Number(a.id.slice(1)) - Number(b.id.slice(1)));
+    const index = document.getElementById('dickinson-poem-index');
+    entries.forEach(poem => {
+      const mount = document.createElement('div');
+      mount.dataset.dickinsonPoem = poem.id;
+      library.append(mount);
+      if (index) {
+        const link = document.createElement('a');
+        link.href = '#' + poem.id;
+        link.textContent = poem.id + ' · ' + poem.incipit;
+        index.append(link);
+      }
+    });
+    const verses = entries.reduce((sum, p) => sum + p.lines.length, 0);
+    document.querySelectorAll('[data-poem-count]').forEach(el => el.textContent = entries.length.toLocaleString('es'));
+    document.querySelectorAll('[data-verse-count]').forEach(el => el.textContent = verses.toLocaleString('es'));
+  }
   const all = [...document.querySelectorAll('[data-dickinson-poem]')];
   const make = (tag, className, content) => {
     const el = document.createElement(tag);
@@ -60,6 +79,35 @@
       actions.append(a);
     }
     mount.append(actions);
+  }
+  const layout = document.getElementById('dickinson-reader-layout');
+  const widthControl = document.getElementById('dickinson-reader-width');
+  const widthReset = document.querySelector('[data-width-reset]');
+  const indexToggle = document.querySelector('[data-toggle-index]');
+  if (layout && widthControl) {
+    const applyWidth = value => {
+      const width = Math.max(760, Math.min(1600, Number(value) || 1360));
+      document.documentElement.style.setProperty('--dickinson-reader-max', width + 'px');
+      widthControl.value = String(width);
+      try { localStorage.setItem('dickinson-reader-width', String(width)); } catch (_) {}
+    };
+    let stored = 1360;
+    try { stored = Number(localStorage.getItem('dickinson-reader-width')) || 1360; } catch (_) {}
+    applyWidth(stored);
+    widthControl.addEventListener('input', () => applyWidth(widthControl.value));
+    if (widthReset) widthReset.addEventListener('click', () => applyWidth(1360));
+  }
+  if (layout && indexToggle) {
+    const setIndex = hidden => {
+      layout.classList.toggle('index-hidden', hidden);
+      indexToggle.textContent = hidden ? 'Mostrar índice' : 'Ocultar índice';
+      indexToggle.setAttribute('aria-expanded', String(!hidden));
+      try { localStorage.setItem('dickinson-index-hidden', String(hidden)); } catch (_) {}
+    };
+    let hidden = false;
+    try { hidden = localStorage.getItem('dickinson-index-hidden') === 'true'; } catch (_) {}
+    setIndex(hidden);
+    indexToggle.addEventListener('click', () => setIndex(!layout.classList.contains('index-hidden')));
   }
   let currentSize = 17;
   const updateSize = () => document.documentElement.style.setProperty('--poem-size', currentSize + 'px');
