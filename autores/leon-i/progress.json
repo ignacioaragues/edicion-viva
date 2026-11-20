@@ -880,36 +880,39 @@
     {
       "group": "sermones",
       "number": 42,
-      "section": "Sermo XLII · De Quadragesima IV · capita I–II de VI",
-      "paragraphs": 9,
-      "aligned_units": 9,
+      "section": "Sermo XLII · De Quadragesima IV · capita I–VI",
+      "paragraphs": 23,
+      "aligned_units": 23,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6
       ],
       "total_chapters": 6,
-      "translation": "partial original Spanish translation aligned with Latin",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xlii/index.html",
-      "voice_notes": 6,
-      "lexical_coverage": "9 selective morphological entries; full token coverage pending",
+      "voice_notes": 13,
+      "lexical_coverage": "22 selective contextual entries; full token-by-token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II only; III–VI pending. Public Tractatus XLII transcription used; printed PL54 collation, exhaustive contextual morphology, dictionary integration and browser QA pending."
+      "editorial_caveat": "Complete first-pass text, six chapters and Amen, based on public Tractatus XLII. Printed PL54 collation, exhaustive contextual morphology, dictionary integration and browser QA pending. Romans 16:27 reference in source should read Romans 16:17–18; anti-Manichaean claims are Leo's polemic."
     }
   ],
-  "next": "Sermo XLII · De Quadragesima IV, caput III: His autem studiis, dilectissimi",
+  "next": "Sermo XLIII · De Quadragesima V, caput I",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 42,
-    "next_chapter": 3,
-    "total_chapters": 6,
-    "status": "partial"
+    "number": 43,
+    "next_chapter": 1,
+    "status": "not_started"
   },
   "priority_queue": [
     {
