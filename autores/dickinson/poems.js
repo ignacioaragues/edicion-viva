@@ -3630,6 +3630,94 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  J43: {
+    "id": "J43",
+    "franklin": "F59",
+    "approx": "c. 1858 (Johnson); c. 1859 (Franklin)",
+    "incipit": "Could live – did live –",
+    "titleES": "Podía vivir — vivió —",
+    "stanzaBreaks": [
+      5,
+      9
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J43; cotejo complementario con la concordancia J43/F59 de Giuseppe Ierolli (emilydickinson.it).",
+    "lines": [
+      [
+        "Could live – did live –",
+        "Podía vivir — vivió —"
+      ],
+      [
+        "Could die – did die –",
+        "Podía morir — murió —"
+      ],
+      [
+        "Could smile upon the whole",
+        "Podía sonreír ante todo"
+      ],
+      [
+        "Through faith in one he met not –",
+        "por la fe en alguien a quien no conoció —"
+      ],
+      [
+        "To introduce his soul –",
+        "para presentar su alma —"
+      ],
+      [
+        "Could go from scene familiar",
+        "Podía dejar un escenario conocido"
+      ],
+      [
+        "To an untraversed spot –",
+        "por un lugar jamás recorrido —"
+      ],
+      [
+        "Could contemplate the journey",
+        "Podía contemplar el viaje"
+      ],
+      [
+        "With unpuzzled heart –",
+        "con el corazón sin perplejidad —"
+      ],
+      [
+        "Such trust had one among us –",
+        "Tal confianza tenía uno de nosotros —"
+      ],
+      [
+        "Among us not today –",
+        "que hoy ya no está entre nosotros —"
+      ],
+      [
+        "We who saw the launching",
+        "Nosotros, que vimos la partida,"
+      ],
+      [
+        "Never sailed the Bay!",
+        "¡nunca navegamos la Bahía!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Fe en un desconocido",
+        "body": "El destinatario de la confianza no se nombra. Una lectura religiosa es posible, pero el texto no identifica explícitamente a esa figura con Dios."
+      },
+      {
+        "line": 5,
+        "title": "To introduce his soul",
+        "body": "La construcción puede sugerir presentarse ante alguien después de la muerte. Se conserva la extrañeza del infinitivo inglés."
+      },
+      {
+        "line": 9,
+        "title": "Unpuzzled",
+        "body": "La ausencia de perplejidad distingue al personaje de los observadores: su seguridad no se transmite automáticamente a quienes lo despiden."
+      },
+      {
+        "line": 13,
+        "title": "La bahía",
+        "body": "La metáfora de la botadura convierte la muerte en travesía. Los testigos ven partir la embarcación, pero no conocen su destino por experiencia propia."
+      }
+    ]
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
