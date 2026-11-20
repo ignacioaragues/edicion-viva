@@ -1915,6 +1915,115 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema construye una identidad a partir de un inventario mínimo: piezas de una flor, rocío, insectos y movimiento del aire. El último verso transforma la enumeración en una revelación juguetona: la voz no contempla la rosa, sino que habla como ella. La brevedad reproduce la ligereza de una adivinanza.",
   "preest": "Preest entiende los cuatro primeros versos como una pregunta implícita cuya solución llega al final. Esa lectura de acertijo explica la economía extrema del texto y su exclamación conclusiva."
 },
+  J20: {
+    "id": "J20",
+    "franklin": "F26–F27 (Franklin divide las dos estrofas)",
+    "approx": "c. 1858",
+    "incipit": "Distrustful of the Gentian",
+    "stanzaBreaks": [
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J20; cotejo con transcripción de University of Pennsylvania y facsímil textual en emilydickinson.nl. Franklin F26–F27.",
+    "lines": [
+      [
+        "Distrustful of the Gentian –",
+        "Desconfiaba de la Genciana —"
+      ],
+      [
+        "And just to turn away,",
+        "y justo cuando iba a apartarme,"
+      ],
+      [
+        "The fluttering of her fringes",
+        "el temblor de sus flecos"
+      ],
+      [
+        "Chid my perfidy –",
+        "reprendió mi deslealtad —"
+      ],
+      [
+        "Weary for my –––––",
+        "Cansada de mi —————"
+      ],
+      [
+        "I will singing go –",
+        "me iré cantando —"
+      ],
+      [
+        "I shall not feel the sleet – then –",
+        "no sentiré el aguanieve — entonces —"
+      ],
+      [
+        "I shall not fear the snow.",
+        "ni temeré la nieve."
+      ],
+      [
+        "Flees so the phantom meadow",
+        "Así huye el prado fantasmal"
+      ],
+      [
+        "Before the breathless Bee –",
+        "ante la Abeja sin aliento —"
+      ],
+      [
+        "So bubble brooks in deserts",
+        "así murmuran arroyos en desiertos"
+      ],
+      [
+        "On Ears that dying lie –",
+        "para Oídos que agonizan —"
+      ],
+      [
+        "Burn so the Evening Spires",
+        "así arden las Torres del Ocaso"
+      ],
+      [
+        "To Eyes that Closing go –",
+        "ante Ojos que van cerrándose —"
+      ],
+      [
+        "Hangs so distant Heaven –",
+        "así pende el Cielo distante —"
+      ],
+      [
+        "To a hand below.",
+        "sobre una mano aquí abajo."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Gentian",
+        "body": "La genciana florece al final de la estación cálida: su presencia anuncia el invierno. El nombre se mantiene como «Genciana»."
+      },
+      {
+        "line": 4,
+        "title": "Chid, no Child",
+        "body": "«Chid» es el pretérito de «chide» (reprender). Algunas transcripciones digitales presentan erróneamente «Child»."
+      },
+      {
+        "line": 5,
+        "title": "Una frase suspendida",
+        "body": "La larga raya después de «my» deja sin expresar aquello que fatiga a la voz. No completamos la elipsis en español."
+      },
+      {
+        "line": 9,
+        "title": "El prado fantasmal",
+        "body": "El segundo movimiento encadena imágenes que se desvanecen cuando más se desean: prado, agua, luz y cielo."
+      },
+      {
+        "line": 13,
+        "title": "Evening Spires",
+        "body": "«Spires» puede evocar agujas de iglesia o puntas elevadas contra el atardecer. La traducción «Torres del Ocaso» conserva la imagen arquitectónica sin fijar una iglesia concreta."
+      },
+      {
+        "line": 1,
+        "title": "División editorial",
+        "body": "Johnson presenta dieciséis versos en un poema; Franklin asigna números separados F26 y F27 a las dos estrofas. Aquí se respeta la unidad J20 y se señala la discrepancia."
+      }
+    ],
+    "interpretation": "La voz mira con sospecha la flor tardía: su belleza no niega el invierno, sino que lo anuncia. El reproche de la genciana vuelve moral una retirada aparentemente insignificante: apartar los ojos de una flor equivale a traicionar una promesa de atención. La resolución de marcharse cantando y no temer la nieve suena a desafío, pero también a conjuro frágil. La segunda estrofa radicaliza esa fragilidad mediante cuatro escenas de pérdida: un prado que escapa a la abeja exhausta, arroyos que parecen sonar para quien muere en el desierto, agujas iluminadas ante ojos que se cierran y un cielo suspendido demasiado lejos de la mano que intenta alcanzarlo. No es seguro que el poema niegue la esperanza; muestra más bien la distancia dolorosa entre la promesa percibida y su posesión. La elipsis del quinto verso impide convertir esa experiencia en una confesión biográfica precisa."
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
