@@ -2024,6 +2024,46 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "La voz mira con sospecha la flor tardía: su belleza no niega el invierno, sino que lo anuncia. El reproche de la genciana vuelve moral una retirada aparentemente insignificante: apartar los ojos de una flor equivale a traicionar una promesa de atención. La resolución de marcharse cantando y no temer la nieve suena a desafío, pero también a conjuro frágil. La segunda estrofa radicaliza esa fragilidad mediante cuatro escenas de pérdida: un prado que escapa a la abeja exhausta, arroyos que parecen sonar para quien muere en el desierto, agujas iluminadas ante ojos que se cierran y un cielo suspendido demasiado lejos de la mano que intenta alcanzarlo. No es seguro que el poema niegue la esperanza; muestra más bien la distancia dolorosa entre la promesa percibida y su posesión. La elipsis del quinto verso impide convertir esa experiencia en una confesión biográfica precisa."
   },
+  J21: {
+    "id": "J21",
+    "franklin": "F28",
+    "approx": "c. 1858",
+    "incipit": "We lose – because we win –",
+    "titleES": "Perdemos — porque ganamos —",
+    "source": "Thomas H. Johnson, The Complete Poems, J21; cotejo con emilydickinson.it, J21/F28 y transcripción Johnson digital. Comentario editorial propio; Preest pendiente de consulta directa.",
+    "lines": [
+      [
+        "We lose – because we win –",
+        "Perdemos — porque ganamos —"
+      ],
+      [
+        "Gamblers – recollecting which",
+        "Jugadores — que recuerdan cuál de las dos cosas —"
+      ],
+      [
+        "Toss their dice again!",
+        "¡vuelven a lanzar sus dados!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La victoria como pérdida",
+        "body": "La paradoja no equivale a decir que toda victoria sea inútil: ganar puede extinguir la tensión del deseo que sostenía el juego."
+      },
+      {
+        "line": 2,
+        "title": "Which",
+        "body": "El relativo deja en suspenso qué recuerdan los jugadores: ganar o perder. La frase obliga a volver sobre el primer verso."
+      },
+      {
+        "line": 3,
+        "title": "Toss their dice again",
+        "body": "El retorno al azar transforma la experiencia en repetición. Incluso el recuerdo de las pérdidas no detiene la apuesta."
+      }
+    ],
+    "interpretation": "En apenas tres versos, Dickinson transforma una sentencia aparentemente contradictoria en una pequeña escena de conducta humana. La ganancia contiene una pérdida posible: la desaparición del deseo que daba valor a la espera. El segundo verso, deliberadamente elíptico, no aclara si los jugadores recuerdan la victoria o la derrota. Esa vacilación importa: cualquiera de las dos experiencias puede devolverlos a la mesa. El tercer verso no resuelve el dilema moral, sino que muestra su persistencia. El juego puede leerse literalmente, pero también como figura de la esperanza, la ambición y la repetición del deseo. No es necesario convertirlo en una doctrina universal sobre el fracaso: la fuerza del poema está en la ambigüedad entre experiencia y compulsión."
+  },
   J185: {
     id: "J185", franklin: "F202", approx: "c. 1860",
     incipit: "“Faith” is a fine invention",
