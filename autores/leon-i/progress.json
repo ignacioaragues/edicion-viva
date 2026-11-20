@@ -730,21 +730,45 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All four parts and final Amen translated using public Tractatus XXXV Latin transcription. Printed Ballerini–Migne PL54 collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending; anti-Jewish polemic is historically contextualized."
+    },
+    {
+      "group": "sermones",
+      "number": 36,
+      "section": "Sermo XXXVI · In Epiphania Domini VI · partes I–IV",
+      "paragraphs": 33,
+      "aligned_units": 33,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxvi/index.html",
+      "voice_notes": 8,
+      "lexical_coverage": "18 selected contextual forms; full token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four sections and Amen from public Tractatus XXXVI transcription; full printed PL54 collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending. Historical anti-Jewish polemic contextualized."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 36,
-    "section": "Sermo XXXVI · In Epiphania Domini VI · pars I"
+    "number": 37,
+    "section": "Sermo XXXVII · In Epiphania Domini VII · pars I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 36,
+    "number": 37,
     "status": "not_started",
-    "next": "Sermo XXXVI pars I"
+    "next": "Sermo XXXVII pars I"
   },
   "priority_queue": [
     {
