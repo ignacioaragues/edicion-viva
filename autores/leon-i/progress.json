@@ -710,11 +710,12 @@
     {
       "group": "sermones",
       "number": 35,
-      "section": "Sermo XXXV In Epiphania Domini V, pars I only",
-      "paragraphs": 5,
-      "aligned_units": 5,
+      "section": "Sermo XXXV In Epiphania Domini V, partes I–II",
+      "paragraphs": 21,
+      "aligned_units": 21,
       "published_chapters": [
-        1
+        1,
+        2
       ],
       "total_chapters": 4,
       "translation": "partial original aligned Spanish translation",
@@ -722,26 +723,25 @@
       "translation_complete": false,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxxv/index.html",
-      "voice_notes": 4,
+      "voice_notes": 7,
       "lexical_coverage": "10 selective contextual entries; full word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "First section only from public Tractatus XXXV digital transcription. Printed PL54 collation, full contextual morphology and browser QA pending. Anti-Jewish rhetoric contextualized."
+      "editorial_caveat": "Parts I–II translated from public Tractatus XXXV; parts III–IV not yet translated. Printed PL54 collation, contextual word-by-word morphology, shared dictionary and browser QA pending. Anti-Jewish rhetoric is contextualized as historical polemic."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 35,
-    "section": "Sermo XXXV pars II",
-    "incipit": "Permanet igitur, dilectissimi, sicut euidenter apparet",
+    "section": "Sermo XXXV pars III",
+    "incipit": "Quod ergo ad ueram, dilectissimi, pertinet caritatem",
     "remaining_chapters": [
-      2,
       3,
       4
     ]
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20 · Sermo XXXV part I published, partial",
+  "last_edit": "2026-11-20: Sermo XXXV partes I–II (21 unidades) publicadas; estado parcial",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": null,
   "priority_queue": [
