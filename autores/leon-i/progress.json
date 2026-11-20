@@ -621,17 +621,39 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Seven chapters and Amen translated, digital Tractatus XXX Latin source. Orthography and enclitic spacing normalized; full Ballerini–Migne printed collation, contextual token morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 31,
+      "section": "Sermo XXXI · In Epiphania Domini I · partes I–III",
+      "paragraphs": 24,
+      "aligned_units": 24,
+      "published_chapters": [
+        1,
+        2,
+        3
+      ],
+      "total_chapters": 3,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxi/index.html",
+      "voice_notes": 7,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All three sections and 24 aligned units translated from public digital Tractatus XXXI. Printed Ballerini–Migne PL54 collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XXXI, In Nativitate Domini XI; Sermo XXX contextual morphology and printed PL54 collation pending",
+  "next": "Sermo XXXII · In Epiphania Domini II; Sermo XXXI morphology and printed collation pending",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XXX complete first-pass Latin/Spanish, 7 chapters, 30 aligned units; morphology and print collation pending.",
+  "last_edit": "2026-11-20: Sermo XXXI complete first-pass Latin/Spanish, three parts, 24 aligned units; print collation and morphology pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 31,
+    "number": 32,
     "section": "not yet started",
-    "next": "Sermo XXXI, chapter I"
+    "next": "Sermo XXXII, part I"
   },
   "priority_queue": [
     {
