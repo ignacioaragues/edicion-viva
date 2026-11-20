@@ -2185,12 +2185,25 @@
         "https://biblia.com/bible/sblgnt/mark/8/22-26",
         "https://lemma.gebible.app/v/mark/8/22"
       ]
+    },
+    {
+      "chapter": 8,
+      "from": 23,
+      "to": 23,
+      "status": "edited_not_revised",
+      "morphology": "26/26 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://tips.translation.bible/tip_verse/mark-823/page/2/",
+        "https://lemma.gebible.app/v/mark/8/23"
+      ]
     }
   ],
   "pending": "Continuar Marcos 8,22; segunda revisión filológica contextual pendiente.",
   "next": {
     "chapter": 8,
-    "verse": 23
+    "verse": 24
   },
   "last_edit": "2026-11-20",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -4715,6 +4728,18 @@
       "https://biblia.com/bible/sblgnt/mark/8/22-26",
       "https://lemma.gebible.app/v/mark/8/22",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+    ]
+  },
+  "prepublication_research_8_23": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "26/26",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://tips.translation.bible/tip_verse/mark-823/page/2/",
+      "https://lemma.gebible.app/v/mark/8/23"
     ]
   }
 }
