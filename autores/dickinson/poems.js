@@ -1365,6 +1365,227 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El paisaje muda de color y de forma, mientras la hablante descubre con asombro la repetición anual. La combinación de la rotación terrestre con los doce meses no constituye una explicación científica: comprime en una imagen el movimiento de la Tierra y la transformación de la mirada. El poema encuentra lo maravilloso en lo familiar, detrás de la ciudad natal."
 },
+  J7: {
+  "id": "J7",
+  "franklin": "pendiente de cotejo",
+  "approx": "c. 1858",
+  "incipit": "The feet of people walking home",
+  "titleES": "The feet of people walking home",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems, J7; interpretación propia; Preest pendiente de cotejo.",
+  "lines": [
+    [
+      "The feet of people walking home",
+      "Los pies de quienes vuelven a casa"
+    ],
+    [
+      "With gayer sandals go —",
+      "caminan con sandalias más alegres;"
+    ],
+    [
+      "The Crocus — till she rises",
+      "el azafrán, hasta que brota,"
+    ],
+    [
+      "The Vassal of the snow —",
+      "es vasallo de la nieve."
+    ],
+    [
+      "The lips at Hallelujah",
+      "Los labios que dicen aleluya"
+    ],
+    [
+      "Long years of practise bore",
+      "soportaron largos años de práctica,"
+    ],
+    [
+      "Till bye and bye these Bargemen",
+      "hasta que al fin esos barqueros"
+    ],
+    [
+      "Walked singing on the shore.",
+      "caminaron cantando por la orilla."
+    ],
+    [
+      "Pearls are the Diver's farthings",
+      "Las perlas son monedas del buzo"
+    ],
+    [
+      "Extorted from the Sea —",
+      "arrancadas al mar;"
+    ],
+    [
+      "Pinions — the Seraph's wagon",
+      "las alas, el carruaje del serafín,"
+    ],
+    [
+      "Pedestrian once — as we —",
+      "antes peatón, como nosotros."
+    ],
+    [
+      "Night is the morning's Canvas",
+      "La noche es el lienzo de la mañana;"
+    ],
+    [
+      "Larceny — legacy —",
+      "hurto y herencia;"
+    ],
+    [
+      "Death, but our rapt attention",
+      "la muerte, apenas nuestra atención absorta"
+    ],
+    [
+      "To Immortality.",
+      "en la inmortalidad."
+    ],
+    [
+      "My figures fail to tell me",
+      "Mis cálculos no alcanzan a decirme"
+    ],
+    [
+      "How far the Village lies —",
+      "cuán lejos está la aldea"
+    ],
+    [
+      "Whose peasants are the Angels —",
+      "cuyos campesinos son ángeles"
+    ],
+    [
+      "Whose Cantons dot the skies —",
+      "y cuyos cantones salpican el cielo."
+    ],
+    [
+      "My Classics veil their faces —",
+      "Mis clásicos se cubren el rostro;"
+    ],
+    [
+      "My faith that Dark adores —",
+      "mi fe adora esa Oscuridad"
+    ],
+    [
+      "Which from its solemn abbeys",
+      "que desde sus solemnes abadías"
+    ],
+    [
+      "Such resurrection pours.",
+      "derrama tanta resurrección."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 17,
+      "title": "Los cálculos",
+      "body": "La distancia al más allá no es mensurable; «figures» admite también el sentido de figuras discursivas."
+    }
+  ],
+  "interpretation": "El regreso a casa se amplía hasta convertirse en una conjetura sobre la inmortalidad. El poema no ofrece una cartografía segura del más allá: los cálculos fracasan y los clásicos callan. Frente a esa insuficiencia, la fe se orienta hacia una oscuridad paradójicamente fecunda. Las imágenes del azafrán, los barqueros y los buzos sugieren que la llegada o el tesoro exigen antes una travesía."
+},
+  J8: {
+  "id": "J8",
+  "franklin": "pendiente de cotejo",
+  "approx": "c. 1858",
+  "incipit": "There is a word",
+  "titleES": "There is a word",
+  "stanzaBreaks": [
+    5,
+    10,
+    14
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems, J8; interpretación propia; Preest pendiente de cotejo.",
+  "lines": [
+    [
+      "There is a word",
+      "Hay una palabra"
+    ],
+    [
+      "Which bears a sword",
+      "que lleva una espada"
+    ],
+    [
+      "Can pierce an armed man —",
+      "capaz de atravesar a un hombre armado;"
+    ],
+    [
+      "It hurls its barbed syllables",
+      "lanza sus sílabas erizadas de púas"
+    ],
+    [
+      "And is mute again —",
+      "y vuelve a callar."
+    ],
+    [
+      "But where it fell",
+      "Pero allí donde cayó,"
+    ],
+    [
+      "The saved will tell",
+      "los salvados contarán,"
+    ],
+    [
+      "On patriotic day,",
+      "en el día patriótico,"
+    ],
+    [
+      "Some epauletted Brother",
+      "que algún hermano con charreteras"
+    ],
+    [
+      "Gave his breath away.",
+      "entregó su aliento."
+    ],
+    [
+      "Wherever runs the breathless sun —",
+      "Por donde corre el sol sin aliento,"
+    ],
+    [
+      "Wherever roams the day —",
+      "por donde vaga el día,"
+    ],
+    [
+      "There is its noiseless onset —",
+      "allí está su silencioso avance,"
+    ],
+    [
+      "There is its victory!",
+      "allí está su victoria."
+    ],
+    [
+      "Behold the keenest marksman!",
+      "¡Ved al tirador más certero,"
+    ],
+    [
+      "The most accomplished shot!",
+      "al disparo más consumado!"
+    ],
+    [
+      "Time's sublimest target",
+      "El blanco más sublime del Tiempo"
+    ],
+    [
+      "Is a soul \"forgot!\"",
+      "es un alma «olvidada»."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Sílabas punzantes",
+      "body": "La palabra se representa como un proyectil que hiere y desaparece."
+    },
+    {
+      "line": 18,
+      "title": "Olvidada",
+      "body": "Las comillas del original marcan el término como problemático."
+    }
+  ],
+  "interpretation": "La violencia verbal aparece como una herida que atraviesa incluso la armadura. El vocabulario militar y patriótico transforma la ofensa íntima en una batalla de memoria: el homenaje público a los caídos contrasta con el alma olvidada del cierre. La identidad de la «palabra» queda abierta, y la última imagen desplaza el triunfo de la puntería hacia la crueldad del olvido."
+},
   J14: {
     id: "J14", franklin: "F5", approx: "c. 1858",
     incipit: "One Sister have I in our house,",
