@@ -312,9 +312,12 @@
     ,{"chapter":8,"n":19,"gr":"ὅτε τοὺς πέντε ἄρτους ἔκλασα εἰς τοὺς πεντακισχιλίους, πόσους κοφίνους κλασμάτων πλήρεις ἤρατε; λέγουσιν αὐτῷ· Δώδεκα.","es":"Cuando partí los cinco panes para los cinco mil, ¿cuántos cestos llenos de trozos recogieron? Le responden: «Doce».","la":"","notes":["mc819baskets","mc819syntax"]}
     ,{"chapter":8,"n":20,"gr":"ὅτε καὶ τοὺς ἑπτὰ εἰς τοὺς τετρακισχιλίους, πόσων σπυρίδων πληρώματα κλασμάτων ἤρατε; καὶ λέγουσιν αὐτῷ· Ἑπτά.","es":"Y cuando repartí los siete panes entre los cuatro mil, ¿cuántas canastas llenas de trozos recogieron? Ellos le responden: «Siete».","la":"","notes":["mc820syntax","mc820text"]}
     ,{"chapter":8,"n":21,"gr":"καὶ ἔλεγεν αὐτοῖς· Οὔπω συνίετε;","es":"Y les decía: «¿Todavía no entienden?».","la":"","notes":["mc821question","mc821variant"]}
+    ,{"n":22,"gr":"Καὶ ἔρχονται εἰς Βηθσαϊδάν. καὶ φέρουσιν αὐτῷ τυφλὸν καὶ παρακαλοῦσιν αὐτὸν ἵνα αὐτοῦ ἅψηται.","es":"Llegan a Betsaida. Allí le llevan a un ciego y le ruegan que lo toque.","la":"","notes":["mc822bethsaida","mc822touch"]}
   ];
 
   const notes = {
+    mc822bethsaida: ["Betsaida y la geografía", "El relato utiliza el presente histórico ἔρχονται y denomina κώμη («aldea») a Betsaida en 8,23. La identificación topográfica exacta es discutida; Meyer la relaciona con Betsaida-Julias, pero no debe darse por segura. H. A. W. Meyer, comentario a Mc 8,22, https://lemma.gebible.app/v/mark/8/22."],
+    mc822touch: ["Petición de contacto", "ἵνα αὐτοῦ ἅψηται introduce lo que piden los acompañantes: que lo toque. El sujeto de φέρουσιν y παρακαλοῦσιν no está identificado; el texto no los llama familiares ni discípulos. Michael W. Holmes (ed.), SBLGNT (2010), Mc 8,22, https://biblia.com/bible/sblgnt/mark/8/22-26."],
     mc821question: ["La pregunta final", "El imperfecto ἔλεγεν presenta la intervención en desarrollo («les decía»); οὔπω («todavía no») retoma la falta de comprensión de 8,17. El diálogo concluye antes de la curación gradual de 8,22–26; el paralelismo entre comprensión y visión es una interpretación literaria posible. Holmes (ed.), SBLGNT (2010), Mc 8,17–22: https://biblia.com/bible/sblgnt/mark/8/21."],
     mc821variant: ["Una pregunta con variantes", "La SBLGNT lee Οὔπω συνίετε; («¿Todavía no entienden?»). El aparato de Holmes registra Πῶς en Tregelles y Πῶς οὐ en Robinson-Pierpont; las lecturas cambian el matiz temporal e interrogativo. Holmes, aparato a Mc 8,21: https://biblia.com/bible/sblgnt/mark/8; H. A. W. Meyer, comentario a Mc 8,21: https://biblehub.com/commentaries/meyer/mark/8.htm."],
 
