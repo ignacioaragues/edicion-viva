@@ -44,6 +44,7 @@
     if (poem.interpretation) {
       const reading = make('section', 'poem-interpretation');
       reading.append(make('h4', '', 'Interpretación'), make('p', '', poem.interpretation));
+      if (poem.preest) reading.append(make('h4', '', 'La lectura de David Preest'), make('p', '', poem.preest));
       mount.append(reading);
     }
     const source = make('p', 'poem-source', 'Fuentes: ' + poem.source);
