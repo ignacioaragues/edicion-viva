@@ -806,28 +806,33 @@
     {
       "group": "sermones",
       "number": 39,
-      "section": "Sermo XXXIX · De Quadragesima I · capita I–II de VI",
-      "paragraphs": 6,
-      "aligned_units": 6,
+      "section": "Sermo XXXIX · De Quadragesima I · capita I–VI",
+      "paragraphs": 21,
+      "aligned_units": 21,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6
       ],
       "total_chapters": 6,
-      "translation": "partial original aligned Spanish translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xxxix/index.html",
-      "voice_notes": 5,
+      "voice_notes": 9,
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Latin from public Tractatus XXXIX digital transcription, uncollated with printed PL54. Source typo mandatotum flagged. Selective lexical notes only; contextual morphology, dictionary integration and browser QA pending."
+      "editorial_caveat": "All six chapters and final Amen translated from public Tractatus XXXIX transcription. Source typo mandatotum retained and flagged. Printed PL54 collation, exhaustive morphology, dictionary integration and browser QA pending.",
+      "lexical_coverage": "23 selective contextual entries; exhaustive token morphology pending"
     }
   ],
-  "next": "Sermo XXXIX, caput III, Accedentes ergo, dilectissimi, ad Quadragesimae initium; finish chapters III–VI",
+  "next": "Sermo XL · De Quadragesima II, caput I",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XXXIX (De Quadragesima I) chapters I-II, six aligned units, partial; title corrected from previously anticipated Epiphany IX.",
+  "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
