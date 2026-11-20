@@ -658,17 +658,42 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Latin based on public Tractatus XXXII transcription; full printed PL54 collation, contextual token morphology, shared dictionary integration and browser QA pending. Anti-Jewish rhetoric identified as polemic."
+    },
+    {
+      "group": "sermones",
+      "number": 33,
+      "section": "Sermo XXXIII · In Epiphania Domini III · pars I",
+      "paragraphs": 4,
+      "aligned_units": 4,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 5,
+      "translation": "original aligned Spanish translation of part I only",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxiii/index.html",
+      "voice_notes": 4,
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Part I only. Digital Tractatus XXXIII has two divergent transcriptions; second continuous version provisionally used. Selective morphology only; printed PL54 collation and full contextual token cards pending."
     }
   ],
-  "next": "Sermo XXXII · In Epiphania Domini II; Sermo XXXI morphology and printed collation pending",
+  "next": "Sermo XXXIII · pars II, beginning Huius autem, dilectissimi, ineffabilis misericordiae manifestatio; complete parts II–V before moving on",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XXXI complete first-pass Latin/Spanish, three parts, 24 aligned units; print collation and morphology pending.",
+  "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 32,
-    "section": "not yet started",
-    "next": "Sermo XXXII, part I"
+    "number": 33,
+    "status": "partial",
+    "completed_sections": [
+      1
+    ],
+    "total_sections": 5,
+    "next_section": 2,
+    "next_incipit": "Huius autem, dilectissimi, ineffabilis misericordiae manifestatio"
   },
   "priority_queue": [
     {
