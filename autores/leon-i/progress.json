@@ -853,15 +853,38 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All five chapters and final Amen translated from public Tractatus XL transcription. Printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 41,
+      "section": "Sermo XLI · De Quadragesima III · capita I–III",
+      "paragraphs": 13,
+      "aligned_units": 13,
+      "published_chapters": [
+        1,
+        2,
+        3
+      ],
+      "total_chapters": 3,
+      "translation": "complete original first-pass Spanish translation aligned with Latin",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xli/index.html",
+      "voice_notes": 8,
+      "lexical_coverage": "18 selective contextual lexical entries; exhaustive token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Three chapters and Amen included. Based on public Latin transcription; printed PL54 collation, exhaustive token morphology, dictionary integration and browser QA pending."
     }
   ],
-  "next": "Sermo XLI · De Quadragesima III, caput I",
+  "next": "Sermo XLII · De Quadragesima IV, caput I",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-20: Sermo XL complete first-pass bilingual reader (18 units, five chapters); print collation and exhaustive morphology remain pending.",
+  "last_edit": "2026-11-20: Sermo XLI complete first-pass bilingual reader (13 units, three chapters); print collation and exhaustive morphology pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 41,
+    "number": 42,
     "status": "not_started",
     "next": "caput I"
   },
