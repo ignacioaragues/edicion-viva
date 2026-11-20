@@ -24,3 +24,8 @@ body[data-page="edicion"] .reader-controls{position:sticky;top:0;z-index:5;backg
 body[data-page="edicion"] .meta-line strong{font-weight:600}
 @media(max-width:900px){body[data-page="edicion"] .page-grid{grid-template-columns:175px minmax(0,1fr);gap:20px}}
 @media(max-width:650px){body[data-page="edicion"] .page-grid,body[data-page="edicion"] .page-grid.index-hidden{display:block}body[data-page="edicion"] .page-grid.index-hidden .rail{display:none}body[data-page="edicion"] .poem-line{display:block}body[data-page="edicion"] .poem-grid-head{display:block}body[data-page="edicion"] .reader-controls{position:static}.reader-width-label{display:none}body[data-page="edicion"] [data-width-reset]{display:none}}
+
+body[data-page="edicion"] .poem-pagination{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--rule);padding:22px 0;margin:16px 0 38px;font-size:13px}
+body[data-page="edicion"] .poem-pagination a{color:var(--accent);text-decoration:none;border-bottom:1px solid var(--rule);padding-bottom:3px}
+body[data-page="edicion"] .poem-pagination span{color:var(--muted);font-size:12px}
+body[data-page="edicion"] #dickinson-poem-index{max-height:65vh;overflow-y:auto;padding-right:10px;scrollbar-width:thin}
