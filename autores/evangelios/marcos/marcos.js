@@ -318,7 +318,7 @@
     ,{"n":25,"gr":"εἶτα πάλιν ἐπέθηκεν τὰς χεῖρας ἐπὶ τοὺς ὀφθαλμοὺς αὐτοῦ, καὶ διέβλεψεν καὶ ἀπεκατέστη καὶ ἐνέβλεπεν τηλαυγῶς ἅπαντα.","es":"Después volvió a ponerle las manos sobre los ojos. Entonces el hombre vio con claridad, recuperó la vista y distinguía nítidamente todas las cosas.","la":"","notes":["mc825verbs","mc825variants"]}
     ,{"n":26,"gr":"καὶ ἀπέστειλεν αὐτὸν εἰς οἶκον αὐτοῦ λέγων· Μηδὲ εἰς τὴν κώμην εἰσέλθῃς.","es":"Y lo envió a su casa, diciéndole: «Ni siquiera entres en la aldea».","la":"","notes":["mc826departure","mc826variants"]}
     ,{"n":27,"gr":"Καὶ ἐξῆλθεν ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὰς κώμας Καισαρείας τῆς Φιλίππου· καὶ ἐν τῇ ὁδῷ ἐπηρώτα τοὺς μαθητὰς αὐτοῦ λέγων αὐτοῖς· Τίνα με λέγουσιν οἱ ἄνθρωποι εἶναι;","es":"Jesús salió con sus discípulos hacia las aldeas de Cesarea de Filipo. Por el camino preguntaba a sus discípulos: «¿Quién dice la gente que soy yo?»","la":"","notes":["mc827villages","mc827syntax"]}
-    ,{"n":28,"gr":"οἱ δὲ εἶπαν αὐτῷ λέγοντες ὅτι Ἰωάννην τὸν βαπτιστήν, καὶ ἄλλοι Ἠλίαν, ἄλλοι δὲ ὅτι εἷς τῶν προφητῶν.","es":"Ellos le dijeron: «Unos dicen que sos Juan el Bautista; otros, Elías; y otros, uno de los profetas».","la":"","notes":["mc828syntax","mc828variant"]}
+    ,{"n":28,"gr":"οἱ δὲ εἶπαν αὐτῷ λέγοντες ὅτι Ἰωάννην τὸν βαπτιστήν, καὶ ἄλλοι Ἠλίαν, ἄλλοι δὲ ὅτι εἷς τῶν προφητῶν.","es":"Ellos le dijeron: «Unos dicen que eres Juan el Bautista; otros, Elías; y otros, uno de los profetas».","la":"","notes":["mc828syntax","mc828variant"]}
   ];
 
   const notes = {
