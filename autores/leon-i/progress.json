@@ -754,21 +754,41 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All four sections and Amen from public Tractatus XXXVI transcription; full printed PL54 collation, exhaustive contextual token morphology, shared dictionary integration and browser QA pending. Historical anti-Jewish polemic contextualized."
+    },
+    {
+      "group": "sermones",
+      "number": 37,
+      "section": "Sermo XXXVII · In Epiphania Domini VII · partes I–IV",
+      "paragraphs": 26,
+      "aligned_units": 26,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xxxvii/index.html",
+      "voice_notes": 7,
+      "lexical_coverage": "10 selected contextual lexical entries; full token-by-token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four parts translated from public Tractatus XXXVII Latin transcription; printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending. Source transcription has no explicit Amen; no ending invented."
     }
   ],
-  "next": {
-    "group": "sermones",
-    "number": 37,
-    "section": "Sermo XXXVII · In Epiphania Domini VII · pars I"
-  },
+  "next": "Sermo XXXVIII · In Epiphania Domini VIII; Sermo XXXVII full morphology and critical collation pending",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-20",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 37,
+    "number": 38,
     "status": "not_started",
-    "next": "Sermo XXXVII pars I"
+    "next": "Sermo XXXVIII, caput I"
   },
   "priority_queue": [
     {
