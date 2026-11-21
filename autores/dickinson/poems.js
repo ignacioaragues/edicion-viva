@@ -7139,4 +7139,509 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema imagina la muerte de una criatura juguetona mediante un paso casi imperceptible hacia la aparición fantasmal; la comparación orientalizante pertenece al imaginario decimonónico.",
   "preest": null
 }
+,
+  J76: {
+  "id": "J76",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Exultation is the going",
+  "titleES": "El júbilo es la partida",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J76 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "Exultation is the going",
+      "El júbilo es la partida"
+    ],
+    [
+      "Of an inland soul to sea,",
+      "de un alma de tierra adentro hacia el mar,"
+    ],
+    [
+      "Past the houses – past the headlands –",
+      "más allá de las casas, más allá de los cabos,"
+    ],
+    [
+      "Into deep Eternity –",
+      "hacia la honda Eternidad."
+    ],
+    [
+      "Bred as we, among the mountains,",
+      "Criado, como nosotros, entre montañas,"
+    ],
+    [
+      "Can the sailor understand",
+      "¿puede el marinero comprender"
+    ],
+    [
+      "The divine intoxication",
+      "la divina embriaguez"
+    ],
+    [
+      "Of the first league out from land?",
+      "de la primera legua lejos de tierra?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Exultation",
+      "body": "No es solo alegría: designa una exaltación intensa, casi religiosa."
+    },
+    {
+      "line": 8,
+      "title": "league",
+      "body": "Unidad de distancia marítima o terrestre; su concreción contrasta con la eternidad."
+    }
+  ],
+  "interpretation": "El tránsito del interior al mar convierte la partida en una experiencia de libertad y trascendencia. La pregunta final separa la percepción del viajero habituado de la del alma que descubre por primera vez lo ilimitado.",
+  "preest": null
+}
+,
+  J77: {
+  "id": "J77",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "I never hear the word \"escape\"",
+  "titleES": "Nunca oigo la palabra «fuga»",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J77 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "I never hear the word \"escape\"",
+      "Nunca oigo la palabra «fuga»"
+    ],
+    [
+      "Without a quicker blood,",
+      "sin que la sangre se me acelere,"
+    ],
+    [
+      "A sudden expectation,",
+      "sin una súbita expectación,"
+    ],
+    [
+      "A flying attitude!",
+      "¡sin adoptar una actitud de vuelo!"
+    ],
+    [
+      "I never hear of prisons broad",
+      "Nunca oigo hablar de grandes prisiones"
+    ],
+    [
+      "By soldiers battered down,",
+      "derribadas por soldados,"
+    ],
+    [
+      "But I tug childish at my bars",
+      "sin tirar, como una niña, de mis barrotes"
+    ],
+    [
+      "Only to fall again!",
+      "¡para volver a caer!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "flying attitude",
+      "body": "La disposición corporal al vuelo hace visible un deseo que no llega a realizarse."
+    },
+    {
+      "line": 7,
+      "title": "childish",
+      "body": "Puede sugerir ingenuidad, impotencia o una resistencia que persiste pese al fracaso."
+    }
+  ],
+  "interpretation": "La liberación ajena despierta un impulso físico de evasión, pero la voz poética sigue cautiva. La fuerza del poema reside en la contradicción entre el vuelo imaginado y la caída final.",
+  "preest": null
+}
+,
+  J78: {
+  "id": "J78",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "A poor – torn heart – a tattered heart –",
+  "titleES": "Un pobre corazón desgarrado, un corazón hecho jirones,",
+  "stanzaBreaks": [
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J78 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "A poor – torn heart – a tattered heart –",
+      "Un pobre corazón desgarrado, un corazón hecho jirones,"
+    ],
+    [
+      "That sat it down to rest –",
+      "que se sentó a descansar,"
+    ],
+    [
+      "Nor noticed that the Ebbing Day",
+      "sin advertir que el Día menguante"
+    ],
+    [
+      "Flowed silver to the West –",
+      "fluía plateado hacia el Oeste,"
+    ],
+    [
+      "Nor noticed Night did soft descend –",
+      "ni que la Noche descendía suavemente,"
+    ],
+    [
+      "Nor Constellation burn –",
+      "ni que ardían las constelaciones,"
+    ],
+    [
+      "Intent upon the vision",
+      "absorto en la visión"
+    ],
+    [
+      "Of latitudes unknown.",
+      "de latitudes desconocidas."
+    ],
+    [
+      "The angels – happening that way",
+      "Los ángeles, que pasaban por allí,"
+    ],
+    [
+      "This dusty heart espied –",
+      "divisaron aquel corazón polvoriento,"
+    ],
+    [
+      "Tenderly took it up from toil",
+      "lo alzaron tiernamente de su fatiga"
+    ],
+    [
+      "And carried it to God –",
+      "y lo llevaron hasta Dios."
+    ],
+    [
+      "There – sandals for the Barefoot –",
+      "Allí, sandalias para quien iba descalzo;"
+    ],
+    [
+      "There – gathered from the gales –",
+      "allí, a salvo de los vendavales,"
+    ],
+    [
+      "Do the blue havens by the hand",
+      "los puertos azules llevan de la mano"
+    ],
+    [
+      "Lead the wandering Sails.",
+      "a las velas errantes."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "torn / tattered",
+      "body": "La repetición intensifica el desgaste emocional y materializa el corazón como un tejido roto."
+    },
+    {
+      "line": 13,
+      "title": "sandals",
+      "body": "El descanso celestial se expresa mediante una necesidad corporal elemental: calzado para quien caminó descalzo."
+    },
+    {
+      "line": 15,
+      "title": "havens / Sails",
+      "body": "Los puertos personificados guían a las velas; el sujeto viajero queda representado por su embarcación."
+    }
+  ],
+  "interpretation": "El corazón exhausto no percibe la belleza del atardecer porque está concentrado en una lejanía interior. Los ángeles lo rescatan sin que él lo solicite; el cierre transforma el viaje sin rumbo en acogida.",
+  "preest": null
+}
+,
+  J79: {
+  "id": "J79",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Going to Heaven!",
+  "titleES": "¡Ir al Cielo!",
+  "stanzaBreaks": [
+    10,
+    20
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J79 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "Going to Heaven!",
+      "¡Ir al Cielo!"
+    ],
+    [
+      "I don't know when –",
+      "No sé cuándo,"
+    ],
+    [
+      "Pray do not ask me how!",
+      "¡por favor, no me preguntes cómo!"
+    ],
+    [
+      "Indeed I'm too astonished",
+      "De veras, estoy demasiado asombrada"
+    ],
+    [
+      "To think of answering you!",
+      "para pensar en responderte."
+    ],
+    [
+      "Going to Heaven!",
+      "¡Ir al Cielo!"
+    ],
+    [
+      "How dim it sounds!",
+      "¡Qué vago suena!"
+    ],
+    [
+      "And yet it will be done",
+      "Y, sin embargo, sucederá"
+    ],
+    [
+      "As sure as flocks go home at night",
+      "tan seguro como los rebaños vuelven de noche"
+    ],
+    [
+      "Unto the Shepherd's arm!",
+      "a los brazos del Pastor."
+    ],
+    [
+      "Perhaps you're going too!",
+      "¡Quizás vos también vayas!"
+    ],
+    [
+      "Who knows?",
+      "¿Quién sabe?"
+    ],
+    [
+      "If you should get there first",
+      "Si llegaras primero,"
+    ],
+    [
+      "Save just a little space for me",
+      "guardame apenas un rinconcito"
+    ],
+    [
+      "Close to the two I lost –",
+      "cerca de los dos que perdí."
+    ],
+    [
+      "The smallest \"Robe\" will fit me",
+      "Me bastará la «Túnica» más pequeña"
+    ],
+    [
+      "And just a bit of \"Crown\" –",
+      "y apenas un pedacito de «Corona»;"
+    ],
+    [
+      "For you know we do not mind our dress",
+      "porque sabés que no nos importa la ropa"
+    ],
+    [
+      "When we are going home –",
+      "cuando volvemos a casa."
+    ],
+    [
+      "I'm glad I don't believe it",
+      "Me alegra no creerlo,"
+    ],
+    [
+      "For it would stop my breath –",
+      "porque me cortaría el aliento;"
+    ],
+    [
+      "And I'd like to look a little more",
+      "y quisiera contemplar un poco más"
+    ],
+    [
+      "At such a curious Earth!",
+      "esta Tierra tan curiosa."
+    ],
+    [
+      "I'm glad they did believe it",
+      "Me alegra que sí lo creyeran"
+    ],
+    [
+      "Whom I have never found",
+      "aquellos a quienes no he vuelto a encontrar"
+    ],
+    [
+      "Since the mighty Autumn afternoon",
+      "desde aquella inmensa tarde de otoño"
+    ],
+    [
+      "I left them in the ground.",
+      "en que los dejé bajo tierra."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Shepherd",
+      "body": "Imagen cristiana del pastor que reúne su rebaño; contrasta con la incertidumbre personal."
+    },
+    {
+      "line": 16,
+      "title": "Robe / Crown",
+      "body": "Atributos tradicionales de la gloria celestial, reducidos aquí a una escala doméstica y afectiva."
+    },
+    {
+      "line": 20,
+      "title": "I don't believe it",
+      "body": "La negación puede referirse a la inminencia del viaje, a su literalidad o a la certeza del consuelo; el texto no decide por completo."
+    }
+  ],
+  "interpretation": "El poema oscila entre la expectativa convencional del Cielo, el deseo íntimo de reunirse con los muertos y la resistencia a abandonar la Tierra. La frase «Me alegra no creerlo» impide reducir la voz a una afirmación doctrinal sencilla.",
+  "preest": null
+}
+,
+  J80: {
+  "id": "J80",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Our lives are Swiss –",
+  "titleES": "Nuestras vidas son suizas:",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J80 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "Our lives are Swiss –",
+      "Nuestras vidas son suizas:"
+    ],
+    [
+      "So still – so Cool –",
+      "tan quietas, tan frías,"
+    ],
+    [
+      "Till some odd afternoon",
+      "hasta que alguna tarde inesperada"
+    ],
+    [
+      "The Alps neglect their Curtains",
+      "los Alpes descuidan sus cortinas"
+    ],
+    [
+      "And we look farther on!",
+      "¡y alcanzamos a mirar más allá!"
+    ],
+    [
+      "Italy stands the other side!",
+      "¡Italia está del otro lado!"
+    ],
+    [
+      "While like a guard between –",
+      "Mientras, como un guardián entre ambos,"
+    ],
+    [
+      "The solemn Alps –",
+      "los solemnes Alpes,"
+    ],
+    [
+      "The siren Alps",
+      "los Alpes seductores,"
+    ],
+    [
+      "Forever intervene!",
+      "¡se interponen para siempre!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Swiss",
+      "body": "La referencia geográfica funciona como metáfora de quietud, frialdad y separación."
+    },
+    {
+      "line": 9,
+      "title": "siren",
+      "body": "El adjetivo puede evocar el canto irresistible de las sirenas y la atracción de lo prohibido."
+    }
+  ],
+  "interpretation": "La vida protegida y fría de Suiza se opone a la Italia imaginada como promesa de intensidad. La montaña se abre apenas un instante y luego vuelve a funcionar como frontera; la revelación no equivale a una liberación.",
+  "preest": null
+}
+,
+  J81: {
+  "id": "J81",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "We should not mind so small a flower –",
+  "titleES": "No repararíamos en una flor tan pequeña",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J81 (PDF del proyecto, pp. impresas 39–42); lectura y traducción propias. Correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "We should not mind so small a flower –",
+      "No repararíamos en una flor tan pequeña"
+    ],
+    [
+      "Except it quiet bring",
+      "si no nos devolviera silenciosamente"
+    ],
+    [
+      "Our little garden that we lost",
+      "el pequeño jardín que perdimos"
+    ],
+    [
+      "Back to the Lawn again.",
+      "otra vez al césped."
+    ],
+    [
+      "So spicy her Carnations nod –",
+      "Tan fragantes asienten sus claveles,"
+    ],
+    [
+      "So drunken, reel her Bees –",
+      "tan ebrias se tambalean sus abejas,"
+    ],
+    [
+      "So silver steal a hundred flutes",
+      "tan argentinas se deslizan cien flautas"
+    ],
+    [
+      "From out a hundred trees –",
+      "desde un centenar de árboles,"
+    ],
+    [
+      "That whoso sees this little flower",
+      "que quien contemple esta florecita"
+    ],
+    [
+      "By faith may clear behold",
+      "puede, por la fe, distinguir claramente"
+    ],
+    [
+      "The Bobolinks around the throne",
+      "los tordos de los prados alrededor del trono"
+    ],
+    [
+      "And Dandelions gold.",
+      "y el oro de los dientes de león."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 7,
+      "title": "flutes",
+      "body": "La música de los árboles puede sugerir cantos de aves o sonidos del viento."
+    },
+    {
+      "line": 11,
+      "title": "Bobolinks",
+      "body": "Aves canoras norteamericanas frecuentes en el imaginario de Dickinson; se conserva una designación explicativa en la traducción."
+    }
+  ],
+  "interpretation": "La flor mínima funciona como una llave de la memoria y de la imaginación religiosa. El jardín perdido reaparece como una escena de abundancia sensorial, y el trono celestial se puebla de aves y plantas comunes.",
+  "preest": null
+}
 });
