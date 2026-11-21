@@ -15285,6 +15285,50 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "Las repeticiones escenifican una conciencia atrapada en la posibilidad de llegar demasiado tarde. La imagen final vuelve inútil cualquier reparación posterior.",
     "preest": null
   },
+  "J206": {
+    "id": "J206",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "The Flower must not blame the Bee -",
+    "titleES": "La Flor no debe culpar a la Abeja —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J206, p. 96 (PDF del usuario).",
+    "lines": [
+      [
+        "The Flower must not blame the Bee -",
+        "La Flor no debe culpar a la Abeja —"
+      ],
+      [
+        "That seeketh his felicity",
+        "que busca su felicidad"
+      ],
+      [
+        "Too often at her door -",
+        "demasiado a menudo a su puerta —"
+      ],
+      [
+        "But teach the Footman from Vevay -",
+        "sino enseñar al lacayo de Vevey —"
+      ],
+      [
+        "Mistress is \"not at home\" - to say -",
+        "a decir que la señora «no está en casa» —"
+      ],
+      [
+        "To people - any more!",
+        "¡a las visitas, de ahora en adelante!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Vevay",
+        "body": "Topónimo que confiere al lacayo un aire cosmopolita; el giro «not at home» es una fórmula social para rechazar visitas."
+      }
+    ],
+    "interpretation": "La flor no culpa a la abeja por desearla, pero aprende a regular sus visitas: el cortejo se vuelve comedia de protocolo y límites.",
+    "preest": null
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
