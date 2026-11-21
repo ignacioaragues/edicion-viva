@@ -8972,7 +8972,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El poema traslada una técnica de reconstrucción científica a la imaginación estacional. Del mismo modo que un hueso permite conjeturar un animal desaparecido, una flor mínima permite anticipar la multitud de formas de la primavera. La ciencia no queda ridiculizada: su lógica inferencial se vuelve una forma de esperanza.",
   "preest": null
-}
+},
   J101: {
   "id": "J101",
   "franklin": "Pendiente de cotejo",
