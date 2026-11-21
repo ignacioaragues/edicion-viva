@@ -336,7 +336,7 @@
     {"chapter":9,"n":3,"gr":"καὶ τὰ ἱμάτια αὐτοῦ ἐγένετο στίλβοντα λευκὰ λίαν, οἷα γναφεὺς ἐπὶ τῆς γῆς οὐ δύναται οὕτως λευκᾶναι.","es":"Sus vestiduras se volvieron resplandecientes, de una blancura extraordinaria, como ningún lavandero de la tierra podría dejarlas.","la":"","notes":["mc903shine","mc903fuller","mc903variant"]}
 ,
     {"chapter":9,"n":4,"gr":"καὶ ὤφθη αὐτοῖς Ἠλίας σὺν Μωϋσεῖ, καὶ ἦσαν συλλαλοῦντες τῷ Ἰησοῦ.","es":"Y se les apareció Elías junto con Moisés, y ambos conversaban con Jesús.","la":"","notes":["mc904order","mc904conversation"]},
-    {"chapter":9,"n":5,"gr":"καὶ ἀποκριθεὶς ὁ Πέτρος λέγει τῷ Ἰησοῦ· Ῥαββί, καλόν ἐστιν ἡμᾶς ὧδε εἶναι, καὶ ποιήσωμεν τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν.","es":"Pedro tomó la palabra y dijo a Jesús: «Rabí, ¡qué bueno es que estemos aquí! Hagamos tres tiendas: una para vos, otra para Moisés y otra para Elías».","la":"","notes":["mc905answer","mc905tents","mc905subjunctive"]}
+    {"chapter":9,"n":5,"gr":"καὶ ἀποκριθεὶς ὁ Πέτρος λέγει τῷ Ἰησοῦ· Ῥαββί, καλόν ἐστιν ἡμᾶς ὧδε εἶναι, καὶ ποιήσωμεν τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν.","es":"Pedro tomó la palabra y dijo a Jesús: «Rabí, ¡qué bueno es que estemos aquí! Hagamos tres tiendas: una para ti, otra para Moisés y otra para Elías».","la":"","notes":["mc905answer","mc905tents","mc905subjunctive"]}
 ];
 
   const notes = {
