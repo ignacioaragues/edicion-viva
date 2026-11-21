@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 226,
-    "publishedVerses": 2986,
+    "publishedPoems": 234,
+    "publishedVerses": 3047,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -217,6 +217,14 @@
       "J203",
       "J204",
       "J205",
+      "J206",
+      "J207",
+      "J208",
+      "J209",
+      "J210",
+      "J211",
+      "J212",
+      "J213",
       "J249",
       "J254",
       "J258",
@@ -239,16 +247,16 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 205,
-    "nextJohnsonId": "J206",
+    "completedSequentialThrough": 213,
+    "nextJohnsonId": "J214",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-22",
-      "result": "J201–J205: 5 poemas, 46 versos nuevos. Sintaxis JS, orden numérico y continuidad J1–J205 comprobados. Correspondencias Franklin y cotejo manuscrito pendientes.",
-      "newVersesThisRun": 46
+      "result": "J207–J213: 7 poemas y 55 versos nuevos; J206 incorporado en ejecución anterior. Sintaxis y continuidad J1–J213 verificadas. Variantes Franklin y Preest pendientes.",
+      "newVersesThisRun": 55
     }
   },
-  "lastCompletedMilestone": "J205",
-  "nextAction": "Continuar desde J206",
+  "lastCompletedMilestone": "J213",
+  "nextAction": "Continuar desde J214",
   "updatedOn": "2026-11-22"
 }
