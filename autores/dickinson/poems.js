@@ -14198,5 +14198,385 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "notes": [],
     "interpretation": "La apuesta absoluta vuelve igualmente vertiginosos el fracaso y el cumplimiento: hasta el cielo realizado podría aniquilar al yo.",
     "preest": null
-  }
+  },
+  J173: {
+  "id": "J173",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "A fuzzy fellow, without feet,",
+  "titleES": "A fuzzy fellow, without feet,",
+  "stanzaBreaks": [
+    9,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J173, pp. 82–84 (texto inglés cotejado con el PDF de Johnson; puntuación normalizada únicamente cuando la transcripción digital resulta ilegible).",
+  "lines": [
+    [
+      "A fuzzy fellow, without feet,",
+      "Un sujeto velludo, sin pies,"
+    ],
+    [
+      "Yet doth exceeding run!",
+      "¡y sin embargo corre extraordinariamente!"
+    ],
+    [
+      "Of velvet, is his Countenance,",
+      "De terciopelo es su semblante,"
+    ],
+    [
+      "And his Complexion, dun!",
+      "¡y su tez, parduzca!"
+    ],
+    [
+      "Sometime, he dwelleth in the grass!",
+      "A veces habita entre la hierba;"
+    ],
+    [
+      "Sometime, upon a bough,",
+      "a veces, sobre una rama,"
+    ],
+    [
+      "From which he doth descend in plush",
+      "de la que desciende, envuelto en felpa,"
+    ],
+    [
+      "Upon the Passer-by!",
+      "sobre quien pasa por allí."
+    ],
+    [
+      "All this in summer.",
+      "Todo esto, en verano."
+    ],
+    [
+      "But when winds alarm the Forest Folk,",
+      "Pero cuando los vientos alarman al pueblo del bosque,"
+    ],
+    [
+      "He taketh Damask Residence -",
+      "toma residencia de damasco"
+    ],
+    [
+      "And struts in sewing silk!",
+      "¡y se pavonea hilando seda!"
+    ],
+    [
+      "Then, finer than a Lady,",
+      "Entonces, más elegante que una dama,"
+    ],
+    [
+      "Emerges in the spring!",
+      "¡emerge en primavera!"
+    ],
+    [
+      "A Feather on each shoulder!",
+      "¡Una pluma sobre cada hombro!"
+    ],
+    [
+      "You'd scarce recognize him!",
+      "¡Apenas lo reconocerías!"
+    ],
+    [
+      "By Men, yclept Caterpillar!",
+      "Los hombres lo llaman Oruga;"
+    ],
+    [
+      "By me! But who am I,",
+      "¡yo también! Pero ¿quién soy yo"
+    ],
+    [
+      "To tell the pretty secret",
+      "para revelar el hermoso secreto"
+    ],
+    [
+      "Of the Butterfly!",
+      "de la Mariposa?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 17,
+      "title": "yclept",
+      "body": "Arcaísmo inglés por «llamado» o «denominado», deliberadamente jocoso en un poema que contrapone clasificación y misterio."
+    }
+  ],
+  "interpretation": "El retrato de la oruga adopta un vocabulario cortesano y textil: terciopelo, damasco, seda. El desenlace transforma una descripción naturalista en una pregunta por la autoridad de quien nombra y divulga la metamorfosis.",
+  "preest": null
+},
+  J174: {
+  "id": "J174",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "At last, to be identified!",
+  "titleES": "At last, to be identified!",
+  "stanzaBreaks": [
+    3
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J174, pp. 82–84 (texto inglés cotejado con el PDF de Johnson; puntuación normalizada únicamente cuando la transcripción digital resulta ilegible).",
+  "lines": [
+    [
+      "At last, to be identified!",
+      "¡Al fin, ser reconocidos!"
+    ],
+    [
+      "At last, the lamps upon thy side",
+      "¡Al fin, con las lámparas a tu lado,"
+    ],
+    [
+      "The rest of Life to see!",
+      "ver lo que queda de la vida!"
+    ],
+    [
+      "Past Midnight! Past the Morning Star!",
+      "¡Más allá de la medianoche! ¡Más allá del lucero del alba!"
+    ],
+    [
+      "Past Sunrise!",
+      "¡Más allá del amanecer!"
+    ],
+    [
+      "Ah, What leagues there were",
+      "¡Ah, cuántas leguas había"
+    ],
+    [
+      "Between our feet, and Day!",
+      "entre nuestros pies y el Día!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La identificación prometida se representa como llegada a la luz después de una travesía nocturna. La distancia entre los pies y el Día mantiene la intensidad del deseo aun cuando parece anunciarse su cumplimiento.",
+  "preest": null
+},
+  J175: {
+  "id": "J175",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I have never seen \"Volcanoes\"-",
+  "titleES": "I have never seen \"Volcanoes\"-",
+  "stanzaBreaks": [
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J175, pp. 82–84 (texto inglés cotejado con el PDF de Johnson; puntuación normalizada únicamente cuando la transcripción digital resulta ilegible).",
+  "lines": [
+    [
+      "I have never seen \"Volcanoes\"-",
+      "Nunca he visto «volcanes» —"
+    ],
+    [
+      "But, when Travellers tell",
+      "pero cuando los viajeros cuentan"
+    ],
+    [
+      "How those old - phlegmatic mountains",
+      "cómo esas viejas montañas flemáticas,"
+    ],
+    [
+      "Usually so still -",
+      "habitualmente tan quietas,"
+    ],
+    [
+      "Bear within - appalling Ordnance,",
+      "llevan dentro una artillería espantosa,"
+    ],
+    [
+      "Fire, and smoke, and gun,",
+      "fuego, humo y cañones,"
+    ],
+    [
+      "Taking Villages for breakfast,",
+      "devoran aldeas para desayunar"
+    ],
+    [
+      "And appalling Men -",
+      "y aterrorizan a los hombres —"
+    ],
+    [
+      "If the stillness is Volcanic",
+      "si ese silencio es volcánico"
+    ],
+    [
+      "In the human face",
+      "en el rostro humano,"
+    ],
+    [
+      "When upon a pain Titanic",
+      "cuando ante un dolor titánico"
+    ],
+    [
+      "Features keep their place -",
+      "las facciones permanecen inmóviles —"
+    ],
+    [
+      "If at length the smouldering anguish",
+      "si al fin la angustia que arde bajo las cenizas"
+    ],
+    [
+      "Will not overcome -",
+      "no llega a imponerse"
+    ],
+    [
+      "And the palpitating Vineyard",
+      "y arrojar al polvo"
+    ],
+    [
+      "In the dust, be thrown?",
+      "el viñedo palpitante —"
+    ],
+    [
+      "If some loving Antiquary,",
+      "si algún anticuario amoroso,"
+    ],
+    [
+      "On Resumption Morn,",
+      "en la mañana de la Resurrección,"
+    ],
+    [
+      "Will not cry with joy \"Pompeii\"!",
+      "no gritará jubiloso «¡Pompeya!»"
+    ],
+    [
+      "To the Hills return!",
+      "al regresar a las colinas."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 18,
+      "title": "Resumption Morn",
+      "body": "La «mañana de la reanudación» evoca la resurrección; el término combina el regreso de la vida con el redescubrimiento arqueológico de Pompeya."
+    }
+  ],
+  "interpretation": "El volcán sirve como modelo de una conciencia que contiene un dolor inmenso sin alterar su apariencia. Pompeya introduce una segunda temporalidad: lo enterrado podría ser reconocido por una mirada futura, amorosa y arqueológica.",
+  "preest": null
+},
+  J176: {
+  "id": "J176",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I’m the little \"Heart’s Ease\"!",
+  "titleES": "I’m the little \"Heart’s Ease\"!",
+  "stanzaBreaks": [
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J176, pp. 82–84 (texto inglés cotejado con el PDF de Johnson; puntuación normalizada únicamente cuando la transcripción digital resulta ilegible).",
+  "lines": [
+    [
+      "I’m the little \"Heart’s Ease\"!",
+      "¡Soy la pequeña «Alegría del corazón»!"
+    ],
+    [
+      "I don't care for pouting skies!",
+      "¡No me importan los cielos malhumorados!"
+    ],
+    [
+      "If the Butterfly delay",
+      "Si la mariposa se demora,"
+    ],
+    [
+      "Can I, therefore, stay away?",
+      "¿he de quedarme yo también?"
+    ],
+    [
+      "If the Coward Bumble Bee",
+      "Si el cobarde abejorro"
+    ],
+    [
+      "In his chimney corner stay,",
+      "se queda junto a la chimenea,"
+    ],
+    [
+      "I, must resoluter be!",
+      "¡yo debo tener más resolución!"
+    ],
+    [
+      "Who'll apologize for me?",
+      "¿Quién pedirá disculpas por mí?"
+    ],
+    [
+      "Dear, Old fashioned, little flower!",
+      "¡Querida florecilla anticuada!"
+    ],
+    [
+      "Eden is old fashioned, too!",
+      "¡También el Edén está anticuado!"
+    ],
+    [
+      "Birds are antiquated fellows!",
+      "¡Los pájaros son criaturas de otros tiempos!"
+    ],
+    [
+      "Heaven does not change her blue",
+      "El cielo no cambia su azul,"
+    ],
+    [
+      "Nor will I, the little Heart's Ease -",
+      "ni yo, la pequeña Alegría del corazón,"
+    ],
+    [
+      "Ever be induced to do!",
+      "¡me dejaré convencer jamás de hacerlo!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Heart's Ease",
+      "body": "Nombre común inglés de la viola tricolor o pensamiento silvestre; literalmente, «alivio del corazón»."
+    }
+  ],
+  "interpretation": "La voz de la flor hace de su perseverancia una virtud, no una falta de adaptación. El humor de llamar anticuados al Edén y a los pájaros invierte la acusación de anacronismo.",
+  "preest": null
+},
+  J177: {
+  "id": "J177",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Ah, Necromancy Sweet!",
+  "titleES": "Ah, Necromancy Sweet!",
+  "stanzaBreaks": [
+    3
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J177, pp. 82–84 (texto inglés cotejado con el PDF de Johnson; puntuación normalizada únicamente cuando la transcripción digital resulta ilegible).",
+  "lines": [
+    [
+      "Ah, Necromancy Sweet!",
+      "¡Ah, dulce nigromancia!"
+    ],
+    [
+      "Ah, Wizard erudite!",
+      "¡Ah, mago erudito!"
+    ],
+    [
+      "Teach me the skill,",
+      "Enséñame el arte"
+    ],
+    [
+      "That I instil the pain",
+      "de infundir ese dolor"
+    ],
+    [
+      "Surgeons assuage in vain,",
+      "que los cirujanos intentan aliviar en vano"
+    ],
+    [
+      "Nor Herb of all the plain",
+      "y que ninguna hierba de la llanura"
+    ],
+    [
+      "Can heal!",
+      "puede curar."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "instil",
+      "body": "«Infundir» o «inocular»; el verbo sugiere una acción gradual y penetrante, en contraste con la intervención quirúrgica."
+    }
+  ],
+  "interpretation": "La invocación al mago pide aprender no a sanar sino a producir un dolor invulnerable a la medicina. La ambigüedad entre poder poético, seducción y daño queda abierta.",
+  "preest": null
+}
 });
