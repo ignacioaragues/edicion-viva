@@ -15329,6 +15329,354 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La flor no culpa a la abeja por desearla, pero aprende a regular sus visitas: el cortejo se vuelve comedia de protocolo y límites.",
     "preest": null
   },
+  "J207": {
+    "id": "J207",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Tho' I get home how late - how late -",
+    "titleES": "Aunque llegue a casa tan tarde — tan tarde —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J207, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "Tho' I get home how late - how late -",
+        "Aunque llegue a casa tan tarde — tan tarde —"
+      ],
+      [
+        "So I get home - 'twill compensate -",
+        "con tal de llegar a casa, todo quedará compensado —"
+      ],
+      [
+        "Better will be the Ecstasy",
+        "más intenso será el éxtasis"
+      ],
+      [
+        "That they have done expecting me -",
+        "cuando hayan dejado de esperarme —"
+      ],
+      [
+        "When Night - descending - dumb - and dark -",
+        "cuando la Noche — al caer — muda — y oscura —"
+      ],
+      [
+        "They hear my unexpected knock -",
+        "oigan mi llamada inesperada —"
+      ],
+      [
+        "Transporting must the moment be -",
+        "¡qué arrebatador será ese instante —"
+      ],
+      [
+        "Brewed from decades of Agony!",
+        "fermentado durante décadas de agonía!"
+      ],
+      [
+        "To think just how the fire will burn -",
+        "Pensar cómo arderá el fuego —"
+      ],
+      [
+        "Just how long-cheated eyes will turn -",
+        "cómo se volverán los ojos tanto tiempo defraudados —"
+      ],
+      [
+        "To wonder what myself will say,",
+        "preguntarme qué diré yo misma,"
+      ],
+      [
+        "And what Itself, will say to me -",
+        "y qué me dirá aquello que me espera —"
+      ],
+      [
+        "Beguiles the Centuries of way!",
+        "engaña la duración de siglos de camino."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Expecting",
+        "body": "La sorpresa depende de una esperanza abandonada; no se trata simplemente de una llegada tardía."
+      }
+    ],
+    "interpretation": "El regreso imaginado convierte la espera en una medida del tiempo: la anticipación del encuentro sostiene un trayecto que parece durar siglos.",
+    "preest": null
+  },
+  "J208": {
+    "id": "J208",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "The Rose did caper on her cheek -",
+    "titleES": "La rosa retozaba en su mejilla —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J208, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "The Rose did caper on her cheek -",
+        "La rosa retozaba en su mejilla —"
+      ],
+      [
+        "Her Bodice rose and fell -",
+        "su corpiño subía y bajaba —"
+      ],
+      [
+        "Her pretty speech - like drunken men -",
+        "sus lindas palabras — como hombres ebrios —"
+      ],
+      [
+        "Did stagger pitiful -",
+        "se tambaleaban lastimosamente —"
+      ],
+      [
+        "Her fingers fumbled at her work -",
+        "sus dedos trastabillaban en la labor —"
+      ],
+      [
+        "Her needle would not go -",
+        "la aguja no quería avanzar —"
+      ],
+      [
+        "What ailed so smart a little Maid -",
+        "qué afligía a una muchacha tan despierta —"
+      ],
+      [
+        "It puzzled me to know -",
+        "no lograba comprenderlo —"
+      ],
+      [
+        "Till Opposite - I spied a cheek",
+        "hasta que enfrente — descubrí una mejilla"
+      ],
+      [
+        "That bore another Rose -",
+        "que llevaba otra rosa —"
+      ],
+      [
+        "Just Opposite - Another speech",
+        "justo enfrente — otras palabras"
+      ],
+      [
+        "That like the Drunkard goes -",
+        "que iban como las de un borracho —"
+      ],
+      [
+        "A Vest that like her Bodice, danced -",
+        "un chaleco que bailaba como su corpiño —"
+      ],
+      [
+        "To the immortal tune -",
+        "al son de la melodía inmortal —"
+      ],
+      [
+        "Till those two troubled - little Clocks",
+        "hasta que aquellos dos inquietos — pequeños relojes"
+      ],
+      [
+        "Ticked softly into one.",
+        "latieron suavemente al unísono."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 15,
+        "title": "Dos relojes",
+        "body": "La metáfora mecánica convierte los latidos en un tiempo compartido."
+      }
+    ],
+    "interpretation": "El amor se revela por una coreografía involuntaria: rubor, respiración, torpeza y habla vacilante. Los dos relojes finales sugieren corazones sincronizados.",
+    "preest": null
+  },
+  "J209": {
+    "id": "J209",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "With thee, in the Desert -",
+    "titleES": "Contigo, en el desierto —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J209, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "With thee, in the Desert -",
+        "Contigo, en el desierto —"
+      ],
+      [
+        "With thee in the thirst -",
+        "contigo en la sed —"
+      ],
+      [
+        "With thee in the Tamarind wood -",
+        "contigo en el bosque de tamarindos —"
+      ],
+      [
+        "Leopard breathes - at last!",
+        "¡por fin respira el leopardo!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La repetición de «contigo» transforma un paisaje hostil en escenario de una intensidad vital que culmina en la respiración del leopardo.",
+    "preest": null
+  },
+  "J210": {
+    "id": "J210",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "The thought beneath so slight a film -",
+    "titleES": "El pensamiento bajo una película tan tenue —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J210, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "The thought beneath so slight a film -",
+        "El pensamiento bajo una película tan tenue —"
+      ],
+      [
+        "Is more distinctly seen -",
+        "se distingue con mayor claridad —"
+      ],
+      [
+        "As laces just reveal the surge -",
+        "como el encaje apenas revela el oleaje —"
+      ],
+      [
+        "Or Mists - the Apennine.",
+        "o las nieblas — los Apeninos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Encaje y niebla",
+        "body": "Ambas imágenes presentan una mediación parcial que perfila la forma sin mostrarla por completo."
+      }
+    ],
+    "interpretation": "El poema propone una paradoja perceptiva: una cobertura tenue puede intensificar, no impedir, la visión de aquello que oculta.",
+    "preest": null
+  },
+  "J211": {
+    "id": "J211",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Come slowly - Eden!",
+    "titleES": "Ven despacio — Edén —",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J211, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "Come slowly - Eden!",
+        "Ven despacio — Edén —"
+      ],
+      [
+        "Lips unused to Thee -",
+        "labios que no te conocen —"
+      ],
+      [
+        "Bashful - sip thy Jessamines -",
+        "tímidos — sorben tus jazmines —"
+      ],
+      [
+        "As the fainting Bee -",
+        "como la abeja desfallecida —"
+      ],
+      [
+        "Reaching late his Bower,",
+        "que llega tarde a su emparrado,"
+      ],
+      [
+        "Round her chamber hums -",
+        "zumba alrededor de su aposento —"
+      ],
+      [
+        "Counts his nectars -",
+        "cuenta sus néctares —"
+      ],
+      [
+        "Enters - and is lost in Balms.",
+        "entra — y se pierde entre bálsamos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Edén",
+        "body": "El vocativo puede leerse en clave religiosa y erótica; ninguna de esas posibilidades excluye necesariamente la otra."
+      }
+    ],
+    "interpretation": "El Edén se convierte en una experiencia sensorial que se demora mediante el acercamiento de la abeja: deseo, timidez y pérdida de sí en la plenitud.",
+    "preest": null
+  },
+  "J212": {
+    "id": "J212",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Least Rivers - docile to some sea.",
+    "titleES": "Los ríos más pequeños — dóciles a algún mar.",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J212, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "Least Rivers - docile to some sea.",
+        "Los ríos más pequeños — dóciles a algún mar."
+      ],
+      [
+        "My Caspian - thee.",
+        "Mi Caspio — tú."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La comparación condensa una relación de entrega en dos versos: el Caspio, mar interior, introduce una escala íntima y singular.",
+    "preest": null
+  },
+  "J213": {
+    "id": "J213",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Did the Harebell loose her girdle",
+    "titleES": "Si la campanilla soltara su ceñidor",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J213, pp. 96–98 (PDF proporcionado por el usuario; correspondencia Franklin pendiente de cotejo).",
+    "lines": [
+      [
+        "Did the Harebell loose her girdle",
+        "Si la campanilla soltara su ceñidor"
+      ],
+      [
+        "To the lover Bee",
+        "ante la abeja enamorada,"
+      ],
+      [
+        "Would the Bee the Harebell hallow",
+        "¿seguiría la abeja venerando a la campanilla"
+      ],
+      [
+        "Much as formerly?",
+        "tanto como antes?"
+      ],
+      [
+        "Did the \"Paradise\" - persuaded -",
+        "Si el «Paraíso» — persuadido —"
+      ],
+      [
+        "Yield her moat of pearl -",
+        "cediera su foso de perlas —"
+      ],
+      [
+        "Would the Eden be an Eden,",
+        "¿seguiría el Edén siendo Edén,"
+      ],
+      [
+        "Or the Earl - an Earl?",
+        "o el conde — un conde?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Paraíso y foso",
+        "body": "La metáfora del foso imagina el acceso amoroso como cruce de un límite protector."
+      }
+    ],
+    "interpretation": "La pregunta por la entrega amorosa se desplaza desde la flor y la abeja hasta el Edén y la nobleza: ¿puede conservarse el aura de lo deseado después de poseerlo?",
+    "preest": null
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
