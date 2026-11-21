@@ -2489,10 +2489,10 @@
       ]
     }
   ],
-  "pending": "Continuar Marcos 9,10; segunda revisión filológica y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,11; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 10
+    "verse": 11
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5267,6 +5267,17 @@
     "sources": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/9"
+    ]
+  },
+  "prepublication_research_9_10": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "13/13",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/10",
+      "https://mail.biblehub.com/commentaries/mark/9-10.htm"
     ]
   }
 }
