@@ -2638,12 +2638,19 @@
         "https://biblia.com/bible/sblgnt/mark/9/23",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/23"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 24,
+      "to": 24,
+      "status": "edited_not_revised",
+      "source": "https://biblia.com/bible/sblgnt/mark/9/24"
     }
   ],
   "pending": "Continuar Marcos 9,23; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 24
+    "verse": 25
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5558,6 +5565,17 @@
     "sources": [
       "https://biblia.com/bible/sblgnt/mark/9/23",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/23"
+    ]
+  },
+  "prepublication_research_9_24": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "12/12",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/9/24",
+      "https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/bart/markbart.pdf",
+      "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
     ]
   }
 }
