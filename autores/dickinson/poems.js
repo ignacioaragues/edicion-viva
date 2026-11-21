@@ -13997,5 +13997,206 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La caja conserva restos materiales de vínculos que el tiempo ha debilitado. El gesto final, fingir indiferencia después de abrirla, muestra la tensión entre la persistencia afectiva de los objetos y la necesidad cotidiana de seguir viviendo.",
   "preest": null
-}
+},
+  J170: {
+    "id": "J170",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Portraits are to daily faces",
+    "titleES": "Los retratos son a los rostros cotidianos",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J170; texto cotejado con PDF del usuario, pp. 81–82. Franklin pendiente.",
+    "lines": [
+      [
+        "Portraits are to daily faces",
+        "Los retratos son a los rostros cotidianos"
+      ],
+      [
+        "As an Evening West,",
+        "lo que un poniente al atardecer"
+      ],
+      [
+        "To a fine, pedantic sunshine -",
+        "a un sol impecable y pedante,"
+      ],
+      [
+        "In a satin Vest!",
+        "¡vestido con chaleco de satén!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "El retrato transfigura la apariencia ordinaria como el poniente transforma la luz del día.",
+    "preest": null
+  },
+  J171: {
+    "id": "J171",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "Wait till the Majesty of Death",
+    "titleES": "Esperá a que la majestad de la Muerte",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J171; texto cotejado con PDF del usuario, pp. 81–82. Franklin pendiente.",
+    "lines": [
+      [
+        "Wait till the Majesty of Death",
+        "Esperá a que la majestad de la Muerte"
+      ],
+      [
+        "Invests so mean a brow!",
+        "invista una frente tan humilde."
+      ],
+      [
+        "Almost a powdered Footman",
+        "Ahora hasta un lacayo empolvado"
+      ],
+      [
+        "Might dare to touch it now!",
+        "se atrevería a tocarla."
+      ],
+      [
+        "Wait till in Everlasting Robes",
+        "Esperá a que con vestiduras eternas"
+      ],
+      [
+        "That Democrat is dressed,",
+        "se vista ese demócrata;"
+      ],
+      [
+        "Then prate about \"Preferment\" -",
+        "entonces parloteá de «ascensos»,"
+      ],
+      [
+        "And \"Station,\" and the rest!",
+        "de «posición» y de todo lo demás."
+      ],
+      [
+        "Around this quiet Courtier",
+        "Alrededor de este cortesano silencioso"
+      ],
+      [
+        "Obsequious Angels wait!",
+        "aguardan ángeles solícitos."
+      ],
+      [
+        "Full royal is his Retinue!",
+        "¡Su séquito es enteramente regio!"
+      ],
+      [
+        "Full purple is his state!",
+        "¡Púrpura es toda su dignidad!"
+      ],
+      [
+        "A Lord, might dare to lift the Hat",
+        "Un señor podría descubrirse"
+      ],
+      [
+        "To such a Modest Clay",
+        "ante una arcilla tan modesta,"
+      ],
+      [
+        "Since that My Lord, \"the Lord of Lords\"",
+        "pues mi Señor, «el Señor de señores»,"
+      ],
+      [
+        "Receives unblushingly!",
+        "la recibe sin avergonzarse."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La muerte anula las jerarquías terrenales y reviste de majestad al cuerpo socialmente insignificante.",
+    "preest": null
+  },
+  J172: {
+    "id": "J172",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "'Tis so much joy! 'Tis so much joy!",
+    "titleES": "¡Es tanta alegría! ¡Tanta alegría!",
+    "stanzaBreaks": [
+      6,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J172; texto cotejado con PDF del usuario, pp. 81–82. Franklin pendiente.",
+    "lines": [
+      [
+        "'Tis so much joy! 'Tis so much joy!",
+        "¡Es tanta alegría! ¡Tanta alegría!"
+      ],
+      [
+        "If I should fail, what poverty!",
+        "Si fracasara, ¡qué pobreza!"
+      ],
+      [
+        "And yet, as poor as I,",
+        "Y sin embargo, siendo tan pobre,"
+      ],
+      [
+        "Have ventured all upon a throw!",
+        "¡lo he apostado todo a una tirada!"
+      ],
+      [
+        "Have gained! Yes! Hesitated so -",
+        "¡He ganado! ¡Sí! Tanto vacilé"
+      ],
+      [
+        "This side the Victory!",
+        "a este lado de la Victoria."
+      ],
+      [
+        "Life is but Life! And Death, but Death!",
+        "¡La vida es solo Vida! ¡La muerte, solo Muerte!"
+      ],
+      [
+        "Bliss is, but Bliss, and Breath but Breath!",
+        "¡La dicha, solo Dicha, y el aliento, solo Aliento!"
+      ],
+      [
+        "And if indeed I fail,",
+        "Y si de verdad fracaso,"
+      ],
+      [
+        "At least, to know the worst, is sweet!",
+        "al menos es dulce conocer lo peor."
+      ],
+      [
+        "Defeat means nothing but Defeat,",
+        "Derrota no significa más que Derrota;"
+      ],
+      [
+        "No drearier, can befall!",
+        "¡nada más sombrío puede suceder!"
+      ],
+      [
+        "And if I gain! Oh Gun at Sea!",
+        "Y si gano, ¡oh cañón en el mar!"
+      ],
+      [
+        "Oh Bells, that in the Steeples be!",
+        "¡Oh campanas de los campanarios!"
+      ],
+      [
+        "At first, repeat it slow!",
+        "¡Al principio, repetidlo despacio!"
+      ],
+      [
+        "For Heaven is a different thing,",
+        "Porque el Cielo es algo distinto"
+      ],
+      [
+        "Conjectured, and waked sudden in -",
+        "cuando, imaginado, se despierta uno de pronto en él,"
+      ],
+      [
+        "And might extinguish me!",
+        "¡y podría extinguirme!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La apuesta absoluta vuelve igualmente vertiginosos el fracaso y el cumplimiento: hasta el cielo realizado podría aniquilar al yo.",
+    "preest": null
+  }
 });
