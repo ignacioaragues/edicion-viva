@@ -12531,8 +12531,8 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       "¡Más inmóvil que una flota!"
     ],
     [
-      "Builds, like a Bird, too!",
-      "¡También construye, como un pájaro!"
+      "Builds, like a Bud, too!",
+      "¡También crece, como un brote!"
     ],
     [
       "Christ robs the Nest -",
