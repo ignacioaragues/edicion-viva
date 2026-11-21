@@ -7643,5 +7643,571 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La flor mínima funciona como una llave de la memoria y de la imaginación religiosa. El jardín perdido reaparece como una escena de abundancia sensorial, y el trono celestial se puebla de aves y plantas comunes.",
   "preest": null
+},
+  J82: {
+  "id": "J82",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Whose cheek is this?",
+  "titleES": "¿De quién es esta mejilla?",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J82 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "Whose cheek is this?",
+      "¿De quién es esta mejilla?"
+    ],
+    [
+      "What rosy face",
+      "¿Qué rostro sonrosado"
+    ],
+    [
+      "Has lost a blush today?",
+      "ha perdido hoy su rubor?"
+    ],
+    [
+      "I found her – \"pleiad\" – in the woods",
+      "La encontré —«pléyade»— en el bosque"
+    ],
+    [
+      "And bore her safe away.",
+      "y me la llevé a salvo."
+    ],
+    [
+      "Robins, in the tradition",
+      "Los petirrojos, según la tradición,"
+    ],
+    [
+      "Did cover such with leaves,",
+      "cubrían a seres así con hojas,"
+    ],
+    [
+      "But which the cheek –",
+      "pero cuál es la mejilla"
+    ],
+    [
+      "And which the pall",
+      "y cuál el sudario"
+    ],
+    [
+      "My scrutiny deceives.",
+      "mi mirada no consigue distinguir."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "«pleiad»",
+      "body": "El término puede elevar a la pequeña criatura vegetal a la categoría de astro o figura excepcional; conviene cotejar las comillas y la lectura exacta con el facsímil."
+    },
+    {
+      "line": 9,
+      "title": "pall",
+      "body": "Sudario o paño mortuorio: la palabra oscurece la aparente ternura del rescate."
+    }
+  ],
+  "interpretation": "El poema transforma el hallazgo de una flor en una escena casi funeraria. El rescate puede ser también una extracción de su medio: la mirada que pretende proteger no sabe distinguir el rostro del sudario.",
+  "preest": null
+},
+  J83: {
+  "id": "J83",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Heart, not so heavy as mine",
+  "titleES": "Un corazón no tan cargado como el mío",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J83 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "Heart, not so heavy as mine",
+      "Un corazón no tan cargado como el mío"
+    ],
+    [
+      "Wending late home –",
+      "volvía tarde a casa;"
+    ],
+    [
+      "As it passed my window",
+      "al pasar bajo mi ventana"
+    ],
+    [
+      "Whistled itself a tune –",
+      "se puso a silbar una melodía:"
+    ],
+    [
+      "A careless snatch – a ballad –",
+      "un fragmento despreocupado, una balada,"
+    ],
+    [
+      "A ditty of the street –",
+      "una cancioncilla callejera;"
+    ],
+    [
+      "Yet to my irritated Ear",
+      "y, sin embargo, para mi oído irritado"
+    ],
+    [
+      "An Anodyne so sweet –",
+      "fue un bálsamo dulcísimo."
+    ],
+    [
+      "It was as if a Bobolink",
+      "Era como si un tordo de los prados,"
+    ],
+    [
+      "Sauntering this way",
+      "paseándose por aquí,"
+    ],
+    [
+      "Carolled, and paused, and carolled –",
+      "cantara, callara y volviera a cantar,"
+    ],
+    [
+      "Then bubbled slow away!",
+      "hasta alejarse en un lento borboteo."
+    ],
+    [
+      "It was as if a chirping brook",
+      "Era como si un arroyo cantarín"
+    ],
+    [
+      "Upon a dusty way –",
+      "en un camino polvoriento"
+    ],
+    [
+      "Set bleeding feet to minuets",
+      "hiciera bailar un minueto a unos pies sangrantes"
+    ],
+    [
+      "Without the knowing why!",
+      "sin saber siquiera por qué."
+    ],
+    [
+      "Tomorrow, night will come again –",
+      "Mañana volverá la noche,"
+    ],
+    [
+      "Perhaps, weary and sore –",
+      "tal vez cansada y dolorida."
+    ],
+    [
+      "Ah Bugle! By my window",
+      "¡Ah, clarín! Te ruego que vuelvas"
+    ],
+    [
+      "I pray you pass once more.",
+      "a pasar bajo mi ventana."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "Anodyne",
+      "body": "Calmante o analgésico; el contraste entre la ligereza de la canción y su efecto medicinal es central."
+    },
+    {
+      "line": 19,
+      "title": "Bugle",
+      "body": "El clarín final convierte el silbido callejero en llamada o señal esperada."
+    }
+  ],
+  "interpretation": "Una canción casual, ajena al sufrimiento de quien escucha, produce un alivio que ninguna argumentación podría proporcionar. La voz no pide una cura permanente, sino la repetición de un instante de gracia involuntaria.",
+  "preest": null
+},
+  J84: {
+  "id": "J84",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Her breast is fit for pearls",
+  "titleES": "Su pecho merece perlas,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J84 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "Her breast is fit for pearls,",
+      "Su pecho merece perlas,"
+    ],
+    [
+      "But I was not a \"Diver\" –",
+      "pero yo no era «buzo»;"
+    ],
+    [
+      "Her brow is fit for thrones",
+      "su frente merece tronos,"
+    ],
+    [
+      "But I have not a crest.",
+      "pero no tengo blasón."
+    ],
+    [
+      "Her heart is fit for home –",
+      "Su corazón merece un hogar:"
+    ],
+    [
+      "I – a Sparrow – build there",
+      "yo, un gorrión, construyo allí"
+    ],
+    [
+      "Sweet of twigs and twine",
+      "con dulces ramitas y hebras"
+    ],
+    [
+      "My perennial nest.",
+      "mi nido perenne."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Diver",
+      "body": "Quien se sumerge para obtener perlas; metáfora de una riqueza a la que el hablante no tiene acceso."
+    },
+    {
+      "line": 4,
+      "title": "crest",
+      "body": "Blasón o emblema heráldico, no simplemente una corona."
+    }
+  ],
+  "interpretation": "La voz renuncia a las credenciales del lujo y del poder para reivindicar una intimidad humilde. Frente a perlas, coronas y escudos, el gorrión ofrece una permanencia construida con materiales mínimos.",
+  "preest": null
+},
+  J85: {
+  "id": "J85",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "\"They have not chosen me,\" he said",
+  "titleES": "«No me han elegido», dijo,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J85 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "\"They have not chosen me,\" he said,",
+      "«No me han elegido», dijo,"
+    ],
+    [
+      "\"But I have chosen them!\"",
+      "«¡pero yo los he elegido a ellos!»"
+    ],
+    [
+      "Brave – Broken hearted statement –",
+      "Valiente declaración de un corazón roto,"
+    ],
+    [
+      "Uttered in Bethlehem!",
+      "pronunciada en Belén."
+    ],
+    [
+      "I could not have told it,",
+      "Yo no habría podido decirlo,"
+    ],
+    [
+      "But since Jesus, dared –",
+      "pero, después de Jesús, me atreví."
+    ],
+    [
+      "Sovereign! Know a Daisy",
+      "¡Soberano! Sabé que una margarita"
+    ],
+    [
+      "Thy dishonor shared!",
+      "compartió tu deshonra."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Bethlehem",
+      "body": "Belén sitúa la declaración en el marco de la encarnación cristiana."
+    },
+    {
+      "line": 7,
+      "title": "Daisy",
+      "body": "La margarita funciona como autorrepresentación diminuta y desafiante."
+    }
+  ],
+  "interpretation": "El poema proyecta el rechazo afectivo sobre la figura de Jesús y vuelve solidarias la vulnerabilidad divina y la de una margarita. La desproporción de las figuras es precisamente su gesto de audacia.",
+  "preest": null
+},
+  J86: {
+  "id": "J86",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "South Winds jostle them",
+  "titleES": "Los vientos del sur las sacuden;",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J86 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "South Winds jostle them –",
+      "Los vientos del sur las sacuden;"
+    ],
+    [
+      "Bumblebees come –",
+      "llegan los abejorros,"
+    ],
+    [
+      "Hover – hesitate –",
+      "revolotean, vacilan,"
+    ],
+    [
+      "Drink, and are gone –",
+      "beben y se marchan."
+    ],
+    [
+      "Butterflies pause",
+      "Las mariposas se detienen"
+    ],
+    [
+      "On their passage Cashmere –",
+      "en su travesía hacia Cachemira."
+    ],
+    [
+      "I – softly plucking,",
+      "Yo, cortándolas con delicadeza,"
+    ],
+    [
+      "Present them here!",
+      "te las ofrezco aquí."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 6,
+      "title": "Cashmere",
+      "body": "Cachemira aparece como destino exótico imaginado para la migración de las mariposas."
+    }
+  ],
+  "interpretation": "El ramo fija en una ofrenda lo que en el jardín es tránsito y movimiento. La delicadeza del gesto no elimina su paradoja: para regalar las flores hay que separarlas de su vida.",
+  "preest": null
+},
+  J87: {
+  "id": "J87",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "A darting fear – a pomp – a tear",
+  "titleES": "Un miedo fugaz, una pompa, una lágrima;",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J87 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "A darting fear – a pomp – a tear –",
+      "Un miedo fugaz, una pompa, una lágrima;"
+    ],
+    [
+      "A waking on a morn",
+      "despertar una mañana"
+    ],
+    [
+      "To find that what one waked for,",
+      "y descubrir que aquello por lo que despertábamos"
+    ],
+    [
+      "Inhales the different dawn.",
+      "respira otro amanecer."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "different dawn",
+      "body": "El amanecer distinto puede sugerir separación, cambio afectivo o muerte; el poema no fija una sola explicación."
+    }
+  ],
+  "interpretation": "La súbita ruptura entre expectativa y realidad ocupa apenas cuatro versos. El objeto de la espera no desaparece necesariamente: vive, pero bajo otra luz, inaccesible a quien aguardaba.",
+  "preest": null
+},
+  J88: {
+  "id": "J88",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "As by the dead we love to sit",
+  "titleES": "Como nos gusta sentarnos junto a los muertos,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J88 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "As by the dead we love to sit,",
+      "Como nos gusta sentarnos junto a los muertos,"
+    ],
+    [
+      "Become so wondrous dear –",
+      "que se vuelven tan prodigiosamente queridos;"
+    ],
+    [
+      "As for the lost we grapple",
+      "como nos aferramos a los perdidos"
+    ],
+    [
+      "Tho' all the rest are here –",
+      "aunque todos los demás estén aquí;"
+    ],
+    [
+      "In broken mathematics",
+      "con matemáticas quebradas"
+    ],
+    [
+      "We estimate our prize",
+      "calculamos nuestro tesoro,"
+    ],
+    [
+      "Vast – in its fading ratio",
+      "inmenso en su proporción menguante"
+    ],
+    [
+      "To our penurious eyes!",
+      "ante nuestros ojos empobrecidos."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "broken mathematics",
+      "body": "Una aritmética rota por el duelo: la estimación sentimental contradice la proporción numérica."
+    },
+    {
+      "line": 8,
+      "title": "penurious",
+      "body": "Pobre, escaso: la mirada queda empobrecida por lo que ya no puede poseer."
+    }
+  ],
+  "interpretation": "La pérdida altera la escala del valor: lo ausente pesa más que la suma de lo presente. La metáfora matemática revela el fracaso de cualquier cálculo objetivo del afecto.",
+  "preest": null
+},
+  J89: {
+  "id": "J89",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Some things that fly there be",
+  "titleES": "Hay cosas que vuelan:",
+  "stanzaBreaks": [
+    3,
+    6
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J89 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "Some things that fly there be –",
+      "Hay cosas que vuelan:"
+    ],
+    [
+      "Birds – Hours – the Bumblebee –",
+      "aves, horas, el abejorro;"
+    ],
+    [
+      "Of these no Elegy.",
+      "para ellas no hay elegía."
+    ],
+    [
+      "Some things that stay there be –",
+      "Hay cosas que permanecen:"
+    ],
+    [
+      "Grief – Hills – Eternity –",
+      "el dolor, las colinas, la eternidad;"
+    ],
+    [
+      "Nor this behooveth me.",
+      "tampoco esto me corresponde."
+    ],
+    [
+      "There are that resting, rise.",
+      "Hay otras que, reposando, se elevan."
+    ],
+    [
+      "Can I expound the skies?",
+      "¿Puedo yo explicar los cielos?"
+    ],
+    [
+      "How still the Riddle lies!",
+      "¡Qué inmóvil permanece el enigma!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 6,
+      "title": "behooveth",
+      "body": "Forma arcaizante: «incumbe» o «corresponde»."
+    },
+    {
+      "line": 7,
+      "title": "resting, rise",
+      "body": "Paradoja que puede evocar resurrección o procesos naturales sin reducirse a ninguno de ellos."
+    }
+  ],
+  "interpretation": "La clasificación comienza como una oposición clara entre movimiento y permanencia, pero una tercera categoría la deshace. La pregunta final renuncia a convertir el misterio en sistema.",
+  "preest": null
+},
+  J90: {
+  "id": "J90",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Within my reach!",
+  "titleES": "¡Al alcance de mi mano!",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J90 (PDF del proyecto, pp. impresas 42–46). Texto cotejado con la transcripción disponible; variantes manuscritas y concordancia Franklin pendientes.",
+  "lines": [
+    [
+      "Within my reach!",
+      "¡Al alcance de mi mano!"
+    ],
+    [
+      "I could have touched!",
+      "¡Podría haberlo tocado!"
+    ],
+    [
+      "I might have chanced that way!",
+      "¡Podría haber pasado por allí!"
+    ],
+    [
+      "Soft sauntered thro' the village –",
+      "Paseó suavemente por el pueblo"
+    ],
+    [
+      "Sauntered as soft away!",
+      "y con la misma suavidad se alejó."
+    ],
+    [
+      "So unsuspected Violets",
+      "Así pasan las violetas inadvertidas"
+    ],
+    [
+      "Within the meadows go –",
+      "por los prados,"
+    ],
+    [
+      "Too late for striving fingers",
+      "demasiado tarde para los dedos que intentan alcanzarlas"
+    ],
+    [
+      "That passed, an hour ago!",
+      "y que pasaron hace una hora."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "striving fingers",
+      "body": "Los dedos intentan alcanzar algo que el tiempo ya ha puesto fuera de su alcance."
+    }
+  ],
+  "interpretation": "La oportunidad perdida se expresa mediante una proximidad casi insoportable: nada impedía el encuentro salvo el desfase temporal. La violeta convierte la ausencia en una forma discreta de belleza.",
+  "preest": null
 }
 });
