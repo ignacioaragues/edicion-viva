@@ -13156,5 +13156,321 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El regreso desde el umbral de la muerte convierte a la hablante en testigo de una frontera que todavía no puede describir por completo.",
   "preest": null
+},
+  J161: {
+  "id": "J161",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "A feather from the Whippoorwill",
+  "titleES": "Una pluma del chotacabras",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J161 (pp. 76–78); Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "A feather from the Whippoorwill",
+      "Una pluma del chotacabras"
+    ],
+    [
+      "That everlasting - sings!",
+      "que canta — eternamente —"
+    ],
+    [
+      "Whose galleries - are Sunrise -",
+      "cuyas galerías — son el amanecer —"
+    ],
+    [
+      "Whose Opera - the Springs -",
+      "cuya ópera — las primaveras —"
+    ],
+    [
+      "Whose Emerald Nest the Ages spin",
+      "cuyo nido esmeralda hilan las edades"
+    ],
+    [
+      "Of mellow - murmuring thread -",
+      "con hilo suave — murmurante —"
+    ],
+    [
+      "Whose Beryl Egg, what Schoolboys hunt",
+      "cuyo huevo de berilo buscan los escolares"
+    ],
+    [
+      "In \"Recess\" - Overhead!",
+      "durante el «recreo» — ¡allá arriba!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Whippoorwill",
+      "body": "Ave nocturna norteamericana, reconocible por su canto repetitivo."
+    }
+  ],
+  "interpretation": "El ave se convierte en un teatro cósmico: su canto enlaza amanecer, estaciones y ciclos temporales.",
+  "preest": null
+},
+  J162: {
+  "id": "J162",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "My River runs to thee -",
+  "titleES": "Mi río corre hacia vos —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J162 (pp. 76–78); Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "My River runs to thee -",
+      "Mi río corre hacia vos —"
+    ],
+    [
+      "Blue Sea! Wilt welcome me?",
+      "¡Mar azul! ¿Me recibirás?"
+    ],
+    [
+      "My River waits reply -",
+      "Mi río espera respuesta —"
+    ],
+    [
+      "Oh Sea - look graciously -",
+      "oh, mar — mirame con benevolencia —"
+    ],
+    [
+      "I'll fetch thee Brooks",
+      "te traeré arroyos"
+    ],
+    [
+      "From spotted nooks -",
+      "desde rincones moteados —"
+    ],
+    [
+      "Say - Sea - Take Me!",
+      "decí — mar — ¡recibime!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "River / Sea",
+      "body": "La relación entre río y mar personifica el deseo de encuentro, entrega y acogida."
+    }
+  ],
+  "interpretation": "El río que habla pide al mar una respuesta: el movimiento natural se transforma en negociación afectiva.",
+  "preest": null
+},
+  J163: {
+  "id": "J163",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Tho' my destiny be Fustian -",
+  "titleES": "Aunque mi destino sea de pana burda —",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J163 (pp. 76–78); Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "Tho' my destiny be Fustian -",
+      "Aunque mi destino sea de pana burda —"
+    ],
+    [
+      "Hers be damask fine -",
+      "y el de ella, de fino damasco —"
+    ],
+    [
+      "Tho' she wear a silver apron -",
+      "aunque ella lleve un delantal de plata —"
+    ],
+    [
+      "I, a less divine -",
+      "y yo, uno menos divino —"
+    ],
+    [
+      "Still, my little Gypsy being",
+      "aun así, mi pequeño ser gitano"
+    ],
+    [
+      "I would far prefer,",
+      "preferiría con mucho,"
+    ],
+    [
+      "Still, my little sunburnt bosom",
+      "aun así, mi pequeño pecho tostado por el sol"
+    ],
+    [
+      "To her Rosier,",
+      "al más rosado de ella,"
+    ],
+    [
+      "For, when Frosts, their punctual fingers",
+      "pues cuando las heladas, con sus dedos puntuales,"
+    ],
+    [
+      "On her forehead lay,",
+      "se posen sobre su frente,"
+    ],
+    [
+      "You and I, and Dr. Holland,",
+      "vos y yo, y el doctor Holland,"
+    ],
+    [
+      "Bloom Eternally!",
+      "¡floreceremos eternamente!"
+    ],
+    [
+      "Roses of a steadfast summer",
+      "Rosas de un verano perdurable"
+    ],
+    [
+      "In a steadfast land,",
+      "en una tierra perdurable,"
+    ],
+    [
+      "Where no Autumn lifts her pencil -",
+      "donde ningún otoño levanta su lápiz —"
+    ],
+    [
+      "And no Reapers stand!",
+      "¡y no se alzan segadores!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Fustian / damask",
+      "body": "Tejidos de distinta consideración social: el contraste material abre una comparación entre dos destinos."
+    },
+    {
+      "line": 11,
+      "title": "Dr. Holland",
+      "body": "Referencia nominal presente en el poema; su identificación histórica requiere comentario documental específico."
+    }
+  ],
+  "interpretation": "La hablante prefiere su condición humilde a una elegancia vulnerable y proyecta esa elección hacia un verano que no acaba.",
+  "preest": null
+},
+  J164: {
+  "id": "J164",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Mama never forgets her birds,",
+  "titleES": "Mamá nunca olvida a sus pájaros,",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J164 (pp. 76–78); Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "Mama never forgets her birds,",
+      "Mamá nunca olvida a sus pájaros,"
+    ],
+    [
+      "Though in another tree -",
+      "aunque esté en otro árbol —"
+    ],
+    [
+      "She looks down just as often",
+      "mira hacia abajo con la misma frecuencia"
+    ],
+    [
+      "And just as tenderly",
+      "y con la misma ternura"
+    ],
+    [
+      "As when her little mortal nest",
+      "que cuando su pequeño nido mortal"
+    ],
+    [
+      "With cunning care she wove -",
+      "tejía con ingenioso cuidado —"
+    ],
+    [
+      "If either of her \"sparrows fall,\"",
+      "si alguno de sus «gorriones cae»,"
+    ],
+    [
+      "She \"notices,\" above.",
+      "ella lo «advierte», desde arriba."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 7,
+      "title": "sparrows fall",
+      "body": "Alusión a Mateo 10:29, sobre el gorrión que no cae sin conocimiento del Padre."
+    }
+  ],
+  "interpretation": "La maternidad trasciende la muerte mediante una imagen de cuidado que traslada al cielo el lenguaje del nido.",
+  "preest": null
+},
+  J165: {
+  "id": "J165",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "A Wounded Deer - leaps highest -",
+  "titleES": "Un ciervo herido — salta más alto —",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J165 (pp. 76–78); Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "A Wounded Deer - leaps highest -",
+      "Un ciervo herido — salta más alto —"
+    ],
+    [
+      "I've heard the Hunter tell -",
+      "se lo he oído decir al cazador —"
+    ],
+    [
+      "'Tis but the Ecstasy of death -",
+      "no es más que el éxtasis de la muerte —"
+    ],
+    [
+      "And then the Brake is still!",
+      "¡y después el matorral queda inmóvil!"
+    ],
+    [
+      "The Smitten Rock that gushes!",
+      "¡La roca golpeada que mana!"
+    ],
+    [
+      "The trampled Steel that springs!",
+      "¡El acero pisoteado que rebota!"
+    ],
+    [
+      "A Cheek is always redder",
+      "Una mejilla siempre está más roja"
+    ],
+    [
+      "Just where the Hectic stings!",
+      "justo donde la fiebre punza."
+    ],
+    [
+      "Mirth is the Mail of Anguish -",
+      "La alegría es la cota de malla de la angustia —"
+    ],
+    [
+      "In which it Cautious Arm,",
+      "con la que su brazo cauteloso,"
+    ],
+    [
+      "Lest anybody spy the blood",
+      "para que nadie vea la sangre"
+    ],
+    [
+      "And \"you're hurt\" exclaim!",
+      "y exclame: «¡Estás herida!»."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Mail",
+      "body": "Armadura de malla: la alegría protege o disimula la angustia."
+    }
+  ],
+  "interpretation": "La energía visible puede ser síntoma del daño: el júbilo no contradice el sufrimiento, sino que puede encubrirlo.",
+  "preest": null
 }
 });
