@@ -127,9 +127,15 @@
     ],
     "completedSequentialThrough": 90,
     "nextJohnsonId": "J91",
-    "targetNewVersesPerRun": 200
+    "targetNewVersesPerRun": 200,
+    "audit": {
+      "date": "2026-11-21",
+      "result": "112 unique Johnson IDs; J1–J90 complete; J60 restored; 1566 aligned verse pairs",
+      "restored": "J60",
+      "newVersesThisAudit": 0
+    }
   },
-  "lastCompletedMilestone": "J82–J90: 84 bilingual verses",
-  "nextAction": "Continue J91; review J82 textual ambiguity, Franklin concordance and Preest interpretation",
+  "lastCompletedMilestone": "J82–J90: 84 bilingual verses; J60 restored from original published commit; 112 poems / 1566 verses reconciled",
+  "nextAction": "Continue with J91 (approximately 200 new verses); review J82 against Johnson scan and add Franklin/Preest commentary",
   "updatedOn": "2026-11-21"
 }
