@@ -6009,5 +6009,506 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La petición invierte las jerarquías religiosas y zoológicas: el pequeño animal perseguido reclama la misma hospitalidad celestial que las almas humanas. El humor no cancela la compasión; la vuelve concreta, imaginando una eternidad donde el ratón pueda alimentarse sin miedo mientras transcurre el tiempo cósmico.",
   "preest": null
+},
+  J62: {
+  "id": "J62",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "\"Sown in dishonor\"!",
+  "titleES": "«¡Sembrado en deshonra»!",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J62 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "\"Sown in dishonor\"!",
+      "¡«Sembrado en deshonra»!"
+    ],
+    [
+      "Ah! Indeed!",
+      "¡Ah! ¡De veras!"
+    ],
+    [
+      "May this \"dishonor\" be?",
+      "¿Puede ser esto «deshonra»?"
+    ],
+    [
+      "If I were half so fine myself",
+      "Si yo fuese siquiera la mitad de noble"
+    ],
+    [
+      "I'd notice nobody!",
+      "¡no prestaría atención a nadie!"
+    ],
+    [
+      "\"Sown in corruption\"!",
+      "¡«Sembrado en corrupción»!"
+    ],
+    [
+      "Not so fast!",
+      "¡No tan deprisa!"
+    ],
+    [
+      "Apostle is askew!",
+      "¡El apóstol se equivoca!"
+    ],
+    [
+      "Corinthians I. 15. narrates",
+      "La primera a los Corintios, capítulo quince, cuenta"
+    ],
+    [
+      "A Circumstance or two!",
+      "¡una circunstancia o dos!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Alusión paulina",
+      "body": "«Sown in dishonor» y «sown in corruption» evocan 1 Corintios 15:42–43; la voz corrige irónicamente la terminología apostólica."
+    }
+  ],
+  "interpretation": "El poema discute con el lenguaje paulino de la resurrección: las fórmulas de deshonra y corrupción resultan insuficientes ante la dignidad de aquello que renace.",
+  "preest": null
+},
+  J63: {
+  "id": "J63",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "If pain for peace prepares",
+  "titleES": "Si el dolor prepara para la paz",
+  "stanzaBreaks": [
+    3,
+    6,
+    9
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J63 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "If pain for peace prepares",
+      "Si el dolor prepara para la paz"
+    ],
+    [
+      "Lo, what \"Augustan\" years",
+      "¡mirá qué años «augustos»"
+    ],
+    [
+      "Our feet await!",
+      "aguardan a nuestros pies!"
+    ],
+    [
+      "If springs from Winter rise,",
+      "Si las primaveras brotan del invierno,"
+    ],
+    [
+      "Can the Anemones",
+      "¿podrán contarse"
+    ],
+    [
+      "Be reckoned up?",
+      "las anémonas?"
+    ],
+    [
+      "If night stands first - then noon",
+      "Si primero viene la noche — y luego el mediodía"
+    ],
+    [
+      "To gird us for the sun,",
+      "a prepararnos para el sol,"
+    ],
+    [
+      "What gaze!",
+      "¡qué mirada!"
+    ],
+    [
+      "When from a thousand skies",
+      "Cuando desde mil cielos"
+    ],
+    [
+      "On our developed eyes",
+      "sobre nuestros ojos ya abiertos"
+    ],
+    [
+      "Noons blaze!",
+      "¡arden los mediodías!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Augustan",
+      "body": "El adjetivo sugiere esplendor imperial y grandeza; su presencia entre comillas permite una lectura de admiración no exenta de distancia."
+    }
+  ],
+  "interpretation": "La serie condicional no ofrece una certeza doctrinal: ensaya la posibilidad de que el dolor, el invierno y la noche sean preparación para una plenitud desmesurada.",
+  "preest": null
+},
+  J64: {
+  "id": "J64",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "Some Rainbow - coming from the Fair!",
+  "titleES": "¡Algún arcoíris que viene de la feria!",
+  "stanzaBreaks": [
+    6,
+    12,
+    18
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J64 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "Some Rainbow - coming from the Fair!",
+      "¡Algún arcoíris que viene de la feria!"
+    ],
+    [
+      "Some Vision of the World Cashmere -",
+      "¡Alguna visión del mundo de Cachemira!"
+    ],
+    [
+      "I confidently see!",
+      "¡Eso veo con toda certeza!"
+    ],
+    [
+      "Or else a Peacock's purple Train",
+      "O quizá la cola púrpura de un pavo real"
+    ],
+    [
+      "Feather by feather - on the plain",
+      "pluma a pluma — sobre la llanura"
+    ],
+    [
+      "Fritters itself away!",
+      "¡se deshace poco a poco!"
+    ],
+    [
+      "The dreamy Butterflies bestir!",
+      "¡Se desperezan las mariposas soñolientas!"
+    ],
+    [
+      "Lethargic pools resume the whir",
+      "Los estanques aletargados reanudan el zumbido"
+    ],
+    [
+      "Of last year's sundered tune!",
+      "de la melodía interrumpida el año pasado."
+    ],
+    [
+      "From some old Fortress on the sun",
+      "Desde alguna antigua fortaleza del sol"
+    ],
+    [
+      "Baronial Bees - march - one by one -",
+      "las abejas señoriales marchan — una a una —"
+    ],
+    [
+      "In murmuring platoon!",
+      "¡en pelotones murmurantes!"
+    ],
+    [
+      "The Robins stand as thick today",
+      "Hoy los petirrojos se apiñan tanto"
+    ],
+    [
+      "As Rakes of snow stood yesterday -",
+      "como ayer los montones de nieve —"
+    ],
+    [
+      "On fence - and Roof - and Twig!",
+      "¡sobre cercas, tejados y ramas!"
+    ],
+    [
+      "The Orchis binds her feather on",
+      "La orquídea se prende su pluma"
+    ],
+    [
+      "For her old lover - Don the Sun!",
+      "para su antiguo amante — ¡don Sol!"
+    ],
+    [
+      "Revisiting the Bog!",
+      "que vuelve a visitar el pantano."
+    ],
+    [
+      "Without Commander! Countless! Still!",
+      "¡Sin comandante! ¡Innumerables! ¡Inmóviles!"
+    ],
+    [
+      "The Regiments of Wood and Hill",
+      "Los regimientos del bosque y de la colina"
+    ],
+    [
+      "In bright detachment stand!",
+      "permanecen en brillante formación."
+    ],
+    [
+      "Behold! Whose Multitudes are these?",
+      "¡Mirá! ¿De quién son estas multitudes?"
+    ],
+    [
+      "The children of whose turbaned seas -",
+      "¿Hijos de qué mares con turbante —"
+    ],
+    [
+      "Or what Circassian Land?",
+      "o de qué tierra circasiana?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Cashmere",
+      "body": "Cachemira funciona como emblema de lejanía, color y lujo en el imaginario decimonónico."
+    },
+    {
+      "line": 24,
+      "title": "Circassian",
+      "body": "Referencia a Circasia, región del Cáucaso; el cierre mantiene el tono de exotismo geográfico propio del poema."
+    }
+  ],
+  "interpretation": "La primavera irrumpe como desfile, feria y ejército sin general: la acumulación de imágenes convierte el paisaje en una aparición que desborda cualquier clasificación.",
+  "preest": null
+},
+  J65: {
+  "id": "J65",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "I can't tell you - but you feel it -",
+  "titleES": "No puedo decírtelo — pero lo sentís —",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J65 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "I can't tell you - but you feel it -",
+      "No puedo decírtelo — pero lo sentís —"
+    ],
+    [
+      "Nor can you tell me -",
+      "ni vos podés decírmelo —"
+    ],
+    [
+      "Saints, with ravished slate and pencil",
+      "los santos, con pizarra y lápiz arrebatados,"
+    ],
+    [
+      "Solve our April Day!",
+      "¡descifran nuestro día de abril!"
+    ],
+    [
+      "Sweeter than a vanished frolic",
+      "Más dulce que un juego desaparecido"
+    ],
+    [
+      "From a vanished green!",
+      "de un prado desaparecido."
+    ],
+    [
+      "Swifter than the hoofs of Horsemen",
+      "Más veloz que los cascos de los jinetes"
+    ],
+    [
+      "Round a Ledge of dream!",
+      "en torno a un saliente del sueño."
+    ],
+    [
+      "Modest, let us walk among it",
+      "Con modestia, caminemos entre todo esto"
+    ],
+    [
+      "With our faces veiled -",
+      "con el rostro velado —"
+    ],
+    [
+      "As they say polite Archangels",
+      "como dicen que hacen los arcángeles corteses"
+    ],
+    [
+      "Do in meeting God!",
+      "cuando se encuentran con Dios."
+    ],
+    [
+      "Not for me - to prate about it!",
+      "¡No me corresponde parlotear sobre ello!"
+    ],
+    [
+      "Not for you - to say",
+      "Ni a vos decirle"
+    ],
+    [
+      "To some fashionable Lady",
+      "a alguna dama elegante:"
+    ],
+    [
+      "\"Charming April Day\"!",
+      "«¡Qué encantador día de abril!»."
+    ],
+    [
+      "Rather - Heaven's \"Peter Parley\"!",
+      "Más bien — ¡el «Peter Parley» del cielo!"
+    ],
+    [
+      "By which Children slow",
+      "con el cual los niños lentos"
+    ],
+    [
+      "To sublimer Recitation",
+      "se preparan para una recitación más sublime"
+    ],
+    [
+      "Are prepared to go!",
+      "y aprenden a seguir adelante."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 17,
+      "title": "Peter Parley",
+      "body": "Seudónimo editorial de Samuel Griswold Goodrich, conocido por sus libros didácticos para niños; el cielo se compara con un primer libro de aprendizaje."
+    }
+  ],
+  "interpretation": "La experiencia de abril se presenta como conocimiento compartido pero inefable. La etiqueta social reduce lo extraordinario a conversación trivial; la imagen del manual infantil propone una pedagogía gradual de lo sublime.",
+  "preest": null
+},
+  J66: {
+  "id": "J66",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "So from the mould",
+  "titleES": "Así, desde la tierra húmeda",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J66 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "So from the mould",
+      "Así, desde la tierra húmeda"
+    ],
+    [
+      "Scarlet and Gold",
+      "escarlata y oro"
+    ],
+    [
+      "Many a Bulb will rise -",
+      "se alzarán tantos bulbos —"
+    ],
+    [
+      "Hidden away, cunningly,",
+      "ocultos con astucia"
+    ],
+    [
+      "From sagacious eyes.",
+      "a los ojos sagaces."
+    ],
+    [
+      "So from Cocoon",
+      "Así, del capullo"
+    ],
+    [
+      "Many a Worm",
+      "tantas orugas"
+    ],
+    [
+      "Leap so Highland gay,",
+      "saltan con alegría montañesa,"
+    ],
+    [
+      "Peasants like me,",
+      "que campesinos como yo,"
+    ],
+    [
+      "Peasants like Thee",
+      "campesinos como vos,"
+    ],
+    [
+      "Gaze perplexedly!",
+      "¡miramos perplejos!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "Highland",
+      "body": "El adjetivo evoca una alegría vivaz y casi danzante; la formulación inglesa es deliberadamente excéntrica."
+    }
+  ],
+  "interpretation": "La germinación y la metamorfosis desbaratan la confianza de la observación humana: incluso quienes viven cerca de la naturaleza quedan sorprendidos.",
+  "preest": null
+},
+  J67: {
+  "id": "J67",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "Success is counted sweetest",
+  "titleES": "El éxito parece más dulce",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J67 (PDF del proyecto, páginas 42–45); correspondencia Franklin pendiente.",
+  "lines": [
+    [
+      "Success is counted sweetest",
+      "El éxito se considera más dulce"
+    ],
+    [
+      "By those who ne'er succeed.",
+      "para quienes nunca triunfan."
+    ],
+    [
+      "To comprehend a nectar",
+      "Para comprender un néctar"
+    ],
+    [
+      "Requires sorest need.",
+      "hace falta la necesidad más dolorosa."
+    ],
+    [
+      "Not one of all the purple Host",
+      "Ni uno solo de toda la hueste púrpura"
+    ],
+    [
+      "Who took the Flag today",
+      "que hoy conquistó la bandera"
+    ],
+    [
+      "Can tell the definition",
+      "puede expresar la definición"
+    ],
+    [
+      "So clear of Victory",
+      "de la victoria con tanta claridad"
+    ],
+    [
+      "As he defeated - dying -",
+      "como aquel derrotado — moribundo —"
+    ],
+    [
+      "On whose forbidden ear",
+      "en cuyo oído vedado"
+    ],
+    [
+      "The distant strains of triumph",
+      "los lejanos acordes del triunfo"
+    ],
+    [
+      "Burst agonized and clear!",
+      "¡estallan agónicos y nítidos!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Purple Host",
+      "body": "La hueste púrpura combina la imagen militar con un color asociado al poder y a la dignidad regia."
+    }
+  ],
+  "interpretation": "La paradoja invierte el reparto del conocimiento: quien pierde comprende el valor de la victoria mejor que sus vencedores. El cierre une percepción intensificada y agonía.",
+  "preest": null
 }
 });
