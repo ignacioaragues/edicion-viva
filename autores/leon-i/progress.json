@@ -1217,9 +1217,32 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Complete five-chapter first pass, 15 aligned units. Digital source has split forms crucifi geretur and per misit; Dominus regnavit a ligno needs textual criticism. Printed PL54 collation, complete morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 56,
+      "section": "Sermo LVI · De Passione Domini V · capita I–III",
+      "paragraphs": 15,
+      "aligned_units": 15,
+      "published_chapters": [
+        1,
+        2,
+        3
+      ],
+      "total_chapters": 3,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lvi/index.html",
+      "voice_notes": 6,
+      "lexical_coverage": "18 selective contextual entries; exhaustive token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Full three-chapter first-pass translation based on Tractatus LVI public Latin transcription. Digital 'estimpensa' retained for collation; printed PL54, full token morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo LVI, caput I; continue ordinary sequence",
+  "next": "Sermo LVII, caput I; continue ordinary sequence",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-21",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
