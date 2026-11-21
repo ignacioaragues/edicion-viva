@@ -10840,5 +10840,464 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "notes": [],
   "interpretation": "El breve retorno del calor aparece como una liturgia engañosa y a la vez deseada: la hablante conoce el artificio estacional, pero pide participar.",
   "preest": null
-},
+},,
+  J131: {
+    "id": "J131",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Besides the Autumn poets sing",
+    "titleES": "Además del otoño que cantan los poetas",
+    "source": "Thomas H. Johnson, The Complete Poems, J131, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "Besides the Autumn poets sing",
+        "Además del otoño que cantan los poetas"
+      ],
+      [
+        "A few prosaic days",
+        "hay unos días prosaicos"
+      ],
+      [
+        "A little this side of the snow",
+        "un poco antes de la nieve"
+      ],
+      [
+        "And that side of the Haze -",
+        "y después de la bruma —"
+      ],
+      [
+        "A few incisive Mornings -",
+        "unas mañanas incisivas —"
+      ],
+      [
+        "A few Ascetic Eves -",
+        "unas tardes ascéticas —"
+      ],
+      [
+        "Gone - Mr. Bryant's \"Golden Rod\" -",
+        "se fueron la «vara de oro» del señor Bryant —"
+      ],
+      [
+        "And Mr. Thomson's \"sheaves\"",
+        "y las «gavillas» del señor Thomson."
+      ],
+      [
+        "Still, is the bustle in the Brook -",
+        "Aún bulle el arroyo —"
+      ],
+      [
+        "Sealed are the spicy valves -",
+        "selladas están las válvulas fragantes —"
+      ],
+      [
+        "Mesmeric fingers softly touch",
+        "dedos hipnóticos rozan suavemente"
+      ],
+      [
+        "The Eyes of many Elves -",
+        "los ojos de muchos duendes —"
+      ],
+      [
+        "Perhaps a squirrel may remain -",
+        "quizá quede una ardilla —"
+      ],
+      [
+        "My sentiments to share -",
+        "para compartir mis sentimientos —"
+      ],
+      [
+        "Grant me, Oh Lord, a sunny mind -",
+        "concedeme, Señor, una mente soleada —"
+      ],
+      [
+        "Thy windy will to bear!",
+        "¡para soportar tu voluntad ventosa!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La estación aparece entre los tópicos literarios del otoño y el deseo de una disposición interior capaz de soportar el cambio.",
+    "preest": null
+  },
+  J132: {
+    "id": "J132",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "I bring an unaccustomed wine",
+    "titleES": "Llevo un vino desconocido",
+    "source": "Thomas H. Johnson, The Complete Poems, J132, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "I bring an unaccustomed wine",
+        "Llevo un vino desconocido"
+      ],
+      [
+        "To lips long parching",
+        "a unos labios resecos desde hace mucho"
+      ],
+      [
+        "Next to mine,",
+        "junto a los míos,"
+      ],
+      [
+        "And summon them to drink,",
+        "y los invito a beber;"
+      ],
+      [
+        "Crackling with fever, they Essay,",
+        "crepitando de fiebre, lo intentan,"
+      ],
+      [
+        "I turn my brimming eyes away,",
+        "aparto los ojos desbordados"
+      ],
+      [
+        "And come next hour to look.",
+        "y vuelvo una hora después a mirar."
+      ],
+      [
+        "The hands still hug the tardy glass -",
+        "Las manos aún abrazan el vaso tardío —"
+      ],
+      [
+        "The lips I would have cooled, alas -",
+        "los labios que quise refrescar, ay —"
+      ],
+      [
+        "Are so superfluous Cold -",
+        "están fríos de más —"
+      ],
+      [
+        "I would as soon attempt to warm",
+        "lo mismo daría intentar calentar"
+      ],
+      [
+        "The bosoms where the frost has lain",
+        "los pechos donde la escarcha yace"
+      ],
+      [
+        "Ages beneath the mould -",
+        "desde hace siglos bajo la tierra —"
+      ],
+      [
+        "Some other thirsty there may be",
+        "quizá haya allí otro sediento"
+      ],
+      [
+        "To whom this would have pointed me",
+        "hacia quien me habría dirigido"
+      ],
+      [
+        "Had it remained to speak -",
+        "si aquel hubiera podido hablar —"
+      ],
+      [
+        "And so I always bear the cup",
+        "por eso siempre llevo la copa,"
+      ],
+      [
+        "If, haply, mine may be the drop",
+        "por si acaso mi gota pudiera"
+      ],
+      [
+        "Some pilgrim thirst to slake -",
+        "calmar la sed de algún peregrino —"
+      ],
+      [
+        "If, haply, any say to me",
+        "por si acaso alguien me dijera"
+      ],
+      [
+        "\"Unto the little, unto me,\"",
+        "«A los pequeños, a mí»,"
+      ],
+      [
+        "When I at last awake.",
+        "cuando al fin despierte."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La copa pasa del intento fallido de salvar una vida a la esperanza de aliviar la sed de otra persona.",
+    "preest": null
+  },
+  J133: {
+    "id": "J133",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "As Children bid the Guest \"Good Night\"",
+    "titleES": "Como niños que dicen «buenas noches» al huésped",
+    "source": "Thomas H. Johnson, The Complete Poems, J133, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "As Children bid the Guest \"Good Night\"",
+        "Como niños que dicen «buenas noches» al huésped"
+      ],
+      [
+        "And then reluctant turn -",
+        "y luego se vuelven a disgusto —"
+      ],
+      [
+        "My flowers raise their pretty lips -",
+        "mis flores alzan sus lindos labios —"
+      ],
+      [
+        "Then put their nightgowns on",
+        "y después se ponen el camisón."
+      ],
+      [
+        "As children caper when they wake",
+        "Como los niños que saltan al despertar,"
+      ],
+      [
+        "Merry that it is Morn -",
+        "felices porque es de mañana —"
+      ],
+      [
+        "My flowers from a hundred cribs",
+        "mis flores, desde cien cunas,"
+      ],
+      [
+        "Will peep, and prance again.",
+        "volverán a asomarse y a brincar."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "Las flores y los niños comparten el ciclo del sueño y el despertar.",
+    "preest": null
+  },
+  J134: {
+    "id": "J134",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Perhaps you'd like to buy a flower,",
+    "titleES": "Quizá quieras comprar una flor,",
+    "source": "Thomas H. Johnson, The Complete Poems, J134, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "Perhaps you'd like to buy a flower,",
+        "Quizá quieras comprar una flor,"
+      ],
+      [
+        "But I could never sell -",
+        "pero yo nunca podría venderla —"
+      ],
+      [
+        "If you would like to borrow,",
+        "si quisieras pedirla prestada,"
+      ],
+      [
+        "Until the Daffodil",
+        "hasta que el narciso"
+      ],
+      [
+        "Unties her yellow Bonnet",
+        "se desate el sombrero amarillo"
+      ],
+      [
+        "Beneath the village door,",
+        "junto a la puerta del pueblo,"
+      ],
+      [
+        "Until the Bees, from Clover rows",
+        "hasta que las abejas, de las hileras de trébol,"
+      ],
+      [
+        "Their Hock, and Sherry, draw,",
+        "saquen su vino del Rin y su jerez,"
+      ],
+      [
+        "Why, I will lend until just then,",
+        "bueno, te la prestaré hasta entonces,"
+      ],
+      [
+        "But not an hour more!",
+        "¡pero ni una hora más!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La flor no es mercancía: el préstamo queda sujeto al tiempo natural.",
+    "preest": null
+  },
+  J135: {
+    "id": "J135",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Water, is taught by thirst.",
+    "titleES": "El agua se aprende por la sed.",
+    "source": "Thomas H. Johnson, The Complete Poems, J135, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "Water, is taught by thirst.",
+        "El agua se aprende por la sed."
+      ],
+      [
+        "Land - by the Oceans passed.",
+        "La tierra — por los océanos cruzados."
+      ],
+      [
+        "Transport - by throe -",
+        "El éxtasis — por la agonía —"
+      ],
+      [
+        "Peace - by its battles told -",
+        "la paz — por las batallas que la cuentan —"
+      ],
+      [
+        "Love, by Memorial Mold -",
+        "el amor — por el moho del recuerdo —"
+      ],
+      [
+        "Birds, by the Snow.",
+        "los pájaros — por la nieve."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "El conocimiento se construye por contraste, pérdida y privación.",
+    "preest": null
+  },
+  J136: {
+    "id": "J136",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Have you got a Brook in your little heart,",
+    "titleES": "¿Tenés un arroyo en tu pequeño corazón,",
+    "source": "Thomas H. Johnson, The Complete Poems, J136, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "Have you got a Brook in your little heart,",
+        "¿Tenés un arroyo en tu pequeño corazón,"
+      ],
+      [
+        "Where bashful flowers blow,",
+        "donde florecen flores tímidas,"
+      ],
+      [
+        "And blushing birds go down to drink,",
+        "y bajan pájaros ruborizados a beber,"
+      ],
+      [
+        "And shadows tremble so -",
+        "y las sombras tiemblan así —"
+      ],
+      [
+        "And nobody knows, so still it flows,",
+        "y nadie sabe, tan quieto fluye,"
+      ],
+      [
+        "That any brook is there,",
+        "que existe allí un arroyo,"
+      ],
+      [
+        "And yet your little draught of life",
+        "aunque tu pequeña ración de vida"
+      ],
+      [
+        "Is daily drunken there -",
+        "se bebe allí cada día —"
+      ],
+      [
+        "Why, look out for the little brook in March,",
+        "pues cuidá ese arroyito en marzo,"
+      ],
+      [
+        "When the rivers overflow,",
+        "cuando los ríos se desbordan,"
+      ],
+      [
+        "And the snows come hurrying from the hills,",
+        "y las nieves bajan presurosas de las colinas,"
+      ],
+      [
+        "And the bridges often go -",
+        "y los puentes suelen ceder —"
+      ],
+      [
+        "And later, in August it may be -",
+        "y más tarde, quizá en agosto —"
+      ],
+      [
+        "When the meadows parching lie,",
+        "cuando los prados yacen resecos,"
+      ],
+      [
+        "Beware, lest this little brook of life,",
+        "¡cuidado, no sea que ese arroyito de vida"
+      ],
+      [
+        "Some burning noon go dry!",
+        "se seque algún mediodía ardiente!"
+      ]
+    ],
+    "notes": [],
+    "interpretation": "El arroyo interior sostiene la vida, pero también es vulnerable a los extremos estacionales.",
+    "preest": null
+  },
+  J137: {
+    "id": "J137",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Flowers - Well - if anybody",
+    "titleES": "Flores — bueno — si alguien",
+    "source": "Thomas H. Johnson, The Complete Poems, J137, pp. 61–64 (texto cotejado con PDF del usuario; variantes manuscritas pendientes).",
+    "lines": [
+      [
+        "Flowers - Well - if anybody",
+        "Flores — bueno — si alguien"
+      ],
+      [
+        "Can the ecstasy define -",
+        "puede definir el éxtasis —"
+      ],
+      [
+        "Half a transport - half a trouble -",
+        "mitad arrebato — mitad tormento —"
+      ],
+      [
+        "With which flowers humble men:",
+        "con que las flores humillan a los hombres:"
+      ],
+      [
+        "Anybody find the fountain",
+        "si alguien encuentra la fuente"
+      ],
+      [
+        "From which floods so contra flow -",
+        "de donde brotan corrientes tan contrarias —"
+      ],
+      [
+        "I will give him all the Daisies",
+        "le daré todas las margaritas"
+      ],
+      [
+        "Which upon the hillside blow.",
+        "que florecen en la ladera."
+      ],
+      [
+        "Too much pathos in their faces",
+        "Hay demasiado patetismo en sus rostros"
+      ],
+      [
+        "For a simple breast like mine -",
+        "para un pecho sencillo como el mío —"
+      ],
+      [
+        "Butterflies from St. Domingo",
+        "las mariposas de Santo Domingo"
+      ],
+      [
+        "Cruising round the purple line -",
+        "que navegan junto al borde púrpura —"
+      ],
+      [
+        "Have a system of aesthetics -",
+        "poseen un sistema de estética —"
+      ],
+      [
+        "Far superior to mine.",
+        "muy superior al mío."
+      ]
+    ],
+    "notes": [],
+    "interpretation": "La belleza floral desborda las categorías humanas y desplaza la autoridad estética hacia las mariposas.",
+    "preest": null
+  }
 });
