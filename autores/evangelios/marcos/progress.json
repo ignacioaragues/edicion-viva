@@ -2626,12 +2626,24 @@
         "https://www.misselbrook.org.uk/GNT/Mark.pdf",
         "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 23,
+      "to": 23,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "12/12 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/9/23",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/23"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,23; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 23
+    "verse": 24
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -2786,7 +2798,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "9,22: 22/22 fichas posicionales; revisión contextual pendiente"
+    "last_added": "9,23: 12/12 fichas posicionales; revisión contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -5536,6 +5548,16 @@
       "https://biblia.com/bible/sblgnt/mark/9",
       "https://www.misselbrook.org.uk/GNT/Mark.pdf",
       "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
+    ]
+  },
+  "prepublication_research_9_23": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "12/12",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/9/23",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/23"
     ]
   }
 }
