@@ -2368,12 +2368,25 @@
         "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf",
         "https://www.biblegateway.com/passage/?search=Mark+8%3A38&version=SBLGNT"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 1,
+      "to": 1,
+      "status": "edited_not_revised",
+      "morphology": "27/27 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://tips.translation.bible/story/translation-commentary-on-mark-91/",
+        "https://biblehub.com/commentaries/mark/9-1.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,1; segunda revisión contextual y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,2; segunda revisión contextual y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 1
+    "verse": 2
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5050,6 +5063,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf",
       "https://www.biblegateway.com/passage/?search=Mark+8%3A38&version=SBLGNT"
+    ]
+  },
+  "prepublication_research_9_1": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "27/27",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://tips.translation.bible/story/translation-commentary-on-mark-91/",
+      "https://biblehub.com/commentaries/mark/9-1.htm"
     ]
   }
 }
