@@ -11299,5 +11299,307 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "notes": [],
     "interpretation": "La belleza floral desborda las categorías humanas y desplaza la autoridad estética hacia las mariposas.",
     "preest": null
-  }
+  },
+  J138: {
+  "id": "J138",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Pigmy seraphs - gone astray -",
+  "titleES": "Serafines diminutos — extraviados —",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J138; pp. 64–66. Variantes y equivalencias Franklin pendientes.",
+  "lines": [
+    [
+      "Pigmy seraphs - gone astray -",
+      "Serafines diminutos — extraviados —"
+    ],
+    [
+      "Velvet people from Vevay-",
+      "Gente de terciopelo llegada de Vevey —"
+    ],
+    [
+      "Belles from some lost summer day -",
+      "Bellas de algún verano perdido —"
+    ],
+    [
+      "Bees exclusive Coterie -",
+      "Círculo exclusivo de las abejas —"
+    ],
+    [
+      "Pans could not lay the fold",
+      "Ni Pan podría disponer los pliegues"
+    ],
+    [
+      "Belted down with Emerald -",
+      "ceñidos de esmeralda —"
+    ],
+    [
+      "Venice could not show a cheek",
+      "Venecia no mostraría una mejilla"
+    ],
+    [
+      "Of a tint so lustrous meek-",
+      "de matiz tan luminoso y suave —"
+    ],
+    [
+      "Never such an Ambuscade",
+      "Jamás hubo emboscada semejante"
+    ],
+    [
+      "As of briar and leaf displayed",
+      "a la que despliegan zarza y hoja"
+    ],
+    [
+      "For my little damask maid -",
+      "para mi pequeña doncella de damasco —"
+    ],
+    [
+      "I had rather wear her grace",
+      "Preferiría vestir su gracia"
+    ],
+    [
+      "Than an Earl's distinguished face-",
+      "antes que el rostro distinguido de un conde —"
+    ],
+    [
+      "I had rather dwell like her",
+      "Preferiría vivir como ella"
+    ],
+    [
+      "Than be \"Duke of Exeter\" -",
+      "antes que ser «duque de Exeter» —"
+    ],
+    [
+      "Royalty enough for me",
+      "Me basta esa realeza:"
+    ],
+    [
+      "To subdue the Bumblebee.",
+      "someter al abejorro."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Vevay",
+      "body": "Nombre inglés tradicional de Vevey, ciudad suiza."
+    },
+    {
+      "line": 15,
+      "title": "Duke of Exeter",
+      "body": "Título nobiliario inglés."
+    }
+  ],
+  "interpretation": "La flor recibe títulos nobiliarios y una genealogía de lujo europeo, pero su soberanía culmina en el modesto dominio del abejorro.",
+  "preest": null
+},
+  J139: {
+  "id": "J139",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Soul, wilt thou toss again?",
+  "titleES": "Alma, ¿volverás a echar los dados?",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J139; pp. 64–66. Variantes y equivalencias Franklin pendientes.",
+  "lines": [
+    [
+      "Soul, wilt thou toss again?",
+      "Alma, ¿volverás a echar los dados?"
+    ],
+    [
+      "By just such a hazard",
+      "Por un riesgo semejante"
+    ],
+    [
+      "Hundreds have lost indeed -",
+      "cientos, en verdad, han perdido —"
+    ],
+    [
+      "But tens have won an all-",
+      "pero decenas lo han ganado todo —"
+    ],
+    [
+      "Angel's breathless ballot",
+      "El voto contenido de un ángel"
+    ],
+    [
+      "Lingers to record thee -",
+      "se demora para registrarte —"
+    ],
+    [
+      "Imps in eager Caucus",
+      "Diablillos en asamblea impaciente"
+    ],
+    [
+      "Raffle for my Soul!",
+      "¡se sortean mi alma!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "ballot / Caucus",
+      "body": "El vocabulario electoral convierte el juicio espiritual en una votación entre facciones."
+    }
+  ],
+  "interpretation": "La salvación aparece como apuesta electoral y juego de azar; no se resuelve quién elige el destino del alma.",
+  "preest": null
+},
+  J140: {
+  "id": "J140",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "An altered look about the hills -",
+  "titleES": "Otro aspecto tienen las colinas —",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J140; pp. 64–66. Variantes y equivalencias Franklin pendientes.",
+  "lines": [
+    [
+      "An altered look about the hills -",
+      "Otro aspecto tienen las colinas —"
+    ],
+    [
+      "A Tyrian light the village fills-",
+      "Una luz de Tiro llena el pueblo —"
+    ],
+    [
+      "A wider sunrise in the morn -",
+      "Más ancho amanece el sol por la mañana —"
+    ],
+    [
+      "A deeper twilight on the lawn-",
+      "Más hondo cae el crepúsculo sobre el césped —"
+    ],
+    [
+      "A print of a vermillion foot -",
+      "La huella de un pie bermellón —"
+    ],
+    [
+      "A purple finger on the slope -",
+      "Un dedo púrpura en la ladera —"
+    ],
+    [
+      "A flippant fly upon the pane -",
+      "Una mosca insolente en el cristal —"
+    ],
+    [
+      "A spider at his trade again -",
+      "Una araña que retoma su oficio —"
+    ],
+    [
+      "An added strut in Chanticleer -",
+      "Más engreído anda el gallo —"
+    ],
+    [
+      "A flower expected everywhere -",
+      "Se espera una flor en todas partes —"
+    ],
+    [
+      "An axe shrill singing in the woods -",
+      "Un hacha canta aguda en el bosque —"
+    ],
+    [
+      "Fern odors on untravelled roads-",
+      "Olor de helechos en caminos no transitados —"
+    ],
+    [
+      "All this and more I cannot tell -",
+      "Todo esto y más no sé contar —"
+    ],
+    [
+      "A furtive look you know as well-",
+      "Una mirada furtiva que también conocés —"
+    ],
+    [
+      "And Nicodemus' Mystery",
+      "Y el misterio de Nicodemo"
+    ],
+    [
+      "Receives its annual reply!",
+      "¡recibe su respuesta anual!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Tyrian",
+      "body": "Alusión al púrpura de Tiro, tinte regio."
+    },
+    {
+      "line": 15,
+      "title": "Nicodemus",
+      "body": "Alusión a Juan 3 y la pregunta por el nuevo nacimiento."
+    }
+  ],
+  "interpretation": "La primavera contesta con hechos sensibles a la pregunta bíblica por el renacimiento.",
+  "preest": null
+},
+  J141: {
+  "id": "J141",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Some, too fragile for Winter winds",
+  "titleES": "A algunos, demasiado frágiles para el viento invernal,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J141; pp. 64–66. Variantes y equivalencias Franklin pendientes.",
+  "lines": [
+    [
+      "Some, too fragile for Winter winds",
+      "A algunos, demasiado frágiles para el viento invernal,"
+    ],
+    [
+      "The thoughtful grave encloses -",
+      "los cobija la tumba previsora —"
+    ],
+    [
+      "Tenderly tucking them in from frost",
+      "los arropa con ternura contra la helada"
+    ],
+    [
+      "Before their feet are cold.",
+      "antes de que se enfríen sus pies."
+    ],
+    [
+      "Never the treasures in her nest",
+      "Jamás expone la tumba cautelosa"
+    ],
+    [
+      "The cautious grave exposes,",
+      "los tesoros de su nido:"
+    ],
+    [
+      "Building where schoolboy dare not look,",
+      "construye donde el escolar no osa mirar"
+    ],
+    [
+      "And sportsman is not bold.",
+      "ni el cazador se atreve."
+    ],
+    [
+      "The covert have all the children",
+      "En ese refugio están todos los niños"
+    ],
+    [
+      "Early aged, and often cold,",
+      "envejecidos pronto y a menudo fríos,"
+    ],
+    [
+      "Sparrows, unnoticed by the Father -",
+      "gorriones inadvertidos por el Padre —"
+    ],
+    [
+      "Lambs for whom time had not a fold.",
+      "corderos para quienes el tiempo no tuvo redil."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 11,
+      "title": "Sparrows",
+      "body": "Eco de Mateo 10:29, donde ningún gorrión cae sin que lo sepa el Padre."
+    }
+  ],
+  "interpretation": "La tumba adopta gestos maternales, pero los gorriones inadvertidos cuestionan la providencia.",
+  "preest": null
+}
 });
