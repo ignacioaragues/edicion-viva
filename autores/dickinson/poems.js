@@ -12720,5 +12720,441 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "Tres fenómenos mínimos —zumbido, color y amanecer— conducen a una experiencia de trascendencia que la hablante no puede explicar sin destruirla.",
   "preest": null
+},
+  J156: {
+  "id": "J156",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "You love me - you are sure -",
+  "titleES": "Me amás — ¿estás seguro? —",
+  "stanzaBreaks": [
+    7,
+    13
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J156 (pp. 73–76); correspondencia Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "You love me - you are sure -",
+      "Me amás — ¿estás seguro? —"
+    ],
+    [
+      "I shall not fear mistake -",
+      "No tendré que temer un error —"
+    ],
+    [
+      "I shall not cheated wake -",
+      "ni despertar engañada —"
+    ],
+    [
+      "Some grinning morn -",
+      "alguna mañana burlona —"
+    ],
+    [
+      "To find the Sunrise left -",
+      "para descubrir que el amanecer se ha marchado —"
+    ],
+    [
+      "And Orchards - unbereft -",
+      "y los huertos — intactos —"
+    ],
+    [
+      "And Dollie - gone!",
+      "¡y Dollie — ausente!"
+    ],
+    [
+      "I need not start - you're sure -",
+      "No tengo que sobresaltarme — ¿estás seguro? —"
+    ],
+    [
+      "That night will never be -",
+      "Nunca llegará aquella noche —"
+    ],
+    [
+      "When frightened - home to Thee I run -",
+      "en que, asustada, corra hacia vos, a casa —"
+    ],
+    [
+      "To find the windows dark -",
+      "para encontrar las ventanas oscuras —"
+    ],
+    [
+      "And no more Dollie - mark -",
+      "y ninguna Dollie ya — fijate —"
+    ],
+    [
+      "Quite none?",
+      "¿ninguna en absoluto?"
+    ],
+    [
+      "Be sure you're sure - you know -",
+      "Asegurate de estar seguro — sabés —"
+    ],
+    [
+      "I'll bear it better now -",
+      "lo soportaré mejor ahora —"
+    ],
+    [
+      "If you'll just tell me so -",
+      "si simplemente me lo decís —"
+    ],
+    [
+      "Than when - a little dull Balm grown -",
+      "que cuando — haya crecido un bálsamo apagado —"
+    ],
+    [
+      "Over this pain of mine -",
+      "sobre este dolor mío —"
+    ],
+    [
+      "You sting - again!",
+      "¡y vuelvas a herirme!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 7,
+      "title": "Dollie",
+      "body": "Nombre íntimo empleado en el poema; no conviene identificar sin más a una persona histórica concreta."
+    }
+  ],
+  "interpretation": "La súplica amorosa exige certeza imposible: la amenaza no es solo la ausencia, sino la reaparición de una herida después de una tregua.",
+  "preest": null
+},
+  J157: {
+  "id": "J157",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Musicians wrestle everywhere -",
+  "titleES": "Los músicos luchan por todas partes —",
+  "stanzaBreaks": [
+    6,
+    12,
+    15
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J157 (pp. 73–76); correspondencia Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "Musicians wrestle everywhere -",
+      "Los músicos luchan por todas partes —"
+    ],
+    [
+      "All day - among the crowded air",
+      "todo el día — entre el aire atestado"
+    ],
+    [
+      "I hear the silver strife -",
+      "oigo la contienda de plata —"
+    ],
+    [
+      "And - waking - long before the morn -",
+      "y — al despertar — mucho antes del alba —"
+    ],
+    [
+      "Such transport breaks upon the town",
+      "tal arrebato irrumpe sobre la ciudad"
+    ],
+    [
+      "I think it that \"New Life\"!",
+      "que creo que es aquella «Vida Nueva»."
+    ],
+    [
+      "It is not Bird - it has no nest -",
+      "No es pájaro — no tiene nido —"
+    ],
+    [
+      "Nor \"Band\" - in brass and scarlet - drest -",
+      "ni «banda» — vestida de bronce y escarlata —"
+    ],
+    [
+      "Nor Tamborin - nor Man -",
+      "ni pandereta — ni hombre —"
+    ],
+    [
+      "It is not Hymn from pulpit read -",
+      "no es himno leído desde el púlpito —"
+    ],
+    [
+      "The \"Morning Stars\" the Treble led",
+      "las «estrellas de la mañana» llevaban la voz aguda"
+    ],
+    [
+      "On Time's first Afternoon!",
+      "en la primera tarde del tiempo."
+    ],
+    [
+      "Some - say - it is \"the Spheres\" - at play!",
+      "Algunos — dicen — que son «las esferas» jugando —"
+    ],
+    [
+      "Some say that bright Majority",
+      "otros dicen que esa luminosa mayoría"
+    ],
+    [
+      "Of vanished Dames - and Men!",
+      "de damas — y hombres — desaparecidos."
+    ],
+    [
+      "Some - think it service in the place",
+      "Otros — creen que es un oficio en el lugar"
+    ],
+    [
+      "Where we - with late - celestial face -",
+      "donde nosotros — con nuestro futuro rostro celestial —"
+    ],
+    [
+      "Please God - shall Ascertain!",
+      "si Dios quiere — ¡habremos de averiguarlo!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 11,
+      "title": "Morning Stars",
+      "body": "Evoca el canto de las estrellas matutinas en Job 38:7."
+    }
+  ],
+  "interpretation": "El oído descubre una música que no puede localizarse: entre naturaleza, armonía cósmica y liturgia de los muertos, ninguna explicación agota su intensidad.",
+  "preest": null
+},
+  J158: {
+  "id": "J158",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Dying! Dying in the night!",
+  "titleES": "¡Muriendo! ¡Muriendo en la noche!",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J158 (pp. 73–76); correspondencia Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "Dying! Dying in the night!",
+      "¡Muriendo! ¡Muriendo en la noche!"
+    ],
+    [
+      "Won't somebody bring the light",
+      "¿No traerá alguien una luz"
+    ],
+    [
+      "So I can see which way to go",
+      "para que pueda ver por dónde ir"
+    ],
+    [
+      "Into the everlasting snow?",
+      "hacia la nieve eterna?"
+    ],
+    [
+      "And \"Jesus\"! Where is Jesus gone?",
+      "¡Y «Jesús»! ¿Adónde se ha ido Jesús?"
+    ],
+    [
+      "They said that Jesus - always came -",
+      "Decían que Jesús — siempre acudía —"
+    ],
+    [
+      "Perhaps he doesn't know the House -",
+      "Quizá no conozca la casa —"
+    ],
+    [
+      "This way, Jesus, Let him pass!",
+      "¡Por aquí, Jesús, déjenlo pasar!"
+    ],
+    [
+      "Somebody run to the great gate",
+      "Que alguien corra hasta el gran portón"
+    ],
+    [
+      "And see if Dollie's coming! Wait!",
+      "y vea si viene Dollie. ¡Esperen!"
+    ],
+    [
+      "I hear her feet upon the stair!",
+      "¡Oigo sus pasos en la escalera!"
+    ],
+    [
+      "Death won't hurt - now Dollie's here!",
+      "¡La muerte ya no dolerá — ahora que Dollie está aquí!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 10,
+      "title": "Dollie",
+      "body": "El nombre afectivo reaparece en J156; el texto no exige una identificación biográfica unívoca."
+    }
+  ],
+  "interpretation": "La agonía oscila entre el auxilio religioso que no llega y la presencia íntima que sí llega: el consuelo decisivo es humano.",
+  "preest": null
+},
+  J159: {
+  "id": "J159",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "A little bread - a crust - a crumb -",
+  "titleES": "Un poco de pan — una corteza — una miga —",
+  "stanzaBreaks": [
+    6,
+    9
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J159 (pp. 73–76); correspondencia Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "A little bread - a crust - a crumb -",
+      "Un poco de pan — una corteza — una miga —"
+    ],
+    [
+      "A little trust - a demijohn -",
+      "un poco de confianza — una damajuana —"
+    ],
+    [
+      "Can keep the soul alive -",
+      "pueden mantener viva el alma —"
+    ],
+    [
+      "Not portly, mind! but breathing - warm -",
+      "no robusta, ¡ojo!, pero respirando — tibia —"
+    ],
+    [
+      "Conscious - as old Napoleon,",
+      "consciente — como el viejo Napoleón,"
+    ],
+    [
+      "The night before the Crown!",
+      "la noche anterior a la corona."
+    ],
+    [
+      "A modest lot - A fame petite -",
+      "Una suerte modesta — una fama pequeña —"
+    ],
+    [
+      "A brief Campaign of sting and sweet",
+      "una breve campaña de aguijón y dulzura"
+    ],
+    [
+      "Is plenty! Is enough!",
+      "¡es mucho! ¡Es suficiente!"
+    ],
+    [
+      "A Sailor's business is the shore!",
+      "¡El asunto de un marinero es la costa!"
+    ],
+    [
+      "A Soldier's - balls! Who asketh more,",
+      "¡El de un soldado — las balas! Quien pida más"
+    ],
+    [
+      "Must seek the neighboring life!",
+      "¡debe buscar otra vida!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "demijohn",
+      "body": "Recipiente grande de vidrio para bebidas; aquí forma parte de un inventario de provisiones mínimas."
+    }
+  ],
+  "interpretation": "La voz ensaya una ética de la suficiencia: unas pocas provisiones y una gloria mínima bastan para sostener una vida consciente.",
+  "preest": null
+},
+  J160: {
+  "id": "J160",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Just lost, when I was saved!",
+  "titleES": "¡Justo perdida, cuando fui salvada!",
+  "stanzaBreaks": [
+    6,
+    11
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J160 (pp. 73–76); correspondencia Franklin y variantes pendientes.",
+  "lines": [
+    [
+      "Just lost, when I was saved!",
+      "¡Justo perdida, cuando fui salvada!"
+    ],
+    [
+      "Just felt the world go by!",
+      "¡Acababa de sentir pasar el mundo!"
+    ],
+    [
+      "Just girt me for the onset with Eternity,",
+      "Acababa de ceñirme para el encuentro con la eternidad,"
+    ],
+    [
+      "When breath blew back,",
+      "cuando el aliento volvió de golpe,"
+    ],
+    [
+      "And on the other side",
+      "y del otro lado"
+    ],
+    [
+      "I heard recede the disappointed tide!",
+      "oí retirarse la marea decepcionada."
+    ],
+    [
+      "Therefore, as One returned, I feel",
+      "Por eso, como alguien que ha regresado, siento"
+    ],
+    [
+      "Odd secrets of the line to tell!",
+      "que tengo extraños secretos de la frontera que contar."
+    ],
+    [
+      "Some Sailor, skirting foreign shores -",
+      "Como un marinero que bordea costas extranjeras —"
+    ],
+    [
+      "Some pale Reporter, from the awful doors",
+      "como un pálido cronista, desde las puertas terribles"
+    ],
+    [
+      "Before the Seal!",
+      "antes del sello."
+    ],
+    [
+      "Next time, to stay!",
+      "¡La próxima vez, para quedarme!"
+    ],
+    [
+      "Next time, the things to see",
+      "La próxima vez, ver las cosas"
+    ],
+    [
+      "By Ear unheard,",
+      "que el oído no ha oído,"
+    ],
+    [
+      "Unscrutinized by Eye -",
+      "que el ojo no ha examinado —"
+    ],
+    [
+      "Next time, to tarry,",
+      "la próxima vez, para demorarme"
+    ],
+    [
+      "While the Ages steal -",
+      "mientras se deslizan las edades —"
+    ],
+    [
+      "Slow tramp the Centuries,",
+      "marchan lentamente los siglos"
+    ],
+    [
+      "And the Cycles wheel!",
+      "¡y giran los ciclos!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "line",
+      "body": "La línea funciona como límite entre la vida y la muerte, no como una frontera geográfica literal."
+    }
+  ],
+  "interpretation": "El regreso desde el umbral de la muerte convierte a la hablante en testigo de una frontera que todavía no puede describir por completo.",
+  "preest": null
 }
 });
