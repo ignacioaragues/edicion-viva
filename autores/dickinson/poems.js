@@ -6511,4 +6511,632 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La paradoja invierte el reparto del conocimiento: quien pierde comprende el valor de la victoria mejor que sus vencedores. El cierre une percepción intensificada y agonía.",
   "preest": null
 }
+,
+  J68: {
+  "id": "J68",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Ambition cannot find him.",
+  "titleES": "La ambición no puede encontrarlo.",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J68 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "Ambition cannot find him.",
+      "La ambición no puede encontrarlo."
+    ],
+    [
+      "Affection doesn't know",
+      "El afecto no sabe"
+    ],
+    [
+      "How many leagues of nowhere",
+      "cuántas leguas de ninguna parte"
+    ],
+    [
+      "Lie between them now.",
+      "los separan ahora."
+    ],
+    [
+      "Yesterday, undistinguished!",
+      "¡Ayer, desconocido!"
+    ],
+    [
+      "Eminent Today",
+      "Hoy, eminente,"
+    ],
+    [
+      "For our mutual honor,",
+      "para honra mutua nuestra,"
+    ],
+    [
+      "Immortality!",
+      "¡la inmortalidad!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "La muerte concede una eminencia paradójica: lo que la ambición no consigue en vida llega cuando ya no puede disfrutarse.",
+  "preest": null
+},
+  J69: {
+  "id": "J69",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Low at my problem bending,",
+  "titleES": "Inclinada sobre mi problema,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J69 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "Low at my problem bending,",
+      "Inclinada sobre mi problema,"
+    ],
+    [
+      "Another problem comes –",
+      "llega otro problema:"
+    ],
+    [
+      "Larger than mine – Serener! –",
+      "¡más grande que el mío, más sereno!,"
+    ],
+    [
+      "Involving statelier sums.",
+      "con sumas más majestuosas."
+    ],
+    [
+      "I check my busy pencil,",
+      "Detengo mi lápiz afanoso,"
+    ],
+    [
+      "My figures file away –",
+      "archivo mis cifras."
+    ],
+    [
+      "Wherefore, my baffled fingers",
+      "¿Por qué, dedos desconcertados,"
+    ],
+    [
+      "Thy perplexity?",
+      "vuestra perplejidad?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "El cálculo personal se ve desplazado por un enigma de escala superior. La pregunta final no resuelve el conflicto entre conocimiento y desconcierto.",
+  "preest": null
+},
+  J70: {
+  "id": "J70",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "\"Arcturus\" is his other name –",
+  "titleES": "«Arturo» es su otro nombre:",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    21,
+    25,
+    29
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J70 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "“Arcturus” is his other name –",
+      "«Arturo» es su otro nombre:"
+    ],
+    [
+      "I'd rather call him “Star.”",
+      "yo preferiría llamarlo «estrella»."
+    ],
+    [
+      "It's very mean of Science",
+      "¡Qué mezquindad la de la Ciencia"
+    ],
+    [
+      "To go and interfere!",
+      "al venir a entrometerse!"
+    ],
+    [
+      "I slew a worm the other day –",
+      "El otro día maté un gusano;"
+    ],
+    [
+      "A “Savant” passing by",
+      "un «sabio» que pasaba"
+    ],
+    [
+      "Murmured “Resurgam” – “Centipede”!",
+      "murmuró «Resurgiré» y «¡ciempiés!»."
+    ],
+    [
+      "“Oh Lord – how frail are we”!",
+      "«¡Señor, qué frágiles somos!»."
+    ],
+    [
+      "I pull a flower from the woods –",
+      "Arranco una flor del bosque;"
+    ],
+    [
+      "A monster with a glass",
+      "un monstruo con una lupa"
+    ],
+    [
+      "Computes the stamens in a breath –",
+      "cuenta los estambres de un vistazo"
+    ],
+    [
+      "And has her in a “class”!",
+      "¡y la mete en una «clase»!"
+    ],
+    [
+      "Whereas I took the Butterfly",
+      "Antes llevaba la mariposa"
+    ],
+    [
+      "Aforetime in my hat –",
+      "dentro de mi sombrero;"
+    ],
+    [
+      "He sits erect in “Cabinets” –",
+      "ahora se yergue en los «gabinetes»,"
+    ],
+    [
+      "The Clover bells forgot.",
+      "olvidadas las campanas del trébol."
+    ],
+    [
+      "What once was “Heaven”",
+      "Lo que una vez fue «Cielo»"
+    ],
+    [
+      "Is “Zenith” now –",
+      "ahora es «cenit»;"
+    ],
+    [
+      "Where I proposed to go",
+      "el lugar al que pensaba ir"
+    ],
+    [
+      "When Time's brief masquerade was done",
+      "cuando acabara la breve mascarada del Tiempo"
+    ],
+    [
+      "Is mapped and charted too!",
+      "¡también está cartografiado!"
+    ],
+    [
+      "What if the poles should frisk about",
+      "¿Y si los polos se pusieran a brincar"
+    ],
+    [
+      "And stand upon their heads!",
+      "y quedaran cabeza abajo?"
+    ],
+    [
+      "I hope I'm ready for “the worst” –",
+      "Espero estar lista para «lo peor»,"
+    ],
+    [
+      "Whatever prank betides!",
+      "¡cualquiera que sea la travesura!"
+    ],
+    [
+      "Perhaps the “Kingdom of Heaven's” changed –",
+      "Tal vez cambió el «Reino de los Cielos»;"
+    ],
+    [
+      "I hope the “Children” there",
+      "espero que los «niños» de allí"
+    ],
+    [
+      "Won't be “new fashioned” when I come –",
+      "no estén «a la última moda» cuando llegue"
+    ],
+    [
+      "And laugh at me – and stare –",
+      "y se rían de mí y me miren."
+    ],
+    [
+      "I hope the Father in the skies",
+      "Espero que el Padre de los cielos"
+    ],
+    [
+      "Will lift his little girl –",
+      "alce a su pequeña hija,"
+    ],
+    [
+      "Old fashioned – naughty – everything –",
+      "anticuada, traviesa, todo eso,"
+    ],
+    [
+      "Over the stile of “Pearl.”",
+      "por encima del portillo de «Perla»."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "La sátira de la clasificación científica no niega la observación: protesta contra la sustitución de una relación vivida por etiquetas, vitrinas y mapas. El final recobra una teología íntima, infantil y deliberadamente anticuada.",
+  "preest": null
+},
+  J71: {
+  "id": "J71",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "A throe upon the features –",
+  "titleES": "Un espasmo en las facciones,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J71 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "A throe upon the features –",
+      "Un espasmo en las facciones,"
+    ],
+    [
+      "A hurry in the breath –",
+      "una prisa en el aliento,"
+    ],
+    [
+      "An ecstasy of parting",
+      "un éxtasis de partida"
+    ],
+    [
+      "Denominated “Death” –",
+      "al que llaman «Muerte»;"
+    ],
+    [
+      "An anguish at the mention",
+      "una angustia al mencionarla"
+    ],
+    [
+      "Which when to patience grown,",
+      "que, cuando madura en paciencia,"
+    ],
+    [
+      "I've known permission given",
+      "he visto recibir permiso"
+    ],
+    [
+      "To rejoin its own.",
+      "para reunirse con lo suyo."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "La definición inicial reduce la muerte a señales corporales; la segunda estrofa explora el dolor de quienes quedan y la posibilidad de reunión.",
+  "preest": null
+},
+  J72: {
+  "id": "J72",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Glowing is her Bonnet,",
+  "titleES": "Resplandece su sombrero,",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J72 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "Glowing is her Bonnet,",
+      "Resplandece su sombrero,"
+    ],
+    [
+      "Glowing is her Cheek,",
+      "resplandece su mejilla,"
+    ],
+    [
+      "Glowing is her Kirtle,",
+      "resplandece su falda,"
+    ],
+    [
+      "Yet she cannot speak.",
+      "pero ella no puede hablar."
+    ],
+    [
+      "Better as the Daisy",
+      "Mejor que, como la margarita,"
+    ],
+    [
+      "From the Summer hill",
+      "de la colina estival"
+    ],
+    [
+      "Vanish unrecorded",
+      "desaparezca sin registro"
+    ],
+    [
+      "Save by tearful rill –",
+      "salvo el arroyo lloroso;"
+    ],
+    [
+      "Save by loving sunrise",
+      "salvo el alba amorosa"
+    ],
+    [
+      "Looking for her face",
+      "que busca su rostro;"
+    ],
+    [
+      "Save by feet unnumbered",
+      "salvo innumerables pies"
+    ],
+    [
+      "Pausing at the place.",
+      "que se detienen en el lugar."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "El esplendor visible contrasta con el silencio; el recuerdo no depende de un monumento, sino de la naturaleza y los visitantes anónimos.",
+  "preest": null
+},
+  J73: {
+  "id": "J73",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Who never lost, are unprepared",
+  "titleES": "Quienes nunca perdieron no están preparados",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J73 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "Who never lost, are unprepared",
+      "Quienes nunca perdieron no están preparados"
+    ],
+    [
+      "A Coronet to find!",
+      "para encontrar una corona."
+    ],
+    [
+      "Who never thirsted",
+      "Quienes nunca tuvieron sed,"
+    ],
+    [
+      "Flagons, and Cooling Tamarind!",
+      "¡jarras y refrescante tamarindo!"
+    ],
+    [
+      "Who never climbed the weary league –",
+      "Quienes nunca subieron la legua agotadora,"
+    ],
+    [
+      "Can such a foot explore",
+      "¿podrán con esos pies explorar"
+    ],
+    [
+      "The purple territories",
+      "los territorios púrpuras"
+    ],
+    [
+      "On Pizarro's shore?",
+      "en las costas de Pizarro?"
+    ],
+    [
+      "How many Legions overcome –",
+      "¿Cuántas legiones vencidas?,"
+    ],
+    [
+      "The Emperor will say?",
+      "preguntará el Emperador."
+    ],
+    [
+      "How many Colors taken",
+      "¿Cuántas banderas tomadas"
+    ],
+    [
+      "On Revolution Day?",
+      "el día de la Revolución?"
+    ],
+    [
+      "How many Bullets bearest?",
+      "¿Cuántas balas soportás?"
+    ],
+    [
+      "Hast Thou the Royal scar?",
+      "¿Tenés la cicatriz real?"
+    ],
+    [
+      "Angels! Write “Promoted”",
+      "¡Ángeles! Escriban «Ascendido»"
+    ],
+    [
+      "On this Soldier's brow!",
+      "en la frente de este soldado."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "La recompensa se mide por la privación previa. La imaginería de conquista, revolución y promoción militar convierte la experiencia de sufrir en una credencial ambigua.",
+  "preest": null
+},
+  J74: {
+  "id": "J74",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "A Lady red – amid the Hill",
+  "titleES": "Una dama roja, entre las colinas,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J74 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "A Lady red – amid the Hill",
+      "Una dama roja, entre las colinas,"
+    ],
+    [
+      "Her annual secret keeps!",
+      "guarda su secreto anual."
+    ],
+    [
+      "A Lady white, within the Field",
+      "Una dama blanca, en el campo,"
+    ],
+    [
+      "In placid Lily sleeps!",
+      "duerme en un lirio apacible."
+    ],
+    [
+      "The tidy Breezes, with their Brooms –",
+      "Las brisas pulcras, con sus escobas,"
+    ],
+    [
+      "Sweep vale – and hill – and tree!",
+      "barren valle, colina y árbol."
+    ],
+    [
+      "Prithee, My pretty Housewives!",
+      "¡Decidme, hermosas amas de casa,"
+    ],
+    [
+      "Who may expected be!",
+      "a quién se espera!"
+    ],
+    [
+      "The Neighbors do not yet suspect!",
+      "¡Los vecinos aún no sospechan!"
+    ],
+    [
+      "The Woods exchange a smile!",
+      "¡Los bosques intercambian sonrisas!"
+    ],
+    [
+      "Orchard, and Buttercup, and Bird –",
+      "Huerto, ranúnculo y pájaro,"
+    ],
+    [
+      "In such a little while!",
+      "¡dentro de muy poco!"
+    ],
+    [
+      "And yet, how still the Landscape stands!",
+      "Y sin embargo, ¡qué quieto está el paisaje!"
+    ],
+    [
+      "How nonchalant the Hedge!",
+      "¡Qué indiferente el seto!"
+    ],
+    [
+      "As if the “Resurrection”",
+      "Como si la «Resurrección»"
+    ],
+    [
+      "Were nothing very strange!",
+      "no fuera nada extraordinario."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "La llegada de la primavera se representa como una resurrección doméstica: las brisas limpian la casa del paisaje antes de que aparezcan sus huéspedes.",
+  "preest": null
+},
+  J75: {
+  "id": "J75",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "She died at play,",
+  "titleES": "Murió jugando,",
+  "stanzaBreaks": [
+    5
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J75 (PDF del proyecto, pp. impresas 35–39); puntuación y variantes pendientes de cotejo con facsímiles.",
+  "lines": [
+    [
+      "She died at play,",
+      "Murió jugando,"
+    ],
+    [
+      "Gambolled away",
+      "saltando consumió"
+    ],
+    [
+      "Her lease of spotted hours,",
+      "el arriendo de sus horas moteadas,"
+    ],
+    [
+      "Then sank as gaily as a Turk",
+      "y luego cayó tan alegre como un turco"
+    ],
+    [
+      "Upon a Couch of flowers.",
+      "sobre un diván de flores."
+    ],
+    [
+      "Her ghost strolled softly o'er the hill",
+      "Su fantasma paseó suavemente por la colina"
+    ],
+    [
+      "Yesterday, and Today,",
+      "ayer y hoy,"
+    ],
+    [
+      "Her vestments as the silver fleece –",
+      "con vestiduras de vellón plateado"
+    ],
+    [
+      "Her countenance as spray.",
+      "y un rostro como espuma."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "Traducción literaria propia; la puntuación de la transcripción se revisará contra los manuscritos."
+    }
+  ],
+  "interpretation": "El poema imagina la muerte de una criatura juguetona mediante un paso casi imperceptible hacia la aparición fantasmal; la comparación orientalizante pertenece al imaginario decimonónico.",
+  "preest": null
+}
 });
