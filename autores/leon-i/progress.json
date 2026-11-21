@@ -1294,44 +1294,42 @@
     {
       "group": "sermones",
       "number": 59,
-      "section": "Sermo LIX · De Passione Domini VIII · capita I–IV de VIII",
-      "paragraphs": 13,
-      "aligned_units": 13,
+      "section": "Sermo LIX · De Passione Domini VIII · capita I–VIII",
+      "paragraphs": 25,
+      "aligned_units": 25,
       "published_chapters": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        7,
+        8
       ],
       "total_chapters": 8,
-      "translation": "partial original first-pass Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lix/index.html",
-      "voice_notes": 7,
+      "voice_notes": 11,
       "lexical_coverage": "29 selective contextual cards; full word-by-word coverage pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–IV published, V–VIII pending. Latin from public Tractatus LIX transcription; printed PL54 collation, exhaustive contextual morphology, shared dictionary and browser QA pending. Anti-Jewish polemic contextualized."
+      "editorial_caveat": "All eight chapters and final Amen published from public Tractatus LIX transcription; printed PL54 collation, full contextual word-by-word morphology, shared dictionary and browser QA pending. Anti-Jewish polemic contextualized."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 59,
-    "section": "Caput V",
-    "incipit": "Euntibus autem cum Jesu turbis",
-    "note": "Continue Sermo LIX chapters V–VIII; first four chapters published, work partial."
+    "number": 60,
+    "section": "Caput I",
+    "note": "Sermo LIX first-pass translation complete; proceed to Sermo LX. Critical collation and exhaustive morphology remain."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo LIX chapters III–IV added, 13 aligned units total, partial",
+  "last_edit": "2026-11-22",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 59,
-    "section": "Caput V",
-    "incipit": "Euntibus autem cum Jesu turbis"
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
