@@ -13472,5 +13472,530 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La energía visible puede ser síntoma del daño: el júbilo no contradice el sufrimiento, sino que puede encubrirlo.",
   "preest": null
+},
+  J166: {
+  "id": "J166",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I met a King this afternoon!",
+  "titleES": "¡Esta tarde me encontré con un rey!",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J166; texto cotejado con la edición Johnson, pp. 78–85; equivalencia Franklin pendiente de verificación.",
+  "lines": [
+    [
+      "I met a King this afternoon!",
+      "¡Esta tarde me encontré con un rey!"
+    ],
+    [
+      "He had not on a Crown indeed,",
+      "No llevaba corona, ciertamente:"
+    ],
+    [
+      "A little Palmleaf Hat was all,",
+      "un sombrerito de hojas de palma, nada más,"
+    ],
+    [
+      "And he was barefoot, I'm afraid!",
+      "¡y andaba descalzo, me temo!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "But sure I am he Ermine wore",
+      "Pero estoy segura de que llevaba armiño"
+    ],
+    [
+      "Beneath his faded Jacket's blue—",
+      "bajo el azul de su chaqueta descolorida;"
+    ],
+    [
+      "And sure I am, the crest he bore",
+      "¡y segura estoy de que también llevaba un blasón"
+    ],
+    [
+      "Within that Jacket's pocket too!",
+      "dentro del bolsillo de aquella chaqueta!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "For 'twas too stately for an Earl—",
+      "Pues tenía demasiada majestad para ser conde;"
+    ],
+    [
+      "A Marquis would not go so grand!",
+      "¡un marqués no iría tan magnífico!"
+    ],
+    [
+      "'Twas possibly a Czar petite—",
+      "Quizá fuese un pequeño zar,"
+    ],
+    [
+      "A Pope, or something of that kind!",
+      "¡un papa o alguna cosa semejante!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "If I must tell you, of a Horse",
+      "Si debo contarlo: de un caballo"
+    ],
+    [
+      "My freckled Monarch held the rein—",
+      "llevaba las riendas mi monarca pecoso;"
+    ],
+    [
+      "Doubtless an estimable Beast,",
+      "sin duda, una bestia estimable,"
+    ],
+    [
+      "But not at all disposed to run!",
+      "¡pero nada dispuesta a correr!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "And such a wagon! While I live",
+      "¡Y qué carreta! Mientras viva,"
+    ],
+    [
+      "Dare I presume to see",
+      "¿me atreveré a esperar ver"
+    ],
+    [
+      "Another such a vehicle",
+      "otro vehículo semejante"
+    ],
+    [
+      "As then transported me!",
+      "al que entonces me transportó?"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Two other ragged Princes",
+      "Otros dos príncipes andrajosos"
+    ],
+    [
+      "His royal state partook!",
+      "compartían su dignidad real;"
+    ],
+    [
+      "Doubtless the first excursion",
+      "¡sin duda era la primera excursión"
+    ],
+    [
+      "These sovereigns ever took!",
+      "que hacían aquellos soberanos!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "I question if the Royal Coach",
+      "Me pregunto si la carroza real,"
+    ],
+    [
+      "Round which the Footmen wait",
+      "rodeada de lacayos expectantes,"
+    ],
+    [
+      "Has the significance, on high,",
+      "tiene allá arriba la importancia"
+    ],
+    [
+      "Of this Barefoot Estate!",
+      "de esta realeza descalza."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Ermine",
+      "body": "El armiño es emblema de vestiduras reales; la pobreza exterior no impide la dignidad imaginada."
+    },
+    {
+      "line": 27,
+      "title": "on high",
+      "body": "La expresión puede aludir a una jerarquía celestial, no solo a la elevación social."
+    }
+  ],
+  "interpretation": "La hablante confiere soberanía a unos viajeros pobres. La ironía de los títulos aristocráticos culmina en una inversión de la jerarquía: la realeza auténtica podría residir en la dignidad de quienes carecen de insignias.",
+  "preest": null
+},
+  J167: {
+  "id": "J167",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "To learn the Transport by the Pain—",
+  "titleES": "Aprender el arrebato por el dolor,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J167; texto cotejado con la edición Johnson, pp. 78–85; equivalencia Franklin pendiente de verificación.",
+  "lines": [
+    [
+      "To learn the Transport by the Pain—",
+      "Aprender el arrebato por el dolor,"
+    ],
+    [
+      "As Blind Men learn the sun!",
+      "¡como los ciegos aprenden el sol!"
+    ],
+    [
+      "To die of thirst—suspecting",
+      "Morir de sed, sospechando"
+    ],
+    [
+      "That Brooks in Meadows run!",
+      "que por los prados corren arroyos."
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "To stay the homesick—homesick feet",
+      "Retener los pies nostálgicos, nostálgicos,"
+    ],
+    [
+      "Upon a foreign shore—",
+      "en una costa extranjera,"
+    ],
+    [
+      "Haunted by native lands, the while—",
+      "mientras los persiguen las tierras natales"
+    ],
+    [
+      "And blue—beloved air!",
+      "¡y el aire azul, amado!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "This is the Sovereign Anguish!",
+      "¡Esta es la angustia soberana!"
+    ],
+    [
+      "This—the signal woe!",
+      "¡Esta, la aflicción insigne!"
+    ],
+    [
+      "These are the patient \"Laureates\"",
+      "Estos son los pacientes «laureados»"
+    ],
+    [
+      "Whose Voices—trained—below—",
+      "cuyas voces, adiestradas aquí abajo,"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Ascend in ceaseless Carol—",
+      "ascienden en un canto incesante,"
+    ],
+    [
+      "Inaudible, indeed,",
+      "inaudible, en verdad,"
+    ],
+    [
+      "To us—the duller scholars",
+      "para nosotros, discípulos más torpes"
+    ],
+    [
+      "Of the Mysterious Bard!",
+      "¡del Bardo Misterioso!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Transport",
+      "body": "Arrebato o éxtasis; el poema propone un aprendizaje por privación."
+    },
+    {
+      "line": 11,
+      "title": "Laureates",
+      "body": "Los laureados son quienes han alcanzado una forma de excelencia en el sufrimiento, no necesariamente poetas oficialmente coronados."
+    }
+  ],
+  "interpretation": "La experiencia de la carencia se vuelve una educación paradójica: se conoce lo deseado precisamente por no poseerlo. La última estrofa sugiere que quienes sufren cantan una música que los observadores menos atentos no pueden oír.",
+  "preest": null
+},
+  J168: {
+  "id": "J168",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "If the foolish, call them \"flowers\"—",
+  "titleES": "Si los necios las llaman «flores»,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J168; texto cotejado con la edición Johnson, pp. 78–85; equivalencia Franklin pendiente de verificación.",
+  "lines": [
+    [
+      "If the foolish, call them \"flowers\"—",
+      "Si los necios las llaman «flores»,"
+    ],
+    [
+      "Need the wiser, tell?",
+      "¿deben los sabios corregirlos?"
+    ],
+    [
+      "If the Savants \"Classify\" them",
+      "Si los eruditos las «clasifican»,"
+    ],
+    [
+      "It is just as well!",
+      "¡también está bien!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Those who read the \"Revelations\"",
+      "Quienes leen las «Revelaciones»"
+    ],
+    [
+      "Must not criticize",
+      "no deben censurar"
+    ],
+    [
+      "Those who read the same Edition—",
+      "a quienes leen la misma edición"
+    ],
+    [
+      "With beclouded Eyes!",
+      "¡con los ojos nublados!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Could we stand with that Old \"Moses\"—",
+      "Si pudiéramos estar con aquel viejo «Moisés»,"
+    ],
+    [
+      "\"Canaan\" denied—",
+      "a quien se le negó «Canaán»,"
+    ],
+    [
+      "Scan like him, the stately landscape",
+      "y contemplar, como él, el majestuoso paisaje"
+    ],
+    [
+      "On the other side—",
+      "del otro lado,"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Doubtless, we should deem superfluous",
+      "sin duda juzgaríamos superfluas"
+    ],
+    [
+      "Many Sciences,",
+      "muchas ciencias"
+    ],
+    [
+      "Not pursued by learned Angels",
+      "que los ángeles doctos no cultivan"
+    ],
+    [
+      "In scholastic skies!",
+      "¡en sus cielos escolásticos!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Low amid that glad Belles lettres",
+      "Concedenos ocupar un lugar humilde"
+    ],
+    [
+      "Grant that we may stand,",
+      "entre aquellas dichosas bellas letras,"
+    ],
+    [
+      "Stars, amid profound Galaxies—",
+      "estrellas entre hondas galaxias,"
+    ],
+    [
+      "At that grand \"Right hand\"!",
+      "¡a aquella gran «diestra»!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Moses / Canaan",
+      "body": "Alusión a Deuteronomio 34: Moisés contempla la tierra prometida, pero no entra en ella."
+    },
+    {
+      "line": 20,
+      "title": "Right hand",
+      "body": "La diestra evoca el lugar de honor y la imaginería bíblica del juicio y de la gloria."
+    }
+  ],
+  "interpretation": "La clasificación científica y la revelación aparecen como modos distintos de mirar una misma realidad. El poema no elimina la diferencia de conocimiento: cuestiona que esa diferencia autorice a despreciar al observador menos instruido.",
+  "preest": null
+},
+  J169: {
+  "id": "J169",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "In Ebon Box, when years have flown",
+  "titleES": "En una caja de ébano, pasados los años,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J169; texto cotejado con la edición Johnson, pp. 78–85; equivalencia Franklin pendiente de verificación.",
+  "lines": [
+    [
+      "In Ebon Box, when years have flown",
+      "En una caja de ébano, pasados los años,"
+    ],
+    [
+      "To reverently peer,",
+      "asomarse con reverencia,"
+    ],
+    [
+      "Wiping away the velvet dust",
+      "apartando el polvo aterciopelado"
+    ],
+    [
+      "Summers have sprinkled there!",
+      "que allí esparcieron los veranos."
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "To hold a letter to the light—",
+      "Sostener una carta a contraluz,"
+    ],
+    [
+      "Grown Tawny now, with time—",
+      "ya amarillenta por el tiempo,"
+    ],
+    [
+      "To con the faded syllables",
+      "y descifrar las sílabas desvaídas"
+    ],
+    [
+      "That quickened us like Wine!",
+      "¡que un día nos animaron como el vino!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "Perhaps a Flower's shrivelled cheek",
+      "Tal vez encontrar entre sus tesoros"
+    ],
+    [
+      "Among its stores to find—",
+      "la mejilla marchita de una flor,"
+    ],
+    [
+      "Plucked far away, some morning—",
+      "cortada lejos, cierta mañana,"
+    ],
+    [
+      "By gallant—mouldering hand!",
+      "¡por una mano galante que ahora se deshace!"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "A curl, perhaps, from foreheads",
+      "Tal vez un rizo de una frente"
+    ],
+    [
+      "Our Constancy forgot—",
+      "que nuestra constancia olvidó;"
+    ],
+    [
+      "Perhaps, an Antique trinket—",
+      "tal vez una antigua baratija"
+    ],
+    [
+      "In vanished fashions set!",
+      "engastada en modas desaparecidas."
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "And then to lay them quiet back—",
+      "Y luego volver a guardarlo todo,"
+    ],
+    [
+      "And go about its care—",
+      "seguir con los quehaceres,"
+    ],
+    [
+      "As if the little Ebon Box",
+      "como si aquella pequeña caja de ébano"
+    ],
+    [
+      "Were none of our affair!",
+      "no tuviera nada que ver con nosotros."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Ebon Box",
+      "body": "Caja de ébano: depósito material de recuerdos, cartas y pequeños objetos."
+    },
+    {
+      "line": 7,
+      "title": "con",
+      "body": "Verbo que aquí significa estudiar o leer atentamente, no engañar."
+    }
+  ],
+  "interpretation": "La caja conserva restos materiales de vínculos que el tiempo ha debilitado. El gesto final, fingir indiferencia después de abrirla, muestra la tensión entre la persistencia afectiva de los objetos y la necesidad cotidiana de seguir viviendo.",
+  "preest": null
 }
 });
