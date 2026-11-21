@@ -8296,5 +8296,361 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La oportunidad perdida se expresa mediante una proximidad casi insoportable: nada impedía el encuentro salvo el desfase temporal. La violeta convierte la ausencia en una forma discreta de belleza.",
   "preest": null
+},
+  J91: {
+  "id": "J91",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "So bashful when I spied her!",
+  "titleES": "¡Tan tímida cuando la descubrí!",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J91, PDF del proyecto, pp. impresas 45–47. Concordancia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "So bashful when I spied her!",
+      "¡Tan tímida cuando la descubrí!"
+    ],
+    [
+      "So pretty – so ashamed!",
+      "¡Tan bonita, tan avergonzada!"
+    ],
+    [
+      "So hidden in her leaflets",
+      "Tan oculta entre sus hojitas"
+    ],
+    [
+      "Lest anybody find –",
+      "para que nadie la encontrara;"
+    ],
+    [
+      "So breathless till I passed her –",
+      "tan sin aliento cuando pasé junto a ella,"
+    ],
+    [
+      "So helpless when I turned",
+      "tan indefensa cuando me volví"
+    ],
+    [
+      "And bore her struggling, blushing,",
+      "y me la llevé, forcejeando, ruborizada,"
+    ],
+    [
+      "Her simple haunts beyond!",
+      "lejos de sus sencillos parajes."
+    ],
+    [
+      "For whom I robbed the Dingle –",
+      "Por quién robé a la hondonada,"
+    ],
+    [
+      "For whom betrayed the Dell –",
+      "por quién traicioné al valle,"
+    ],
+    [
+      "Many, will doubtless ask me,",
+      "muchos, sin duda, me preguntarán;"
+    ],
+    [
+      "But I shall never tell!",
+      "¡pero jamás lo diré!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Dingle / Dell",
+      "body": "Dos nombres de pequeñas depresiones o valles boscosos. Su paralelismo intensifica la personificación del paisaje despojado."
+    }
+  ],
+  "interpretation": "La flor arrancada se convierte en una figura de intimidad y violencia: el gesto de apropiación amorosa es también un robo. El secreto final protege la identidad del destinatario, no la inocencia del acto.",
+  "preest": null
+},
+  J92: {
+  "id": "J92",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "My friend must be a Bird –",
+  "titleES": "Mi amigo debe de ser un pájaro,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J92, PDF del proyecto, pp. impresas 45–47. Concordancia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "My friend must be a Bird –",
+      "Mi amigo debe de ser un pájaro,"
+    ],
+    [
+      "Because it flies!",
+      "¡porque vuela!"
+    ],
+    [
+      "Mortal, my friend must be,",
+      "Mortal debe de ser mi amigo,"
+    ],
+    [
+      "Because it dies!",
+      "¡porque muere!"
+    ],
+    [
+      "Barbs has it, like a Bee!",
+      "Tiene aguijones, como una abeja."
+    ],
+    [
+      "Ah, curious friend!",
+      "¡Ah, extraño amigo!"
+    ],
+    [
+      "Thou puzzlest me!",
+      "¡Me desconcertás!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Barbs",
+      "body": "Púas o aguijones: la imagen introduce la capacidad de herir en un retrato aparentemente afectuoso."
+    }
+  ],
+  "interpretation": "La amistad se formula como un acertijo natural: el ser amado reúne rasgos incompatibles de pájaro, mortal y abeja. La identidad permanece abierta.",
+  "preest": null
+},
+  J93: {
+  "id": "J93",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Went up a year this evening!",
+  "titleES": "¡Hace un año que ascendió, esta noche!",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J93, PDF del proyecto, pp. impresas 45–47. Concordancia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Went up a year this evening!",
+      "¡Hace un año que ascendió, esta noche!"
+    ],
+    [
+      "I recollect it well!",
+      "¡Lo recuerdo muy bien!"
+    ],
+    [
+      "Amid no bells nor bravos",
+      "Sin campanas ni vítores,"
+    ],
+    [
+      "The bystanders will tell!",
+      "según contarán los presentes."
+    ],
+    [
+      "Cheerful – as to the village –",
+      "Alegre, como quien va al pueblo;"
+    ],
+    [
+      "Tranquil – as to repose –",
+      "sereno, como quien va a descansar;"
+    ],
+    [
+      "Chastened – as to the Chapel",
+      "recogido, como quien va a la capilla,"
+    ],
+    [
+      "This humble Tourist rose!",
+      "¡ascendió este humilde viajero!"
+    ],
+    [
+      "Did not talk of returning!",
+      "¡No habló de regresar!"
+    ],
+    [
+      "Alluded to no time",
+      "No mencionó ningún momento"
+    ],
+    [
+      "When, were the gales propitious –",
+      "en que, si los vientos eran favorables,"
+    ],
+    [
+      "We might look for him!",
+      "pudiéramos esperarlo."
+    ],
+    [
+      "Was grateful for the Roses",
+      "Agradeció las rosas"
+    ],
+    [
+      "In life's diverse bouquet –",
+      "del variado ramo de la vida;"
+    ],
+    [
+      "Talked softly of new species",
+      "habló quedamente de nuevas especies"
+    ],
+    [
+      "To pick another day;",
+      "que recogería otro día;"
+    ],
+    [
+      "Beguiling thus the wonder",
+      "y mientras así distraía el asombro,"
+    ],
+    [
+      "The wondrous nearer drew –",
+      "lo asombroso se acercaba más."
+    ],
+    [
+      "Hands bustled at the moorings –",
+      "Las manos se afanaban en los amarres;"
+    ],
+    [
+      "The crowd respectful grew –",
+      "la multitud se volvía respetuosa."
+    ],
+    [
+      "Ascended from our vision",
+      "Ascendió fuera de nuestra vista"
+    ],
+    [
+      "To Countenances new!",
+      "hacia rostros desconocidos."
+    ],
+    [
+      "A Difference – A Daisy –",
+      "Una diferencia, una margarita:"
+    ],
+    [
+      "Is all the rest I knew!",
+      "¡es todo cuanto supe después!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 19,
+      "title": "moorings",
+      "body": "Amarras: la metáfora náutica transforma el tránsito final en una partida preparada por quienes permanecen."
+    },
+    {
+      "line": 23,
+      "title": "A Difference – A Daisy",
+      "body": "La diferencia entre presencia y ausencia se reduce a una flor, posiblemente funeraria; el cierre evita describir el más allá."
+    }
+  ],
+  "interpretation": "El aniversario de una muerte se relata como la partida de un viajero. Los preparativos de embarque y el ascenso suavizan la pérdida sin suprimir la incertidumbre de su destino.",
+  "preest": null
+},
+  J94: {
+  "id": "J94",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Angels, in the early morning",
+  "titleES": "Ángeles, al amanecer,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J94, PDF del proyecto, pp. impresas 45–47. Concordancia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Angels, in the early morning",
+      "Ángeles, al amanecer,"
+    ],
+    [
+      "May be seen the Dews among,",
+      "pueden verse entre el rocío,"
+    ],
+    [
+      "Stooping – plucking – smiling – flying –",
+      "inclinándose, recogiendo, sonriendo, volando."
+    ],
+    [
+      "Do the Buds to them belong?",
+      "¿Les pertenecen los capullos?"
+    ],
+    [
+      "Angels, when the sun is hottest",
+      "Ángeles, cuando más quema el sol,"
+    ],
+    [
+      "May be seen the sands among,",
+      "pueden verse entre las arenas,"
+    ],
+    [
+      "Stooping – plucking – sighing – flying –",
+      "inclinándose, recogiendo, suspirando, volando;"
+    ],
+    [
+      "Parched the flowers they bear along.",
+      "marchitas llevan consigo las flores."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 7,
+      "title": "smiling / sighing",
+      "body": "La sustitución de un participio modifica el valor de toda la escena repetida."
+    }
+  ],
+  "interpretation": "Las dos escenas repiten los mismos gestos, pero la sonrisa se transforma en suspiro y la frescura del rocío en sequedad. El poema no explica si los ángeles protegen o arrebatan las flores.",
+  "preest": null
+},
+  J95: {
+  "id": "J95",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "My nosegays are for Captives –",
+  "titleES": "Mis ramilletes son para los cautivos,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J95, PDF del proyecto, pp. impresas 45–47. Concordancia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "My nosegays are for Captives –",
+      "Mis ramilletes son para los cautivos,"
+    ],
+    [
+      "Dim – long expectant eyes,",
+      "para ojos apagados de tanto esperar,"
+    ],
+    [
+      "Fingers denied the plucking,",
+      "para dedos a los que se niega recoger flores,"
+    ],
+    [
+      "Patient till Paradise.",
+      "pacientes hasta el Paraíso."
+    ],
+    [
+      "To such, if they should whisper",
+      "Si a ellos les susurran"
+    ],
+    [
+      "Of morning and the moor,",
+      "del amanecer y del páramo,"
+    ],
+    [
+      "They bear no other errand,",
+      "no llevan ningún otro mensaje,"
+    ],
+    [
+      "And I, no other prayer.",
+      "ni yo tengo ninguna otra plegaria."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "nosegays",
+      "body": "Pequeños ramilletes de flores, frecuentemente destinados a regalarse o llevarse consigo."
+    }
+  ],
+  "interpretation": "El ramo floral funciona como mensaje para quienes no pueden acceder al mundo abierto. El poema sitúa la solidaridad en un gesto mínimo, sin prometer una liberación inmediata.",
+  "preest": null
 }
 });
