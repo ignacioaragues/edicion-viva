@@ -1050,7 +1050,7 @@
       "group": "sermones",
       "number": 49,
       "section": "Sermo XLIX, De Quadragesima XI, chapters I–VI",
-      "paragraphs": 20,
+      "paragraphs": 22,
       "aligned_units": 9,
       "published_chapters": [
         1,
@@ -1071,21 +1071,9 @@
   ],
   "next": "Sermo L, caput I; Sermo XLIX full contextual morphology and PL54 printed collation pending",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo XLIX, chapters III–VI added; 20 aligned units across I–VI, complete first-pass translation",
+  "last_edit": "2026-11-21: Sermo XLIX complete first-pass translation, 22 aligned units, chapters I–VI",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 49,
-    "chapter": 3,
-    "opening": "Hanc autem fortitudinem, dilectissimi",
-    "status": "partial",
-    "remaining_chapters": [
-      3,
-      4,
-      5,
-      6
-    ]
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
