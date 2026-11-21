@@ -354,7 +354,7 @@
     ,{"chapter":9,"n":19,"gr":"ὁ δὲ ἀποκριθεὶς αὐτοῖς λέγει· Ὦ γενεὰ ἄπιστος, ἕως πότε πρὸς ὑμᾶς ἔσομαι; ἕως πότε ἀνέξομαι ὑμῶν; φέρετε αὐτὸν πρός με.","es":"Él les respondió: «¡Generación incrédula! ¿Hasta cuándo tendré que estar con ustedes? ¿Hasta cuándo tendré que soportarlos? Tráiganmelo».","la":"","notes":["mc919address","mc919parallel","mc919variant"]}
     ,{"chapter":9,"n":20,"gr":"καὶ ἤνεγκαν αὐτὸν πρὸς αὐτόν. καὶ ἰδὼν αὐτὸν τὸ πνεῦμα εὐθὺς συνεσπάραξεν αὐτόν, καὶ πεσὼν ἐπὶ τῆς γῆς ἐκυλίετο ἀφρίζων.","es":"Y se lo llevaron. Al verlo, el espíritu lo sacudió violentamente de inmediato; el muchacho cayó al suelo y se revolcaba echando espuma.","la":"","notes":["mc920subject","mc920verbs","mc920variant"]}
     ,{"chapter":9,"n":21,"gr":"καὶ ἐπηρώτησεν τὸν πατέρα αὐτοῦ· Πόσος χρόνος ἐστὶν ὡς τοῦτο γέγονεν αὐτῷ; ὁ δὲ εἶπεν· Ἐκ παιδιόθεν·","es":"Y le preguntó a su padre: «¿Cuánto tiempo hace que le sucede esto?». Él respondió: «Desde la infancia».","la":"","notes":["mc921duration","mc921childhood","mc921variant"]}
-,{"chapter":9,"n":22,"gr":"καὶ πολλάκις καὶ εἰς πῦρ αὐτὸν ἔβαλεν καὶ εἰς ὕδατα ἵνα ἀπολέσῃ αὐτόν· ἀλλʼ εἴ τι δύνῃ, βοήθησον ἡμῖν σπλαγχνισθεὶς ἐφʼ ἡμᾶς.","es":"Y muchas veces lo arrojó al fuego y al agua para acabar con él. Pero, si podés hacer algo, ayudanos y tené compasión de nosotros.","la":"","notes":["mc922repetition","mc922plea","mc922variant"]}
+,{"chapter":9,"n":22,"gr":"καὶ πολλάκις καὶ εἰς πῦρ αὐτὸν ἔβαλεν καὶ εἰς ὕδατα ἵνα ἀπολέσῃ αὐτόν· ἀλλʼ εἴ τι δύνῃ, βοήθησον ἡμῖν σπλαγχνισθεὶς ἐφʼ ἡμᾶς.","es":"Y muchas veces lo arrojó al fuego y al agua para acabar con él. Pero, si puedes hacer algo, ayúdanos y ten compasión de nosotros.","la":"","notes":["mc922repetition","mc922plea","mc922variant"]}
 ];
 
   const notes = {
