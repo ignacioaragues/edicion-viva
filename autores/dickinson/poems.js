@@ -14212,6 +14212,796 @@ J254: {
       {line: 12, title: "Gratuidad de la esperanza", body: "La diminuta «crumb» contrasta con el alcance de las tormentas y mares anteriores. La voz no dice que la esperanza nunca flaquee; formula una experiencia personal de algo que sostiene sin exigir compensación."}
     ]
   },
+  J190: {
+  "id": "J190",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "He was weak, and I was strong - then -",
+  "titleES": "Él era débil, y yo fuerte — entonces —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J190; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "He was weak, and I was strong - then -",
+      "Él era débil, y yo fuerte — entonces —"
+    ],
+    [
+      "So He let me lead him in -",
+      "y me dejó conducirlo adentro —"
+    ],
+    [
+      "I was weak, and He was strong then -",
+      "Yo era débil, y él fuerte entonces —"
+    ],
+    [
+      "So I let him lead me - Home.",
+      "y dejé que me llevara — a casa."
+    ],
+    [
+      "'Twasn't far - the door was near -",
+      "No estaba lejos — la puerta quedaba cerca —"
+    ],
+    [
+      "'Twasn't dark - for He went - too -",
+      "no estaba oscuro — porque él también iba —"
+    ],
+    [
+      "'Twasn't loud, for He said nought -",
+      "no había ruido, pues él no dijo nada —"
+    ],
+    [
+      "That was all I cared to know.",
+      "eso era todo lo que quería saber."
+    ],
+    [
+      "Day knocked - and we must part -",
+      "El día llamó — y tuvimos que separarnos —"
+    ],
+    [
+      "Neither - was strongest - now -",
+      "ninguno — era ya el más fuerte —"
+    ],
+    [
+      "He strove - and I strove - too -",
+      "Él luchó — y yo luché — también —"
+    ],
+    [
+      "We didn't do it - tho'!",
+      "¡Pero no lo conseguimos!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Home",
+      "body": "«Home» aparece capitalizado: puede significar el hogar físico, el destino espiritual o un espacio de intimidad. No se impone una sola lectura."
+    }
+  ],
+  "interpretation": "El intercambio de fuerza y fragilidad vuelve inestable la jerarquía entre los amantes. La llegada del día impone una separación que ninguno puede impedir; el «Home» no resuelve la ambigüedad del encuentro.",
+  "preest": null
+},
+  J191: {
+  "id": "J191",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "The Skies can't keep their secret!",
+  "titleES": "¡Los Cielos no saben guardar su secreto!",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J191; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "The Skies can't keep their secret!",
+      "¡Los Cielos no saben guardar su secreto!"
+    ],
+    [
+      "They tell it to the Hills -",
+      "Se lo cuentan a las Colinas —"
+    ],
+    [
+      "The Hills just tell the Orchards -",
+      "las Colinas se lo cuentan a los Huertos —"
+    ],
+    [
+      "And they - the Daffodils!",
+      "¡y estos — a los Narcisos!"
+    ],
+    [
+      "A Bird - by chance - that goes that way -",
+      "Un Pájaro — que pasa por allí por azar —"
+    ],
+    [
+      "Soft overhears the whole -",
+      "oye suavemente toda la historia —"
+    ],
+    [
+      "If I should bribe the little Bird -",
+      "Si sobornara al pequeño Pájaro —"
+    ],
+    [
+      "Who knows but she would tell?",
+      "¿quién sabe si no me la contaría?"
+    ],
+    [
+      "I think I won't - however -",
+      "Creo que no lo haré — sin embargo —"
+    ],
+    [
+      "It's finer - not to know -",
+      "es más hermoso — no saber —"
+    ],
+    [
+      "If Summer were an Axiom -",
+      "si el Verano fuera un Axioma —"
+    ],
+    [
+      "What sorcery had Snow?",
+      "¿qué hechizo tendría la Nieve?"
+    ],
+    [
+      "So keep your secret - Father!",
+      "¡Guardá tu secreto — Padre!"
+    ],
+    [
+      "I would not - if I could,",
+      "No querría — aunque pudiera —"
+    ],
+    [
+      "Know what the Sapphire Fellows, do,",
+      "saber qué hacen los Compañeros de Zafiro"
+    ],
+    [
+      "In your new-fashioned world!",
+      "en tu mundo de nueva hechura."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 11,
+      "title": "Axiom",
+      "body": "El verano como axioma sería una verdad demostrable, sin misterio; la pregunta sobre la nieve defiende el valor de lo desconocido."
+    }
+  ],
+  "interpretation": "La circulación del secreto por el paisaje contrasta con la decisión final de no conocerlo. La ignorancia voluntaria conserva el poder encantador de las estaciones; el «Padre» puede aludir a una autoridad divina, sin que la identificación sea obligatoria.",
+  "preest": null
+},
+  J192: {
+  "id": "J192",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "Poor little Heart!",
+  "titleES": "¡Pobre Corazoncito!",
+  "stanzaBreaks": [
+    3,
+    6,
+    9
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J192; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Poor little Heart!",
+      "¡Pobre Corazoncito!"
+    ],
+    [
+      "Did they forget thee?",
+      "¿Te olvidaron?"
+    ],
+    [
+      "Then dinna care! Then dinna care!",
+      "¡Pues no te importe! ¡No te importe!"
+    ],
+    [
+      "Proud little Heart!",
+      "¡Orgulloso Corazoncito!"
+    ],
+    [
+      "Did they forsake thee?",
+      "¿Te abandonaron?"
+    ],
+    [
+      "Be debonnaire! Be debonnaire!",
+      "¡Mostrate despreocupado! ¡Despreocupado!"
+    ],
+    [
+      "Frail little Heart!",
+      "¡Frágil Corazoncito!"
+    ],
+    [
+      "I would not break thee -",
+      "Yo no te rompería —"
+    ],
+    [
+      "Could'st credit me? Could'st credit me?",
+      "¿Podrías creerme? ¿Podrías creerme?"
+    ],
+    [
+      "Gay little Heart -",
+      "Alegre Corazoncito —"
+    ],
+    [
+      "Like Morning Glory!",
+      "¡como la Gloria de la Mañana!"
+    ],
+    [
+      "Wind and Sun - wilt thee array!",
+      "¡El Viento y el Sol — te vestirán!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Dinna care",
+      "body": "Forma dialectal escocesa de «do not care»; su musicalidad infantil forma parte del registro de consuelo."
+    }
+  ],
+  "interpretation": "La voz se dirige a su propio corazón como si consolara a un niño. El imperativo dialectal «dinna care» y las reiteraciones construyen una canción de resistencia cuya alegría es precaria.",
+  "preest": null
+},
+  J193: {
+  "id": "J193",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "I shall know why - when Time is over -",
+  "titleES": "Sabré por qué — cuando el Tiempo haya terminado —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J193; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "I shall know why - when Time is over -",
+      "Sabré por qué — cuando el Tiempo haya terminado —"
+    ],
+    [
+      "And I have ceased to wonder why -",
+      "y haya dejado de preguntarme por qué —"
+    ],
+    [
+      "Christ will explain each separate anguish",
+      "Cristo explicará cada angustia por separado"
+    ],
+    [
+      "In the fair schoolroom of the sky -",
+      "en la hermosa aula del cielo —"
+    ],
+    [
+      "He will tell me what \"Peter\" promised -",
+      "Me dirá qué prometió «Pedro» —"
+    ],
+    [
+      "And I - for wonder at his woe -",
+      "y yo — asombrada ante su dolor —"
+    ],
+    [
+      "I shall forget the drop of Anguish",
+      "olvidaré la gota de Angustia"
+    ],
+    [
+      "That scalds me now - that scalds me now!",
+      "que ahora me abrasa — ¡que ahora me abrasa!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Peter",
+      "body": "La mención de Pedro puede evocar las promesas y negaciones narradas en los Evangelios; la referencia no determina por sí sola el sentido de cada angustia."
+    }
+  ],
+  "interpretation": "La escena de una escuela celeste promete explicación para el dolor terrenal. Pero la repetición de «that scalds me now» insiste en el presente corporal y deja abierta la distancia entre promesa futura y padecimiento actual.",
+  "preest": null
+},
+  J194: {
+  "id": "J194",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "On this long storm the Rainbow rose -",
+  "titleES": "Sobre esta larga tormenta se alzó el Arcoíris —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J194; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "On this long storm the Rainbow rose -",
+      "Sobre esta larga tormenta se alzó el Arcoíris —"
+    ],
+    [
+      "On this late Morn - the Sun -",
+      "en esta Mañana tardía — el Sol —"
+    ],
+    [
+      "The clouds - like listless Elephants -",
+      "las nubes — como Elefantes apáticos —"
+    ],
+    [
+      "Horizons - straggled down -",
+      "se dispersaron — por los Horizontes —"
+    ],
+    [
+      "The Birds rose smiling, in their nests -",
+      "Los Pájaros se levantaron sonrientes en sus nidos —"
+    ],
+    [
+      "The gales - indeed - were done -",
+      "los vendavales — en efecto — habían cesado —"
+    ],
+    [
+      "Alas, how heedless were the eyes -",
+      "Ay, qué indiferentes estaban los ojos —"
+    ],
+    [
+      "On whom the summer shone!",
+      "sobre los que brillaba el verano."
+    ],
+    [
+      "The quiet nonchalance of death -",
+      "La tranquila indiferencia de la muerte —"
+    ],
+    [
+      "No Daybreak - can bestir -",
+      "ninguna Aurora — puede alterarla —"
+    ],
+    [
+      "The slow - Archangel's syllables",
+      "las lentas — sílabas del Arcángel"
+    ],
+    [
+      "Must awaken her!",
+      "habrán de despertarla."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 11,
+      "title": "Archangel",
+      "body": "El despertar por la voz angélica remite al imaginario cristiano de la resurrección, en contraste con el amanecer natural."
+    }
+  ],
+  "interpretation": "La tormenta se despeja para todos salvo para la muerta. El contraste entre la indiferencia del amanecer y el despertar escatológico aplazado convierte la meteorología en una meditación sobre la irreversibilidad.",
+  "preest": null
+},
+  J195: {
+  "id": "J195",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "For this - accepted Breath -",
+  "titleES": "Por este — Aliento aceptado —",
+  "stanzaBreaks": [
+    6,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J195; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "For this - accepted Breath -",
+      "Por este — Aliento aceptado —"
+    ],
+    [
+      "Through it - compete with Death -",
+      "por él — rivalizo con la Muerte —"
+    ],
+    [
+      "The fellow cannot touch this Crown -",
+      "ese sujeto no puede tocar esta Corona —"
+    ],
+    [
+      "By it - my title take -",
+      "por él — recibo mi título —"
+    ],
+    [
+      "Ah, what a royal sake",
+      "Ah, por qué causa tan regia"
+    ],
+    [
+      "To my necessity - stooped down!",
+      "se inclinó hacia mi necesidad."
+    ],
+    [
+      "No Wilderness - can be",
+      "No puede haber Desierto"
+    ],
+    [
+      "Where this attendeth me -",
+      "donde esto me acompañe —"
+    ],
+    [
+      "No Desert Noon -",
+      "ningún Mediodía desolado —"
+    ],
+    [
+      "No fear of frost to come",
+      "ningún temor de la escarcha venidera"
+    ],
+    [
+      "Haunt the perennial bloom -",
+      "acecha la floración perenne —"
+    ],
+    [
+      "But Certain June!",
+      "¡solo un Junio seguro!"
+    ],
+    [
+      "Get Gabriel - to tell - the royal syllable -",
+      "Pedí a Gabriel — que pronuncie — la sílaba regia —"
+    ],
+    [
+      "Get Saints - with new - unsteady tongue -",
+      "pedí a los Santos — con lengua nueva — vacilante —"
+    ],
+    [
+      "To say what trance below",
+      "que digan qué éxtasis de aquí abajo"
+    ],
+    [
+      "Most like their glory show -",
+      "se parece más a su gloria —"
+    ],
+    [
+      "Fittest the Crown!",
+      "¡el más digno de la Corona!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Accepted Breath",
+      "body": "El referente de «this» no se identifica de modo inequívoco: podría ser un vínculo afectivo o una gracia experimentada."
+    }
+  ],
+  "interpretation": "El «aliento» recibido se imagina como una corona que la muerte no puede arrebatar. La retórica regia y religiosa convierte una experiencia de plenitud presente en anticipo de la gloria celestial.",
+  "preest": null
+},
+  J196: {
+  "id": "J196",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "We don't cry - Tim and I,",
+  "titleES": "No lloramos — Tim y yo,",
+  "stanzaBreaks": [
+    8,
+    14,
+    18
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J196; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "We don't cry - Tim and I,",
+      "No lloramos — Tim y yo,"
+    ],
+    [
+      "We are far too grand -",
+      "somos demasiado orgullosos —"
+    ],
+    [
+      "But we bolt the door tight",
+      "pero atrancamos bien la puerta"
+    ],
+    [
+      "To prevent a friend -",
+      "para que no entre ningún amigo —"
+    ],
+    [
+      "Then we hide our brave face",
+      "luego escondemos nuestro rostro valiente"
+    ],
+    [
+      "Deep in our hand -",
+      "hondo entre las manos —"
+    ],
+    [
+      "Not to cry - Tim and I -",
+      "No lloramos — Tim y yo —"
+    ],
+    [
+      "We are far too grand -",
+      "somos demasiado orgullosos —"
+    ],
+    [
+      "Nor to dream - he and me -",
+      "Ni a soñar — él y yo —"
+    ],
+    [
+      "Do we condescend -",
+      "nos dignamos —"
+    ],
+    [
+      "We just shut our brown eye",
+      "solo cerramos nuestros ojos pardos"
+    ],
+    [
+      "To see to the end -",
+      "para ver hasta el final —"
+    ],
+    [
+      "Tim - see Cottages -",
+      "Tim — ve Cabañas —"
+    ],
+    [
+      "But, Oh, so high!",
+      "pero, ¡ay, tan altas!"
+    ],
+    [
+      "Then - we shake - Tim and I -",
+      "Entonces — temblamos — Tim y yo —"
+    ],
+    [
+      "And lest I - cry -",
+      "y para que yo — no llore —"
+    ],
+    [
+      "Tim - reads a little Hymn -",
+      "Tim — lee un pequeño Himno —"
+    ],
+    [
+      "And we both pray -",
+      "y rezamos los dos —"
+    ],
+    [
+      "Please, Sir, I and Tim -",
+      "Por favor, Señor, Tim y yo —"
+    ],
+    [
+      "Always lost the way!",
+      "¡siempre perdimos el camino!"
+    ],
+    [
+      "We must die - by and by -",
+      "Tenemos que morir — tarde o temprano —"
+    ],
+    [
+      "Clergymen say -",
+      "dicen los Clérigos —"
+    ],
+    [
+      "Tim - shall - if I - do -",
+      "Tim — lo hará — si yo — lo hago —"
+    ],
+    [
+      "I - too - if he -",
+      "yo — también — si él —"
+    ],
+    [
+      "How shall we arrange it -",
+      "¿Cómo lo arreglaremos?"
+    ],
+    [
+      "Tim - was - so - shy? ",
+      "Tim — era — tan — tímido."
+    ],
+    [
+      "Take us simultaneous - Lord -",
+      "Llevanos a los dos a la vez — Señor —"
+    ],
+    [
+      "I - \"Tim\" - and - Me!",
+      "¡Yo — «Tim» — y — yo!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 27,
+      "title": "Simultaneous",
+      "body": "La petición de ser llevados juntos se opone al temor infantil de que la muerte separe a Tim y a la hablante."
+    }
+  ],
+  "interpretation": "Tim y la hablante se proclaman demasiado orgullosos para llorar mientras el poema enumera gestos de miedo. La oración final solicita una muerte simultánea, una respuesta infantil y conmovedora a la separación.",
+  "preest": null
+},
+  J197: {
+  "id": "J197",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "Morning - is the place for Dew -",
+  "titleES": "La Mañana — es el lugar del Rocío —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J197; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Morning - is the place for Dew -",
+      "La Mañana — es el lugar del Rocío —"
+    ],
+    [
+      "Corn - is made at Noon -",
+      "el Trigo — se hace al Mediodía —"
+    ],
+    [
+      "After dinner light - for flowers -",
+      "la luz de después de comer — para las flores —"
+    ],
+    [
+      "Dukes - for Setting Sun!",
+      "¡los Duques — para el Sol poniente!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Corn",
+      "body": "En el inglés estadounidense del siglo XIX puede designar el maíz; la traducción «trigo» queda provisional y exige revisión contextual."
+    }
+  ],
+  "interpretation": "Cuatro asociaciones rápidas convierten el transcurso del día en una distribución ceremonial de lugares y rangos. La concisión no aclara si los «Duques» son figuras del ocaso o sus espectadores.",
+  "preest": null
+},
+  J198: {
+  "id": "J198",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "An awful Tempest mashed the air -",
+  "titleES": "Una Tempestad terrible aplastó el aire —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J198; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "An awful Tempest mashed the air -",
+      "Una Tempestad terrible aplastó el aire —"
+    ],
+    [
+      "The clouds were gaunt, and few -",
+      "las nubes eran escasas y demacradas —"
+    ],
+    [
+      "A Black - as of a Spectre's Cloak",
+      "Una Negrura — como de Manto de Espectro"
+    ],
+    [
+      "Hid Heaven and Earth from view.",
+      "ocultó el Cielo y la Tierra a la vista."
+    ],
+    [
+      "The creatures chuckled on the Roofs -",
+      "Las criaturas se reían en los Tejados —"
+    ],
+    [
+      "And whistled in the air -",
+      "y silbaban en el aire —"
+    ],
+    [
+      "And shook their fists -",
+      "y agitaban los puños —"
+    ],
+    [
+      "And gnashed their teeth -",
+      "y rechinaban los dientes —"
+    ],
+    [
+      "And swung their frenzied hair.",
+      "y sacudían su cabello enloquecido."
+    ],
+    [
+      "The morning lit - the Birds arose -",
+      "La mañana se encendió — los Pájaros se alzaron —"
+    ],
+    [
+      "The Monster's faded eyes",
+      "los ojos desvaídos del Monstruo"
+    ],
+    [
+      "Turned slowly to his native coast -",
+      "se volvieron lentamente hacia su costa natal —"
+    ],
+    [
+      "And peace - was Paradise!",
+      "¡y la paz — fue el Paraíso!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Creatures",
+      "body": "La personificación permite leer las criaturas de los tejados como manifestaciones del viento o de la tormenta, sin identificarlas literalmente."
+    }
+  ],
+  "interpretation": "La tempestad aparece como un monstruo animado que se retira al amanecer. La paz final se llama «Paraíso», pero solo después de que el poema haya dramatizado el terror de la naturaleza.",
+  "preest": null
+},
+  J199: {
+  "id": "J199",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "I'm \"wife\" - I've finished that -",
+  "titleES": "Soy «esposa» — he terminado con aquello —",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J199; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "I'm \"wife\" - I've finished that -",
+      "Soy «esposa» — he terminado con aquello —"
+    ],
+    [
+      "That other state -",
+      "aquel otro estado —"
+    ],
+    [
+      "I'm Czar - I'm \"Woman\" now -",
+      "Soy Zar — soy «Mujer» ahora —"
+    ],
+    [
+      "It's safer so -",
+      "así es más seguro —"
+    ],
+    [
+      "How odd the Girl's life looks",
+      "Qué extraña parece la vida de Muchacha"
+    ],
+    [
+      "Behind this soft Eclipse -",
+      "detrás de este suave Eclipse —"
+    ],
+    [
+      "I think that Earth feels so",
+      "Creo que así debe sentirse la Tierra"
+    ],
+    [
+      "To folks in Heaven - now -",
+      "para quienes están en el Cielo — ahora —"
+    ],
+    [
+      "This being comfort - then",
+      "Si esto es consuelo — entonces"
+    ],
+    [
+      "That other kind - was pain -",
+      "aquella otra condición — era dolor —"
+    ],
+    [
+      "But why compare?",
+      "Pero ¿para qué comparar?"
+    ],
+    [
+      "I'm \"Wife\"! Stop there!",
+      "¡Soy «Esposa»! ¡Basta!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Czar",
+      "body": "El título de soberanía («Zar») complica la aparente domesticación de la identidad femenina."
+    }
+  ],
+  "interpretation": "La hablante adopta el título de «esposa» y ensaya su supuesta seguridad, aunque el «suave Eclipse» sugiere también una pérdida. Las comillas y el imperativo final hacen discutible una lectura simplemente celebratoria del matrimonio.",
+  "preest": null
+},
+  J200: {
+  "id": "J200",
+  "franklin": null,
+  "approx": "c. 1860 (Johnson)",
+  "incipit": "I stole them from a Bee -",
+  "titleES": "Se las robé a una Abeja —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J200; texto inglés cotejado con las páginas impresas 89–95. Correspondencia Franklin y variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "I stole them from a Bee -",
+      "Se las robé a una Abeja —"
+    ],
+    [
+      "Because - Thee -",
+      "por — Vos —"
+    ],
+    [
+      "Sweet plea -",
+      "dulce alegato —"
+    ],
+    [
+      "He pardoned me!",
+      "¡él me perdonó!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Them",
+      "body": "El pronombre no identifica los objetos robados; conviene preservar esa indeterminación."
+    }
+  ],
+  "interpretation": "La miniatura transforma el robo de néctar o flores en una petición amorosa. La elipsis de «them» deja deliberadamente sin nombrar el objeto sustraído.",
+  "preest": null
+},
 J258: {
     "id": "J258",
     "franklin": "Pendiente de cotejo",
