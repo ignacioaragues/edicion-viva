@@ -1024,30 +1024,34 @@
     {
       "group": "sermones",
       "number": 48,
-      "section": "Sermo XLVIII · De Quadragesima X · caput I",
-      "paragraphs": 7,
-      "aligned_units": 7,
+      "section": "Sermo XLVIII · De Quadragesima X · capita I–V, complete first-pass translation",
+      "paragraphs": 19,
+      "aligned_units": 19,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "original Spanish aligned translation, chapter I only",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xlviii/index.html",
-      "voice_notes": 5,
-      "lexical_coverage": "8 selective contextual entries; word-by-word morphology pending",
+      "voice_notes": 9,
+      "lexical_coverage": "16 selective contextual entries; exhaustive token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapter I from public Tractatus XLVIII transcription; chapters II–V, printed PL54 collation, full morphology, shared dictionary and browser QA pending."
+      "editorial_caveat": "Five chapters published, 19 aligned units. Source transcription has 'vanem' at II Cor 9:10 (likely panem); printed PL54 collation, complete contextual morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo XLVIII · caput II, «In hac, dilectissimi, unitate sanctorum»; complete chapters II–V",
+  "next": "Sermo XLIX · verify current repository and primary source before editing",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo XLVIII chapter I, seven aligned units and eight selected lexical notes published; partial",
+  "last_edit": "2026-11-21: Sermo XLVIII chapters II–V completed in first-pass bilingual reader; full philological audit pending",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": "Sermo XLVIII · caput I published; chapters II–V pending",
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
