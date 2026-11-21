@@ -9474,5 +9474,385 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La cirugía se representa como una intervención sobre algo vivo e imprevisible: la vida misma aparece como «culpable» bajo el bisturí.",
   "preest": null
+},
+  J109: {
+  "id": "J109",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "By a flower – By a letter –",
+  "titleES": "Por una flor — por una carta —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J109, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "By a flower – By a letter –",
+      "Por una flor — por una carta —"
+    ],
+    [
+      "By a nimble love –",
+      "por un amor ligero —"
+    ],
+    [
+      "If I weld the Rivet faster –",
+      "si sueldo el remache más deprisa —"
+    ],
+    [
+      "Final fast – above –",
+      "firme al fin — allá arriba —"
+    ],
+    [
+      "Never mind my breathless Anvil!",
+      "¡no importa mi yunque sin aliento!"
+    ],
+    [
+      "Never mind Repose!",
+      "¡No importa el descanso!"
+    ],
+    [
+      "Never mind the sooty faces",
+      "¡No importan los rostros tiznados"
+    ],
+    [
+      "Tugging at the Forge!",
+      "que trabajan en la fragua!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "El trabajo de la fragua se vuelve figura de un vínculo que busca hacerse indestructible: el remache promete una unión definitiva, pero exige esfuerzo y renuncia al reposo."
+    }
+  ],
+  "interpretation": "El trabajo de la fragua se vuelve figura de un vínculo que busca hacerse indestructible: el remache promete una unión definitiva, pero exige esfuerzo y renuncia al reposo.",
+  "preest": null
+},
+  J110: {
+  "id": "J110",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Artists wrestled here!",
+  "titleES": "¡Aquí lucharon los artistas!",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J110, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Artists wrestled here!",
+      "¡Aquí lucharon los artistas!"
+    ],
+    [
+      "Lo, a tint Cashmere!",
+      "¡Mirá, un matiz de Cachemira!"
+    ],
+    [
+      "Lo, a Rose!",
+      "¡Mirá, una rosa!"
+    ],
+    [
+      "Student of the Year!",
+      "¡Estudiante del año!"
+    ],
+    [
+      "For the easel here",
+      "Ante este caballete,"
+    ],
+    [
+      "Say Repose!",
+      "¡decí: descanso!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La contemplación de la naturaleza se describe con vocabulario pictórico: sus colores rivalizan con la labor de los artistas."
+    }
+  ],
+  "interpretation": "La contemplación de la naturaleza se describe con vocabulario pictórico: sus colores rivalizan con la labor de los artistas.",
+  "preest": null
+},
+  J111: {
+  "id": "J111",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "The Bee is not afraid of me.",
+  "titleES": "La abeja no me tiene miedo.",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J111, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "The Bee is not afraid of me.",
+      "La abeja no me tiene miedo."
+    ],
+    [
+      "I know the Butterfly",
+      "Conozco a la mariposa."
+    ],
+    [
+      "The pretty people in the Woods",
+      "La hermosa gente del bosque"
+    ],
+    [
+      "Receive me cordially –",
+      "me recibe cordialmente —"
+    ],
+    [
+      "The Brooks laugh louder when I come –",
+      "los arroyos ríen más fuerte cuando llego —"
+    ],
+    [
+      "The Breezes madder play,",
+      "las brisas juegan más alocadas;"
+    ],
+    [
+      "Wherefore mine eye thy silver mists,",
+      "¿por qué mis ojos buscan tus nieblas plateadas,"
+    ],
+    [
+      "Wherefore, Oh Summer's Day?",
+      "por qué, oh día de verano?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La familiaridad con los seres naturales contrasta con el interrogante final: la intimidad no cancela el misterio del verano."
+    }
+  ],
+  "interpretation": "La familiaridad con los seres naturales contrasta con el interrogante final: la intimidad no cancela el misterio del verano.",
+  "preest": null
+},
+  J112: {
+  "id": "J112",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Where bells no more affright the morn –",
+  "titleES": "Donde las campanas ya no espantan la mañana —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J112, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Where bells no more affright the morn –",
+      "Donde las campanas ya no espantan la mañana —"
+    ],
+    [
+      "Where scrabble never comes –",
+      "donde nunca llega el trajín —"
+    ],
+    [
+      "Where very nimble Gentlemen",
+      "donde caballeros muy ágiles"
+    ],
+    [
+      "Are forced to keep their rooms –",
+      "deben quedarse en sus habitaciones —"
+    ],
+    [
+      "Where tired Children placid sleep",
+      "donde los niños cansados duermen tranquilos"
+    ],
+    [
+      "Thro' Centuries of noon",
+      "durante siglos de mediodía —"
+    ],
+    [
+      "This place is Bliss – this town is Heaven –",
+      "ese lugar es la dicha — esa ciudad es el cielo —"
+    ],
+    [
+      "Please, Pater, pretty soon!",
+      "¡pronto, por favor, Padre!"
+    ],
+    [
+      "\"Oh could we climb where Moses stood,",
+      "«¡Ah, si pudiéramos subir donde estuvo Moisés"
+    ],
+    [
+      "And view the Landscape o'er\" –",
+      "y contemplar todo el paisaje!» —"
+    ],
+    [
+      "Not Father's bells – nor Factories,",
+      "ni las campanas del Padre ni las fábricas"
+    ],
+    [
+      "Could scare us any more!",
+      "podrían asustarnos nunca más."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "El cielo se imagina mediante la suspensión del ruido, el trabajo y la disciplina; la cita de Moisés desplaza la visión religiosa hacia una geografía del descanso."
+    }
+  ],
+  "interpretation": "El cielo se imagina mediante la suspensión del ruido, el trabajo y la disciplina; la cita de Moisés desplaza la visión religiosa hacia una geografía del descanso.",
+  "preest": null
+},
+  J113: {
+  "id": "J113",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Our share of night to bear –",
+  "titleES": "Nuestra porción de noche que soportar —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J113, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Our share of night to bear –",
+      "Nuestra porción de noche que soportar —"
+    ],
+    [
+      "Our share of morning –",
+      "nuestra porción de mañana —"
+    ],
+    [
+      "Our blank in bliss to fill",
+      "nuestro vacío que llenar de dicha,"
+    ],
+    [
+      "Our blank in scorning –",
+      "nuestro vacío de desprecio —"
+    ],
+    [
+      "Here a star, and there a star,",
+      "aquí una estrella, allá otra estrella:"
+    ],
+    [
+      "Some lose their way!",
+      "¡algunas pierden el rumbo!"
+    ],
+    [
+      "Here a mist, and there a mist,",
+      "Aquí una niebla, allá otra niebla;"
+    ],
+    [
+      "Afterwards – Day!",
+      "después — ¡el día!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "El poema distribuye noche y mañana como porciones de una experiencia compartida, hasta que la promesa del día sucede a la desorientación."
+    }
+  ],
+  "interpretation": "El poema distribuye noche y mañana como porciones de una experiencia compartida, hasta que la promesa del día sucede a la desorientación.",
+  "preest": null
+},
+  J114: {
+  "id": "J114",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Good night, because we must,",
+  "titleES": "Buenas noches, porque así debe ser;",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J114, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "Good night, because we must,",
+      "Buenas noches, porque así debe ser;"
+    ],
+    [
+      "How intricate the dust!",
+      "¡qué intrincado es el polvo!"
+    ],
+    [
+      "I would go, to know!",
+      "¡Quisiera ir para saber!"
+    ],
+    [
+      "Oh Incognito!",
+      "¡Oh, incógnito!"
+    ],
+    [
+      "Saucy, Saucy Seraph",
+      "¡Serafín descarado, descarado,"
+    ],
+    [
+      "To elude me so!",
+      "que así me eludís!"
+    ],
+    [
+      "Father! they won't tell me,",
+      "¡Padre! No quieren decírmelo;"
+    ],
+    [
+      "Won't you tell them to?",
+      "¿no les ordenarás que me lo digan?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz convierte el desconocimiento de la muerte en una conversación irreverente con el cielo: quiere averiguar, no aceptar una respuesta ritual."
+    }
+  ],
+  "interpretation": "La voz convierte el desconocimiento de la muerte en una conversación irreverente con el cielo: quiere averiguar, no aceptar una respuesta ritual.",
+  "preest": null
+},
+  J115: {
+  "id": "J115",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "What Inn is this",
+  "titleES": "¿Qué posada es esta",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J115, pp. 52–55. Texto inglés cotejado con el PDF Johnson; normalización de errores evidentes de reconocimiento óptico; variantes manuscritas pendientes.",
+  "lines": [
+    [
+      "What Inn is this",
+      "¿Qué posada es esta"
+    ],
+    [
+      "Where for the night",
+      "adonde por la noche"
+    ],
+    [
+      "Peculiar Traveller comes?",
+      "llega un viajero singular?"
+    ],
+    [
+      "Who is the Landlord?",
+      "¿Quién es el posadero?"
+    ],
+    [
+      "Where the maids?",
+      "¿Dónde están las criadas?"
+    ],
+    [
+      "Behold, what curious rooms!",
+      "¡Mirá qué habitaciones tan extrañas!"
+    ],
+    [
+      "No ruddy fires on the hearth –",
+      "No arde ningún fuego rojizo en el hogar —"
+    ],
+    [
+      "No brimming Tankards flow –",
+      "no rebosan las jarras —"
+    ],
+    [
+      "Necromancer! Landlord!",
+      "¡Nigromante! ¡Posadero!"
+    ],
+    [
+      "Who are these below?",
+      "¿Quiénes son esos de abajo?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La tumba aparece como una posada extraña y desprovista de hospitalidad. La pregunta final vuelve inquietante la identidad de sus huéspedes."
+    }
+  ],
+  "interpretation": "La tumba aparece como una posada extraña y desprovista de hospitalidad. La pregunta final vuelve inquietante la identidad de sus huéspedes.",
+  "preest": null
 }
 });
