@@ -1090,13 +1090,45 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Full three-chapter first-pass Latin/Spanish based on public Tractatus L; printed PL54 collation, full contextual morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 51,
+      "section": "Sermo LI · De transfiguratione Domini · capita I–II of VIII",
+      "paragraphs": 10,
+      "aligned_units": 10,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 8,
+      "translation": "partial original first-pass aligned Spanish translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-li/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "12 selective contextual entries; exhaustive token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapters I-II published from public Tractatus LI; printed PL54 collation, contextual morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo LI, caput I; Sermo L full contextual morphology and printed PL54 collation pending",
+  "next": "Sermo LI, caput III, «Aperit ergo Dominus coram electis testibus gloriam suam»; complete through caput VIII and Amen before Sermo LII",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo L chapters I–III complete first-pass bilingual reader published",
+  "last_edit": "2026-11-21: Sermo LI chapters I-II, 10 bilingual units; partial.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": null,
+  "in_progress_work": {
+    "group": "sermones",
+    "number": 51,
+    "chapters_complete": [
+      1,
+      2
+    ],
+    "total_chapters": 8,
+    "next_chapter": 3,
+    "next_opening": "Aperit ergo Dominus coram electis testibus gloriam suam"
+  },
   "priority_queue": [
     {
       "group": "sermones",
