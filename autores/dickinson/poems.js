@@ -14578,5 +14578,702 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La invocación al mago pide aprender no a sanar sino a producir un dolor invulnerable a la medicina. La ambigüedad entre poder poético, seducción y daño queda abierta.",
   "preest": null
+},
+  J178: {
+  "id": "J178",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I cautious, scanned my little life",
+  "titleES": "I cautious, scanned my little life",
+  "stanzaBreaks": [
+    4,
+    6,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J178, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "I cautious, scanned my little life -",
+      "Con cautela examiné mi pequeña vida —"
+    ],
+    [
+      "I winnowed what would fade",
+      "separé, aventando, lo que se marchitaría"
+    ],
+    [
+      "From what would last till Heads like mine",
+      "de aquello que perduraría hasta que cabezas como la mía"
+    ],
+    [
+      "Should be a-dreaming laid.",
+      "yacieran sumidas en sueños."
+    ],
+    [
+      "I put the latter in a Barn -",
+      "Guardé lo segundo en un granero —"
+    ],
+    [
+      "The former, blew away.",
+      "lo primero lo dejé volar."
+    ],
+    [
+      "I went one winter morning",
+      "Una mañana de invierno fui"
+    ],
+    [
+      "And lo - my priceless Hay",
+      "y, ¡ay!, mi heno inapreciable"
+    ],
+    [
+      "Was not upon the \"Scaffold\" -",
+      "no estaba sobre el «andamio» —"
+    ],
+    [
+      "Was not upon the \"Beam\" -",
+      "ni sobre la «viga» —"
+    ],
+    [
+      "And from a thriving Farmer -",
+      "y de próspera labradora"
+    ],
+    [
+      "A Cynic, I became.",
+      "me convertí en cínica."
+    ],
+    [
+      "Whether a Thief did it -",
+      "Si fue un ladrón quien lo hizo —"
+    ],
+    [
+      "Whether it was the wind -",
+      "si fue el viento —"
+    ],
+    [
+      "Whether Deity's guiltless -",
+      "si la Divinidad es inocente —"
+    ],
+    [
+      "My business is, to find!",
+      "¡averiguarlo es asunto mío!"
+    ],
+    [
+      "So I begin to ransack!",
+      "¡Así que empiezo a revolverlo todo!"
+    ],
+    [
+      "How is it Hearts, with Thee?",
+      "¿Qué ha sido de ti, Corazón?"
+    ],
+    [
+      "Art thou within the little Barn",
+      "¿Estás dentro del pequeño granero"
+    ],
+    [
+      "Love provided Thee?",
+      "que el Amor te preparó?"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La clasificación prudente de lo duradero fracasa cuando desaparece precisamente lo preservado. El lenguaje agrícola desemboca en una interrogación íntima al corazón.",
+  "preest": null
+},
+  J179: {
+  "id": "J179",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "If I could bribe them by a Rose",
+  "titleES": "If I could bribe them by a Rose",
+  "stanzaBreaks": [
+    6,
+    12,
+    16
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J179, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "If I could bribe them by a Rose",
+      "Si pudiera sobornarlos con una rosa,"
+    ],
+    [
+      "I'd bring them every flower that grows",
+      "les llevaría todas las flores que crecen"
+    ],
+    [
+      "From Amherst to Cashmere!",
+      "¡desde Amherst hasta Cachemira!"
+    ],
+    [
+      "I would not stop for night, or storm -",
+      "No me detendrían la noche ni la tormenta —"
+    ],
+    [
+      "Or frost, or death, or anyone -",
+      "ni la escarcha ni la muerte ni nadie —"
+    ],
+    [
+      "My business were so dear!",
+      "¡tan precioso sería mi cometido!"
+    ],
+    [
+      "If they would linger for a Bird",
+      "Si se quedaran por un pájaro,"
+    ],
+    [
+      "My Tambourin were soonest heard",
+      "mi pandereta sería la primera en oírse"
+    ],
+    [
+      "Among the April Woods!",
+      "¡entre los bosques de abril!"
+    ],
+    [
+      "Unwearied, all the summer long,",
+      "Incansable durante todo el verano,"
+    ],
+    [
+      "Only to break in wilder song",
+      "solo para estallar en canto más salvaje"
+    ],
+    [
+      "When Winter shook the boughs!",
+      "cuando el invierno sacudiera las ramas."
+    ],
+    [
+      "What if they hear me!",
+      "¡Y si me oyen!"
+    ],
+    [
+      "Who shall say",
+      "¿Quién puede asegurar"
+    ],
+    [
+      "That such an importunity",
+      "que tanta insistencia"
+    ],
+    [
+      "May not at last avail?",
+      "no termine por dar fruto?"
+    ],
+    [
+      "That, weary of this Beggar's face -",
+      "Que, cansados del rostro de esta mendiga —"
+    ],
+    [
+      "They may not finally say, Yes -",
+      "no acaben por decir que sí —"
+    ],
+    [
+      "To drive her from the Hall?",
+      "solo para echarla del salón?"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La súplica adopta la forma de una oferta desmesurada: flores, música y perseverancia. El consentimiento final podría ser compasión, cansancio o expulsión.",
+  "preest": null
+},
+  J180: {
+  "id": "J180",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "As if some little Arctic flower",
+  "titleES": "As if some little Arctic flower",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J180, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "As if some little Arctic flower",
+      "Como si una pequeña flor ártica"
+    ],
+    [
+      "Upon the polar hem -",
+      "del borde polar —"
+    ],
+    [
+      "Went wandering down the Latitudes",
+      "descendiera errante por las latitudes"
+    ],
+    [
+      "Until it puzzled came",
+      "hasta llegar, desconcertada,"
+    ],
+    [
+      "To continents of summer -",
+      "a continentes de verano —"
+    ],
+    [
+      "To firmaments of sun -",
+      "a firmamentos de sol —"
+    ],
+    [
+      "To strange, bright crowds of flowers -",
+      "a extrañas multitudes de flores luminosas —"
+    ],
+    [
+      "And birds, of foreign tongue!",
+      "¡y pájaros de lengua extranjera!"
+    ],
+    [
+      "I say, As if this little flower",
+      "Digo: como si esta pequeña flor"
+    ],
+    [
+      "To Eden, wandered in -",
+      "entrara por azar en el Edén —"
+    ],
+    [
+      "What then? Why nothing,",
+      "¿y entonces? Pues nada:"
+    ],
+    [
+      "Only, your inference therefrom!",
+      "¡solo lo que vos deduzcas de ello!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "El traslado de una flor polar al Edén produce extrañeza antes que una moraleja cerrada. El último verso entrega al lector la responsabilidad de inferir.",
+  "preest": null
+},
+  J181: {
+  "id": "J181",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I lost a World - the other day!",
+  "titleES": "I lost a World - the other day!",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J181, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "I lost a World - the other day!",
+      "¡Perdí un mundo el otro día!"
+    ],
+    [
+      "Has Anybody found?",
+      "¿Alguien lo ha encontrado?"
+    ],
+    [
+      "You'll know it by the Row of Stars",
+      "Lo reconocerán por la hilera de estrellas"
+    ],
+    [
+      "Around its forehead bound.",
+      "que ciñe su frente."
+    ],
+    [
+      "A Rich man - might not notice it -",
+      "Un rico quizá no reparase en él —"
+    ],
+    [
+      "Yet - to my frugal Eye,",
+      "pero, para mis ojos austeros,"
+    ],
+    [
+      "Of more Esteem than Ducats -",
+      "vale más que los ducados —"
+    ],
+    [
+      "Oh find it - Sir - for me!",
+      "¡oh, encuéntrelo, señor, por mí!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La pérdida cósmica se anuncia como un aviso de objeto extraviado. La riqueza monetaria resulta incapaz de medir el valor de ese mundo.",
+  "preest": null
+},
+  J182: {
+  "id": "J182",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "If I shouldn't be alive",
+  "titleES": "If I shouldn't be alive",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J182, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "If I shouldn't be alive",
+      "Si ya no estuviera viva"
+    ],
+    [
+      "When the Robins come,",
+      "cuando lleguen los petirrojos,"
+    ],
+    [
+      "Give the one in Red Cravat,",
+      "dale al que lleva corbata roja"
+    ],
+    [
+      "A Memorial crumb.",
+      "una migaja en mi memoria."
+    ],
+    [
+      "If I couldn't thank you,",
+      "Si no pudiera agradecerte,"
+    ],
+    [
+      "Being fast asleep,",
+      "sumida en un sueño profundo,"
+    ],
+    [
+      "You will know I'm trying",
+      "sabrás que lo intento"
+    ],
+    [
+      "With my Granite lip!",
+      "¡con mis labios de granito!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La memoria de la hablante se confía a un gesto doméstico mínimo. La piedra funeraria vuelve imposible el agradecimiento, pero no su intención.",
+  "preest": null
+},
+  J183: {
+  "id": "J183",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "I've heard an Organ talk, sometimes",
+  "titleES": "I've heard an Organ talk, sometimes",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J183, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "I've heard an Organ talk, sometimes",
+      "He oído hablar a un órgano, a veces,"
+    ],
+    [
+      "In a Cathedral Aisle,",
+      "en la nave de una catedral,"
+    ],
+    [
+      "And understood no word it said -",
+      "y no he entendido palabra de lo que decía —"
+    ],
+    [
+      "Yet held my breath, the while -",
+      "pero contuve el aliento mientras tanto —"
+    ],
+    [
+      "And risen up - and gone away,",
+      "y me levanté y me fui"
+    ],
+    [
+      "A more Bernardine Girl -",
+      "convertida en una muchacha más bernardina —"
+    ],
+    [
+      "Yet - know not what was done to me",
+      "sin saber, sin embargo, qué me habían hecho"
+    ],
+    [
+      "In that old Chapel Aisle.",
+      "en aquella vieja nave de capilla."
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La música transforma sin transmitir un mensaje verbal descifrable. La referencia bernardina sugiere una devoción intensificada sin adscripción institucional segura.",
+  "preest": null
+},
+  J184: {
+  "id": "J184",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "A transport one cannot contain",
+  "titleES": "A transport one cannot contain",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J184, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "A transport one cannot contain",
+      "Un arrebato que no se puede contener"
+    ],
+    [
+      "May yet a transport be -",
+      "bien puede seguir siendo un arrebato —"
+    ],
+    [
+      "Though God forbid it lift the lid -",
+      "¡aunque Dios prohíba levantar la tapa"
+    ],
+    [
+      "Unto its Ecstasy!",
+      "ante su éxtasis!"
+    ],
+    [
+      "A Diagram - of Rapture!",
+      "¡Un diagrama del rapto!"
+    ],
+    [
+      "A sixpence at a Show -",
+      "¡Seis peniques por el espectáculo!"
+    ],
+    [
+      "With Holy Ghosts in Cages!",
+      "¡Con Espíritus Santos en jaulas!"
+    ],
+    [
+      "The Universe would go!",
+      "¡Acudiría el universo entero!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La voz satiriza la pretensión de exhibir o diagramar la experiencia extática: una revelación enjaulada se convertiría en espectáculo de feria.",
+  "preest": null
+},
+  J186: {
+  "id": "J186",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "What shall I do - It whimpers so",
+  "titleES": "What shall I do - It whimpers so",
+  "stanzaBreaks": [
+    4,
+    7,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J186, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "What shall I do - It whimpers so -",
+      "¿Qué haré? — Gimotea tanto —"
+    ],
+    [
+      "This little Hound within the Heart",
+      "este pequeño sabueso dentro del corazón,"
+    ],
+    [
+      "All day and night with bark and start -",
+      "día y noche, entre ladridos y sobresaltos —"
+    ],
+    [
+      "And yet, it will not go -",
+      "y aun así no se marcha —"
+    ],
+    [
+      "Would you untie it, were you me -",
+      "¿lo soltarías si estuvieras en mi lugar? —"
+    ],
+    [
+      "Would it stop whining - if to Thee -",
+      "¿dejaría de gemir si a vos"
+    ],
+    [
+      "I sent it - even now?",
+      "te lo enviara ahora mismo?"
+    ],
+    [
+      "It should not tease you -",
+      "No debería molestarte —"
+    ],
+    [
+      "By your chair - or, on the mat -",
+      "junto a tu silla o sobre la alfombra —"
+    ],
+    [
+      "Or if it dare - to climb your dizzy knee -",
+      "ni atreverse a trepar a tu rodilla vertiginosa —"
+    ],
+    [
+      "Or - sometimes at your side to run -",
+      "ni correr alguna vez a tu lado —"
+    ],
+    [
+      "When you were willing -",
+      "cuando vos quisieras —"
+    ],
+    [
+      "Shall it come?",
+      "¿puede ir?"
+    ],
+    [
+      "Tell Carlo -",
+      "Preguntale a Carlo —"
+    ],
+    [
+      "He'll tell me!",
+      "¡él me dirá!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "El deseo o la inquietud interior se materializa como un perro insistente. La apelación final a Carlo introduce un animal real en una escena de afecto figurado.",
+  "preest": null
+},
+  J187: {
+  "id": "J187",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "How many times these low feet staggered",
+  "titleES": "How many times these low feet staggered",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J187, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "How many times these low feet staggered -",
+      "Cuántas veces tropezaron estos pies humildes —"
+    ],
+    [
+      "Only the soldered mouth can tell -",
+      "solo la boca soldada puede decirlo —"
+    ],
+    [
+      "Try - can you stir the awful rivet -",
+      "probá: ¿podés mover el terrible remache?"
+    ],
+    [
+      "Try - can you lift the hasps of steel!",
+      "¡Probá: ¿podés alzar los cerrojos de acero?!"
+    ],
+    [
+      "Stroke the cool forehead - hot so often -",
+      "Acariciá la frente fría — tantas veces ardiente —"
+    ],
+    [
+      "Lift - if you care - the listless hair -",
+      "levantá, si te importa, el cabello sin vida —"
+    ],
+    [
+      "Handle the adamantine fingers",
+      "tocá los dedos de diamante"
+    ],
+    [
+      "Never a thimble - more - shall wear -",
+      "que nunca más llevarán dedal —"
+    ],
+    [
+      "Buzz the dull flies - on the chamber window -",
+      "zumban las moscas apagadas en la ventana del cuarto —"
+    ],
+    [
+      "Brave - shines the sun through the freckled pane -",
+      "valiente, brilla el sol tras el vidrio moteado —"
+    ],
+    [
+      "Fearless - the cobweb swings from the ceiling -",
+      "sin miedo, la telaraña oscila desde el techo —"
+    ],
+    [
+      "Indolent Housewife - in Daisies - lain!",
+      "¡ama de casa ociosa, tendida entre margaritas!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "El cuerpo de una mujer muerta aparece por sus manos y su dedal, instrumentos de trabajo doméstico. La vida exterior prosigue indiferente.",
+  "preest": null
+},
+  J188: {
+  "id": "J188",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Make me a picture of the sun",
+  "titleES": "Make me a picture of the sun",
+  "stanzaBreaks": [
+    4,
+    8,
+    11
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J188, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "Make me a picture of the sun -",
+      "Haceme un dibujo del sol —"
+    ],
+    [
+      "So I can hang it in my room -",
+      "para colgarlo en mi cuarto —"
+    ],
+    [
+      "And make believe I'm getting warm",
+      "y fingir que entro en calor"
+    ],
+    [
+      "When others call it \"Day\"!",
+      "cuando los demás lo llaman «día»."
+    ],
+    [
+      "Draw me a Robin - on a stem -",
+      "Dibujame un petirrojo sobre una rama —"
+    ],
+    [
+      "So I am hearing him, I'll dream,",
+      "para soñar que lo oigo,"
+    ],
+    [
+      "And when the Orchards stop their tune -",
+      "y cuando los huertos dejen de cantar —"
+    ],
+    [
+      "Put my pretense - away -",
+      "guardaré mi simulacro —"
+    ],
+    [
+      "Say if it's really - warm at noon -",
+      "Decime si al mediodía hace calor de verdad —"
+    ],
+    [
+      "Whether it's Buttercups - that \"skim\" -",
+      "si son los ranúnculos los que «planean» —"
+    ],
+    [
+      "Or Butterflies - that \"bloom\"?",
+      "o las mariposas las que «florecen»."
+    ],
+    [
+      "Then - skip - the frost - upon the lea -",
+      "Después, saltate la escarcha del prado —"
+    ],
+    [
+      "And skip the Russet - on the tree -",
+      "y el rojizo de los árboles —"
+    ],
+    [
+      "Let's play those - never come!",
+      "¡juguemos a que nunca llegan!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "El poema pide imágenes que suplan una estación ausente. El juego verbal intercambia atributos de flores y mariposas y rechaza la llegada del otoño.",
+  "preest": null
+},
+  J189: {
+  "id": "J189",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "It's such a little thing to weep",
+  "titleES": "It's such a little thing to weep",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J189, texto base cotejado con la edición Johnson, pp. 84–89.",
+  "lines": [
+    [
+      "It's such a little thing to weep -",
+      "Llorar es cosa tan pequeña —"
+    ],
+    [
+      "So short a thing to sigh -",
+      "suspirar dura tan poco —"
+    ],
+    [
+      "And yet - by Trades - the size of these",
+      "¡y sin embargo, de oficios como esos"
+    ],
+    [
+      "We men and women die!",
+      "morimos hombres y mujeres!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La escala mínima del gesto emocional contrasta con sus consecuencias extremas: llorar y suspirar se vuelven trabajos mortales.",
+  "preest": null
 }
 });
