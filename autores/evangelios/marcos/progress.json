@@ -2541,12 +2541,26 @@
         "https://biblia.com/bible/sblgnt/mark/9/14",
         "https://www.biblegateway.com/passage/?search=Mark+9%3A14-27&version=SBLGNT%3BTR1550%3BWHNU"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 15,
+      "to": 15,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "12/12 fichas posicionales; revisión contextual pendiente",
+      "second_review": "pending",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/15",
+        "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,13; segunda revisión filológica y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,16; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 15
+    "verse": 16
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5375,6 +5389,17 @@
     "sources": [
       "https://biblia.com/bible/sblgnt/mark/9/14",
       "https://www.biblegateway.com/passage/?search=Mark+9%3A14-27&version=SBLGNT%3BTR1550%3BWHNU"
+    ]
+  },
+  "prepublication_research_9_15": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "12/12",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/15",
+      "https://faraboveall.com/050_BibleTranslation/FAA_2025_VOL_4_pre1.pdf"
     ]
   }
 }
