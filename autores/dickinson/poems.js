@@ -11601,5 +11601,389 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La tumba adopta gestos maternales, pero los gorriones inadvertidos cuestionan la providencia.",
   "preest": null
+},
+  J142: {
+  "id": "J142",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Whose are the little beds, I asked",
+  "titleES": "¿De quién son las camitas, pregunté,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24
+  ],
+  "source": "Johnson, The Complete Poems, J142; pp. 66–69. Equivalencias Franklin y cotejo facsimilar pendientes.",
+  "lines": [
+    [
+      "Whose are the little beds, I asked",
+      "¿De quién son las camitas, pregunté,"
+    ],
+    [
+      "Which in the valleys lie?",
+      "que yacen en los valles?"
+    ],
+    [
+      "Some shook their heads, and others smiled-",
+      "Algunos negaron con la cabeza; otros sonrieron —"
+    ],
+    [
+      "And no one made reply.",
+      "y nadie respondió."
+    ],
+    [
+      "Perhaps they did not hear, I said,",
+      "Tal vez no me oyeron, dije;"
+    ],
+    [
+      "I will inquire again -",
+      "volveré a preguntar —"
+    ],
+    [
+      "Whose are the beds - the tiny beds",
+      "¿de quién son esas camas diminutas"
+    ],
+    [
+      "So thick upon the plain?",
+      "tan numerosas en la llanura?"
+    ],
+    [
+      "'Tis Daisy, in the shortest -",
+      "De Margarita, en la más corta —"
+    ],
+    [
+      "A little further on -",
+      "y un poco más allá —"
+    ],
+    [
+      "Nearest the door - to wake the first-",
+      "junto a la puerta, para despertar primero —"
+    ],
+    [
+      "Little Leontodon.",
+      "del pequeño diente de león."
+    ],
+    [
+      "'Tis Iris, Sir, and Aster-",
+      "Son de Iris, señor, y de Áster —"
+    ],
+    [
+      "Anemone, and Bell -",
+      "de Anémona y Campanilla —"
+    ],
+    [
+      "Bartsia, in the blanket red -",
+      "de Bartsia, bajo la manta roja —"
+    ],
+    [
+      "And chubby Daffodil.",
+      "y del narciso regordete."
+    ],
+    [
+      "Meanwhile, at many cradles",
+      "Mientras tanto, en muchas cunas,"
+    ],
+    [
+      "Her busy foot she plied -",
+      "ella iba y venía diligente —"
+    ],
+    [
+      "Humming the quaintest lullaby",
+      "tarareando la nana más singular"
+    ],
+    [
+      "That ever rocked a child.",
+      "que jamás meció a un niño."
+    ],
+    [
+      "Hush! Epigea wakens!",
+      "¡Silencio! ¡Despierta la epigea!"
+    ],
+    [
+      "The Crocus stirs her lids -",
+      "El azafrán entreabre los párpados —"
+    ],
+    [
+      "Rhodora's cheek is crimson,",
+      "la mejilla de la rodora enrojece:"
+    ],
+    [
+      "She's dreaming of the woods!",
+      "¡sueña con los bosques!"
+    ],
+    [
+      "Then turning from them reverent -",
+      "Luego se volvió, reverente —"
+    ],
+    [
+      "Their bedtime 'tis, she said-",
+      "es hora de dormir, dijo —"
+    ],
+    [
+      "The Bumblebees will wake them",
+      "los abejorros las despertarán"
+    ],
+    [
+      "When April woods are red.",
+      "cuando los bosques de abril se tiñan de rojo."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 12,
+      "title": "Leontodon",
+      "body": "Nombre botánico vinculado al diente de león."
+    },
+    {
+      "line": 21,
+      "title": "Epigea",
+      "body": "Planta rastrera de floración primaveral; el catálogo botánico conserva nombres específicos."
+    }
+  ],
+  "interpretation": "Las flores dormidas se vuelven criaturas de una guardería natural. El juego infantil convive con la imagen de lechos y con el ciclo estacional del despertar.",
+  "preest": null
+},
+  J143: {
+  "id": "J143",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "For every Bird a Nest-",
+  "titleES": "Para cada pájaro, un nido —",
+  "stanzaBreaks": [
+    3,
+    6,
+    9,
+    12,
+    15
+  ],
+  "source": "Johnson, The Complete Poems, J143; pp. 66–69. Equivalencias Franklin y cotejo facsimilar pendientes.",
+  "lines": [
+    [
+      "For every Bird a Nest-",
+      "Para cada pájaro, un nido —"
+    ],
+    [
+      "Wherefore in timid quest",
+      "¿por qué, entonces, en tímida búsqueda,"
+    ],
+    [
+      "Some little Wren goes seeking round-",
+      "un pequeño chochín anda buscando alrededor?"
+    ],
+    [
+      "Wherefore when boughs are free -",
+      "¿Por qué, cuando hay ramas libres —"
+    ],
+    [
+      "Households in every tree -",
+      "hogares en cada árbol —"
+    ],
+    [
+      "Pilgrim be found?",
+      "se encuentra una peregrina?"
+    ],
+    [
+      "Perhaps a home too high -",
+      "Quizás desea una casa demasiado alta —"
+    ],
+    [
+      "Ah Aristocracy!",
+      "¡ah, aristocracia! —"
+    ],
+    [
+      "The little Wren desires -",
+      "la pequeña chochín —"
+    ],
+    [
+      "Perhaps of twig so fine -",
+      "quizás de ramitas tan delicadas —"
+    ],
+    [
+      "Of twine e'en superfine,",
+      "de hilo finísimo —"
+    ],
+    [
+      "Her pride aspires -",
+      "aspira a levantarla con orgullo."
+    ],
+    [
+      "The Lark is not ashamed",
+      "La alondra no se avergüenza"
+    ],
+    [
+      "To build upon the ground",
+      "de construir sobre el suelo"
+    ],
+    [
+      "Her modest house -",
+      "su modesta casa —"
+    ],
+    [
+      "Yet who of all the throng",
+      "y, sin embargo, ¿quién entre la multitud"
+    ],
+    [
+      "Dancing around the sun",
+      "que danza alrededor del sol"
+    ],
+    [
+      "Does so rejoice?",
+      "se alegra tanto?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "Aristocracy",
+      "body": "La aspiración a un nido elevado se interpreta mediante una jerarquía social."
+    }
+  ],
+  "interpretation": "La búsqueda del chochín sirve para ironizar sobre la ambición social; la alondra encarna una alegría sin pretensiones de rango.",
+  "preest": null
+},
+  J144: {
+  "id": "J144",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "She bore it till the simple veins",
+  "titleES": "Lo soportó hasta que las venas sencillas",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Johnson, The Complete Poems, J144; pp. 66–69. Equivalencias Franklin y cotejo facsimilar pendientes.",
+  "lines": [
+    [
+      "She bore it till the simple veins",
+      "Lo soportó hasta que las venas sencillas"
+    ],
+    [
+      "Traced azure on her hand -",
+      "dibujaron azul sobre su mano —"
+    ],
+    [
+      "Till pleading, round her quiet eyes",
+      "hasta que, suplicantes, alrededor de sus ojos quietos"
+    ],
+    [
+      "The purple Crayons stand.",
+      "se marcaron los lápices púrpuras."
+    ],
+    [
+      "Till Daffodils had come and gone",
+      "Hasta que los narcisos llegaron y se fueron"
+    ],
+    [
+      "I cannot tell the sum,",
+      "no sabría decir cuántas veces;"
+    ],
+    [
+      "And then she ceased to bear it -",
+      "y entonces dejó de soportarlo —"
+    ],
+    [
+      "And with the Saints sat down.",
+      "y se sentó entre los santos."
+    ],
+    [
+      "No more her patient figure",
+      "Ya no encontraremos su figura paciente"
+    ],
+    [
+      "At twilight soft to meet -",
+      "en el suave crepúsculo —"
+    ],
+    [
+      "No more her timid bonnet",
+      "ni su sombrero tímido"
+    ],
+    [
+      "Upon the village street-",
+      "por la calle del pueblo —"
+    ],
+    [
+      "But Crowns instead, and Courtiers -",
+      "sino coronas y cortesanos —"
+    ],
+    [
+      "And in the midst so fair,",
+      "y en medio de tanta hermosura,"
+    ],
+    [
+      "Whose but her shy - immortal face",
+      "¿qué rostro sino el suyo, tímido e inmortal,"
+    ],
+    [
+      "Of whom we're whispering here?",
+      "aquel del que aquí hablamos en voz baja?"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "purple Crayons",
+      "body": "Metáfora visual para las marcas oscuras de fatiga alrededor de los ojos."
+    }
+  ],
+  "interpretation": "El sufrimiento prolongado transforma la figura discreta de una mujer en una presencia coronada. La gloria celestial conserva su timidez terrestre.",
+  "preest": null
+},
+  J145: {
+  "id": "J145",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "This heart that broke so long -",
+  "titleES": "Este corazón roto durante tanto tiempo —",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Johnson, The Complete Poems, J145; pp. 66–69. Equivalencias Franklin y cotejo facsimilar pendientes.",
+  "lines": [
+    [
+      "This heart that broke so long -",
+      "Este corazón roto durante tanto tiempo —"
+    ],
+    [
+      "These feet that never flagged -",
+      "estos pies que jamás flaquearon —"
+    ],
+    [
+      "This faith that watched for star in vain,",
+      "esta fe que aguardó en vano una estrella,"
+    ],
+    [
+      "Give gently to the dead -",
+      "entregadlos con dulzura a los muertos —"
+    ],
+    [
+      "Hound cannot overtake the Hare",
+      "El sabueso ya no puede alcanzar a la liebre"
+    ],
+    [
+      "That fluttered panting, here -",
+      "que aquí temblaba jadeante —"
+    ],
+    [
+      "Nor any schoolboy rob the nest",
+      "ni escolar alguno robar el nido"
+    ],
+    [
+      "Tenderness builded there.",
+      "que la ternura construyó allí."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Hound / Hare",
+      "body": "La imagen de la caza representa la persecución de una vida frágil."
+    }
+  ],
+  "interpretation": "La muerte detiene la persecución y resguarda, al fin, una vulnerabilidad que no encontró reposo en vida.",
+  "preest": null
 }
 });
