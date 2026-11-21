@@ -1192,9 +1192,34 @@
       "source_collation_complete": false,
       "editorial_caveat": "Six chapters and closing Amen published. Digital Tractatus LIV has penebat (IV), likely corrupted; no silent emendation. Digital biblical references include erroneous I Cor V 19 (2 Cor 5:19) and Luc X 10 (Luke 19:10 in earlier chapter). Printed PL54 collation, exhaustive morphology, shared dictionary integration and browser QA pending. Anti-Jewish invective in VI explicitly contextualized.",
       "lexical_coverage": "15 selective morphological entries; full contextual word-by-word morphology pending"
+    },
+    {
+      "group": "sermones",
+      "number": 55,
+      "section": "Sermo LV · De Passione Domini IV · capita I–V",
+      "paragraphs": 15,
+      "aligned_units": 15,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_chapters": 5,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lv/index.html",
+      "voice_notes": 8,
+      "lexical_coverage": "18 selected contextual entries; exhaustive token morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Complete five-chapter first pass, 15 aligned units. Digital source has split forms crucifi geretur and per misit; Dominus regnavit a ligno needs textual criticism. Printed PL54 collation, complete morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo LV, caput I (first-pass bilingual translation); continue normal sequence without duplicating priority works",
+  "next": "Sermo LVI, caput I; continue ordinary sequence",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-21",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
