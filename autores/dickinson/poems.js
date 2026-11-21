@@ -12335,5 +12335,390 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La muerte se cuenta como una partida doméstica: una figura pequeña toma sus cosas y cruza una puerta que los vivos no pueden franquear.",
   "preest": null
+},
+  J151: {
+  "id": "J151",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Mute thy Coronation—",
+  "titleES": "Silenciosa tu coronación —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J151 (pp. 71–73); variantes y correspondencia Franklin pendientes.",
+  "lines": [
+    [
+      "Mute thy Coronation—",
+      "Silenciosa tu coronación —"
+    ],
+    [
+      "Meek my Vive le roi,",
+      "humilde mi «¡Viva el rey!», "
+    ],
+    [
+      "Fold a tiny courtier",
+      "envuelve a un diminuto cortesano"
+    ],
+    [
+      "In thine Ermine, Sir,",
+      "en tu armiño, señor,"
+    ],
+    [
+      "There to rest revering",
+      "para que allí repose reverente"
+    ],
+    [
+      "Till the pageant by,",
+      "hasta que pase el cortejo,"
+    ],
+    [
+      "I can murmur broken,",
+      "y pueda murmurar, entrecortado:"
+    ],
+    [
+      "Master, It was I—",
+      "«Señor, era yo» —"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Vive le roi",
+      "body": "Aclamación francesa, «viva el rey»; contrasta con la voz íntima y humilde de la hablante."
+    }
+  ],
+  "interpretation": "La voz imagina una ceremonia de soberanía y se coloca entre los cortesanos más pequeños: la devoción busca reconocimiento sin renunciar a su modestia.",
+  "preest": null
+},
+  J152: {
+  "id": "J152",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "The Sun kept stooping - stooping - low!",
+  "titleES": "El sol seguía inclinándose — inclinándose — ¡tan bajo!",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J152 (pp. 71–73); variantes y correspondencia Franklin pendientes.",
+  "lines": [
+    [
+      "The Sun kept stooping - stooping - low!",
+      "El sol seguía inclinándose — inclinándose — ¡tan bajo!"
+    ],
+    [
+      "The Hills to meet him rose!",
+      "¡Las colinas se alzaban para recibirlo!"
+    ],
+    [
+      "On his side, what Transaction!",
+      "¡Qué intercambio, de su parte!"
+    ],
+    [
+      "On their side, what Repose!",
+      "¡Qué reposo, de parte de ellas!"
+    ],
+    [
+      "Deeper and deeper grew the stain",
+      "Cada vez más profunda se hacía la mancha"
+    ],
+    [
+      "Upon the window pane -",
+      "sobre el cristal de la ventana —"
+    ],
+    [
+      "Thicker and thicker stood the feet",
+      "cada vez más apretados se erguían los pies"
+    ],
+    [
+      "Until the Tyrian",
+      "hasta que el púrpura de Tiro"
+    ],
+    [
+      "Was crowded dense with Armies -",
+      "se pobló de ejércitos apiñados —"
+    ],
+    [
+      "So gay, so Brigadier -",
+      "tan vistosos, tan de brigadieres —"
+    ],
+    [
+      "That I felt martial stirrings",
+      "que sentí impulsos marciales"
+    ],
+    [
+      "Who once the Cockade wore -",
+      "yo, que alguna vez llevé la escarapela —"
+    ],
+    [
+      "Charged, from my chimney corner -",
+      "cargué, desde el rincón de mi chimenea —"
+    ],
+    [
+      "But Nobody was there!",
+      "¡pero no había nadie allí!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 8,
+      "title": "Tyrian",
+      "body": "Alusión al púrpura de Tiro, tinte prestigioso asociado con la realeza; aquí colorea el ocaso."
+    },
+    {
+      "line": 12,
+      "title": "Cockade",
+      "body": "Escarapela militar o política, evocada como signo de una antigua disposición combativa."
+    }
+  ],
+  "interpretation": "El atardecer se transforma en maniobra de ejércitos y despierta en la observadora un entusiasmo bélico que se deshace en el espacio doméstico vacío.",
+  "preest": null
+},
+  J153: {
+  "id": "J153",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Dust is the only Secret -",
+  "titleES": "El polvo es el único secreto —",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J153 (pp. 71–73); variantes y correspondencia Franklin pendientes.",
+  "lines": [
+    [
+      "Dust is the only Secret -",
+      "El polvo es el único secreto —"
+    ],
+    [
+      "Death, the only One",
+      "la muerte, la única persona"
+    ],
+    [
+      "You cannot find out all about",
+      "de la que no podés averiguarlo todo"
+    ],
+    [
+      "In his \"native town.\"",
+      "en su «ciudad natal»."
+    ],
+    [
+      "Nobody knew \"his Father\" -",
+      "Nadie conoció a «su padre» —"
+    ],
+    [
+      "Never was a Boy -",
+      "nunca fue niño —"
+    ],
+    [
+      "Hadn't any playmates.",
+      "no tuvo compañeros de juego."
+    ],
+    [
+      "Or \"Early history\" -",
+      "Ni «historia temprana» —"
+    ],
+    [
+      "Industrious! Laconic!",
+      "¡Laborioso! ¡Lacónico!"
+    ],
+    [
+      "Punctual! Sedate!",
+      "¡Puntual! ¡Sereno!"
+    ],
+    [
+      "Bold as a Brigand!",
+      "¡Audaz como un bandolero!"
+    ],
+    [
+      "Stiller than a Fleet!",
+      "¡Más inmóvil que una flota!"
+    ],
+    [
+      "Builds, like a Bird, too!",
+      "¡También construye, como un pájaro!"
+    ],
+    [
+      "Christ robs the Nest -",
+      "Cristo saquea el nido —"
+    ],
+    [
+      "Robin after Robin",
+      "petirrojo tras petirrojo"
+    ],
+    [
+      "Smuggled to Rest!",
+      "¡introducido a escondidas en el descanso!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Personificación",
+      "body": "La muerte es tratada como un vecino del que se busca una biografía imposible."
+    },
+    {
+      "line": 14,
+      "title": "Christ robs the Nest",
+      "body": "La imagen del nido transforma la promesa cristiana de descanso en una sustracción inquietante."
+    }
+  ],
+  "interpretation": "La muerte es simultáneamente un ciudadano sin antecedentes, un trabajador puntual y un ladrón; el poema desmonta la tranquilidad de las explicaciones religiosas.",
+  "preest": null
+},
+  J154: {
+  "id": "J154",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "Except to Heaven, she is nought.",
+  "titleES": "Salvo para el cielo, ella no es nada.",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J154 (pp. 71–73); variantes y correspondencia Franklin pendientes.",
+  "lines": [
+    [
+      "Except to Heaven, she is nought.",
+      "Salvo para el cielo, ella no es nada."
+    ],
+    [
+      "Except for Angels - lone.",
+      "Salvo para los ángeles — sola."
+    ],
+    [
+      "Except to some wide-wandering Bee",
+      "Salvo para alguna abeja de largo errar"
+    ],
+    [
+      "A flower superfluous blown",
+      "una flor que brotó de más"
+    ],
+    [
+      "Except for winds - provincial.",
+      "salvo para los vientos — provincianos."
+    ],
+    [
+      "Except by Butterflies",
+      "Salvo para las mariposas"
+    ],
+    [
+      "Unnoticed as a single dew",
+      "pasa inadvertida como una gota de rocío"
+    ],
+    [
+      "That on the Acre lies.",
+      "que descansa sobre el campo."
+    ],
+    [
+      "The smallest Housewife in the grass,",
+      "La más pequeña ama de casa entre la hierba,"
+    ],
+    [
+      "Yet take her from the Lawn",
+      "pero quitála del césped"
+    ],
+    [
+      "And somebody has lost the face",
+      "y alguien habrá perdido el rostro"
+    ],
+    [
+      "That made Existence - Home!",
+      "que hacía de la existencia — ¡un hogar!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Housewife",
+      "body": "La flor adquiere una función doméstica y afectiva: lo insignificante en escala puede ser central para alguien."
+    }
+  ],
+  "interpretation": "El poema corrige la medida pública del valor: una flor aparentemente prescindible constituye para otra criatura el centro de su mundo.",
+  "preest": null
+},
+  J155: {
+  "id": "J155",
+  "franklin": null,
+  "approx": "c. 1860",
+  "incipit": "The Murmur of a Bee",
+  "titleES": "El murmullo de una abeja",
+  "stanzaBreaks": [
+    5,
+    10
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J155 (pp. 71–73); variantes y correspondencia Franklin pendientes.",
+  "lines": [
+    [
+      "The Murmur of a Bee",
+      "El murmullo de una abeja"
+    ],
+    [
+      "A Witchcraft - yieldeth me -",
+      "me produce un hechizo —"
+    ],
+    [
+      "If any ask me why -",
+      "si alguien me pregunta por qué —"
+    ],
+    [
+      "'Twere easier to die -",
+      "sería más fácil morir —"
+    ],
+    [
+      "Than tell -",
+      "que explicarlo —"
+    ],
+    [
+      "The Red upon the Hill",
+      "El rojo sobre la colina"
+    ],
+    [
+      "Taketh away my will -",
+      "me arrebata la voluntad —"
+    ],
+    [
+      "If anybody sneer -",
+      "si alguien se burla —"
+    ],
+    [
+      "Take care - for God is here -",
+      "que tenga cuidado — pues Dios está aquí —"
+    ],
+    [
+      "That's all.",
+      "eso es todo."
+    ],
+    [
+      "The Breaking of the Day",
+      "El despuntar del día"
+    ],
+    [
+      "Addeth to my Degree -",
+      "aumenta mi dignidad —"
+    ],
+    [
+      "If any ask me how -",
+      "si alguien me pregunta cómo —"
+    ],
+    [
+      "Artist - who drew me so -",
+      "el artista — que así me dibujó —"
+    ],
+    [
+      "Must tell!",
+      "¡tendrá que explicarlo!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Witchcraft",
+      "body": "El lenguaje del hechizo describe una experiencia estética que escapa a la explicación racional."
+    },
+    {
+      "line": 14,
+      "title": "Artist",
+      "body": "El creador puede ser leído como Dios; la atribución no elimina la ambigüedad entre creación natural y artística."
+    }
+  ],
+  "interpretation": "Tres fenómenos mínimos —zumbido, color y amanecer— conducen a una experiencia de trascendencia que la hablante no puede explicar sin destruirla.",
+  "preest": null
 }
 });
