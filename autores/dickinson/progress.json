@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 81,
-    "publishedVerses": 1181,
+    "publishedPoems": 83,
+    "publishedVerses": 1202,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -71,6 +71,8 @@
       "J57",
       "J58",
       "J59",
+      "J60",
+      "J61",
       "J185",
       "J249",
       "J254",
@@ -94,11 +96,11 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 59,
-    "nextJohnsonId": "J60",
+    "completedSequentialThrough": 61,
+    "nextJohnsonId": "J62",
     "targetNewVersesPerRun": 200
   },
-  "lastCompletedMilestone": "J54–J59: 70 bilingual verses",
-  "nextAction": "Continue at J60; verify textual punctuation and Franklin correspondences for J54–J59",
+  "lastCompletedMilestone": "J60–J61: 21 bilingual verses",
+  "nextAction": "Continue at J62; add verified Franklin correspondences and Preest commentary",
   "updatedOn": "2026-11-21"
 }
