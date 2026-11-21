@@ -2407,12 +2407,26 @@
         "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/66/",
         "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/9/3"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 4,
+      "to": 4,
+      "status": "edited_not_revised",
+      "morphology": "11/11 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://mail.biblehub.com/commentaries/egt/mark/9.htm",
+        "https://lemma.gebible.app/v/mark/9/4"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,2; segunda revisión contextual y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,5; segunda revisión filológica contextual y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 4
+    "verse": 5
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5123,6 +5137,17 @@
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/66/",
       "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/9/3"
+    ]
+  },
+  "prepublication_research_9_4": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "11/11",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://mail.biblehub.com/commentaries/egt/mark/9.htm",
+      "https://lemma.gebible.app/v/mark/9/4"
     ]
   }
 }
