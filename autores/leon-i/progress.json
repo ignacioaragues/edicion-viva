@@ -1020,26 +1020,34 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All three chapters and Amen transcribed from public Tractatus XLVII; printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending. Polemical attribution to Manichaeans and Apollinarians is Leo's characterization."
+    },
+    {
+      "group": "sermones",
+      "number": 48,
+      "section": "Sermo XLVIII · De Quadragesima X · caput I",
+      "paragraphs": 7,
+      "aligned_units": 7,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 5,
+      "translation": "original Spanish aligned translation, chapter I only",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xlviii/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "8 selective contextual entries; word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapter I from public Tractatus XLVIII transcription; chapters II–V, printed PL54 collation, full morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo XLVIII · De Quadragesima X, caput I",
+  "next": "Sermo XLVIII · caput II, «In hac, dilectissimi, unitate sanctorum»; complete chapters II–V",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo XLVII chapters I–III complete first-pass edition published; 15 aligned units, 16 lexical entries, nine voice observations; printed collation and browser QA pending.",
+  "last_edit": "2026-11-21: Sermo XLVIII chapter I, seven aligned units and eight selected lexical notes published; partial",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 45,
-    "status": "partial",
-    "published_chapters": [
-      1
-    ],
-    "remaining_chapters": [
-      2,
-      3,
-      4
-    ],
-    "next": "Caput II: Verum ut plenius noverimus"
-  },
+  "in_progress_work": "Sermo XLVIII · caput I published; chapters II–V pending",
   "priority_queue": [
     {
       "group": "sermones",
