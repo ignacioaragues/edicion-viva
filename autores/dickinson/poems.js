@@ -9854,5 +9854,630 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La tumba aparece como una posada extraña y desprovista de hospitalidad. La pregunta final vuelve inquietante la identidad de sus huéspedes.",
   "preest": null
-}
+},
+  J116: {
+    "id": "J116",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "I had some things that I called mine -",
+    "titleES": "I had some things that I called mine -",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J116 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "I had some things that I called mine -",
+        "Tenía algunas cosas que llamaba mías —"
+      ],
+      [
+        "And God, that he called his,",
+        "y Dios, otras que llamaba suyas,"
+      ],
+      [
+        "Till, recently a rival Claim",
+        "hasta que una demanda rival, hace poco,"
+      ],
+      [
+        "Disturbed these amities.",
+        "perturbó nuestra amistad."
+      ],
+      [
+        "The property, my garden,",
+        "La propiedad, mi jardín,"
+      ],
+      [
+        "Which having sown with care,",
+        "que sembré con tanto esmero,"
+      ],
+      [
+        "He claims the pretty acre,",
+        "Él reclama ese hermoso terreno"
+      ],
+      [
+        "And sends a Bailiff there.",
+        "y manda allí a un alguacil."
+      ],
+      [
+        "The station of the parties",
+        "La posición de las partes"
+      ],
+      [
+        "Forbids publicity,",
+        "impide hacerlo público,"
+      ],
+      [
+        "But Justice is sublimer",
+        "pero la Justicia es más sublime"
+      ],
+      [
+        "Than arms, or pedigree.",
+        "que las armas o el linaje."
+      ],
+      [
+        "I'll institute an \"Action\" -",
+        "¡Iniciaré un pleito! —"
+      ],
+      [
+        "I'll vindicate the law -",
+        "¡Haré valer la ley! —"
+      ],
+      [
+        "Jove! Choose your counsel -",
+        "¡Júpiter, elegí tu abogado! —"
+      ],
+      [
+        "I retain \"Shaw\"!",
+        "¡Yo contrato a «Shaw»!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Una disputa de propiedad con Dios se vuelve una demanda judicial: la voz desafía el privilegio divino con un lenguaje legal y humorístico."
+      }
+    ],
+    "interpretation": "El litigio contra Dios convierte la teología en un problema de justicia distributiva.",
+    "preest": null
+  },
+  J117: {
+    "id": "J117",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "In rags mysterious as these",
+    "titleES": "In rags mysterious as these",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J117 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "In rags mysterious as these",
+        "Con harapos tan misteriosos"
+      ],
+      [
+        "The shining Courtiers go -",
+        "andan los cortesanos resplandecientes —"
+      ],
+      [
+        "Veiling the purple, and the plumes -",
+        "ocultan la púrpura y las plumas —"
+      ],
+      [
+        "Veiling the ermine so.",
+        "ocultan así el armiño."
+      ],
+      [
+        "Smiling, as they request an alms -",
+        "Sonríen cuando piden limosna —"
+      ],
+      [
+        "At some imposing door!",
+        "ante alguna puerta imponente."
+      ],
+      [
+        "Smiling when we walk barefoot",
+        "Sonríen cuando caminamos descalzos"
+      ],
+      [
+        "Upon their golden floor!",
+        "sobre su suelo de oro."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La riqueza se oculta bajo harapos: la paradoja invierte los signos convencionales de la pobreza."
+      }
+    ],
+    "interpretation": "El poema altera la distancia entre mendicidad y nobleza.",
+    "preest": null
+  },
+  J118: {
+    "id": "J118",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "My friend attacks my friend!",
+    "titleES": "My friend attacks my friend!",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J118 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "My friend attacks my friend!",
+        "¡Un amigo mío ataca a otro amigo!"
+      ],
+      [
+        "Oh Battle picturesque!",
+        "¡Qué batalla pintoresca!"
+      ],
+      [
+        "Then I turn Soldier too,",
+        "Entonces yo también me vuelvo soldado,"
+      ],
+      [
+        "And he turns Satirist!",
+        "¡y él se vuelve satírico!"
+      ],
+      [
+        "How martial is this place!",
+        "¡Qué belicoso es este lugar!"
+      ],
+      [
+        "Had I a mighty gun",
+        "Si tuviera un cañón poderoso,"
+      ],
+      [
+        "I think I'd shoot the human race",
+        "creo que dispararía contra la humanidad"
+      ],
+      [
+        "And then to glory run!",
+        "y luego correría hacia la gloria."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La sátira exagera el conflicto entre amigos hasta convertirlo en una fantasía de violencia universal."
+      }
+    ],
+    "interpretation": "La voz lleva la lógica del enfrentamiento hasta el absurdo.",
+    "preest": null
+  },
+  J119: {
+    "id": "J119",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Talk with prudence to a Beggar",
+    "titleES": "Talk with prudence to a Beggar",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J119 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "Talk with prudence to a Beggar",
+        "Hablale con prudencia a un mendigo"
+      ],
+      [
+        "Of \"Potosi,\" and the mines!",
+        "de «Potosí» y sus minas."
+      ],
+      [
+        "Reverently, to the Hungry",
+        "Con reverencia, al hambriento,"
+      ],
+      [
+        "Of your viands, and your wines!",
+        "de tus manjares y tus vinos."
+      ],
+      [
+        "Cautious, hint to any Captive",
+        "Con cautela insinuá a un cautivo"
+      ],
+      [
+        "You have passed enfranchised feet!",
+        "que viste pasar pies en libertad."
+      ],
+      [
+        "Anecdotes of air in Dungeons",
+        "Las historias del aire en las mazmorras"
+      ],
+      [
+        "Have sometimes proved deadly sweet!",
+        "a veces resultaron mortalmente dulces."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El poema advierte contra la crueldad de exhibir ante los privados de algo aquello que les falta."
+      }
+    ],
+    "interpretation": "La imaginación puede hacer intolerable la privación.",
+    "preest": null
+  },
+  J120: {
+    "id": "J120",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "If this is \"fading\"",
+    "titleES": "If this is \"fading\"",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J120 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "If this is \"fading\"",
+        "Si esto es «marchitarse»,"
+      ],
+      [
+        "Oh let me immediately \"fade\"!",
+        "¡dejame «marchitarme» enseguida!"
+      ],
+      [
+        "If this is \"dying\"",
+        "Si esto es «morir»,"
+      ],
+      [
+        "Bury me, in such a shroud of red!",
+        "¡enterrame en semejante mortaja roja!"
+      ],
+      [
+        "If this is \"sleep,\"",
+        "Si esto es «dormir»,"
+      ],
+      [
+        "On such a night",
+        "en una noche como esta,"
+      ],
+      [
+        "How proud to shut the eye!",
+        "¡qué orgullo cerrar los ojos!"
+      ],
+      [
+        "Good Evening, gentle Fellow men!",
+        "¡Buenas noches, amables semejantes!"
+      ],
+      [
+        "Peacock presumes to die!",
+        "¡El pavo real se atreve a morir!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Las imágenes del ocaso y del pavo real confunden la extinción con el esplendor."
+      }
+    ],
+    "interpretation": "El ocaso espléndido subvierte las categorías de morir y desaparecer.",
+    "preest": null
+  },
+  J121: {
+    "id": "J121",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "As Watchers hang upon the East,",
+    "titleES": "As Watchers hang upon the East,",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J121 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "As Watchers hang upon the East,",
+        "Como los vigías aguardan mirando al Este,"
+      ],
+      [
+        "As Beggars revel at a feast",
+        "como los mendigos gozan de un festín"
+      ],
+      [
+        "By savory Fancy spread -",
+        "que despliega la sabrosa Fantasía —"
+      ],
+      [
+        "As brooks in deserts babble sweet",
+        "como los arroyos del desierto murmuran dulces"
+      ],
+      [
+        "On ear too far for the delight,",
+        "para oídos demasiado lejanos para disfrutarlos,"
+      ],
+      [
+        "Heaven beguiles the tired.",
+        "el Cielo seduce a los cansados."
+      ],
+      [
+        "As that same watcher, when the East",
+        "Como aquel vigía, cuando el Este"
+      ],
+      [
+        "Opens the lid of Amethyst",
+        "abre su tapa de amatista"
+      ],
+      [
+        "And lets the morning go -",
+        "y deja salir la mañana —"
+      ],
+      [
+        "That Beggar, when an honored Guest,",
+        "como aquel mendigo, ya huésped de honor,"
+      ],
+      [
+        "Those thirsty lips to flagons pressed,",
+        "con los labios sedientos sobre las jarras,"
+      ],
+      [
+        "Heaven to us, if true.",
+        "así sería el Cielo para nosotros, si es verdadero."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La promesa del cielo se compara con el hambre y la sed; el condicional final conserva la duda."
+      }
+    ],
+    "interpretation": "La promesa del cielo adquiere sentido desde la necesidad, pero su realidad permanece condicional.",
+    "preest": null
+  },
+  J122: {
+    "id": "J122",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "A something in a summer's Day",
+    "titleES": "A something in a summer's Day",
+    "stanzaBreaks": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J122 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "A something in a summer's Day",
+        "Hay algo en un día de verano,"
+      ],
+      [
+        "As slow her flambeaux burn away",
+        "mientras lentamente se consumen sus antorchas,"
+      ],
+      [
+        "Which solemnizes me.",
+        "que me llena de solemnidad."
+      ],
+      [
+        "A something in a summer's noon -",
+        "Hay algo en un mediodía de verano —"
+      ],
+      [
+        "A depth - an Azure - a perfume -",
+        "una hondura, un azul, un perfume —"
+      ],
+      [
+        "Transcending ecstasy.",
+        "que supera el éxtasis."
+      ],
+      [
+        "And still within a summer's night",
+        "Y aún en la noche de verano"
+      ],
+      [
+        "A something so transporting bright",
+        "hay algo de fulgor tan arrebatador"
+      ],
+      [
+        "I clap my hands to see -",
+        "que aplaudo al contemplarlo —"
+      ],
+      [
+        "Then veil my too inspecting face",
+        "luego cubro mi rostro demasiado inquisitivo"
+      ],
+      [
+        "Lest such a subtle - shimmering grace",
+        "no sea que esa gracia sutil y centelleante"
+      ],
+      [
+        "Flutter too far for me -",
+        "revolotee demasiado lejos de mí —"
+      ],
+      [
+        "The wizard fingers never rest -",
+        "Los dedos del mago nunca descansan —"
+      ],
+      [
+        "The purple brook within the breast",
+        "el arroyo púrpura dentro del pecho"
+      ],
+      [
+        "Still chafes its narrow bed -",
+        "sigue rozando su estrecho cauce —"
+      ],
+      [
+        "Still rears the East her amber Flag -",
+        "el Este aún levanta su bandera de ámbar —"
+      ],
+      [
+        "Guides still the Sun along the Crag",
+        "y guía al Sol por el risco,"
+      ],
+      [
+        "His Caravan of Red -",
+        "su caravana roja —"
+      ],
+      [
+        "So looking on - the night - the morn",
+        "Así, mientras observo, la noche y la mañana"
+      ],
+      [
+        "Conclude the wonder gay -",
+        "concluyen el alegre prodigio —"
+      ],
+      [
+        "And I meet, coming thro' the dews",
+        "¡y encuentro, llegando entre el rocío,"
+      ],
+      [
+        "Another summer's Day!",
+        "otro día de verano!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La contemplación del verano oscila entre el deseo de mirar y el temor a perder la belleza al examinarla."
+      }
+    ],
+    "interpretation": "El verano se vuelve una experiencia inagotable de percepción y asombro.",
+    "preest": null
+  },
+  J123: {
+    "id": "J123",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "Many cross the Rhine",
+    "titleES": "Many cross the Rhine",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J123 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "Many cross the Rhine",
+        "Muchos cruzan el Rin"
+      ],
+      [
+        "In this cup of mine.",
+        "en esta copa mía."
+      ],
+      [
+        "Sip old Frankfort air",
+        "Beben el aire del viejo Fráncfort"
+      ],
+      [
+        "From my brown Cigar.",
+        "de mi cigarro marrón."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La bebida y el cigarro permiten un viaje imaginario por el Rin."
+      }
+    ],
+    "interpretation": "Un viaje comprimido en cuatro versos juega con la distancia geográfica.",
+    "preest": null
+  },
+  J124: {
+    "id": "J124",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "In lands I never saw - they say",
+    "titleES": "In lands I never saw - they say",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J124 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "In lands I never saw - they say",
+        "En tierras que nunca vi — dicen —"
+      ],
+      [
+        "Immortal Alps look down -",
+        "los Alpes inmortales miran desde lo alto —"
+      ],
+      [
+        "Whose Bonnets touch the firmament -",
+        "sus gorros rozan el firmamento —"
+      ],
+      [
+        "Whose Sandals touch the town -",
+        "sus sandalias tocan la ciudad —"
+      ],
+      [
+        "Meek at whose everlasting feet",
+        "a sus pies eternos, humildemente,"
+      ],
+      [
+        "A Myriad Daisy play -",
+        "juegan miríadas de margaritas —"
+      ],
+      [
+        "Which, Sir, are you and which am I",
+        "¿Cuál de ellos, señor, es usted, y cuál soy yo,"
+      ],
+      [
+        "Upon an August day?",
+        "en un día de agosto?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La comparación entre los Alpes y las margaritas interroga la escala de una relación personal."
+      }
+    ],
+    "interpretation": "La geografía sublime se convierte en pregunta íntima.",
+    "preest": null
+  },
+  J125: {
+    "id": "J125",
+    "franklin": null,
+    "approx": "c. 1859",
+    "incipit": "For each ecstatic instant",
+    "titleES": "For each ecstatic instant",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J125 (pp. 55–58). Texto inglés cotejado con la edición de referencia; normalización de erratas evidentes de OCR.",
+    "lines": [
+      [
+        "For each ecstatic instant",
+        "Por cada instante de éxtasis"
+      ],
+      [
+        "We must an anguish pay",
+        "debemos pagar una angustia,"
+      ],
+      [
+        "In keen and quivering ratio",
+        "en proporción aguda y temblorosa"
+      ],
+      [
+        "To the ecstasy.",
+        "al propio éxtasis."
+      ],
+      [
+        "For each beloved hour",
+        "Por cada hora amada,"
+      ],
+      [
+        "Sharp pittances of years -",
+        "mezquinas y dolorosas raciones de años —"
+      ],
+      [
+        "Bitter contested farthings -",
+        "amargos cuartos de penique disputados —"
+      ],
+      [
+        "And Coffers heaped with Tears!",
+        "¡y cofres colmados de lágrimas!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El éxtasis se representa como una deuda que se paga con años de dolor."
+      }
+    ],
+    "interpretation": "El placer y el dolor obedecen a una inquietante contabilidad emocional.",
+    "preest": null
+  }
 });
