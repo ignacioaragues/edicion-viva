@@ -11985,5 +11985,355 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La muerte detiene la persecución y resguarda, al fin, una vulnerabilidad que no encontró reposo en vida.",
   "preest": null
+},
+  J146: {
+  "id": "J146",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "On such a night, or such a night,",
+  "titleES": "En una noche como esta, o como aquella,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J146; pp. 69–71. Variantes y Franklin pendientes.",
+  "lines": [
+    [
+      "On such a night, or such a night,",
+      "En una noche como esta, o como aquella,"
+    ],
+    [
+      "Would anybody care",
+      "¿a alguien le importaría"
+    ],
+    [
+      "If such a little figure",
+      "que una figurita tan pequeña"
+    ],
+    [
+      "Slipped quiet from its chair -",
+      "se deslizara en silencio de su silla —"
+    ],
+    [
+      "So quiet - Oh how quiet,",
+      "tan en silencio — ¡oh, qué silencio! —"
+    ],
+    [
+      "That nobody might know",
+      "que nadie pudiera advertir"
+    ],
+    [
+      "But that the little figure",
+      "sino que aquella figurita"
+    ],
+    [
+      "Rocked softer - to and fro -",
+      "se mecía más suavemente — de un lado a otro?"
+    ],
+    [
+      "On such a dawn, or such a dawn -",
+      "En una aurora como esta, o como aquella —"
+    ],
+    [
+      "Would anybody sigh",
+      "¿suspiraría alguien"
+    ],
+    [
+      "That such a little figure",
+      "porque una figurita tan pequeña"
+    ],
+    [
+      "Too sound asleep did lie",
+      "durmiera tan profundamente"
+    ],
+    [
+      "For Chanticleer to wake it -",
+      "que ni el gallo pudiera despertarla —"
+    ],
+    [
+      "Or stirring house below -",
+      "ni la casa agitada allá abajo —"
+    ],
+    [
+      "Or giddy bird in orchard -",
+      "ni el pájaro atolondrado del huerto —"
+    ],
+    [
+      "Or early task to do?",
+      "ni las tareas de la mañana?"
+    ],
+    [
+      "There was a little figure plump",
+      "Había una figurita rolliza"
+    ],
+    [
+      "For every little knoll -",
+      "para cada pequeña colina —"
+    ],
+    [
+      "Busy needles, and spools of thread -",
+      "agujas afanosas y carretes de hilo —"
+    ],
+    [
+      "And trudging feet from school-",
+      "y pies que volvían de la escuela —"
+    ],
+    [
+      "Playmates, and holidays, and nuts -",
+      "compañeros de juego, fiestas y nueces —"
+    ],
+    [
+      "And visions vast and small-",
+      "y sueños grandes y pequeños —"
+    ],
+    [
+      "Strange that the feet so precious charged",
+      "¡Qué extraño que unos pies tan preciosamente cargados"
+    ],
+    [
+      "Should reach so small a goal!",
+      "lleguen a una meta tan pequeña!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 13,
+      "title": "Chanticleer",
+      "body": "Nombre tradicional del gallo, especialmente en la tradición de las fábulas."
+    }
+  ],
+  "interpretation": "La muerte infantil aparece primero como una ausencia casi imperceptible; el inventario de juegos y labores hace insoportable la desproporción entre una vida prometedora y su término.",
+  "preest": null
+},
+  J147: {
+  "id": "J147",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Bless God, he went as soldiers,",
+  "titleES": "Bendito sea Dios, partió como los soldados,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J147; pp. 69–71. Variantes y Franklin pendientes.",
+  "lines": [
+    [
+      "Bless God, he went as soldiers,",
+      "Bendito sea Dios, partió como los soldados,"
+    ],
+    [
+      "His musket on his breast -",
+      "con el mosquete sobre el pecho —"
+    ],
+    [
+      "Grant God, he charge the bravest",
+      "¡Concédale Dios combatir entre los más valientes"
+    ],
+    [
+      "Of all the martial blest!",
+      "de todos los bienaventurados guerreros!"
+    ],
+    [
+      "Please God, might I behold him",
+      "¡Quiera Dios que pudiera verlo"
+    ],
+    [
+      "In epauletted white -",
+      "con charreteras blancas —"
+    ],
+    [
+      "I should not fear the foe then -",
+      "entonces no temería al enemigo —"
+    ],
+    [
+      "I should not fear the fight!",
+      "ni temería la batalla!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 6,
+      "title": "epauletted white",
+      "body": "Las charreteras del uniforme adquieren un color celestial."
+    }
+  ],
+  "interpretation": "El lenguaje militar convierte la separación en una escena de heroísmo y permite imaginar un reencuentro más allá del peligro.",
+  "preest": null
+},
+  J148: {
+  "id": "J148",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "All overgrown by cunning moss,",
+  "titleES": "Toda cubierta de musgo astuto,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J148; pp. 69–71. Variantes y Franklin pendientes.",
+  "lines": [
+    [
+      "All overgrown by cunning moss,",
+      "Toda cubierta de musgo astuto,"
+    ],
+    [
+      "All interspersed with weed,",
+      "toda entretejida de maleza,"
+    ],
+    [
+      "The little cage of \"Currer Bell\"",
+      "la pequeña jaula de «Currer Bell»"
+    ],
+    [
+      "In quiet \"Haworth\" laid.",
+      "yace en el tranquilo Haworth."
+    ],
+    [
+      "Gathered from many wanderings-",
+      "Recogida tras tantos vagabundeos —"
+    ],
+    [
+      "Gethsemane can tell",
+      "Getsemaní puede contar"
+    ],
+    [
+      "Thro' what transporting anguish",
+      "a través de qué angustia arrebatadora"
+    ],
+    [
+      "She reached the Asphodel!",
+      "llegó al asfódelo."
+    ],
+    [
+      "Soft fall the sounds of Eden",
+      "Caigan suaves los sonidos del Edén"
+    ],
+    [
+      "Upon her puzzled ear -",
+      "sobre su oído perplejo —"
+    ],
+    [
+      "Oh what an afternoon for Heaven,",
+      "¡qué tarde habrá sido para el Cielo"
+    ],
+    [
+      "When \"Bronte\" entered there!",
+      "cuando «Brontë» entró allí!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Currer Bell",
+      "body": "Seudónimo literario de Charlotte Brontë."
+    },
+    {
+      "line": 4,
+      "title": "Haworth",
+      "body": "Localidad de Yorkshire vinculada con la vida y sepultura de Charlotte Brontë."
+    },
+    {
+      "line": 8,
+      "title": "Asphodel",
+      "body": "Flor asociada a los prados de los muertos en la tradición clásica."
+    }
+  ],
+  "interpretation": "La elegía por Charlotte Brontë transforma su tumba en jaula abandonada y su obra sufriente en tránsito hacia una acogida celestial.",
+  "preest": null
+},
+  J149: {
+  "id": "J149",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "She went as quiet as the Dew",
+  "titleES": "Se fue tan silenciosa como el rocío",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J149; pp. 69–71. Variantes y Franklin pendientes.",
+  "lines": [
+    [
+      "She went as quiet as the Dew",
+      "Se fue tan silenciosa como el rocío"
+    ],
+    [
+      "From an Accustomed Bower.",
+      "de una enramada familiar."
+    ],
+    [
+      "Not like the Dew, did she return",
+      "¡Pero, a diferencia del rocío, no volvió"
+    ],
+    [
+      "At the Accustomed hour!",
+      "a la hora acostumbrada!"
+    ],
+    [
+      "She dropt as softly as a star",
+      "Cayó tan suavemente como una estrella"
+    ],
+    [
+      "From out my summer's Eve-",
+      "desde mi tarde de verano —"
+    ],
+    [
+      "Less skillful than Le Verriere",
+      "con menos destreza que Le Verrier,"
+    ],
+    [
+      "It's sorer to believe!",
+      "¡cuánto más duele creerlo!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 7,
+      "title": "Le Verriere",
+      "body": "Urbain Le Verrier, astrónomo francés célebre por sus cálculos sobre Neptuno."
+    }
+  ],
+  "interpretation": "El retorno regular del rocío contrasta con la irreversibilidad de una pérdida; la astronomía tampoco consigue explicar el vacío afectivo.",
+  "preest": null
+},
+  J150: {
+  "id": "J150",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "She died - this was the way she died.",
+  "titleES": "Murió — así fue como murió.",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J150; pp. 69–71. Variantes y Franklin pendientes.",
+  "lines": [
+    [
+      "She died - this was the way she died.",
+      "Murió — así fue como murió."
+    ],
+    [
+      "And when her breath was done",
+      "Y cuando se le acabó el aliento,"
+    ],
+    [
+      "Took up her simple wardrobe",
+      "recogió su sencillo guardarropa"
+    ],
+    [
+      "And started for the sun",
+      "y emprendió camino hacia el sol."
+    ],
+    [
+      "Her little figure at the gate",
+      "Su pequeña figura junto a la puerta"
+    ],
+    [
+      "The Angels must have spied,",
+      "debieron de verla los ángeles,"
+    ],
+    [
+      "Since I could never find her",
+      "pues yo nunca volví a encontrarla"
+    ],
+    [
+      "Upon the mortal side.",
+      "de este lado mortal."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "sun",
+      "body": "El sol funciona como dirección simbólica de un viaje más allá de la vida."
+    }
+  ],
+  "interpretation": "La muerte se cuenta como una partida doméstica: una figura pequeña toma sus cosas y cruza una puerta que los vivos no pueden franquear.",
+  "preest": null
 }
 });
