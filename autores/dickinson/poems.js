@@ -10840,7 +10840,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "notes": [],
   "interpretation": "El breve retorno del calor aparece como una liturgia engañosa y a la vez deseada: la hablante conoce el artificio estacional, pero pide participar.",
   "preest": null
-},,
+},
   J131: {
     "id": "J131",
     "franklin": null,
