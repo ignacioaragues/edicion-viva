@@ -1122,41 +1122,34 @@
     {
       "group": "sermones",
       "number": 52,
-      "section": "Sermo LII · De Passione Domini I · capita I–II of V",
-      "paragraphs": 7,
-      "aligned_units": 7,
+      "section": "Sermo LII · De Passione Domini I · capita I–V",
+      "paragraphs": 19,
+      "aligned_units": 19,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "partial original aligned Spanish translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lii/index.html",
-      "voice_notes": 4,
-      "lexical_coverage": "12 selective contextual entries; full token-by-token morphology pending",
+      "voice_notes": 8,
+      "lexical_coverage": "24 selective contextual entries; exhaustive token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II first pass; source public Tractatus LII; printed PL54 collation, full morphology, shared dictionary and browser QA pending."
+      "editorial_caveat": "All five chapters and Amen translated; digital Tractatus LII checked. Digital source IV ladio/pinta flagged as corrupt readings; printed PL54 collation, contextual morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo LII, caput III, Non est ergo nobis, dilectissimi, erubescenda crux Christi; chapters III–V and Amen pending",
+  "next": "Sermo LIII, caput I; Sermo LII first-pass translation complete, critical review outstanding",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21",
+  "last_edit": "2026-11-21: Sermo LII chapters III–V completed, 19 bilingual units total",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 52,
-    "completed_chapters": [
-      1,
-      2
-    ],
-    "next_chapter": 3,
-    "next_opening": "Non est ergo nobis, dilectissimi, erubescenda crux Christi",
-    "status": "partial"
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
