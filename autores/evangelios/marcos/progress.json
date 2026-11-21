@@ -2528,12 +2528,25 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-9.php",
         "https://www.biblehub.com/commentaries/egt/mark/9.htm"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 14,
+      "to": 14,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "15/15 fichas posicionales; revisión contextual pendiente",
+      "second_review": "pending",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/9/14",
+        "https://www.biblegateway.com/passage/?search=Mark+9%3A14-27&version=SBLGNT%3BTR1550%3BWHNU"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,13; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 14
+    "verse": 15
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5352,6 +5365,16 @@
       "https://www.thekoinebible.com/text/sblgnt/mark/09.html",
       "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-9.php",
       "https://www.studylight.org/interlinear-study-bible/greek/mark/9-13.html"
+    ]
+  },
+  "prepublication_research_9_14": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "15/15",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/9/14",
+      "https://www.biblegateway.com/passage/?search=Mark+9%3A14-27&version=SBLGNT%3BTR1550%3BWHNU"
     ]
   }
 }
