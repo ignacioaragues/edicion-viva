@@ -2618,7 +2618,7 @@
   "pending": "Continuar Marcos 9,21; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 22
+    "verse": 23
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5512,6 +5512,17 @@
     "sources": [
       "https://www.biblegateway.com/verse/grc/Mark%209%3A21",
       "https://biblehub.com/lexicon/mark/9-21.htm"
+    ]
+  },
+  "prepublication_research_9_22": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "22/22",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/9",
+      "https://www.misselbrook.org.uk/GNT/Mark.pdf",
+      "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
     ]
   }
 }
