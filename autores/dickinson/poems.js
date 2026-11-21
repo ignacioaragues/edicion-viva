@@ -8105,8 +8105,8 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       "Hay cosas que vuelan:"
     ],
     [
-      "Birds – Hours – the Bumblebee –",
-      "aves, horas, el abejorro;"
+      "Buds – Hours – the Bumblebee –",
+      "brotes, horas, el abejorro;"
     ],
     [
       "Of these no Elegy.",
