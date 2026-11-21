@@ -5944,6 +5944,93 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El crepúsculo se convierte en una ceremonia de retirada, pero la voz poética cuestiona qué significa que alguien «se haya ido». El áster y el narciso oponen a la fórmula del alejamiento una argumentación vegetal: la desaparición visible no prueba necesariamente la aniquilación. La ironía del cierre hace de la naturaleza una filósofa.",
   "preest": null
 },
+  J60: {
+  "id": "J60",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "Like her the Saints retire,",
+  "titleES": "Como ella se retiran los santos,",
+  "stanzaBreaks": [
+    3,
+    6,
+    9
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J60, p. 32 de la paginación impresa (PDF del proyecto, página 42); lectura del escaneo con normalización de errores OCR. Correspondencia Franklin por verificar.",
+  "lines": [
+    [
+      "Like her the Saints retire,",
+      "Como ella se retiran los santos,"
+    ],
+    [
+      "In their Chapeaux of fire,",
+      "con sus sombreros de fuego,"
+    ],
+    [
+      "Martial as she!",
+      "¡marciales como ella!"
+    ],
+    [
+      "Like her the Evenings steal",
+      "Como ella, las tardes se escabullen"
+    ],
+    [
+      "Purple and Cochineal",
+      "entre púrpura y cochinilla"
+    ],
+    [
+      "After the Day!",
+      "después del día."
+    ],
+    [
+      "\"Departed\" - both - they say!",
+      "«Partidos» — ambos — ¡dicen!"
+    ],
+    [
+      "i.e. gathered away,",
+      "es decir, recogidos y llevados,"
+    ],
+    [
+      "Not found,",
+      "ya no encontrados,"
+    ],
+    [
+      "Argues the Aster still -",
+      "sigue argumentando el áster —"
+    ],
+    [
+      "Reasons the Daffodil",
+      "razona el narciso"
+    ],
+    [
+      "Profound!",
+      "¡con hondura!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Chapeaux",
+      "body": "Galicismo para «sombreros»: la imagen enlaza el atardecer con un atuendo ceremonial de fuego."
+    },
+    {
+      "line": 5,
+      "title": "Cochineal",
+      "body": "La cochinilla es un tinte rojo intenso; junto a «Purple» forma una paleta cromática del crepúsculo."
+    },
+    {
+      "line": 7,
+      "title": "Departed",
+      "body": "El verbo puede designar tanto la partida como la muerte. La hablante pone entre comillas la explicación convencional de la desaparición."
+    },
+    {
+      "line": 10,
+      "title": "Aster / Daffodil",
+      "body": "Las flores se convierten en interlocutores capaces de discutir la ausencia y la persistencia de la vida."
+    }
+  ],
+  "interpretation": "El crepúsculo se convierte en una ceremonia de retirada, pero la voz poética cuestiona qué significa que alguien «se haya ido». El áster y el narciso oponen a la fórmula del alejamiento una argumentación vegetal: la desaparición visible no prueba necesariamente la aniquilación. La ironía del cierre hace de la naturaleza una filósofa.",
+  "preest": null
+},
   J61: {
   "id": "J61",
   "franklin": null,
