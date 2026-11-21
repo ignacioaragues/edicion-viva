@@ -3,7 +3,7 @@
  * Traducciones y notas: originales de Edición Viva. No reproducir comentarios ajenos.
  */
 window.ED_DICKINSON_POEMS = Object.freeze({
-  J1: {
+J1: {
   "id": "J1",
   "franklin": "F1",
   "approx": "1850",
@@ -198,7 +198,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "Esta extensa valentín es una sátira de la presión social por emparejarse: empieza con una aparente ley universal de cortejo, la aplica con ironía al destinatario soltero y termina en una extravagante propuesta de elección entre seis mujeres. La enumeración convierte la naturaleza en un desfile de parejas, pero la exageración del castigo al célibe deja ver que no se trata de una doctrina amorosa seria. David Preest identifica al destinatario como Elbridge Bowdoin, socio del padre de Dickinson, y señala que la propia poeta aparece discretamente como la joven de cabello rizado. La lectura biográfica explica la ocasión; la voz del poema, sin embargo, se construye como una oradora burlesca, no como una confesión."
 },
-  J2: {
+J2: {
   "id": "J2",
   "franklin": "sin F (carta L58)",
   "approx": "1851",
@@ -278,7 +278,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El «otro cielo» no necesita ser un paisaje sobrenatural: es el espacio de la escritura que permite ofrecer al hermano ausente un jardín sin heladas. La oposición entre campos silenciosos y flores que no se marchitan convierte la carta en un lugar donde la separación queda suspendida. Preest relaciona el poema con una carta a Austin de octubre de 1851, cuando la poeta esperaba su regreso; esa situación favorece una lectura afectiva y doméstica, sin excluir el valor metapoético del jardín que la voz crea con palabras."
 },
-  J3: {
+J3: {
   "id": "J3",
   "franklin": "F2",
   "approx": "1852",
@@ -600,7 +600,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "Esta segunda valentín transforma la cultura escolar en un carnaval de citas latinas, refranes, ciencia popular, historia nacional y absurdos deliberados. La hablante se proclama exploradora de la ciencia y heroína patriótica mientras sabotea la solemnidad de cada referencia. La broma de la gravitación que «cayó» del manzano y el héroe inmortal que sale corriendo revelan una inteligencia paródica muy temprana. Preest señala que fue enviada a William Hoyland y publicada en el Springfield Daily Republican en febrero de 1852; la dimensión pública del texto ayuda a entender su tono de exhibición verbal. La despedida final introduce una sombra de mortalidad en una pieza por lo demás juguetona."
 },
-  J4: {
+J4: {
   "id": "J4",
   "franklin": "F3",
   "approx": "c. 1853",
@@ -676,7 +676,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La voz pide a un piloto que la conduzca por un mar desconocido hasta una costa sin tempestades. La respuesta del piloto convierte el poniente en figura de la eternidad, pero el poema no fija una única identidad para quien habla ni para el guía. Preest documenta que Dickinson lo envió a Susan Gilbert con la exhortación «Write! Comrade, write!» y propone dos lecturas: una invitación a que Sue vuelva a escribir y encuentre refugio en la relación, o una escena religiosa de tránsito hacia la vida eterna. La imagen del puerto hace posible ambas lecturas sin resolver la ambigüedad."
 },
-  J5: {
+J5: {
   "id": "J5",
   "franklin": "F4",
   "approx": "1854",
@@ -830,7 +830,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El pájaro de primavera es una figura de la presencia querida que se aleja al llegar el verano. La hablante intenta persuadir a su propio corazón de que la ausencia no significa pérdida definitiva: el ave aprenderá nuevas melodías y regresará. La repetición del consuelo no demuestra serenidad, sino la dificultad de alcanzarla. Preest relaciona el poema con una carta de septiembre de 1854 a Susan Gilbert, marcada por tensiones afectivas; esa documentación permite leer el ave como figura de Sue, sin reducir todas las imágenes a equivalencias biográficas rígidas."
 },
-  J6: {
+J6: {
   "id": "J6",
   "franklin": "pendiente de cotejo",
   "approx": "c. 1858",
@@ -905,7 +905,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El paisaje muda de color y de forma, mientras la hablante descubre con asombro la repetición anual. La combinación de la rotación terrestre con los doce meses no constituye una explicación científica: comprime en una imagen el movimiento de la Tierra y la transformación de la mirada. El poema encuentra lo maravilloso en lo familiar, detrás de la ciudad natal."
 },
-  J7: {
+J7: {
   "id": "J7",
   "franklin": "pendiente de cotejo",
   "approx": "c. 1858",
@@ -1026,7 +1026,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El regreso a casa se amplía hasta convertirse en una conjetura sobre la inmortalidad. El poema no ofrece una cartografía segura del más allá: los cálculos fracasan y los clásicos callan. Frente a esa insuficiencia, la fe se orienta hacia una oscuridad paradójicamente fecunda. Las imágenes del azafrán, los barqueros y los buzos sugieren que la llegada o el tesoro exigen antes una travesía."
 },
-  J8: {
+J8: {
   "id": "J8",
   "franklin": "pendiente de cotejo",
   "approx": "c. 1858",
@@ -1126,7 +1126,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La violencia verbal aparece como una herida que atraviesa incluso la armadura. El vocabulario militar y patriótico transforma la ofensa íntima en una batalla de memoria: el homenaje público a los caídos contrasta con el alma olvidada del cierre. La identidad de la «palabra» queda abierta, y la última imagen desplaza el triunfo de la puntería hacia la crueldad del olvido."
 },
-  J9: {
+J9: {
   "id": "J9",
   "franklin": "F43",
   "approx": "c. 1858",
@@ -1227,7 +1227,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ]
   ]
 },
-  J10: {
+J10: {
   "id": "J10",
   "franklin": "F61",
   "approx": "c. 1858",
@@ -1320,7 +1320,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ]
   ]
 },
-  J11: {
+J11: {
   "id": "J11",
   "franklin": "F38",
   "approx": "c. 1858",
@@ -1438,7 +1438,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ]
   ]
 },
-  J12: {
+J12: {
   "id": "J12",
   "franklin": "F32",
   "approx": "c. 1858",
@@ -1496,7 +1496,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ]
   ]
 },
-  J13: {
+J13: {
   "id": "J13",
   "franklin": "F35",
   "approx": "c. 1858",
@@ -1579,7 +1579,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz adopta una solemnidad desmesurada para defender una idea sencilla: dormir hasta que verdaderamente amanezca. La imagen de la estación, sus testigos y la Aurora triunfal convierten una disputa doméstica sobre los horarios en una escena casi cósmica. El poema demuestra que el vocabulario religioso o trascendente de Dickinson también puede estar al servicio de la ironía.",
   "preest": "Preest (J13, F35, pp. 5–6) insiste en que este poema no trata del despertar a la vida eterna, pese a su léxico grandioso. Recuerda que Dickinson lo dirigió a su padre en una carta (L198), con una dedicatoria irónica que le agradecía hacerla levantar a horas intempestivas. La exageración de las tres de la mañana refuerza la broma: las almas sensatas saben que la mañana empieza con la luz, no con las órdenes paternas."
 },
-  J14: {
+J14: {
     id: "J14", franklin: "F5", approx: "c. 1858",
     incipit: "One Sister have I in our house,",
     titleES: "Tengo una Hermana en nuestra casa",
@@ -1626,7 +1626,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       {line: 27, title: "La relación con Susan en la crítica", body: "Martha Nell Smith estudia a Sue como interlocutora, lectora y colaboradora literaria central en el Cambridge Companion (cap. 3). Esto está apoyado por una correspondencia extensa; no exige etiquetar cada poema amoroso como mensaje dirigido a ella."}
     ]
   },
-  J15: {
+J15: {
   "id": "J15",
   "franklin": "F44",
   "approx": "c. 1858",
@@ -1685,7 +1685,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El atardecer entra en escena como un visitante de vestiduras suntuosas. El acertijo desplaza la mirada desde la luz crepuscular hacia el cielo matinal: el mismo sol que parecía detenerse ante las casas se encontrará después en el dominio de las aves. La personificación hace de una transición diaria una visita ceremonial.",
   "preest": "Preest identifica al huésped con el sol poniente y recuerda que Dickinson tituló «Navy Sunset» la copia enviada a Susan. Relaciona el lujo cromático del traje con otra descripción epistolar de un cielo vespertino (L189); también señala una posible reminiscencia del avefría de Much Ado About Nothing, sin presentarla como fuente demostrada."
 },
-  J16: {
+J16: {
   "id": "J16",
   "franklin": null,
   "approx": "c. 1858",
@@ -1720,7 +1720,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La copa imaginaria concentra una estación que acaba de terminar. El brindis no celebra una persona ausente, sino el verano que se retira: destilarlo equivale a conservar su esencia para compartirla con los amigos. El tono es breve, afectuoso y elegíaco.",
   "preest": "Preest sitúa estos versos en la carta L193 a Samuel Bowles, escrita al terminar el verano de 1858. El contexto de siega permite entender el pronombre femenino como referencia a la estación. Advierte además que Franklin no cuenta este pasaje epistolar en verso como poema independiente."
 },
-  J17: {
+J17: {
   "id": "J17",
   "franklin": "F66",
   "approx": "c. 1858",
@@ -1771,7 +1771,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La visitante del jardín inaugura una experiencia que desborda el entorno conocido. El desconcierto inicial no es terror, sino la sorpresa de descubrir que lo familiar —bosques y jardín— puede convertirse en un país desconocido. La Doncella admite una lectura botánica y otra como figura de la inspiración.",
   "preest": "Preest recuerda que Dickinson envió el poema a la señora Holland acompañado de un capullo de rosa: en el nivel inmediato, la Doncella puede ser esa primera flor. Recoge asimismo la propuesta de Judith Farr de leerla como Musa de la poesía; esa hipótesis explica mejor el desconcierto de los dos primeros versos, aunque no constituye una identificación segura."
 },
-  J18: {
+J18: {
   "id": "J18",
   "franklin": "F21",
   "approx": "c. 1858",
@@ -1876,7 +1876,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El final del verano se convierte en un funeral completo: hay procesión, orador, oración y doxología. La parodia del ceremonial cristiano no destruye su emoción: presenta la pérdida estacional como una muerte verdadera, pero imagina a la naturaleza como comunidad de duelo y esperanza. La Trinidad final es sustituida por criaturas del jardín.",
   "preest": "Preest lee la difunta como el verano de 1858 y detalla los papeles de los asistentes: el tordo arrocero proporciona el marco musical y la abeja anciana pronuncia el discurso. Destaca el cierre litúrgico, en el que Abeja, Mariposa y Brisa ocupan las posiciones de una fórmula trinitaria. La escena oscila entre juego verbal y sentimiento de pérdida."
 },
-  J19: {
+J19: {
   "id": "J19",
   "franklin": "F25",
   "approx": "c. 1858",
@@ -1915,7 +1915,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema construye una identidad a partir de un inventario mínimo: piezas de una flor, rocío, insectos y movimiento del aire. El último verso transforma la enumeración en una revelación juguetona: la voz no contempla la rosa, sino que habla como ella. La brevedad reproduce la ligereza de una adivinanza.",
   "preest": "Preest entiende los cuatro primeros versos como una pregunta implícita cuya solución llega al final. Esa lectura de acertijo explica la economía extrema del texto y su exclamación conclusiva."
 },
-  J20: {
+J20: {
     "id": "J20",
     "franklin": "F26–F27 (Franklin divide las dos estrofas)",
     "approx": "c. 1858",
@@ -2024,7 +2024,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "La voz mira con sospecha la flor tardía: su belleza no niega el invierno, sino que lo anuncia. El reproche de la genciana vuelve moral una retirada aparentemente insignificante: apartar los ojos de una flor equivale a traicionar una promesa de atención. La resolución de marcharse cantando y no temer la nieve suena a desafío, pero también a conjuro frágil. La segunda estrofa radicaliza esa fragilidad mediante cuatro escenas de pérdida: un prado que escapa a la abeja exhausta, arroyos que parecen sonar para quien muere en el desierto, agujas iluminadas ante ojos que se cierran y un cielo suspendido demasiado lejos de la mano que intenta alcanzarlo. No es seguro que el poema niegue la esperanza; muestra más bien la distancia dolorosa entre la promesa percibida y su posesión. La elipsis del quinto verso impide convertir esa experiencia en una confesión biográfica precisa."
   },
-  J21: {
+J21: {
     "id": "J21",
     "franklin": "F28",
     "approx": "c. 1858",
@@ -2064,7 +2064,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "En apenas tres versos, Dickinson transforma una sentencia aparentemente contradictoria en una pequeña escena de conducta humana. La ganancia contiene una pérdida posible: la desaparición del deseo que daba valor a la espera. El segundo verso, deliberadamente elíptico, no aclara si los jugadores recuerdan la victoria o la derrota. Esa vacilación importa: cualquiera de las dos experiencias puede devolverlos a la mesa. El tercer verso no resuelve el dilema moral, sino que muestra su persistencia. El juego puede leerse literalmente, pero también como figura de la esperanza, la ambición y la repetición del deseo. No es necesario convertirlo en una doctrina universal sobre el fracaso: la fuerza del poema está en la ambigüedad entre experiencia y compulsión."
   },
-  J22: {
+J22: {
     "id": "J22",
     "approx": "c. 1858 (Johnson)",
     "incipit": "All these my banners be.",
@@ -2191,7 +2191,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "El poema enlaza el ceremonial de mayo con la posibilidad de recuperar aquello que parecía perdido. Las flores son banderas, la llanura un presbiterio y el crecimiento vegetal una procesión que se alza y vuelve a descansar. La segunda estrofa interrumpe la celebración con una meditación sobre el extravío: si algo puede reencontrarse, el robo y el engaño pierden su carácter definitivo. La pequeña pala, las margaritas, las aguileñas y el croco convierten esa intuición en trabajo de jardín. La última imagen no asegura que el mundo carezca de invierno, sino que quien conserva una sensibilidad afín a las flores puede percibir anticipadamente la llegada de junio. Se trata de una interpretación editorial propia; el comentario específico de David Preest queda pendiente de consulta."
   },
-  J23: {
+J23: {
     "id": "J23",
     "franklin": "F12",
     "approx": "c. 1858",
@@ -2383,7 +2383,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J24: {
+J24: {
   "id": "J24",
   "franklin": "F13",
   "approx": "c. 1858",
@@ -2528,7 +2528,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El poema imagina una primavera que no está al alcance de los vivos. En ese espacio, los ausentes siguen moviéndose y las aves regresan a una estación que no termina. La comparación con las estrellas convierte el cielo en una fiesta colectiva, pero la hablante no se incluye entre sus participantes: pide bailar y cantar con ellos. La distancia entre la visión y el deseo organiza el desenlace. Las campanas esperadas anuncian otra aurora, sin garantizar que haya llegado. Esta interpretación es editorial propia; queda pendiente el cotejo del comentario de David Preest."
 },
-  J25: {
+J25: {
     "id": "J25",
     "franklin": "F15",
     "approx": "c. 1858",
@@ -2586,7 +2586,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "El poema dramatiza una aparición primaveral: lo que parecía dormido y olvidado responde al contacto de quien lo recuerda y se viste de rojo. El lenguaje de la cuna, el reconocimiento y el traje desplaza la botánica al registro de una pequeña resurrección. La última exclamación invita al lector a mirar, pero la identidad de la flor queda sin nombrar en el texto de Johnson. Esta lectura botánica se distingue de la posible resonancia funeraria de «dormía» y «silenciosa»: el poema permite oír ambas, aunque su desenlace cromático favorece la renovación."
   },
-  J26: {
+J26: {
     "id": "J26",
     "franklin": "",
     "approx": "c. 1858",
@@ -2649,7 +2649,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "La voz comienza declarando la pobreza de su presente, pero la repetición de «This» lo agranda hasta incluir el corazón y un mundo entero de campos, praderas y abejas. La paradoja reside en que el regalo parece a la vez mínimo e inconmensurable. El destinatario debe «contar», aunque la enumeración desborda cualquier cálculo. Puede leerse como una poética del don: una cosa pequeña, investida de afecto, se vuelve equivalente a todo cuanto la imaginación puede convocar. No es necesario identificar al destinatario ni convertir la escena en una oración religiosa para reconocer esa expansión."
   },
-  J27: {
+J27: {
     "id": "J27",
     "incipit": "Morns like these — we parted —",
     "franklin": "pendiente de cotejo",
@@ -2729,7 +2729,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "approx": "c. 1858 (Johnson)",
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J27, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
   },
-  J28: {
+J28: {
     "id": "J28",
     "incipit": "So has a Daisy vanished",
     "franklin": "pendiente de cotejo",
@@ -2797,7 +2797,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "approx": "c. 1858 (Johnson)",
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J28, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
   },
-  J29: {
+J29: {
     "id": "J29",
     "incipit": "If those I loved were lost",
     "franklin": "pendiente de cotejo",
@@ -2860,7 +2860,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "approx": "c. 1858 (Johnson)",
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J29, p. 19 (texto cotejado con la edición impresa; correspondencia Franklin pendiente)."
   },
-  J30: {
+J30: {
   "id": "J30",
   "franklin": "F6",
   "incipit": "Adrift! A little boat adrift!",
@@ -2934,7 +2934,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "Dos relatos incompatibles describen la misma travesía: hundimiento para los marineros, salvación para los ángeles."
 },
-  J31: {
+J31: {
   "id": "J31",
   "franklin": "F7",
   "incipit": "Summer for thee, grant I may be",
@@ -2991,7 +2991,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La ofrenda amorosa quiere durar más allá de las estaciones y aun de la muerte."
 },
-  J32: {
+J32: {
   "id": "J32",
   "franklin": "F8",
   "incipit": "When Roses cease to bloom, Sir,",
@@ -3044,7 +3044,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La ofrenda es urgente porque el tiempo de recoger flores y el de vivir son limitados. Auburn puede aludir al cementerio de Mount Auburn."
 },
-  J33: {
+J33: {
   "id": "J33",
   "franklin": "F9",
   "incipit": "If recollecting were forgetting,",
@@ -3097,7 +3097,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La inversión imposible de los contrarios da forma al dolor de la ausencia."
 },
-  J34: {
+J34: {
   "id": "J34",
   "franklin": "F10",
   "incipit": "Garlands for Queens, may be -",
@@ -3154,7 +3154,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La rosa reemplaza las insignias de prestigio por un emblema de memoria íntima."
 },
-  J35: {
+J35: {
     "id": "J35",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3219,7 +3219,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J36: {
+J36: {
     "id": "J36",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3272,7 +3272,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J37: {
+J37: {
     "id": "J37",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3353,7 +3353,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J38: {
+J38: {
     "id": "J38",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3386,7 +3386,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J39: {
+J39: {
     "id": "J39",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3467,7 +3467,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J40: {
+J40: {
     "id": "J40",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3528,7 +3528,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J41: {
+J41: {
     "id": "J41",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3581,7 +3581,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J42: {
+J42: {
     "id": "J42",
     "franklin": null,
     "approx": "c. 1858 (Johnson)",
@@ -3630,7 +3630,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J43: {
+J43: {
     "id": "J43",
     "franklin": "F59",
     "approx": "c. 1858 (Johnson); c. 1859 (Franklin)",
@@ -3718,7 +3718,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J44: {
+J44: {
     "id": "J44",
     "franklin": null,
     "approx": "c. 1858",
@@ -3767,7 +3767,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J45: {
+J45: {
     "id": "J45",
     "franklin": null,
     "approx": "c. 1858",
@@ -3848,7 +3848,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J46: {
+J46: {
     "id": "J46",
     "franklin": null,
     "approx": "c. 1858",
@@ -3909,7 +3909,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J47: {
+J47: {
     "id": "J47",
     "franklin": null,
     "approx": "c. 1858",
@@ -3958,7 +3958,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J48: {
+J48: {
     "id": "J48",
     "franklin": null,
     "approx": "c. 1858",
@@ -4007,7 +4007,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J49: {
+J49: {
     "id": "J49",
     "franklin": null,
     "approx": "c. 1858",
@@ -4056,7 +4056,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J50: {
+J50: {
     "id": "J50",
     "franklin": null,
     "approx": "c. 1858",
@@ -4137,7 +4137,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J51: {
+J51: {
     "id": "J51",
     "franklin": null,
     "approx": "c. 1858",
@@ -4226,7 +4226,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J52: {
+J52: {
     "id": "J52",
     "franklin": null,
     "approx": "c. 1858",
@@ -4275,7 +4275,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J53: {
+J53: {
     "id": "J53",
     "franklin": null,
     "approx": "c. 1858",
@@ -4340,1149 +4340,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J185: {
-    id: "J185", franklin: "F202", approx: "c. 1860",
-    incipit: "“Faith” is a fine invention",
-    titleES: "La «Fe» es un buen invento",
-    source: "Johnson, The Complete Poems, J185, p. 87; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículos, pp. 119 y 137 (F202); Preest, Emily Dickinson Poems Commentary, comentario de J185, pp. 57–58.",
-    lines: [
-      ["“Faith” is a fine invention", "La «Fe» es un buen invento"],
-      ["When Gentlemen can see –", "cuando los Caballeros pueden ver —"],
-      ["But Microscopes are prudent", "pero los Microscopios son prudentes"],
-      ["In an Emergency.", "en una Emergencia."]
-    ],
-    notes: [
-      {line: 1, title: "Comillas en «Faith»", body: "Johnson encierra «Faith» entre comillas; una copia conservada que imprime Miller (F202) comienza sin ellas. No hay que borrar la discrepancia: las comillas hacen que la palabra misma quede bajo examen."},
-      {line: 2, title: "Gentlemen: ¿quiénes ven?", body: "El sujeto puede leerse como un grupo social con autoridad, o como quienes se consideran capaces de ver sin prueba instrumental. La ironía se dirige a un tipo de seguridad, no exige deducir un credo personal definitivo de la poeta."},
-      {line: 3, title: "El microscopio como método", body: "El instrumento pone a prueba lo que no se percibe a simple vista. «Prudente» no significa omnisciente: la observación científica tampoco resuelve sin más todas las cuestiones religiosas."},
-      {line: 4, title: "Emergency: crisis y contexto", body: "El remate puede aludir a una crisis de creencia, pero Preest recoge además la hipótesis de Richard Sewall y Ruth Miller: en una carta a Samuel Bowles, el poema podría intervenir irónicamente en la decisión de publicar o no versos de Dickinson. No se presenta esa interpretación como única."}
-    ]
-  },
-  J249: {
-    id: "J249", franklin: "F269", approx: "c. 1861",
-    incipit: "Wild Nights – Wild Nights!",
-    titleES: "¡Noches salvajes — noches salvajes!",
-    stanzaBreaks: [4,8],
-    source: "Johnson, The Complete Poems, J249, p. 114; Miller, As She Preserved Them, F269, fascículo 11, p. 133; Preest, Commentary, J249, pp. 78–79.",
-    lines: [
-      ["Wild Nights – Wild Nights!", "¡Noches salvajes — noches salvajes!"],
-      ["Were I with thee", "Si yo estuviera contigo,"],
-      ["Wild Nights should be", "las Noches salvajes serían"],
-      ["Our luxury!", "nuestro lujo."],
-      ["Futile – the Winds –", "Inútiles — los Vientos —"],
-      ["To a Heart in port –", "para un Corazón a salvo en puerto —"],
-      ["Done with the Compass –", "ya sin necesidad de Brújula —"],
-      ["Done with the Chart!", "¡ni de Cartas de navegación!"],
-      ["Rowing in Eden –", "Remando en el Edén —"],
-      ["Ah, the Sea!", "¡Ah, el Mar!"],
-      ["Might I but moor – Tonight –", "¡Si pudiera siquiera amarrar — esta Noche —"],
-      ["In Thee!", "en Ti!"]
-    ],
-    notes: [
-      {line: 1, title: "Exclamación, no confesión directa", body: "La voz no identifica a la persona destinataria ni narra una experiencia pasada: abre una posibilidad deseada. La forma exclamativa concentra intensidad sin revelar un nombre."},
-      {line: 2, title: "Were I with thee", body: "La inversión del condicional («Si estuviera contigo») introduce una situación hipotética. Como observa Preest, no permite inferir de inmediato un encuentro real o ya ocurrido."},
-      {line: 4, title: "Luxury", body: "«Lujo» apunta al exceso y al placer, no simplemente a la tranquilidad. El aparente refugio de la segunda estrofa convive con una sensualidad muy intensa."},
-      {line: 6, title: "Corazón en puerto", body: "La tormenta ya no tiene poder para quien se siente acogido. Los términos «Compass», «Chart», «Rowing» y «moor» mantienen una metáfora náutica consistente en las tres estrofas."},
-      {line: 8, title: "Chart", body: "Se traduce por «cartas de navegación», no por «gráfico»: son mapas usados para orientar la nave, ahora innecesarios en la intimidad del puerto."},
-      {line: 9, title: "Edén y erotismo", body: "La palabra bíblica no elimina la dimensión sensual. Preest registra una lectura de Ruth Miller que ve en el poema un anhelo de Jesús o el cielo, pero objeta que esa lectura no agota el lenguaje erótico."},
-      {line: 11, title: "Tonight / tonight", body: "Johnson imprime «Tonight» con mayúscula; la copia presentada por Miller usa «tonight». También difieren ciertas pausas («Ah, the Sea!» frente a «Ah – the Sea!»). Conservamos a Johnson como base."},
-      {line: 12, title: "¿Quién es «thee»?", body: "No hay destinatario nombrado. Las atribuciones a Sue, Samuel Bowles u otra figura biográfica son hipótesis contextuales que deben distinguirse del texto. Preest recoge, por ejemplo, la propuesta de Judith Farr acerca de Bowles."}
-    ]
-  },
-  J254: {
-    id: "J254", franklin: "F314", approx: "c. 1861–1862",
-    incipit: "“Hope” is the thing with feathers –",
-    titleES: "«Esperanza» es esa cosa con plumas",
-    stanzaBreaks: [4, 8],
-    source: "Johnson, The Complete Poems, J254, p. 116; Miller, As She Preserved Them, fascículo 13, hoja 2, p. 150; Preest, comentario a J254, p. 80.",
-    lines: [
-      ["“Hope” is the thing with feathers –", "«Esperanza» es esa cosa con plumas —"],
-      ["That perches in the soul –", "que se posa en el alma —"],
-      ["And sings the tune without the words –", "y canta la melodía sin palabras —"],
-      ["And never stops – at all –", "y no se detiene — jamás —"],
-      ["And sweetest – in the Gale – is heard –", "Y se oye más dulce — en el vendaval —"],
-      ["And sore must be the storm –", "y muy dura ha de ser la tormenta —"],
-      ["That could abash the little Bird", "capaz de amedrentar al Pajarito"],
-      ["That kept so many warm –", "que a tantos dio calor —"],
-      ["I’ve heard it in the chillest land –", "Lo he oído en la tierra más helada —"],
-      ["And on the strangest Sea –", "y en el Mar más extraño —"],
-      ["Yet, never, in Extremity,", "y, sin embargo, nunca, en la mayor penuria,"],
-      ["It asked a crumb – of Me.", "me pidió una migaja — a Mí."]
-    ],
-    notes: [
-      {line: 1, title: "Un poema de definición", body: "El sustantivo abstracto Hope aparece entre comillas. La definición no se desarrolla como argumento conceptual: la esperanza se vuelve pájaro, canto y acto de resistencia. David Preest compara el poema con una entrada de diccionario transformada en imagen."},
-      {line: 2, title: "Ritmo de himno", body: "El poema se apoya en el ritmo de himnos de alternancia aproximada de cuatro y tres acentos (8 y 6 sílabas métricas inglesas). No conviene forzar una escansión mecánica: los guiones introducen pausas significativas."},
-      {line: 4, title: "La interrupción que niega la interrupción", body: "La secuencia «never stops – at all» afirma una continuidad, pero se lee mediante pausas. La puntuación hace oír la insistencia sin volverla completamente fluida."},
-      {line: 5, title: "Inversión y énfasis", body: "El orden más corriente sería «is heard sweetest in the Gale». Al comenzar con «And sweetest», Dickinson adelanta el grado máximo y retrasa el verbo."},
-      {line: 6, title: "Rima y disonancia", body: "Las estrofas no repiten una correspondencia sonora perfectamente uniforme: soul/all es más aproximada que storm/warm o Sea/Me en numerosas pronunciaciones del inglés. La música combina expectativas y desviaciones."},
-      {line: 12, title: "Gratuidad de la esperanza", body: "La diminuta «crumb» contrasta con el alcance de las tormentas y mares anteriores. La voz no dice que la esperanza nunca flaquee; formula una experiencia personal de algo que sostiene sin exigir compensación."}
-    ]
-  },
-  J258: {
-    "id": "J258",
-    "franklin": "Pendiente de cotejo",
-    "approx": "c. 1861",
-    "incipit": "There's a certain Slant of light,",
-    "titleES": "Hay cierta inclinación de la luz",
-    "stanzaBreaks": [
-      4,
-      8,
-      12
-    ],
-    "source": "Johnson, The Complete Poems, J258, pp. 118–119 (texto base).",
-    "lines": [
-      [
-        "There's a certain Slant of light,",
-        "Hay cierta inclinación de la luz,"
-      ],
-      [
-        "Winter Afternoons –",
-        "en las tardes de invierno —"
-      ],
-      [
-        "That oppresses, like the Heft",
-        "que oprime, como el peso"
-      ],
-      [
-        "Of Cathedral Tunes –",
-        "de las melodías de catedral —"
-      ],
-      [
-        "Heavenly Hurt, it gives us –",
-        "Nos inflige una herida celestial —"
-      ],
-      [
-        "We can find no scar,",
-        "no podemos hallar cicatriz,"
-      ],
-      [
-        "But internal difference,",
-        "sino una diferencia interior,"
-      ],
-      [
-        "Where the Meanings, are –",
-        "allí donde están los sentidos —"
-      ],
-      [
-        "None may teach it – Any –",
-        "Nadie puede enseñarla — nadie —"
-      ],
-      [
-        "'Tis the Seal Despair –",
-        "es el Sello de la Desesperación —"
-      ],
-      [
-        "An imperial affliction",
-        "una aflicción imperial"
-      ],
-      [
-        "Sent us of the Air –",
-        "que nos envía el Aire —"
-      ],
-      [
-        "When it comes, the Landscape listens –",
-        "Cuando llega, el Paisaje escucha —"
-      ],
-      [
-        "Shadows – hold their breath –",
-        "las Sombras — contienen el aliento —"
-      ],
-      [
-        "When it goes, 'tis like the Distance",
-        "cuando se va, es como la Distancia"
-      ],
-      [
-        "On the look of Death –",
-        "en la mirada de la Muerte —"
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Slant",
-        "body": "La inclinación de la luz es un fenómeno perceptible, pero la carga emocional que se le atribuye no puede verse: el poema desplaza una observación óptica al interior de la conciencia."
-      },
-      {
-        "line": 3,
-        "title": "Heft",
-        "body": "El término indica peso o gravedad física; la música de catedral adquiere una materialidad opresiva."
-      },
-      {
-        "line": 5,
-        "title": "Heavenly Hurt",
-        "body": "La paradoja reúne procedencia celestial y herida. No obliga a entenderla como gracia religiosa ni como condena."
-      },
-      {
-        "line": 8,
-        "title": "Meanings",
-        "body": "El plural evita reducir la diferencia interior a una sola explicación. La puntuación mantiene abierta la relación entre sensación y significado."
-      },
-      {
-        "line": 10,
-        "title": "Seal Despair",
-        "body": "El sello convierte la desesperación en una marca de autoridad; el adjetivo «imperial» refuerza su carácter soberano e impuesto."
-      },
-      {
-        "line": 16,
-        "title": "Distancia en la muerte",
-        "body": "La retirada de la luz deja una expresión comparable a la mirada de la muerte. No es la muerte misma sino una semejanza perceptiva."
-      }
-    ]
-  },
-  J280: {
-    "id": "J280",
-    "franklin": "Pendiente de cotejo",
-    "approx": "c. 1861",
-    "incipit": "I felt a Funeral, in my Brain,",
-    "titleES": "Sentí un funeral en mi cerebro",
-    "stanzaBreaks": [
-      4,
-      8,
-      12,
-      16
-    ],
-    "source": "Johnson, The Complete Poems, J280, pp. 128–129 (texto base).",
-    "lines": [
-      [
-        "I felt a Funeral, in my Brain,",
-        "Sentí un Funeral en mi Cerebro,"
-      ],
-      [
-        "And Mourners to and fro",
-        "y los Deudos, de un lado a otro,"
-      ],
-      [
-        "Kept treading – treading – till it seemed",
-        "seguían pisando — pisando — hasta que parecía"
-      ],
-      [
-        "That Sense was breaking through –",
-        "que el Sentido estaba abriéndose paso —"
-      ],
-      [
-        "And when they all were seated,",
-        "Y cuando todos se sentaron,"
-      ],
-      [
-        "A Service, like a Drum –",
-        "un Oficio, como un Tambor —"
-      ],
-      [
-        "Kept beating – beating – till I thought",
-        "seguía golpeando — golpeando — hasta que pensé"
-      ],
-      [
-        "My Mind was going numb –",
-        "que mi Mente se entumecía —"
-      ],
-      [
-        "And then I heard them lift a Box",
-        "Y entonces los oí levantar una Caja"
-      ],
-      [
-        "And creak across my Soul",
-        "y crujir al atravesar mi Alma"
-      ],
-      [
-        "With those same Boots of Lead, again,",
-        "otra vez con aquellas mismas Botas de Plomo,"
-      ],
-      [
-        "Then Space – began to toll,",
-        "entonces el Espacio — comenzó a doblar,"
-      ],
-      [
-        "As all the Heavens were a Bell,",
-        "como si todos los Cielos fueran una Campana,"
-      ],
-      [
-        "And Being, but an Ear,",
-        "y el Ser, apenas un Oído,"
-      ],
-      [
-        "And I, and Silence, some strange Race",
-        "y yo, y el Silencio, una extraña Raza"
-      ],
-      [
-        "Wrecked, solitary, here –",
-        "naufragada, solitaria, aquí —"
-      ],
-      [
-        "And then a Plank in Reason, broke,",
-        "Y entonces se quebró una Tabla de la Razón,"
-      ],
-      [
-        "And I dropped down, and down –",
-        "y caí hacia abajo, y hacia abajo —"
-      ],
-      [
-        "And hit a World, at every plunge,",
-        "y golpeé un Mundo en cada caída,"
-      ],
-      [
-        "And Finished knowing – then –",
-        "y dejé de saber — entonces —"
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Funeral in my Brain",
-        "body": "El poema dramatiza una experiencia mental como una ceremonia fúnebre; no constituye un informe clínico ni demuestra que Dickinson padeciera un trastorno específico."
-      },
-      {
-        "line": 3,
-        "title": "Treading",
-        "body": "La repetición de «treading» hace oír los pasos y convierte la presión rítmica en forma poética."
-      },
-      {
-        "line": 4,
-        "title": "Sense",
-        "body": "Puede leerse como sentido, conciencia o facultad de comprender. «Breaking through» sugiere tanto una irrupción como una ruptura."
-      },
-      {
-        "line": 6,
-        "title": "Service",
-        "body": "El oficio religioso se oye como un tambor; el rito de duelo se transforma en percusión insistente."
-      },
-      {
-        "line": 12,
-        "title": "Space began to toll",
-        "body": "El verbo «toll» suele referirse al doblar de una campana; aquí el propio espacio parece emitir el sonido."
-      },
-      {
-        "line": 14,
-        "title": "Being, but an Ear",
-        "body": "La existencia entera se reduce a un órgano receptor. El desplazamiento de lo visual a lo auditivo intensifica la pérdida de referencias."
-      },
-      {
-        "line": 17,
-        "title": "Plank in Reason",
-        "body": "La razón se imagina como un suelo de tablas que puede ceder. El desplome convierte una crisis de comprensión en caída física."
-      },
-      {
-        "line": 20,
-        "title": "Finished knowing",
-        "body": "El final suspende el conocimiento sin explicar qué sucede después; el guion final evita clausurar la experiencia como muerte, sueño o locura inequívocos."
-      }
-    ]
-  },
-  J288: {
-    id: "J288", franklin: "F260", approx: "c. 1861",
-    incipit: "I'm Nobody! Who are you?",
-    titleES: "¡Soy Nadie! ¿Quién eres tú?", stanzaBreaks: [4],
-    source: "Johnson, The Complete Poems, n.º 288, p. 133; Miller, As She Preserved Them, p. 128 (variantes).",
-    lines: [
-      ["I'm Nobody! Who are you?", "¡Soy Nadie! ¿Quién eres tú?"],
-      ["Are you – Nobody – Too?", "¿Eres — Nadie — también?"],
-      ["Then there's a pair of us?", "¿Entonces somos dos?"],
-      ["Don't tell! they'd advertise – you know!", "¡No lo digas! Lo anunciarían — ¡ya sabes!"],
-      ["How dreary – to be – Somebody!", "¡Qué tedioso — ser — Alguien!"],
-      ["How public – like a Frog –", "¡Qué público — como una Rana —"],
-      ["To tell one's name – the livelong June –", "decir el propio nombre — todo el mes de junio —"],
-      ["To an admiring Bog!", "a un Pantano admirador!"]
-    ],
-    notes: [
-      {line: 1, title: "Nadie y Alguien", body: "Las mayúsculas convierten dos pronombres indefinidos en identidades casi sociales. El poema se dirige a un «tú» y crea de inmediato una comunidad clandestina."},
-      {line: 3, title: "Una pregunta editorial", body: "Johnson imprime el verso con signo de interrogación («Then there's a pair of us?»). Miller registra una lectura exclamativa («Then there's a pair of us!»). La diferencia altera ligeramente el tono de complicidad."},
-      {line: 4, title: "Banish / advertise", body: "En el manuscrito que sigue Miller figura «they'd banish us» y aparece «advertise» como alternativa. Johnson opta por «they'd advertise». Pasar del destierro a la publicidad desplaza la ironía: ¿la sociedad castiga al diferente o lo vuelve espectáculo?"},
-      {line: 7, title: "Your name / one's name", body: "Miller imprime «To tell your name» y registra como alternativa «one's»; Johnson adopta «one's name». La segunda forma generaliza la crítica al prestigio y a la exhibición pública."},
-      {line: 8, title: "El pantano", body: "La comparación con una rana y un pantano parodia la fama como una repetición ruidosa ante un público indiferenciado. El sarcasmo convive con la intimidad del primer cuarteto."}
-    ]
-  },
-  J303: {
-    id: "J303", franklin: "F409", approx: "c. 1862",
-    incipit: "The Soul selects her own Society –",
-    titleES: "El Alma elige su propia Compañía",
-    stanzaBreaks: [4, 8],
-    source: "Johnson, The Complete Poems, J303, p. 143; Miller, As She Preserved Them, fascículo 20, hoja 4, p. 218 (alternativas); Preest, comentario a J303, p. 98.",
-    lines: [
-      ["The Soul selects her own Society –", "El Alma elige su propia Compañía —"],
-      ["Then – shuts the Door –", "luego — cierra la Puerta —"],
-      ["To her divine Majority –", "a su divina Mayoría —"],
-      ["Present no more –", "que no se presente más —"],
-      ["Unmoved – she notes the Chariots – pausing –", "Impasible — ve los Carruajes — detenerse —"],
-      ["At her low Gate –", "ante su humilde Portón —"],
-      ["Unmoved – an Emperor be kneeling", "Impasible — aunque un Emperador se arrodille"],
-      ["Upon her Mat –", "sobre su Esterilla —"],
-      ["I’ve known her – from an ample nation –", "La he visto — entre una nación inmensa —"],
-      ["Choose One –", "escoger a Uno —"],
-      ["Then – close the Valves of her attention –", "y luego — cerrar las Válvulas de su atención —"],
-      ["Like Stone –", "como Piedra —"]
-    ],
-    notes: [
-      {line: 1, title: "Society", body: "Society puede evocar tanto una sociedad formal como la compañía elegida. La traducción «Compañía» privilegia el círculo de trato personal; «Sociedad» subrayaría el contraste social y político con «Majority»."},
-      {line: 3, title: "La mayoría divina", body: "La palabra «divine» puede leerse como elogio, hipérbole o ironía. El cierre de la puerta no establece por sí solo si el Alma rechaza una comunidad religiosa, una multitud social o una corte simbólica."},
-      {line: 4, title: "Sintaxis elíptica", body: "«Present no more» admite distintos encadenamientos con los versos anteriores. La versión española «que no se presente más» explicita una posible lectura, pero la puntuación original deja el sentido menos cerrado."},
-      {line: 7, title: "Una concesión comprimida", body: "«an Emperor be kneeling» utiliza una construcción elíptica con valor concesivo: ni siquiera si se arrodilla un emperador cambia la decisión. Se conserva la repetición de «Unmoved»."},
-      {line: 8, title: "Mat y Rush mat", body: "Miller registra «Rush mat» como alternativa a «Mat» en la copia retenida. El detalle cotidiano de la estera contrasta con el carruaje y el emperador."},
-      {line: 11, title: "Valves y lids", body: "Miller registra «lids» como alternativa a «Valves». «Válvulas» hace pensar en un mecanismo o un órgano que se cierra; «párpados» llevaría el cierre al campo de la percepción. Son posibilidades que no conviene fusionar."},
-      {line: 12, title: "Como piedra", body: "El símil final no resuelve si la elección es una conquista de la autonomía, un acto de dureza o una imagen inquietante de clausura. El poema permite mantener esas lecturas en tensión."}
-    ]
-  }
-,
-  J324: {
-    id: "J324", franklin: "F236", approx: "c. 1860 (Johnson); copia de c. 1861 (Miller)",
-    incipit: "Some keep the Sabbath going to Church –",
-    titleES: "Algunos guardan el domingo yendo a la Iglesia",
-    stanzaBreaks: [4, 8],
-    source: "Johnson, The Complete Poems, J324, pp. 153–154; Miller, As She Preserved Them, fascículo 9, p. 115; Preest, comentario a J324, p. 106.",
-    lines: [
-      ["Some keep the Sabbath going to Church –", "Algunos guardan el domingo yendo a la Iglesia —"],
-      ["I keep it, staying at Home –", "yo lo guardo quedándome en Casa —"],
-      ["With a Bobolink for a Chorister –", "con un Tordo arrocero por Corista —"],
-      ["And an Orchard, for a Dome –", "y un Huerto de frutales por Cúpula —"],
-      ["Some keep the Sabbath in Surplice –", "Algunos guardan el domingo con Sobrepelliz —"],
-      ["I just wear my Wings –", "yo solo llevo mis Alas —"],
-      ["And instead of tolling the Bell, for Church,", "y en vez de tañer la Campana para la Iglesia,"],
-      ["Our little Sexton – sings.", "nuestro pequeño Sacristán — canta."],
-      ["God preaches, a noted Clergyman –", "Predica Dios, un célebre Clérigo —"],
-      ["And the sermon is never long,", "y el sermón nunca es largo,"],
-      ["So instead of getting to Heaven, at last –", "así que, en vez de llegar al Cielo, al final —"],
-      ["I'm going, all along.", "voy llegando a él, todo el tiempo."]
-    ],
-    notes: [
-      {line: 1, title: "Sabbath y domingo", body: "En el protestantismo de Nueva Inglaterra «Sabbath» designa habitualmente el domingo cristiano, no el sábado judío. Se traduce «domingo» para no confundir el contexto histórico; «guardar el día del Señor» sería otra posibilidad."},
-      {line: 3, title: "Bobolink", body: "Dolichonyx oryzivorus, ave canora norteamericana conocida en español como tordo arrocero. El canto sustituye la música del coro y, en la octava línea, el toque de campana."},
-      {line: 4, title: "Orchard / Dome", body: "El huerto o vergel reemplaza la cúpula arquitectónica de un templo. La imagen transforma un espacio doméstico y natural en lugar de culto sin negar necesariamente a Dios."},
-      {line: 5, title: "Surplice", body: "La sobrepelliz es una vestidura litúrgica. El contraste con las «Wings» desplaza la formalidad del oficio religioso hacia una elevación imaginativa."},
-      {line: 8, title: "Sexton", body: "El sexton se ocupa de la iglesia, su mantenimiento y a menudo las campanas o las sepulturas. El «pequeño Sacristán» vuelve a ser, en este poema, el pájaro que canta."},
-      {line: 9, title: "La voz de Dios", body: "Aunque no entra a la iglesia, la hablante escucha un sermón: no se trata de un simple rechazo de toda experiencia religiosa. Miller presenta «God» entre comillas en el testimonio que imprime, una diferencia significativa respecto del texto Johnson."},
-      {line: 12, title: "El Cielo en presente", body: "La oposición entre «at last» y «all along» cambia la salvación diferida por una experiencia continua. El texto no obliga a identificar cielo con jardín de manera literal; la oración final puede ser una provocación teológica."}
-    ]
-  },
-  J328: {
-    id: "J328", franklin: "F359", approx: "c. 1862",
-    incipit: "A Bird came down the Walk –",
-    titleES: "Un Pájaro bajó por el Sendero",
-    stanzaBreaks: [4, 8, 12, 16],
-    source: "Johnson, The Complete Poems, J328, p. 156; Miller, As She Preserved Them, fascículo 17, hoja 5, pp. 189–190; Preest, comentario a J328, p. 109.",
-    lines: [
-      ["A Bird came down the Walk –", "Un Pájaro bajó por el Sendero —"],
-      ["He did not know I saw –", "no sabía que yo lo veía —"],
-      ["He bit an Angleworm in halves", "partió una Lombriz en dos de un picotazo"],
-      ["And ate the fellow, raw,", "y se comió al pobre bicho, crudo,"],
-      ["And then he drank a Dew", "Y después bebió una gota de Rocío"],
-      ["From a convenient Grass –", "de una Hierba oportuna —"],
-      ["And then hopped sidewise to the Wall", "y luego saltó de costado hacia el Muro"],
-      ["To let a Beetle pass –", "para dejar pasar a un Escarabajo —"],
-      ["He glanced with rapid eyes", "Lanzó miradas con ojos veloces"],
-      ["That hurried all around –", "que se apresuraban en todas direcciones —"],
-      ["They looked like frightened Beads, I thought –", "me parecieron Cuentas asustadas —"],
-      ["He stirred his Velvet Head", "movió su Cabeza de Terciopelo"],
-      ["Like one in danger, Cautious,", "Como quien corre peligro, con cautela,"],
-      ["I offered him a Crumb", "le ofrecí una Migaja"],
-      ["And he unrolled his feathers", "y él desplegó sus plumas"],
-      ["And rowed him softer home –", "y remó hacia su hogar más suavemente —"],
-      ["Than Oars divide the Ocean,", "que los Remos al dividir el Océano,"],
-      ["Too silver for a seam –", "demasiado plateado para dejar una juntura —"],
-      ["Or Butterflies, off Banks of Noon", "o que las Mariposas, desde las Orillas del Mediodía,"],
-      ["Leap, plashless as they swim.", "saltan sin salpicar mientras nadan."]
-    ],
-    notes: [
-      {line: 1, title: "Walk: un espacio humano", body: "«Walk» puede ser paseo, senda o camino de jardín. El pájaro entra en un espacio que la voz humana observa sin que él se sepa observado. Miller imprime el primer verso «A Bird, came down the Walk –», con coma tras Bird; Johnson no la incluye."},
-      {line: 3, title: "Una escena nada idealizada", body: "La primera acción del ave es partir en dos una lombriz y comerla cruda. La descripción combina precisión naturalista, leve humor y violencia alimentaria; impide convertir automáticamente toda naturaleza en una alegoría apacible. En la copia de Miller se registra además una alternativa junto a este verso («He shook –»)."},
-      {line: 5, title: "A Dew: un singular inesperado", body: "El artículo indefinido convierte «dew», normalmente un nombre no contable, en una pequeña porción visible. La traducción agrega «gota» para reproducir la singularización, aunque el original no utiliza esa palabra."},
-      {line: 8, title: "El escarabajo", body: "El movimiento lateral para dejar pasar al escarabajo parece casi una cortesía humana. Esa atribución de intenciones no transforma el episodio en una fábula moral: sigue siendo un movimiento posible de un animal."},
-      {line: 10, title: "Around / abroad", body: "Johnson imprime «That hurried all around –»; Miller, siguiendo la copia del fascículo, lee «That hurried all abroad –». Ambas formulaciones describen un movimiento rápido de la mirada, con matices diferentes."},
-      {line: 11, title: "Las cuentas asustadas", body: "«Beads» evoca pequeños objetos brillantes y redondos. En el paso del ojo animal a una cuenta de vidrio, el poema muestra la percepción del observador más que una descripción estrictamente zoológica."},
-      {line: 13, title: "¿Quién tiene miedo?", body: "Por la sintaxis, «Like one in danger, Cautious» puede calificar a la voz que ofrece la migaja; también hace resonar la alarma del pájaro, cuyas miradas parecían asustadas. La traducción conserva deliberadamente la relación sin fijar una psicología única."},
-      {line: 16, title: "Remar en el aire", body: "El vuelo se expresa mediante un verbo acuático: «rowed». Las comparaciones posteriores entre remos, océano y mariposas hacen que aire y agua intercambien sus propiedades."},
-      {line: 19, title: "Los Bancos del Mediodía", body: "«Banks» puede sugerir orillas de un río o márgenes de una extensión espacial. El mediodía adquiere límites propios, y la desaparición del pájaro se vuelve casi imperceptible."},
-      {line: 20, title: "Una interpretación de Preest", body: "David Preest, siguiendo una lectura de Paul Bennett, distingue observación concreta y vuelo lírico desde el verso 15; propone también entender al pájaro como mensajero celeste. La primera observación describe un cambio formal comprobable; la segunda es una interpretación, no una identificación expresada en el poema."}
-    ]
-  },
-  J341: {
-    "id": "J341",
-    "franklin": "Pendiente de cotejo",
-    "approx": "c. 1862",
-    "incipit": "After great pain, a formal feeling comes –",
-    "titleES": "Tras un gran dolor llega un sentir formal",
-    "source": "Johnson, The Complete Poems, J341, p. 162 (texto base).",
-    "lines": [
-      [
-        "After great pain, a formal feeling comes –",
-        "Tras un gran dolor llega un sentir formal —"
-      ],
-      [
-        "The Nerves sit ceremonious, like Tombs –",
-        "los Nervios se sientan ceremoniosos, como Tumbas —"
-      ],
-      [
-        "The stiff Heart questions was it He, that bore,",
-        "el Corazón rígido pregunta: ¿fue Él quien sufrió,"
-      ],
-      [
-        "And Yesterday, or Centuries before?",
-        "y fue Ayer, o hace Siglos?"
-      ],
-      [
-        "The Feet, mechanical, go round –",
-        "Los Pies, mecánicos, dan vueltas —"
-      ],
-      [
-        "Of Ground, or Air, or Ought –",
-        "sobre Suelo, o Aire, o Nada —"
-      ],
-      [
-        "A Wooden way",
-        "con un andar de Madera,"
-      ],
-      [
-        "Regardless grown,",
-        "ya indiferente,"
-      ],
-      [
-        "A Quartz contentment, like a stone –",
-        "una conformidad de Cuarzo, como una piedra —"
-      ],
-      [
-        "This is the Hour of Lead –",
-        "Esta es la Hora de Plomo —"
-      ],
-      [
-        "Remembered, if outlived,",
-        "recordada, si se sobrevive a ella,"
-      ],
-      [
-        "As Freezing persons, recollect the Snow –",
-        "como quienes se congelan recuerdan la Nieve —"
-      ],
-      [
-        "First – Chill – then Stupor – then the letting go –",
-        "Primero — Frío — luego Estupor — luego dejarse ir —"
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Formal feeling",
-        "body": "«Formal» sugiere una rigidez ceremonial y un orden que sucede al dolor, no necesariamente alivio. El poema estudia el entumecimiento posterior a una experiencia extrema."
-      },
-      {
-        "line": 2,
-        "title": "Nerves sit ceremonious",
-        "body": "Los nervios adquieren postura humana y funeraria. La imagen enlaza con los rituales de J280, aunque el punto de vista y el ritmo son diferentes."
-      },
-      {
-        "line": 3,
-        "title": "He, that bore",
-        "body": "El pronombre «He» puede aludir a Cristo y al sufrimiento que cargó, pero el poema no lo explica expresamente; se conserva la ambigüedad."
-      },
-      {
-        "line": 6,
-        "title": "Ought",
-        "body": "En esta construcción puede sugerir «nada»; la incertidumbre entre suelo, aire y vacío es parte de la desorientación corporal."
-      },
-      {
-        "line": 9,
-        "title": "Quartz contentment",
-        "body": "La dureza mineral vuelve inquietante «contentment»: la quietud parece anestesia o petrificación, no felicidad."
-      },
-      {
-        "line": 10,
-        "title": "Hour of Lead",
-        "body": "El plomo combina peso, rigidez y duración opresiva. El tiempo se convierte en materia."
-      },
-      {
-        "line": 13,
-        "title": "Letting go",
-        "body": "La expresión final puede significar soltarse, ceder o dejar de resistir. No fija un único desenlace: supervivencia, abandono o muerte."
-      }
-    ]
-  },
-  J376: {
-    id: "J376", franklin: "F581", approx: "c. 1862",
-    incipit: "Of Course – I prayed –",
-    titleES: "Por supuesto — recé —",
-    source: "Johnson, The Complete Poems, J376, p. 179; Miller, Emily Dickinson’s Poems: As She Preserved Them, p. 265 (F581); Preest, Emily Dickinson Poems Commentary, comentario de J376, p. 127.",
-    lines: [
-      ["Of Course – I prayed –", "Por supuesto — recé —"],
-      ["And did God Care?", "¿Y a Dios le importó?"],
-      ["He cared as much as on the Air", "Le importó tanto como si, en el Aire,"],
-      ["A Bird – had stamped her foot –", "un Pájaro — hubiera golpeado con su pata —"],
-      ["And cried “Give Me” –", "y gritado: «Dame» —"],
-      ["My Reason – Life –", "Mi Razón — la Vida —"],
-      ["I had not had – but for Yourself –", "no la habría tenido — de no ser por Ti —"],
-      ["’Twere better Charity", "Mayor Caridad habría sido"],
-      ["To leave me in the Atom’s Tomb –", "dejarme en la Tumba del Átomo —"],
-      ["Merry, and Nought, and gay, and numb –", "alegre, y Nada, y jovial, e insensible —"],
-      ["Than this smart Misery.", "que esta Miseria lacerante."]
-    ],
-    notes: [
-      {line: 1, title: "Oración sin respuesta", body: "El texto empieza dando por supuesto que la voz ha rezado, pero el diálogo esperado con Dios queda sustituido por una pregunta acusatoria."},
-      {line: 3, title: "La comparación con el pájaro", body: "El hipotético reclamo del ave al aire no provoca respuesta; la oración humana parece igual de ineficaz. La imagen impide identificar el poema como una plegaria convencional."},
-      {line: 5, title: "«Give Me»: un imperativo", body: "La puntuación deja abierto el encadenamiento exacto de las frases; David Preest propone un corte fuerte después de «Give Me». En la traducción se conserva la respiración fragmentada del original."},
-      {line: 6, title: "Reason – Life", body: "El reproche no se dirige únicamente a la falta de consuelo: cuestiona haber recibido la vida de un Dios que, según la voz, no socorre a su criatura. «Reason» puede indicar la razón o causa de la existencia."},
-      {line: 9, title: "Atom’s Tomb", body: "La tumba del átomo representa un estado anterior o ajeno a la vida consciente. La imagen combina vocabulario científico con una acusación teológica."},
-      {line: 11, title: "Smart Misery", body: "En inglés «smart» puede significar dolor agudo, punzante. Aquí no se usa en el sentido contemporáneo de «inteligente»; «lacerante» intenta expresar el dolor vivo que contrasta con la insensibilidad del verso anterior."},
-      {line: 11, title: "La voz frente a la autora", body: "La intensidad del reproche no demuestra que Dickinson sostuviera siempre una negación de Dios. Como observa Preest, es una de las formulaciones más severas del sufrimiento por una plegaria no atendida."}
-    ]
-  },
-  J441: {
-    id: "J441", franklin: "F519", approx: "c. 1862",
-    incipit: "This is my letter to the World",
-    titleES: "Esta es mi carta al Mundo",
-    source: "Johnson, The Complete Poems, n.º 441, p. 211; Miller, As She Preserved Them, p. 254.",
-    lines: [
-      ["This is my letter to the World", "Esta es mi carta al Mundo"],
-      ["That never wrote to Me –", "que nunca me escribió —"],
-      ["The Simple News that Nature told –", "las sencillas Noticias que la Naturaleza contó —"],
-      ["With tender Majesty", "con tierna Majestad"],
-      ["Her Message is committed", "Su Mensaje queda confiado"],
-      ["To Hands I cannot see –", "a Manos que no puedo ver —"],
-      ["For love of Her – Sweet – countrymen –", "Por amor a Ella — queridos — compatriotas —"],
-      ["Judge tenderly – of Me", "júzguenme con ternura."]
-    ],
-    notes: [
-      {line: 1, title: "¿Qué es «el Mundo»?", body: "La primera persona no implica que el poema sea una autobiografía literal. Una lectura posible contrapone la falta de respuesta del mundo humano con el mensaje de la naturaleza."},
-      {line: 3, title: "News / Nature", body: "La «noticia» no es un hecho aislado: puede aludir al lenguaje de la experiencia natural. El poema no explica qué dijo la Naturaleza; nos obliga a leer el conjunto de su obra como mensaje."},
-      {line: 6, title: "Manos invisibles", body: "Las «manos» pueden ser las de lectores desconocidos o futuros. Esta lectura es una hipótesis, no una identificación garantizada por el texto."},
-      {line: 8, title: "Una súplica sin cierre", body: "El imperativo final pide benevolencia, pero no resuelve quién recibirá la carta ni qué juicio formulará. La traducción mantiene la súplica y no añade una respuesta."}
-    ]
-  },
-  J444: {
-    id: "J444", franklin: "F524", approx: "c. 1862",
-    incipit: "It feels a shame to be Alive –",
-    titleES: "Da vergüenza estar vivo",
-    stanzaBreaks: [4, 8, 12, 16],
-    source: "Johnson, The Complete Poems, J444, p. 213; Miller, As She Preserved Them, fascículo 24, pp. 257–258; Preest, comentario a J444, pp. 149–150; W. Martin, Cambridge Introduction, pp. 34–36.",
-    lines: [
-      ["It feels a shame to be Alive –", "Da vergüenza estar Vivo —"],
-      ["When Men so brave – are dead –", "cuando han muerto Hombres tan valientes —"],
-      ["One envies the Distinguished Dust –", "uno envidia el distinguido Polvo —"],
-      ["Permitted – such a Head –", "al que se le permitió — tal Cabeza —"],
-      ["The Stone – that tells defending Whom", "la Piedra — que dice defendiendo a Quién"],
-      ["This Spartan put away", "este Espartano entregó"],
-      ["What little of Him we – possessed", "lo poco de Él que nosotros — poseíamos"],
-      ["In Pawn for Liberty –", "como Prenda de la Libertad —"],
-      ["The price is great – Sublimely paid –", "El precio es alto — pagado de modo sublime —"],
-      ["Do we deserve – a Thing –", "¿merecemos — algo —"],
-      ["That lives – like Dollars – must be piled", "que vive — y, como Dólares, debe apilarse"],
-      ["Before we may obtain?", "antes de que podamos obtenerlo?"],
-      ["Are we that wait – sufficient worth –", "¿Valemos lo suficiente — quienes esperamos —"],
-      ["That such Enormous Pearl", "para que una Perla tan inmensa"],
-      ["As life – dissolved be – for Us –", "como la vida — se disuelva — por Nosotros —"],
-      ["In Battle's – horrid Bowl?", "en el horrendo Cuenco — de la Batalla?"],
-      ["It may be – a Renown to live –", "Puede ser — una Gloria vivir —"],
-      ["I think the Man who die –", "creo que quienes mueren —"],
-      ["Those unsustained – Saviors –", "esos Salvadores — sin amparo —"],
-      ["Present Divinity –", "son Divinidad presente —"]
-    ],
-    notes: [
-      {line: 1, title: "Vivir después de la muerte ajena", body: "La primera línea plantea una vergüenza de superviviente. El poema no relata una batalla particular; confronta el valor de los muertos con la pregunta de si los vivos merecen su sacrificio."},
-      {line: 3, title: "Distinguished Dust", body: "«Polvo» remite a la mortalidad y la descomposición corporal, mientras «distinguished» concede honor público a lo que parece reducido a materia. La ironía y el elogio permanecen juntos."},
-      {line: 5, title: "La imagen espartana", body: "Como explica Preest, la estela del espartano evoca la defensa de las Termópilas y el epitafio transmitido en Heródoto 7.228. Se trata de una analogía histórica dentro de un poema sobre el sacrificio contemporáneo."},
-      {line: 8, title: "In Pawn for Liberty", body: "El soldado deposita o empeña su propia vida como garantía de libertad. Las imágenes financieras dominan la estrofa siguiente y convierten el sacrificio en un precio inquietante."},
-      {line: 11, title: "Dollars", body: "La acumulación de vidas comparadas con dólares convierte una noción abstracta —la libertad— en una contabilidad moral. No debemos inferir de la comparación una condena inequívoca de una causa concreta: el poema formula preguntas, no un programa político."},
-      {line: 15, title: "Una vida disuelta", body: "La «Perla» preciosa se disuelve en el cuenco de la batalla. El contraste entre joya y recipiente horrendo rompe cualquier entusiasmo simplista por la gloria de guerra."},
-      {line: 18, title: "Man / Men: posible errata de Johnson", body: "Johnson imprime «I think the Man who die», una construcción anómala. Miller lee «Men», igual que Preest, quien señala que «Man» parece una errata editorial. La traducción evita reproducir la anomalía sin silenciarla en esta nota."},
-      {line: 20, title: "Present Divinity", body: "La formulación final puede entenderse como identificación de los muertos con una divinidad presente, en contraste con el reconocimiento humano posterior. No se trata de una afirmación doctrinal precisa."},
-      {line: 1, title: "La Guerra Civil y Frazar Stearns", body: "Wendy Martin relaciona el poema con la muerte del joven Frazar Stearns en New Bern en marzo de 1862; el Emily Dickinson Museum lo considera claramente una respuesta a la Guerra Civil. La ocasión histórica orienta la lectura, pero el poema no nombra a Stearns y su alcance puede ser más general."}
-    ]
-  },
-  J449: {
-    id: "J449", franklin: "F448", approx: "c. 1862",
-    incipit: "I died for Beauty – but was scarce",
-    titleES: "Morí por la Belleza — pero apenas",
-    stanzaBreaks: [4, 8],
-    source: "Johnson, The Complete Poems, J449, p. 215; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 21, p. 225 (F448); Preest, Emily Dickinson Poems Commentary, pp. 151–152.",
-    lines: [
-      ["I died for Beauty – but was scarce", "Morí por la Belleza — pero apenas"],
-      ["Adjusted in the Tomb", "me había acomodado en la Tumba"],
-      ["When One who died for Truth, was lain", "cuando a Alguien que murió por la Verdad lo tendieron"],
-      ["In an adjoining Room –", "en una Habitación contigua —"],
-      ["He questioned softly “Why I failed”?", "Me preguntó en voz baja: «¿Por qué sucumbí?»"],
-      ["“For Beauty”, I replied –", "«Por la Belleza», respondí —"],
-      ["“And I – for Truth – Themself are One –", "«Y yo — por la Verdad — ellas son Una misma —"],
-      ["We Brethren, are”, He said –", "somos Hermanos», dijo Él —"],
-      ["And so, as Kinsmen, met a Night –", "Y así, como Parientes que se encuentran de Noche —"],
-      ["We talked between the Rooms –", "hablábamos entre las Habitaciones —"],
-      ["Until the Moss had reached our lips –", "hasta que el Musgo nos alcanzó los labios —"],
-      ["And covered up – our names –", "y cubrió — nuestros nombres —"]
-    ],
-    notes: [
-      {line: 1, title: "Morir por una abstracción", body: "La voz no relata por qué o cómo murió. «Por la Belleza» puede sugerir una causa estética, moral o intelectual, pero es el poema —no una biografía— el que construye esa posición."},
-      {line: 3, title: "La tumba como habitación", body: "«Room» y «adjoining» vuelven familiar una situación imposible: dos personas fallecidas conversan desde espacios contiguos como vecinos de una casa. La normalidad del escenario hace más inquietante la desaparición final."},
-      {line: 5, title: "Why I failed", body: "El verbo «failed» es ambiguo: puede significar que el recién llegado murió, cayó o fracasó. La traducción «sucumbí» preserva parte de esa ambigüedad, aunque reduce su posible dimensión de fracaso."},
-      {line: 7, title: "Belleza y Verdad: intertextos", body: "Miller recuerda la «Oda a una urna griega» de Keats, pero considera también ecos de Emerson y, especialmente, «A Vision of Poets» de Elizabeth Barrett Browning, cuyos versos sobre morir por la Belleza y la Verdad aparecen marcados en un libro familiar de los Dickinson. No atribuir la imagen únicamente a Keats."},
-      {line: 9, title: "El parentesco", body: "«Kinsmen» convierte la semejanza ideal en parentesco. La conversación continúa hasta que algo más material —el musgo— llega a los cuerpos y deshace el lenguaje."},
-      {line: 12, title: "¿Qué borra el musgo?", body: "El poema afirma que el musgo cubre labios y nombres. Roger Lundin, citado por Preest, señala el límite de la supervivencia, aunque el propio poema que leemos puede mantenerse cuando desaparece el nombre escrito en una tumba. La tensión no se resuelve."},
-      {line: 12, title: "Una diferencia editorial", body: "Miller imprime «Our names» con mayúscula en la copia del fascículo 21. Johnson da «our names». Se conserva aquí la lectura Johnson y se registra la diferencia, sin crear un texto mixto."}
-    ]
-  },
-  J465: {
-    id: "J465", franklin: "F591", approx: "c. 1862–1863",
-    incipit: "I heard a Fly buzz – when I died –",
-    titleES: "Oí zumbar una Mosca — cuando morí —",
-    stanzaBreaks: [4, 8, 12],
-    source: "Johnson, The Complete Poems, J465, pp. 223–224; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 26, p. 270 (F591); Preest, Emily Dickinson Poems Commentary, pp. 156–157.",
-    lines: [
-      ["I heard a Fly buzz – when I died –", "Oí zumbar una Mosca — cuando morí —"],
-      ["The Stillness in the Room", "La Quietud de la Habitación"],
-      ["Was like the Stillness in the Air –", "era como la Quietud en el Aire —"],
-      ["Between the Heaves of Storm –", "entre las Ráfagas de una Tormenta —"],
-      ["The Eyes around – had wrung them dry –", "Los Ojos alrededor — ya se habían exprimido hasta secarse —"],
-      ["And Breaths were gathering firm", "y los Alientos cobraban firmeza"],
-      ["For that last Onset – when the King", "para aquella última Arremetida — cuando el Rey"],
-      ["Be witnessed – in the Room –", "fuese visto — en la Habitación —"],
-      ["I willed my Keepsakes – Signed away", "Legué mis Recuerdos — firmé la cesión"],
-      ["What portion of me be", "de la parte de mí que pudiera"],
-      ["Assignable – and then it was", "transferirse — y entonces fue cuando"],
-      ["There interposed a Fly –", "se interpuso una Mosca —"],
-      ["With Blue – uncertain stumbling Buzz –", "con un Zumbido azul — incierto, vacilante —"],
-      ["Between the light – and me –", "entre la luz — y yo —"],
-      ["And then the Windows failed – and then", "Y entonces las Ventanas fallaron — y entonces"],
-      ["I could not see to see –", "ya no pude ver para ver —"]
-    ],
-    notes: [
-      {line: 1, title: "Una narración imposible", body: "La voz cuenta una escena desde después de su propia muerte. La gramática en pasado no demuestra una existencia consciente tras morir: es la premisa dramática que hace posible el poema."},
-      {line: 3, title: "La quietud entre tormentas", body: "La comparación introduce una suspensión tensa, no una paz asegurada. El aire se calma entre embates, de modo que algo parece estar a punto de suceder."},
-      {line: 5, title: "Los ojos de los presentes", body: "«Wrung them dry» transforma las lágrimas de los acompañantes en un paño que se exprime. El agotamiento del llanto es físico, doméstico e inmediato."},
-      {line: 7, title: "¿Quién es el Rey?", body: "Una lectura religiosa identifica al «King» con Cristo o Dios; otra entiende la llegada majestuosa de la muerte. El poema no fija la identidad y frustra la expectativa en el verso siguiente con una mosca."},
-      {line: 9, title: "Legar lo asignable", body: "La escena del testamento distingue los bienes transferibles de aquello que no puede dejarse por escrito. La muerte es también un acontecimiento jurídico y doméstico, no solo metafísico."},
-      {line: 12, title: "El intruso ordinario", body: "La mosca ocupa el lugar donde parecía que iba a producirse una aparición solemne. Su presencia puede sugerir corporalidad, descomposición o simplemente un zumbido inoportuno; el texto permite varios matices sin confirmar un dogma."},
-      {line: 13, title: "Blue – uncertain stumbling Buzz", body: "La distribución de adjetivos y guiones produce una sensación discontinua; «Blue» puede sugerir color o cualidad sonora. Se mantiene el orden extraño en la traducción."},
-      {line: 16, title: "Ver para ver", body: "La repetición de «see» separa la facultad física de visión de la posibilidad de conocer o percibir algo más. La frase no dice qué se ve después de morir: se corta en la falla misma de la percepción."},
-      {line: 16, title: "Una lectura de Preest", body: "Preest señala que Dickinson imagina el instante de morir pero rehúsa describir qué habría más allá: el poema termina justamente donde debería comenzar un testimonio imposible."}
-    ]
-  },
-  J501: {
-    id: "J501", franklin: "F373", approx: "c. 1862",
-    incipit: "This World is not Conclusion.",
-    titleES: "Este Mundo no es la Conclusión.",
-    source: "Johnson, The Complete Poems, J501, p. 243; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 18, pp. 198–199 (F373); Martin, The Cambridge Introduction to Emily Dickinson, p. 105; Preest, Emily Dickinson Poems Commentary, J501, pp. 167–168.",
-    lines: [
-      ["This World is not Conclusion.", "Este Mundo no es la Conclusión."],
-      ["A Species stands beyond –", "Hay una Especie más allá —"],
-      ["Invisible, as Music –", "invisible, como la Música —"],
-      ["But positive, as Sound –", "pero tan cierta como el Sonido —"],
-      ["It beckons, and it baffles –", "Llama y desconcierta —"],
-      ["Philosophy – don’t know –", "la Filosofía — no lo sabe —"],
-      ["And through a Riddle, at the last –", "y a través de un Enigma, al final —"],
-      ["Sagacity, must go –", "la Sagacidad ha de pasar —"],
-      ["To guess it, puzzles scholars –", "Adivinarlo confunde a los eruditos —"],
-      ["To gain it, Men have borne", "por alcanzarlo, los Hombres han soportado"],
-      ["Contempt of Generations", "el Desprecio de Generaciones"],
-      ["And Crucifixion, shown –", "y aun la Crucifixión, como se ha visto —"],
-      ["Faith slips – and laughs, and rallies –", "La Fe resbala — y ríe, y se recobra —"],
-      ["Blushes, if any see –", "se ruboriza si alguien la ve —"],
-      ["Plucks at a twig of Evidence –", "arranca una ramita de Evidencia —"],
-      ["And asks a Vane, the way –", "y le pregunta el camino a una Veleta —"],
-      ["Much Gesture, from the Pulpit –", "Mucho Gesto desde el Púlpito —"],
-      ["Strong Hallelujahs roll –", "resuenan vigorosos Aleluyas —"],
-      ["Narcotics cannot still the Tooth", "los Narcóticos no pueden calmar el Diente"],
-      ["That nibbles at the soul –", "que roe el alma —"]
-    ],
-    notes: [
-      {line: 1, title: "La afirmación que no cierra la discusión", body: "El poema abre negando que este mundo sea el final, pero los siguientes versos presentan una búsqueda sin prueba concluyente. Wendy Martin subraya que el texto se ocupa más del misterio de la muerte que de una certeza sobre la vida posterior."},
-      {line: 2, title: "Species y alternativa manuscrita", body: "«Species» no identifica claramente qué clase de existencia vendría después. Miller registra «a sequel» como alternativa a «stands» en la copia retenida: la redacción de ese verso no estaba completamente clausurada."},
-      {line: 4, title: "Positivo como sonido", body: "La paradoja separa ver de oír: una realidad podría ser imperceptible para la vista y, aun así, parecer tan contundente como algo audible. Eso no equivale a demostrar que exista."},
-      {line: 6, title: "Filosofía y sabiduría", body: "«Philosophy – don’t know» en Johnson presenta una sintaxis deliberadamente abrupta; Miller lee «Philosophy, don’t know». El texto enfrenta herramientas intelectuales con un enigma que persiste."},
-      {line: 10, title: "Crucifixión y testimonio", body: "La referencia a generaciones que soportaron desprecio y crucifixión remite a martirio y sufrimiento en nombre de una esperanza ultraterrena. No establece que el poema convalide esa experiencia como prueba."},
-      {line: 13, title: "Fe personificada e inestable", body: "La Fe resbala, ríe, se rehace, se avergüenza y busca pruebas. La personificación niega una oposición simple entre creyentes seguros y escépticos racionales."},
-      {line: 15, title: "Evidencia y veleta", body: "Una ramita no equivale a un fundamento, y una veleta no es una brújula fiable. El par puede leerse como sátira de la insuficiencia de las pruebas y del deseo de recibir orientación."},
-      {line: 18, title: "El púlpito no resuelve la duda", body: "Miller registra «Sure» como alternativa a «Strong» en el verso de los aleluyas. El énfasis de la predicación no elimina, por sí solo, el problema intelectual o afectivo."},
-      {line: 19, title: "Narcotics, Tooth y alternativa", body: "La comparación final lleva la pregunta metafísica al dolor físico: el diente que roe el alma ni siquiera se calma con narcóticos. Miller registra «Mouse» como alternativa a «Tooth»."},
-      {line: 20, title: "Tres posiciones críticas", body: "Preest lee el poema como vacilación entre convicción y duda; Wendy Martin destaca la imposibilidad de conocer qué sucede tras la muerte; Miller permite ver que esa indeterminación también se encuentra en las alternativas del manuscrito."}
-    ]
-  },
-  J640: {
-    id: "J640", franklin: "F706", approx: "c. 1862 (Johnson); copia de c. 1863 (Miller)",
-    incipit: "I cannot live with You –",
-    titleES: "No puedo vivir contigo",
-    source: "Johnson, The Complete Poems, J640, pp. 317–318; Miller, As She Preserved Them, F706, fascículo 33, pp. 343–344; Preest, Commentary, J640, pp. 215–216.",
-    lines: [
-      ["I cannot live with You –", "No puedo vivir contigo —"],
-      ["It would be Life –", "eso sería la Vida —"],
-      ["And Life is over there –", "y la Vida está allí, más allá —"],
-      ["Behind the Shelf", "detrás del Estante"],
-      ["The Sexton keeps the Key to –", "del que el Sacristán guarda la Llave —"],
-      ["Putting up", "al guardar"],
-      ["Our Life – His Porcelain –", "nuestra Vida — su Porcelana —"],
-      ["Like a Cup –", "como una Taza —"],
-      ["Discarded of the Housewife –", "desechada por el Ama de casa —"],
-      ["Quaint – or Broke –", "anticuada — o Rota —"],
-      ["A newer Sevres pleases –", "agrada más una Sèvres más nueva —"],
-      ["Old Ones crack –", "las Viejas se agrietan —"],
-      ["I could not die – with You –", "No podría morir — contigo —"],
-      ["For One must wait", "porque Uno debe esperar"],
-      ["To shut the Other's Gaze down –", "para cerrar la Mirada del Otro —"],
-      ["You – could not –", "Tú — no podrías —"],
-      ["And I – Could I stand by", "y yo — ¿podría quedarme mirando"],
-      ["And see You – freeze –", "y verte — helarte —"],
-      ["Without my Right of Frost –", "sin reclamar mi Derecho al Hielo —"],
-      ["Death's privilege?", "el privilegio de la Muerte?"],
-      ["Nor could I rise – with You –", "Tampoco podría resucitar — contigo —"],
-      ["Because Your Face", "porque Tu Rostro"],
-      ["Would put out Jesus' –", "apagaría el de Jesús —"],
-      ["That New Grace", "esa Nueva Gracia"],
-      ["Glow plain – and foreign", "brillaría pálida — y extraña"],
-      ["On my homesick Eye –", "ante mis Ojos que añoran el hogar —"],
-      ["Except that You than He", "si no fuera porque Tú, más que Él,"],
-      ["Shone closer by –", "brillabas más cerca —"],
-      ["They'd judge Us – How –", "Nos juzgarían — ¿cómo? —"],
-      ["For You – served Heaven – You know,", "pues Tú — serviste al Cielo — ya sabes,"],
-      ["Or sought to –", "o lo intentaste —"],
-      ["I could not –", "yo no pude —"],
-      ["Because You saturated Sight –", "porque Tú saturabas la Vista —"],
-      ["And I had no more Eyes", "y ya no me quedaban Ojos"],
-      ["For sordid excellence", "para la mezquina excelencia"],
-      ["As Paradise", "que es el Paraíso."],
-      ["And were You lost, I would be –", "Y si Tú te perdieras, yo también —"],
-      ["Though My Name", "aunque mi Nombre"],
-      ["Rang loudest", "resonara con más fuerza"],
-      ["On the Heavenly fame –", "en la Fama Celestial —"],
-      ["And were You – saved –", "y si Tú — te salvaras —"],
-      ["And I – condemned to be", "y yo — condenada a estar"],
-      ["Where You were not –", "donde Tú no estuvieras —"],
-      ["That self – were Hell to Me –", "eso mismo — sería el Infierno para Mí —"],
-      ["So We must meet apart –", "Así que debemos encontrarnos separados —"],
-      ["You there – I – here –", "Tú allí — yo — aquí —"],
-      ["With just the Door ajar", "con apenas una Puerta entreabierta"],
-      ["That Oceans are – and Prayer –", "hecha de Océanos — y Oración —"],
-      ["And that White Sustenance –", "y ese Blanco Sustento —"],
-      ["Despair –", "la Desesperación —"]
-    ],
-    notes: [
-      {line: 1, title: "La paradoja de la vida", body: "El comienzo parece negar la convivencia y a la vez define esa convivencia como la verdadera «Vida». El razonamiento no elimina la pasión: se organiza alrededor de su imposibilidad."},
-      {line: 5, title: "El sacristán y el armario", body: "La figura eclesiástica custodia una vida comparada con porcelana guardada. Preest propone que la escena dramatiza la restricción religiosa de una relación afectiva; no basta por sí sola para identificar una situación biográfica concreta."},
-      {line: 11, title: "Sèvres", body: "Porcelana francesa de prestigio. El reemplazo de la taza vieja por una nueva combina mercado doméstico, prestigio y fragilidad del vínculo."},
-      {line: 13, title: "Tres imposibilidades", body: "La progresión del poema abre con «no puedo vivir», pasa a «no podría morir» y después a «tampoco resucitar». Preest compara esta organización con un sermón dividido en argumentos y una conclusión."},
-      {line: 15, title: "Cerrar la mirada del otro", body: "El gesto de cerrar los ojos del muerto exige que uno sobreviva a otro. La continuidad de la relación choca con la separación física que impone morir."},
-      {line: 19, title: "Right of Frost", body: "La voz reclama un «derecho» al frío propio de la muerte: no soportaría ver morir a quien ama sin participar de esa congelación. «Derecho al Hielo» conserva la aspereza jurídica y corporal."},
-      {line: 23, title: "Rostro de Jesús y competencia de amores", body: "El amado desplaza incluso la imagen de Jesús. El poema recurre a un imaginario cristiano para expresar una pasión que desordena el sistema de prioridades de la salvación."},
-      {line: 29, title: "El juicio y el cielo", body: "La voz imagina un juicio después de la muerte, pero el Cielo no basta como recompensa si separa a los amantes. La oposición con el Infierno se organiza por proximidad y ausencia."},
-      {line: 35, title: "Sordid excellence / consequence", body: "Miller registra «consequence» como alternativa a «sordid» en el fragmento, cuya disposición exige cautela. No es solo un matiz estilístico: desplaza el sentido de la crítica al Paraíso. Aquí se conserva la lectura de Johnson."},
-      {line: 44, title: "Infierno sin el otro", body: "La frase «Where You were not» redefine la condena como distancia respecto del destinatario. La teología escatológica se convierte en geografía afectiva."},
-      {line: 45, title: "Una unión en la separación", body: "La conclusión «So We must meet apart» no dice simplemente «debemos separarnos», sino que propone un paradójico «encontrarnos separados»."},
-      {line: 48, title: "Océanos y plegaria", body: "La puerta entreabierta es una distancia inmensa, hecha de océanos y oración. La imagen reaprovecha la navegación amorosa que leímos en J249, pero ya no confía en un puerto."},
-      {line: 49, title: "White Sustenance / exercise / privilege", body: "Miller reproduce dos alternativas («exercise», «privilege») a «Sustenance» en la copia retenida; la elección afecta al modo de concebir la desesperación como alimento, ejercicio o prerrogativa."},
-      {line: 50, title: "¿A quién se dirige el poema?", body: "El texto no nombra a Sue, a Bowles, a Wadsworth ni a otro destinatario. Preest lo relaciona con el «Master» de otras interpretaciones, pero esa identificación no es un dato establecido por los versos."}
-    ]
-  },
-  J709: {
-    "id": "J709",
-    "franklin": "F788",
-    "approx": "c. 1863",
-    "incipit": "Publication – is the Auction",
-    "titleES": "Publicar — es subastar",
-    "source": "Johnson J709, pp. 348–349; Miller F788, fascículo 37, p. 386.",
-    "stanzaBreaks": [
-      4,
-      8,
-      12
-    ],
-    "lines": [
-      [
-        "Publication – is the Auction",
-        "Publicar — es subastar"
-      ],
-      [
-        "Of the Mind of Man –",
-        "la Mente del Ser Humano —"
-      ],
-      [
-        "Poverty – be justifying",
-        "La Pobreza — podría justificar"
-      ],
-      [
-        "For so foul a thing",
-        "algo tan infame."
-      ],
-      [
-        "Possibly – but We – would rather",
-        "Quizá — pero Nosotros — preferiríamos"
-      ],
-      [
-        "From Our Garret go",
-        "salir de nuestra Buhardilla"
-      ],
-      [
-        "White – unto the White Creator –",
-        "puros — hacia el Creador puro —"
-      ],
-      [
-        "Than invest – Our Snow –",
-        "antes que invertir — nuestra Nieve —"
-      ],
-      [
-        "Thought belong to Him who gave it –",
-        "El Pensamiento pertenece a Quien lo dio —"
-      ],
-      [
-        "Then – to Him Who bear",
-        "y luego — a Quien lleva"
-      ],
-      [
-        "Its Corporeal illustration – sell",
-        "su manifestación Corpórea — vender"
-      ],
-      [
-        "The Royal Air –",
-        "el Aire Regio —"
-      ],
-      [
-        "In the Parcel – Be the Merchant",
-        "en un Lote — ser Mercader"
-      ],
-      [
-        "Of the Heavenly Grace –",
-        "de la Gracia Celestial —"
-      ],
-      [
-        "But reduce no Human Spirit",
-        "pero no rebajar ningún Espíritu Humano"
-      ],
-      [
-        "To Disgrace of Price –",
-        "a la Vergüenza de un Precio —"
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Auction",
-        "body": "La subasta convierte la publicación en transacción comercial. No equivale a una prohibición universal de publicar: es una voz poética que denuncia la mercantilización del pensamiento."
-      },
-      {
-        "line": 6,
-        "title": "Garret",
-        "body": "La buhardilla es un lugar humilde de creación y retiro, en contraste con el mercado."
-      },
-      {
-        "line": 8,
-        "title": "Snow",
-        "body": "La nieve representa una blancura vulnerable, asociada a integridad y pureza; «invest» la trata como capital."
-      },
-      {
-        "line": 11,
-        "title": "Corporeal illustration",
-        "body": "El pensamiento intangible toma cuerpo en una obra vendible: el poema pregunta quién puede apropiarse de ese acto."
-      },
-      {
-        "line": 16,
-        "title": "Precio y dignidad",
-        "body": "La estrofa final contrapone la gracia celestial a la reducción del espíritu a mercancía. El poema figura en el fascículo 37 según Miller."
-      }
-    ]
-  },
-  J712: {
-    id: "J712", franklin: "F479", approx: "c. 1862",
-    incipit: "Because I could not stop for Death –",
-    titleES: "Como no podía detenerme por la Muerte —",
-    stanzaBreaks: [4, 8, 12, 16, 20],
-    source: "Johnson, The Complete Poems, J712, pp. 349–350; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 23, pp. 239–240 (F479); Preest, Emily Dickinson Poems Commentary, pp. 241–242. Sobre la edición póstuma de 1890: Dartmouth, White Heat, «Because I could not stop for Death» (F479).",
-    lines: [
-      ["Because I could not stop for Death –", "Como no podía detenerme por la Muerte —"],
-      ["He kindly stopped for me –", "Él tuvo la amabilidad de detenerse por mí —"],
-      ["The Carriage held but just Ourselves –", "El Carruaje solo nos llevaba a Nosotros —"],
-      ["And Immortality.", "y a la Inmortalidad."],
-      ["We slowly drove – He knew no haste", "Avanzábamos despacio — Él no conocía la prisa"],
-      ["And I had put away", "y yo había dejado de lado"],
-      ["My labor and my leisure too,", "mi trabajo y también mi ocio,"],
-      ["For His Civility –", "por Su Cortesía —"],
-      ["We passed the School, where Children strove", "Pasamos por la Escuela, donde los Niños se afanaban"],
-      ["At Recess – in the Ring –", "en el Recreo — formando un Corro —"],
-      ["We passed the Fields of Gazing Grain –", "Pasamos por los Campos de Grano que miraba —"],
-      ["We passed the Setting Sun –", "Pasamos por el Sol Poniente —"],
-      ["Or rather – He passed Us –", "O más bien — Él nos pasó —"],
-      ["The Dews drew quivering and Chill –", "El Rocío nos envolvió, tembloroso y Frío —"],
-      ["For only Gossamer, my Gown –", "porque mi Vestido era apenas de Gasa —"],
-      ["My Tippet – only Tulle –", "mi Manteleta — solo de Tul —"],
-      ["We paused before a House that seemed", "Nos detuvimos ante una Casa que parecía"],
-      ["A Swelling of the Ground –", "una Hinchazón del Suelo —"],
-      ["The Roof was scarcely visible –", "el Techo apenas se distinguía —"],
-      ["The Cornice – in the Ground –", "la Cornisa — estaba en la Tierra —"],
-      ["Since then – ’tis Centuries – and yet", "Desde entonces — han pasado Siglos — y, sin embargo,"],
-      ["Feels shorter than the Day", "parecen más breves que el Día"],
-      ["I first surmised the Horses’ Heads", "en que por primera vez sospeché que las Cabezas de los Caballos"],
-      ["Were toward Eternity –", "apuntaban hacia la Eternidad —"]
-    ],
-    notes: [
-      {line: 1, title: "Una muerte cortés", body: "La muerte aparece como un hombre que detiene su carruaje y ofrece un paseo. Esa personificación evita el horror explícito, pero es inquietante precisamente por su normalidad."},
-      {line: 4, title: "La tercera pasajera", body: "La «Inmortalidad» comparte el carruaje, aunque no actúa ni habla. Su presencia no demuestra por sí sola que la travesía termine en una vida posterior comprobable."},
-      {line: 5, title: "La cortesía cambia el tiempo", body: "El viaje es lento, y la hablante deja atrás tanto el trabajo como el ocio. La vida social organizada por actividades cede ante un ritmo que no controla."},
-      {line: 9, title: "La escuela y el grano", body: "La infancia y la maduración agrícola permiten leer un recorrido por etapas de la vida o por distintas escalas del tiempo. Es una interpretación, no una equivalencia alegórica declarada por la autora."},
-      {line: 11, title: "Fields of Gazing Grain", body: "«Gazing» atribuye al grano la facultad de mirar. En español, «de Grano que miraba» intenta no perder la personificación; evita sustituirla por «grano dorado» u otra imagen que no está en el verso."},
-      {line: 13, title: "¿Quién pasa a quién?", body: "«Or rather – He passed Us –» corrige el verso anterior: no está claro que los viajeros dejen atrás el sol; es el sol el que los sobrepasa. La corrección modifica la orientación de la escena y anuncia el frío posterior."},
-      {line: 14, title: "Ropa insuficiente", body: "Gossamer y Tulle son materiales ligeros. La delicadeza de la vestimenta transforma la cortesía inicial en exposición al frío, con una evidente fragilidad corporal."},
-      {line: 18, title: "La casa enterrada", body: "La «Casa» que parece una elevación del suelo es una tumba: el techo apenas visible y la cornisa bajo tierra condensan lo doméstico y lo funerario."},
-      {line: 21, title: "Centuries: una voz fuera del tiempo", body: "Han pasado siglos desde el viaje y, sin embargo, parecen más cortos que un solo día. El poema modifica la duración y la perspectiva de la voz, sin ofrecer una descripción verificable del más allá."},
-      {line: 23, title: "Una lectura alternativa de Sewall y Ruth Miller", body: "Preest recoge la interpretación de Richard Sewall y Ruth Miller según la cual la cabalgata figura el descubrimiento temprano de la vocación de Dickinson: escribir sobre muerte e inmortalidad. Es una hipótesis distinta de la lectura convencional desde el sepulcro y debe presentarse como tal."},
-      {line: 24, title: "La versión de 1890", body: "En su primera publicación póstuma, bajo el título editorial «The Chariot», Todd y Higginson omitieron la estrofa que empieza «Or rather – He passed Us –» y regularizaron otras partes. La presente edición conserva los 24 versos de Johnson y permite cotejarlos con Miller (F479)."}
-    ]
-  },
-  J986: {
-    id: "J986", franklin: "F1096", approx: "c. 1865",
-    incipit: "A narrow Fellow in the Grass",
-    titleES: "Un sujeto estrecho entre la Hierba",
-    stanzaBreaks: [4, 8, 12, 16, 20],
-    source: "Johnson, The Complete Poems, J986, pp. 459–460; Miller, As She Preserved Them, hoja suelta 54, pp. 489–490; Preest, comentario a J986, pp. 319–320; Martin, Cambridge Introduction, pp. 113–115.",
-    lines: [
-      ["A narrow Fellow in the Grass", "Un Sujeto estrecho entre la Hierba"],
-      ["Occasionally rides –", "de vez en cuando cabalga —"],
-      ["You may have met Him – did you not", "Quizá te lo hayas encontrado — y si no,"],
-      ["His notice sudden is –", "de golpe se hace notar —"],
-      ["The Grass divides as with a Comb –", "La Hierba se abre como bajo un Peine —"],
-      ["A spotted shaft is seen –", "se deja ver una vara moteada —"],
-      ["And then it closes at your feet", "y luego se cierra a tus pies"],
-      ["And opens further on –", "y vuelve a abrirse más allá —"],
-      ["He likes a Boggy Acre", "Le gusta una Parcela pantanosa"],
-      ["A Floor too cool for Corn –", "un Suelo demasiado fresco para el Maíz —"],
-      ["Yet when a Boy, and Barefoot –", "Pero cuando era Niño, y andaba Descalzo —"],
-      ["I more than once at Noon", "más de una vez al Mediodía"],
-      ["Have passed, I thought, a Whip lash", "pasé junto a lo que creí la tralla de un Látigo"],
-      ["Unbraiding in the Sun", "destrenzándose al Sol"],
-      ["When stooping to secure it", "y al agacharme para recogerla"],
-      ["It wrinkled, and was gone –", "se onduló y desapareció —"],
-      ["Several of Nature's People", "A varias Gentes de la Naturaleza"],
-      ["I know, and they know me –", "conozco, y ellas me conocen —"],
-      ["I feel for them a transport", "siento por ellas un arrebato"],
-      ["Of cordiality –", "de cordialidad —"],
-      ["But never met this Fellow", "Pero nunca encontré a este Sujeto"],
-      ["Attended, or alone", "acompañado o a solas,"],
-      ["Without a tighter breathing", "sin que se me apretara el aliento"],
-      ["And Zero at the Bone –", "y sintiera el Cero en los Huesos —"]
-    ],
-    notes: [
-      {line: 1, title: "Adivinanza: la criatura sin nombre", body: "El poema no dice «snake» en ningún momento. Los detalles de las seis estrofas permiten inferir que se trata de una serpiente, pero la identificación forma parte del recorrido de lectura. El título «The Snake» fue añadido por los editores de su publicación en 1866, destruyendo ese efecto inicial."},
-      {line: 2, title: "Rides", body: "El verbo «rides» humaniza a la criatura al sugerir que monta o cabalga, aunque se describe un avance sobre la hierba. La traducción conserva la extrañeza en lugar de normalizarlo como «se arrastra»."},
-      {line: 3, title: "El verso que Dickinson defendió", body: "En la publicación de 1866 se añadió puntuación al final de la tercera línea, separándola de la cuarta. Dickinson se quejó ante Higginson de que, para ella, ambas formaban una unidad. Nuestra versión procura leer «did you not / His notice sudden is» como «si no lo conociste, su presencia se anuncia de improviso»."},
-      {line: 5, title: "Una marca que se borra", body: "El peine abre una raya y la hierba vuelve a cerrarse: se percibe al animal por el efecto fugaz que produce en el terreno. La imagen depende tanto del ocultamiento como de lo visible."},
-      {line: 6, title: "Spotted shaft", body: "«Shaft» puede significar vara o tallo; «spotted» sugiere manchas en la superficie. El poema registra algo que aparece a trozos antes de proporcionar al lector suficiente información para reconocerlo."},
-      {line: 9, title: "Boggy Acre / Corn", body: "Los campos cenagosos y suelos demasiado frescos para el maíz sitúan al animal en un hábitat concreto. El contraste con el cultivo humano reitera que la naturaleza no está siempre ordenada para nuestras necesidades."},
-      {line: 11, title: "La voz «cuando era Niño»", body: "El texto adopta «when a Boy», y por eso la traducción mantiene «Niño». No obliga a identificar la voz del poema literalmente con la biografía o el género de Dickinson: la hablante poética puede representar una experiencia o una máscara."},
-      {line: 13, title: "Whip lash", body: "La apariencia de una correa de látigo que se destrenza al sol prolonga la adivinanza y el movimiento del animal. Al intentar tomar el objeto, la voz descubre que estaba vivo."},
-      {line: 17, title: "Nature's People", body: "La naturaleza aparece como una comunidad de personas. Sin embargo, las estrofas finales ponen un límite a esa cordialidad: familiaridad no equivale a confianza universal."},
-      {line: 24, title: "Zero at the Bone", body: "Una cifra abstracta, «Zero», nombra una sensación física extrema: un frío que atraviesa el cuerpo hasta los huesos. Puede sugerir tanto el miedo súbito como una experiencia radical de alteridad."},
-      {line: 1, title: "Historia de publicación", body: "El Springfield Daily Republican publicó el poema el 14 de febrero de 1866 como «The Snake», con alteraciones editoriales; Dickinson escribió a Thomas Wentworth Higginson el 17 de marzo de 1866 para protestar, especialmente por la puntuación. Véase Miller, nota a la hoja 54, y Emily Dickinson Museum, «Poems Published in Dickinson's Lifetime»."}
-    ]
-  },
-  J1129: {
-    "id": "J1129",
-    "franklin": "F1263",
-    "approx": "c. 1868 (Johnson); c. 1872 (Miller)",
-    "incipit": "Tell all the Truth but tell it slant –",
-    "titleES": "Decí toda la Verdad, pero de sesgo",
-    "stanzaBreaks": [
-      4
-    ],
-    "source": "Johnson J1129, pp. 506–507; Miller F1263, p. 563, poemas sueltos; variantes «bold» y «moderately».",
-    "lines": [
-      [
-        "Tell all the Truth but tell it slant –",
-        "Decí toda la Verdad, pero decila de sesgo —"
-      ],
-      [
-        "Success in Circuit lies",
-        "el éxito está en el Rodeo"
-      ],
-      [
-        "Too bright for our infirm Delight",
-        "Demasiado brillante para nuestro frágil Deleite"
-      ],
-      [
-        "The Truth's superb surprise",
-        "es la soberbia sorpresa de la Verdad"
-      ],
-      [
-        "As Lightning to the Children eased",
-        "Como el Relámpago, suavizado para los Niños"
-      ],
-      [
-        "With explanation kind",
-        "mediante una explicación amable"
-      ],
-      [
-        "The Truth must dazzle gradually",
-        "la Verdad debe deslumbrar gradualmente"
-      ],
-      [
-        "Or every man be blind –",
-        "o todos quedarán ciegos —"
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Slant",
-        "body": "No propone mentir: exige un modo oblicuo de transmitir una verdad que excede la recepción inmediata. «De sesgo» preserva la orientación espacial."
-      },
-      {
-        "line": 2,
-        "title": "Circuit",
-        "body": "Circuito, rodeo o vía indirecta: el sentido puede necesitar un trayecto no rectilíneo."
-      },
-      {
-        "line": 3,
-        "title": "Variantes de Miller",
-        "body": "Miller registra «bold» como alternativa a «bright» en el manuscrito, y «moderately» a «gradually» más adelante. La primera altera el tipo de intensidad; la segunda, el ritmo de exposición."
-      },
-      {
-        "line": 5,
-        "title": "Relámpago",
-        "body": "La explicación dirigida a los niños amortigua el choque de una iluminación repentina. La metáfora se puede leer como reflexión sobre la propia técnica poética."
-      },
-      {
-        "line": 8,
-        "title": "Cronología",
-        "body": "Johnson fecha el poema hacia 1868; Miller sitúa el testimonio que edita hacia 1872. No se unifican estas fechas artificialmente."
-      }
-    ]
-  },
-  J1212: {
-    "id": "J1212",
-    "franklin": "F278",
-    "approx": "c. 1872 (Johnson); copia enviada a Frances Norcross probablemente a comienzos de 1862 (Miller)",
-    "incipit": "A word is dead",
-    "titleES": "Una palabra muere",
-    "source": "Johnson J1212, p. 534; Miller F278, p. 702, «Poems Not Retained», versión dirigida a Frances Norcross.",
-    "lines": [
-      [
-        "A word is dead",
-        "Una palabra muere"
-      ],
-      [
-        "When it is said,",
-        "cuando se pronuncia,"
-      ],
-      [
-        "Some say.",
-        "dicen algunos."
-      ],
-      [
-        "I say it just",
-        "Yo digo que apenas"
-      ],
-      [
-        "Begins to live",
-        "empieza a vivir"
-      ],
-      [
-        "That day.",
-        "ese día."
-      ]
-    ],
-    "notes": [
-      {
-        "line": 1,
-        "title": "Una palabra viva",
-        "body": "El poema contrapone una teoría del lenguaje como pérdida a otra en la que la enunciación inaugura una vida pública y relacional."
-      },
-      {
-        "line": 3,
-        "title": "Some say / I say",
-        "body": "La forma mínima pone en escena una discusión: no afirma un consenso, sino una posición personal frente a una opinión ajena."
-      },
-      {
-        "line": 6,
-        "title": "Versiones y cronología",
-        "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
-      }
-    ]
-  },
-  J54: {
+J54: {
     "id": "J54",
     "franklin": null,
     "approx": "1858",
@@ -5573,7 +4431,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J55: {
+J55: {
     "id": "J55",
     "franklin": null,
     "approx": "1858",
@@ -5602,7 +4460,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "commentary": "La cortesía diminuta adquiere una vida secreta: el gesto recibido germina fuera de la vista.",
     "notes": []
   },
-  J56: {
+J56: {
     "id": "J56",
     "franklin": null,
     "approx": "1858",
@@ -5647,7 +4505,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "commentary": "Las flores son prácticas de memoria y vínculo. Solo la muerte interrumpiría la costumbre de ofrendarlas.",
     "notes": []
   },
-  J57: {
+J57: {
     "id": "J57",
     "franklin": null,
     "approx": "1858",
@@ -5684,7 +4542,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "commentary": "El poema desplaza el valor de lo cotidiano hacia su fragilidad: el tiempo común puede arrebatar la vida.",
     "notes": []
   },
-  J58: {
+J58: {
     "id": "J58",
     "franklin": null,
     "approx": "1859",
@@ -5775,7 +4633,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  J59: {
+J59: {
     "id": "J59",
     "franklin": null,
     "approx": "1859",
@@ -5944,7 +4802,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El crepúsculo se convierte en una ceremonia de retirada, pero la voz poética cuestiona qué significa que alguien «se haya ido». El áster y el narciso oponen a la fórmula del alejamiento una argumentación vegetal: la desaparición visible no prueba necesariamente la aniquilación. La ironía del cierre hace de la naturaleza una filósofa.",
   "preest": null
 },
-  J60: {
+J60: {
   "id": "J60",
   "franklin": null,
   "approx": "1859",
@@ -6031,7 +4889,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El crepúsculo se convierte en una ceremonia de retirada, pero la voz poética cuestiona qué significa que alguien «se haya ido». El áster y el narciso oponen a la fórmula del alejamiento una argumentación vegetal: la desaparición visible no prueba necesariamente la aniquilación. La ironía del cierre hace de la naturaleza una filósofa.",
   "preest": null
 },
-  J61: {
+J61: {
   "id": "J61",
   "franklin": null,
   "approx": "1859",
@@ -6097,7 +4955,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La petición invierte las jerarquías religiosas y zoológicas: el pequeño animal perseguido reclama la misma hospitalidad celestial que las almas humanas. El humor no cancela la compasión; la vuelve concreta, imaginando una eternidad donde el ratón pueda alimentarse sin miedo mientras transcurre el tiempo cósmico.",
   "preest": null
 },
-  J62: {
+J62: {
   "id": "J62",
   "franklin": null,
   "approx": "1859",
@@ -6159,7 +5017,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema discute con el lenguaje paulino de la resurrección: las fórmulas de deshonra y corrupción resultan insuficientes ante la dignidad de aquello que renace.",
   "preest": null
 },
-  J63: {
+J63: {
   "id": "J63",
   "franklin": null,
   "approx": "1859",
@@ -6231,7 +5089,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La serie condicional no ofrece una certeza doctrinal: ensaya la posibilidad de que el dolor, el invierno y la noche sean preparación para una plenitud desmesurada.",
   "preest": null
 },
-  J64: {
+J64: {
   "id": "J64",
   "franklin": null,
   "approx": "1859",
@@ -6356,7 +5214,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La primavera irrumpe como desfile, feria y ejército sin general: la acumulación de imágenes convierte el paisaje en una aparición que desborda cualquier clasificación.",
   "preest": null
 },
-  J65: {
+J65: {
   "id": "J65",
   "franklin": null,
   "approx": "1859",
@@ -6461,7 +5319,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La experiencia de abril se presenta como conocimiento compartido pero inefable. La etiqueta social reduce lo extraordinario a conversación trivial; la imagen del manual infantil propone una pedagogía gradual de lo sublime.",
   "preest": null
 },
-  J66: {
+J66: {
   "id": "J66",
   "franklin": null,
   "approx": "1859",
@@ -6527,7 +5385,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La germinación y la metamorfosis desbaratan la confianza de la observación humana: incluso quienes viven cerca de la naturaleza quedan sorprendidos.",
   "preest": null
 },
-  J67: {
+J67: {
   "id": "J67",
   "franklin": null,
   "approx": "1859",
@@ -6599,7 +5457,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J68: {
+J68: {
   "id": "J68",
   "franklin": null,
   "approx": "c. 1859",
@@ -6653,7 +5511,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte concede una eminencia paradójica: lo que la ambición no consigue en vida llega cuando ya no puede disfrutarse.",
   "preest": null
 },
-  J69: {
+J69: {
   "id": "J69",
   "franklin": null,
   "approx": "c. 1859",
@@ -6707,7 +5565,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El cálculo personal se ve desplazado por un enigma de escala superior. La pregunta final no resuelve el conflicto entre conocimiento y desconcierto.",
   "preest": null
 },
-  J70: {
+J70: {
   "id": "J70",
   "franklin": null,
   "approx": "c. 1859",
@@ -6867,7 +5725,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La sátira de la clasificación científica no niega la observación: protesta contra la sustitución de una relación vivida por etiquetas, vitrinas y mapas. El final recobra una teología íntima, infantil y deliberadamente anticuada.",
   "preest": null
 },
-  J71: {
+J71: {
   "id": "J71",
   "franklin": null,
   "approx": "c. 1859",
@@ -6921,7 +5779,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La definición inicial reduce la muerte a señales corporales; la segunda estrofa explora el dolor de quienes quedan y la posibilidad de reunión.",
   "preest": null
 },
-  J72: {
+J72: {
   "id": "J72",
   "franklin": null,
   "approx": "c. 1859",
@@ -6992,7 +5850,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El esplendor visible contrasta con el silencio; el recuerdo no depende de un monumento, sino de la naturaleza y los visitantes anónimos.",
   "preest": null
 },
-  J73: {
+J73: {
   "id": "J73",
   "franklin": null,
   "approx": "c. 1859",
@@ -7080,7 +5938,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La recompensa se mide por la privación previa. La imaginería de conquista, revolución y promoción militar convierte la experiencia de sufrir en una credencial ambigua.",
   "preest": null
 },
-  J74: {
+J74: {
   "id": "J74",
   "franklin": null,
   "approx": "c. 1859",
@@ -7168,7 +6026,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La llegada de la primavera se representa como una resurrección doméstica: las brisas limpian la casa del paisaje antes de que aparezcan sus huéspedes.",
   "preest": null
 },
-  J75: {
+J75: {
   "id": "J75",
   "franklin": null,
   "approx": "c. 1859",
@@ -7227,7 +6085,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J76: {
+J76: {
   "id": "J76",
   "franklin": null,
   "approx": "c. 1859",
@@ -7287,7 +6145,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J77: {
+J77: {
   "id": "J77",
   "franklin": null,
   "approx": "c. 1859",
@@ -7347,7 +6205,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J78: {
+J78: {
   "id": "J78",
   "franklin": null,
   "approx": "c. 1859",
@@ -7445,7 +6303,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J79: {
+J79: {
   "id": "J79",
   "franklin": null,
   "approx": "c. 1859",
@@ -7587,7 +6445,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J80: {
+J80: {
   "id": "J80",
   "franklin": null,
   "approx": "c. 1859",
@@ -7655,7 +6513,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "preest": null
 }
 ,
-  J81: {
+J81: {
   "id": "J81",
   "franklin": null,
   "approx": "c. 1859",
@@ -7731,7 +6589,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La flor mínima funciona como una llave de la memoria y de la imaginación religiosa. El jardín perdido reaparece como una escena de abundancia sensorial, y el trono celestial se puebla de aves y plantas comunes.",
   "preest": null
 },
-  J82: {
+J82: {
   "id": "J82",
   "franklin": null,
   "approx": "c. 1859",
@@ -7798,7 +6656,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema transforma el hallazgo de una flor en una escena casi funeraria. El rescate puede ser también una extracción de su medio: la mirada que pretende proteger no sabe distinguir el rostro del sudario.",
   "preest": null
 },
-  J83: {
+J83: {
   "id": "J83",
   "franklin": null,
   "approx": "c. 1859",
@@ -7908,7 +6766,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "Una canción casual, ajena al sufrimiento de quien escucha, produce un alivio que ninguna argumentación podría proporcionar. La voz no pide una cura permanente, sino la repetición de un instante de gracia involuntaria.",
   "preest": null
 },
-  J84: {
+J84: {
   "id": "J84",
   "franklin": null,
   "approx": "c. 1859",
@@ -7967,7 +6825,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz renuncia a las credenciales del lujo y del poder para reivindicar una intimidad humilde. Frente a perlas, coronas y escudos, el gorrión ofrece una permanencia construida con materiales mínimos.",
   "preest": null
 },
-  J85: {
+J85: {
   "id": "J85",
   "franklin": null,
   "approx": "c. 1859",
@@ -8026,7 +6884,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema proyecta el rechazo afectivo sobre la figura de Jesús y vuelve solidarias la vulnerabilidad divina y la de una margarita. La desproporción de las figuras es precisamente su gesto de audacia.",
   "preest": null
 },
-  J86: {
+J86: {
   "id": "J86",
   "franklin": null,
   "approx": "c. 1859",
@@ -8080,7 +6938,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El ramo fija en una ofrenda lo que en el jardín es tránsito y movimiento. La delicadeza del gesto no elimina su paradoja: para regalar las flores hay que separarlas de su vida.",
   "preest": null
 },
-  J87: {
+J87: {
   "id": "J87",
   "franklin": null,
   "approx": "c. 1859",
@@ -8116,7 +6974,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La súbita ruptura entre expectativa y realidad ocupa apenas cuatro versos. El objeto de la espera no desaparece necesariamente: vive, pero bajo otra luz, inaccesible a quien aguardaba.",
   "preest": null
 },
-  J88: {
+J88: {
   "id": "J88",
   "franklin": null,
   "approx": "c. 1859",
@@ -8175,7 +7033,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La pérdida altera la escala del valor: lo ausente pesa más que la suma de lo presente. La metáfora matemática revela el fracaso de cualquier cálculo objetivo del afecto.",
   "preest": null
 },
-  J89: {
+J89: {
   "id": "J89",
   "franklin": null,
   "approx": "c. 1859",
@@ -8239,7 +7097,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La clasificación comienza como una oposición clara entre movimiento y permanencia, pero una tercera categoría la deshace. La pregunta final renuncia a convertir el misterio en sistema.",
   "preest": null
 },
-  J90: {
+J90: {
   "id": "J90",
   "franklin": null,
   "approx": "c. 1859",
@@ -8297,7 +7155,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La oportunidad perdida se expresa mediante una proximidad casi insoportable: nada impedía el encuentro salvo el desfase temporal. La violeta convierte la ausencia en una forma discreta de belleza.",
   "preest": null
 },
-  J91: {
+J91: {
   "id": "J91",
   "franklin": null,
   "approx": "c. 1859",
@@ -8368,7 +7226,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La flor arrancada se convierte en una figura de intimidad y violencia: el gesto de apropiación amorosa es también un robo. El secreto final protege la identidad del destinatario, no la inocencia del acto.",
   "preest": null
 },
-  J92: {
+J92: {
   "id": "J92",
   "franklin": null,
   "approx": "c. 1859",
@@ -8418,7 +7276,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La amistad se formula como un acertijo natural: el ser amado reúne rasgos incompatibles de pájaro, mortal y abeja. La identidad permanece abierta.",
   "preest": null
 },
-  J93: {
+J93: {
   "id": "J93",
   "franklin": null,
   "approx": "c. 1859",
@@ -8545,7 +7403,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El aniversario de una muerte se relata como la partida de un viajero. Los preparativos de embarque y el ascenso suavizan la pérdida sin suprimir la incertidumbre de su destino.",
   "preest": null
 },
-  J94: {
+J94: {
   "id": "J94",
   "franklin": null,
   "approx": "c. 1859",
@@ -8599,7 +7457,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "Las dos escenas repiten los mismos gestos, pero la sonrisa se transforma en suspiro y la frescura del rocío en sequedad. El poema no explica si los ángeles protegen o arrebatan las flores.",
   "preest": null
 },
-  J95: {
+J95: {
   "id": "J95",
   "franklin": null,
   "approx": "c. 1859",
@@ -8653,7 +7511,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El ramo floral funciona como mensaje para quienes no pueden acceder al mundo abierto. El poema sitúa la solidaridad en un gesto mínimo, sin prometer una liberación inmediata.",
   "preest": null
 },
-  J96: {
+J96: {
   "id": "J96",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -8707,7 +7565,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La hablante visita una tumba para preparar, con nidos y semillas, un paisaje de regreso. La nieve no desaparece por un milagro explícito: se retira gradualmente, mientras las flores y el canto orientan hacia quien duerme. La escena puede leerse como esperanza de resurrección o como resistencia afectiva a la clausura de la muerte.",
   "preest": null
 },
-  J97: {
+J97: {
   "id": "J97",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -8761,7 +7619,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El arcoíris y las flores no argumentan en sentido filosófico, pero convencen a la hablante. Dickinson pone en tensión la prueba lógica y una forma de conocimiento sensible: la naturaleza atestigua sin formular proposiciones, mientras la voz poética convierte esa presencia en una declaración.",
   "preest": null
 },
-  J98: {
+J98: {
   "id": "J98",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -8849,7 +7707,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte se presenta como una promoción social universal. La pompa del entierro concede incluso a quienes carecen de títulos un rango imposible de rechazar. El efecto es ambiguo: consuela la igualdad de destino, pero la insistencia en carruajes, lacayos y reverencias introduce una ironía sobre la teatralidad de los honores fúnebres.",
   "preest": null
 },
-  J99: {
+J99: {
   "id": "J99",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -8903,7 +7761,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El jardín cambia de habitantes, pero no de ciclos. Los niños que juegan arriba y quienes duermen abajo comparten el mismo terreno; la primavera y la nieve regresan indiferentes a las sustituciones humanas. La repetición de «New» y «still» contrapone renovación biográfica y persistencia estacional.",
   "preest": null
 },
-  J100: {
+J100: {
   "id": "J100",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -8973,7 +7831,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema traslada una técnica de reconstrucción científica a la imaginación estacional. Del mismo modo que un hueso permite conjeturar un animal desaparecido, una flor mínima permite anticipar la multitud de formas de la primavera. La ciencia no queda ridiculizada: su lógica inferencial se vuelve una forma de esperanza.",
   "preest": null
 },
-  J101: {
+J101: {
   "id": "J101",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9043,7 +7901,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La mañana se vuelve un país desconocido: la voz no da por supuesta la llegada de la luz y solicita un mapa a quienes parecen conocer otros mundos.",
   "preest": null
 },
-  J102: {
+J102: {
   "id": "J102",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9079,7 +7937,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La ofrenda humilde adopta el lenguaje ceremonioso de Roma: una margarita desarma, por contraste, la grandilocuencia del poder.",
   "preest": null
 },
-  J103: {
+J103: {
   "id": "J103",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9174,7 +8032,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La soberanía del «Rey» es afectiva y ambigua. La posibilidad de verlo en sueños determina si el mundo despierto será celebración o silencio.",
   "preest": null
 },
-  J104: {
+J104: {
   "id": "J104",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9262,7 +8120,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La elegía se expresa en gestos mínimos: pisar con cuidado, proteger del ruido una tumba, dejar temblar la voz.",
   "preest": null
 },
-  J105: {
+J105: {
   "id": "J105",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9314,7 +8172,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El cuerpo parece abatido, pero la mente no acepta necesariamente esa inclinación. La ligereza de telaraña y gasa convierte la apariencia en algo precario.",
   "preest": null
 },
-  J106: {
+J106: {
   "id": "J106",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9385,7 +8243,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El heliotropismo se dramatiza como cortejo amoroso. El plural final permite que la flor represente a una comunidad de amantes.",
   "preest": null
 },
-  J107: {
+J107: {
   "id": "J107",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9439,7 +8297,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La diminuta embarcación personifica la fragilidad frente al mar seductor y depredador.",
   "preest": null
 },
-  J108: {
+J108: {
   "id": "J108",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9475,7 +8333,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La cirugía se representa como una intervención sobre algo vivo e imprevisible: la vida misma aparece como «culpable» bajo el bisturí.",
   "preest": null
 },
-  J109: {
+J109: {
   "id": "J109",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9527,7 +8385,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El trabajo de la fragua se vuelve figura de un vínculo que busca hacerse indestructible: el remache promete una unión definitiva, pero exige esfuerzo y renuncia al reposo.",
   "preest": null
 },
-  J110: {
+J110: {
   "id": "J110",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9571,7 +8429,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La contemplación de la naturaleza se describe con vocabulario pictórico: sus colores rivalizan con la labor de los artistas.",
   "preest": null
 },
-  J111: {
+J111: {
   "id": "J111",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9623,7 +8481,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La familiaridad con los seres naturales contrasta con el interrogante final: la intimidad no cancela el misterio del verano.",
   "preest": null
 },
-  J112: {
+J112: {
   "id": "J112",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9691,7 +8549,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El cielo se imagina mediante la suspensión del ruido, el trabajo y la disciplina; la cita de Moisés desplaza la visión religiosa hacia una geografía del descanso.",
   "preest": null
 },
-  J113: {
+J113: {
   "id": "J113",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9743,7 +8601,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema distribuye noche y mañana como porciones de una experiencia compartida, hasta que la promesa del día sucede a la desorientación.",
   "preest": null
 },
-  J114: {
+J114: {
   "id": "J114",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9795,7 +8653,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz convierte el desconocimiento de la muerte en una conversación irreverente con el cielo: quiere averiguar, no aceptar una respuesta ritual.",
   "preest": null
 },
-  J115: {
+J115: {
   "id": "J115",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1859",
@@ -9855,7 +8713,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La tumba aparece como una posada extraña y desprovista de hospitalidad. La pregunta final vuelve inquietante la identidad de sus huéspedes.",
   "preest": null
 },
-  J116: {
+J116: {
     "id": "J116",
     "franklin": null,
     "approx": "c. 1859",
@@ -9943,7 +8801,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El litigio contra Dios convierte la teología en un problema de justicia distributiva.",
     "preest": null
   },
-  J117: {
+J117: {
     "id": "J117",
     "franklin": null,
     "approx": "c. 1859",
@@ -9995,7 +8853,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El poema altera la distancia entre mendicidad y nobleza.",
     "preest": null
   },
-  J118: {
+J118: {
     "id": "J118",
     "franklin": null,
     "approx": "c. 1859",
@@ -10047,7 +8905,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La voz lleva la lógica del enfrentamiento hasta el absurdo.",
     "preest": null
   },
-  J119: {
+J119: {
     "id": "J119",
     "franklin": null,
     "approx": "c. 1859",
@@ -10099,7 +8957,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La imaginación puede hacer intolerable la privación.",
     "preest": null
   },
-  J120: {
+J120: {
     "id": "J120",
     "franklin": null,
     "approx": "c. 1859",
@@ -10155,7 +9013,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El ocaso espléndido subvierte las categorías de morir y desaparecer.",
     "preest": null
   },
-  J121: {
+J121: {
     "id": "J121",
     "franklin": null,
     "approx": "c. 1859",
@@ -10223,7 +9081,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La promesa del cielo adquiere sentido desde la necesidad, pero su realidad permanece condicional.",
     "preest": null
   },
-  J122: {
+J122: {
     "id": "J122",
     "franklin": null,
     "approx": "c. 1859",
@@ -10338,7 +9196,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El verano se vuelve una experiencia inagotable de percepción y asombro.",
     "preest": null
   },
-  J123: {
+J123: {
     "id": "J123",
     "franklin": null,
     "approx": "c. 1859",
@@ -10374,7 +9232,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "Un viaje comprimido en cuatro versos juega con la distancia geográfica.",
     "preest": null
   },
-  J124: {
+J124: {
     "id": "J124",
     "franklin": null,
     "approx": "c. 1859",
@@ -10426,7 +9284,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La geografía sublime se convierte en pregunta íntima.",
     "preest": null
   },
-  J125: {
+J125: {
     "id": "J125",
     "franklin": null,
     "approx": "c. 1859",
@@ -10480,7 +9338,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El placer y el dolor obedecen a una inquietante contabilidad emocional.",
     "preest": null
   },
-  J126: {
+J126: {
   "id": "J126",
   "franklin": null,
   "approx": "c. 1859",
@@ -10541,7 +9399,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La valentía íntima recibe honores que ninguna nación concede; la procesión angélica reemplaza el desfile militar.",
   "preest": null
 },
-  J127: {
+J127: {
   "id": "J127",
   "franklin": null,
   "approx": "c. 1859",
@@ -10586,7 +9444,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La promesa evangélica de las muchas moradas se convierte en una pregunta infantil por el refugio y su accesibilidad.",
   "preest": null
 },
-  J128: {
+J128: {
   "id": "J128",
   "franklin": null,
   "approx": "c. 1859",
@@ -10695,7 +9553,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La enumeración de preguntas transforma la observación de la naturaleza en una demanda de libertad espiritual; la casa final puede leerse como encierro corporal o intelectual.",
   "preest": null
 },
-  J129: {
+J129: {
   "id": "J129",
   "franklin": null,
   "approx": "c. 1859",
@@ -10756,7 +9614,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La metamorfosis es una figura de conocimiento y emancipación, no solo un episodio de historia natural.",
   "preest": null
 },
-  J130: {
+J130: {
   "id": "J130",
   "franklin": null,
   "approx": "c. 1859",
@@ -10841,7 +9699,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El breve retorno del calor aparece como una liturgia engañosa y a la vez deseada: la hablante conoce el artificio estacional, pero pide participar.",
   "preest": null
 },
-  J131: {
+J131: {
     "id": "J131",
     "franklin": null,
     "approx": "c. 1859",
@@ -10918,7 +9776,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La estación aparece entre los tópicos literarios del otoño y el deseo de una disposición interior capaz de soportar el cambio.",
     "preest": null
   },
-  J132: {
+J132: {
     "id": "J132",
     "franklin": null,
     "approx": "c. 1859",
@@ -11019,7 +9877,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La copa pasa del intento fallido de salvar una vida a la esperanza de aliviar la sed de otra persona.",
     "preest": null
   },
-  J133: {
+J133: {
     "id": "J133",
     "franklin": null,
     "approx": "c. 1859",
@@ -11064,7 +9922,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "Las flores y los niños comparten el ciclo del sueño y el despertar.",
     "preest": null
   },
-  J134: {
+J134: {
     "id": "J134",
     "franklin": null,
     "approx": "c. 1859",
@@ -11117,7 +9975,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La flor no es mercancía: el préstamo queda sujeto al tiempo natural.",
     "preest": null
   },
-  J135: {
+J135: {
     "id": "J135",
     "franklin": null,
     "approx": "c. 1859",
@@ -11154,7 +10012,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El conocimiento se construye por contraste, pérdida y privación.",
     "preest": null
   },
-  J136: {
+J136: {
     "id": "J136",
     "franklin": null,
     "approx": "c. 1859",
@@ -11231,7 +10089,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El arroyo interior sostiene la vida, pero también es vulnerable a los extremos estacionales.",
     "preest": null
   },
-  J137: {
+J137: {
     "id": "J137",
     "franklin": null,
     "approx": "c. 1859",
@@ -11300,7 +10158,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La belleza floral desborda las categorías humanas y desplaza la autoridad estética hacia las mariposas.",
     "preest": null
   },
-  J138: {
+J138: {
   "id": "J138",
   "franklin": null,
   "approx": "c. 1859",
@@ -11393,7 +10251,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La flor recibe títulos nobiliarios y una genealogía de lujo europeo, pero su soberanía culmina en el modesto dominio del abejorro.",
   "preest": null
 },
-  J139: {
+J139: {
   "id": "J139",
   "franklin": null,
   "approx": "c. 1859",
@@ -11445,7 +10303,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La salvación aparece como apuesta electoral y juego de azar; no se resuelve quién elige el destino del alma.",
   "preest": null
 },
-  J140: {
+J140: {
   "id": "J140",
   "franklin": null,
   "approx": "c. 1859",
@@ -11534,7 +10392,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La primavera contesta con hechos sensibles a la pregunta bíblica por el renacimiento.",
   "preest": null
 },
-  J141: {
+J141: {
   "id": "J141",
   "franklin": null,
   "approx": "c. 1859",
@@ -11602,7 +10460,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La tumba adopta gestos maternales, pero los gorriones inadvertidos cuestionan la providencia.",
   "preest": null
 },
-  J142: {
+J142: {
   "id": "J142",
   "franklin": null,
   "approx": "c. 1859",
@@ -11746,7 +10604,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "Las flores dormidas se vuelven criaturas de una guardería natural. El juego infantil convive con la imagen de lechos y con el ciclo estacional del despertar.",
   "preest": null
 },
-  J143: {
+J143: {
   "id": "J143",
   "franklin": null,
   "approx": "c. 1859",
@@ -11844,7 +10702,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La búsqueda del chochín sirve para ironizar sobre la ambición social; la alondra encarna una alegría sin pretensiones de rango.",
   "preest": null
 },
-  J144: {
+J144: {
   "id": "J144",
   "franklin": null,
   "approx": "c. 1859",
@@ -11932,7 +10790,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El sufrimiento prolongado transforma la figura discreta de una mujer en una presencia coronada. La gloria celestial conserva su timidez terrestre.",
   "preest": null
 },
-  J145: {
+J145: {
   "id": "J145",
   "franklin": null,
   "approx": "c. 1859",
@@ -11986,7 +10844,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte detiene la persecución y resguarda, al fin, una vulnerabilidad que no encontró reposo en vida.",
   "preest": null
 },
-  J146: {
+J146: {
   "id": "J146",
   "franklin": null,
   "approx": "c. 1859",
@@ -12102,7 +10960,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte infantil aparece primero como una ausencia casi imperceptible; el inventario de juegos y labores hace insoportable la desproporción entre una vida prometedora y su término.",
   "preest": null
 },
-  J147: {
+J147: {
   "id": "J147",
   "franklin": null,
   "approx": "c. 1859",
@@ -12154,7 +11012,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El lenguaje militar convierte la separación en una escena de heroísmo y permite imaginar un reencuentro más allá del peligro.",
   "preest": null
 },
-  J148: {
+J148: {
   "id": "J148",
   "franklin": null,
   "approx": "c. 1859",
@@ -12232,7 +11090,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La elegía por Charlotte Brontë transforma su tumba en jaula abandonada y su obra sufriente en tránsito hacia una acogida celestial.",
   "preest": null
 },
-  J149: {
+J149: {
   "id": "J149",
   "franklin": null,
   "approx": "c. 1859",
@@ -12284,7 +11142,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El retorno regular del rocío contrasta con la irreversibilidad de una pérdida; la astronomía tampoco consigue explicar el vacío afectivo.",
   "preest": null
 },
-  J150: {
+J150: {
   "id": "J150",
   "franklin": null,
   "approx": "c. 1859",
@@ -12336,7 +11194,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte se cuenta como una partida doméstica: una figura pequeña toma sus cosas y cruza una puerta que los vivos no pueden franquear.",
   "preest": null
 },
-  J151: {
+J151: {
   "id": "J151",
   "franklin": null,
   "approx": "c. 1859",
@@ -12388,7 +11246,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz imagina una ceremonia de soberanía y se coloca entre los cortesanos más pequeños: la devoción busca reconocimiento sin renunciar a su modestia.",
   "preest": null
 },
-  J152: {
+J152: {
   "id": "J152",
   "franklin": null,
   "approx": "c. 1860",
@@ -12469,7 +11327,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El atardecer se transforma en maniobra de ejércitos y despierta en la observadora un entusiasmo bélico que se deshace en el espacio doméstico vacío.",
   "preest": null
 },
-  J153: {
+J153: {
   "id": "J153",
   "franklin": null,
   "approx": "c. 1860",
@@ -12562,7 +11420,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La muerte es simultáneamente un ciudadano sin antecedentes, un trabajador puntual y un ladrón; el poema desmonta la tranquilidad de las explicaciones religiosas.",
   "preest": null
 },
-  J154: {
+J154: {
   "id": "J154",
   "franklin": null,
   "approx": "c. 1860",
@@ -12633,7 +11491,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema corrige la medida pública del valor: una flor aparentemente prescindible constituye para otra criatura el centro de su mundo.",
   "preest": null
 },
-  J155: {
+J155: {
   "id": "J155",
   "franklin": null,
   "approx": "c. 1860",
@@ -12721,7 +11579,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "Tres fenómenos mínimos —zumbido, color y amanecer— conducen a una experiencia de trascendencia que la hablante no puede explicar sin destruirla.",
   "preest": null
 },
-  J156: {
+J156: {
   "id": "J156",
   "franklin": null,
   "approx": "c. 1860",
@@ -12820,7 +11678,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La súplica amorosa exige certeza imposible: la amenaza no es solo la ausencia, sino la reaparición de una herida después de una tregua.",
   "preest": null
 },
-  J157: {
+J157: {
   "id": "J157",
   "franklin": null,
   "approx": "c. 1860",
@@ -12916,7 +11774,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El oído descubre una música que no puede localizarse: entre naturaleza, armonía cósmica y liturgia de los muertos, ninguna explicación agota su intensidad.",
   "preest": null
 },
-  J158: {
+J158: {
   "id": "J158",
   "franklin": null,
   "approx": "c. 1860",
@@ -12987,7 +11845,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La agonía oscila entre el auxilio religioso que no llega y la presencia íntima que sí llega: el consuelo decisivo es humano.",
   "preest": null
 },
-  J159: {
+J159: {
   "id": "J159",
   "franklin": null,
   "approx": "c. 1860",
@@ -13058,7 +11916,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz ensaya una ética de la suficiencia: unas pocas provisiones y una gloria mínima bastan para sostener una vida consciente.",
   "preest": null
 },
-  J160: {
+J160: {
   "id": "J160",
   "franklin": null,
   "approx": "c. 1860",
@@ -13157,7 +12015,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El regreso desde el umbral de la muerte convierte a la hablante en testigo de una frontera que todavía no puede describir por completo.",
   "preest": null
 },
-  J161: {
+J161: {
   "id": "J161",
   "franklin": null,
   "approx": "c. 1860",
@@ -13209,7 +12067,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El ave se convierte en un teatro cósmico: su canto enlaza amanecer, estaciones y ciclos temporales.",
   "preest": null
 },
-  J162: {
+J162: {
   "id": "J162",
   "franklin": null,
   "approx": "c. 1860",
@@ -13257,7 +12115,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El río que habla pide al mar una respuesta: el movimiento natural se transforma en negociación afectiva.",
   "preest": null
 },
-  J163: {
+J163: {
   "id": "J163",
   "franklin": null,
   "approx": "c. 1860",
@@ -13350,7 +12208,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La hablante prefiere su condición humilde a una elegancia vulnerable y proyecta esa elección hacia un verano que no acaba.",
   "preest": null
 },
-  J164: {
+J164: {
   "id": "J164",
   "franklin": null,
   "approx": "c. 1860",
@@ -13402,7 +12260,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La maternidad trasciende la muerte mediante una imagen de cuidado que traslada al cielo el lenguaje del nido.",
   "preest": null
 },
-  J165: {
+J165: {
   "id": "J165",
   "franklin": null,
   "approx": "c. 1860",
@@ -13473,7 +12331,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La energía visible puede ser síntoma del daño: el júbilo no contradice el sufrimiento, sino que puede encubrirlo.",
   "preest": null
 },
-  J166: {
+J166: {
   "id": "J166",
   "franklin": null,
   "approx": "c. 1860",
@@ -13641,7 +12499,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La hablante confiere soberanía a unos viajeros pobres. La ironía de los títulos aristocráticos culmina en una inversión de la jerarquía: la realeza auténtica podría residir en la dignidad de quienes carecen de insignias.",
   "preest": null
 },
-  J167: {
+J167: {
   "id": "J167",
   "franklin": null,
   "approx": "c. 1860",
@@ -13746,7 +12604,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La experiencia de la carencia se vuelve una educación paradójica: se conoce lo deseado precisamente por no poseerlo. La última estrofa sugiere que quienes sufren cantan una música que los observadores menos atentos no pueden oír.",
   "preest": null
 },
-  J168: {
+J168: {
   "id": "J168",
   "franklin": null,
   "approx": "c. 1860",
@@ -13872,7 +12730,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La clasificación científica y la revelación aparecen como modos distintos de mirar una misma realidad. El poema no elimina la diferencia de conocimiento: cuestiona que esa diferencia autorice a despreciar al observador menos instruido.",
   "preest": null
 },
-  J169: {
+J169: {
   "id": "J169",
   "franklin": null,
   "approx": "c. 1860",
@@ -13998,7 +12856,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La caja conserva restos materiales de vínculos que el tiempo ha debilitado. El gesto final, fingir indiferencia después de abrirla, muestra la tensión entre la persistencia afectiva de los objetos y la necesidad cotidiana de seguir viviendo.",
   "preest": null
 },
-  J170: {
+J170: {
     "id": "J170",
     "franklin": null,
     "approx": "c. 1860",
@@ -14028,7 +12886,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "El retrato transfigura la apariencia ordinaria como el poniente transforma la luz del día.",
     "preest": null
   },
-  J171: {
+J171: {
     "id": "J171",
     "franklin": null,
     "approx": "c. 1860",
@@ -14110,7 +12968,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La muerte anula las jerarquías terrenales y reviste de majestad al cuerpo socialmente insignificante.",
     "preest": null
   },
-  J172: {
+J172: {
     "id": "J172",
     "franklin": null,
     "approx": "c. 1860",
@@ -14199,7 +13057,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La apuesta absoluta vuelve igualmente vertiginosos el fracaso y el cumplimiento: hasta el cielo realizado podría aniquilar al yo.",
     "preest": null
   },
-  J173: {
+J173: {
   "id": "J173",
   "franklin": null,
   "approx": "c. 1860",
@@ -14303,7 +13161,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El retrato de la oruga adopta un vocabulario cortesano y textil: terciopelo, damasco, seda. El desenlace transforma una descripción naturalista en una pregunta por la autoridad de quien nombra y divulga la metamorfosis.",
   "preest": null
 },
-  J174: {
+J174: {
   "id": "J174",
   "franklin": null,
   "approx": "c. 1860",
@@ -14347,7 +13205,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La identificación prometida se representa como llegada a la luz después de una travesía nocturna. La distancia entre los pies y el Día mantiene la intensidad del deseo aun cuando parece anunciarse su cumplimiento.",
   "preest": null
 },
-  J175: {
+J175: {
   "id": "J175",
   "franklin": null,
   "approx": "c. 1860",
@@ -14451,7 +13309,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El volcán sirve como modelo de una conciencia que contiene un dolor inmenso sin alterar su apariencia. Pompeya introduce una segunda temporalidad: lo enterrado podría ser reconocido por una mirada futura, amorosa y arqueológica.",
   "preest": null
 },
-  J176: {
+J176: {
   "id": "J176",
   "franklin": null,
   "approx": "c. 1860",
@@ -14529,7 +13387,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz de la flor hace de su perseverancia una virtud, no una falta de adaptación. El humor de llamar anticuados al Edén y a los pájaros invierte la acusación de anacronismo.",
   "preest": null
 },
-  J177: {
+J177: {
   "id": "J177",
   "franklin": null,
   "approx": "c. 1860",
@@ -14579,7 +13437,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La invocación al mago pide aprender no a sanar sino a producir un dolor invulnerable a la medicina. La ambigüedad entre poder poético, seducción y daño queda abierta.",
   "preest": null
 },
-  J178: {
+J178: {
   "id": "J178",
   "franklin": null,
   "approx": "c. 1860",
@@ -14678,7 +13536,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La clasificación prudente de lo duradero fracasa cuando desaparece precisamente lo preservado. El lenguaje agrícola desemboca en una interrogación íntima al corazón.",
   "preest": null
 },
-  J179: {
+J179: {
   "id": "J179",
   "franklin": null,
   "approx": "c. 1860",
@@ -14772,7 +13630,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La súplica adopta la forma de una oferta desmesurada: flores, música y perseverancia. El consentimiento final podría ser compasión, cansancio o expulsión.",
   "preest": null
 },
-  J180: {
+J180: {
   "id": "J180",
   "franklin": null,
   "approx": "c. 1860",
@@ -14837,7 +13695,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El traslado de una flor polar al Edén produce extrañeza antes que una moraleja cerrada. El último verso entrega al lector la responsabilidad de inferir.",
   "preest": null
 },
-  J181: {
+J181: {
   "id": "J181",
   "franklin": null,
   "approx": "c. 1860",
@@ -14885,7 +13743,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La pérdida cósmica se anuncia como un aviso de objeto extraviado. La riqueza monetaria resulta incapaz de medir el valor de ese mundo.",
   "preest": null
 },
-  J182: {
+J182: {
   "id": "J182",
   "franklin": null,
   "approx": "c. 1860",
@@ -14933,7 +13791,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La memoria de la hablante se confía a un gesto doméstico mínimo. La piedra funeraria vuelve imposible el agradecimiento, pero no su intención.",
   "preest": null
 },
-  J183: {
+J183: {
   "id": "J183",
   "franklin": null,
   "approx": "c. 1860",
@@ -14981,7 +13839,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La música transforma sin transmitir un mensaje verbal descifrable. La referencia bernardina sugiere una devoción intensificada sin adscripción institucional segura.",
   "preest": null
 },
-  J184: {
+J184: {
   "id": "J184",
   "franklin": null,
   "approx": "c. 1860",
@@ -15029,7 +13887,25 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La voz satiriza la pretensión de exhibir o diagramar la experiencia extática: una revelación enjaulada se convertiría en espectáculo de feria.",
   "preest": null
 },
-  J186: {
+J185: {
+    id: "J185", franklin: "F202", approx: "c. 1860",
+    incipit: "“Faith” is a fine invention",
+    titleES: "La «Fe» es un buen invento",
+    source: "Johnson, The Complete Poems, J185, p. 87; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículos, pp. 119 y 137 (F202); Preest, Emily Dickinson Poems Commentary, comentario de J185, pp. 57–58.",
+    lines: [
+      ["“Faith” is a fine invention", "La «Fe» es un buen invento"],
+      ["When Gentlemen can see –", "cuando los Caballeros pueden ver —"],
+      ["But Microscopes are prudent", "pero los Microscopios son prudentes"],
+      ["In an Emergency.", "en una Emergencia."]
+    ],
+    notes: [
+      {line: 1, title: "Comillas en «Faith»", body: "Johnson encierra «Faith» entre comillas; una copia conservada que imprime Miller (F202) comienza sin ellas. No hay que borrar la discrepancia: las comillas hacen que la palabra misma quede bajo examen."},
+      {line: 2, title: "Gentlemen: ¿quiénes ven?", body: "El sujeto puede leerse como un grupo social con autoridad, o como quienes se consideran capaces de ver sin prueba instrumental. La ironía se dirige a un tipo de seguridad, no exige deducir un credo personal definitivo de la poeta."},
+      {line: 3, title: "El microscopio como método", body: "El instrumento pone a prueba lo que no se percibe a simple vista. «Prudente» no significa omnisciente: la observación científica tampoco resuelve sin más todas las cuestiones religiosas."},
+      {line: 4, title: "Emergency: crisis y contexto", body: "El remate puede aludir a una crisis de creencia, pero Preest recoge además la hipótesis de Richard Sewall y Ruth Miller: en una carta a Samuel Bowles, el poema podría intervenir irónicamente en la decisión de publicar o no versos de Dickinson. No se presenta esa interpretación como única."}
+    ]
+  },
+J186: {
   "id": "J186",
   "franklin": null,
   "approx": "c. 1860",
@@ -15107,7 +13983,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El deseo o la inquietud interior se materializa como un perro insistente. La apelación final a Carlo introduce un animal real en una escena de afecto figurado.",
   "preest": null
 },
-  J187: {
+J187: {
   "id": "J187",
   "franklin": null,
   "approx": "c. 1860",
@@ -15172,7 +14048,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El cuerpo de una mujer muerta aparece por sus manos y su dedal, instrumentos de trabajo doméstico. La vida exterior prosigue indiferente.",
   "preest": null
 },
-  J188: {
+J188: {
   "id": "J188",
   "franklin": null,
   "approx": "c. 1860",
@@ -15246,7 +14122,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema pide imágenes que suplan una estación ausente. El juego verbal intercambia atributos de flores y mariposas y rechaza la llegada del otoño.",
   "preest": null
 },
-  J189: {
+J189: {
   "id": "J189",
   "franklin": null,
   "approx": "c. 1860",
@@ -15275,5 +14151,1129 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "notes": [],
   "interpretation": "La escala mínima del gesto emocional contrasta con sus consecuencias extremas: llorar y suspirar se vuelven trabajos mortales.",
   "preest": null
-}
+},
+J249: {
+    id: "J249", franklin: "F269", approx: "c. 1861",
+    incipit: "Wild Nights – Wild Nights!",
+    titleES: "¡Noches salvajes — noches salvajes!",
+    stanzaBreaks: [4,8],
+    source: "Johnson, The Complete Poems, J249, p. 114; Miller, As She Preserved Them, F269, fascículo 11, p. 133; Preest, Commentary, J249, pp. 78–79.",
+    lines: [
+      ["Wild Nights – Wild Nights!", "¡Noches salvajes — noches salvajes!"],
+      ["Were I with thee", "Si yo estuviera contigo,"],
+      ["Wild Nights should be", "las Noches salvajes serían"],
+      ["Our luxury!", "nuestro lujo."],
+      ["Futile – the Winds –", "Inútiles — los Vientos —"],
+      ["To a Heart in port –", "para un Corazón a salvo en puerto —"],
+      ["Done with the Compass –", "ya sin necesidad de Brújula —"],
+      ["Done with the Chart!", "¡ni de Cartas de navegación!"],
+      ["Rowing in Eden –", "Remando en el Edén —"],
+      ["Ah, the Sea!", "¡Ah, el Mar!"],
+      ["Might I but moor – Tonight –", "¡Si pudiera siquiera amarrar — esta Noche —"],
+      ["In Thee!", "en Ti!"]
+    ],
+    notes: [
+      {line: 1, title: "Exclamación, no confesión directa", body: "La voz no identifica a la persona destinataria ni narra una experiencia pasada: abre una posibilidad deseada. La forma exclamativa concentra intensidad sin revelar un nombre."},
+      {line: 2, title: "Were I with thee", body: "La inversión del condicional («Si estuviera contigo») introduce una situación hipotética. Como observa Preest, no permite inferir de inmediato un encuentro real o ya ocurrido."},
+      {line: 4, title: "Luxury", body: "«Lujo» apunta al exceso y al placer, no simplemente a la tranquilidad. El aparente refugio de la segunda estrofa convive con una sensualidad muy intensa."},
+      {line: 6, title: "Corazón en puerto", body: "La tormenta ya no tiene poder para quien se siente acogido. Los términos «Compass», «Chart», «Rowing» y «moor» mantienen una metáfora náutica consistente en las tres estrofas."},
+      {line: 8, title: "Chart", body: "Se traduce por «cartas de navegación», no por «gráfico»: son mapas usados para orientar la nave, ahora innecesarios en la intimidad del puerto."},
+      {line: 9, title: "Edén y erotismo", body: "La palabra bíblica no elimina la dimensión sensual. Preest registra una lectura de Ruth Miller que ve en el poema un anhelo de Jesús o el cielo, pero objeta que esa lectura no agota el lenguaje erótico."},
+      {line: 11, title: "Tonight / tonight", body: "Johnson imprime «Tonight» con mayúscula; la copia presentada por Miller usa «tonight». También difieren ciertas pausas («Ah, the Sea!» frente a «Ah – the Sea!»). Conservamos a Johnson como base."},
+      {line: 12, title: "¿Quién es «thee»?", body: "No hay destinatario nombrado. Las atribuciones a Sue, Samuel Bowles u otra figura biográfica son hipótesis contextuales que deben distinguirse del texto. Preest recoge, por ejemplo, la propuesta de Judith Farr acerca de Bowles."}
+    ]
+  },
+J254: {
+    id: "J254", franklin: "F314", approx: "c. 1861–1862",
+    incipit: "“Hope” is the thing with feathers –",
+    titleES: "«Esperanza» es esa cosa con plumas",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J254, p. 116; Miller, As She Preserved Them, fascículo 13, hoja 2, p. 150; Preest, comentario a J254, p. 80.",
+    lines: [
+      ["“Hope” is the thing with feathers –", "«Esperanza» es esa cosa con plumas —"],
+      ["That perches in the soul –", "que se posa en el alma —"],
+      ["And sings the tune without the words –", "y canta la melodía sin palabras —"],
+      ["And never stops – at all –", "y no se detiene — jamás —"],
+      ["And sweetest – in the Gale – is heard –", "Y se oye más dulce — en el vendaval —"],
+      ["And sore must be the storm –", "y muy dura ha de ser la tormenta —"],
+      ["That could abash the little Bird", "capaz de amedrentar al Pajarito"],
+      ["That kept so many warm –", "que a tantos dio calor —"],
+      ["I’ve heard it in the chillest land –", "Lo he oído en la tierra más helada —"],
+      ["And on the strangest Sea –", "y en el Mar más extraño —"],
+      ["Yet, never, in Extremity,", "y, sin embargo, nunca, en la mayor penuria,"],
+      ["It asked a crumb – of Me.", "me pidió una migaja — a Mí."]
+    ],
+    notes: [
+      {line: 1, title: "Un poema de definición", body: "El sustantivo abstracto Hope aparece entre comillas. La definición no se desarrolla como argumento conceptual: la esperanza se vuelve pájaro, canto y acto de resistencia. David Preest compara el poema con una entrada de diccionario transformada en imagen."},
+      {line: 2, title: "Ritmo de himno", body: "El poema se apoya en el ritmo de himnos de alternancia aproximada de cuatro y tres acentos (8 y 6 sílabas métricas inglesas). No conviene forzar una escansión mecánica: los guiones introducen pausas significativas."},
+      {line: 4, title: "La interrupción que niega la interrupción", body: "La secuencia «never stops – at all» afirma una continuidad, pero se lee mediante pausas. La puntuación hace oír la insistencia sin volverla completamente fluida."},
+      {line: 5, title: "Inversión y énfasis", body: "El orden más corriente sería «is heard sweetest in the Gale». Al comenzar con «And sweetest», Dickinson adelanta el grado máximo y retrasa el verbo."},
+      {line: 6, title: "Rima y disonancia", body: "Las estrofas no repiten una correspondencia sonora perfectamente uniforme: soul/all es más aproximada que storm/warm o Sea/Me en numerosas pronunciaciones del inglés. La música combina expectativas y desviaciones."},
+      {line: 12, title: "Gratuidad de la esperanza", body: "La diminuta «crumb» contrasta con el alcance de las tormentas y mares anteriores. La voz no dice que la esperanza nunca flaquee; formula una experiencia personal de algo que sostiene sin exigir compensación."}
+    ]
+  },
+J258: {
+    "id": "J258",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1861",
+    "incipit": "There's a certain Slant of light,",
+    "titleES": "Hay cierta inclinación de la luz",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Johnson, The Complete Poems, J258, pp. 118–119 (texto base).",
+    "lines": [
+      [
+        "There's a certain Slant of light,",
+        "Hay cierta inclinación de la luz,"
+      ],
+      [
+        "Winter Afternoons –",
+        "en las tardes de invierno —"
+      ],
+      [
+        "That oppresses, like the Heft",
+        "que oprime, como el peso"
+      ],
+      [
+        "Of Cathedral Tunes –",
+        "de las melodías de catedral —"
+      ],
+      [
+        "Heavenly Hurt, it gives us –",
+        "Nos inflige una herida celestial —"
+      ],
+      [
+        "We can find no scar,",
+        "no podemos hallar cicatriz,"
+      ],
+      [
+        "But internal difference,",
+        "sino una diferencia interior,"
+      ],
+      [
+        "Where the Meanings, are –",
+        "allí donde están los sentidos —"
+      ],
+      [
+        "None may teach it – Any –",
+        "Nadie puede enseñarla — nadie —"
+      ],
+      [
+        "'Tis the Seal Despair –",
+        "es el Sello de la Desesperación —"
+      ],
+      [
+        "An imperial affliction",
+        "una aflicción imperial"
+      ],
+      [
+        "Sent us of the Air –",
+        "que nos envía el Aire —"
+      ],
+      [
+        "When it comes, the Landscape listens –",
+        "Cuando llega, el Paisaje escucha —"
+      ],
+      [
+        "Shadows – hold their breath –",
+        "las Sombras — contienen el aliento —"
+      ],
+      [
+        "When it goes, 'tis like the Distance",
+        "cuando se va, es como la Distancia"
+      ],
+      [
+        "On the look of Death –",
+        "en la mirada de la Muerte —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Slant",
+        "body": "La inclinación de la luz es un fenómeno perceptible, pero la carga emocional que se le atribuye no puede verse: el poema desplaza una observación óptica al interior de la conciencia."
+      },
+      {
+        "line": 3,
+        "title": "Heft",
+        "body": "El término indica peso o gravedad física; la música de catedral adquiere una materialidad opresiva."
+      },
+      {
+        "line": 5,
+        "title": "Heavenly Hurt",
+        "body": "La paradoja reúne procedencia celestial y herida. No obliga a entenderla como gracia religiosa ni como condena."
+      },
+      {
+        "line": 8,
+        "title": "Meanings",
+        "body": "El plural evita reducir la diferencia interior a una sola explicación. La puntuación mantiene abierta la relación entre sensación y significado."
+      },
+      {
+        "line": 10,
+        "title": "Seal Despair",
+        "body": "El sello convierte la desesperación en una marca de autoridad; el adjetivo «imperial» refuerza su carácter soberano e impuesto."
+      },
+      {
+        "line": 16,
+        "title": "Distancia en la muerte",
+        "body": "La retirada de la luz deja una expresión comparable a la mirada de la muerte. No es la muerte misma sino una semejanza perceptiva."
+      }
+    ]
+  },
+J280: {
+    "id": "J280",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1861",
+    "incipit": "I felt a Funeral, in my Brain,",
+    "titleES": "Sentí un funeral en mi cerebro",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "source": "Johnson, The Complete Poems, J280, pp. 128–129 (texto base).",
+    "lines": [
+      [
+        "I felt a Funeral, in my Brain,",
+        "Sentí un Funeral en mi Cerebro,"
+      ],
+      [
+        "And Mourners to and fro",
+        "y los Deudos, de un lado a otro,"
+      ],
+      [
+        "Kept treading – treading – till it seemed",
+        "seguían pisando — pisando — hasta que parecía"
+      ],
+      [
+        "That Sense was breaking through –",
+        "que el Sentido estaba abriéndose paso —"
+      ],
+      [
+        "And when they all were seated,",
+        "Y cuando todos se sentaron,"
+      ],
+      [
+        "A Service, like a Drum –",
+        "un Oficio, como un Tambor —"
+      ],
+      [
+        "Kept beating – beating – till I thought",
+        "seguía golpeando — golpeando — hasta que pensé"
+      ],
+      [
+        "My Mind was going numb –",
+        "que mi Mente se entumecía —"
+      ],
+      [
+        "And then I heard them lift a Box",
+        "Y entonces los oí levantar una Caja"
+      ],
+      [
+        "And creak across my Soul",
+        "y crujir al atravesar mi Alma"
+      ],
+      [
+        "With those same Boots of Lead, again,",
+        "otra vez con aquellas mismas Botas de Plomo,"
+      ],
+      [
+        "Then Space – began to toll,",
+        "entonces el Espacio — comenzó a doblar,"
+      ],
+      [
+        "As all the Heavens were a Bell,",
+        "como si todos los Cielos fueran una Campana,"
+      ],
+      [
+        "And Being, but an Ear,",
+        "y el Ser, apenas un Oído,"
+      ],
+      [
+        "And I, and Silence, some strange Race",
+        "y yo, y el Silencio, una extraña Raza"
+      ],
+      [
+        "Wrecked, solitary, here –",
+        "naufragada, solitaria, aquí —"
+      ],
+      [
+        "And then a Plank in Reason, broke,",
+        "Y entonces se quebró una Tabla de la Razón,"
+      ],
+      [
+        "And I dropped down, and down –",
+        "y caí hacia abajo, y hacia abajo —"
+      ],
+      [
+        "And hit a World, at every plunge,",
+        "y golpeé un Mundo en cada caída,"
+      ],
+      [
+        "And Finished knowing – then –",
+        "y dejé de saber — entonces —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Funeral in my Brain",
+        "body": "El poema dramatiza una experiencia mental como una ceremonia fúnebre; no constituye un informe clínico ni demuestra que Dickinson padeciera un trastorno específico."
+      },
+      {
+        "line": 3,
+        "title": "Treading",
+        "body": "La repetición de «treading» hace oír los pasos y convierte la presión rítmica en forma poética."
+      },
+      {
+        "line": 4,
+        "title": "Sense",
+        "body": "Puede leerse como sentido, conciencia o facultad de comprender. «Breaking through» sugiere tanto una irrupción como una ruptura."
+      },
+      {
+        "line": 6,
+        "title": "Service",
+        "body": "El oficio religioso se oye como un tambor; el rito de duelo se transforma en percusión insistente."
+      },
+      {
+        "line": 12,
+        "title": "Space began to toll",
+        "body": "El verbo «toll» suele referirse al doblar de una campana; aquí el propio espacio parece emitir el sonido."
+      },
+      {
+        "line": 14,
+        "title": "Being, but an Ear",
+        "body": "La existencia entera se reduce a un órgano receptor. El desplazamiento de lo visual a lo auditivo intensifica la pérdida de referencias."
+      },
+      {
+        "line": 17,
+        "title": "Plank in Reason",
+        "body": "La razón se imagina como un suelo de tablas que puede ceder. El desplome convierte una crisis de comprensión en caída física."
+      },
+      {
+        "line": 20,
+        "title": "Finished knowing",
+        "body": "El final suspende el conocimiento sin explicar qué sucede después; el guion final evita clausurar la experiencia como muerte, sueño o locura inequívocos."
+      }
+    ]
+  },
+J288: {
+    id: "J288", franklin: "F260", approx: "c. 1861",
+    incipit: "I'm Nobody! Who are you?",
+    titleES: "¡Soy Nadie! ¿Quién eres tú?", stanzaBreaks: [4],
+    source: "Johnson, The Complete Poems, n.º 288, p. 133; Miller, As She Preserved Them, p. 128 (variantes).",
+    lines: [
+      ["I'm Nobody! Who are you?", "¡Soy Nadie! ¿Quién eres tú?"],
+      ["Are you – Nobody – Too?", "¿Eres — Nadie — también?"],
+      ["Then there's a pair of us?", "¿Entonces somos dos?"],
+      ["Don't tell! they'd advertise – you know!", "¡No lo digas! Lo anunciarían — ¡ya sabes!"],
+      ["How dreary – to be – Somebody!", "¡Qué tedioso — ser — Alguien!"],
+      ["How public – like a Frog –", "¡Qué público — como una Rana —"],
+      ["To tell one's name – the livelong June –", "decir el propio nombre — todo el mes de junio —"],
+      ["To an admiring Bog!", "a un Pantano admirador!"]
+    ],
+    notes: [
+      {line: 1, title: "Nadie y Alguien", body: "Las mayúsculas convierten dos pronombres indefinidos en identidades casi sociales. El poema se dirige a un «tú» y crea de inmediato una comunidad clandestina."},
+      {line: 3, title: "Una pregunta editorial", body: "Johnson imprime el verso con signo de interrogación («Then there's a pair of us?»). Miller registra una lectura exclamativa («Then there's a pair of us!»). La diferencia altera ligeramente el tono de complicidad."},
+      {line: 4, title: "Banish / advertise", body: "En el manuscrito que sigue Miller figura «they'd banish us» y aparece «advertise» como alternativa. Johnson opta por «they'd advertise». Pasar del destierro a la publicidad desplaza la ironía: ¿la sociedad castiga al diferente o lo vuelve espectáculo?"},
+      {line: 7, title: "Your name / one's name", body: "Miller imprime «To tell your name» y registra como alternativa «one's»; Johnson adopta «one's name». La segunda forma generaliza la crítica al prestigio y a la exhibición pública."},
+      {line: 8, title: "El pantano", body: "La comparación con una rana y un pantano parodia la fama como una repetición ruidosa ante un público indiferenciado. El sarcasmo convive con la intimidad del primer cuarteto."}
+    ]
+  },
+J303: {
+    id: "J303", franklin: "F409", approx: "c. 1862",
+    incipit: "The Soul selects her own Society –",
+    titleES: "El Alma elige su propia Compañía",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J303, p. 143; Miller, As She Preserved Them, fascículo 20, hoja 4, p. 218 (alternativas); Preest, comentario a J303, p. 98.",
+    lines: [
+      ["The Soul selects her own Society –", "El Alma elige su propia Compañía —"],
+      ["Then – shuts the Door –", "luego — cierra la Puerta —"],
+      ["To her divine Majority –", "a su divina Mayoría —"],
+      ["Present no more –", "que no se presente más —"],
+      ["Unmoved – she notes the Chariots – pausing –", "Impasible — ve los Carruajes — detenerse —"],
+      ["At her low Gate –", "ante su humilde Portón —"],
+      ["Unmoved – an Emperor be kneeling", "Impasible — aunque un Emperador se arrodille"],
+      ["Upon her Mat –", "sobre su Esterilla —"],
+      ["I’ve known her – from an ample nation –", "La he visto — entre una nación inmensa —"],
+      ["Choose One –", "escoger a Uno —"],
+      ["Then – close the Valves of her attention –", "y luego — cerrar las Válvulas de su atención —"],
+      ["Like Stone –", "como Piedra —"]
+    ],
+    notes: [
+      {line: 1, title: "Society", body: "Society puede evocar tanto una sociedad formal como la compañía elegida. La traducción «Compañía» privilegia el círculo de trato personal; «Sociedad» subrayaría el contraste social y político con «Majority»."},
+      {line: 3, title: "La mayoría divina", body: "La palabra «divine» puede leerse como elogio, hipérbole o ironía. El cierre de la puerta no establece por sí solo si el Alma rechaza una comunidad religiosa, una multitud social o una corte simbólica."},
+      {line: 4, title: "Sintaxis elíptica", body: "«Present no more» admite distintos encadenamientos con los versos anteriores. La versión española «que no se presente más» explicita una posible lectura, pero la puntuación original deja el sentido menos cerrado."},
+      {line: 7, title: "Una concesión comprimida", body: "«an Emperor be kneeling» utiliza una construcción elíptica con valor concesivo: ni siquiera si se arrodilla un emperador cambia la decisión. Se conserva la repetición de «Unmoved»."},
+      {line: 8, title: "Mat y Rush mat", body: "Miller registra «Rush mat» como alternativa a «Mat» en la copia retenida. El detalle cotidiano de la estera contrasta con el carruaje y el emperador."},
+      {line: 11, title: "Valves y lids", body: "Miller registra «lids» como alternativa a «Valves». «Válvulas» hace pensar en un mecanismo o un órgano que se cierra; «párpados» llevaría el cierre al campo de la percepción. Son posibilidades que no conviene fusionar."},
+      {line: 12, title: "Como piedra", body: "El símil final no resuelve si la elección es una conquista de la autonomía, un acto de dureza o una imagen inquietante de clausura. El poema permite mantener esas lecturas en tensión."}
+    ]
+  }
+,
+J324: {
+    id: "J324", franklin: "F236", approx: "c. 1860 (Johnson); copia de c. 1861 (Miller)",
+    incipit: "Some keep the Sabbath going to Church –",
+    titleES: "Algunos guardan el domingo yendo a la Iglesia",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J324, pp. 153–154; Miller, As She Preserved Them, fascículo 9, p. 115; Preest, comentario a J324, p. 106.",
+    lines: [
+      ["Some keep the Sabbath going to Church –", "Algunos guardan el domingo yendo a la Iglesia —"],
+      ["I keep it, staying at Home –", "yo lo guardo quedándome en Casa —"],
+      ["With a Bobolink for a Chorister –", "con un Tordo arrocero por Corista —"],
+      ["And an Orchard, for a Dome –", "y un Huerto de frutales por Cúpula —"],
+      ["Some keep the Sabbath in Surplice –", "Algunos guardan el domingo con Sobrepelliz —"],
+      ["I just wear my Wings –", "yo solo llevo mis Alas —"],
+      ["And instead of tolling the Bell, for Church,", "y en vez de tañer la Campana para la Iglesia,"],
+      ["Our little Sexton – sings.", "nuestro pequeño Sacristán — canta."],
+      ["God preaches, a noted Clergyman –", "Predica Dios, un célebre Clérigo —"],
+      ["And the sermon is never long,", "y el sermón nunca es largo,"],
+      ["So instead of getting to Heaven, at last –", "así que, en vez de llegar al Cielo, al final —"],
+      ["I'm going, all along.", "voy llegando a él, todo el tiempo."]
+    ],
+    notes: [
+      {line: 1, title: "Sabbath y domingo", body: "En el protestantismo de Nueva Inglaterra «Sabbath» designa habitualmente el domingo cristiano, no el sábado judío. Se traduce «domingo» para no confundir el contexto histórico; «guardar el día del Señor» sería otra posibilidad."},
+      {line: 3, title: "Bobolink", body: "Dolichonyx oryzivorus, ave canora norteamericana conocida en español como tordo arrocero. El canto sustituye la música del coro y, en la octava línea, el toque de campana."},
+      {line: 4, title: "Orchard / Dome", body: "El huerto o vergel reemplaza la cúpula arquitectónica de un templo. La imagen transforma un espacio doméstico y natural en lugar de culto sin negar necesariamente a Dios."},
+      {line: 5, title: "Surplice", body: "La sobrepelliz es una vestidura litúrgica. El contraste con las «Wings» desplaza la formalidad del oficio religioso hacia una elevación imaginativa."},
+      {line: 8, title: "Sexton", body: "El sexton se ocupa de la iglesia, su mantenimiento y a menudo las campanas o las sepulturas. El «pequeño Sacristán» vuelve a ser, en este poema, el pájaro que canta."},
+      {line: 9, title: "La voz de Dios", body: "Aunque no entra a la iglesia, la hablante escucha un sermón: no se trata de un simple rechazo de toda experiencia religiosa. Miller presenta «God» entre comillas en el testimonio que imprime, una diferencia significativa respecto del texto Johnson."},
+      {line: 12, title: "El Cielo en presente", body: "La oposición entre «at last» y «all along» cambia la salvación diferida por una experiencia continua. El texto no obliga a identificar cielo con jardín de manera literal; la oración final puede ser una provocación teológica."}
+    ]
+  },
+J328: {
+    id: "J328", franklin: "F359", approx: "c. 1862",
+    incipit: "A Bird came down the Walk –",
+    titleES: "Un Pájaro bajó por el Sendero",
+    stanzaBreaks: [4, 8, 12, 16],
+    source: "Johnson, The Complete Poems, J328, p. 156; Miller, As She Preserved Them, fascículo 17, hoja 5, pp. 189–190; Preest, comentario a J328, p. 109.",
+    lines: [
+      ["A Bird came down the Walk –", "Un Pájaro bajó por el Sendero —"],
+      ["He did not know I saw –", "no sabía que yo lo veía —"],
+      ["He bit an Angleworm in halves", "partió una Lombriz en dos de un picotazo"],
+      ["And ate the fellow, raw,", "y se comió al pobre bicho, crudo,"],
+      ["And then he drank a Dew", "Y después bebió una gota de Rocío"],
+      ["From a convenient Grass –", "de una Hierba oportuna —"],
+      ["And then hopped sidewise to the Wall", "y luego saltó de costado hacia el Muro"],
+      ["To let a Beetle pass –", "para dejar pasar a un Escarabajo —"],
+      ["He glanced with rapid eyes", "Lanzó miradas con ojos veloces"],
+      ["That hurried all around –", "que se apresuraban en todas direcciones —"],
+      ["They looked like frightened Beads, I thought –", "me parecieron Cuentas asustadas —"],
+      ["He stirred his Velvet Head", "movió su Cabeza de Terciopelo"],
+      ["Like one in danger, Cautious,", "Como quien corre peligro, con cautela,"],
+      ["I offered him a Crumb", "le ofrecí una Migaja"],
+      ["And he unrolled his feathers", "y él desplegó sus plumas"],
+      ["And rowed him softer home –", "y remó hacia su hogar más suavemente —"],
+      ["Than Oars divide the Ocean,", "que los Remos al dividir el Océano,"],
+      ["Too silver for a seam –", "demasiado plateado para dejar una juntura —"],
+      ["Or Butterflies, off Banks of Noon", "o que las Mariposas, desde las Orillas del Mediodía,"],
+      ["Leap, plashless as they swim.", "saltan sin salpicar mientras nadan."]
+    ],
+    notes: [
+      {line: 1, title: "Walk: un espacio humano", body: "«Walk» puede ser paseo, senda o camino de jardín. El pájaro entra en un espacio que la voz humana observa sin que él se sepa observado. Miller imprime el primer verso «A Bird, came down the Walk –», con coma tras Bird; Johnson no la incluye."},
+      {line: 3, title: "Una escena nada idealizada", body: "La primera acción del ave es partir en dos una lombriz y comerla cruda. La descripción combina precisión naturalista, leve humor y violencia alimentaria; impide convertir automáticamente toda naturaleza en una alegoría apacible. En la copia de Miller se registra además una alternativa junto a este verso («He shook –»)."},
+      {line: 5, title: "A Dew: un singular inesperado", body: "El artículo indefinido convierte «dew», normalmente un nombre no contable, en una pequeña porción visible. La traducción agrega «gota» para reproducir la singularización, aunque el original no utiliza esa palabra."},
+      {line: 8, title: "El escarabajo", body: "El movimiento lateral para dejar pasar al escarabajo parece casi una cortesía humana. Esa atribución de intenciones no transforma el episodio en una fábula moral: sigue siendo un movimiento posible de un animal."},
+      {line: 10, title: "Around / abroad", body: "Johnson imprime «That hurried all around –»; Miller, siguiendo la copia del fascículo, lee «That hurried all abroad –». Ambas formulaciones describen un movimiento rápido de la mirada, con matices diferentes."},
+      {line: 11, title: "Las cuentas asustadas", body: "«Beads» evoca pequeños objetos brillantes y redondos. En el paso del ojo animal a una cuenta de vidrio, el poema muestra la percepción del observador más que una descripción estrictamente zoológica."},
+      {line: 13, title: "¿Quién tiene miedo?", body: "Por la sintaxis, «Like one in danger, Cautious» puede calificar a la voz que ofrece la migaja; también hace resonar la alarma del pájaro, cuyas miradas parecían asustadas. La traducción conserva deliberadamente la relación sin fijar una psicología única."},
+      {line: 16, title: "Remar en el aire", body: "El vuelo se expresa mediante un verbo acuático: «rowed». Las comparaciones posteriores entre remos, océano y mariposas hacen que aire y agua intercambien sus propiedades."},
+      {line: 19, title: "Los Bancos del Mediodía", body: "«Banks» puede sugerir orillas de un río o márgenes de una extensión espacial. El mediodía adquiere límites propios, y la desaparición del pájaro se vuelve casi imperceptible."},
+      {line: 20, title: "Una interpretación de Preest", body: "David Preest, siguiendo una lectura de Paul Bennett, distingue observación concreta y vuelo lírico desde el verso 15; propone también entender al pájaro como mensajero celeste. La primera observación describe un cambio formal comprobable; la segunda es una interpretación, no una identificación expresada en el poema."}
+    ]
+  },
+J341: {
+    "id": "J341",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "After great pain, a formal feeling comes –",
+    "titleES": "Tras un gran dolor llega un sentir formal",
+    "source": "Johnson, The Complete Poems, J341, p. 162 (texto base).",
+    "lines": [
+      [
+        "After great pain, a formal feeling comes –",
+        "Tras un gran dolor llega un sentir formal —"
+      ],
+      [
+        "The Nerves sit ceremonious, like Tombs –",
+        "los Nervios se sientan ceremoniosos, como Tumbas —"
+      ],
+      [
+        "The stiff Heart questions was it He, that bore,",
+        "el Corazón rígido pregunta: ¿fue Él quien sufrió,"
+      ],
+      [
+        "And Yesterday, or Centuries before?",
+        "y fue Ayer, o hace Siglos?"
+      ],
+      [
+        "The Feet, mechanical, go round –",
+        "Los Pies, mecánicos, dan vueltas —"
+      ],
+      [
+        "Of Ground, or Air, or Ought –",
+        "sobre Suelo, o Aire, o Nada —"
+      ],
+      [
+        "A Wooden way",
+        "con un andar de Madera,"
+      ],
+      [
+        "Regardless grown,",
+        "ya indiferente,"
+      ],
+      [
+        "A Quartz contentment, like a stone –",
+        "una conformidad de Cuarzo, como una piedra —"
+      ],
+      [
+        "This is the Hour of Lead –",
+        "Esta es la Hora de Plomo —"
+      ],
+      [
+        "Remembered, if outlived,",
+        "recordada, si se sobrevive a ella,"
+      ],
+      [
+        "As Freezing persons, recollect the Snow –",
+        "como quienes se congelan recuerdan la Nieve —"
+      ],
+      [
+        "First – Chill – then Stupor – then the letting go –",
+        "Primero — Frío — luego Estupor — luego dejarse ir —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Formal feeling",
+        "body": "«Formal» sugiere una rigidez ceremonial y un orden que sucede al dolor, no necesariamente alivio. El poema estudia el entumecimiento posterior a una experiencia extrema."
+      },
+      {
+        "line": 2,
+        "title": "Nerves sit ceremonious",
+        "body": "Los nervios adquieren postura humana y funeraria. La imagen enlaza con los rituales de J280, aunque el punto de vista y el ritmo son diferentes."
+      },
+      {
+        "line": 3,
+        "title": "He, that bore",
+        "body": "El pronombre «He» puede aludir a Cristo y al sufrimiento que cargó, pero el poema no lo explica expresamente; se conserva la ambigüedad."
+      },
+      {
+        "line": 6,
+        "title": "Ought",
+        "body": "En esta construcción puede sugerir «nada»; la incertidumbre entre suelo, aire y vacío es parte de la desorientación corporal."
+      },
+      {
+        "line": 9,
+        "title": "Quartz contentment",
+        "body": "La dureza mineral vuelve inquietante «contentment»: la quietud parece anestesia o petrificación, no felicidad."
+      },
+      {
+        "line": 10,
+        "title": "Hour of Lead",
+        "body": "El plomo combina peso, rigidez y duración opresiva. El tiempo se convierte en materia."
+      },
+      {
+        "line": 13,
+        "title": "Letting go",
+        "body": "La expresión final puede significar soltarse, ceder o dejar de resistir. No fija un único desenlace: supervivencia, abandono o muerte."
+      }
+    ]
+  },
+J376: {
+    id: "J376", franklin: "F581", approx: "c. 1862",
+    incipit: "Of Course – I prayed –",
+    titleES: "Por supuesto — recé —",
+    source: "Johnson, The Complete Poems, J376, p. 179; Miller, Emily Dickinson’s Poems: As She Preserved Them, p. 265 (F581); Preest, Emily Dickinson Poems Commentary, comentario de J376, p. 127.",
+    lines: [
+      ["Of Course – I prayed –", "Por supuesto — recé —"],
+      ["And did God Care?", "¿Y a Dios le importó?"],
+      ["He cared as much as on the Air", "Le importó tanto como si, en el Aire,"],
+      ["A Bird – had stamped her foot –", "un Pájaro — hubiera golpeado con su pata —"],
+      ["And cried “Give Me” –", "y gritado: «Dame» —"],
+      ["My Reason – Life –", "Mi Razón — la Vida —"],
+      ["I had not had – but for Yourself –", "no la habría tenido — de no ser por Ti —"],
+      ["’Twere better Charity", "Mayor Caridad habría sido"],
+      ["To leave me in the Atom’s Tomb –", "dejarme en la Tumba del Átomo —"],
+      ["Merry, and Nought, and gay, and numb –", "alegre, y Nada, y jovial, e insensible —"],
+      ["Than this smart Misery.", "que esta Miseria lacerante."]
+    ],
+    notes: [
+      {line: 1, title: "Oración sin respuesta", body: "El texto empieza dando por supuesto que la voz ha rezado, pero el diálogo esperado con Dios queda sustituido por una pregunta acusatoria."},
+      {line: 3, title: "La comparación con el pájaro", body: "El hipotético reclamo del ave al aire no provoca respuesta; la oración humana parece igual de ineficaz. La imagen impide identificar el poema como una plegaria convencional."},
+      {line: 5, title: "«Give Me»: un imperativo", body: "La puntuación deja abierto el encadenamiento exacto de las frases; David Preest propone un corte fuerte después de «Give Me». En la traducción se conserva la respiración fragmentada del original."},
+      {line: 6, title: "Reason – Life", body: "El reproche no se dirige únicamente a la falta de consuelo: cuestiona haber recibido la vida de un Dios que, según la voz, no socorre a su criatura. «Reason» puede indicar la razón o causa de la existencia."},
+      {line: 9, title: "Atom’s Tomb", body: "La tumba del átomo representa un estado anterior o ajeno a la vida consciente. La imagen combina vocabulario científico con una acusación teológica."},
+      {line: 11, title: "Smart Misery", body: "En inglés «smart» puede significar dolor agudo, punzante. Aquí no se usa en el sentido contemporáneo de «inteligente»; «lacerante» intenta expresar el dolor vivo que contrasta con la insensibilidad del verso anterior."},
+      {line: 11, title: "La voz frente a la autora", body: "La intensidad del reproche no demuestra que Dickinson sostuviera siempre una negación de Dios. Como observa Preest, es una de las formulaciones más severas del sufrimiento por una plegaria no atendida."}
+    ]
+  },
+J441: {
+    id: "J441", franklin: "F519", approx: "c. 1862",
+    incipit: "This is my letter to the World",
+    titleES: "Esta es mi carta al Mundo",
+    source: "Johnson, The Complete Poems, n.º 441, p. 211; Miller, As She Preserved Them, p. 254.",
+    lines: [
+      ["This is my letter to the World", "Esta es mi carta al Mundo"],
+      ["That never wrote to Me –", "que nunca me escribió —"],
+      ["The Simple News that Nature told –", "las sencillas Noticias que la Naturaleza contó —"],
+      ["With tender Majesty", "con tierna Majestad"],
+      ["Her Message is committed", "Su Mensaje queda confiado"],
+      ["To Hands I cannot see –", "a Manos que no puedo ver —"],
+      ["For love of Her – Sweet – countrymen –", "Por amor a Ella — queridos — compatriotas —"],
+      ["Judge tenderly – of Me", "júzguenme con ternura."]
+    ],
+    notes: [
+      {line: 1, title: "¿Qué es «el Mundo»?", body: "La primera persona no implica que el poema sea una autobiografía literal. Una lectura posible contrapone la falta de respuesta del mundo humano con el mensaje de la naturaleza."},
+      {line: 3, title: "News / Nature", body: "La «noticia» no es un hecho aislado: puede aludir al lenguaje de la experiencia natural. El poema no explica qué dijo la Naturaleza; nos obliga a leer el conjunto de su obra como mensaje."},
+      {line: 6, title: "Manos invisibles", body: "Las «manos» pueden ser las de lectores desconocidos o futuros. Esta lectura es una hipótesis, no una identificación garantizada por el texto."},
+      {line: 8, title: "Una súplica sin cierre", body: "El imperativo final pide benevolencia, pero no resuelve quién recibirá la carta ni qué juicio formulará. La traducción mantiene la súplica y no añade una respuesta."}
+    ]
+  },
+J444: {
+    id: "J444", franklin: "F524", approx: "c. 1862",
+    incipit: "It feels a shame to be Alive –",
+    titleES: "Da vergüenza estar vivo",
+    stanzaBreaks: [4, 8, 12, 16],
+    source: "Johnson, The Complete Poems, J444, p. 213; Miller, As She Preserved Them, fascículo 24, pp. 257–258; Preest, comentario a J444, pp. 149–150; W. Martin, Cambridge Introduction, pp. 34–36.",
+    lines: [
+      ["It feels a shame to be Alive –", "Da vergüenza estar Vivo —"],
+      ["When Men so brave – are dead –", "cuando han muerto Hombres tan valientes —"],
+      ["One envies the Distinguished Dust –", "uno envidia el distinguido Polvo —"],
+      ["Permitted – such a Head –", "al que se le permitió — tal Cabeza —"],
+      ["The Stone – that tells defending Whom", "la Piedra — que dice defendiendo a Quién"],
+      ["This Spartan put away", "este Espartano entregó"],
+      ["What little of Him we – possessed", "lo poco de Él que nosotros — poseíamos"],
+      ["In Pawn for Liberty –", "como Prenda de la Libertad —"],
+      ["The price is great – Sublimely paid –", "El precio es alto — pagado de modo sublime —"],
+      ["Do we deserve – a Thing –", "¿merecemos — algo —"],
+      ["That lives – like Dollars – must be piled", "que vive — y, como Dólares, debe apilarse"],
+      ["Before we may obtain?", "antes de que podamos obtenerlo?"],
+      ["Are we that wait – sufficient worth –", "¿Valemos lo suficiente — quienes esperamos —"],
+      ["That such Enormous Pearl", "para que una Perla tan inmensa"],
+      ["As life – dissolved be – for Us –", "como la vida — se disuelva — por Nosotros —"],
+      ["In Battle's – horrid Bowl?", "en el horrendo Cuenco — de la Batalla?"],
+      ["It may be – a Renown to live –", "Puede ser — una Gloria vivir —"],
+      ["I think the Man who die –", "creo que quienes mueren —"],
+      ["Those unsustained – Saviors –", "esos Salvadores — sin amparo —"],
+      ["Present Divinity –", "son Divinidad presente —"]
+    ],
+    notes: [
+      {line: 1, title: "Vivir después de la muerte ajena", body: "La primera línea plantea una vergüenza de superviviente. El poema no relata una batalla particular; confronta el valor de los muertos con la pregunta de si los vivos merecen su sacrificio."},
+      {line: 3, title: "Distinguished Dust", body: "«Polvo» remite a la mortalidad y la descomposición corporal, mientras «distinguished» concede honor público a lo que parece reducido a materia. La ironía y el elogio permanecen juntos."},
+      {line: 5, title: "La imagen espartana", body: "Como explica Preest, la estela del espartano evoca la defensa de las Termópilas y el epitafio transmitido en Heródoto 7.228. Se trata de una analogía histórica dentro de un poema sobre el sacrificio contemporáneo."},
+      {line: 8, title: "In Pawn for Liberty", body: "El soldado deposita o empeña su propia vida como garantía de libertad. Las imágenes financieras dominan la estrofa siguiente y convierten el sacrificio en un precio inquietante."},
+      {line: 11, title: "Dollars", body: "La acumulación de vidas comparadas con dólares convierte una noción abstracta —la libertad— en una contabilidad moral. No debemos inferir de la comparación una condena inequívoca de una causa concreta: el poema formula preguntas, no un programa político."},
+      {line: 15, title: "Una vida disuelta", body: "La «Perla» preciosa se disuelve en el cuenco de la batalla. El contraste entre joya y recipiente horrendo rompe cualquier entusiasmo simplista por la gloria de guerra."},
+      {line: 18, title: "Man / Men: posible errata de Johnson", body: "Johnson imprime «I think the Man who die», una construcción anómala. Miller lee «Men», igual que Preest, quien señala que «Man» parece una errata editorial. La traducción evita reproducir la anomalía sin silenciarla en esta nota."},
+      {line: 20, title: "Present Divinity", body: "La formulación final puede entenderse como identificación de los muertos con una divinidad presente, en contraste con el reconocimiento humano posterior. No se trata de una afirmación doctrinal precisa."},
+      {line: 1, title: "La Guerra Civil y Frazar Stearns", body: "Wendy Martin relaciona el poema con la muerte del joven Frazar Stearns en New Bern en marzo de 1862; el Emily Dickinson Museum lo considera claramente una respuesta a la Guerra Civil. La ocasión histórica orienta la lectura, pero el poema no nombra a Stearns y su alcance puede ser más general."}
+    ]
+  },
+J449: {
+    id: "J449", franklin: "F448", approx: "c. 1862",
+    incipit: "I died for Beauty – but was scarce",
+    titleES: "Morí por la Belleza — pero apenas",
+    stanzaBreaks: [4, 8],
+    source: "Johnson, The Complete Poems, J449, p. 215; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 21, p. 225 (F448); Preest, Emily Dickinson Poems Commentary, pp. 151–152.",
+    lines: [
+      ["I died for Beauty – but was scarce", "Morí por la Belleza — pero apenas"],
+      ["Adjusted in the Tomb", "me había acomodado en la Tumba"],
+      ["When One who died for Truth, was lain", "cuando a Alguien que murió por la Verdad lo tendieron"],
+      ["In an adjoining Room –", "en una Habitación contigua —"],
+      ["He questioned softly “Why I failed”?", "Me preguntó en voz baja: «¿Por qué sucumbí?»"],
+      ["“For Beauty”, I replied –", "«Por la Belleza», respondí —"],
+      ["“And I – for Truth – Themself are One –", "«Y yo — por la Verdad — ellas son Una misma —"],
+      ["We Brethren, are”, He said –", "somos Hermanos», dijo Él —"],
+      ["And so, as Kinsmen, met a Night –", "Y así, como Parientes que se encuentran de Noche —"],
+      ["We talked between the Rooms –", "hablábamos entre las Habitaciones —"],
+      ["Until the Moss had reached our lips –", "hasta que el Musgo nos alcanzó los labios —"],
+      ["And covered up – our names –", "y cubrió — nuestros nombres —"]
+    ],
+    notes: [
+      {line: 1, title: "Morir por una abstracción", body: "La voz no relata por qué o cómo murió. «Por la Belleza» puede sugerir una causa estética, moral o intelectual, pero es el poema —no una biografía— el que construye esa posición."},
+      {line: 3, title: "La tumba como habitación", body: "«Room» y «adjoining» vuelven familiar una situación imposible: dos personas fallecidas conversan desde espacios contiguos como vecinos de una casa. La normalidad del escenario hace más inquietante la desaparición final."},
+      {line: 5, title: "Why I failed", body: "El verbo «failed» es ambiguo: puede significar que el recién llegado murió, cayó o fracasó. La traducción «sucumbí» preserva parte de esa ambigüedad, aunque reduce su posible dimensión de fracaso."},
+      {line: 7, title: "Belleza y Verdad: intertextos", body: "Miller recuerda la «Oda a una urna griega» de Keats, pero considera también ecos de Emerson y, especialmente, «A Vision of Poets» de Elizabeth Barrett Browning, cuyos versos sobre morir por la Belleza y la Verdad aparecen marcados en un libro familiar de los Dickinson. No atribuir la imagen únicamente a Keats."},
+      {line: 9, title: "El parentesco", body: "«Kinsmen» convierte la semejanza ideal en parentesco. La conversación continúa hasta que algo más material —el musgo— llega a los cuerpos y deshace el lenguaje."},
+      {line: 12, title: "¿Qué borra el musgo?", body: "El poema afirma que el musgo cubre labios y nombres. Roger Lundin, citado por Preest, señala el límite de la supervivencia, aunque el propio poema que leemos puede mantenerse cuando desaparece el nombre escrito en una tumba. La tensión no se resuelve."},
+      {line: 12, title: "Una diferencia editorial", body: "Miller imprime «Our names» con mayúscula en la copia del fascículo 21. Johnson da «our names». Se conserva aquí la lectura Johnson y se registra la diferencia, sin crear un texto mixto."}
+    ]
+  },
+J465: {
+    id: "J465", franklin: "F591", approx: "c. 1862–1863",
+    incipit: "I heard a Fly buzz – when I died –",
+    titleES: "Oí zumbar una Mosca — cuando morí —",
+    stanzaBreaks: [4, 8, 12],
+    source: "Johnson, The Complete Poems, J465, pp. 223–224; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 26, p. 270 (F591); Preest, Emily Dickinson Poems Commentary, pp. 156–157.",
+    lines: [
+      ["I heard a Fly buzz – when I died –", "Oí zumbar una Mosca — cuando morí —"],
+      ["The Stillness in the Room", "La Quietud de la Habitación"],
+      ["Was like the Stillness in the Air –", "era como la Quietud en el Aire —"],
+      ["Between the Heaves of Storm –", "entre las Ráfagas de una Tormenta —"],
+      ["The Eyes around – had wrung them dry –", "Los Ojos alrededor — ya se habían exprimido hasta secarse —"],
+      ["And Breaths were gathering firm", "y los Alientos cobraban firmeza"],
+      ["For that last Onset – when the King", "para aquella última Arremetida — cuando el Rey"],
+      ["Be witnessed – in the Room –", "fuese visto — en la Habitación —"],
+      ["I willed my Keepsakes – Signed away", "Legué mis Recuerdos — firmé la cesión"],
+      ["What portion of me be", "de la parte de mí que pudiera"],
+      ["Assignable – and then it was", "transferirse — y entonces fue cuando"],
+      ["There interposed a Fly –", "se interpuso una Mosca —"],
+      ["With Blue – uncertain stumbling Buzz –", "con un Zumbido azul — incierto, vacilante —"],
+      ["Between the light – and me –", "entre la luz — y yo —"],
+      ["And then the Windows failed – and then", "Y entonces las Ventanas fallaron — y entonces"],
+      ["I could not see to see –", "ya no pude ver para ver —"]
+    ],
+    notes: [
+      {line: 1, title: "Una narración imposible", body: "La voz cuenta una escena desde después de su propia muerte. La gramática en pasado no demuestra una existencia consciente tras morir: es la premisa dramática que hace posible el poema."},
+      {line: 3, title: "La quietud entre tormentas", body: "La comparación introduce una suspensión tensa, no una paz asegurada. El aire se calma entre embates, de modo que algo parece estar a punto de suceder."},
+      {line: 5, title: "Los ojos de los presentes", body: "«Wrung them dry» transforma las lágrimas de los acompañantes en un paño que se exprime. El agotamiento del llanto es físico, doméstico e inmediato."},
+      {line: 7, title: "¿Quién es el Rey?", body: "Una lectura religiosa identifica al «King» con Cristo o Dios; otra entiende la llegada majestuosa de la muerte. El poema no fija la identidad y frustra la expectativa en el verso siguiente con una mosca."},
+      {line: 9, title: "Legar lo asignable", body: "La escena del testamento distingue los bienes transferibles de aquello que no puede dejarse por escrito. La muerte es también un acontecimiento jurídico y doméstico, no solo metafísico."},
+      {line: 12, title: "El intruso ordinario", body: "La mosca ocupa el lugar donde parecía que iba a producirse una aparición solemne. Su presencia puede sugerir corporalidad, descomposición o simplemente un zumbido inoportuno; el texto permite varios matices sin confirmar un dogma."},
+      {line: 13, title: "Blue – uncertain stumbling Buzz", body: "La distribución de adjetivos y guiones produce una sensación discontinua; «Blue» puede sugerir color o cualidad sonora. Se mantiene el orden extraño en la traducción."},
+      {line: 16, title: "Ver para ver", body: "La repetición de «see» separa la facultad física de visión de la posibilidad de conocer o percibir algo más. La frase no dice qué se ve después de morir: se corta en la falla misma de la percepción."},
+      {line: 16, title: "Una lectura de Preest", body: "Preest señala que Dickinson imagina el instante de morir pero rehúsa describir qué habría más allá: el poema termina justamente donde debería comenzar un testimonio imposible."}
+    ]
+  },
+J501: {
+    id: "J501", franklin: "F373", approx: "c. 1862",
+    incipit: "This World is not Conclusion.",
+    titleES: "Este Mundo no es la Conclusión.",
+    source: "Johnson, The Complete Poems, J501, p. 243; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 18, pp. 198–199 (F373); Martin, The Cambridge Introduction to Emily Dickinson, p. 105; Preest, Emily Dickinson Poems Commentary, J501, pp. 167–168.",
+    lines: [
+      ["This World is not Conclusion.", "Este Mundo no es la Conclusión."],
+      ["A Species stands beyond –", "Hay una Especie más allá —"],
+      ["Invisible, as Music –", "invisible, como la Música —"],
+      ["But positive, as Sound –", "pero tan cierta como el Sonido —"],
+      ["It beckons, and it baffles –", "Llama y desconcierta —"],
+      ["Philosophy – don’t know –", "la Filosofía — no lo sabe —"],
+      ["And through a Riddle, at the last –", "y a través de un Enigma, al final —"],
+      ["Sagacity, must go –", "la Sagacidad ha de pasar —"],
+      ["To guess it, puzzles scholars –", "Adivinarlo confunde a los eruditos —"],
+      ["To gain it, Men have borne", "por alcanzarlo, los Hombres han soportado"],
+      ["Contempt of Generations", "el Desprecio de Generaciones"],
+      ["And Crucifixion, shown –", "y aun la Crucifixión, como se ha visto —"],
+      ["Faith slips – and laughs, and rallies –", "La Fe resbala — y ríe, y se recobra —"],
+      ["Blushes, if any see –", "se ruboriza si alguien la ve —"],
+      ["Plucks at a twig of Evidence –", "arranca una ramita de Evidencia —"],
+      ["And asks a Vane, the way –", "y le pregunta el camino a una Veleta —"],
+      ["Much Gesture, from the Pulpit –", "Mucho Gesto desde el Púlpito —"],
+      ["Strong Hallelujahs roll –", "resuenan vigorosos Aleluyas —"],
+      ["Narcotics cannot still the Tooth", "los Narcóticos no pueden calmar el Diente"],
+      ["That nibbles at the soul –", "que roe el alma —"]
+    ],
+    notes: [
+      {line: 1, title: "La afirmación que no cierra la discusión", body: "El poema abre negando que este mundo sea el final, pero los siguientes versos presentan una búsqueda sin prueba concluyente. Wendy Martin subraya que el texto se ocupa más del misterio de la muerte que de una certeza sobre la vida posterior."},
+      {line: 2, title: "Species y alternativa manuscrita", body: "«Species» no identifica claramente qué clase de existencia vendría después. Miller registra «a sequel» como alternativa a «stands» en la copia retenida: la redacción de ese verso no estaba completamente clausurada."},
+      {line: 4, title: "Positivo como sonido", body: "La paradoja separa ver de oír: una realidad podría ser imperceptible para la vista y, aun así, parecer tan contundente como algo audible. Eso no equivale a demostrar que exista."},
+      {line: 6, title: "Filosofía y sabiduría", body: "«Philosophy – don’t know» en Johnson presenta una sintaxis deliberadamente abrupta; Miller lee «Philosophy, don’t know». El texto enfrenta herramientas intelectuales con un enigma que persiste."},
+      {line: 10, title: "Crucifixión y testimonio", body: "La referencia a generaciones que soportaron desprecio y crucifixión remite a martirio y sufrimiento en nombre de una esperanza ultraterrena. No establece que el poema convalide esa experiencia como prueba."},
+      {line: 13, title: "Fe personificada e inestable", body: "La Fe resbala, ríe, se rehace, se avergüenza y busca pruebas. La personificación niega una oposición simple entre creyentes seguros y escépticos racionales."},
+      {line: 15, title: "Evidencia y veleta", body: "Una ramita no equivale a un fundamento, y una veleta no es una brújula fiable. El par puede leerse como sátira de la insuficiencia de las pruebas y del deseo de recibir orientación."},
+      {line: 18, title: "El púlpito no resuelve la duda", body: "Miller registra «Sure» como alternativa a «Strong» en el verso de los aleluyas. El énfasis de la predicación no elimina, por sí solo, el problema intelectual o afectivo."},
+      {line: 19, title: "Narcotics, Tooth y alternativa", body: "La comparación final lleva la pregunta metafísica al dolor físico: el diente que roe el alma ni siquiera se calma con narcóticos. Miller registra «Mouse» como alternativa a «Tooth»."},
+      {line: 20, title: "Tres posiciones críticas", body: "Preest lee el poema como vacilación entre convicción y duda; Wendy Martin destaca la imposibilidad de conocer qué sucede tras la muerte; Miller permite ver que esa indeterminación también se encuentra en las alternativas del manuscrito."}
+    ]
+  },
+J640: {
+    id: "J640", franklin: "F706", approx: "c. 1862 (Johnson); copia de c. 1863 (Miller)",
+    incipit: "I cannot live with You –",
+    titleES: "No puedo vivir contigo",
+    source: "Johnson, The Complete Poems, J640, pp. 317–318; Miller, As She Preserved Them, F706, fascículo 33, pp. 343–344; Preest, Commentary, J640, pp. 215–216.",
+    lines: [
+      ["I cannot live with You –", "No puedo vivir contigo —"],
+      ["It would be Life –", "eso sería la Vida —"],
+      ["And Life is over there –", "y la Vida está allí, más allá —"],
+      ["Behind the Shelf", "detrás del Estante"],
+      ["The Sexton keeps the Key to –", "del que el Sacristán guarda la Llave —"],
+      ["Putting up", "al guardar"],
+      ["Our Life – His Porcelain –", "nuestra Vida — su Porcelana —"],
+      ["Like a Cup –", "como una Taza —"],
+      ["Discarded of the Housewife –", "desechada por el Ama de casa —"],
+      ["Quaint – or Broke –", "anticuada — o Rota —"],
+      ["A newer Sevres pleases –", "agrada más una Sèvres más nueva —"],
+      ["Old Ones crack –", "las Viejas se agrietan —"],
+      ["I could not die – with You –", "No podría morir — contigo —"],
+      ["For One must wait", "porque Uno debe esperar"],
+      ["To shut the Other's Gaze down –", "para cerrar la Mirada del Otro —"],
+      ["You – could not –", "Tú — no podrías —"],
+      ["And I – Could I stand by", "y yo — ¿podría quedarme mirando"],
+      ["And see You – freeze –", "y verte — helarte —"],
+      ["Without my Right of Frost –", "sin reclamar mi Derecho al Hielo —"],
+      ["Death's privilege?", "el privilegio de la Muerte?"],
+      ["Nor could I rise – with You –", "Tampoco podría resucitar — contigo —"],
+      ["Because Your Face", "porque Tu Rostro"],
+      ["Would put out Jesus' –", "apagaría el de Jesús —"],
+      ["That New Grace", "esa Nueva Gracia"],
+      ["Glow plain – and foreign", "brillaría pálida — y extraña"],
+      ["On my homesick Eye –", "ante mis Ojos que añoran el hogar —"],
+      ["Except that You than He", "si no fuera porque Tú, más que Él,"],
+      ["Shone closer by –", "brillabas más cerca —"],
+      ["They'd judge Us – How –", "Nos juzgarían — ¿cómo? —"],
+      ["For You – served Heaven – You know,", "pues Tú — serviste al Cielo — ya sabes,"],
+      ["Or sought to –", "o lo intentaste —"],
+      ["I could not –", "yo no pude —"],
+      ["Because You saturated Sight –", "porque Tú saturabas la Vista —"],
+      ["And I had no more Eyes", "y ya no me quedaban Ojos"],
+      ["For sordid excellence", "para la mezquina excelencia"],
+      ["As Paradise", "que es el Paraíso."],
+      ["And were You lost, I would be –", "Y si Tú te perdieras, yo también —"],
+      ["Though My Name", "aunque mi Nombre"],
+      ["Rang loudest", "resonara con más fuerza"],
+      ["On the Heavenly fame –", "en la Fama Celestial —"],
+      ["And were You – saved –", "y si Tú — te salvaras —"],
+      ["And I – condemned to be", "y yo — condenada a estar"],
+      ["Where You were not –", "donde Tú no estuvieras —"],
+      ["That self – were Hell to Me –", "eso mismo — sería el Infierno para Mí —"],
+      ["So We must meet apart –", "Así que debemos encontrarnos separados —"],
+      ["You there – I – here –", "Tú allí — yo — aquí —"],
+      ["With just the Door ajar", "con apenas una Puerta entreabierta"],
+      ["That Oceans are – and Prayer –", "hecha de Océanos — y Oración —"],
+      ["And that White Sustenance –", "y ese Blanco Sustento —"],
+      ["Despair –", "la Desesperación —"]
+    ],
+    notes: [
+      {line: 1, title: "La paradoja de la vida", body: "El comienzo parece negar la convivencia y a la vez define esa convivencia como la verdadera «Vida». El razonamiento no elimina la pasión: se organiza alrededor de su imposibilidad."},
+      {line: 5, title: "El sacristán y el armario", body: "La figura eclesiástica custodia una vida comparada con porcelana guardada. Preest propone que la escena dramatiza la restricción religiosa de una relación afectiva; no basta por sí sola para identificar una situación biográfica concreta."},
+      {line: 11, title: "Sèvres", body: "Porcelana francesa de prestigio. El reemplazo de la taza vieja por una nueva combina mercado doméstico, prestigio y fragilidad del vínculo."},
+      {line: 13, title: "Tres imposibilidades", body: "La progresión del poema abre con «no puedo vivir», pasa a «no podría morir» y después a «tampoco resucitar». Preest compara esta organización con un sermón dividido en argumentos y una conclusión."},
+      {line: 15, title: "Cerrar la mirada del otro", body: "El gesto de cerrar los ojos del muerto exige que uno sobreviva a otro. La continuidad de la relación choca con la separación física que impone morir."},
+      {line: 19, title: "Right of Frost", body: "La voz reclama un «derecho» al frío propio de la muerte: no soportaría ver morir a quien ama sin participar de esa congelación. «Derecho al Hielo» conserva la aspereza jurídica y corporal."},
+      {line: 23, title: "Rostro de Jesús y competencia de amores", body: "El amado desplaza incluso la imagen de Jesús. El poema recurre a un imaginario cristiano para expresar una pasión que desordena el sistema de prioridades de la salvación."},
+      {line: 29, title: "El juicio y el cielo", body: "La voz imagina un juicio después de la muerte, pero el Cielo no basta como recompensa si separa a los amantes. La oposición con el Infierno se organiza por proximidad y ausencia."},
+      {line: 35, title: "Sordid excellence / consequence", body: "Miller registra «consequence» como alternativa a «sordid» en el fragmento, cuya disposición exige cautela. No es solo un matiz estilístico: desplaza el sentido de la crítica al Paraíso. Aquí se conserva la lectura de Johnson."},
+      {line: 44, title: "Infierno sin el otro", body: "La frase «Where You were not» redefine la condena como distancia respecto del destinatario. La teología escatológica se convierte en geografía afectiva."},
+      {line: 45, title: "Una unión en la separación", body: "La conclusión «So We must meet apart» no dice simplemente «debemos separarnos», sino que propone un paradójico «encontrarnos separados»."},
+      {line: 48, title: "Océanos y plegaria", body: "La puerta entreabierta es una distancia inmensa, hecha de océanos y oración. La imagen reaprovecha la navegación amorosa que leímos en J249, pero ya no confía en un puerto."},
+      {line: 49, title: "White Sustenance / exercise / privilege", body: "Miller reproduce dos alternativas («exercise», «privilege») a «Sustenance» en la copia retenida; la elección afecta al modo de concebir la desesperación como alimento, ejercicio o prerrogativa."},
+      {line: 50, title: "¿A quién se dirige el poema?", body: "El texto no nombra a Sue, a Bowles, a Wadsworth ni a otro destinatario. Preest lo relaciona con el «Master» de otras interpretaciones, pero esa identificación no es un dato establecido por los versos."}
+    ]
+  },
+J709: {
+    "id": "J709",
+    "franklin": "F788",
+    "approx": "c. 1863",
+    "incipit": "Publication – is the Auction",
+    "titleES": "Publicar — es subastar",
+    "source": "Johnson J709, pp. 348–349; Miller F788, fascículo 37, p. 386.",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "lines": [
+      [
+        "Publication – is the Auction",
+        "Publicar — es subastar"
+      ],
+      [
+        "Of the Mind of Man –",
+        "la Mente del Ser Humano —"
+      ],
+      [
+        "Poverty – be justifying",
+        "La Pobreza — podría justificar"
+      ],
+      [
+        "For so foul a thing",
+        "algo tan infame."
+      ],
+      [
+        "Possibly – but We – would rather",
+        "Quizá — pero Nosotros — preferiríamos"
+      ],
+      [
+        "From Our Garret go",
+        "salir de nuestra Buhardilla"
+      ],
+      [
+        "White – unto the White Creator –",
+        "puros — hacia el Creador puro —"
+      ],
+      [
+        "Than invest – Our Snow –",
+        "antes que invertir — nuestra Nieve —"
+      ],
+      [
+        "Thought belong to Him who gave it –",
+        "El Pensamiento pertenece a Quien lo dio —"
+      ],
+      [
+        "Then – to Him Who bear",
+        "y luego — a Quien lleva"
+      ],
+      [
+        "Its Corporeal illustration – sell",
+        "su manifestación Corpórea — vender"
+      ],
+      [
+        "The Royal Air –",
+        "el Aire Regio —"
+      ],
+      [
+        "In the Parcel – Be the Merchant",
+        "en un Lote — ser Mercader"
+      ],
+      [
+        "Of the Heavenly Grace –",
+        "de la Gracia Celestial —"
+      ],
+      [
+        "But reduce no Human Spirit",
+        "pero no rebajar ningún Espíritu Humano"
+      ],
+      [
+        "To Disgrace of Price –",
+        "a la Vergüenza de un Precio —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Auction",
+        "body": "La subasta convierte la publicación en transacción comercial. No equivale a una prohibición universal de publicar: es una voz poética que denuncia la mercantilización del pensamiento."
+      },
+      {
+        "line": 6,
+        "title": "Garret",
+        "body": "La buhardilla es un lugar humilde de creación y retiro, en contraste con el mercado."
+      },
+      {
+        "line": 8,
+        "title": "Snow",
+        "body": "La nieve representa una blancura vulnerable, asociada a integridad y pureza; «invest» la trata como capital."
+      },
+      {
+        "line": 11,
+        "title": "Corporeal illustration",
+        "body": "El pensamiento intangible toma cuerpo en una obra vendible: el poema pregunta quién puede apropiarse de ese acto."
+      },
+      {
+        "line": 16,
+        "title": "Precio y dignidad",
+        "body": "La estrofa final contrapone la gracia celestial a la reducción del espíritu a mercancía. El poema figura en el fascículo 37 según Miller."
+      }
+    ]
+  },
+J712: {
+    id: "J712", franklin: "F479", approx: "c. 1862",
+    incipit: "Because I could not stop for Death –",
+    titleES: "Como no podía detenerme por la Muerte —",
+    stanzaBreaks: [4, 8, 12, 16, 20],
+    source: "Johnson, The Complete Poems, J712, pp. 349–350; Miller, Emily Dickinson’s Poems: As She Preserved Them, fascículo 23, pp. 239–240 (F479); Preest, Emily Dickinson Poems Commentary, pp. 241–242. Sobre la edición póstuma de 1890: Dartmouth, White Heat, «Because I could not stop for Death» (F479).",
+    lines: [
+      ["Because I could not stop for Death –", "Como no podía detenerme por la Muerte —"],
+      ["He kindly stopped for me –", "Él tuvo la amabilidad de detenerse por mí —"],
+      ["The Carriage held but just Ourselves –", "El Carruaje solo nos llevaba a Nosotros —"],
+      ["And Immortality.", "y a la Inmortalidad."],
+      ["We slowly drove – He knew no haste", "Avanzábamos despacio — Él no conocía la prisa"],
+      ["And I had put away", "y yo había dejado de lado"],
+      ["My labor and my leisure too,", "mi trabajo y también mi ocio,"],
+      ["For His Civility –", "por Su Cortesía —"],
+      ["We passed the School, where Children strove", "Pasamos por la Escuela, donde los Niños se afanaban"],
+      ["At Recess – in the Ring –", "en el Recreo — formando un Corro —"],
+      ["We passed the Fields of Gazing Grain –", "Pasamos por los Campos de Grano que miraba —"],
+      ["We passed the Setting Sun –", "Pasamos por el Sol Poniente —"],
+      ["Or rather – He passed Us –", "O más bien — Él nos pasó —"],
+      ["The Dews drew quivering and Chill –", "El Rocío nos envolvió, tembloroso y Frío —"],
+      ["For only Gossamer, my Gown –", "porque mi Vestido era apenas de Gasa —"],
+      ["My Tippet – only Tulle –", "mi Manteleta — solo de Tul —"],
+      ["We paused before a House that seemed", "Nos detuvimos ante una Casa que parecía"],
+      ["A Swelling of the Ground –", "una Hinchazón del Suelo —"],
+      ["The Roof was scarcely visible –", "el Techo apenas se distinguía —"],
+      ["The Cornice – in the Ground –", "la Cornisa — estaba en la Tierra —"],
+      ["Since then – ’tis Centuries – and yet", "Desde entonces — han pasado Siglos — y, sin embargo,"],
+      ["Feels shorter than the Day", "parecen más breves que el Día"],
+      ["I first surmised the Horses’ Heads", "en que por primera vez sospeché que las Cabezas de los Caballos"],
+      ["Were toward Eternity –", "apuntaban hacia la Eternidad —"]
+    ],
+    notes: [
+      {line: 1, title: "Una muerte cortés", body: "La muerte aparece como un hombre que detiene su carruaje y ofrece un paseo. Esa personificación evita el horror explícito, pero es inquietante precisamente por su normalidad."},
+      {line: 4, title: "La tercera pasajera", body: "La «Inmortalidad» comparte el carruaje, aunque no actúa ni habla. Su presencia no demuestra por sí sola que la travesía termine en una vida posterior comprobable."},
+      {line: 5, title: "La cortesía cambia el tiempo", body: "El viaje es lento, y la hablante deja atrás tanto el trabajo como el ocio. La vida social organizada por actividades cede ante un ritmo que no controla."},
+      {line: 9, title: "La escuela y el grano", body: "La infancia y la maduración agrícola permiten leer un recorrido por etapas de la vida o por distintas escalas del tiempo. Es una interpretación, no una equivalencia alegórica declarada por la autora."},
+      {line: 11, title: "Fields of Gazing Grain", body: "«Gazing» atribuye al grano la facultad de mirar. En español, «de Grano que miraba» intenta no perder la personificación; evita sustituirla por «grano dorado» u otra imagen que no está en el verso."},
+      {line: 13, title: "¿Quién pasa a quién?", body: "«Or rather – He passed Us –» corrige el verso anterior: no está claro que los viajeros dejen atrás el sol; es el sol el que los sobrepasa. La corrección modifica la orientación de la escena y anuncia el frío posterior."},
+      {line: 14, title: "Ropa insuficiente", body: "Gossamer y Tulle son materiales ligeros. La delicadeza de la vestimenta transforma la cortesía inicial en exposición al frío, con una evidente fragilidad corporal."},
+      {line: 18, title: "La casa enterrada", body: "La «Casa» que parece una elevación del suelo es una tumba: el techo apenas visible y la cornisa bajo tierra condensan lo doméstico y lo funerario."},
+      {line: 21, title: "Centuries: una voz fuera del tiempo", body: "Han pasado siglos desde el viaje y, sin embargo, parecen más cortos que un solo día. El poema modifica la duración y la perspectiva de la voz, sin ofrecer una descripción verificable del más allá."},
+      {line: 23, title: "Una lectura alternativa de Sewall y Ruth Miller", body: "Preest recoge la interpretación de Richard Sewall y Ruth Miller según la cual la cabalgata figura el descubrimiento temprano de la vocación de Dickinson: escribir sobre muerte e inmortalidad. Es una hipótesis distinta de la lectura convencional desde el sepulcro y debe presentarse como tal."},
+      {line: 24, title: "La versión de 1890", body: "En su primera publicación póstuma, bajo el título editorial «The Chariot», Todd y Higginson omitieron la estrofa que empieza «Or rather – He passed Us –» y regularizaron otras partes. La presente edición conserva los 24 versos de Johnson y permite cotejarlos con Miller (F479)."}
+    ]
+  },
+J986: {
+    id: "J986", franklin: "F1096", approx: "c. 1865",
+    incipit: "A narrow Fellow in the Grass",
+    titleES: "Un sujeto estrecho entre la Hierba",
+    stanzaBreaks: [4, 8, 12, 16, 20],
+    source: "Johnson, The Complete Poems, J986, pp. 459–460; Miller, As She Preserved Them, hoja suelta 54, pp. 489–490; Preest, comentario a J986, pp. 319–320; Martin, Cambridge Introduction, pp. 113–115.",
+    lines: [
+      ["A narrow Fellow in the Grass", "Un Sujeto estrecho entre la Hierba"],
+      ["Occasionally rides –", "de vez en cuando cabalga —"],
+      ["You may have met Him – did you not", "Quizá te lo hayas encontrado — y si no,"],
+      ["His notice sudden is –", "de golpe se hace notar —"],
+      ["The Grass divides as with a Comb –", "La Hierba se abre como bajo un Peine —"],
+      ["A spotted shaft is seen –", "se deja ver una vara moteada —"],
+      ["And then it closes at your feet", "y luego se cierra a tus pies"],
+      ["And opens further on –", "y vuelve a abrirse más allá —"],
+      ["He likes a Boggy Acre", "Le gusta una Parcela pantanosa"],
+      ["A Floor too cool for Corn –", "un Suelo demasiado fresco para el Maíz —"],
+      ["Yet when a Boy, and Barefoot –", "Pero cuando era Niño, y andaba Descalzo —"],
+      ["I more than once at Noon", "más de una vez al Mediodía"],
+      ["Have passed, I thought, a Whip lash", "pasé junto a lo que creí la tralla de un Látigo"],
+      ["Unbraiding in the Sun", "destrenzándose al Sol"],
+      ["When stooping to secure it", "y al agacharme para recogerla"],
+      ["It wrinkled, and was gone –", "se onduló y desapareció —"],
+      ["Several of Nature's People", "A varias Gentes de la Naturaleza"],
+      ["I know, and they know me –", "conozco, y ellas me conocen —"],
+      ["I feel for them a transport", "siento por ellas un arrebato"],
+      ["Of cordiality –", "de cordialidad —"],
+      ["But never met this Fellow", "Pero nunca encontré a este Sujeto"],
+      ["Attended, or alone", "acompañado o a solas,"],
+      ["Without a tighter breathing", "sin que se me apretara el aliento"],
+      ["And Zero at the Bone –", "y sintiera el Cero en los Huesos —"]
+    ],
+    notes: [
+      {line: 1, title: "Adivinanza: la criatura sin nombre", body: "El poema no dice «snake» en ningún momento. Los detalles de las seis estrofas permiten inferir que se trata de una serpiente, pero la identificación forma parte del recorrido de lectura. El título «The Snake» fue añadido por los editores de su publicación en 1866, destruyendo ese efecto inicial."},
+      {line: 2, title: "Rides", body: "El verbo «rides» humaniza a la criatura al sugerir que monta o cabalga, aunque se describe un avance sobre la hierba. La traducción conserva la extrañeza en lugar de normalizarlo como «se arrastra»."},
+      {line: 3, title: "El verso que Dickinson defendió", body: "En la publicación de 1866 se añadió puntuación al final de la tercera línea, separándola de la cuarta. Dickinson se quejó ante Higginson de que, para ella, ambas formaban una unidad. Nuestra versión procura leer «did you not / His notice sudden is» como «si no lo conociste, su presencia se anuncia de improviso»."},
+      {line: 5, title: "Una marca que se borra", body: "El peine abre una raya y la hierba vuelve a cerrarse: se percibe al animal por el efecto fugaz que produce en el terreno. La imagen depende tanto del ocultamiento como de lo visible."},
+      {line: 6, title: "Spotted shaft", body: "«Shaft» puede significar vara o tallo; «spotted» sugiere manchas en la superficie. El poema registra algo que aparece a trozos antes de proporcionar al lector suficiente información para reconocerlo."},
+      {line: 9, title: "Boggy Acre / Corn", body: "Los campos cenagosos y suelos demasiado frescos para el maíz sitúan al animal en un hábitat concreto. El contraste con el cultivo humano reitera que la naturaleza no está siempre ordenada para nuestras necesidades."},
+      {line: 11, title: "La voz «cuando era Niño»", body: "El texto adopta «when a Boy», y por eso la traducción mantiene «Niño». No obliga a identificar la voz del poema literalmente con la biografía o el género de Dickinson: la hablante poética puede representar una experiencia o una máscara."},
+      {line: 13, title: "Whip lash", body: "La apariencia de una correa de látigo que se destrenza al sol prolonga la adivinanza y el movimiento del animal. Al intentar tomar el objeto, la voz descubre que estaba vivo."},
+      {line: 17, title: "Nature's People", body: "La naturaleza aparece como una comunidad de personas. Sin embargo, las estrofas finales ponen un límite a esa cordialidad: familiaridad no equivale a confianza universal."},
+      {line: 24, title: "Zero at the Bone", body: "Una cifra abstracta, «Zero», nombra una sensación física extrema: un frío que atraviesa el cuerpo hasta los huesos. Puede sugerir tanto el miedo súbito como una experiencia radical de alteridad."},
+      {line: 1, title: "Historia de publicación", body: "El Springfield Daily Republican publicó el poema el 14 de febrero de 1866 como «The Snake», con alteraciones editoriales; Dickinson escribió a Thomas Wentworth Higginson el 17 de marzo de 1866 para protestar, especialmente por la puntuación. Véase Miller, nota a la hoja 54, y Emily Dickinson Museum, «Poems Published in Dickinson's Lifetime»."}
+    ]
+  },
+J1129: {
+    "id": "J1129",
+    "franklin": "F1263",
+    "approx": "c. 1868 (Johnson); c. 1872 (Miller)",
+    "incipit": "Tell all the Truth but tell it slant –",
+    "titleES": "Decí toda la Verdad, pero de sesgo",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Johnson J1129, pp. 506–507; Miller F1263, p. 563, poemas sueltos; variantes «bold» y «moderately».",
+    "lines": [
+      [
+        "Tell all the Truth but tell it slant –",
+        "Decí toda la Verdad, pero decila de sesgo —"
+      ],
+      [
+        "Success in Circuit lies",
+        "el éxito está en el Rodeo"
+      ],
+      [
+        "Too bright for our infirm Delight",
+        "Demasiado brillante para nuestro frágil Deleite"
+      ],
+      [
+        "The Truth's superb surprise",
+        "es la soberbia sorpresa de la Verdad"
+      ],
+      [
+        "As Lightning to the Children eased",
+        "Como el Relámpago, suavizado para los Niños"
+      ],
+      [
+        "With explanation kind",
+        "mediante una explicación amable"
+      ],
+      [
+        "The Truth must dazzle gradually",
+        "la Verdad debe deslumbrar gradualmente"
+      ],
+      [
+        "Or every man be blind –",
+        "o todos quedarán ciegos —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Slant",
+        "body": "No propone mentir: exige un modo oblicuo de transmitir una verdad que excede la recepción inmediata. «De sesgo» preserva la orientación espacial."
+      },
+      {
+        "line": 2,
+        "title": "Circuit",
+        "body": "Circuito, rodeo o vía indirecta: el sentido puede necesitar un trayecto no rectilíneo."
+      },
+      {
+        "line": 3,
+        "title": "Variantes de Miller",
+        "body": "Miller registra «bold» como alternativa a «bright» en el manuscrito, y «moderately» a «gradually» más adelante. La primera altera el tipo de intensidad; la segunda, el ritmo de exposición."
+      },
+      {
+        "line": 5,
+        "title": "Relámpago",
+        "body": "La explicación dirigida a los niños amortigua el choque de una iluminación repentina. La metáfora se puede leer como reflexión sobre la propia técnica poética."
+      },
+      {
+        "line": 8,
+        "title": "Cronología",
+        "body": "Johnson fecha el poema hacia 1868; Miller sitúa el testimonio que edita hacia 1872. No se unifican estas fechas artificialmente."
+      }
+    ]
+  },
+J1212: {
+    "id": "J1212",
+    "franklin": "F278",
+    "approx": "c. 1872 (Johnson); copia enviada a Frances Norcross probablemente a comienzos de 1862 (Miller)",
+    "incipit": "A word is dead",
+    "titleES": "Una palabra muere",
+    "source": "Johnson J1212, p. 534; Miller F278, p. 702, «Poems Not Retained», versión dirigida a Frances Norcross.",
+    "lines": [
+      [
+        "A word is dead",
+        "Una palabra muere"
+      ],
+      [
+        "When it is said,",
+        "cuando se pronuncia,"
+      ],
+      [
+        "Some say.",
+        "dicen algunos."
+      ],
+      [
+        "I say it just",
+        "Yo digo que apenas"
+      ],
+      [
+        "Begins to live",
+        "empieza a vivir"
+      ],
+      [
+        "That day.",
+        "ese día."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una palabra viva",
+        "body": "El poema contrapone una teoría del lenguaje como pérdida a otra en la que la enunciación inaugura una vida pública y relacional."
+      },
+      {
+        "line": 3,
+        "title": "Some say / I say",
+        "body": "La forma mínima pone en escena una discusión: no afirma un consenso, sino una posición personal frente a una opinión ajena."
+      },
+      {
+        "line": 6,
+        "title": "Versiones y cronología",
+        "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
+      }
+    ]
+  }
 });
