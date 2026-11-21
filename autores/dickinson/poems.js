@@ -15677,6 +15677,104 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La pregunta por la entrega amorosa se desplaza desde la flor y la abeja hasta el Edén y la nobleza: ¿puede conservarse el aura de lo deseado después de poseerlo?",
     "preest": null
   },
+  "J214": {
+    "id": "J214",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "I taste a liquor never brewed –",
+    "titleES": "Pruebo un licor que jamás se elaboró",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J214, pp. 98–99. Texto cotejado con el PDF del usuario; puntuación y grafías editoriales normalizadas donde el OCR es ambiguo. Equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "I taste a liquor never brewed –",
+        "Pruebo un licor que jamás se elaboró —"
+      ],
+      [
+        "From Tankards scooped in Pearl –",
+        "en jarras talladas en Perla —"
+      ],
+      [
+        "Not all the Vats upon the Rhine",
+        "ni todas las cubas del Rin"
+      ],
+      [
+        "Yield such an Alcohol!",
+        "producen semejante Alcohol."
+      ],
+      [
+        "Inebriate of Air – am I –",
+        "Ebria de Aire — estoy —"
+      ],
+      [
+        "And Debauchee of Dew –",
+        "y libertina del Rocío —"
+      ],
+      [
+        "Reeling – thro endless summer days –",
+        "tambaleándome — por interminables días de verano —"
+      ],
+      [
+        "From inns of Molten Blue –",
+        "desde posadas de Azul fundido —"
+      ],
+      [
+        "When “Landlords” turn the drunken Bee",
+        "Cuando los «Posaderos» echen a la Abeja borracha"
+      ],
+      [
+        "Out of the Foxglove’s door –",
+        "de la puerta de la Digital —"
+      ],
+      [
+        "When Butterflies – renounce their “drams” –",
+        "cuando las Mariposas — renuncien a sus «tragos» —"
+      ],
+      [
+        "I shall but drink the more!",
+        "¡yo beberé todavía más!"
+      ],
+      [
+        "Till Seraphs swing their snowy Hats –",
+        "Hasta que los Serafines agiten sus sombreros de nieve —"
+      ],
+      [
+        "And Saints – to windows run –",
+        "y los Santos — corran a las ventanas —"
+      ],
+      [
+        "To see the little Tippler",
+        "para ver a la pequeña bebedora"
+      ],
+      [
+        "Leaning against the – Sun –",
+        "apoyada contra el — Sol —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Un licor imposible",
+        "body": "La embriaguez no procede del vino sino de la experiencia del aire y el rocío: el poema traslada el vocabulario de la bebida a una exaltación de la naturaleza."
+      },
+      {
+        "line": 9,
+        "title": "Landlords y foxglove",
+        "body": "«Landlords» son los posaderos que expulsan a la abeja de su taberna floral; foxglove designa la digital, flor tubular visitada por insectos."
+      },
+      {
+        "line": 13,
+        "title": "Serafines y santos",
+        "body": "El cierre traslada la escena desde una taberna imaginaria hasta el cielo: incluso los seres celestiales contemplan a la bebedora terrestre."
+      }
+    ],
+    "interpretation": "La voz poética inventa una borrachera sin alcohol: su intoxicación es el verano mismo. El poema transforma el mundo natural en una red de tabernas y huéspedes y lleva la hipérbole hasta el cielo. Su alegría es deliberadamente irreverente: la pequeña bebedora atrae la atención de santos y serafines sin renunciar a su apetito.",
+    "preest": null
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
