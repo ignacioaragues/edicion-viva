@@ -5857,6 +5857,157 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "body": "La escena procede de Génesis 32, no de los Evangelios: la atribución puede ser parte del humor irreverente del poema."
       }
     ]
-  }
-
+  },  J60: {
+  "id": "J60",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "Like her the Saints retire,",
+  "titleES": "Como ella se retiran los santos,",
+  "stanzaBreaks": [
+    3,
+    6,
+    9
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J60, p. 32 de la paginación impresa (PDF del proyecto, página 42); lectura del escaneo con normalización de errores OCR. Correspondencia Franklin por verificar.",
+  "lines": [
+    [
+      "Like her the Saints retire,",
+      "Como ella se retiran los santos,"
+    ],
+    [
+      "In their Chapeaux of fire,",
+      "con sus sombreros de fuego,"
+    ],
+    [
+      "Martial as she!",
+      "¡marciales como ella!"
+    ],
+    [
+      "Like her the Evenings steal",
+      "Como ella, las tardes se escabullen"
+    ],
+    [
+      "Purple and Cochineal",
+      "entre púrpura y cochinilla"
+    ],
+    [
+      "After the Day!",
+      "después del día."
+    ],
+    [
+      "\"Departed\" - both - they say!",
+      "«Partidos» — ambos — ¡dicen!"
+    ],
+    [
+      "i.e. gathered away,",
+      "es decir, recogidos y llevados,"
+    ],
+    [
+      "Not found,",
+      "ya no encontrados,"
+    ],
+    [
+      "Argues the Aster still -",
+      "sigue argumentando el áster —"
+    ],
+    [
+      "Reasons the Daffodil",
+      "razona el narciso"
+    ],
+    [
+      "Profound!",
+      "¡con hondura!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Chapeaux",
+      "body": "Galicismo para «sombreros»: la imagen enlaza el atardecer con un atuendo ceremonial de fuego."
+    },
+    {
+      "line": 5,
+      "title": "Cochineal",
+      "body": "La cochinilla es un tinte rojo intenso; junto a «Purple» forma una paleta cromática del crepúsculo."
+    },
+    {
+      "line": 7,
+      "title": "Departed",
+      "body": "El verbo puede designar tanto la partida como la muerte. La hablante pone entre comillas la explicación convencional de la desaparición."
+    },
+    {
+      "line": 10,
+      "title": "Aster / Daffodil",
+      "body": "Las flores se convierten en interlocutores capaces de discutir la ausencia y la persistencia de la vida."
+    }
+  ],
+  "interpretation": "El crepúsculo se convierte en una ceremonia de retirada, pero la voz poética cuestiona qué significa que alguien «se haya ido». El áster y el narciso oponen a la fórmula del alejamiento una argumentación vegetal: la desaparición visible no prueba necesariamente la aniquilación. La ironía del cierre hace de la naturaleza una filósofa.",
+  "preest": null
+},
+  J61: {
+  "id": "J61",
+  "franklin": null,
+  "approx": "1859",
+  "incipit": "Papa above!",
+  "titleES": "¡Padre allá arriba!",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J61, p. 32 de la paginación impresa (PDF del proyecto, página 42); texto cotejado con escaneo, con corrección de errores OCR evidentes. Franklin pendiente.",
+  "lines": [
+    [
+      "Papa above!",
+      "¡Papá, allá arriba!"
+    ],
+    [
+      "Regard a Mouse",
+      "Mirá a un ratón"
+    ],
+    [
+      "O'erpowered by the Cat!",
+      "vencido por el gato."
+    ],
+    [
+      "Reserve within thy kingdom",
+      "Reservá en tu reino"
+    ],
+    [
+      "A \"Mansion\" for the Rat!",
+      "una «mansión» para la rata."
+    ],
+    [
+      "Snug in seraphic Cupboards",
+      "Cómoda en armarios seráficos"
+    ],
+    [
+      "To nibble all the day,",
+      "para roer durante todo el día,"
+    ],
+    [
+      "While unsuspecting Cycles",
+      "mientras los ciclos desprevenidos"
+    ],
+    [
+      "Wheel solemnly away!",
+      "giran solemnemente y se alejan."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Papa above",
+      "body": "La oración adopta un tratamiento infantil y doméstico de Dios, en lugar de la solemnidad litúrgica habitual."
+    },
+    {
+      "line": 5,
+      "title": "Mansion",
+      "body": "Las comillas remiten irónicamente a las «muchas moradas» de Juan 14:2: aquí se solicita alojamiento celestial para un roedor."
+    },
+    {
+      "line": 6,
+      "title": "Seraphic Cupboards",
+      "body": "El cielo se imagina como una cocina provista de alacenas; lo sagrado se vuelve doméstico sin perder su extrañeza."
+    }
+  ],
+  "interpretation": "La petición invierte las jerarquías religiosas y zoológicas: el pequeño animal perseguido reclama la misma hospitalidad celestial que las almas humanas. El humor no cancela la compasión; la vuelve concreta, imaginando una eternidad donde el ratón pueda alimentarse sin miedo mientras transcurre el tiempo cósmico.",
+  "preest": null
+}
 });
