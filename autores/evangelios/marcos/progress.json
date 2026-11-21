@@ -2613,6 +2613,19 @@
         "https://www.biblegateway.com/verse/grc/Mark%209%3A21",
         "https://biblehub.com/lexicon/mark/9-21.htm"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 22,
+      "to": 22,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "22/22 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/9",
+        "https://www.misselbrook.org.uk/GNT/Mark.pdf",
+        "https://ebible.org/pdf/grcf35/grcf35_MRK.pdf"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,21; segunda revisión filológica y Vulgata pendientes.",
