@@ -8652,5 +8652,325 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El ramo floral funciona como mensaje para quienes no pueden acceder al mundo abierto. El poema sitúa la solidaridad en un gesto mínimo, sin prometer una liberación inmediata.",
   "preest": null
+},
+  J96: {
+  "id": "J96",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Sexton! My Master's sleeping here.",
+  "titleES": "¡Sepulturero! Aquí duerme mi Señor.",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J96, pp. 47–49 (texto base cotejado; correspondencia Franklin pendiente).",
+  "lines": [
+    [
+      "Sexton! My Master's sleeping here.",
+      "¡Sepulturero! Aquí duerme mi Señor."
+    ],
+    [
+      "Pray lead me to his bed!",
+      "¡Te ruego que me lleves a su lecho!"
+    ],
+    [
+      "I came to build the Bird's nest,",
+      "Vine a construir el nido del pájaro"
+    ],
+    [
+      "And sow the Early seed –",
+      "y a sembrar la semilla temprana,"
+    ],
+    [
+      "That when the snow creeps slowly",
+      "para que, cuando la nieve se retire despacio"
+    ],
+    [
+      "From off his chamber door –",
+      "de la puerta de su aposento,"
+    ],
+    [
+      "Daisies point the way there –",
+      "las margaritas señalen el camino"
+    ],
+    [
+      "And the Troubadour.",
+      "y también el trovador."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Master",
+      "body": "La identidad del «Señor» permanece abierta: la imaginería sepulcral convive con la del retorno primaveral."
+    }
+  ],
+  "interpretation": "La hablante visita una tumba para preparar, con nidos y semillas, un paisaje de regreso. La nieve no desaparece por un milagro explícito: se retira gradualmente, mientras las flores y el canto orientan hacia quien duerme. La escena puede leerse como esperanza de resurrección o como resistencia afectiva a la clausura de la muerte.",
+  "preest": null
+},
+  J97: {
+  "id": "J97",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "The rainbow never tells me",
+  "titleES": "El arcoíris nunca me dice",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J97, pp. 47–49 (texto base cotejado; correspondencia Franklin pendiente).",
+  "lines": [
+    [
+      "The rainbow never tells me",
+      "El arcoíris nunca me dice"
+    ],
+    [
+      "That gust and storm are by,",
+      "que ya pasaron la ráfaga y la tormenta,"
+    ],
+    [
+      "Yet is she more convincing",
+      "y sin embargo convence más"
+    ],
+    [
+      "Than Philosophy.",
+      "que la filosofía."
+    ],
+    [
+      "My flowers turn from Forums –",
+      "Mis flores se apartan de los foros,"
+    ],
+    [
+      "Yet eloquent declare",
+      "pero declaran con elocuencia"
+    ],
+    [
+      "What Cato couldn't prove me",
+      "lo que Catón no pudo demostrarme:"
+    ],
+    [
+      "Except the birds were here!",
+      "¡que los pájaros estuvieron aquí!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Cato / Forums",
+      "body": "Catón evoca la autoridad de la oratoria y la tradición romana; el poema enfrenta la demostración discursiva con la evidencia natural."
+    }
+  ],
+  "interpretation": "El arcoíris y las flores no argumentan en sentido filosófico, pero convencen a la hablante. Dickinson pone en tensión la prueba lógica y una forma de conocimiento sensible: la naturaleza atestigua sin formular proposiciones, mientras la voz poética convierte esa presencia en una declaración.",
+  "preest": null
+},
+  J98: {
+  "id": "J98",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "One dignity delays for all –",
+  "titleES": "Una dignidad aguarda a todos:",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J98, pp. 47–49 (texto base cotejado; correspondencia Franklin pendiente).",
+  "lines": [
+    [
+      "One dignity delays for all –",
+      "Una dignidad aguarda a todos:"
+    ],
+    [
+      "One mitred Afternoon –",
+      "una tarde con mitra;"
+    ],
+    [
+      "None can avoid this purple –",
+      "nadie puede evitar esta púrpura,"
+    ],
+    [
+      "None evade this Crown!",
+      "¡nadie eludir esta corona!"
+    ],
+    [
+      "Coach, it insures, and footmen –",
+      "Garantiza carruaje y lacayos,"
+    ],
+    [
+      "Chamber, and state, and throng –",
+      "cámara, ceremonia y multitud,"
+    ],
+    [
+      "Bells, also, in the village",
+      "y también campanas en el pueblo"
+    ],
+    [
+      "As we ride grand along!",
+      "cuando avanzamos con grandeza."
+    ],
+    [
+      "What dignified Attendants!",
+      "¡Qué dignos acompañantes!"
+    ],
+    [
+      "What service when we pause!",
+      "¡Qué servicio al detenernos!"
+    ],
+    [
+      "How loyally at parting",
+      "¡Con qué lealtad al despedirse"
+    ],
+    [
+      "Their hundred hats they raise!",
+      "levantan sus cien sombreros!"
+    ],
+    [
+      "How pomp surpassing ermine",
+      "¡Qué pompa supera al armiño"
+    ],
+    [
+      "When simple You, and I,",
+      "cuando vos y yo, tan sencillos,"
+    ],
+    [
+      "Present our meek escutcheon",
+      "presentamos nuestro humilde blasón"
+    ],
+    [
+      "And claim the rank to die!",
+      "y reclamamos el rango de morir!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "mitred / purple / ermine",
+      "body": "La mitra, la púrpura y el armiño pertenecen al vocabulario de las dignidades eclesiásticas y aristocráticas; aquí describen la ceremonia funeraria."
+    }
+  ],
+  "interpretation": "La muerte se presenta como una promoción social universal. La pompa del entierro concede incluso a quienes carecen de títulos un rango imposible de rechazar. El efecto es ambiguo: consuela la igualdad de destino, pero la insistencia en carruajes, lacayos y reverencias introduce una ironía sobre la teatralidad de los honores fúnebres.",
+  "preest": null
+},
+  J99: {
+  "id": "J99",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "New feet within my garden go –",
+  "titleES": "Nuevos pies recorren mi jardín,",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J99, pp. 47–49 (texto base cotejado; correspondencia Franklin pendiente).",
+  "lines": [
+    [
+      "New feet within my garden go –",
+      "Nuevos pies recorren mi jardín,"
+    ],
+    [
+      "New fingers stir the sod –",
+      "nuevos dedos remueven la tierra;"
+    ],
+    [
+      "A Troubadour upon the Elm",
+      "un trovador posado en el olmo"
+    ],
+    [
+      "Betrays the solitude.",
+      "delata la soledad."
+    ],
+    [
+      "New children play upon the green –",
+      "Nuevos niños juegan sobre el césped,"
+    ],
+    [
+      "New Weary sleep below –",
+      "nuevos cansados duermen debajo;"
+    ],
+    [
+      "And still the pensive Spring returns –",
+      "y aun así regresa la primavera pensativa,"
+    ],
+    [
+      "And still the punctual snow!",
+      "¡y aun así la nieve puntual!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "New Weary",
+      "body": "«Los nuevos cansados» alude plausiblemente a los muertos recientes que descansan bajo tierra; el texto evita nombrarlos directamente."
+    }
+  ],
+  "interpretation": "El jardín cambia de habitantes, pero no de ciclos. Los niños que juegan arriba y quienes duermen abajo comparten el mismo terreno; la primavera y la nieve regresan indiferentes a las sustituciones humanas. La repetición de «New» y «still» contrapone renovación biográfica y persistencia estacional.",
+  "preest": null
+},
+  J100: {
+  "id": "J100",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "A science – so the Savants say,",
+  "titleES": "Una ciencia —dicen los sabios—,",
+  "stanzaBreaks": [
+    6
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J100, pp. 47–49 (texto base cotejado; correspondencia Franklin pendiente).",
+  "lines": [
+    [
+      "A science – so the Savants say,",
+      "Una ciencia —dicen los sabios—,"
+    ],
+    [
+      "\"Comparative Anatomy\" –",
+      "«anatomía comparada»,"
+    ],
+    [
+      "By which a single bone –",
+      "por la cual un solo hueso"
+    ],
+    [
+      "Is made a secret to unfold",
+      "es obligado a revelar el secreto"
+    ],
+    [
+      "Of some rare tenant of the mold,",
+      "de algún raro habitante de la tierra,"
+    ],
+    [
+      "Else perished in the stone –",
+      "que de otro modo se habría perdido en la piedra;"
+    ],
+    [
+      "So to the eye prospective led,",
+      "así, ante el ojo que mira hacia el porvenir,"
+    ],
+    [
+      "This meekest flower of the mead",
+      "esta humildísima flor del prado,"
+    ],
+    [
+      "Upon a winter's day,",
+      "en un día de invierno,"
+    ],
+    [
+      "Stands representative in gold",
+      "representa en su oro"
+    ],
+    [
+      "Of Rose and Lily, manifold,",
+      "a rosas y lirios innumerables"
+    ],
+    [
+      "And countless Butterfly!",
+      "¡y a incontables mariposas!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Comparative Anatomy",
+      "body": "La anatomía comparada reconstruye organismos a partir de restos parciales; la analogía permite leer una flor invernal como indicio de la abundancia futura."
+    }
+  ],
+  "interpretation": "El poema traslada una técnica de reconstrucción científica a la imaginación estacional. Del mismo modo que un hueso permite conjeturar un animal desaparecido, una flor mínima permite anticipar la multitud de formas de la primavera. La ciencia no queda ridiculizada: su lógica inferencial se vuelve una forma de esperanza.",
+  "preest": null
 }
 });
