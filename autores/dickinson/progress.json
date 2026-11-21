@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 210,
-    "publishedVerses": 2802,
+    "publishedPoems": 221,
+    "publishedVerses": 2940,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -201,6 +201,17 @@
       "J187",
       "J188",
       "J189",
+      "J190",
+      "J191",
+      "J192",
+      "J193",
+      "J194",
+      "J195",
+      "J196",
+      "J197",
+      "J198",
+      "J199",
+      "J200",
       "J249",
       "J254",
       "J258",
@@ -223,16 +234,16 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 189,
-    "nextJohnsonId": "J190",
+    "completedSequentialThrough": 200,
+    "nextJohnsonId": "J201",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-22",
-      "result": "J178–J184 y J186–J189: 128 versos; J185 reutilizado. Sintaxis JS, identificadores únicos y parejas bilingües comprobados. Pendiente cotejo facsimilar y Franklin.",
-      "newVersesThisRun": 128
+      "result": "J190–J200: 138 versos, 11 poemas completos; cotejo Johnson pp. 89–95. Sintaxis, pares bilingües y continuidad J1–J200 verificados. Franklin, Preest y variantes pendientes.",
+      "newVersesThisRun": 138
     }
   },
-  "lastCompletedMilestone": "J189",
-  "nextAction": "Continuar desde J190",
+  "lastCompletedMilestone": "J200",
+  "nextAction": "Continuar desde J201",
   "updatedOn": "2026-11-22"
 }
