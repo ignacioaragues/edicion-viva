@@ -1269,37 +1269,39 @@
     {
       "group": "sermones",
       "number": 58,
-      "section": "Sermo LVIII · De Passione Domini VII · capita I–II de V",
-      "paragraphs": 8,
-      "aligned_units": 8,
+      "section": "Sermo LVIII · De Passione Domini VII · capita I–V",
+      "paragraphs": 23,
+      "aligned_units": 23,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lviii/index.html",
-      "voice_notes": 4,
-      "lexical_coverage": "18 selective contextual morphological entries; word-by-word morphology pending",
+      "voice_notes": 8,
+      "lexical_coverage": "30 selective contextual morphology entries; exhaustive token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II published from public Latin Tractatus LVIII. Chapters III–V remain unpublished. Printed PL54 collation, full contextual morphology, shared dictionary and browser QA pending. Historical anti-Jewish polemic contextualized."
+      "editorial_caveat": "All five chapters and Amen published, Latin from public Tractatus LVIII transcription. Printed PL54 collation, exhaustive contextual morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": "Sermo LVIII, caput III, At Jesus consilii sui certus; finish chapters III–V before Sermo LIX",
-  "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-21: Sermo LVIII chapters I–II published (8 aligned units); chapters III–V pending",
-  "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
+  "next": {
     "group": "sermones",
-    "number": 58,
-    "chapter": 3,
-    "opening": "At Jesus consilii sui certus",
-    "status": "partial"
+    "number": 59,
+    "section": "Caput I",
+    "note": "Sermo LVIII first translation complete; start Sermo LIX. Review morphology and printed PL collation later."
   },
+  "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
+  "last_edit": "2026-11-21: completed Sermo LVIII chapters III–V, 23 aligned units, first-pass translation",
+  "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
