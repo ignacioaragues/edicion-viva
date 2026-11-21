@@ -2434,12 +2434,26 @@
         "https://www.biblestudytools.com/sblg/mark/9-5.html",
         "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/79/"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 6,
+      "to": 6,
+      "status": "edited_not_revised",
+      "morphology": "8/8 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://tips.translation.bible/story/translation-commentary-on-mark-96/",
+        "https://www.biblestudytools.com/sblg/mark/9-6.html",
+        "https://www.bibelkommentare.de/index/bibel/markus/9/6"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,6; segunda revisión filológica contextual y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,7; segunda revisión filológica contextual y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 6
+    "verse": 7
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5171,6 +5185,17 @@
     "sources": [
       "https://www.biblestudytools.com/sblg/mark/9-5.html",
       "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/79/"
+    ]
+  },
+  "prepublication_research_9_6": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "8/8",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://tips.translation.bible/story/translation-commentary-on-mark-96/",
+      "https://www.biblestudytools.com/sblg/mark/9-6.html",
+      "https://www.bibelkommentare.de/index/bibel/markus/9/6"
     ]
   }
 }
