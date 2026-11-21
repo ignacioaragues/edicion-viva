@@ -2601,12 +2601,24 @@
         "https://biblehub.com/commentaries/egt/mark/9.htm",
         "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-20.html"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 21,
+      "to": 21,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "17/17 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://www.biblegateway.com/verse/grc/Mark%209%3A21",
+        "https://biblehub.com/lexicon/mark/9-21.htm"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,21; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 21
+    "verse": 22
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5490,6 +5502,16 @@
       "https://www.sblgnt.com/download/revint/62-Mark.pdf",
       "https://biblehub.com/commentaries/egt/mark/9.htm",
       "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-20.html"
+    ]
+  },
+  "prepublication_research_9_21": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "17/17",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.biblegateway.com/verse/grc/Mark%209%3A21",
+      "https://biblehub.com/lexicon/mark/9-21.htm"
     ]
   }
 }
