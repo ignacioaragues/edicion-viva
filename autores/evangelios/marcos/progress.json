@@ -2562,12 +2562,24 @@
       "to": 17,
       "status": "edited_not_revised",
       "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "chapter": 9,
+      "from": 18,
+      "to": 18,
+      "status": "edited_not_revised",
+      "source": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "external_references": [
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-9.php",
+        "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/9/18",
+        "https://biblehub.com/text/mark/9-18.htm"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,18; segunda revisión filológica y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,19; segunda revisión filológica y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 18
+    "verse": 19
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
