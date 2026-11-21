@@ -2421,12 +2421,25 @@
         "https://mail.biblehub.com/commentaries/egt/mark/9.htm",
         "https://lemma.gebible.app/v/mark/9/4"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 5,
+      "to": 5,
+      "status": "edited_not_revised",
+      "morphology": "25/25 fichas posicionales",
+      "second_review": "pending",
+      "source": "Holmes SBLGNT (2010); Tauber MorphGNT 6.12",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/9-5.html",
+        "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/79/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,5; segunda revisión filológica contextual y Vulgata pendientes.",
+  "pending": "Continuar Marcos 9,6; segunda revisión filológica contextual y Vulgata pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 5
+    "verse": 6
   },
   "last_edit": "2026-11-21",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5148,6 +5161,16 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://mail.biblehub.com/commentaries/egt/mark/9.htm",
       "https://lemma.gebible.app/v/mark/9/4"
+    ]
+  },
+  "prepublication_research_9_5": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "25/25",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.biblestudytools.com/sblg/mark/9-5.html",
+      "https://tips.translation.bible/tip_source/bratcher-nida-1961/page/79/"
     ]
   }
 }
