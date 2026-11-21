@@ -8973,4 +8973,506 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "El poema traslada una técnica de reconstrucción científica a la imaginación estacional. Del mismo modo que un hueso permite conjeturar un animal desaparecido, una flor mínima permite anticipar la multitud de formas de la primavera. La ciencia no queda ridiculizada: su lógica inferencial se vuelve una forma de esperanza.",
   "preest": null
 }
+  J101: {
+  "id": "J101",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Will there really be a “Morning”?",
+  "titleES": "¿Habrá de veras una «Mañana»?",
+  "stanzaBreaks": [
+    8
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J101, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "Will there really be a “Morning”?",
+      "¿Habrá de veras una «Mañana»?"
+    ],
+    [
+      "Is there such a thing as “Day”?",
+      "¿Existe algo llamado «Día»?"
+    ],
+    [
+      "Could I see it from the mountains",
+      "¿Podría verlo desde las montañas"
+    ],
+    [
+      "If I were as tall as they?",
+      "si fuese tan alta como ellas?"
+    ],
+    [
+      "Has it feet like Water lilies?",
+      "¿Tiene pies como los nenúfares?"
+    ],
+    [
+      "Has it feathers like a Bird?",
+      "¿Tiene plumas como un pájaro?"
+    ],
+    [
+      "Is it brought from famous countries",
+      "¿Lo traen desde países famosos"
+    ],
+    [
+      "Of which I have never heard?",
+      "de los que jamás he oído hablar?"
+    ],
+    [
+      "Oh some Scholar! Oh some Sailor!",
+      "¡Ah, algún sabio! ¡Algún marinero!"
+    ],
+    [
+      "Oh some Wise Man from the skies!",
+      "¡Algún hombre sabio de los cielos!"
+    ],
+    [
+      "Please to tell a little Pilgrim",
+      "Decidle, por favor, a una pequeña peregrina"
+    ],
+    [
+      "Where the place called “Morning” lies!",
+      "dónde queda ese lugar llamado «Mañana»!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La alternancia entre preguntas infantiles y peregrinación espiritual permite leer «Morning» como amanecer literal y como promesa de revelación."
+    }
+  ],
+  "interpretation": "La mañana se vuelve un país desconocido: la voz no da por supuesta la llegada de la luz y solicita un mapa a quienes parecen conocer otros mundos.",
+  "preest": null
+},
+  J102: {
+  "id": "J102",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Great Caesar! Condescend",
+  "titleES": "¡Gran César! Dignaos",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J102, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "Great Caesar! Condescend",
+      "¡Gran César! Dignaos"
+    ],
+    [
+      "The Daisy, to receive,",
+      "recibir esta margarita,"
+    ],
+    [
+      "Gathered by Cato’s Daughter,",
+      "recogida por la hija de Catón,"
+    ],
+    [
+      "With your majestic leave!",
+      "¡con vuestra majestuosa venia!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "César y Catón evocan adversarios de la historia romana; la hija de Catón habla desde una dignidad que no depende de la autoridad imperial."
+    }
+  ],
+  "interpretation": "La ofrenda humilde adopta el lenguaje ceremonioso de Roma: una margarita desarma, por contraste, la grandilocuencia del poder.",
+  "preest": null
+},
+  J103: {
+  "id": "J103",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "I have a King, who does not speak –",
+  "titleES": "Tengo un Rey que no habla —",
+  "stanzaBreaks": [
+    6,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J103, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "I have a King, who does not speak –",
+      "Tengo un Rey que no habla —"
+    ],
+    [
+      "So – wondering – thro’ the hours meek",
+      "así, perpleja, por las mansas horas"
+    ],
+    [
+      "I trudge the day away –",
+      "arrastro el día —"
+    ],
+    [
+      "Half glad when it is night, and sleep,",
+      "casi contenta cuando llegan la noche y el sueño,"
+    ],
+    [
+      "If, haply, thro’ a dream, to peep",
+      "por si acaso, en un sueño, pudiera asomarme"
+    ],
+    [
+      "In parlors, shut by day.",
+      "a salones cerrados durante el día."
+    ],
+    [
+      "And if I do – when morning comes –",
+      "Y si lo consigo — cuando llega la mañana —"
+    ],
+    [
+      "It is as if a hundred drums",
+      "es como si cien tambores"
+    ],
+    [
+      "Did round my pillow roll,",
+      "redoblaran alrededor de mi almohada,"
+    ],
+    [
+      "And shouts fill all my Childish sky,",
+      "y los gritos llenaran todo mi cielo infantil,"
+    ],
+    [
+      "And Bells keep saying “Victory”",
+      "y las campanas repitieran «¡Victoria!»"
+    ],
+    [
+      "From steeples in my soul!",
+      "desde los campanarios de mi alma."
+    ],
+    [
+      "And if I don’t – the little Bird",
+      "Y si no — el pequeño pájaro"
+    ],
+    [
+      "Within the Orchard, is not heard,",
+      "del huerto ya no se oye,"
+    ],
+    [
+      "And I omit to pray",
+      "y dejo de rezar"
+    ],
+    [
+      "“Father, thy will be done” today",
+      "«Padre, hágase tu voluntad» ese día,"
+    ],
+    [
+      "For my will goes the other way,",
+      "pues mi voluntad va en sentido contrario,"
+    ],
+    [
+      "And it were perjury!",
+      "¡y decirlo sería perjurio!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La negativa final a pronunciar una oración insincera vuelve el conflicto entre deseo y obediencia religiosa especialmente agudo."
+    }
+  ],
+  "interpretation": "La soberanía del «Rey» es afectiva y ambigua. La posibilidad de verlo en sueños determina si el mundo despierto será celebración o silencio.",
+  "preest": null
+},
+  J104: {
+  "id": "J104",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Where I have lost, I softer tread –",
+  "titleES": "Donde he perdido a alguien, piso más suavemente —",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J104, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "Where I have lost, I softer tread –",
+      "Donde he perdido a alguien, piso más suavemente —"
+    ],
+    [
+      "I sow sweet flower from garden bed –",
+      "siembro flores dulces del jardín —"
+    ],
+    [
+      "I pause above that vanished head",
+      "me detengo sobre aquella cabeza desaparecida"
+    ],
+    [
+      "And mourn.",
+      "y guardo duelo."
+    ],
+    [
+      "Whom I have lost, I pious guard",
+      "A quien he perdido lo protejo piadosamente"
+    ],
+    [
+      "From accent harsh, or ruthless word –",
+      "de toda voz áspera o palabra cruel —"
+    ],
+    [
+      "Feeling as if their pillow heard,",
+      "como si su almohada aún escuchara,"
+    ],
+    [
+      "Though stone!",
+      "¡aunque sea piedra!"
+    ],
+    [
+      "When I have lost, you’ll know by this –",
+      "Cuando haya perdido, lo sabrás por esto —"
+    ],
+    [
+      "A Bonnet black – A dusk surplice –",
+      "una cofia negra — una sobrepelliz sombría —"
+    ],
+    [
+      "A little tremor in my voice",
+      "un leve temblor en mi voz"
+    ],
+    [
+      "Like this!",
+      "¡como este!"
+    ],
+    [
+      "Why, I have lost, the people know",
+      "Pero yo he perdido, lo sabe la gente,"
+    ],
+    [
+      "Who dressed in frocks of purest snow",
+      "a quienes vestidos de nieve purísima"
+    ],
+    [
+      "Went home a century ago",
+      "volvieron a casa hace un siglo"
+    ],
+    [
+      "Next Bliss!",
+      "¡junto a la dicha!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La última estrofa extiende el duelo individual a muertos remotos y hace extrañamente cercana una pérdida anterior a la propia vida."
+    }
+  ],
+  "interpretation": "La elegía se expresa en gestos mínimos: pisar con cuidado, proteger del ruido una tumba, dejar temblar la voz.",
+  "preest": null
+},
+  J105: {
+  "id": "J105",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "To hang our head – ostensibly –",
+  "titleES": "Bajar la cabeza — en apariencia —",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J105, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "To hang our head – ostensibly –",
+      "Bajar la cabeza — en apariencia —"
+    ],
+    [
+      "And subsequent, to find",
+      "y descubrir después"
+    ],
+    [
+      "That such was not the posture",
+      "que esa no era la postura"
+    ],
+    [
+      "Of our immortal mind –",
+      "de nuestra mente inmortal —"
+    ],
+    [
+      "Affords the sly presumption",
+      "permite la astuta sospecha"
+    ],
+    [
+      "That in so dense a fuzz –",
+      "de que, en una bruma tan espesa —"
+    ],
+    [
+      "You – too – take Cobweb attitudes",
+      "también tú adoptas posturas de telaraña"
+    ],
+    [
+      "Upon a plane of Gauze!",
+      "sobre un plano de gasa."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La segunda persona puede ser interlocutor humano o figura trascendente; el poema no resuelve esa ambigüedad."
+    }
+  ],
+  "interpretation": "El cuerpo parece abatido, pero la mente no acepta necesariamente esa inclinación. La ligereza de telaraña y gasa convierte la apariencia en algo precario.",
+  "preest": null
+},
+  J106: {
+  "id": "J106",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "The Daisy follows soft the Sun –",
+  "titleES": "La margarita sigue dócilmente al Sol —",
+  "stanzaBreaks": [
+    3,
+    6
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J106, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "The Daisy follows soft the Sun –",
+      "La margarita sigue dócilmente al Sol —"
+    ],
+    [
+      "And when his golden walk is done –",
+      "y cuando termina su paseo dorado —"
+    ],
+    [
+      "Sits shyly at his feet –",
+      "se sienta tímida a sus pies —"
+    ],
+    [
+      "He – waking – finds the flower there –",
+      "él, al despertar, encuentra allí la flor —"
+    ],
+    [
+      "Wherefore – Marauder – art thou here?",
+      "¿Por qué — intrusa — estás aquí?"
+    ],
+    [
+      "Because, Sir, love is sweet!",
+      "¡Porque, señor, el amor es dulce!"
+    ],
+    [
+      "We are the Flower – Thou the Sun!",
+      "¡Nosotras somos la Flor — tú, el Sol!"
+    ],
+    [
+      "Forgive us, if as days decline –",
+      "Perdónanos si, al declinar los días —"
+    ],
+    [
+      "We nearer steal to Thee!",
+      "nos acercamos furtivamente a ti."
+    ],
+    [
+      "Enamored of the parting West –",
+      "Enamoradas del Oeste que se despide —"
+    ],
+    [
+      "The peace – the flight – the Amethyst –",
+      "de la paz — del vuelo — de la amatista —"
+    ],
+    [
+      "Night’s possibility!",
+      "¡de la posibilidad de la noche!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La puesta del sol reúne separación y atracción; «Amethyst» transforma el crepúsculo en una joya de color violeta."
+    }
+  ],
+  "interpretation": "El heliotropismo se dramatiza como cortejo amoroso. El plural final permite que la flor represente a una comunidad de amantes.",
+  "preest": null
+},
+  J107: {
+  "id": "J107",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "’Twas such a little – little boat",
+  "titleES": "Era una barquita tan — tan pequeña",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J107, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "’Twas such a little – little boat",
+      "Era una barquita tan — tan pequeña"
+    ],
+    [
+      "That toddled down the bay!",
+      "que avanzaba a trompicones por la bahía."
+    ],
+    [
+      "’Twas such a gallant – gallant sea",
+      "Era un mar tan — tan gallardo"
+    ],
+    [
+      "That beckoned it away!",
+      "que la llamó hacia sí."
+    ],
+    [
+      "’Twas such a greedy, greedy wave",
+      "Era una ola tan voraz, tan voraz"
+    ],
+    [
+      "That licked it from the Coast –",
+      "que la lamió y apartó de la costa —"
+    ],
+    [
+      "Nor ever guessed the stately sails",
+      "sin sospechar jamás las velas majestuosas"
+    ],
+    [
+      "My little craft was lost!",
+      "que mi pequeña nave había perdido."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La insistencia en «little» y la repetición adjetival imitan la voz de quien cuenta una pérdida que todavía no comprende."
+    }
+  ],
+  "interpretation": "La diminuta embarcación personifica la fragilidad frente al mar seductor y depredador.",
+  "preest": null
+},
+  J108: {
+  "id": "J108",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1859",
+  "incipit": "Surgeons must be very careful",
+  "titleES": "Los cirujanos deben tener mucho cuidado",
+  "stanzaBreaks": [],
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J108, pp. 49–52; lectura cotejada con el texto digitalizado (normalización prudente de errores de OCR).",
+  "lines": [
+    [
+      "Surgeons must be very careful",
+      "Los cirujanos deben tener mucho cuidado"
+    ],
+    [
+      "When they take the knife!",
+      "cuando empuñan el cuchillo."
+    ],
+    [
+      "Underneath their fine incisions",
+      "Bajo sus finas incisiones"
+    ],
+    [
+      "Stirs the Culprit – Life!",
+      "se agita la culpable — ¡la Vida!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La inversión de culpa y vulnerabilidad hace que el brevísimo poema resulte a la vez irónico e inquietante."
+    }
+  ],
+  "interpretation": "La cirugía se representa como una intervención sobre algo vivo e imprevisible: la vida misma aparece como «culpable» bajo el bisturí.",
+  "preest": null
+}
 });
