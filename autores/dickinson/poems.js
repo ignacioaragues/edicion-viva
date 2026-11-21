@@ -10479,5 +10479,366 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "El placer y el dolor obedecen a una inquietante contabilidad emocional.",
     "preest": null
-  }
+  },
+  J126: {
+  "id": "J126",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "To fight aloud, is very brave-",
+  "titleES": "Luchar a viva voz es muy valiente —",
+  "source": "Thomas H. Johnson, The Complete Poems, J126, pp. 59–61; lectura cotejada con transcripción digital, requiere comprobación facsimilar de puntuación.",
+  "lines": [
+    [
+      "To fight aloud, is very brave-",
+      "Luchar a viva voz es muy valiente —"
+    ],
+    [
+      "But gallanter, I know",
+      "pero más gallardos, lo sé,"
+    ],
+    [
+      "Who charge within the bosom",
+      "son quienes cargan dentro del pecho"
+    ],
+    [
+      "The Cavalry of Woe-",
+      "con la caballería del dolor —"
+    ],
+    [
+      "Who win, and nations do not see -",
+      "quienes vencen sin que las naciones los vean —"
+    ],
+    [
+      "Who fall- and none observe -",
+      "quienes caen sin que nadie lo advierta —"
+    ],
+    [
+      "Whose dying eyes, no Country",
+      "cuyos ojos moribundos ningún país"
+    ],
+    [
+      "Regards with patriot love -",
+      "contempla con amor patriótico —"
+    ],
+    [
+      "We trust, in plumed procession",
+      "Confiamos en que, en procesión emplumada,"
+    ],
+    [
+      "For such, the Angels go -",
+      "por ellos marchen los ángeles —"
+    ],
+    [
+      "Rank after Rank, with even feet-",
+      "fila tras fila, con paso uniforme —"
+    ],
+    [
+      "And Uniforms of Snow.",
+      "y uniformes de nieve."
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La valentía íntima recibe honores que ninguna nación concede; la procesión angélica reemplaza el desfile militar.",
+  "preest": null
+},
+  J127: {
+  "id": "J127",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "\"Houses\" - so the Wise Men tell me-",
+  "titleES": "«Casas», así me dicen los sabios —",
+  "source": "Thomas H. Johnson, The Complete Poems, J127, pp. 59–61; lectura cotejada con transcripción digital, requiere comprobación facsimilar de puntuación.",
+  "lines": [
+    [
+      "\"Houses\" - so the Wise Men tell me-",
+      "«Casas», así me dicen los sabios —"
+    ],
+    [
+      "\"Mansions\"! Mansions must be warm!",
+      "«¡Mansiones!» ¡Las mansiones deben ser cálidas!"
+    ],
+    [
+      "Mansions cannot let the tears in,",
+      "No pueden dejar entrar las lágrimas,"
+    ],
+    [
+      "Mansions must exclude the storm!",
+      "¡deben mantener afuera la tormenta!"
+    ],
+    [
+      "\"Many Mansions,\" by \"his Father,\"",
+      "«Muchas mansiones», construidas por «su Padre» —"
+    ],
+    [
+      "I don't know him; snugly built!",
+      "no lo conozco; ¡bien abrigadas estarán!"
+    ],
+    [
+      "Could the Children find the way there -",
+      "Si los niños pudieran encontrar el camino —"
+    ],
+    [
+      "Some, would even trudge tonight!",
+      "¡algunos partirían a pie esta misma noche!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La promesa evangélica de las muchas moradas se convierte en una pregunta infantil por el refugio y su accesibilidad.",
+  "preest": null
+},
+  J128: {
+  "id": "J128",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Bring me the sunset in a cup,",
+  "titleES": "Traeme el ocaso en una copa,",
+  "source": "Thomas H. Johnson, The Complete Poems, J128, pp. 59–61; lectura cotejada con transcripción digital, requiere comprobación facsimilar de puntuación.",
+  "lines": [
+    [
+      "Bring me the sunset in a cup,",
+      "Traeme el ocaso en una copa,"
+    ],
+    [
+      "Reckon the morning's flagons up",
+      "contá las jarras de la mañana"
+    ],
+    [
+      "And say how many Dew,",
+      "y decime cuánto rocío contienen;"
+    ],
+    [
+      "Tell me how far the morning leaps-",
+      "decime hasta dónde salta el alba —"
+    ],
+    [
+      "Tell me what time the weaver sleeps",
+      "decime a qué hora duerme el tejedor"
+    ],
+    [
+      "Who spun the breadths of blue!",
+      "que hiló las extensiones del azul."
+    ],
+    [
+      "Write me how many notes there be",
+      "Escribime cuántas notas hay"
+    ],
+    [
+      "In the new Robin's ecstasy",
+      "en el éxtasis del nuevo petirrojo"
+    ],
+    [
+      "Among astonished boughs -",
+      "entre las ramas asombradas —"
+    ],
+    [
+      "How many trips the Tortoise makes-",
+      "cuántos viajes hace la tortuga —"
+    ],
+    [
+      "How many cups the Bee partakes,",
+      "cuántas copas bebe la abeja,"
+    ],
+    [
+      "The Debauchee of Dews!",
+      "¡esa libertina del rocío!"
+    ],
+    [
+      "Also, who laid the Rainbow's piers,",
+      "Y quién asentó los pilares del arcoíris,"
+    ],
+    [
+      "Also, who leads the docile spheres",
+      "y quién conduce las dóciles esferas"
+    ],
+    [
+      "By withes of supple blue?",
+      "con mimbres de azul flexible;"
+    ],
+    [
+      "Whose fingers string the stalactite -",
+      "qué dedos ensartan la estalactita —"
+    ],
+    [
+      "Who counts the wampum of the night",
+      "quién cuenta las cuentas de la noche"
+    ],
+    [
+      "To see that none is due?",
+      "para comprobar que ninguna falte;"
+    ],
+    [
+      "Who built this little Alban House",
+      "quién construyó esta pequeña casa de Albión"
+    ],
+    [
+      "And shut the windows down so close",
+      "y cerró tanto sus ventanas"
+    ],
+    [
+      "My spirit cannot see?",
+      "que mi espíritu no puede ver;"
+    ],
+    [
+      "Who'll let me out some gala day",
+      "quién me dejará salir un día de fiesta"
+    ],
+    [
+      "With implements to fly away,",
+      "con instrumentos para emprender el vuelo,"
+    ],
+    [
+      "Passing Pomposity?",
+      "dejando atrás la pomposidad."
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La enumeración de preguntas transforma la observación de la naturaleza en una demanda de libertad espiritual; la casa final puede leerse como encierro corporal o intelectual.",
+  "preest": null
+},
+  J129: {
+  "id": "J129",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "Cocoon above! Cocoon below!",
+  "titleES": "¡Capullo arriba! ¡Capullo abajo!",
+  "source": "Thomas H. Johnson, The Complete Poems, J129, pp. 59–61; lectura cotejada con transcripción digital, requiere comprobación facsimilar de puntuación.",
+  "lines": [
+    [
+      "Cocoon above! Cocoon below!",
+      "¡Capullo arriba! ¡Capullo abajo!"
+    ],
+    [
+      "Stealthy Cocoon, why hide you so",
+      "Capullo sigiloso, ¿por qué escondés tanto"
+    ],
+    [
+      "What all the world suspect?",
+      "lo que todo el mundo sospecha?"
+    ],
+    [
+      "An hour, and gay on every tree",
+      "Una hora, y alegre en cada árbol"
+    ],
+    [
+      "Your secret, perched in ecstasy",
+      "tu secreto, posado en éxtasis,"
+    ],
+    [
+      "Defies imprisonment!",
+      "¡desafía el cautiverio!"
+    ],
+    [
+      "An hour in Chrysalis to pass,",
+      "Una hora dentro de la crisálida,"
+    ],
+    [
+      "Then gay above receding grass",
+      "y luego, alegre sobre la hierba que se aleja,"
+    ],
+    [
+      "A Butterfly to go!",
+      "¡partirá una mariposa!"
+    ],
+    [
+      "A moment to interrogate,",
+      "Un instante para interrogar,"
+    ],
+    [
+      "Then wiser than a \"Surrogate,\"",
+      "y después, más sabia que un «sustituto»,"
+    ],
+    [
+      "The Universe to know!",
+      "¡conocerá el universo!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "La metamorfosis es una figura de conocimiento y emancipación, no solo un episodio de historia natural.",
+  "preest": null
+},
+  J130: {
+  "id": "J130",
+  "franklin": null,
+  "approx": "c. 1859",
+  "incipit": "These are the days when Birds come back -",
+  "titleES": "Estos son los días en que vuelven los pájaros —",
+  "source": "Thomas H. Johnson, The Complete Poems, J130, pp. 59–61; lectura cotejada con transcripción digital, requiere comprobación facsimilar de puntuación.",
+  "lines": [
+    [
+      "These are the days when Birds come back -",
+      "Estos son los días en que vuelven los pájaros —"
+    ],
+    [
+      "A very few - a Bird or two -",
+      "muy pocos — uno o dos —"
+    ],
+    [
+      "To take a backward look.",
+      "para mirar hacia atrás."
+    ],
+    [
+      "These are the days when skies resume",
+      "Estos son los días en que el cielo retoma"
+    ],
+    [
+      "The old - old sophistries of June -",
+      "los viejos, viejísimos sofismas de junio —"
+    ],
+    [
+      "A blue and gold mistake.",
+      "un error azul y dorado."
+    ],
+    [
+      "Oh fraud that cannot cheat the Bee -",
+      "Oh, fraude que no engaña a la abeja —"
+    ],
+    [
+      "Almost thy plausibility",
+      "casi tu verosimilitud"
+    ],
+    [
+      "Induces my belief.",
+      "me lleva a creer."
+    ],
+    [
+      "Till ranks of seeds their witness bear -",
+      "Hasta que las filas de semillas dan testimonio —"
+    ],
+    [
+      "And softly thro' the altered air",
+      "y suavemente, por el aire cambiado,"
+    ],
+    [
+      "Hurries a timid leaf.",
+      "se apresura una hoja tímida."
+    ],
+    [
+      "Oh Sacrament of summer days,",
+      "Oh, sacramento de los días estivales,"
+    ],
+    [
+      "Oh Last Communion in the Haze -",
+      "oh, última comunión en la bruma —"
+    ],
+    [
+      "Permit a child to join.",
+      "permití que una niña participe."
+    ],
+    [
+      "Thy sacred emblems to partake -",
+      "Que comparta tus emblemas sagrados —"
+    ],
+    [
+      "Thy consecrated bread to take",
+      "que tome tu pan consagrado"
+    ],
+    [
+      "And thine immortal wine!",
+      "¡y tu vino inmortal!"
+    ]
+  ],
+  "notes": [],
+  "interpretation": "El breve retorno del calor aparece como una liturgia engañosa y a la vez deseada: la hablante conoce el artificio estacional, pero pide participar.",
+  "preest": null
+},
 });
