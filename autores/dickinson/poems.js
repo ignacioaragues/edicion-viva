@@ -15775,6 +15775,387 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "interpretation": "La voz poética inventa una borrachera sin alcohol: su intoxicación es el verano mismo. El poema transforma el mundo natural en una red de tabernas y huéspedes y lleva la hipérbole hasta el cielo. Su alegría es deliberadamente irreverente: la pequeña bebedora atrae la atención de santos y serafines sin renunciar a su apetito.",
     "preest": null
   },
+  "J215": {
+    "id": "J215",
+    "franklin": null,
+    "approx": "c. 1860",
+    "incipit": "What is – “Paradise” –",
+    "titleES": "Qué es — «Paraíso» —",
+    "stanzaBreaks": [
+      6,
+      10
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J215, pp. 99. Cotejado con PDF aportado por el usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "What is – “Paradise” –",
+        "Qué es — «Paraíso» —"
+      ],
+      [
+        "Who live there –",
+        "¿Quiénes viven allí? —"
+      ],
+      [
+        "Are they “Farmers” –",
+        "¿Son «Granjeros» —"
+      ],
+      [
+        "Do they “hoe” –",
+        "¿Trabajan con azada? —"
+      ],
+      [
+        "Do they know that this is “Amherst” –",
+        "¿Saben que esto es «Amherst» —"
+      ],
+      [
+        "And that I – am coming – too –",
+        "y que yo — también voy a llegar —"
+      ],
+      [
+        "Do they wear “new shoes” – in “Eden” –",
+        "¿Llevan «zapatos nuevos» — en el «Edén» —"
+      ],
+      [
+        "Is it always pleasant – there –",
+        "¿Siempre es agradable — allí —"
+      ],
+      [
+        "Won't they scold us – when we're homesick –",
+        "¿No nos retarán — cuando extrañemos nuestra casa —"
+      ],
+      [
+        "Or tell God – how cross we are –",
+        "ni le dirán a Dios — lo malhumorados que estamos —"
+      ],
+      [
+        "You are sure there's such a person",
+        "¿Estás seguro de que existe alguien"
+      ],
+      [
+        "As “a Father” – in the sky –",
+        "como «un Padre» — en el cielo —"
+      ],
+      [
+        "So if I get lost – there – ever –",
+        "para que, si alguna vez me pierdo — allí —"
+      ],
+      [
+        "Or do what the Nurse calls “die” –",
+        "o hago eso que la Niñera llama «morir» —"
+      ],
+      [
+        "I shan't walk the “Jasper” – barefoot –",
+        "no tenga que andar descalza — sobre el «Jaspe» —"
+      ],
+      [
+        "Ransomed folks – won't laugh at me –",
+        "ni se rían de mí — los redimidos —"
+      ],
+      [
+        "Maybe – “Eden” a'n't so lonesome",
+        "Quizá — el «Edén» no sea tan solitario"
+      ],
+      [
+        "As New England used to be!",
+        "como solía ser Nueva Inglaterra."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Amherst",
+        "body": "El lugar natal de Dickinson introduce una geografía concreta en la especulación sobre el más allá."
+      },
+      {
+        "line": 15,
+        "title": "Jaspe",
+        "body": "Alude a la Jerusalén celestial descrita en Apocalipsis 21; la imagen bíblica se vuelve una preocupación por caminar descalza."
+      }
+    ],
+    "interpretation": "La voz infantil somete el paraíso a preguntas domésticas: calzado, nostalgia, regaños y compañía. La salvación no disipa el miedo a estar sola."
+  },
+  "J216": {
+    "id": "J216",
+    "franklin": null,
+    "approx": "1861",
+    "incipit": "Safe in their Alabaster Chambers –",
+    "titleES": "Seguros en sus cámaras de alabastro —",
+    "stanzaBreaks": [
+      5
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J216, pp. 100. Cotejado con PDF aportado por el usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Safe in their Alabaster Chambers –",
+        "Seguros en sus cámaras de alabastro —"
+      ],
+      [
+        "Untouched by Morning –",
+        "intocados por la Mañana —"
+      ],
+      [
+        "And untouched by Noon –",
+        "e intocados por el Mediodía —"
+      ],
+      [
+        "Lie the meek members of the Resurrection –",
+        "yacen los mansos miembros de la Resurrección —"
+      ],
+      [
+        "Rafter of Satin – and Roof of Stone!",
+        "vigas de Satén — y techo de Piedra."
+      ],
+      [
+        "Grand go the Years – in the Crescent – above them –",
+        "Grandiosos pasan los Años — en la Media Luna — sobre ellos —"
+      ],
+      [
+        "Worlds scoop their Arcs –",
+        "los Mundos trazan sus Arcos —"
+      ],
+      [
+        "And Firmaments – row –",
+        "y los Firmamentos — reman —"
+      ],
+      [
+        "Diadems – drop – and Doges – surrender –",
+        "caen Diademas — y los Dux — se rinden —"
+      ],
+      [
+        "Soundless as dots – on a Disc of Snow –",
+        "sin sonido, como puntos — sobre un Disco de Nieve —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Dos versiones",
+        "body": "Johnson imprime versiones de 1859 y 1861. Aquí se traduce la de 1861; la de 1859 incluye la brisa, la abeja y los pájaros que ignoran la muerte. No se funden ambas versiones."
+      },
+      {
+        "line": 9,
+        "title": "Doges",
+        "body": "Los dux de Venecia, símbolo del poder histórico, también desaparecen."
+      }
+    ],
+    "interpretation": "La inmovilidad sepulcral contrasta con la marcha de los años y de los imperios: el tiempo cósmico no consigue despertar a los muertos."
+  },
+  "J217": {
+    "id": "J217",
+    "franklin": null,
+    "approx": "1861",
+    "incipit": "Savior! I've no one else to tell –",
+    "titleES": "¡Salvador! No tengo a nadie más a quien decirlo —",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J217, pp. 100–101. Cotejado con PDF aportado por el usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Savior! I've no one else to tell –",
+        "¡Salvador! No tengo a nadie más a quien decirlo —"
+      ],
+      [
+        "And so I trouble thee.",
+        "y por eso te importuno."
+      ],
+      [
+        "I am the one forgot thee so –",
+        "Soy aquella que tanto te olvidó —"
+      ],
+      [
+        "Dost thou remember me?",
+        "¿Te acordás de mí?"
+      ],
+      [
+        "Nor, for myself, I came so far –",
+        "Ni por mí misma he venido tan lejos —"
+      ],
+      [
+        "That were the little load –",
+        "esa sería la carga pequeña —"
+      ],
+      [
+        "I brought thee the imperial Heart",
+        "te traje el Corazón imperial"
+      ],
+      [
+        "I had not strength to hold –",
+        "que no tenía fuerzas para sostener —"
+      ],
+      [
+        "The Heart I carried in my own –",
+        "el Corazón que llevaba en el mío —"
+      ],
+      [
+        "Till mine too heavy grew –",
+        "hasta que el mío se volvió demasiado pesado —"
+      ],
+      [
+        "Yet – strangest – heavier since it went –",
+        "y sin embargo — qué extraño — pesa más desde que se fue —"
+      ],
+      [
+        "Is it too large for you?",
+        "¿Es demasiado grande para vos?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 7,
+        "title": "Imperial Heart",
+        "body": "La dignidad regia atribuida al corazón intensifica la distancia entre el peso afectivo y la fragilidad de quien lo lleva."
+      }
+    ],
+    "interpretation": "La plegaria no pide un beneficio individual: entrega un corazón ajeno cuya carga resulta insoportable incluso después de haberlo cedido."
+  },
+  "J218": {
+    "id": "J218",
+    "franklin": null,
+    "approx": "1861",
+    "incipit": "Is it true, dear Sue?",
+    "titleES": "¿Es verdad, querida Sue?",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J218, pp. 101. Cotejado con PDF aportado por el usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Is it true, dear Sue?",
+        "¿Es verdad, querida Sue?"
+      ],
+      [
+        "Are there two?",
+        "¿Son dos?"
+      ],
+      [
+        "I shouldn't like to come",
+        "No quisiera ir"
+      ],
+      [
+        "For fear of joggling Him!",
+        "por miedo a darle un empujón a Él."
+      ],
+      [
+        "If I could shut him up",
+        "Si pudiera encerrarlo"
+      ],
+      [
+        "In a Coffee Cup,",
+        "en una taza de Café,"
+      ],
+      [
+        "Or tie him to a pin",
+        "o atarlo a un alfiler"
+      ],
+      [
+        "Till I got in –",
+        "hasta que yo entrara —"
+      ],
+      [
+        "Or make him fast",
+        "o sujetarlo bien"
+      ],
+      [
+        "To “Toby's” fist –",
+        "al puño de «Toby» —"
+      ],
+      [
+        "Hist! Whist! I'd come!",
+        "¡Chist! ¡Silencio! ¡Entonces iría!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Sue",
+        "body": "Apelativo de Susan Gilbert Dickinson, cuñada de Emily y destinataria central de sus escritos."
+      },
+      {
+        "line": 10,
+        "title": "Toby",
+        "body": "Se conserva el nombre propio; sin evidencia adicional no se identifica con certeza su referente."
+      }
+    ],
+    "interpretation": "La hablante transforma los celos en una fantasía cómica de miniaturización y cautiverio del rival; la intimidad con Sue adopta el tono de una confidencia juguetona."
+  },
+  "J219": {
+    "id": "J219",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "She sweeps with many-colored Brooms –",
+    "titleES": "Barre con Escobas de muchos colores —",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J219, pp. 101. Cotejado con PDF aportado por el usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "She sweeps with many-colored Brooms –",
+        "Barre con Escobas de muchos colores —"
+      ],
+      [
+        "And leaves the Shreds behind –",
+        "y deja los Retazos detrás —"
+      ],
+      [
+        "Oh Housewife in the Evening West –",
+        "¡Oh Ama de casa del Oeste vespertino —"
+      ],
+      [
+        "Come back, and dust the Pond!",
+        "volvé y sacudí el Polvo del Estanque!"
+      ],
+      [
+        "You dropped a Purple Ravelling in –",
+        "Dejaste caer allí una Hebra violeta —"
+      ],
+      [
+        "You dropped an Amber thread –",
+        "dejaste caer un hilo de Ámbar —"
+      ],
+      [
+        "And now you've littered all the East",
+        "y ahora llenaste todo el Este"
+      ],
+      [
+        "With Duds of Emerald!",
+        "de Harapos de Esmeralda."
+      ],
+      [
+        "And still, she plies her spotted Brooms,",
+        "Y todavía maneja sus Escobas moteadas,"
+      ],
+      [
+        "And still the Aprons fly,",
+        "y todavía vuelan los Delantales,"
+      ],
+      [
+        "Till Brooms fade softly into stars –",
+        "hasta que las Escobas se desvanecen suavemente en estrellas —"
+      ],
+      [
+        "And then I come away –",
+        "y entonces me retiro —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Pond",
+        "body": "El estanque refleja los colores del atardecer; la petición de quitarle el polvo mantiene la ficción doméstica."
+      },
+      {
+        "line": 8,
+        "title": "Duds",
+        "body": "Ropa vieja o harapos: la palabra rebaja humorísticamente el esplendor cromático."
+      }
+    ],
+    "interpretation": "El crepúsculo se vuelve una labor doméstica desmesurada: una ama de casa dispersa colores por el cielo, y el desorden termina convertido en estrellas."
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
