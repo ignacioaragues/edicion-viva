@@ -2775,12 +2775,24 @@
         "https://lemma.gebible.app/v/mark/9/34",
         "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 35,
+      "to": 35,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "19/19 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,33; segunda revisión filológica retrospectiva y Vulgata opcional pendientes.",
+  "pending": "Continuar Marcos 9,36; revisión filológica retrospectiva y Vulgata opcional pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 35
+    "verse": 36
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5812,6 +5824,16 @@
     "sources": [
       "https://biblehub.com/texts/mark/9-34.htm",
       "https://lemma.gebible.app/v/mark/9/34"
+    ]
+  },
+  "prepublication_research_9_35": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "19/19",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf"
     ]
   }
 }
