@@ -2749,12 +2749,25 @@
         "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
         "https://tips.translation.bible/story/translation-commentary-on-mark-932/"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 33,
+      "to": 33,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "16/16 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://greeknewtestament.net/mk9-33",
+        "https://lemma.gebible.app/v/mark/9/33"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,33; segunda revisión filológica retrospectiva y Vulgata opcional pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 33
+    "verse": 34
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5765,6 +5778,17 @@
     "sources": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://tips.translation.bible/story/translation-commentary-on-mark-932/"
+    ]
+  },
+  "prepublication_research_9_33": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "16/16",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://greeknewtestament.net/mk9-33",
+      "https://lemma.gebible.app/v/mark/9/33"
     ]
   }
 }
