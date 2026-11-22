@@ -1443,21 +1443,46 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Four chapters and Amen published from public Tractatus LXIV Latin transcription. Digital source has suspect biblical reference Rom. XV,20 (correct Rom. V,20), and odd syntax in chapter III; printed PL54 collation, exhaustive morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 65,
+      "section": "Sermo LXV · De Passione Domini XIV · capita I–V",
+      "paragraphs": 14,
+      "aligned_units": 14,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_chapters": 5,
+      "translation": "complete original first-pass aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxv/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "15 selective contextual lexical entries; full word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Five chapters and Amen published using public Tractatus LXV transcription; printed PL54 collation, exhaustive token morphology, shared dictionary and browser QA pending. Anti-Jewish polemic contextualized."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 65,
-    "section": "Sermo LXV, caput I"
+    "number": 66,
+    "section": "Sermo LXVI, caput I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22: Sermo LXIV chapters II–IV and Amen completed in first-pass aligned translation; critical audit pending.",
+  "last_edit": "2026-11-22: Sermo LXV chapters I–V and Amen first-pass bilingual translation published; critical audit pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 65,
+    "number": 66,
     "status": "not_started",
-    "next": "Sermo LXV caput I"
+    "next": "Sermo LXVI caput I"
   },
   "priority_queue": [
     {
