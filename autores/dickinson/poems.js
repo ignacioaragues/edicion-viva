@@ -16607,6 +16607,224 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J229": {
+    "id": "J229",
+    "franklin": "F289",
+    "approx": "1861",
+    "incipit": "A Burdock - clawed my Gown -",
+    "titleES": "Una bardana me arañó el vestido",
+    "stanzaBreaks": [
+      5,
+      10
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J229; cotejo auxiliar del texto inglés y correspondencia Franklin: Giuseppe Ierolli, emilydickinson.it, índice Johnson J201–250. Variantes manuscritas pendientes de cotejo directo.",
+    "lines": [
+      [
+        "A Burdock - clawed my Gown -",
+        "Una bardana — me arañó el vestido —"
+      ],
+      [
+        "Not Burdock's - blame -",
+        "No fue culpa — de la bardana —"
+      ],
+      [
+        "But mine -",
+        "sino mía —"
+      ],
+      [
+        "Who went too near",
+        "por acercarme demasiado"
+      ],
+      [
+        "The Burdock's Den -",
+        "a la guarida de la bardana —"
+      ],
+      [
+        "A Bog - affronts my shoe -",
+        "Un pantano — ofende mi zapato —"
+      ],
+      [
+        "What else have Bogs - to do -",
+        "¿Qué otra cosa pueden hacer los pantanos —"
+      ],
+      [
+        "The only trade they know -",
+        "si es el único oficio que conocen —"
+      ],
+      [
+        "The splashing Men!",
+        "salpicar a los hombres?"
+      ],
+      [
+        "Ah, pity - then!",
+        "¡Ah, compadezcámoslos — entonces!"
+      ],
+      [
+        "'Tis Minnows can despise!",
+        "¡Son los pececillos quienes saben despreciar!"
+      ],
+      [
+        "The Elephant's - calm eyes",
+        "Los ojos — serenos del elefante"
+      ],
+      [
+        "Look further on!",
+        "miran más allá."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La bardana y el pantano no tienen intención moral: el reproche nace de quien se acerca. El contraste final entre pececillos y elefante propone una ética de la perspectiva, no una simple resignación."
+      }
+    ]
+  },
+  "J230": {
+    "id": "J230",
+    "franklin": "F244",
+    "approx": "1861",
+    "incipit": "We - Bee and I - live by the quaffing -",
+    "titleES": "La abeja y yo vivimos de beber",
+    "stanzaBreaks": [
+      5,
+      11
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J230; cotejo auxiliar del texto inglés y correspondencia Franklin: Giuseppe Ierolli, emilydickinson.it, índice Johnson J201–250. Variantes manuscritas pendientes de cotejo directo.",
+    "lines": [
+      [
+        "We - Bee and I - live by the quaffing -",
+        "Nosotros — la abeja y yo — vivimos de beber a grandes tragos —"
+      ],
+      [
+        "'Tis'nt all Hock - with us -",
+        "y no todo es vino del Rin — para nosotros —"
+      ],
+      [
+        "Life has it's Ale -",
+        "la vida tiene su cerveza —"
+      ],
+      [
+        "But it's many a lay of the Dim Burgundy -",
+        "pero muchas canciones de la sombría Borgoña —"
+      ],
+      [
+        "We chant - for cheer - when the Wines - fail -",
+        "entonamos — para animarnos — cuando el vino — se acaba —"
+      ],
+      [
+        "Do we \"get drunk\"?",
+        "¿Nos «emborrachamos»?"
+      ],
+      [
+        "Ask the jolly Clovers!",
+        "¡Pregúntenles a los alegres tréboles!"
+      ],
+      [
+        "Do we \"beat\" our \"Wife\"?",
+        "¿«Golpeamos» a nuestra «esposa»?"
+      ],
+      [
+        "I - never wed -",
+        "Yo — nunca me casé —"
+      ],
+      [
+        "Bee - pledges his - in minute flagons -",
+        "la abeja — brinda por la suya — en diminutas copas —"
+      ],
+      [
+        "Dainty - as the tress - on her deft Head -",
+        "delicadas — como el rizo — de su diestra cabeza —"
+      ],
+      [
+        "While runs the Rhine -",
+        "Mientras corra el Rin —"
+      ],
+      [
+        "He and I - revel -",
+        "él y yo — celebraremos —"
+      ],
+      [
+        "First - at the Vat - and latest at the Vine -",
+        "primeros — ante la cuba — y últimos junto a la vid —"
+      ],
+      [
+        "Noon - our last Cup -",
+        "el mediodía — nuestra última copa —"
+      ],
+      [
+        "\"Found dead\" - \"of Nectar\" -",
+        "«Hallados muertos» — «de néctar» —"
+      ],
+      [
+        "By a humming Coroner -",
+        "por un forense zumbador —"
+      ],
+      [
+        "In a By-Thyme!",
+        "¡entre tomillos!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El poema traslada la embriaguez al mundo natural y convierte una escena de verano en parodia de la crónica policial. Hock designa un vino del Rin; la grafía «By-Thyme» juega con «by time» y el tomillo."
+      }
+    ]
+  },
+  "J231": {
+    "id": "J231",
+    "franklin": "F245",
+    "approx": "1861",
+    "incipit": "God permits industrious Angels -",
+    "titleES": "Dios permite jugar a los ángeles",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J231; cotejo auxiliar del texto inglés y correspondencia Franklin: Giuseppe Ierolli, emilydickinson.it, índice Johnson J201–250. Variantes manuscritas pendientes de cotejo directo.",
+    "lines": [
+      [
+        "God permits industrious Angels -",
+        "Dios permite a los ángeles laboriosos —"
+      ],
+      [
+        "Afternoons - to play -",
+        "jugar — por las tardes —"
+      ],
+      [
+        "I met one - forgot my schoolmates -",
+        "conocí a uno — olvidé a mis compañeros de escuela —"
+      ],
+      [
+        "All - for Him - straightway -",
+        "a todos — por él — al instante —"
+      ],
+      [
+        "God calls home - the Angels - promptly -",
+        "Dios llama a casa — a los ángeles — puntualmente —"
+      ],
+      [
+        "At the Setting Sun -",
+        "cuando se pone el sol —"
+      ],
+      [
+        "I missed mine - how dreary - Marbles -",
+        "eché de menos al mío — ¡qué tediosas — las canicas —"
+      ],
+      [
+        "After playing Crown!",
+        "después de jugar a la corona!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La experiencia del encuentro transforma la escala de los juegos: después de la «corona», las canicas parecen insignificantes. El ángel puede leerse como aparición religiosa o como figura del amado, sin que el poema decida entre ambas."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
