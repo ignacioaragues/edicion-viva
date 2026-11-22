@@ -1472,32 +1472,37 @@
     {
       "group": "sermones",
       "number": 66,
-      "section": "Sermo LXVI · De Passione Domini XV · caput I",
-      "paragraphs": 6,
-      "aligned_units": 6,
+      "section": "Sermo LXVI · De Passione Domini XV · capita I–V",
+      "paragraphs": 19,
+      "aligned_units": 19,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "original first-pass Spanish aligned translation, chapter I only",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxvi/index.html",
-      "voice_notes": 4,
-      "lexical_coverage": "9 selective contextual lexical entries; full morphology pending",
+      "voice_notes": 8,
+      "lexical_coverage": "22 selective contextual lexical entries; exhaustive word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapter I verified against public Tractatus LXVI transcription; chapters II–V and final Amen not yet edited; printed PL54 collation and browser QA pending."
+      "editorial_caveat": "All five chapters and final Amen published from public Tractatus LXVI Latin transcription; digital source has malformed 'complanta i' at Romans 6:5, retained with textual warning pending PL54 collation. Other biblical references checked contextually. Printed collation, full token morphology, shared dictionary and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 66,
-    "section": "Sermo LXVI, caput II, Nihil ergo, dilectissimi, ab antiquis significationibus"
+    "number": 67,
+    "section": "Sermo LXVII, caput I",
+    "instruction": "Begin Sermo LXVII; Sermo LXVI complete first-pass, critical collation pending"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22: Sermo LXVI caput I, six bilingual units published; chapters II–V pending",
+  "last_edit": "2026-11-22: completed Sermo LXVI chapters II–V, 19 aligned units total; first-pass only.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
