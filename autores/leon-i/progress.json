@@ -1497,34 +1497,39 @@
     {
       "group": "sermones",
       "number": 67,
-      "section": "Sermo LXVII · De Passione Domini XVI · capita I–III de VII",
-      "paragraphs": 11,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
+      "section": "Sermo LXVII · De Passione Domini XVI · capita I–VII",
+      "paragraphs": 23,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxvii/index.html",
       "published_chapters": [
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "total_chapters": 7,
-      "voice_notes": 5,
-      "lexical_coverage": "18 selected forms; full token coverage pending",
+      "voice_notes": 9,
+      "lexical_coverage": "38 selective lexical entries; exhaustive contextual token morphology pending",
       "source_collation_complete": false,
       "morphology_complete": false,
-      "editorial_caveat": "Partial: chapters IV–VII including Amen remain. Digital Latin source checked; printed PL collation and browser QA pending."
+      "editorial_caveat": "All seven chapters and final Amen published from public Tractatus LXVII transcription; printed PL54 collation, contextual morphology for every token, shared dictionary and browser QA pending. Polemical address to Judas contextualized.",
+      "aligned_units": 23,
+      "translation_complete": true
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 67,
-    "section": "Sermo LXVII, caput IV",
-    "beginning": "Sed tu, impiissime homo, semen Chanaan",
-    "instruction": "Complete chapters IV–VII before Sermo LXVIII"
+    "number": 68,
+    "section": "Sermo LXVIII, caput I",
+    "instruction": "Check current repository state and source before editing; attempt complete sermon."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22: Sermo LXVII I–III first pass, partial",
+  "last_edit": "2026-11-22",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
