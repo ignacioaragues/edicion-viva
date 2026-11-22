@@ -1573,26 +1573,28 @@
     {
       "group": "sermones",
       "number": 70,
-      "section": "Sermo LXX · De Passione Domini XIX · capita I–IV of VI",
-      "paragraphs": 16,
-      "aligned_units": 16,
+      "section": "Sermo LXX · De Passione Domini XIX · capita I–VI complete first-pass",
+      "paragraphs": 26,
+      "aligned_units": 26,
       "published_chapters": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "total_chapters": 6,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original Spanish aligned first-pass translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxx/index.html",
-      "voice_notes": 7,
-      "lexical_coverage": "11 selective contextual morphological entries; exhaustive token morphology pending",
+      "voice_notes": 10,
+      "lexical_coverage": "11 selected contextual morphological entries only; exhaustive token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–IV published, chapters V–VI and Amen pending. Digital Latin source checked; printed PL54 collation, contextual morphology, shared dictionary and browser QA pending. Anti-Jewish rhetoric contextualized."
+      "editorial_caveat": "All six chapters and final Amen published. Latin compared with digital Tractatus LXX transcription; full printed Ballerini–Migne PL54 collation, exhaustive contextual morphology, shared Latin dictionary integration and browser QA pending. Anti-Jewish rhetoric historically contextualized."
     }
   ],
   "next": {
