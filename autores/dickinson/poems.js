@@ -19671,6 +19671,436 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J269": {
+    "id": "J269",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Bound—a trouble—",
+    "titleES": "Atar una pena —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J269, pp. 123. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "Bound—a trouble—",
+        "Atar una pena —"
+      ],
+      [
+        "And lives can bear it!",
+        "¡y las vidas podrán soportarla!"
+      ],
+      [
+        "Limit—how deep a bleeding go!",
+        "Limitar hasta dónde llegue la hemorragia."
+      ],
+      [
+        "So—many—drops—of vital scarlet—",
+        "Tantas — y no más — gotas de escarlata vital —"
+      ],
+      [
+        "Deal with the soul",
+        "Tratar con el alma"
+      ],
+      [
+        "As with Algebra!",
+        "como con el Álgebra."
+      ],
+      [
+        "Tell it the Ages—to a cypher—",
+        "Reducirle las edades a una cifra —"
+      ],
+      [
+        "And it will ache—contented—on—",
+        "y seguirá doliendo, conforme —"
+      ],
+      [
+        "Sing—at its pain—as any Workman—",
+        "cantará en su dolor como cualquier obrero —"
+      ],
+      [
+        "Notching the fall of the Even Sun!",
+        "que marca el descenso del mismo Sol."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La aritmética del sufrimiento propone medir una herida para volverla soportable; la imagen final convierte el dolor en trabajo."
+      }
+    ]
+  },
+  "J270": {
+    "id": "J270",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "One Life of so much Consequence!",
+    "titleES": "¡Una vida de tanta importancia!",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J270, pp. 123. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "One Life of so much Consequence!",
+        "¡Una vida de tanta importancia!"
+      ],
+      [
+        "Yet I—for it—would pay—",
+        "Y sin embargo, por ella pagaría"
+      ],
+      [
+        "My Soul's entire income—",
+        "todos los ingresos de mi alma —"
+      ],
+      [
+        "In ceaseless—salary—",
+        "en salario incesante —"
+      ],
+      [
+        "One Pearl—to me—so signal—",
+        "Una perla, para mí, tan singular —"
+      ],
+      [
+        "That I would instant dive—",
+        "que me sumergiría al instante —"
+      ],
+      [
+        "Although—I knew—to take it—",
+        "aunque supiera que obtenerla"
+      ],
+      [
+        "Would cost me—just a life!",
+        "me costaría, precisamente, una vida."
+      ],
+      [
+        "The Sea is full—I know it!",
+        "El mar está lleno, ¡lo sé!"
+      ],
+      [
+        "That—does not blur my Gem!",
+        "Eso no empaña mi gema."
+      ],
+      [
+        "It burns—distinct from all the row—",
+        "Brilla, distinta de toda la hilera —"
+      ],
+      [
+        "Intact—in Diadem!",
+        "intacta en la diadema."
+      ],
+      [
+        "The life is thick—I know it!",
+        "La vida es multitudinaria, ¡lo sé!"
+      ],
+      [
+        "Yet—not so dense a crowd—",
+        "Pero no hay muchedumbre tan densa"
+      ],
+      [
+        "But Monarchs—are perceptible—",
+        "que no permita distinguir a los monarcas —"
+      ],
+      [
+        "Far down the dustiest Road!",
+        "a lo lejos, por el camino más polvoriento."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El valor de una vida singular se contrapone a la abundancia indiferenciada del mundo; la perla no pierde su singularidad por estar rodeada de otras."
+      }
+    ]
+  },
+  "J271": {
+    "id": "J271",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A solemn thing—it was—I said—",
+    "titleES": "Algo solemne era, me dije,",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J271, pp. 124. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "A solemn thing—it was—I said—",
+        "Algo solemne era, me dije,"
+      ],
+      [
+        "A woman—white—to be—",
+        "ser una mujer vestida de blanco —"
+      ],
+      [
+        "And wear—if God should count me fit—",
+        "y llevar, si Dios me juzgaba digna,"
+      ],
+      [
+        "Her blameless mystery—",
+        "su misterio sin culpa."
+      ],
+      [
+        "A hallowed thing—to drop a life",
+        "Algo sagrado, dejar caer una vida"
+      ],
+      [
+        "Into the purple well—",
+        "en el pozo púrpura —"
+      ],
+      [
+        "Too plummetless—that it return—",
+        "tan insondable que no regresaría"
+      ],
+      [
+        "Eternity—until—",
+        "hasta la eternidad."
+      ],
+      [
+        "I pondered how the bliss would look—",
+        "Me pregunté qué aspecto tendría la dicha —"
+      ],
+      [
+        "And would it feel as big—",
+        "y si parecería tan inmensa"
+      ],
+      [
+        "When I could take it in my hand—",
+        "cuando pudiera tenerla en la mano"
+      ],
+      [
+        "As hovering—seen—through fog—",
+        "como cuando flotaba, vista entre la niebla."
+      ],
+      [
+        "And then—the size of this \"small\" life—",
+        "Y entonces el tamaño de esta vida «pequeña» —"
+      ],
+      [
+        "The Sages—call it small—",
+        "los sabios la llaman pequeña —"
+      ],
+      [
+        "Swelled—like Horizons—in my vest—",
+        "creció como horizontes dentro de mi pecho —"
+      ],
+      [
+        "And I sneered—softly—\"small\"!",
+        "y me burlé, en voz baja: «¡pequeña!»."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El poema revisa el ideal de una vida consagrada desde la magnitud inesperada de la propia existencia, que los sabios llaman pequeña."
+      }
+    ]
+  },
+  "J272": {
+    "id": "J272",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I breathed enough to take the Trick—",
+    "titleES": "Respiré lo suficiente para aprender el truco —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J272, pp. 124. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "I breathed enough to take the Trick—",
+        "Respiré lo suficiente para aprender el truco —"
+      ],
+      [
+        "And now, removed from Air—",
+        "y ahora, privada de aire,"
+      ],
+      [
+        "I simulate the Breath, so well—",
+        "simulo tan bien la respiración"
+      ],
+      [
+        "That One, to be quite sure—",
+        "que quien quisiera asegurarse"
+      ],
+      [
+        "The Lungs are stirless—must descend",
+        "de que los pulmones están inmóviles tendría que bajar"
+      ],
+      [
+        "Among the Cunning Cells—",
+        "entre las astutas celdas —"
+      ],
+      [
+        "And touch the Pantomime—Himself,",
+        "y tocar la pantomima por sí mismo:"
+      ],
+      [
+        "How numb, the Bellows feels!",
+        "¡qué insensible se siente el fuelle!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La respiración se vuelve representación teatral: la frontera entre vida y muerte se juega en la percepción del cuerpo."
+      }
+    ]
+  },
+  "J273": {
+    "id": "J273",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "He put the Belt around my life—",
+    "titleES": "Él ciñó un cinturón alrededor de mi vida —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J273, pp. 125. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "He put the Belt around my life—",
+        "Él ciñó un cinturón alrededor de mi vida —"
+      ],
+      [
+        "I heard the Buckle snap—",
+        "oí cerrarse la hebilla —"
+      ],
+      [
+        "And turned away, imperial,",
+        "y me volví, imperial,"
+      ],
+      [
+        "My Lifetime folding up—",
+        "plegando mi existencia —"
+      ],
+      [
+        "Deliberate, as a Duke would do",
+        "deliberadamente, como un duque"
+      ],
+      [
+        "A Kingdom's Title Deed—",
+        "el título de propiedad de un reino —"
+      ],
+      [
+        "Henceforth, a Dedicated sort—",
+        "desde entonces, una clase de persona consagrada —"
+      ],
+      [
+        "A Member of the Cloud.",
+        "miembro de la nube."
+      ],
+      [
+        "Yet not too far to come at call—",
+        "Aunque no tan lejos que no acuda al llamado"
+      ],
+      [
+        "And do the little Toils",
+        "y cumpla las pequeñas tareas"
+      ],
+      [
+        "That make the Circuit of the Rest—",
+        "que componen la ronda de los demás —"
+      ],
+      [
+        "And deal occasional smiles",
+        "y reparta sonrisas ocasionales"
+      ],
+      [
+        "To lives that stoop to notice mine—",
+        "a vidas que se inclinan a reparar en la mía"
+      ],
+      [
+        "And kindly ask it in—",
+        "y amablemente la invitan a entrar —"
+      ],
+      [
+        "Whose Invitation, know you not",
+        "¿no sabés por invitación de quién"
+      ],
+      [
+        "For Whom I must decline?",
+        "y por quién debo rechazarla?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El cinturón puede sugerir vínculo, consagración o sujeción; el yo oscila entre rango imperial y obligaciones menores."
+      }
+    ]
+  },
+  "J274": {
+    "id": "J274",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The only Ghost I ever saw",
+    "titleES": "El único fantasma que vi",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J274, pp. 125. Equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "The only Ghost I ever saw",
+        "El único fantasma que vi"
+      ],
+      [
+        "Was dressed in Mechlin—so—",
+        "vestía encaje de Malinas —"
+      ],
+      [
+        "He wore no sandal on his foot—",
+        "no llevaba sandalias en los pies —"
+      ],
+      [
+        "And stepped like flakes of snow—",
+        "y pisaba como copos de nieve."
+      ],
+      [
+        "His Gait—was soundless, like the Bird—",
+        "Su andar era silencioso como el de un pájaro —"
+      ],
+      [
+        "But rapid—like the Roe—",
+        "pero veloz como el corzo."
+      ],
+      [
+        "His fashions, quaint, Mosaic—",
+        "Su atuendo, extraño, mosaico —"
+      ],
+      [
+        "Or haply, Mistletoe—",
+        "o acaso muérdago."
+      ],
+      [
+        "His conversation—seldom—",
+        "Hablaba rara vez —"
+      ],
+      [
+        "His laughter, like the Breeze—",
+        "su risa era como la brisa"
+      ],
+      [
+        "That dies away in Dimples",
+        "que se extingue entre los hoyuelos"
+      ],
+      [
+        "Among the pensive Trees—",
+        "de los árboles pensativos."
+      ],
+      [
+        "Our interview—was transient—",
+        "Nuestro encuentro fue fugaz —"
+      ],
+      [
+        "Of me, himself was shy—",
+        "él se mostraba tímido ante mí —"
+      ],
+      [
+        "And God forbid I look behind—",
+        "y que Dios no permita que mire atrás"
+      ],
+      [
+        "Since that appalling Day!",
+        "desde aquel día espantoso."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La aparición combina detalles concretos de indumentaria y movimiento con la imposibilidad de fijar una identidad estable."
+      }
+    ]
+  },
   "J280": {
     "id": "J280",
     "franklin": "Pendiente de cotejo",
