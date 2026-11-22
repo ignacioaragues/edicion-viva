@@ -2851,12 +2851,24 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/40"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 41,
+      "to": 41,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "22/22 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://www.biblestudytools.com/sblg/mark/9-41.html",
+        "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-41.html"
+      ]
     }
   ],
   "pending": "Continuar Marcos 9,41; revisión filológica retrospectiva y Vulgata opcional pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 41
+    "verse": 42
   },
   "last_edit": "2026-11-23",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5952,6 +5964,17 @@
     "sources": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/40"
+    ]
+  },
+  "prepublication_research_9_41": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "22/22",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.biblestudytools.com/sblg/mark/9-41.html",
+      "https://lemma.gebible.app/v/mark/9/41",
+      "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-41.html"
     ]
   }
 }
