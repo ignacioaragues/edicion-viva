@@ -1573,12 +1573,14 @@
     {
       "group": "sermones",
       "number": 70,
-      "section": "Sermo LXX · De Passione Domini XIX · capita I–II of VI",
-      "paragraphs": 7,
-      "aligned_units": 7,
+      "section": "Sermo LXX · De Passione Domini XIX · capita I–IV of VI",
+      "paragraphs": 16,
+      "aligned_units": 16,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4
       ],
       "total_chapters": 6,
       "translation": "partial original Spanish aligned translation",
@@ -1586,11 +1588,11 @@
       "translation_complete": false,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxx/index.html",
-      "voice_notes": 5,
+      "voice_notes": 7,
       "lexical_coverage": "11 selective contextual morphological entries; exhaustive token morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II only. Digital Latin transcription checked; printed PL54 collation, exhaustive morphology, shared dictionary and browser QA pending. Anti-Jewish rhetoric contextualized."
+      "editorial_caveat": "Chapters I–IV published, chapters V–VI and Amen pending. Digital Latin source checked; printed PL54 collation, contextual morphology, shared dictionary and browser QA pending. Anti-Jewish rhetoric contextualized."
     }
   ],
   "next": {
