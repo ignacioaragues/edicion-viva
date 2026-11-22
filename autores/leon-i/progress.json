@@ -1520,13 +1520,37 @@
       "editorial_caveat": "All seven chapters and final Amen published from public Tractatus LXVII transcription; printed PL54 collation, contextual morphology for every token, shared dictionary and browser QA pending. Polemical address to Judas contextualized.",
       "aligned_units": 23,
       "translation_complete": true
+    },
+    {
+      "group": "sermones",
+      "number": 68,
+      "section": "Sermo LXVIII · De Passione Domini XVII · capita I–IV",
+      "paragraphs": 18,
+      "aligned_units": 18,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete first-pass original Spanish translation",
+      "translation_complete": true,
+      "complete_work": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxviii/index.html",
+      "voice_notes": 6,
+      "lexical_coverage": "10 selective contextual cards; exhaustive word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four chapters and final Amen published from public Tractatus LXVIII transcription. Printed PL54 collation, exhaustive contextual morphology, shared dictionary and browser QA pending. Anti-Jewish polemic contextualized."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 68,
-    "section": "Sermo LXVIII, caput I",
-    "instruction": "Check current repository state and source before editing; attempt complete sermon."
+    "number": 69,
+    "section": "Sermo LXIX, caput I",
+    "instruction": "Check current repository and primary source; attempt complete sermon."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-22",
