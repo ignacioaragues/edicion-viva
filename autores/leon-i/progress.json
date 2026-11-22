@@ -1392,16 +1392,39 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Full five-chapter first pass and Amen from public Tractatus LXII Latin transcription. Printed PL54 collation, exhaustive token morphology, shared dictionary integration and browser QA pending. Digital citation Luc V 32 for lost sheep corrected in Spanish to Luke 19:10 (cf. text). Anti-Jewish polemic contextualized."
+    },
+    {
+      "group": "sermones",
+      "number": 63,
+      "section": "Sermo LXIII · De Passione Domini XII · capita I–II (of VII)",
+      "paragraphs": 6,
+      "aligned_units": 6,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 7,
+      "translation": "partial original Spanish aligned translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxiii/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "9 selective lexical entries; exhaustive contextual morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapters I–II published. Digital transcription has an apparent lacuna after 'nostra augendo, non propria :' in chapter I; retained as crux, not silently emended. Printed PL54 collation pending. Chapters III–VII and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 63,
-    "section": "Caput I",
-    "note": "Begin Sermo LXIII after verifying source and chapter count"
+    "section": "Caput III",
+    "incipit": "Non ergo est dubium, dilectissimi",
+    "note": "Continue chapters III–VII; complete work only after final Amen and verification of crux in chapter I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22",
+  "last_edit": "2026-11-22: Sermo LXIII chapters I–II, six aligned units, partial; source crux flagged",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
