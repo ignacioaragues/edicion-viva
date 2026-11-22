@@ -2863,12 +2863,25 @@
         "https://www.biblestudytools.com/sblg/mark/9-41.html",
         "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-41.html"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 42,
+      "to": 42,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "29/29 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/42",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,41; revisión filológica retrospectiva y Vulgata opcional pendientes.",
+  "pending": "Continuar Marcos 9,43; revisión filológica retrospectiva y Vulgata opcional pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 42
+    "verse": 43
   },
   "last_edit": "2026-11-23",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -3023,7 +3036,7 @@
     "verified": "701 fichas de Marcos 1, 37 de 2,1–3 y 22 de 2,4 alineadas posicionalmente; prueba de navegador pendiente; 15 fichas de 2,5 incorporadas (comprobación de navegador pendiente); 27 fichas de 2,6–7 cotejadas posicionalmente con SBLGNT (sin prueba en navegador); 22 fichas de 2,8 y 20 de 2,9 con mapeo posicional preparado; revisión contextual y navegador pendientes; 18 fichas de 2,10 alineadas posicionalmente, navegador pendiente 26 fichas de 2,15 alineadas mecánicamente con el texto SBLGNT; auditoría filológica completa pendiente.",
     "editorial_review": "pending_contextual_verification",
     "next": "Auditoría morfológica contextual retroactiva y pruebas de navegador pendientes",
-    "last_added": "9,40: 9/9 fichas alineadas mecánicamente; revisión contextual pendiente"
+    "last_added": "9,42: 29/29 fichas alineadas mecánicamente; revisión contextual pendiente"
   },
   "prepublication_research": {
     "passage": "Marcos 1,40–45",
@@ -5975,6 +5988,17 @@
       "https://www.biblestudytools.com/sblg/mark/9-41.html",
       "https://lemma.gebible.app/v/mark/9/41",
       "https://www.studylight.org/interlinear-study-bible/hebrew/mark/9-41.html"
+    ]
+  },
+  "prepublication_research_9_42": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "29/29",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/42",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
     ]
   }
 }
