@@ -17953,6 +17953,214 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J247": {
+    "id": "J247",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "What would I give to see his face?",
+    "titleES": "¿Qué daría por ver su rostro?",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J247, p. 113.",
+    "lines": [
+      [
+        "What would I give to see his face?",
+        "¿Qué daría por ver su rostro?"
+      ],
+      [
+        "I'd give – I'd give my life – of course –",
+        "Daría — daría mi vida — desde luego —"
+      ],
+      [
+        "But that is not enough!",
+        "¡pero eso no basta!"
+      ],
+      [
+        "Stop just a minute – let me think!",
+        "¡Esperá un minuto — dejame pensar!"
+      ],
+      [
+        "I'd give my biggest Bobolink!",
+        "¡Daría mi mayor tordo cantor!"
+      ],
+      [
+        "That makes two – Him – and Life!",
+        "Ya son dos — él — y la vida."
+      ],
+      [
+        "You know who \"June\" is –",
+        "Sabés quién es «Junio» —"
+      ],
+      [
+        "I'd give her –",
+        "le daría —"
+      ],
+      [
+        "Roses a day from Zanzibar –",
+        "rosas cada día desde Zanzíbar —"
+      ],
+      [
+        "And Lily tubes – like Wells –",
+        "y cálices de lirios — como pozos —"
+      ],
+      [
+        "Bees – by the furlong –",
+        "abejas — por leguas enteras —"
+      ],
+      [
+        "Straits of Blue",
+        "estrechos de azul"
+      ],
+      [
+        "Navies of Butterflies – sailed thro' –",
+        "surcados por flotas de mariposas —"
+      ],
+      [
+        "And dappled Cowslip Dells –",
+        "y valles moteados de prímulas —"
+      ],
+      [
+        "Then I have \"shares\" in Primrose \"Banks\" –",
+        "También tengo «acciones» en «bancos» de primaveras —"
+      ],
+      [
+        "Daffodil Downes – spicy \"Stocks\" –",
+        "lomas de narcisos — «valores» aromáticos —"
+      ],
+      [
+        "Dominions – broad as Dew –",
+        "dominios — tan vastos como el rocío —"
+      ],
+      [
+        "Bags of Doubloons – adventurous Bees",
+        "sacos de doblones — que abejas aventureras"
+      ],
+      [
+        "Brought me – from firmamental seas –",
+        "me trajeron — de mares del firmamento —"
+      ],
+      [
+        "And Purple – from Peru –",
+        "y púrpura — del Perú —"
+      ],
+      [
+        "Now – have I bought it –",
+        "Ahora — ¿lo he comprado —"
+      ],
+      [
+        "\"Shylock\"? Say!",
+        "«Shylock»? ¡Decí!"
+      ],
+      [
+        "Sign me the Bond!",
+        "¡Firmame el pagaré!"
+      ],
+      [
+        "I'll vow to pay",
+        "Prometo pagar"
+      ],
+      [
+        "To Her – who pledges this –",
+        "a quien me garantice esto —"
+      ],
+      [
+        "One hour – of her Sovereign's face!",
+        "¡una hora — del rostro de su soberano!"
+      ],
+      [
+        "Ecstatic Contract!",
+        "¡Contrato extático!"
+      ],
+      [
+        "Niggard Grace!",
+        "¡Gracia mezquina!"
+      ],
+      [
+        "My Kingdom's worth of Bliss!",
+        "¡Todo mi reino vale esa dicha!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 22,
+        "title": "Shylock y el contrato",
+        "body": "La alusión al mercader de Shakespeare transforma el deseo de una visión en una compraventa imposible: ni vida ni riqueza imaginaria bastan para pagar la presencia."
+      },
+      {
+        "line": 15,
+        "title": "Bancos, acciones y valores",
+        "body": "La acumulación de vocabulario financiero convierte flores, insectos y paisajes en una fortuna poética, a la vez abundante e inútil frente a la ausencia."
+      }
+    ]
+  },
+  "J248": {
+    "id": "J248",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Why – do they shut Me out of Heaven?",
+    "titleES": "¿Por qué me cierran el cielo?",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J248, p. 113.",
+    "lines": [
+      [
+        "Why – do they shut Me out of Heaven?",
+        "¿Por qué — me dejan fuera del Cielo?"
+      ],
+      [
+        "Did I sing – too loud?",
+        "¿Canté — demasiado fuerte?"
+      ],
+      [
+        "But – I can say a little \"Minor\"",
+        "Pero — puedo entonar un pequeño «menor»"
+      ],
+      [
+        "Timid as a Bird!",
+        "tímido como un pájaro."
+      ],
+      [
+        "Wouldn't the Angels try me –",
+        "¿No querrían los ángeles probar conmigo —"
+      ],
+      [
+        "Just – once – more –",
+        "una — sola — vez más —"
+      ],
+      [
+        "Just – see – if I troubled them –",
+        "ver — si acaso los molesto —"
+      ],
+      [
+        "But don't – shut the door!",
+        "pero ¡no cierren la puerta!"
+      ],
+      [
+        "Oh, if I – were the Gentleman",
+        "Ah, si yo — fuera el Caballero"
+      ],
+      [
+        "In the \"White Robe\" –",
+        "de la «Túnica Blanca» —"
+      ],
+      [
+        "And they – were the little Hand – that knocked –",
+        "y ellos — la pequeña Mano — que llama —"
+      ],
+      [
+        "Could – I – forbid?",
+        "¿podría — yo — negarme?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Minor",
+        "body": "Puede referirse a un modo o tonalidad musical menor y también a una expresión disminuida, más humilde, de la propia voz."
+      },
+      {
+        "line": 9,
+        "title": "La túnica blanca",
+        "body": "La figura del «Caballero» puede leerse como una inversión de la autoridad divina: la hablante pregunta si ella negaría a otro la hospitalidad que se le niega."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
