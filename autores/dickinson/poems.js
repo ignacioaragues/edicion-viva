@@ -18265,6 +18265,295 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J250": {
+    "id": "J250",
+    "incipit": "I shall keep singing!",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "I shall keep singing!",
+        "¡Seguiré cantando!"
+      ],
+      [
+        "Birds will pass me",
+        "Los pájaros me adelantarán"
+      ],
+      [
+        "On their way to Yellower Climes -",
+        "camino de regiones más doradas —"
+      ],
+      [
+        "Each - with a Robin's expectation -",
+        "cada uno — con la esperanza de un petirrojo —"
+      ],
+      [
+        "I - with my Redbreast -",
+        "yo — con mi pecho rojo —"
+      ],
+      [
+        "And my Rhymes -",
+        "y mis rimas —"
+      ],
+      [
+        "Late - when I take my place in summer -",
+        "Tarde — cuando ocupe mi lugar en el verano —"
+      ],
+      [
+        "But - I shall bring a fuller tune -",
+        "pero — traeré una melodía más plena —"
+      ],
+      [
+        "Vespers - are sweeter than Matins - Signor -",
+        "las vísperas — son más dulces que los maitines — señor —"
+      ],
+      [
+        "Morning - only the seed of Noon -",
+        "la mañana — apenas la semilla del mediodía —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 9,
+        "title": "Vísperas y maitines",
+        "body": "Los oficios religiosos de la tarde y la mañana ordenan la oposición entre madurez tardía y comienzo temprano. «Signor» introduce un interlocutor de tono ceremonioso."
+      },
+      {
+        "line": 4,
+        "title": "Petirrojo",
+        "body": "«Robin» y «Redbreast» aluden al mismo pájaro: el yo lírico se identifica con su canto, pero se reserva una maduración distinta de la migración de los otros."
+      }
+    ],
+    "titleES": "I shall keep singing!",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J250, pp. 114–116; cotejo con texto base."
+  },
+  "J251": {
+    "id": "J251",
+    "incipit": "Over the fence -",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "Over the fence -",
+        "Al otro lado de la cerca —"
+      ],
+      [
+        "Strawberries - grow -",
+        "crecen fresas —"
+      ],
+      [
+        "Over the fence -",
+        "Al otro lado de la cerca —"
+      ],
+      [
+        "I could climb - if I tried, I know -",
+        "podría trepar — si lo intentara, lo sé —"
+      ],
+      [
+        "Berries are nice!",
+        "¡Qué ricas son las fresas!"
+      ],
+      [
+        "But - if I stained my Apron -",
+        "Pero — si manchara mi delantal —"
+      ],
+      [
+        "God would certainly scold!",
+        "¡Dios sin duda me retaría!"
+      ],
+      [
+        "Oh, dear, - I guess if He were a Boy -",
+        "Ay, cielos — me parece que si Él fuera un niño —"
+      ],
+      [
+        "He'd - climb - if He could!",
+        "¡treparía — si pudiera!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "title": "El delantal",
+        "body": "La prenda manchada materializa una falta infantil y permite leer la prohibición religiosa como una norma doméstica."
+      },
+      {
+        "line": 8,
+        "title": "Dios niño",
+        "body": "El cierre invierte la jerarquía: la voz imagina a Dios sometido al mismo deseo de transgresión que ella."
+      }
+    ],
+    "titleES": "Over the fence -",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J251, pp. 114–116; cotejo con texto base."
+  },
+  "J252": {
+    "id": "J252",
+    "incipit": "I can wade Grief -",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "I can wade Grief -",
+        "Puedo vadear la Pena —"
+      ],
+      [
+        "Whole Pools of it -",
+        "estanques enteros de ella —"
+      ],
+      [
+        "I'm used to that -",
+        "a eso estoy acostumbrada —"
+      ],
+      [
+        "But the least push of Joy",
+        "pero el menor empujón de Alegría"
+      ],
+      [
+        "Breaks up my feet -",
+        "me hace perder pie —"
+      ],
+      [
+        "And I tip - drunken -",
+        "y me tambaleo — ebria —"
+      ],
+      [
+        "Let no Pebble - smile -",
+        "Que ninguna piedrita — se ría —"
+      ],
+      [
+        "'Twas the New Liquor -",
+        "fue el licor desconocido —"
+      ],
+      [
+        "That was all!",
+        "¡eso fue todo!"
+      ],
+      [
+        "Power is only Pain -",
+        "El Poder no es sino Dolor —"
+      ],
+      [
+        "Stranded, thro' Discipline,",
+        "varado, por la Disciplina,"
+      ],
+      [
+        "Till Weights - will hang -",
+        "hasta que puede sostener pesos —"
+      ],
+      [
+        "Give Balm - to Giants -",
+        "Dad bálsamo — a los gigantes —"
+      ],
+      [
+        "And they'll wilt, like Men -",
+        "y se marchitarán, como hombres —"
+      ],
+      [
+        "Give Himmaleh -",
+        "Dadles el Himalaya —"
+      ],
+      [
+        "They'll Carry - Him!",
+        "¡y lo cargarán!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "La alegría como desequilibrio",
+        "body": "La voz domina el sufrimiento por costumbre, pero la alegría altera su equilibrio. La paradoja se expresa como una incapacidad física."
+      },
+      {
+        "line": 10,
+        "title": "Poder y disciplina",
+        "body": "El poder aparece como dolor endurecido por la práctica; el bálsamo debilita a los gigantes, mientras que la carga extrema les resulta soportable."
+      },
+      {
+        "line": 15,
+        "title": "Himmaleh",
+        "body": "Forma poética de Himalaya. Se conserva «Himalaya» en español; el pronombre final personifica la montaña."
+      }
+    ],
+    "titleES": "I can wade Grief -",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J252, pp. 114–116; cotejo con texto base."
+  },
+  "J253": {
+    "id": "J253",
+    "incipit": "You see I cannot see - your lifetime -",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "You see I cannot see - your lifetime -",
+        "Ves que no puedo ver — tu vida —"
+      ],
+      [
+        "I must guess -",
+        "tengo que adivinar —"
+      ],
+      [
+        "How many times it ache for me - today - Confess -",
+        "cuántas veces duele por mí — hoy — confiésalo —"
+      ],
+      [
+        "How many times for my far sake",
+        "cuántas veces por mí, tan lejana,"
+      ],
+      [
+        "The brave eyes film -",
+        "se empañan esos ojos valientes —"
+      ],
+      [
+        "But I guess guessing hurts -",
+        "pero supongo que adivinar duele —"
+      ],
+      [
+        "Mine - get so dim!",
+        "¡los míos — se nublan tanto!"
+      ],
+      [
+        "Too vague - the face -",
+        "Demasiado borroso — el rostro —"
+      ],
+      [
+        "My own - so patient - covers -",
+        "que el mío — tan paciente — recubre —"
+      ],
+      [
+        "Too far - the strength -",
+        "Demasiado distante — la fuerza —"
+      ],
+      [
+        "My timidness enfolds -",
+        "que mi timidez envuelve —"
+      ],
+      [
+        "Haunting the Heart -",
+        "Acechando al Corazón —"
+      ],
+      [
+        "Like her translated faces -",
+        "como sus rostros trasladados —"
+      ],
+      [
+        "Teasing the want -",
+        "atormentando el deseo —"
+      ],
+      [
+        "It - only - can suffice!",
+        "¡solo él — puede bastar!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "La vida ausente",
+        "body": "La separación obliga a sustituir la percepción por conjeturas; la pregunta sobre el dolor del otro acaba empañando la propia mirada."
+      },
+      {
+        "line": 13,
+        "title": "Translated faces",
+        "body": "«Translated» puede sugerir rostros trasladados, transformados o transpuestos por la memoria. La traducción conserva la extrañeza de la imagen sin fijar una sola interpretación."
+      }
+    ],
+    "titleES": "You see I cannot see - your lifetime -",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J253, pp. 114–116; cotejo con texto base."
+  },
   "J254": {
     "id": "J254",
     "franklin": "F314",
