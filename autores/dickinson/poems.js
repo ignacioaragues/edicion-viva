@@ -17656,6 +17656,303 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J243": {
+    "id": "J243",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I've known a Heaven, like a Tent-",
+    "titleES": "Conocí un Cielo, semejante a una Carpa —",
+    "stanzaBreaks": [
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J243, pp. 111–112 (texto cotejado con la edición digitalizada; puntuación revisada sobre texto extraído).",
+    "lines": [
+      [
+        "I've known a Heaven, like a Tent-",
+        "Conocí un Cielo, semejante a una Carpa —"
+      ],
+      [
+        "To wrap its shining Yards-",
+        "que recogía sus brillantes Lonas —"
+      ],
+      [
+        "Pluck up its stakes, and disappear -",
+        "arrancaba sus estacas y desaparecía —"
+      ],
+      [
+        "Without the sound of Boards",
+        "sin ruido de Tablas"
+      ],
+      [
+        "Or Rip of Nail - Or Carpenter -",
+        "ni chirrido de Clavos — ni Carpintero —"
+      ],
+      [
+        "But just the miles of Stare -",
+        "solo los kilómetros de Mirada —"
+      ],
+      [
+        "That signalize a Show's Retreat-",
+        "que señalan la retirada de un Espectáculo —"
+      ],
+      [
+        "In North America -",
+        "en Norteamérica —"
+      ],
+      [
+        "No Trace - no Figment of the Thing",
+        "Ni Rastro — ni vestigio de Aquello"
+      ],
+      [
+        "That dazzled, Yesterday,",
+        "que deslumbraba Ayer,"
+      ],
+      [
+        "No Ring - no Marvel-",
+        "ni Pista — ni Maravilla —"
+      ],
+      [
+        "Men, and Feats -",
+        "Hombres y Proezas —"
+      ],
+      [
+        "Dissolved as utterly -",
+        "disueltos por completo —"
+      ],
+      [
+        "As Bird's far Navigation",
+        "como el lejano vuelo de un Ave"
+      ],
+      [
+        "Discloses just a Hue-",
+        "deja ver apenas un Matiz —"
+      ],
+      [
+        "A plash of Oars, a Gaiety -",
+        "un chapoteo de Remos, un Júbilo —"
+      ],
+      [
+        "Then swallowed up, of View.",
+        "y después, tragados por la Vista."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Cielo itinerante",
+        "body": "La comparación con una carpa convierte la visión del cielo en espectáculo transitorio: el retiro sucede sin los ruidos materiales del desmontaje."
+      },
+      {
+        "line": 11,
+        "title": "Ring",
+        "body": "Puede aludir al ruedo de un espectáculo o a su círculo visible; «pista» conserva la referencia circense."
+      }
+    ]
+  },
+  "J244": {
+    "id": "J244",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "It is easy to work when the soul is at play -",
+    "titleES": "Es fácil trabajar cuando el alma juega —",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J244, pp. 111–112 (texto cotejado con la edición digitalizada; puntuación revisada sobre texto extraído).",
+    "lines": [
+      [
+        "It is easy to work when the soul is at play -",
+        "Es fácil trabajar cuando el alma juega —"
+      ],
+      [
+        "But when the soul is in pain -",
+        "pero cuando el alma sufre —"
+      ],
+      [
+        "The hearing him put his playthings up",
+        "oírlo guardar sus juguetes"
+      ],
+      [
+        "Makes work difficult - then -",
+        "vuelve difícil el trabajo — entonces —"
+      ],
+      [
+        "It is simple, to ache in the Bone, or the Rind -",
+        "Es sencillo doler en el Hueso o la Corteza —"
+      ],
+      [
+        "But Gimlets - among the nerve-",
+        "pero las Barrenas — entre los nervios —"
+      ],
+      [
+        "Mangle daintier - terribler -",
+        "desgarran con mayor delicadeza — más terriblemente —"
+      ],
+      [
+        "Like a Panther in the Glove -",
+        "como una Pantera dentro del Guante —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "title": "Gimlets",
+        "body": "La barrena perfora: el dolor del nervio se imagina como una herramienta que penetra donde la herida no se ve."
+      },
+      {
+        "line": 8,
+        "title": "Pantera en el guante",
+        "body": "La imagen combina ferocidad y encierro en una superficie aparentemente dócil."
+      }
+    ]
+  },
+  "J245": {
+    "id": "J245",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I held a Jewel in my fingers -",
+    "titleES": "Sostenía una Joya entre los dedos —",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J245, pp. 111–112 (texto cotejado con la edición digitalizada; puntuación revisada sobre texto extraído).",
+    "lines": [
+      [
+        "I held a Jewel in my fingers -",
+        "Sostenía una Joya entre los dedos —"
+      ],
+      [
+        "And went to sleep -",
+        "y me quedé dormida —"
+      ],
+      [
+        "The day was warm, and winds were prosy -",
+        "el día era cálido y los vientos, prosaicos —"
+      ],
+      [
+        "I said \"'Twill keep\" -",
+        "dije: «Estará a salvo» —"
+      ],
+      [
+        "I woke - and chid my honest fingers,",
+        "Desperté — y reprendí a mis dedos inocentes,"
+      ],
+      [
+        "The Gem was gone -",
+        "la Gema había desaparecido —"
+      ],
+      [
+        "And now, an Amethyst remembrance",
+        "y ahora, un recuerdo de Amatista"
+      ],
+      [
+        "Is all I own-",
+        "es todo lo que poseo —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Prosy",
+        "body": "La tranquilidad prosaica del ambiente favorece la falsa certeza de que nada cambiará."
+      },
+      {
+        "line": 7,
+        "title": "Amethyst",
+        "body": "El recuerdo conserva el color y el valor de una gema, pero ya no equivale al objeto perdido."
+      }
+    ]
+  },
+  "J246": {
+    "id": "J246",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Forever at His side to walk -",
+    "titleES": "Caminar por siempre a Su lado —",
+    "stanzaBreaks": [
+      5,
+      9
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J246, pp. 111–112 (texto cotejado con la edición digitalizada; puntuación revisada sobre texto extraído).",
+    "lines": [
+      [
+        "Forever at His side to walk -",
+        "Caminar por siempre a Su lado —"
+      ],
+      [
+        "The smaller of the two!",
+        "¡la menor de los dos!"
+      ],
+      [
+        "Brain of His Brain -",
+        "Cerebro de Su Cerebro —"
+      ],
+      [
+        "Blood of His Blood -",
+        "Sangre de Su Sangre —"
+      ],
+      [
+        "Two lives - One Being - now -",
+        "Dos vidas — Un solo Ser — ahora —"
+      ],
+      [
+        "Forever of His fate to taste -",
+        "Compartir por siempre Su destino —"
+      ],
+      [
+        "If grief - the largest part -",
+        "si hay dolor — la porción mayor —"
+      ],
+      [
+        "If joy - to put my piece away",
+        "si hay alegría — apartar mi parte"
+      ],
+      [
+        "For that beloved Heart -",
+        "para ese Corazón amado —"
+      ],
+      [
+        "All life - to know each other -",
+        "Toda una vida — para conocernos —"
+      ],
+      [
+        "Whom we can never learn -",
+        "sin llegar jamás a comprendernos —"
+      ],
+      [
+        "And bye and bye - a Change -",
+        "y, con el tiempo — un Cambio —"
+      ],
+      [
+        "Called Heaven -",
+        "llamado Cielo —"
+      ],
+      [
+        "Rapt Neighborhoods of Men -",
+        "Vecindarios extasiados de Hombres —"
+      ],
+      [
+        "Just finding out - what puzzled us -",
+        "descubriendo al fin — lo que nos desconcertaba —"
+      ],
+      [
+        "Without the lexicon!",
+        "¡sin diccionario!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "The smaller of the two",
+        "body": "La voz formula una unión deseada, pero reconoce la asimetría de sus posiciones."
+      },
+      {
+        "line": 16,
+        "title": "Without the lexicon",
+        "body": "La comprensión final prescindiría de las mediaciones del lenguaje; no se afirma que la unión terrenal haya logrado esa transparencia."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
