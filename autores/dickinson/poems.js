@@ -21022,6 +21022,286 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J285": {
+    "id": "J285",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Robin's my Criterion for Tune—",
+    "titleES": "El petirrojo es mi criterio de melodía",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J285, pp. 131–133; cotejo con PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The Robin's my Criterion for Tune—",
+        "El Petirrojo es mi criterio de melodía —"
+      ],
+      [
+        "Because I grow—where Robins do—",
+        "porque crezco donde crecen los petirrojos —"
+      ],
+      [
+        "But, were I Cuckoo born—",
+        "pero, si hubiera nacido Cuco —"
+      ],
+      [
+        "I'd swear by him—",
+        "juraría por él —"
+      ],
+      [
+        "The ode familiar—rules the Noon—",
+        "la oda familiar gobierna el Mediodía —"
+      ],
+      [
+        "The Buttercup's, my Whim for Bloom—",
+        "el Botón de Oro es mi capricho de flor —"
+      ],
+      [
+        "Because, we're Orchard sprung—",
+        "porque ambos nacimos en el huerto —"
+      ],
+      [
+        "But, were I Britain born,",
+        "pero, si hubiera nacido en Gran Bretaña,"
+      ],
+      [
+        "I'd Daisies spurn—",
+        "desdeñaría las Margaritas —"
+      ],
+      [
+        "None but the Nut—October fit—",
+        "solo la Nuez le sienta bien a Octubre —"
+      ],
+      [
+        "Because, through dropping it,",
+        "porque, al dejarla caer,"
+      ],
+      [
+        "The Seasons flit—I'm taught—",
+        "las Estaciones pasan — eso me enseñaron —"
+      ],
+      [
+        "Without the Snow's Tableau",
+        "sin el cuadro de la Nieve"
+      ],
+      [
+        "Winter, were he—to me—",
+        "no habría Invierno — para mí —"
+      ],
+      [
+        "Because I see—New Englandly—",
+        "porque veo — a la manera de Nueva Inglaterra —"
+      ],
+      [
+        "The Queen, discerns like me—",
+        "la Reina distingue, como yo —"
+      ],
+      [
+        "Provincially—",
+        "provincianamente —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El lugar de la percepción",
+        "body": "La hablante reconoce que sus juicios estéticos dependen de las especies y estaciones de su entorno. La confesión de provincialismo alcanza también a la reina."
+      },
+      {
+        "line": 15,
+        "title": "New Englandly",
+        "body": "El adverbio inventivo condensa una perspectiva regional en una forma lingüística poco habitual."
+      }
+    ]
+  },
+  "J286": {
+    "id": "J286",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "That after Horror—that 'twas us—",
+    "titleES": "Que, después del Horror, éramos nosotros",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J286, pp. 131–133; cotejo con PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "That after Horror—that 'twas us—",
+        "Que después del Horror — éramos nosotros —"
+      ],
+      [
+        "That passed the mouldering Pier—",
+        "quienes cruzamos el muelle carcomido —"
+      ],
+      [
+        "Just as the Granite Crumb let go—",
+        "justo cuando cedió la miga de Granito —"
+      ],
+      [
+        "Our Savior, by a Hair—",
+        "nuestro Salvador, por un Pelo —"
+      ],
+      [
+        "A second more, had dropped too deep",
+        "Un segundo más, y habríamos caído tan hondo"
+      ],
+      [
+        "For Fisherman to plumb—",
+        "que ningún Pescador podría sondarlo —"
+      ],
+      [
+        "The very profile of the Thought",
+        "El solo perfil de ese Pensamiento"
+      ],
+      [
+        "Puts Recollection numb—",
+        "entumece el Recuerdo —"
+      ],
+      [
+        "The possibility—to pass",
+        "La posibilidad — de pasar"
+      ],
+      [
+        "Without a Moment's Bell—",
+        "sin la Campana de un instante —"
+      ],
+      [
+        "Into Conjecture's presence—",
+        "a la presencia de la Conjetura —"
+      ],
+      [
+        "Is like a Face of Steel—",
+        "es como un Rostro de Acero —"
+      ],
+      [
+        "That suddenly looks into ours",
+        "que de pronto mira al nuestro"
+      ],
+      [
+        "With a metallic grin—",
+        "con una sonrisa metálica —"
+      ],
+      [
+        "The Cordiality of Death—",
+        "la Cordialidad de la Muerte —"
+      ],
+      [
+        "Who drills his Welcome in—",
+        "que taladra su Bienvenida —"
+      ]
+    ],
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Salvación precaria",
+        "body": "La expresión «by a Hair» convierte la supervivencia en un margen casi inexistente; «Savior» permite, sin imponerla, una lectura religiosa."
+      },
+      {
+        "line": 15,
+        "title": "Cordialidad irónica",
+        "body": "La cortesía de la Muerte resulta amenazante: la bienvenida no se ofrece, se perfora."
+      }
+    ]
+  },
+  "J287": {
+    "id": "J287",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A Clock stopped—",
+    "titleES": "Se detuvo un Reloj",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J287, pp. 131–133; cotejo con PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "A Clock stopped—",
+        "Se detuvo un Reloj —"
+      ],
+      [
+        "Not the Mantel's—",
+        "no el de la Repisa —"
+      ],
+      [
+        "Geneva's farthest skill",
+        "ni la mayor pericia de Ginebra"
+      ],
+      [
+        "Can't put the puppet bowing—",
+        "puede hacer que vuelva a inclinarse el muñeco —"
+      ],
+      [
+        "That just now dangled still—",
+        "que hace un instante colgaba inmóvil —"
+      ],
+      [
+        "An awe came on the Trinket!",
+        "¡Un espanto invadió la Baratija!"
+      ],
+      [
+        "The Figures hunched, with pain—",
+        "Las Cifras se encorvaron de dolor —"
+      ],
+      [
+        "Then quivered out of Decimals—",
+        "luego temblaron hasta salir de los Decimales —"
+      ],
+      [
+        "Into Degreeless Noon—",
+        "hacia un Mediodía sin grados —"
+      ],
+      [
+        "It will not stir for Doctors—",
+        "No se moverá por los Médicos —"
+      ],
+      [
+        "This Pendulum of snow—",
+        "este Péndulo de nieve —"
+      ],
+      [
+        "This Shopman importunes it—",
+        "El Tendero lo importuna —"
+      ],
+      [
+        "While cool—concernless No—",
+        "mientras un No frío — indiferente —"
+      ],
+      [
+        "Nods from the Gilded pointers—",
+        "asiente desde las agujas doradas —"
+      ],
+      [
+        "Nods from the Seconds slim—",
+        "asiente desde los esbeltos Segundos —"
+      ],
+      [
+        "Decades of Arrogance between",
+        "Décadas de Arrogancia separan"
+      ],
+      [
+        "The Dial life—",
+        "la vida de la Esfera —"
+      ],
+      [
+        "And Him—",
+        "y a Él —"
+      ]
+    ],
+    "stanzaBreaks": [
+      5,
+      9,
+      15
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El reloj y el cuerpo",
+        "body": "La máquina detenida puede leerse como una figura de la muerte corporal: ni el oficio del relojero ni la medicina reaniman el mecanismo."
+      },
+      {
+        "line": 3,
+        "title": "Ginebra",
+        "body": "La alusión a la relojería ginebrina subraya la insuficiencia incluso de una pericia técnica excepcional."
+      }
+    ]
+  },
   "J288": {
     "id": "J288",
     "franklin": "F260",
