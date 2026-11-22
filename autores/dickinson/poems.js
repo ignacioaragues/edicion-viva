@@ -20674,6 +20674,354 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J281": {
+    "id": "J281",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "'Tis so appalling – it exhilarates –",
+    "titleES": "Es tan espantoso — que exalta —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J281, pp. 129–131; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "'Tis so appalling – it exhilarates –",
+        "Es tan espantoso — que exalta —"
+      ],
+      [
+        "So over Horror, it half Captivates –",
+        "tanto supera al Horror que casi cautiva —"
+      ],
+      [
+        "The Soul stares after it, secure –",
+        "el Alma lo sigue con la mirada, a salvo —"
+      ],
+      [
+        "A Sepulchre, fears frost, no more –",
+        "un Sepulcro ya no teme a la escarcha —"
+      ],
+      [
+        "To scan a Ghost, is faint –",
+        "Atisbar un Fantasma es desfallecer —"
+      ],
+      [
+        "But grappling, conquers it –",
+        "pero forcejear con él es vencerlo —"
+      ],
+      [
+        "How easy, Torment, now –",
+        "¡Qué fácil resulta ahora el Tormento —"
+      ],
+      [
+        "Suspense kept sawing so –",
+        "cuando la Incertidumbre serraba sin cesar! —"
+      ],
+      [
+        "The Truth, is Bald, and Cold –",
+        "La Verdad está Desnuda y Fría —"
+      ],
+      [
+        "But that will hold –",
+        "pero eso perdurará —"
+      ],
+      [
+        "If any are not sure –",
+        "si alguien aún no está seguro —"
+      ],
+      [
+        "We show them – prayer –",
+        "le mostramos la oración —"
+      ],
+      [
+        "But we, who know,",
+        "pero nosotros, que sabemos,"
+      ],
+      [
+        "Stop hoping, now –",
+        "dejamos ya de esperar —"
+      ],
+      [
+        "Looking at Death, is Dying –",
+        "Mirar a la Muerte es Morir —"
+      ],
+      [
+        "Just let go the Breath –",
+        "basta con soltar el Aliento —"
+      ],
+      [
+        "And not the pillow at your Cheek",
+        "y no es la almohada junto a tu Mejilla"
+      ],
+      [
+        "So Slumbereth –",
+        "la que así duerme —"
+      ],
+      [
+        "Others, Can wrestle –",
+        "Otros pueden luchar —"
+      ],
+      [
+        "Yours, is done –",
+        "tu lucha ha terminado —"
+      ],
+      [
+        "And so of Woe, bleak dreaded – come,",
+        "y así, cuando llega el Dolor tan temido —"
+      ],
+      [
+        "It sets the Fright at liberty –",
+        "libera al Espanto —"
+      ],
+      [
+        "And Terror's free –",
+        "y el Terror queda libre —"
+      ],
+      [
+        "Gay, Ghastly, Holiday!",
+        "¡Alegre, Macabra, Fiesta!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La certeza y el terror",
+        "body": "La voz contrapone la anticipación del espanto con la experiencia directa. «Holiday» remata con una celebración inquietante, no con un consuelo inequívoco."
+      }
+    ]
+  },
+  "J282": {
+    "id": "J282",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "How noteless Men, and Pleiads, stand,",
+    "titleES": "Qué inadvertidos permanecen los Hombres y las Pléyades,",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J282, pp. 129–131; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "How noteless Men, and Pleiads, stand,",
+        "Qué inadvertidos permanecen los Hombres y las Pléyades,"
+      ],
+      [
+        "Until a sudden sky",
+        "hasta que un cielo repentino"
+      ],
+      [
+        "Reveals the fact that One is rapt",
+        "revela que Uno ha sido arrebatado"
+      ],
+      [
+        "Forever from the Eye –",
+        "para siempre de la Vista —"
+      ],
+      [
+        "Members of the Invisible,",
+        "Miembros de lo Invisible,"
+      ],
+      [
+        "Existing, while we stare,",
+        "que existen mientras miramos,"
+      ],
+      [
+        "In Leagueless Opportunity,",
+        "en una Posibilidad sin leguas,"
+      ],
+      [
+        "O'ertakeless, as the Air –",
+        "inalcanzables como el Aire —"
+      ],
+      [
+        "Why didn't we detain Them?",
+        "¿Por qué no los retuvimos?"
+      ],
+      [
+        "The Heavens with a smile,",
+        "Los Cielos, con una sonrisa,"
+      ],
+      [
+        "Sweep by our disappointed Heads",
+        "pasan rozando nuestras cabezas decepcionadas"
+      ],
+      [
+        "Without a syllable –",
+        "sin una sílaba —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Las Pléyades y la pérdida",
+        "body": "La desaparición de un astro o de una persona convierte lo antes inadvertido en una ausencia visible. La comparación no determina por sí sola un acontecimiento biográfico."
+      }
+    ]
+  },
+  "J283": {
+    "id": "J283",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A Mien to move a Queen –",
+    "titleES": "Un Porte capaz de conmover a una Reina —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J283, pp. 129–131; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "A Mien to move a Queen –",
+        "Un Porte capaz de conmover a una Reina —"
+      ],
+      [
+        "Half Child – Half Heroine –",
+        "Mitad Niña — Mitad Heroína —"
+      ],
+      [
+        "An Orleans in the Eye",
+        "una Orleans en la Mirada"
+      ],
+      [
+        "That puts its manner by",
+        "que deja de lado sus maneras"
+      ],
+      [
+        "For humbler Company",
+        "ante Compañía más humilde"
+      ],
+      [
+        "When none are near",
+        "cuando nadie se acerca"
+      ],
+      [
+        "Even a Tear –",
+        "ni siquiera una Lágrima —"
+      ],
+      [
+        "Its frequent Visitor –",
+        "su Visitante frecuente —"
+      ],
+      [
+        "A Bonnet like a Duke –",
+        "Un Sombrero como el de un Duque —"
+      ],
+      [
+        "And yet a Wren's Peruke",
+        "y, sin embargo, la Peluca de un Reyezuelo"
+      ],
+      [
+        "Were not so shy",
+        "no sería tan tímida"
+      ],
+      [
+        "Of Goer by –",
+        "ante quien pasa —"
+      ],
+      [
+        "And Hands – so slight –",
+        "y unas Manos tan delicadas —"
+      ],
+      [
+        "They would elate a Sprite",
+        "que alegrarían a un Duende"
+      ],
+      [
+        "With Merriment –",
+        "con Regocijo —"
+      ],
+      [
+        "A Voice that Alters – Low",
+        "Una Voz que cambia — baja"
+      ],
+      [
+        "And on the Ear can go",
+        "y puede posarse en el Oído"
+      ],
+      [
+        "Like Let of Snow –",
+        "como un desprendimiento de Nieve —"
+      ],
+      [
+        "Or shift supreme –",
+        "o elevarse soberana —"
+      ],
+      [
+        "As tone of Realm",
+        "como el tono de un Reino"
+      ],
+      [
+        "On Subjects Diadem –",
+        "sobre la Diadema de sus Súbditos —"
+      ],
+      [
+        "Too small – to fear –",
+        "Demasiado pequeña para temerla —"
+      ],
+      [
+        "Too distant – to endear –",
+        "demasiado distante para quererla —"
+      ],
+      [
+        "And so Men Compromise –",
+        "y así los Hombres transigen —"
+      ],
+      [
+        "And just – revere –",
+        "y simplemente la veneran —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Retrato en contrastes",
+        "body": "La figura combina rango aristocrático, fragilidad y reserva. «Orleans» evoca una dignidad histórica, sin identificar de manera segura a la persona retratada."
+      }
+    ]
+  },
+  "J284": {
+    "id": "J284",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Drop, that wrestles in the Sea –",
+    "titleES": "La Gota que forcejea en el Mar —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J284, pp. 129–131; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The Drop, that wrestles in the Sea –",
+        "La Gota que forcejea en el Mar —"
+      ],
+      [
+        "Forgets her own locality –",
+        "olvida su propio lugar —"
+      ],
+      [
+        "As I – toward Thee –",
+        "como yo — al dirigirme a Ti —"
+      ],
+      [
+        "She knows herself an Incense small –",
+        "se sabe un Incienso pequeño —"
+      ],
+      [
+        "Yet small – she sighs – if All – is All –",
+        "y aun siendo pequeña suspira: si el Todo es Todo —"
+      ],
+      [
+        "How larger – be?",
+        "¿cómo podría ser mayor?"
+      ],
+      [
+        "The Ocean – smiles – at her Conceit –",
+        "El Océano sonríe ante su Presunción —"
+      ],
+      [
+        "But she, forgetting Amphitrite –",
+        "pero ella, olvidándose de Anfitrite —"
+      ],
+      [
+        "Pleads – \"Me\"?",
+        "suplica: «¿Yo?»"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Anfitrite y el yo",
+        "body": "Anfitrite es la divinidad marina de la mitología griega; la gota oscila entre perderse en el océano y reclamar una identidad propia."
+      }
+    ]
+  },
   "J288": {
     "id": "J288",
     "franklin": "F260",
