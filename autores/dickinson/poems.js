@@ -21374,6 +21374,304 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J289": {
+    "id": "J289",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I know some lonely Houses off the Road",
+    "titleES": "Conozco unas casas solitarias",
+    "stanzaBreaks": [
+      12,
+      24,
+      30
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J289, pp. 133–134. Texto cotejado con el PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I know some lonely Houses off the Road",
+        "Conozco unas casas solitarias, apartadas del camino"
+      ],
+      [
+        "A Robber'd like the look of -",
+        "que a un ladrón le gustarían a primera vista —"
+      ],
+      [
+        "Wooden barred,",
+        "con trancas de madera,"
+      ],
+      [
+        "And Windows hanging low,",
+        "y ventanas muy bajas,"
+      ],
+      [
+        "Inviting to -",
+        "que invitan a entrar —"
+      ],
+      [
+        "A Portico,",
+        "un pórtico"
+      ],
+      [
+        "Where two could creep -",
+        "por donde dos podrían deslizarse —"
+      ],
+      [
+        "One - hand the Tools -",
+        "uno, pasar las herramientas —"
+      ],
+      [
+        "The other peep -",
+        "el otro, espiar —"
+      ],
+      [
+        "To make sure All's Asleep -",
+        "para asegurarse de que todos duermen —"
+      ],
+      [
+        "Old fashioned eyes -",
+        "ojos de otros tiempos —"
+      ],
+      [
+        "Not easy to surprise!",
+        "¡no es fácil sorprenderlos!"
+      ],
+      [
+        "How orderly the Kitchen'd look, by night,",
+        "¡Qué ordenada se vería la cocina, de noche,"
+      ],
+      [
+        "With just a Clock -",
+        "con solo un reloj!"
+      ],
+      [
+        "But they could gag the Tick -",
+        "Pero podrían amordazar su tictac —"
+      ],
+      [
+        "And Mice won't bark -",
+        "y los ratones no ladran —"
+      ],
+      [
+        "And so the Walls - don't tell -",
+        "y así las paredes no cuentan nada —"
+      ],
+      [
+        "None - will -",
+        "nadie lo hará —"
+      ],
+      [
+        "A pair of Spectacles ajar just stir -",
+        "Un par de anteojos entreabiertos apenas se mueve —"
+      ],
+      [
+        "An Almanac's aware -",
+        "un almanaque está alerta —"
+      ],
+      [
+        "Was it the Mat - winked,",
+        "¿Fue el felpudo el que guiñó un ojo,"
+      ],
+      [
+        "Or a Nervous Star?",
+        "o una estrella nerviosa?"
+      ],
+      [
+        "The Moon - slides down the stair,",
+        "La luna baja deslizándose por la escalera"
+      ],
+      [
+        "To see who's there!",
+        "¡para ver quién anda ahí!"
+      ],
+      [
+        "There's plunder - where -",
+        "Hay botín — ¿dónde? —"
+      ],
+      [
+        "Tankard, or Spoon -",
+        "una jarra o una cuchara —"
+      ],
+      [
+        "Earring - or Stone -",
+        "un pendiente o una piedra —"
+      ],
+      [
+        "A Watch - Some Ancient Brooch",
+        "un reloj, algún broche antiguo"
+      ],
+      [
+        "To match the Grandmama -",
+        "a juego con la abuela —"
+      ],
+      [
+        "Staid sleeping - there -",
+        "que duerme plácidamente — allí —"
+      ],
+      [
+        "Day - rattles - too",
+        "El día también traquetea —"
+      ],
+      [
+        "Stealth's - slow -",
+        "el sigilo es lento —"
+      ],
+      [
+        "The Sun has got as far",
+        "el sol ya ha llegado"
+      ],
+      [
+        "As the third Sycamore -",
+        "hasta el tercer sicómoro —"
+      ],
+      [
+        "Screams Chanticleer",
+        "grita el gallo"
+      ],
+      [
+        "'Who's there'?",
+        "«¿Quién anda ahí?»"
+      ],
+      [
+        "And Echoes - Trains away,",
+        "Y el eco, alejándose en largas estelas,"
+      ],
+      [
+        "Sneer - 'Where'!",
+        "se burla: «¿Dónde?»"
+      ],
+      [
+        "While the old Couple, just astir,",
+        "mientras la pareja de ancianos, apenas despierta,"
+      ],
+      [
+        "Fancy the Sunrise - left the door ajar!",
+        "imagina que el amanecer dejó la puerta entornada."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una escena de intrusión",
+        "body": "La voz ensaya imaginariamente el recorrido de unos ladrones: el condicional convierte la casa en un escenario de posibilidades, no en testimonio de un robo."
+      },
+      {
+        "line": 19,
+        "title": "Objetos vigilantes",
+        "body": "Anteojos, almanaque, felpudo, luna y estrella parecen advertir la presencia de intrusos. La personificación desplaza la vigilancia humana a las cosas."
+      },
+      {
+        "line": 35,
+        "title": "Chanticleer",
+        "body": "Nombre tradicional y literario del gallo; el canto anuncia la llegada del día y desbarata el sigilo."
+      }
+    ]
+  },
+  "J290": {
+    "id": "J290",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Of Bronze - and Blaze -",
+    "titleES": "De bronce y resplandor",
+    "stanzaBreaks": [
+      13
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J290, pp. 134–135. Texto cotejado con el PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Of Bronze - and Blaze -",
+        "De bronce y resplandor —"
+      ],
+      [
+        "The North - Tonight -",
+        "el norte — esta noche —"
+      ],
+      [
+        "So adequate - it forms -",
+        "tan cabal se configura —"
+      ],
+      [
+        "So preconcerted with Itself -",
+        "tan concertado consigo mismo —"
+      ],
+      [
+        "So distant - to alarms -",
+        "tan distante de las alarmas —"
+      ],
+      [
+        "An Unconcern so sovereign",
+        "una indiferencia tan soberana"
+      ],
+      [
+        "To Universe, or me -",
+        "ante el universo o ante mí —"
+      ],
+      [
+        "Infects my simple spirit",
+        "contagia a mi espíritu sencillo"
+      ],
+      [
+        "With Taints of Majesty -",
+        "con vestigios de majestad —"
+      ],
+      [
+        "Till I take vaster attitudes -",
+        "hasta que adopto actitudes más vastas —"
+      ],
+      [
+        "And strut upon my stem -",
+        "y me pavoneo sobre mi tallo —"
+      ],
+      [
+        "Disdaining Men, and Oxygen,",
+        "desdeñando a los hombres y al oxígeno,"
+      ],
+      [
+        "For Arrogance of them -",
+        "por la arrogancia de ambos —"
+      ],
+      [
+        "My Splendors, are Menagerie -",
+        "Mis esplendores son una colección de maravillas —"
+      ],
+      [
+        "But their Competeless Show",
+        "pero su espectáculo sin rival"
+      ],
+      [
+        "Will entertain the Centuries",
+        "entretendrá a los siglos"
+      ],
+      [
+        "When I, am long ago,",
+        "cuando yo sea ya cosa del pasado,"
+      ],
+      [
+        "An Island in dishonored Grass -",
+        "una isla entre hierbas sin honor —"
+      ],
+      [
+        "Whom none but Beetles - know",
+        "que solo conocen los escarabajos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La aurora boreal",
+        "body": "La imagen del norte encendido permite leer el poema como una contemplación de luces septentrionales; esa identificación es interpretativa, no una indicación explícita del texto."
+      },
+      {
+        "line": 11,
+        "title": "Sobre mi tallo",
+        "body": "El yo adopta por un instante una postura vegetal, pequeña frente al fenómeno celeste, pero contagiada de su majestuosidad."
+      },
+      {
+        "line": 17,
+        "title": "La escala temporal",
+        "body": "La gloria del cielo perdura más allá de la vida de la hablante, reducida al final a una isla olvidada entre hierbas."
+      }
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
