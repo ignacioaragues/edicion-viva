@@ -1396,41 +1396,41 @@
     {
       "group": "sermones",
       "number": 63,
-      "section": "Sermo LXIII · De Passione Domini XII · capita I–II (of VII)",
-      "paragraphs": 6,
-      "aligned_units": 6,
+      "section": "Sermo LXIII · De Passione Domini XII · capita I–VII",
+      "paragraphs": 27,
+      "aligned_units": 27,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "total_chapters": 7,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxiii/index.html",
-      "voice_notes": 5,
-      "lexical_coverage": "9 selective lexical entries; exhaustive contextual morphology pending",
+      "voice_notes": 10,
+      "lexical_coverage": "15 selective contextual lexical entries; full word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II published. Digital transcription has an apparent lacuna after 'nostra augendo, non propria :' in chapter I; retained as crux, not silently emended. Printed PL54 collation pending. Chapters III–VII and browser QA pending."
+      "editorial_caveat": "Seven chapters and final Amen published; chapter I source has lacuna after 'non propria' and chapter VII source duplicates 'agentes'; both require printed PL54 collation. Selective morphology only, shared dictionary and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 63,
-    "section": "Caput III",
-    "incipit": "Non ergo est dubium, dilectissimi",
-    "note": "Continue chapters III–VII; complete work only after final Amen and verification of crux in chapter I"
+    "number": 64,
+    "section": "Caput I",
+    "note": "Begin Sermo LXIV, subject to current priority and manuscript/source checks"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22: Sermo LXIII chapters I–II, six aligned units, partial; source crux flagged",
+  "last_edit": "2026-11-22: Sermo LXIII chapters III–VII published; 27 aligned units total, first-pass translation complete; textual crux and full morphology remain.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
-  "in_progress_work": {
-    "group": "sermones",
-    "number": 62,
-    "status": "not_started"
-  },
+  "in_progress_work": null,
   "priority_queue": [
     {
       "group": "sermones",
