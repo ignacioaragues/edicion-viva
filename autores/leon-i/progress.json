@@ -1318,13 +1318,37 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All eight chapters and final Amen published from public Tractatus LIX transcription; printed PL54 collation, full contextual word-by-word morphology, shared dictionary and browser QA pending. Anti-Jewish polemic contextualized."
+    },
+    {
+      "group": "sermones",
+      "number": 60,
+      "section": "Sermo LX · De Passione Domini IX · capita I–IV",
+      "paragraphs": 17,
+      "aligned_units": 17,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lx/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "21 selective lexical cards; contextual word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Full four-chapter first pass based on public Tractatus LX transcription. Printed PL54 collation, exhaustive contextual morphology, shared dictionary, index audit and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 60,
+    "number": 61,
     "section": "Caput I",
-    "note": "Sermo LIX first-pass translation complete; proceed to Sermo LX. Critical collation and exhaustive morphology remain."
+    "note": "Sermo LX first-pass translation complete; next Sermo LXI."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-22",
