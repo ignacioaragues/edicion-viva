@@ -19038,6 +19038,304 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J259": {
+    "id": "J259",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Good Night! Which put the Candle out?",
+    "titleES": "¿Buenas noches! ¿Quién apagó la vela?",
+    "stanzaBreaks": [
+      6
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J259, pp. 119–120. Texto inglés revisado a partir del ejemplar aportado; correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Good Night! Which put the Candle out?",
+        "¡Buenas noches! ¿Quién apagó la vela?"
+      ],
+      [
+        "A jealous Zephyr - not a doubt -",
+        "Un Céfiro celoso — no cabe duda —"
+      ],
+      [
+        "Ah, friend, you little knew",
+        "Ah, amigo, qué poco sabías"
+      ],
+      [
+        "How long at that celestial wick",
+        "cuánto tiempo en aquella mecha celestial"
+      ],
+      [
+        "The Angels - labored diligent -",
+        "los Ángeles — trabajaron diligentes —"
+      ],
+      [
+        "Extinguished - now - for you!",
+        "¡extinguida — ahora — por vos!"
+      ],
+      [
+        "It might - have been the Light House spark -",
+        "Pudo — haber sido la luz del Faro —"
+      ],
+      [
+        "Some Sailor - rowing in the Dark -",
+        "que algún Marinero — remando en la Oscuridad —"
+      ],
+      [
+        "Had importuned to see!",
+        "había suplicado ver."
+      ],
+      [
+        "It might - have been the waning lamp",
+        "Pudo — haber sido la lámpara menguante"
+      ],
+      [
+        "That lit the Drummer from the Camp",
+        "que alumbraba al Tamborilero del Campamento"
+      ],
+      [
+        "To purer Reveille!",
+        "hacia una Diana más pura."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La vela apagada",
+        "body": "La pregunta inicial convierte una despedida nocturna en la sospecha de una pérdida irreversible; el viento personificado no es una explicación inocente."
+      },
+      {
+        "line": 7,
+        "title": "Faro y diana",
+        "body": "La luz podía guiar a un navegante, o acompañar al tamborilero hacia una llamada matinal más pura. Son posibilidades truncadas, no acontecimientos afirmados."
+      }
+    ]
+  },
+  "J260": {
+    "id": "J260",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Read - Sweet - how others - strove -",
+    "titleES": "Leé — querida — cómo otros lucharon —",
+    "stanzaBreaks": [
+      7,
+      11
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J260, pp. 119–120. Texto inglés revisado a partir del ejemplar aportado; correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Read - Sweet - how others - strove -",
+        "Leé — querida — cómo otros lucharon —"
+      ],
+      [
+        "Till we - are stouter -",
+        "hasta que — seamos más fuertes —"
+      ],
+      [
+        "What they - renounced -",
+        "qué — renunciaron —"
+      ],
+      [
+        "Till we - are less afraid -",
+        "hasta que — tengamos menos miedo —"
+      ],
+      [
+        "How many times they - bore the faithful witness -",
+        "cuántas veces — dieron testimonio fiel —"
+      ],
+      [
+        "Till we - are helped -",
+        "hasta que — recibamos ayuda —"
+      ],
+      [
+        "As if a Kingdom - cared!",
+        "¡como si a un Reino — le importara!"
+      ],
+      [
+        "Read then - of faith -",
+        "Leé, entonces — sobre la fe —"
+      ],
+      [
+        "That shone above the fagot -",
+        "que brilló por encima de la hoguera —"
+      ],
+      [
+        "Clear strains of Hymn",
+        "claras melodías de Himno"
+      ],
+      [
+        "The River could not drown -",
+        "que el Río no pudo ahogar —"
+      ],
+      [
+        "Brave names of Men -",
+        "nombres valientes de Hombres —"
+      ],
+      [
+        "And Celestial Women -",
+        "y Mujeres Celestiales —"
+      ],
+      [
+        "Passed out - of Record",
+        "que salieron — de los registros"
+      ],
+      [
+        "Into - Renown!",
+        "hacia — el Renombre."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 9,
+        "title": "Fagot",
+        "body": "En este contexto, haz de leña para una ejecución por fuego, no el instrumento musical. La imagen evoca testimonios de martirio."
+      },
+      {
+        "line": 11,
+        "title": "El río",
+        "body": "Puede sugerir el intento de acallar una voz; el poema no identifica un episodio histórico preciso."
+      }
+    ]
+  },
+  "J261": {
+    "id": "J261",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Put up my lute!",
+    "titleES": "¡Guardá mi laúd!",
+    "stanzaBreaks": [
+      5
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J261, pp. 119–120. Texto inglés revisado a partir del ejemplar aportado; correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Put up my lute!",
+        "¡Guardá mi laúd!"
+      ],
+      [
+        "What of - my Music!",
+        "¡Qué importa — mi Música!"
+      ],
+      [
+        "Since the sole ear I cared to charm -",
+        "Ya que el único oído que quise hechizar —"
+      ],
+      [
+        "Passive - as Granite - laps My Music -",
+        "pasivo — como el Granito — recibe mi Música —"
+      ],
+      [
+        "Sobbing - will suit - as well as psalm!",
+        "¡el sollozo — servirá — tanto como el salmo!"
+      ],
+      [
+        "Would but the \"Memnon\" of the Desert -",
+        "Si tan solo el «Memnón» del Desierto —"
+      ],
+      [
+        "Teach me the strain",
+        "me enseñara la melodía"
+      ],
+      [
+        "That vanquished Him -",
+        "que lo venció —"
+      ],
+      [
+        "When He - surrendered to the Sunrise -",
+        "cuando él — se rindió al Amanecer —"
+      ],
+      [
+        "Maybe - that - would awaken - them!",
+        "¡quizás — esa — los despertaría!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "title": "Memnón",
+        "body": "Alusión al coloso egipcio de Memnón, célebre en la Antigüedad por emitir sonidos al amanecer. La hablante desea una música capaz de devolver respuesta a quien permanece inmóvil."
+      },
+      {
+        "line": 5,
+        "title": "Salmo y sollozo",
+        "body": "El duelo vuelve intercambiables la música devocional y el llanto, porque falta su destinatario."
+      }
+    ]
+  },
+  "J262": {
+    "id": "J262",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The lonesome for they know not What -",
+    "titleES": "Los solitarios sin saber por Qué —",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J262, pp. 119–120. Texto inglés revisado a partir del ejemplar aportado; correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "The lonesome for they know not What -",
+        "Los solitarios sin saber por Qué —"
+      ],
+      [
+        "The Eastern Exiles - be -",
+        "son — los Exiliados de Oriente —"
+      ],
+      [
+        "Who strayed beyond the Amber line",
+        "que se extraviaron más allá de la línea de Ámbar"
+      ],
+      [
+        "Some madder Holiday -",
+        "en alguna Fiesta más insensata —"
+      ],
+      [
+        "And ever since - the purple Moat",
+        "y desde entonces — el Foso púrpura"
+      ],
+      [
+        "They strive to climb - in vain -",
+        "intentan escalar — en vano —"
+      ],
+      [
+        "As Birds - that tumble from the clouds",
+        "como Aves — que caen de las nubes"
+      ],
+      [
+        "Do fumble at the strain -",
+        "y tantean buscando la melodía —"
+      ],
+      [
+        "The Blessed Ether - taught them -",
+        "que el Éter Bendito — les enseñó —"
+      ],
+      [
+        "Some Transatlantic Morn -",
+        "alguna Mañana Transatlántica —"
+      ],
+      [
+        "When Heaven - was too common - to miss -",
+        "cuando el Cielo — era demasiado habitual — para añorarlo —"
+      ],
+      [
+        "Too sure - to dote upon!",
+        "¡demasiado seguro — para adorarlo!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Exilio oriental",
+        "body": "La geografía simbólica sugiere la pérdida de un origen privilegiado; no obliga a identificar literalmente un lugar."
+      },
+      {
+        "line": 11,
+        "title": "La pérdida del cielo",
+        "body": "La añoranza nace solo después de perder lo que antes parecía garantizado. La música recordada funciona como vestigio de esa plenitud."
+      }
+    ]
+  },
   "J280": {
     "id": "J280",
     "franklin": "Pendiente de cotejo",
