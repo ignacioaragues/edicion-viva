@@ -16483,6 +16483,130 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J227": {
+    "id": "J227",
+    "franklin": null,
+    "approx": "1861",
+    "incipit": "Teach Him – When He makes the names –",
+    "titleES": "Enseñale, cuando pronuncie los nombres",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J227, p. 104 (PDF aportado, p. 114). Correspondencia Franklin y cotejo facsimilar pendientes.",
+    "lines": [
+      [
+        "Teach Him – When He makes the names –",
+        "Enseñale, cuando pronuncie los nombres,"
+      ],
+      [
+        "Such an one – to say –",
+        "a decir uno de tal manera"
+      ],
+      [
+        "On his babbling – Berry – lips –",
+        "con sus labios de baya, balbuceantes,"
+      ],
+      [
+        "As should sound – to me –",
+        "que llegue a sonar para mí"
+      ],
+      [
+        "Were my Ear – as near his nest –",
+        "como si mi oído estuviera tan cerca de su nido"
+      ],
+      [
+        "As my thought – today –",
+        "como lo está hoy mi pensamiento;"
+      ],
+      [
+        "As should sound –",
+        "que llegue a sonar:"
+      ],
+      [
+        "\"Forbid us not\" –",
+        "«No nos lo impidan»,"
+      ],
+      [
+        "Some like \"Emily\" –",
+        "algo parecido a «Emily»."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Nombre y aprendizaje",
+        "body": "La petición no busca únicamente que el niño aprenda un nombre: imagina una intimidad que pueda atravesar la distancia física."
+      },
+      {
+        "line": 8,
+        "title": "«Forbid us not»",
+        "body": "La fórmula evoca la prohibición de acercar a los niños a Jesús (Marcos 10:14 y paralelos), pero su empleo en el poema no obliga a identificar una escena bíblica literal."
+      },
+      {
+        "line": 9,
+        "title": "Precaución textual",
+        "body": "La última línea se ha normalizado a partir de una digitalización cuyo reconocimiento de caracteres es imperfecto; requiere comprobación contra facsímil o edición crítica legible."
+      }
+    ]
+  },
+  "J228": {
+    "id": "J228",
+    "franklin": null,
+    "approx": "c. 1861",
+    "incipit": "Blazing in Gold and quenching in Purple",
+    "titleES": "Ardiendo en oro y apagándose en púrpura",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J228, p. 104 (PDF aportado, p. 114). Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Blazing in Gold and quenching in Purple",
+        "Ardiendo en oro y apagándose en púrpura,"
+      ],
+      [
+        "Leaping like Leopards to the Sky",
+        "saltando como leopardos hacia el cielo,"
+      ],
+      [
+        "Then at the feet of the old Horizon",
+        "luego, a los pies del viejo horizonte,"
+      ],
+      [
+        "Laying her spotted Face to die",
+        "tiende su rostro moteado para morir."
+      ],
+      [
+        "Stooping as low as the Otter's Window",
+        "Se inclina hasta la ventana de la nutria,"
+      ],
+      [
+        "Touching the Roof and tinting the Barn",
+        "roza el tejado y tiñe el granero,"
+      ],
+      [
+        "Kissing her Bonnet to the Meadow",
+        "besa con su sombrero la pradera,"
+      ],
+      [
+        "And the Juggler of Day is gone",
+        "y el malabarista del día desaparece."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Escena del ocaso",
+        "body": "El sujeto del poema permanece gramaticalmente elidido: la sucesión de acciones y colores permite reconocer la puesta del sol sin nombrarla."
+      },
+      {
+        "line": 2,
+        "title": "Leopardos",
+        "body": "La comparación animal introduce movimiento y manchas luminosas, que reaparecen en el rostro moteado del verso cuarto."
+      },
+      {
+        "line": 8,
+        "title": "Malabarista",
+        "body": "El final convierte la luz cambiante en un espectáculo que termina de golpe; «Juggler» también sugiere destreza e ilusión."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
