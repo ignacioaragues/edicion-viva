@@ -1701,23 +1701,27 @@
     {
       "group": "sermones",
       "number": 75,
-      "section": "Sermo LXXV · De Pentecoste I · caput I of V",
-      "paragraphs": 3,
-      "aligned_units": 3,
+      "section": "Sermo LXXV · De Pentecoste I · capita I–V, complete first-pass",
+      "paragraphs": 18,
+      "aligned_units": 18,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "partial original aligned Spanish translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxv/index.html",
-      "voice_notes": 2,
+      "voice_notes": 6,
       "lexical_coverage": "7 selective morphological entries; contextual token coverage incomplete",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapter I only. Chapters II–V and Amen pending; Latin checked against public transcription; printed PL54 collation and browser QA pending."
+      "editorial_caveat": "All five chapters and Amen published. Digital Latin transcription compared; printed PL54 collation, exhaustive contextual token morphology, shared dictionary and browser QA pending."
     }
   ],
   "next": "Sermo LXXV caput II, Nam sicut apostolica testatur historia; finish chapters II–V before Sermo LXXVI",
