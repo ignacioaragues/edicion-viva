@@ -16156,6 +16156,333 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "El crepúsculo se vuelve una labor doméstica desmesurada: una ama de casa dispersa colores por el cielo, y el desorden termina convertido en estrellas."
   },
+  "J220": {
+    "id": "J220",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Could I - then - shut the door-",
+    "titleES": "¿Podría entonces cerrar la puerta —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J220, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "Could I - then - shut the door-",
+        "¿Podría entonces cerrar la puerta —"
+      ],
+      [
+        "Lest my beseeching face - at last -",
+        "para que mi rostro suplicante — al fin —"
+      ],
+      [
+        "Rejected - be - of Her?",
+        "no fuera rechazado — por Ella?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La súplica anticipa un rechazo que aún no se ha producido; cerrar la puerta sería una defensa contra la exposición del rostro."
+      }
+    ]
+  },
+  "J221": {
+    "id": "J221",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "It can't be \"Summer\"!",
+    "titleES": "¡No puede ser «Verano»!",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J221, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "It can't be \"Summer\"!",
+        "¡No puede ser «Verano»!"
+      ],
+      [
+        "That - got through!",
+        "¡Eso — ya pasó!"
+      ],
+      [
+        "It's early - yet - for \"Spring\"!",
+        "¡Es temprano — todavía — para la «Primavera»!"
+      ],
+      [
+        "There's that long town of White - to cross-",
+        "Hay que atravesar esa larga ciudad Blanca —"
+      ],
+      [
+        "Before the Blackbirds sing!",
+        "antes de que canten los Mirlos."
+      ],
+      [
+        "It can't be \"Dying\"!",
+        "¡No puede ser «Morir»!"
+      ],
+      [
+        "It's too Rouge-",
+        "Tiene demasiado Carmín —"
+      ],
+      [
+        "The Dead shall go in White -",
+        "los Muertos irán de Blanco —"
+      ],
+      [
+        "So Sunset shuts my question down",
+        "Así el Ocaso acalla mi pregunta"
+      ],
+      [
+        "With Cuffs of Chrysolite!",
+        "¡con Puños de Crisólito!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz intenta identificar una estación o un estado mediante colores, pero cada hipótesis fracasa; el ocaso termina la indagación con una imagen mineral."
+      }
+    ]
+  },
+  "J222": {
+    "id": "J222",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "When Katie walks, this simple pair accompany her side,",
+    "titleES": "Cuando Katie camina, esta sencilla pareja va a su lado,",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J222, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "When Katie walks, this simple pair accompany her side,",
+        "Cuando Katie camina, esta sencilla pareja va a su lado,"
+      ],
+      [
+        "When Katie runs unwearied they follow on the road,",
+        "cuando Katie corre sin cansarse, la siguen por el camino,"
+      ],
+      [
+        "When Katie kneels, their loving hands still clasp her pious knee -",
+        "cuando Katie se arrodilla, sus manos cariñosas aún abrazan su rodilla devota —"
+      ],
+      [
+        "Ah! Katie! Smile at Fortune, with two so knit to thee!",
+        "¡Ah, Katie! ¡Sonreíle a la Fortuna, con dos seres tan unidos a vos!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El poema elogia una compañía fiel mediante tres movimientos cotidianos y una exhortación final."
+      }
+    ]
+  },
+  "J223": {
+    "id": "J223",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I Came to buy a smile - today -",
+    "titleES": "Vine a comprar una sonrisa — hoy —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J223, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "I Came to buy a smile - today -",
+        "Vine a comprar una sonrisa — hoy —"
+      ],
+      [
+        "But just a single smile-",
+        "pero una sola sonrisa —"
+      ],
+      [
+        "The smallest one upon your face",
+        "la más pequeña de tu rostro"
+      ],
+      [
+        "Will suit me just as well-",
+        "me serviría igual —"
+      ],
+      [
+        "The one that no one else would miss",
+        "esa que nadie más echaría de menos"
+      ],
+      [
+        "It shone so very small-",
+        "porque brillaba tan poquito —"
+      ],
+      [
+        "I'm pleading at the \"counter\" - sir -",
+        "estoy rogando ante el «mostrador» — señor —"
+      ],
+      [
+        "Could you afford to sell-",
+        "¿podrías vendérmela? —"
+      ],
+      [
+        "I've Diamonds - on my fingers -",
+        "Tengo Diamantes — en los dedos —"
+      ],
+      [
+        "You know what Diamonds are?",
+        "¿sabés qué son los Diamantes?"
+      ],
+      [
+        "I've Rubies - like the Evening Blood-",
+        "Tengo Rubíes — como la Sangre del Atardecer —"
+      ],
+      [
+        "And Topaz - like the star!",
+        "¡y Topacios — como la estrella!"
+      ],
+      [
+        "'Twould be \"a Bargain\" for a Jew!",
+        "¡Sería «una Ganga» para un judío!"
+      ],
+      [
+        "Say - may I have it - Sir?",
+        "Decime — ¿puedo tenerla — señor?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La escena comercial vuelve inconmensurables las piedras preciosas y un gesto afectivo. La alusión antijudía del verso 13 pertenece al texto histórico y exige contextualización, no aceptación."
+      }
+    ]
+  },
+  "J224": {
+    "id": "J224",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I've nothing else - to bring, You know -",
+    "titleES": "No tengo nada más — que traer, ya sabés —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J224, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "I've nothing else - to bring, You know -",
+        "No tengo nada más — que traer, ya sabés —"
+      ],
+      [
+        "So I keep bringing These -",
+        "así que sigo trayendo Estas cosas —"
+      ],
+      [
+        "Just as the Night keeps fetching Stars",
+        "como la Noche sigue trayendo Estrellas"
+      ],
+      [
+        "To our familiar eyes -",
+        "a nuestros ojos acostumbrados —"
+      ],
+      [
+        "Maybe, we shouldn't mind them -",
+        "Tal vez no les prestaríamos atención —"
+      ],
+      [
+        "Unless they didn't come -",
+        "si no dejaran de venir —"
+      ],
+      [
+        "Then - maybe, it would puzzle us",
+        "entonces — quizá nos costaría"
+      ],
+      [
+        "To find our way Home-",
+        "encontrar el camino a Casa —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La repetición de una ofrenda aparentemente modesta se compara con la regularidad nocturna: su valor se reconoce al imaginar su ausencia."
+      }
+    ]
+  },
+  "J225": {
+    "id": "J225",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Jesus! thy Crucifix",
+    "titleES": "¡Jesús! Que tu Crucifixión",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J225, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "Jesus! thy Crucifix",
+        "¡Jesús! Que tu Crucifixión"
+      ],
+      [
+        "Enable thee to guess",
+        "te permita imaginar"
+      ],
+      [
+        "The smaller size!",
+        "el dolor de menor tamaño."
+      ],
+      [
+        "Jesus! thy second face",
+        "¡Jesús! Que tu segundo rostro"
+      ],
+      [
+        "Mind thee in Paradise",
+        "te haga acordar en el Paraíso"
+      ],
+      [
+        "Of ours!",
+        "del nuestro."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz pide que el sufrimiento de Cristo haga inteligibles los sufrimientos humanos menores y que la gloria no borre su memoria."
+      }
+    ]
+  },
+  "J226": {
+    "id": "J226",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Should you but fail at - Sea -",
+    "titleES": "Si tan solo naufragaras — en el Mar —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J226, pp. 102–104 (según numeración impresa); cotejo de variantes y Franklin pendiente.",
+    "lines": [
+      [
+        "Should you but fail at - Sea -",
+        "Si tan solo naufragaras — en el Mar —"
+      ],
+      [
+        "In sight of me-",
+        "ante mis ojos —"
+      ],
+      [
+        "Or doomed lie -",
+        "o yacieras condenado —"
+      ],
+      [
+        "Next Sun - to die-",
+        "a morir al próximo Sol —"
+      ],
+      [
+        "Or rap - at Paradise - unheard",
+        "o llamaras — al Paraíso — sin que te oyeran,"
+      ],
+      [
+        "I'd harass God",
+        "yo acosaría a Dios"
+      ],
+      [
+        "Until he let you in!",
+        "¡hasta que te dejara entrar!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La fidelidad amorosa adopta una forma de intercesión desafiante: la hablante no se conforma con la posible indiferencia divina."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
