@@ -19336,6 +19336,238 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J263": {
+    "id": "J263",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A single Screw of Flesh",
+    "titleES": "Un solo tornillo de carne",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J263, pp. 120. Texto cotejado con la edición Johnson; equivalencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "A single Screw of Flesh",
+        "Un solo tornillo de carne"
+      ],
+      [
+        "Is all that pins the Soul",
+        "es todo lo que sujeta el alma"
+      ],
+      [
+        "That stands for Deity, to Mine,",
+        "que, para la mía, hace las veces de divinidad,"
+      ],
+      [
+        "Upon my side the Veil—",
+        "de este lado del velo."
+      ],
+      [
+        "Once witnessed of the Gauze—",
+        "Una vez visto a través de la gasa,"
+      ],
+      [
+        "Its name is put away",
+        "su nombre queda apartado"
+      ],
+      [
+        "As far from mine, as if no plight",
+        "tan lejos del mío como si ningún juramento"
+      ],
+      [
+        "Had printed yesterday,",
+        "hubiera dejado ayer su huella"
+      ],
+      [
+        "In tender—solemn Alphabet,",
+        "en un alfabeto tierno y solemne"
+      ],
+      [
+        "My eyes just turned to see,",
+        "que mis ojos acababan de contemplar"
+      ],
+      [
+        "When it was smuggled by my sight",
+        "cuando lo escamotearon ante mi vista"
+      ],
+      [
+        "Into Eternity—",
+        "hacia la eternidad."
+      ],
+      [
+        "More Hands—to hold—These are but Two—",
+        "Más manos que sostener: estas son solo dos."
+      ],
+      [
+        "One more new-mailed Nerve",
+        "Un nervio recién revestido de armadura"
+      ],
+      [
+        "Just granted, for the Peril's sake—",
+        "concedido apenas por causa del peligro;"
+      ],
+      [
+        "Some striding—Giant—Love—",
+        "un amor gigantesco que avanza a zancadas."
+      ],
+      [
+        "So greater than the Gods can show,",
+        "Tan superior a cuanto pueden mostrar los dioses"
+      ],
+      [
+        "They slink before the Clay,",
+        "que se escabullen ante el barro"
+      ],
+      [
+        "That not for all their Heaven can boast",
+        "que, ni por todo el cielo del que presumen,"
+      ],
+      [
+        "Will let its Keepsake—go",
+        "dejará partir su recuerdo precioso."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El vínculo corporal y el duelo se expresan mediante imágenes de fijación, velo y reliquia; la lectura amorosa no excluye la religiosa."
+      }
+    ]
+  },
+  "J264": {
+    "id": "J264",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A Weight with Needles on the pounds—",
+    "titleES": "Un peso con agujas añadidas",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J264, pp. 121. Texto cotejado con la edición Johnson; equivalencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "A Weight with Needles on the pounds—",
+        "Un peso con agujas añadidas a las libras,"
+      ],
+      [
+        "To push, and pierce, besides—",
+        "para oprimir y además perforar;"
+      ],
+      [
+        "That if the Flesh resist the Heft—",
+        "de modo que, si la carne resiste la carga,"
+      ],
+      [
+        "The puncture—coolly tries—",
+        "la punción lo intenta, impasible."
+      ],
+      [
+        "That not a pore be overlooked",
+        "Que no quede sin examinar ni un poro"
+      ],
+      [
+        "Of all this Compound Frame—",
+        "de esta compleja armazón,"
+      ],
+      [
+        "As manifold for Anguish—",
+        "tan múltiple en sus modos de angustia"
+      ],
+      [
+        "As Species—be—for name—",
+        "como especies hay para nombrar."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El sufrimiento aparece como presión y perforación: el cuerpo es vulnerable en cada una de sus partes."
+      }
+    ]
+  },
+  "J265": {
+    "id": "J265",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Where Ships of Purple—gently toss—",
+    "titleES": "Donde se mecen naves púrpuras",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J265, pp. 122. Texto cotejado con la edición Johnson; equivalencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "Where Ships of Purple—gently toss—",
+        "Donde se mecen suavemente naves púrpuras"
+      ],
+      [
+        "On Seas of Daffodil—",
+        "sobre mares de narcisos,"
+      ],
+      [
+        "Fantastic Sailors—mingle—",
+        "se entremezclan marineros fantásticos"
+      ],
+      [
+        "And then—the Wharf is still!",
+        "y entonces el muelle queda inmóvil."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La imagen del ocaso transforma el cielo en un puerto donde el movimiento desemboca en quietud."
+      }
+    ]
+  },
+  "J266": {
+    "id": "J266",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "This—is the land—the Sunset washes—",
+    "titleES": "Esta es la tierra que baña el ocaso",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J266, pp. 122. Texto cotejado con la edición Johnson; equivalencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "This—is the land—the Sunset washes—",
+        "Esta es la tierra que baña el ocaso;"
+      ],
+      [
+        "These—are the Banks of the Yellow Sea—",
+        "estas, las riberas del mar amarillo;"
+      ],
+      [
+        "Where it rose—or whither it rushes—",
+        "donde surgió o adonde se precipita:"
+      ],
+      [
+        "These—are the Western Mystery!",
+        "¡estos son los misterios de Occidente!"
+      ],
+      [
+        "Night after Night",
+        "Noche tras noche"
+      ],
+      [
+        "Her purple traffic",
+        "su tráfico púrpura"
+      ],
+      [
+        "Strews the landing with Opal Bales—",
+        "esparce fardos de ópalo por el desembarcadero;"
+      ],
+      [
+        "Merchantmen—poise upon Horizons—",
+        "los mercantes se equilibran sobre los horizontes,"
+      ],
+      [
+        "Dip—and vanish like Orioles!",
+        "se hunden y desaparecen como oropéndolas."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El atardecer se vuelve una escena mercantil: los colores son cargamentos y las nubes, barcos."
+      }
+    ]
+  },
   "J280": {
     "id": "J280",
     "franklin": "Pendiente de cotejo",
