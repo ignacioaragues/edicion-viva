@@ -20101,6 +20101,441 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J275": {
+    "id": "J275",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Doubt Me! My Dim Companion!",
+    "titleES": "¡Dudá de mí, mi oscuro compañero!",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      17,
+      21
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J275, pp. 125–128. Original cotejado con Johnson; Franklin pendiente.",
+    "lines": [
+      [
+        "Doubt Me! My Dim Companion!",
+        "¡Dudá de mí, mi oscuro compañero!"
+      ],
+      [
+        "Why, God, would be content",
+        "Pues Dios quedaría satisfecho"
+      ],
+      [
+        "With but a fraction of the Life—",
+        "con solo una fracción de la vida"
+      ],
+      [
+        "Poured thee, without a stint—",
+        "que te entregué sin reservarme nada —"
+      ],
+      [
+        "The whole of me—forever—",
+        "toda yo, para siempre —"
+      ],
+      [
+        "What more the Woman can,",
+        "¿qué más puede dar una mujer?"
+      ],
+      [
+        "Say quick, that I may dower thee",
+        "Decilo pronto, para que pueda dotarte"
+      ],
+      [
+        "With last Delight I own!",
+        "con el último deleite que poseo."
+      ],
+      [
+        "It cannot be my Spirit—",
+        "No puede ser mi espíritu —"
+      ],
+      [
+        "For that was thine, before—",
+        "porque ya era tuyo, antes —"
+      ],
+      [
+        "I ceded all of Dust I knew—",
+        "de que cediera todo el polvo que conocía —"
+      ],
+      [
+        "What Opulence the more",
+        "¿qué otra riqueza"
+      ],
+      [
+        "Had I—a freckled Maiden,",
+        "tenía yo, muchacha pecosa,"
+      ],
+      [
+        "Whose farthest of Degree,",
+        "cuya máxima dignidad"
+      ],
+      [
+        "Was—that she might—",
+        "era poder, quizá,"
+      ],
+      [
+        "Some distant Heaven,",
+        "en algún cielo distante,"
+      ],
+      [
+        "Dwell timidly, with thee!",
+        "habitar tímidamente con vos?"
+      ],
+      [
+        "Sift her, from Brow to Barefoot!",
+        "¡Tamizala de la frente a los pies!"
+      ],
+      [
+        "Strain till your last Surmise—",
+        "¡Apurá hasta tu última conjetura!"
+      ],
+      [
+        "Drop, like a Tapestry, away,",
+        "Que caiga, como un tapiz,"
+      ],
+      [
+        "Before the Fire's Eyes—",
+        "ante los ojos del fuego —"
+      ],
+      [
+        "Winnow her finest fondness—",
+        "aventá su ternura más fina —"
+      ],
+      [
+        "But hallow just the snow",
+        "pero consagrá la nieve"
+      ],
+      [
+        "Intact, in Everlasting flake—",
+        "intacta, copo eterno —"
+      ],
+      [
+        "Oh, Cavalier, for you!",
+        "¡oh, caballero, para vos!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz busca demostrar que la entrega amorosa ya es total, pero multiplica las pruebas de esa totalidad."
+      }
+    ]
+  },
+  "J276": {
+    "id": "J276",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Many a phrase has the English language—",
+    "titleES": "Muchas frases tiene la lengua inglesa —",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J276, pp. 125–128. Original cotejado con Johnson; Franklin pendiente.",
+    "lines": [
+      [
+        "Many a phrase has the English language—",
+        "Muchas frases tiene la lengua inglesa —"
+      ],
+      [
+        "I have heard but one—",
+        "yo solo he oído una —"
+      ],
+      [
+        "Low as the laughter of the Cricket,",
+        "baja como la risa del grillo,"
+      ],
+      [
+        "Loud, as the Thunder's Tongue—",
+        "sonora como la lengua del trueno —"
+      ],
+      [
+        "Murmuring, like old Caspian Choirs,",
+        "murmurando como antiguos coros caspios"
+      ],
+      [
+        "When the Tide's a' lull—",
+        "cuando la marea está en calma —"
+      ],
+      [
+        "Saying itself in new inflection—",
+        "diciéndose con una nueva inflexión —"
+      ],
+      [
+        "Like a Whippoorwill—",
+        "como un chotacabras —"
+      ],
+      [
+        "Breaking in bright Orthography",
+        "irrumpiendo con brillante ortografía"
+      ],
+      [
+        "On my simple sleep—",
+        "en mi sueño sencillo —"
+      ],
+      [
+        "Thundering its Prospective—",
+        "tronando su promesa futura —"
+      ],
+      [
+        "Till I stir, and weep—",
+        "hasta que me muevo y lloro —"
+      ],
+      [
+        "Not for the Sorrow, done me—",
+        "no por la pena que me causó —"
+      ],
+      [
+        "But the push of Joy—",
+        "sino por el empuje de la alegría —"
+      ],
+      [
+        "Say it again, Saxon!",
+        "¡Decilo otra vez, sajón!"
+      ],
+      [
+        "Hush—Only to me!",
+        "Callá — ¡solo para mí!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Una sola expresión atraviesa registros sonoros contrapuestos; la alegría no borra el dolor, sino que lo desplaza."
+      }
+    ]
+  },
+  "J277": {
+    "id": "J277",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "What if I say I shall not wait!",
+    "titleES": "¡Y si digo que no voy a esperar!",
+    "stanzaBreaks": [
+      3,
+      6,
+      9
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J277, pp. 125–128. Original cotejado con Johnson; Franklin pendiente.",
+    "lines": [
+      [
+        "What if I say I shall not wait!",
+        "¡Y si digo que no voy a esperar!"
+      ],
+      [
+        "What if I burst the fleshly Gate—",
+        "¿Y si rompo la puerta de la carne —"
+      ],
+      [
+        "And pass escaped—to thee!",
+        "y escapo hasta vos?"
+      ],
+      [
+        "What if I file this Mortal—off—",
+        "¿Y si limo esta envoltura mortal —"
+      ],
+      [
+        "See where it hurt me—That's enough—",
+        "mirá dónde me hirió — basta con eso —"
+      ],
+      [
+        "And wade in Liberty!",
+        "y me interno en la libertad?"
+      ],
+      [
+        "They cannot take me—any more!",
+        "¡Ya no pueden apresarme!"
+      ],
+      [
+        "Dungeons can call—and Guns implore",
+        "Que llamen las mazmorras, que imploren las armas:"
+      ],
+      [
+        "Unmeaning—now—to me—",
+        "ahora nada significan para mí —"
+      ],
+      [
+        "As laughter—was—an hour ago—",
+        "como la risa, hace una hora —"
+      ],
+      [
+        "Or Laces—or a Travelling Show—",
+        "o los encajes, o un espectáculo ambulante —"
+      ],
+      [
+        "Or who died—yesterday!",
+        "o quién murió ayer."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La fuga imaginada del cuerpo convierte la liberación en un problema de límites entre vida, muerte y deseo."
+      }
+    ]
+  },
+  "J278": {
+    "id": "J278",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "A shady friend—for Torrid days—",
+    "titleES": "Un amigo que dé sombra en días tórridos",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J278, pp. 125–128. Original cotejado con Johnson; Franklin pendiente.",
+    "lines": [
+      [
+        "A shady friend—for Torrid days—",
+        "Un amigo que dé sombra en días tórridos"
+      ],
+      [
+        "Is easier to find—",
+        "es más fácil de encontrar"
+      ],
+      [
+        "Than one of higher temperature",
+        "que uno de mayor temperatura"
+      ],
+      [
+        "For Frigid—hour of Mind—",
+        "para la hora glacial de la mente —"
+      ],
+      [
+        "The Vane a little to the East—",
+        "La veleta, apenas hacia el este,"
+      ],
+      [
+        "Scares Muslin souls—away—",
+        "espanta las almas de muselina —"
+      ],
+      [
+        "If Broadcloth Hearts are firmer—",
+        "si los corazones de paño son más firmes"
+      ],
+      [
+        "Than those of Organdy—",
+        "que los de organdí —"
+      ],
+      [
+        "Who is to blame? The Weaver?",
+        "¿a quién culpar? ¿Al tejedor?"
+      ],
+      [
+        "Ah, the bewildering thread!",
+        "¡Ah, qué hilo desconcertante!"
+      ],
+      [
+        "The Tapestries of Paradise",
+        "Los tapices del Paraíso"
+      ],
+      [
+        "So notelessly—are made!",
+        "se hacen sin que nadie lo advierta."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "Los tejidos distinguen afectos resistentes de vínculos que desaparecen ante el primer frío."
+      }
+    ]
+  },
+  "J279": {
+    "id": "J279",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Tie the Strings to my Life, My Lord,",
+    "titleES": "Atá las riendas a mi vida, Señor,",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J279, pp. 125–128. Original cotejado con Johnson; Franklin pendiente.",
+    "lines": [
+      [
+        "Tie the Strings to my Life, My Lord,",
+        "Atá las riendas a mi vida, Señor,"
+      ],
+      [
+        "Then, I am ready to go!",
+        "¡y estaré lista para partir!"
+      ],
+      [
+        "Just a look at the Horses—",
+        "Solo una mirada a los caballos —"
+      ],
+      [
+        "Rapid! That will do!",
+        "¡veloces! Eso bastará."
+      ],
+      [
+        "Put me in on the firmest side—",
+        "Poneme del lado más seguro —"
+      ],
+      [
+        "So I shall never fall—",
+        "para que nunca caiga —"
+      ],
+      [
+        "For we must ride to the Judgment—",
+        "pues debemos cabalgar hacia el Juicio —"
+      ],
+      [
+        "And it's partly, down Hill—",
+        "y parte del camino es cuesta abajo —"
+      ],
+      [
+        "But never I mind the steepest—",
+        "pero no me inquietan las pendientes más abruptas —"
+      ],
+      [
+        "And never I mind the Sea—",
+        "ni tampoco me inquieta el mar —"
+      ],
+      [
+        "Held fast in Everlasting Race—",
+        "sujeta en la carrera eterna —"
+      ],
+      [
+        "By my own Choice, and Thee—",
+        "por mi propia elección y por vos —"
+      ],
+      [
+        "Goodbye to the Life I used to live—",
+        "adiós a la vida que solía vivir —"
+      ],
+      [
+        "And the World I used to know—",
+        "y al mundo que solía conocer —"
+      ],
+      [
+        "And kiss the Hills, for me, just once—",
+        "y besá las colinas por mí, una sola vez —"
+      ],
+      [
+        "Then—I am ready to go!",
+        "entonces estaré lista para partir."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La partida hacia el Juicio combina la decisión propia con una guía a la que se confía el trayecto."
+      }
+    ]
+  },
   "J280": {
     "id": "J280",
     "franklin": "Pendiente de cotejo",
