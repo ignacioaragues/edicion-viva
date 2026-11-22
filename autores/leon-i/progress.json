@@ -1493,16 +1493,38 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All five chapters and final Amen published from public Tractatus LXVI Latin transcription; digital source has malformed 'complanta i' at Romans 6:5, retained with textual warning pending PL54 collation. Other biblical references checked contextually. Printed collation, full token morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 67,
+      "section": "Sermo LXVII · De Passione Domini XVI · capita I–III de VII",
+      "paragraphs": 11,
+      "translation": "partial original Spanish aligned translation",
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxvii/index.html",
+      "published_chapters": [
+        1,
+        2,
+        3
+      ],
+      "total_chapters": 7,
+      "voice_notes": 5,
+      "lexical_coverage": "18 selected forms; full token coverage pending",
+      "source_collation_complete": false,
+      "morphology_complete": false,
+      "editorial_caveat": "Partial: chapters IV–VII including Amen remain. Digital Latin source checked; printed PL collation and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 67,
-    "section": "Sermo LXVII, caput I",
-    "instruction": "Begin Sermo LXVII; Sermo LXVI complete first-pass, critical collation pending"
+    "section": "Sermo LXVII, caput IV",
+    "beginning": "Sed tu, impiissime homo, semen Chanaan",
+    "instruction": "Complete chapters IV–VII before Sermo LXVIII"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22: completed Sermo LXVI chapters II–V, 19 aligned units total; first-pass only.",
+  "last_edit": "2026-11-22: Sermo LXVII I–III first pass, partial",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
