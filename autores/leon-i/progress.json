@@ -1621,6 +1621,33 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Full six chapters and final Amen published from public Latin Tractatus LXXI transcription; printed PL54 collation, exhaustive morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 72,
+      "section": "Sermo LXXII · De Resurrectione Domini II · capita I–VII",
+      "paragraphs": 25,
+      "aligned_units": 25,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "total_chapters": 7,
+      "translation": "complete original Spanish first-pass aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxii/index.html",
+      "voice_notes": 10,
+      "lexical_coverage": "19 selective morphological cards; exhaustive contextual word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All seven chapters and Amen published. Latin from digital Tractatus LXXII, printed PL54 collation pending. Digital text has parenthetical duplication in chapter II and problematic parenthetical in chapter IV; retain pending print verification. Complete contextual morphology, shared dictionary and browser QA pending."
     }
   ],
   "next": {
