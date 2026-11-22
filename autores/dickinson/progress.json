@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 240,
-    "publishedVerses": 3126,
+    "publishedPoems": 249,
+    "publishedVerses": 3195,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -231,6 +231,15 @@
       "J217",
       "J218",
       "J219",
+      "J220",
+      "J221",
+      "J222",
+      "J223",
+      "J224",
+      "J225",
+      "J226",
+      "J227",
+      "J228",
       "J249",
       "J254",
       "J258",
@@ -253,16 +262,16 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 219,
-    "nextJohnsonId": "J220",
+    "completedSequentialThrough": 228,
+    "nextJohnsonId": "J229",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-22",
-      "result": "J215–J219: 5 poemas, 63 versos; J214 (16 versos) ya estaba en poems.js pero faltaba en checkpoint. J216 usa versión Johnson 1861, con advertencia de variante 1859. Equivalencias Franklin y Preest pendientes.",
-      "newVersesThisRun": 63
+      "result": "Recuento directamente desde poems.js; incorporados J227–J228 (17 versos), J227 requiere cotejo visual final de última línea; equivalencias Franklin y Preest pendientes.",
+      "newVersesThisRun": 17
     }
   },
-  "lastCompletedMilestone": "J219",
-  "nextAction": "Continuar desde J220",
+  "lastCompletedMilestone": "J228",
+  "nextAction": "Continuar desde J229",
   "updatedOn": "2026-11-22"
 }
