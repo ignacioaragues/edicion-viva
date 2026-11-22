@@ -17414,6 +17414,248 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "franklin": null,
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J239, pp. 109 (paginación impresa). Texto cotejado con el PDF Johnson; correspondencia Franklin y variantes pendientes."
   },
+  "J240": {
+    "id": "J240",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Ah, Moon - and Star!",
+    "titleES": "¡Ah, Luna y Estrella!",
+    "stanzaBreaks": [
+      7,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J240, pp. 109–111; texto inglés cotejado con PDF del usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Ah, Moon - and Star!",
+        "¡Ah, Luna y Estrella!"
+      ],
+      [
+        "You are very far -",
+        "Están muy lejos —"
+      ],
+      [
+        "But were no one",
+        "pero si nadie estuviera"
+      ],
+      [
+        "Farther than you -",
+        "más lejos que ustedes —"
+      ],
+      [
+        "Do you think I'd stop",
+        "¿creen que me detendría"
+      ],
+      [
+        "For a Firmament -",
+        "un Firmamento —"
+      ],
+      [
+        "Or a Cubit - or so?",
+        "o un Codo, más o menos?"
+      ],
+      [
+        "I could borrow a Bonnet",
+        "Podría pedir prestado un Sombrero"
+      ],
+      [
+        "Of the Lark -",
+        "a la Alondra —"
+      ],
+      [
+        "And a Chamois' Silver Boot -",
+        "y una Bota de Plata de Gamuza —"
+      ],
+      [
+        "And a stirrup of an Antelope -",
+        "y un estribo de Antílope —"
+      ],
+      [
+        "And be with you - Tonight!",
+        "¡y estar con ustedes esta Noche!"
+      ],
+      [
+        "But, Moon, and Star,",
+        "Pero, Luna y Estrella,"
+      ],
+      [
+        "Though you're very far -",
+        "aunque están muy lejos —"
+      ],
+      [
+        "There is one - farther than you -",
+        "hay alguien más lejano que ustedes —"
+      ],
+      [
+        "He - is more than a firmament - from Me -",
+        "Él está a más de un firmamento de Mí —"
+      ],
+      [
+        "So I can never go!",
+        "¡así que nunca podré ir!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 7,
+        "title": "Cubit",
+        "body": "El codo es una medida antigua de longitud: la distancia astronómica queda reducida irónicamente a una magnitud doméstica."
+      },
+      {
+        "line": 16,
+        "title": "La distancia decisiva",
+        "body": "La fantasía de viaje celeste contrasta con una separación afectiva insuperable; la identidad de «Él» no se determina por el poema."
+      }
+    ]
+  },
+  "J241": {
+    "id": "J241",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I like a look of Agony,",
+    "titleES": "Me gusta un rostro de Agonía,",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J241, pp. 109–111; texto inglés cotejado con PDF del usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "I like a look of Agony,",
+        "Me gusta un rostro de Agonía,"
+      ],
+      [
+        "Because I know it's true -",
+        "porque sé que es verdadero —"
+      ],
+      [
+        "Men do not sham Convulsion,",
+        "nadie finge una Convulsión,"
+      ],
+      [
+        "Nor simulate, a Throe -",
+        "ni simula un Espasmo —"
+      ],
+      [
+        "The Eyes glaze once - and that is Death -",
+        "los Ojos se vidrian una vez — y eso es la Muerte —"
+      ],
+      [
+        "Impossible to feign",
+        "imposible fingir"
+      ],
+      [
+        "The Beads upon the Forehead",
+        "las Cuentas sobre la Frente"
+      ],
+      [
+        "By homely Anguish strung.",
+        "que ensarta la Angustia cotidiana."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La verdad del dolor",
+        "body": "El «me gusta» inicial provoca incomodidad: no celebra necesariamente el sufrimiento, sino su resistencia a la impostura."
+      },
+      {
+        "line": 7,
+        "title": "Beads",
+        "body": "Las gotas de sudor son cuentas ensartadas por la angustia; la imagen convierte una señal corporal en objeto casi artesanal."
+      }
+    ]
+  },
+  "J242": {
+    "id": "J242",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "When we stand on the tops of Things -",
+    "titleES": "Cuando estamos en la cima de las Cosas —",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J242, pp. 109–111; texto inglés cotejado con PDF del usuario; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "When we stand on the tops of Things -",
+        "Cuando estamos en la cima de las Cosas —"
+      ],
+      [
+        "And like the Trees, look down -",
+        "y, como los Árboles, miramos abajo —"
+      ],
+      [
+        "The smoke all cleared away from it -",
+        "disipado todo el humo de la escena —"
+      ],
+      [
+        "And Mirrors on the scene -",
+        "y con Espejos sobre ella —"
+      ],
+      [
+        "Just laying light - no soul will wink",
+        "que solo derraman luz — ningún alma parpadeará"
+      ],
+      [
+        "Except it have the flaw -",
+        "salvo que tenga una falla —"
+      ],
+      [
+        "The Sound ones, like the Hills - shall stand -",
+        "las íntegras, como las Colinas, permanecerán —"
+      ],
+      [
+        "No Lightning, scares away -",
+        "ningún Rayo las ahuyenta —"
+      ],
+      [
+        "The Perfect, nowhere be afraid -",
+        "las Perfectas no temen en ningún lugar —"
+      ],
+      [
+        "They bear their dauntless Heads,",
+        "alzan sus Cabezas intrépidas,"
+      ],
+      [
+        "Where others, dare not go at Noon,",
+        "donde otros no se atreven a ir ni al Mediodía,"
+      ],
+      [
+        "Protected by their deeds -",
+        "protegidas por sus actos —"
+      ],
+      [
+        "The Stars dare shine occasionally",
+        "las Estrellas se atreven a brillar a veces"
+      ],
+      [
+        "Upon a spotted World -",
+        "sobre un Mundo manchado —"
+      ],
+      [
+        "And Suns, go surer, for their Proof,",
+        "y los Soles avanzan más seguros, por su Prueba,"
+      ],
+      [
+        "As if an Axle, held -",
+        "como sostenidos por un Eje —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "title": "Flaw",
+        "body": "La falla interior vuelve vulnerable a quien mira la luz; la integridad moral se representa como firmeza ante la exposición."
+      },
+      {
+        "line": 16,
+        "title": "Axle",
+        "body": "El eje mecánico convierte la confianza cósmica en una imagen de sostén y regularidad."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
