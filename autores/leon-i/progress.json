@@ -1346,46 +1346,42 @@
     {
       "group": "sermones",
       "number": 61,
-      "section": "Sermo LXI · De Passione Domini X · capita I–II de V",
-      "paragraphs": 7,
-      "aligned_units": 7,
+      "section": "Sermo LXI · De Passione Domini X · capita I–V",
+      "paragraphs": 17,
+      "aligned_units": 17,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "translation": "partial first-pass original aligned Spanish translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete original first-pass Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxi/index.html",
-      "voice_notes": 5,
-      "lexical_coverage": "14 selected contextual entries; exhaustive morphology pending",
+      "voice_notes": 9,
+      "lexical_coverage": "33 selective contextual entries; full word-by-word coverage pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II published from public Tractatus LXI Latin transcription. Chapters III–V missing. Printed PL54 collation, full morphology, shared dictionary and browser QA pending."
+      "editorial_caveat": "All five chapters and Amen published. Digital Tractatus LXI checked; printed PL54 collation, exhaustive token morphology, shared dictionary integration and browser QA pending. Anti-Jewish supersessionist polemic contextualized."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 61,
-    "section": "Caput III",
-    "beginning": "Eunte itaque, dilectissimi",
-    "note": "Finish chapters III–V and Amen before proceeding to LXII."
+    "number": 62,
+    "section": "Caput I",
+    "note": "Start Sermo LXII; verify text and chapter count against Ballerini–Migne."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22",
+  "last_edit": "2026-11-22: Sermo LXI chapters III–V completed in first-pass translation, 17 units total",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 61,
-    "completed_chapters": [
-      1,
-      2
-    ],
-    "total_chapters": 5,
-    "next_chapter": 3,
-    "next_beginning": "Eunte itaque, dilectissimi"
+    "number": 62,
+    "status": "not_started"
   },
   "priority_queue": [
     {
