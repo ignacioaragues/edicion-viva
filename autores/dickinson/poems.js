@@ -18648,6 +18648,285 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J255": {
+    "id": "J255",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "To die - takes just a little while-",
+        "Morir — lleva apenas un instante —"
+      ],
+      [
+        "They say it doesn't hurt-",
+        "dicen que no duele —"
+      ],
+      [
+        "It's only fainter - by degrees-",
+        "solo se va debilitando — poco a poco —"
+      ],
+      [
+        "And then - it's out of sight-",
+        "y después — desaparece de la vista —"
+      ],
+      [
+        "A darker Ribbon - for a Day-",
+        "Una cinta más oscura — por un día —"
+      ],
+      [
+        "A Crape upon the Hat -",
+        "un crespón sobre el sombrero —"
+      ],
+      [
+        "And then the pretty sunshine comes -",
+        "y luego llega la hermosa luz del sol —"
+      ],
+      [
+        "And helps us to forget -",
+        "y nos ayuda a olvidar —"
+      ],
+      [
+        "The absent - mystic - creature -",
+        "a esa criatura ausente — misteriosa —"
+      ],
+      [
+        "That but for love of us -",
+        "que, si no fuera por amor a nosotros —"
+      ],
+      [
+        "Had gone to sleep - that soundest time -",
+        "se habría dormido — con el sueño más profundo —"
+      ],
+      [
+        "Without the weariness-",
+        "sin conocer el cansancio —"
+      ]
+    ],
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una muerte minimizada",
+        "body": "La voz reproduce fórmulas tranquilizadoras («dicen») para mostrar su insuficiencia: el poema se desplaza del instante de morir al olvido de quienes sobreviven."
+      },
+      {
+        "line": 11,
+        "title": "El sueño y el amor",
+        "body": "La metáfora del sueño permite imaginar la muerte como descanso, pero la construcción condicional final vuelve incierta la consolación."
+      }
+    ],
+    "incipit": "To die - takes just a little while-",
+    "titleES": "Morir — lleva apenas un instante —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J255, pp. 116–118 (texto inglés cotejado con el PDF del usuario; revisión de variantes pendiente)."
+  },
+  "J256": {
+    "id": "J256",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "If I'm lost - now",
+        "Si ahora — estoy perdida —"
+      ],
+      [
+        "That I was found -",
+        "después de haber sido encontrada —"
+      ],
+      [
+        "Shall still my transport be -",
+        "todavía será mi arrebato —"
+      ],
+      [
+        "That once - on me - those Jasper Gates",
+        "que una vez — para mí — aquellas puertas de jaspe"
+      ],
+      [
+        "Blazed open - suddenly -",
+        "se abrieron resplandecientes — de pronto —"
+      ],
+      [
+        "That in my awkward - gazing - face -",
+        "que en mi rostro torpe — absorto —"
+      ],
+      [
+        "The Angels - softly peered -",
+        "los ángeles — se asomaron suavemente —"
+      ],
+      [
+        "And touched me with their fleeces,",
+        "y me rozaron con sus vellones,"
+      ],
+      [
+        "Almost as if they cared -",
+        "casi como si les importara —"
+      ],
+      [
+        "I'm banished - now - you know it -",
+        "Ahora estoy desterrada — lo sabés —"
+      ],
+      [
+        "How foreign that can be-",
+        "qué extraño puede resultar —"
+      ],
+      [
+        "You'll know - Sir - when the Savior's face",
+        "lo sabrás — señor — cuando el rostro del Salvador"
+      ],
+      [
+        "Turns so - away from you -",
+        "se aparte así — de vos —"
+      ]
+    ],
+    "stanzaBreaks": [
+      5,
+      9
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Puertas de jaspe",
+        "body": "La imagen remite a la Jerusalén celestial del Apocalipsis (21:18–21); el recuerdo de la admisión hace más dolorosa la expulsión."
+      },
+      {
+        "line": 12,
+        "title": "Interpelación final",
+        "body": "La voz invierte la relación de autoridad: el interlocutor solo comprenderá el destierro cuando experimente el rechazo divino."
+      }
+    ],
+    "incipit": "If I'm lost - now",
+    "titleES": "Si ahora — estoy perdida —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J256, pp. 116–118 (texto inglés cotejado con el PDF del usuario; revisión de variantes pendiente)."
+  },
+  "J257": {
+    "id": "J257",
+    "approx": "c. 1861",
+    "lines": [
+      [
+        "Delight is as the flight-",
+        "El deleite es como el vuelo —"
+      ],
+      [
+        "Or in the Ratio of it,",
+        "o está en proporción a él,"
+      ],
+      [
+        "As the Schools would say -",
+        "como dirían las escuelas —"
+      ],
+      [
+        "The Rainbow's way-",
+        "el modo del arcoíris —"
+      ],
+      [
+        "A Skein",
+        "una madeja"
+      ],
+      [
+        "Flung colored, after Rain,",
+        "arrojada en colores, tras la lluvia,"
+      ],
+      [
+        "Would suit as bright,",
+        "sería igual de brillante,"
+      ],
+      [
+        "Except that Flight",
+        "salvo porque el vuelo"
+      ],
+      [
+        "Were Aliment-",
+        "fuera su alimento —"
+      ],
+      [
+        "\"If it would last\"",
+        "«Si pudiera durar»"
+      ],
+      [
+        "I asked the East,",
+        "le pregunté al Oriente,"
+      ],
+      [
+        "When that Bent Stripe",
+        "cuando aquella franja arqueada"
+      ],
+      [
+        "Struck up my childish",
+        "encendió mi infantil"
+      ],
+      [
+        "Firmament -",
+        "firmamento —"
+      ],
+      [
+        "And I, for glee,",
+        "y yo, de puro júbilo,"
+      ],
+      [
+        "Took Rainbows, as the common way,",
+        "tomé los arcoíris por lo habitual,"
+      ],
+      [
+        "And empty Skies",
+        "y los cielos vacíos"
+      ],
+      [
+        "The Eccentricity -",
+        "por la excepción —"
+      ],
+      [
+        "And so with Lives-",
+        "Y así ocurre con las vidas —"
+      ],
+      [
+        "And so with Butterflies -",
+        "y así con las mariposas —"
+      ],
+      [
+        "Seen magic - through the fright",
+        "se ve magia — a través del temor"
+      ],
+      [
+        "That they will cheat the sight -",
+        "de que engañen a la vista —"
+      ],
+      [
+        "And Dower latitudes far on -",
+        "y doten latitudes muy lejanas —"
+      ],
+      [
+        "Some sudden morn -",
+        "alguna mañana repentina —"
+      ],
+      [
+        "Our portion - in the fashion -",
+        "nuestra parte — según la costumbre —"
+      ],
+      [
+        "Done-",
+        "concluida —"
+      ]
+    ],
+    "stanzaBreaks": [
+      9,
+      18
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La duración del deleite",
+        "body": "La fugacidad no es un accidente externo al gozo: el vuelo y el arcoíris proponen que su intensidad depende de su condición pasajera."
+      },
+      {
+        "line": 19,
+        "title": "Vidas y mariposas",
+        "body": "La reflexión pasa del fenómeno meteorológico a la vida y la metamorfosis; «dower» introduce la imagen de una dote ofrecida a regiones distantes."
+      }
+    ],
+    "incipit": "Delight is as the flight-",
+    "titleES": "El deleite es como el vuelo —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J257, pp. 116–118 (texto inglés cotejado con el PDF del usuario; revisión de variantes pendiente)."
+  },
   "J258": {
     "id": "J258",
     "franklin": "Pendiente de cotejo",
