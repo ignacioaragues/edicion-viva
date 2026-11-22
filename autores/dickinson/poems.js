@@ -22211,6 +22211,306 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       20
     ]
   },
+  "J296": {
+    "id": "J296",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "One Year ago – jots what?",
+    "titleES": "¿Hace un año — qué se anota?",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J296, pp. 138–139. Texto cotejado con el PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "One Year ago – jots what?",
+        "Hace un año — ¿qué se anota?"
+      ],
+      [
+        "God – spell the word! I – can't –",
+        "Dios — ¡deletreá la palabra! Yo — no puedo —"
+      ],
+      [
+        "Was't Grace? Not that –",
+        "¿Fue Gracia? No, eso no —"
+      ],
+      [
+        "Was't Glory? That – will do –",
+        "¿Fue Gloria? Eso — servirá —"
+      ],
+      [
+        "Spell slower – Glory –",
+        "Deletreá más despacio — Gloria —"
+      ],
+      [
+        "Such Anniversary shall be –",
+        "Tal aniversario habrá —"
+      ],
+      [
+        "Sometimes – not often – in Eternity –",
+        "alguna vez — no a menudo — en la Eternidad —"
+      ],
+      [
+        "When farther Parted, than the Common Woe –",
+        "cuando estemos más separados que por la pena común —"
+      ],
+      [
+        "Look – feed upon each other's faces – so –",
+        "mirá — alimentarnos de nuestros rostros — así —"
+      ],
+      [
+        "In doubtful meal, if it be possible",
+        "en dudosa comida, si es posible"
+      ],
+      [
+        "Their Banquet's true –",
+        "que su banquete sea verdadero —"
+      ],
+      [
+        "I tasted – careless – then –",
+        "Probé — despreocupada — entonces —"
+      ],
+      [
+        "I did not know the Wine",
+        "no sabía que el vino"
+      ],
+      [
+        "Came once a World – Did you?",
+        "llegaba una sola vez por mundo — ¿vos lo sabías?"
+      ],
+      [
+        "Oh, had you told me so –",
+        "Ah, si me lo hubieras dicho —"
+      ],
+      [
+        "This Thirst would blister – easier – now –",
+        "esta sed ampollaría — menos — ahora —"
+      ],
+      [
+        "You said it hurt you – most –",
+        "Dijiste que a vos te dolía — más —"
+      ],
+      [
+        "Mine – was an Acorn's Breast –",
+        "mi pecho — era el de una bellota —"
+      ],
+      [
+        "And could not know how fondness grew",
+        "y no podía saber cómo crecía el cariño"
+      ],
+      [
+        "In Shaggier Vest –",
+        "bajo un vestido más áspero —"
+      ],
+      [
+        "Perhaps – I couldn't –",
+        "Quizás — no podía —"
+      ],
+      [
+        "But, had you looked in –",
+        "pero, si hubieras mirado dentro —"
+      ],
+      [
+        "A Giant – eye to eye with you, had been –",
+        "un gigante — frente a frente con vos — habría estado —"
+      ],
+      [
+        "No Acorn – then –",
+        "no una bellota — entonces —"
+      ],
+      [
+        "So – Twelve months ago –",
+        "Así — hace doce meses —"
+      ],
+      [
+        "We breathed –",
+        "respirábamos —"
+      ],
+      [
+        "Then dropped the Air –",
+        "después soltamos el aire —"
+      ],
+      [
+        "Which bore it best?",
+        "¿Quién lo soportó mejor?"
+      ],
+      [
+        "Was this – the patientest –",
+        "¿Fue esta — la más paciente —"
+      ],
+      [
+        "Because it was a Child, you know –",
+        "porque era una niña, sabés —"
+      ],
+      [
+        "And could not value – Air?",
+        "y no sabía apreciar — el aire?"
+      ],
+      [
+        "If to be \"Elder\" – mean most pain –",
+        "Si ser «mayor» — significa más dolor —"
+      ],
+      [
+        "I'm old enough, today, I'm certain – then –",
+        "hoy ya tengo edad suficiente, estoy segura — entonces —"
+      ],
+      [
+        "As old as thee – how soon?",
+        "tan mayor como vos — ¿cuándo?"
+      ],
+      [
+        "One – Birthday more – or Ten?",
+        "¿Un cumpleaños más — o diez?"
+      ],
+      [
+        "Let me – choose!",
+        "¡Dejame — elegir!"
+      ],
+      [
+        "Ah, Sir, None!",
+        "¡Ah, señor, ninguno!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Aniversario sin nombre",
+        "body": "El poema interroga qué puede conmemorarse cuando la experiencia resiste incluso la palabra que la nombra."
+      },
+      {
+        "line": 18,
+        "title": "Acorn",
+        "body": "La bellota contrapone la inmadurez de quien habla a una capacidad afectiva que solo comprende retrospectivamente."
+      }
+    ]
+  },
+  "J297": {
+    "id": "J297",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "It's like the Light –",
+    "titleES": "Es como la luz —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J297, pp. 139–140. Texto cotejado con el PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "It's like the Light –",
+        "Es como la Luz —"
+      ],
+      [
+        "A fashionless Delight –",
+        "un Deleite sin forma ni moda —"
+      ],
+      [
+        "It's like the Bee –",
+        "Es como la Abeja —"
+      ],
+      [
+        "A dateless – Melody –",
+        "una Melodía — sin fecha —"
+      ],
+      [
+        "It's like the Woods –",
+        "Es como los Bosques —"
+      ],
+      [
+        "Private – Like the Breeze –",
+        "íntimo — como la Brisa —"
+      ],
+      [
+        "Phraseless – yet it stirs",
+        "sin palabras — pero agita"
+      ],
+      [
+        "The proudest Trees –",
+        "los Árboles más orgullosos —"
+      ],
+      [
+        "It's like the Morning –",
+        "Es como la Mañana —"
+      ],
+      [
+        "Best – when it's done –",
+        "mejor — cuando ha terminado —"
+      ],
+      [
+        "And the Everlasting Clocks –",
+        "y los Relojes Eternos —"
+      ],
+      [
+        "Chime – Noon!",
+        "¡dan — el Mediodía!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Símiles sin referente explícito",
+        "body": "La serie de comparaciones no identifica inequívocamente su objeto: esa elipsis mantiene abiertas las lecturas amorosa, espiritual y estética."
+      }
+    ]
+  },
+  "J298": {
+    "id": "J298",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Alone, I cannot be –",
+    "titleES": "Sola no puedo estar —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J298, pp. 140. Texto cotejado con el PDF de Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Alone, I cannot be –",
+        "Sola no puedo estar —"
+      ],
+      [
+        "For Hosts – do visit me –",
+        "pues Multitudes — vienen a visitarme —"
+      ],
+      [
+        "Recordless Company –",
+        "compañía sin registro —"
+      ],
+      [
+        "Who baffle Key –",
+        "que desafía toda Llave —"
+      ],
+      [
+        "They have no Robes, nor Names –",
+        "No tienen Vestiduras ni Nombres —"
+      ],
+      [
+        "No Almanacs – nor Climes –",
+        "ni Almanaques — ni Climas —"
+      ],
+      [
+        "But general Homes",
+        "sino moradas universales"
+      ],
+      [
+        "Like Gnomes –",
+        "como los Gnomos —"
+      ],
+      [
+        "Their Coming, may be known",
+        "Su llegada puede conocerse"
+      ],
+      [
+        "By Couriers within –",
+        "por Mensajeros interiores —"
+      ],
+      [
+        "Their going – is not –",
+        "su partida — no —"
+      ],
+      [
+        "For they're never gone –",
+        "porque nunca se han ido —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La soledad poblada",
+        "body": "Las presencias carecen de identidad y procedencia verificables; el poema puede leerse como imaginación, memoria o experiencia espiritual, sin reducirlas a una sola explicación."
+      }
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
