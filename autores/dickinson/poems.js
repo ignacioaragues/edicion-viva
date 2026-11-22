@@ -16825,6 +16825,282 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J232": {
+    "id": "J232",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Sun - just touched the Morning -",
+    "titleES": "El sol apenas tocó la mañana",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J232, p. 106 (página impresa); texto cotejado con PDF de Johnson. Correspondencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "The Sun - just touched the Morning -",
+        "El Sol — apenas rozó la Mañana —"
+      ],
+      [
+        "The Morning - Happy thing -",
+        "La Mañana — criatura feliz —"
+      ],
+      [
+        "Supposed that He had come to dwell -",
+        "creyó que Él había venido a quedarse —"
+      ],
+      [
+        "And Life would all be Spring!",
+        "¡y que la Vida sería toda Primavera!"
+      ],
+      [
+        "She felt herself supremer -",
+        "Se sintió más soberana —"
+      ],
+      [
+        "A Raised - Ethereal Thing!",
+        "una criatura elevada — etérea."
+      ],
+      [
+        "Henceforth - for Her - What Holiday!",
+        "¡Desde entonces — para Ella — qué fiesta!"
+      ],
+      [
+        "Meanwhile - Her wheeling King -",
+        "Mientras tanto — su Rey que giraba —"
+      ],
+      [
+        "Trailed - slow - along the Orchards -",
+        "arrastraba — lento — por los Huertos —"
+      ],
+      [
+        "His haughty - spangled Hems -",
+        "los bordes altivos — centelleantes — de su manto —"
+      ],
+      [
+        "Leaving a new necessity!",
+        "¡dejando una necesidad nueva!"
+      ],
+      [
+        "The want of Diadems!",
+        "¡La falta de Diademas!"
+      ],
+      [
+        "The Morning - fluttered - staggered -",
+        "La Mañana — aleteó — se tambaleó —"
+      ],
+      [
+        "Felt feebly - for Her Crown -",
+        "buscó débilmente — su Corona —"
+      ],
+      [
+        "Her unanointed forehead -",
+        "su frente sin ungir —"
+      ],
+      [
+        "Henceforth - Her only One!",
+        "¡desde entonces — la única que tendría!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "El encuentro solar parece una coronación amorosa, pero el movimiento del astro deja a la mañana sin insignias. La súbita grandeza se convierte en carencia: la corona perdida y la frente sin ungir trasladan la escena natural al lenguaje de la legitimidad monárquica."
+      }
+    ]
+  },
+  "J233": {
+    "id": "J233",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Lamp burns sure - within -",
+    "titleES": "La lámpara arde firme por dentro",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J233, p. 106 (página impresa); texto cotejado con PDF de Johnson. Correspondencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "The Lamp burns sure - within -",
+        "La Lámpara arde firme — por dentro —"
+      ],
+      [
+        "Tho' Serfs - supply the Oil -",
+        "aunque los Siervos — suministren el Aceite —"
+      ],
+      [
+        "It matters not the busy Wick -",
+        "no le importa a la atareada Mecha —"
+      ],
+      [
+        "At her phosphoric toil!",
+        "entregada a su labor fosfórica."
+      ],
+      [
+        "The Slave - forgets - to fill -",
+        "El Esclavo — se olvida — de llenarla —"
+      ],
+      [
+        "The Lamp - burns golden - on -",
+        "la Lámpara — sigue ardiendo dorada —"
+      ],
+      [
+        "Unconscious that the oil is out -",
+        "sin saber que el aceite se ha acabado —"
+      ],
+      [
+        "As that the Slave - is gone.",
+        "ni que el Esclavo — se ha marchado."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "La lámpara representa una actividad que prosigue sin reconocer las condiciones materiales de su existencia. La independencia aparente del resplandor contrasta con el trabajo subordinado de quien lo alimenta; la inconsciencia final puede sugerir tanto autonomía espiritual como una forma de ceguera."
+      }
+    ]
+  },
+  "J234": {
+    "id": "J234",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "You're right - \"the way is narrow\" -",
+    "titleES": "Tenés razón: «estrecho es el camino»",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J234, p. 107 (página impresa); texto cotejado con PDF de Johnson. Correspondencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "You're right - \"the way is narrow\" -",
+        "Tenés razón — «estrecho es el camino» —"
+      ],
+      [
+        "And \"difficult the Gate\" -",
+        "y «difícil la Puerta» —"
+      ],
+      [
+        "And \"few there be\" - Correct again -",
+        "y «pocos son» — acertaste otra vez —"
+      ],
+      [
+        "That \"enter in - thereat\" -",
+        "los que «entran — por ella» —"
+      ],
+      [
+        "'Tis Costly - So are purples!",
+        "Cuesta caro — ¡también la púrpura!"
+      ],
+      [
+        "'Tis just the price of Breath -",
+        "Es apenas el precio del Aliento —"
+      ],
+      [
+        "With but the \"Discount\" of the Grave -",
+        "con el único «Descuento» de la Tumba —"
+      ],
+      [
+        "Termed by the Brokers - \"Death\"!",
+        "que los Corredores llaman — «Muerte»."
+      ],
+      [
+        "And after that - there's Heaven -",
+        "Y después de eso — está el Cielo —"
+      ],
+      [
+        "The Good Man's - \"Dividend\" -",
+        "el «Dividendo» del Hombre Bueno —"
+      ],
+      [
+        "And Bad Men - \"go to Jail\" -",
+        "y los Hombres Malos — «van a la Cárcel» —"
+      ],
+      [
+        "I guess -",
+        "supongo —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "El poema cita y desarma el lenguaje bíblico del camino estrecho (Mateo 7:13–14) mediante una contabilidad de costos, descuentos y dividendos. El «supongo» final introduce una distancia irónica respecto del reparto convencional de premios y castigos."
+      }
+    ]
+  },
+  "J235": {
+    "id": "J235",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Court is far away -",
+    "titleES": "La corte queda lejos",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J235, p. 107 (página impresa); texto cotejado con PDF de Johnson. Correspondencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "The Court is far away -",
+        "La Corte queda lejos —"
+      ],
+      [
+        "No Umpire - have I -",
+        "no tengo — Árbitro —"
+      ],
+      [
+        "My Sovereign is offended -",
+        "mi Soberano está ofendido —"
+      ],
+      [
+        "To gain his grace - I'd die!",
+        "¡por recuperar su gracia — moriría!"
+      ],
+      [
+        "I'll seek his royal feet -",
+        "Buscaré sus pies reales —"
+      ],
+      [
+        "I'll say - Remember - King -",
+        "diré — Recordá — Rey —"
+      ],
+      [
+        "Thou shalt - thyself - one day - a Child -",
+        "vos mismo — algún día — como un Niño —"
+      ],
+      [
+        "Implore a larger - thing -",
+        "implorarás algo — más grande —"
+      ],
+      [
+        "That Empire - is of Czars -",
+        "ese Imperio — pertenece a los Zares —"
+      ],
+      [
+        "As small - they say - as I -",
+        "tan pequeños — dicen — como yo —"
+      ],
+      [
+        "Grant me - that day - the royalty -",
+        "Concedeme — aquel día — la prerrogativa real —"
+      ],
+      [
+        "To intercede - for Thee -",
+        "de interceder — por Vos —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "La voz suplicante imagina una inversión del poder: el soberano ofendido llegará a necesitar intercesión. La petición final convierte la debilidad presente en una autoridad futura y deja abierta la identificación del rey con un amado o con una figura divina."
+      }
+    ]
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
