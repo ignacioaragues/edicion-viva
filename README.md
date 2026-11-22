@@ -106,3 +106,10 @@ Las obras de dominio público pueden convivir con ediciones críticas y traducci
 - Esta convención se aplica a todos los lectores de la biblioteca (Shakespeare, Plauto, Marcos, León I, Corneille y los que se publiquen después). Los puntos que pertenecen al texto crítico o a otras funciones no se ven afectados.
 - En el corpus de León I, el pie de cada sermón tiene navegación **Anterior / Siguiente** a obras efectivamente publicadas y no repite un enlace al sermón actual. El módulo `autores/leon-i/sermon-navigation.js` toma los números publicados de `autores/leon-i/progress.json`. Toda página nueva de sermón debe cargarlo con `<script src="../../sermon-navigation.js" defer></script>` antes de cerrar `body`; actualizar el registro editorial solo cuando la página correspondiente exista.
 - Los lectores deben ofrecer un enlace comprensible de retorno a la biblioteca general `/edicion-viva/`, aunque tengan portada propia.
+
+## Dickinson · checkpoint editorial (2026-11-22)
+
+- Curso introductorio: 10/10 lecciones completas.
+- Corpus compartido: J1–J226 correlativos, además de poemas de las lecciones posteriores; 247 poemas únicos y 3.178 versos registrados, tomando como base el checkpoint J219 (240 poemas, 3.126 versos) y la incorporación de J220–J226 (7 poemas, 52 versos).
+- Próximo poema en secuencia: **J227**. Correspondencias Franklin y cotejo manuscrito de J220–J226 pendientes; no se atribuyen equivalencias sin verificar.
+- Edición: `autores/dickinson/poems.js`; lector: `autores/dickinson/`.
