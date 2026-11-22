@@ -21871,6 +21871,346 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J293": {
+    "id": "J293",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I got so I could take his name –",
+    "titleES": "Llegué a poder pronunciar su nombre",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J293, pp. 136–137. Transcripción cotejada con el texto base; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I got so I could take his name –",
+        "Llegué a poder pronunciar su nombre —"
+      ],
+      [
+        "Without – Tremendous gain –",
+        "sin — enorme conquista —"
+      ],
+      [
+        "That Stop-sensation – on my Soul –",
+        "aquella sensación de parálisis — en el alma —"
+      ],
+      [
+        "And Thunder – in the Room –",
+        "y el trueno — en la habitación —"
+      ],
+      [
+        "I got so I could walk across",
+        "Llegué a poder atravesar"
+      ],
+      [
+        "That Angle in the floor,",
+        "aquel ángulo del suelo,"
+      ],
+      [
+        "Where he turned so, and I turned – how –",
+        "donde él giró así, y yo giré — cómo —"
+      ],
+      [
+        "And all our Sinew tore –",
+        "y se desgarraron todos nuestros tendones —"
+      ],
+      [
+        "I got so I could Stir the Box –",
+        "Llegué a poder remover la caja —"
+      ],
+      [
+        "In which his letters grew",
+        "donde se acumulaban sus cartas"
+      ],
+      [
+        "Without that forcing, in my breath –",
+        "sin aquella opresión en el aliento —"
+      ],
+      [
+        "As Staples – driven through –",
+        "como grapas — clavadas a través —"
+      ],
+      [
+        "Could dimly recollect a Grace –",
+        "Podía recordar vagamente una Gracia —"
+      ],
+      [
+        "I think, they call it \"God\" –",
+        "creo que la llaman «Dios» —"
+      ],
+      [
+        "Renowned to ease Extremity –",
+        "célebre por aliviar los extremos —"
+      ],
+      [
+        "When Formula, had failed –",
+        "cuando las fórmulas han fallado —"
+      ],
+      [
+        "And shape my Hands –",
+        "Y disponer mis manos —"
+      ],
+      [
+        "Petition's way,",
+        "en gesto de súplica,"
+      ],
+      [
+        "Tho' ignorant of a word",
+        "aunque ignorara una sola palabra"
+      ],
+      [
+        "That Ordination – utters –",
+        "de las que pronuncia la ordenación —"
+      ],
+      [
+        "My Business, with the Cloud,",
+        "Mi asunto, con la Nube,"
+      ],
+      [
+        "If any Power behind it, be,",
+        "si detrás de ella existe algún Poder,"
+      ],
+      [
+        "Not subject to Despair –",
+        "no sometido a la Desesperación —"
+      ],
+      [
+        "It care, in some remoter way,",
+        "que se preocupe, de alguna manera remota,"
+      ],
+      [
+        "For so minute affair",
+        "por un asunto tan diminuto"
+      ],
+      [
+        "As Misery –",
+        "como la Desdicha —"
+      ],
+      [
+        "Itself, too vast, for interrupting – more –",
+        "ella misma demasiado vasta para seguir interrumpiendo —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Aprender a soportar",
+        "body": "La repetición de «I got so I could» marca una recuperación gradual, no una curación completa: primero el nombre, luego el espacio y por último las cartas."
+      },
+      {
+        "line": 13,
+        "title": "La gracia y la fórmula",
+        "body": "La hablante recurre tentativamente a la oración cuando los procedimientos conocidos ya no sirven; «I think» mantiene una distancia irónica respecto de la certeza religiosa."
+      }
+    ],
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16,
+      20
+    ]
+  },
+  "J294": {
+    "id": "J294",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "The Doomed – regard the Sunrise",
+    "titleES": "Los condenados contemplan el amanecer",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J294, pp. 137. Transcripción cotejada con el texto base; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The Doomed – regard the Sunrise",
+        "Los condenados — contemplan el Amanecer"
+      ],
+      [
+        "With different Delight –",
+        "con un Deleite distinto —"
+      ],
+      [
+        "Because – when next it burns abroad",
+        "porque — cuando vuelva a arder en lo alto"
+      ],
+      [
+        "They doubt to witness it –",
+        "dudan que puedan presenciarlo —"
+      ],
+      [
+        "The Man – to die – tomorrow –",
+        "El hombre — que ha de morir — mañana —"
+      ],
+      [
+        "Harks for the Meadow Bird –",
+        "escucha al pájaro de la pradera —"
+      ],
+      [
+        "Because its Music stirs the Axe",
+        "porque su Música agita el Hacha"
+      ],
+      [
+        "That clamors for his head –",
+        "que reclama su cabeza —"
+      ],
+      [
+        "Joyful – to whom the Sunrise",
+        "Dichoso — aquel para quien el Amanecer"
+      ],
+      [
+        "Precedes Enamored – Day –",
+        "precede a un Día — enamorado —"
+      ],
+      [
+        "Joyful – for whom the Meadow Bird",
+        "dichoso — aquel para quien el pájaro de la pradera"
+      ],
+      [
+        "Has ought but Elegy!",
+        "tiene algo más que una Elegía."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Tiempo condenado",
+        "body": "El amanecer es un bien escaso cuando se sospecha que no habrá otro. El poema desplaza la percepción desde la luz hacia el sonido del ave."
+      },
+      {
+        "line": 7,
+        "title": "La música y el hacha",
+        "body": "El canto del pájaro activa la imagen de la ejecución; la naturaleza no ofrece un consuelo inequívoco."
+      }
+    ],
+    "stanzaBreaks": [
+      4,
+      8
+    ]
+  },
+  "J295": {
+    "id": "J295",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Unto like Story – Trouble has enticed me –",
+    "titleES": "Hacia historias semejantes me ha llevado la aflicción",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J295, pp. 138. Transcripción cotejada con el texto base; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Unto like Story – Trouble has enticed me –",
+        "Hacia historias semejantes me ha atraído la Aflicción —"
+      ],
+      [
+        "How Kinsmen fell –",
+        "cómo cayeron los parientes —"
+      ],
+      [
+        "Brothers and Sister – who preferred the Glory –",
+        "hermanos y hermana — que prefirieron la Gloria —"
+      ],
+      [
+        "And their young will",
+        "y su joven voluntad"
+      ],
+      [
+        "Bent to the Scaffold, or in Dungeons – chanted –",
+        "se inclinó ante el Patíbulo, o cantó — en las Mazmorras —"
+      ],
+      [
+        "Till God's full time –",
+        "hasta que llegó la hora plena de Dios —"
+      ],
+      [
+        "When they let go the Ignominy – smiling –",
+        "cuando soltaron la Ignominia — sonriendo —"
+      ],
+      [
+        "And Shame went still –",
+        "y la Vergüenza quedó inmóvil —"
+      ],
+      [
+        "Unto guessed Crests, by moaning fancy, leads me,",
+        "Hacia cumbres imaginadas me conduce la fantasía doliente,"
+      ],
+      [
+        "Worn fair",
+        "llevadas con nobleza"
+      ],
+      [
+        "By Heads rejected – in the lower country –",
+        "por cabezas rechazadas — en el país inferior —"
+      ],
+      [
+        "Of honors there –",
+        "de los honores de allí —"
+      ],
+      [
+        "Such spirit makes her perpetual mention,",
+        "Tal espíritu mantiene su recuerdo perpetuo,"
+      ],
+      [
+        "That I – grown bold –",
+        "de modo que yo — envalentonada —"
+      ],
+      [
+        "Step martial – at my Crucifixion –",
+        "marcho marcialmente — hacia mi Crucifixión —"
+      ],
+      [
+        "As Trumpets – rolled –",
+        "mientras resuenan — Trompetas —"
+      ],
+      [
+        "Feet, small as mine – have marched in Revolution",
+        "Pies tan pequeños como los míos — marcharon en la Revolución"
+      ],
+      [
+        "Firm to the Drum –",
+        "firmes al compás del Tambor —"
+      ],
+      [
+        "Hands – not so stout – hoisted them – in Witness –",
+        "Manos — no tan robustas — se alzaron — como Testimonio —"
+      ],
+      [
+        "When Speech went numb –",
+        "cuando el Habla quedó entumecida —"
+      ],
+      [
+        "Let me not shame their sublime deportments –",
+        "Que yo no deshonre sus sublimes comportamientos —"
+      ],
+      [
+        "Drilled bright –",
+        "disciplinados y radiantes —"
+      ],
+      [
+        "Beckoning – Etruscan invitation –",
+        "que hacen señas — invitación etrusca —"
+      ],
+      [
+        "Toward Light –",
+        "hacia la Luz —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Memoria de los mártires",
+        "body": "La hablante recurre a relatos de persecución para ensayar una valentía propia. El parentesco mencionado puede ser figurado: no conviene identificar personas históricas sin pruebas."
+      },
+      {
+        "line": 17,
+        "title": "Revolución y testimonio",
+        "body": "Los cuerpos pequeños y las manos débiles se vuelven ejemplos de resistencia, en una retórica que combina martirio religioso y acción política."
+      },
+      {
+        "line": 23,
+        "title": "Invitación etrusca",
+        "body": "La referencia clásica permanece enigmática; puede sugerir un imaginario funerario antiguo, pero esa lectura no es una identificación documental."
+      }
+    ],
+    "stanzaBreaks": [
+      8,
+      12,
+      16,
+      20
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
