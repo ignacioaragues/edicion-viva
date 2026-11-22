@@ -19568,6 +19568,109 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J267": {
+    "id": "J267",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Did we disobey Him?",
+    "titleES": "¿Lo desobedecimos?",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J267, p. 122. Texto inglés cotejado con la edición Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Did we disobey Him?",
+        "¿Lo desobedecimos?"
+      ],
+      [
+        "Just one time!",
+        "¡Una sola vez!"
+      ],
+      [
+        "Charged us to forget Him—",
+        "Nos ordenó olvidarlo —"
+      ],
+      [
+        "But we couldn't learn!",
+        "¡Pero no pudimos aprender!"
+      ],
+      [
+        "Were Himself—such a Dunce—",
+        "Si Él mismo fuera tan torpe —"
+      ],
+      [
+        "What would we—do?",
+        "¿qué haríamos nosotros?"
+      ],
+      [
+        "Love the dull lad—best—",
+        "Querer más que nunca al muchacho obtuso —"
+      ],
+      [
+        "Oh, wouldn't you?",
+        "Ay, ¿vos no?"
+      ]
+    ],
+    "stanzaBreaks": [
+      4
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "El mandato paradójico",
+        "body": "La orden de olvidar convierte la fidelidad en desobediencia: el poema enfrenta obediencia y afecto sin resolver la identidad del destinatario."
+      },
+      {
+        "line": 5,
+        "title": "Dunce",
+        "body": "La palabra coloquial rebaja abruptamente la solemnidad del Him mayúsculo. La interpretación religiosa es posible, pero no obligatoria."
+      }
+    ]
+  },
+  "J268": {
+    "id": "J268",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Me, change! Me, alter!",
+    "titleES": "¿Yo, cambiar? ¿Yo, transformarme?",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J268, p. 122. Texto inglés cotejado con la edición Johnson; correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Me, change! Me, alter!",
+        "¿Yo, cambiar? ¡Yo, transformarme!"
+      ],
+      [
+        "Then I will, when on the Everlasting Hill",
+        "Lo haré cuando en la Colina Eterna"
+      ],
+      [
+        "A Smaller Purple grows—",
+        "crezca un Púrpura más pequeño —"
+      ],
+      [
+        "At sunset, or a lesser glow",
+        "al ponerse el sol, o un resplandor menor"
+      ],
+      [
+        "Flickers upon Cordillera—",
+        "titile sobre la Cordillera —"
+      ],
+      [
+        "At Day's superior close!",
+        "¡en el cierre supremo del Día!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una negativa condicional",
+        "body": "La hablante promete cambiar solo cuando cambie lo que presenta como inmutable: la intensidad cromática del ocaso."
+      },
+      {
+        "line": 5,
+        "title": "Cordillera",
+        "body": "El término geográfico amplía el paisaje a una escala continental; la imagen no permite fijar por sí sola una montaña concreta."
+      }
+    ]
+  },
   "J280": {
     "id": "J280",
     "franklin": "Pendiente de cotejo",
