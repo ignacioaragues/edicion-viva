@@ -21672,6 +21672,205 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J291": {
+    "id": "J291",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "How the old Mountains drip with Sunset",
+    "titleES": "Cómo los viejos montes destilan ocaso",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J291, pp. 135–136; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "How the old Mountains drip with Sunset",
+        "Cómo los viejos montes destilan ocaso"
+      ],
+      [
+        "How the Hemlocks burn—",
+        "cómo arden los abetos —"
+      ],
+      [
+        "How the Dun Brake is draped in Cinder",
+        "cómo el helechal pardo se cubre de ceniza"
+      ],
+      [
+        "By the Wizard Sun—",
+        "por obra del Sol hechicero —"
+      ],
+      [
+        "How the old Steeples hand the Scarlet",
+        "cómo los viejos campanarios se pasan el escarlata"
+      ],
+      [
+        "Till the Ball is full—",
+        "hasta que el globo se colma —"
+      ],
+      [
+        "Have I the lip of the Flamingo",
+        "¿Tengo yo el pico del flamenco"
+      ],
+      [
+        "That I dare to tell?",
+        "para atreverme a contarlo?"
+      ],
+      [
+        "Then, how the Fire ebbs like Billows—",
+        "Luego, cómo el fuego retrocede como oleaje —"
+      ],
+      [
+        "Touching all the Grass",
+        "rozando toda la hierba"
+      ],
+      [
+        "With a departing—Sapphire—feature—",
+        "con un rasgo de zafiro que se aleja —"
+      ],
+      [
+        "As a Duchess passed—",
+        "como si pasara una duquesa —"
+      ],
+      [
+        "How a small Dusk crawls on the Village",
+        "cómo un pequeño crepúsculo se arrastra por la aldea"
+      ],
+      [
+        "Till the Houses blot",
+        "hasta que las casas se borran"
+      ],
+      [
+        "And the odd Flambeau, no men carry",
+        "y alguna antorcha que nadie lleva"
+      ],
+      [
+        "Glimmer on the Street—",
+        "titila en la calle —"
+      ],
+      [
+        "How it is Night—in Nest and Kennel—",
+        "cómo se hace de noche en nido y perrera —"
+      ],
+      [
+        "And where was the Wood—",
+        "y donde estaba el bosque —"
+      ],
+      [
+        "Just a Dome of Abyss is Bowing",
+        "solo una cúpula de abismo se inclina"
+      ],
+      [
+        "Into Solitude—",
+        "hacia la soledad —"
+      ],
+      [
+        "These are the Visions flitted Guido—",
+        "Estas son las visiones que rozaron a Guido —"
+      ],
+      [
+        "Titian—never told—",
+        "que Tiziano nunca contó —"
+      ],
+      [
+        "Domenichino dropped his pencil—",
+        "Domenichino dejó caer el lápiz —"
+      ],
+      [
+        "Paralyzed, with Gold—",
+        "paralizado de oro —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 7,
+        "title": "El flamenco y la voz",
+        "body": "La hablante duda de poseer un órgano expresivo suficientemente vistoso para narrar el espectáculo del ocaso."
+      },
+      {
+        "line": 21,
+        "title": "Guido, Tiziano y Domenichino",
+        "body": "Alude a los pintores Guido Reni, Tiziano y Domenichino. La naturaleza aparece como espectáculo que excede la pintura."
+      }
+    ]
+  },
+  "J292": {
+    "id": "J292",
+    "franklin": null,
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "If your Nerve, deny you—",
+    "titleES": "Si te fallan los nervios",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J292, p. 136; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "If your Nerve, deny you—",
+        "Si los nervios te fallan —"
+      ],
+      [
+        "Go above your Nerve—",
+        "elevate por encima de ellos —"
+      ],
+      [
+        "He can lean against the Grave,",
+        "Quien puede apoyarse en la Tumba,"
+      ],
+      [
+        "If he fear to swerve—",
+        "si teme desviarse —"
+      ],
+      [
+        "That's a steady posture—",
+        "esa es una postura firme —"
+      ],
+      [
+        "Never any bend",
+        "ninguna flexión jamás"
+      ],
+      [
+        "Held of those Brass arms—",
+        "se vio en esos brazos de bronce —"
+      ],
+      [
+        "Best Giant made—",
+        "los mejores que un gigante hiciera —"
+      ],
+      [
+        "If your Soul seesaw—",
+        "Si tu Alma vacila —"
+      ],
+      [
+        "Lift the Flesh door—",
+        "levantá la puerta de la Carne —"
+      ],
+      [
+        "The Poltroon wants Oxygen—",
+        "el cobarde necesita oxígeno —"
+      ],
+      [
+        "Nothing more—",
+        "nada más —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Nerve",
+        "body": "El singular condensa nervio, valor y resistencia; la repetición transforma una limitación corporal en un desafío moral."
+      },
+      {
+        "line": 9,
+        "title": "Soul seesaw",
+        "body": "El verbo seesaw evoca el vaivén de un balancín y da forma física a la indecisión."
+      }
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
