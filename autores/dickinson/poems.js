@@ -17101,6 +17101,319 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J236": {
+    "id": "J236",
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "If He dissolve - then - there is nothing - more -",
+    "titleES": "Si Él se desvanece",
+    "stanzaBreaks": [
+      7,
+      11
+    ],
+    "lines": [
+      [
+        "If He dissolve - then - there is nothing - more -",
+        "Si Él se desvanece — entonces — no queda nada —"
+      ],
+      [
+        "Eclipse - at Midnight -",
+        "Eclipse — a Medianoche —"
+      ],
+      [
+        "It was dark - before -",
+        "ya estaba oscuro — antes —"
+      ],
+      [
+        "Sunset - at Easter -",
+        "Ocaso — en Pascua —"
+      ],
+      [
+        "Blindness - on the Dawn -",
+        "Ceguera — sobre el Alba —"
+      ],
+      [
+        "Faint Star of Bethlehem -",
+        "Débil Estrella de Belén —"
+      ],
+      [
+        "Gone down!",
+        "¡que se ha puesto!"
+      ],
+      [
+        "Would but some God - inform Him -",
+        "¡Si algún Dios — pudiera avisarle —"
+      ],
+      [
+        "Or it be too late!",
+        "antes de que sea tarde!"
+      ],
+      [
+        "Say - that the pulse just lisps -",
+        "Decirle — que el pulso apenas balbucea —"
+      ],
+      [
+        "The Chariots wait -",
+        "que los Carros aguardan —"
+      ],
+      [
+        "Say - that a little life - for His -",
+        "Decirle — que una pequeña vida — por Él —"
+      ],
+      [
+        "Is leaking - red -",
+        "se desangra — roja —"
+      ],
+      [
+        "His little Spaniel - tell Him!",
+        "Su pequeño Spaniel — ¡díganle!"
+      ],
+      [
+        "Will He heed?",
+        "¿Prestará atención?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "La desaparición del destinatario convierte la oscuridad en una condición absoluta: hasta la Pascua pierde su promesa de resurrección. La súplica final rebaja la voz a la fidelidad vulnerable de un perro doméstico; no sabemos si el «Él» es humano o divino."
+      },
+      {
+        "line": 14,
+        "title": "Spaniel",
+        "body": "La raza canina evoca fidelidad y dependencia; «little» acentúa la desproporción entre la voz suplicante y el destinatario."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J236, pp. 107–108 (paginación impresa). Texto cotejado con el PDF Johnson; correspondencia Franklin y variantes pendientes."
+  },
+  "J237": {
+    "id": "J237",
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "I think just how my shape will rise -",
+    "titleES": "Imagino cómo se alzará mi figura",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "lines": [
+      [
+        "I think just how my shape will rise -",
+        "Imagino cómo se alzará mi figura —"
+      ],
+      [
+        "When I shall be \"forgiven\" -",
+        "cuando sea «perdonada» —"
+      ],
+      [
+        "Till Hair - and Eyes - and timid Head -",
+        "hasta que Cabello — y Ojos — y tímida Cabeza —"
+      ],
+      [
+        "Are out of sight - in Heaven -",
+        "desaparezcan de la vista — en el Cielo —"
+      ],
+      [
+        "I think just how my lips will weigh -",
+        "Imagino cuánto pesarán mis labios —"
+      ],
+      [
+        "With shapeless - quivering - prayer -",
+        "con una plegaria informe — temblorosa —"
+      ],
+      [
+        "That you - so late - \"Consider\" me -",
+        "para que vos — tan tarde — me «Consideres» —"
+      ],
+      [
+        "The \"Sparrow\" of your Care -",
+        "el «Gorrión» de tu Cuidado —"
+      ],
+      [
+        "I mind me that of Anguish - sent -",
+        "Recuerdo que de la Angustia — enviada —"
+      ],
+      [
+        "Some drifts were moved away -",
+        "algunos montones se apartaron —"
+      ],
+      [
+        "Before my simple bosom - broke -",
+        "antes de que mi sencillo pecho — se quebrara —"
+      ],
+      [
+        "And why not this - if they?",
+        "¿Y por qué no este — si aquellos cedieron?"
+      ],
+      [
+        "And so I con that thing - \"forgiven\" -",
+        "Y así repaso esa palabra — «perdonada» —"
+      ],
+      [
+        "Until - delirious - borne -",
+        "hasta que — delirante — sostenida —"
+      ],
+      [
+        "By my long bright - and longer - trust -",
+        "por mi larga y luminosa — y aún más larga — confianza —"
+      ],
+      [
+        "I drop my Heart - unshriven!",
+        "¡dejo caer el Corazón — sin absolución!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "La voz ensaya mentalmente el perdón como si pudiera alcanzarlo por insistencia. Las comillas introducen distancia ante el vocabulario religioso; el desenlace «unshriven» frustra la expectativa de absolución."
+      },
+      {
+        "line": 8,
+        "title": "Sparrow",
+        "body": "Alusión posible a Mateo 10:29–31, donde ni los gorriones quedan fuera del cuidado providencial."
+      },
+      {
+        "line": 16,
+        "title": "Unshriven",
+        "body": "Sin absolución sacramental: la última palabra contradice la esperanza repetida de ser «forgiven»."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J237, pp. 108 (paginación impresa). Texto cotejado con el PDF Johnson; correspondencia Franklin y variantes pendientes."
+  },
+  "J238": {
+    "id": "J238",
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "Kill your Balm - and its Odors bless you -",
+    "titleES": "Matá tu bálsamo",
+    "stanzaBreaks": [
+      4
+    ],
+    "lines": [
+      [
+        "Kill your Balm - and its Odors bless you -",
+        "Matá tu Bálsamo — y sus Aromas te bendecirán —"
+      ],
+      [
+        "Bare your Jessamine - to the storm -",
+        "Exponé tu Jazmín — a la tormenta —"
+      ],
+      [
+        "And she will fling her maddest perfume -",
+        "y arrojará su perfume más enloquecido —"
+      ],
+      [
+        "Haply - your Summer night to Charm -",
+        "quizás — para hechizar tu noche de Verano —"
+      ],
+      [
+        "Stab the Bird - that built in your bosom -",
+        "Apuñalá al Pájaro — que anidó en tu pecho —"
+      ],
+      [
+        "Oh, could you catch her last Refrain -",
+        "Ah, si pudieras atrapar su último Estribillo —"
+      ],
+      [
+        "Bubble! \"forgive\" - \"Some better\" - Bubble!",
+        "¡Burbujea! «perdoná» — «algo mejor» — ¡Burbujea!"
+      ],
+      [
+        "\"Carol for Him - when I am gone\"!",
+        "«Cantá para Él — cuando yo me haya ido»"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "La paradoja organiza el poema: la violencia libera perfume y canto. No implica una celebración literal del daño; explora cómo una voz puede imaginar la belleza como residuo de una destrucción."
+      },
+      {
+        "line": 2,
+        "title": "Jessamine",
+        "body": "Forma inglesa de jasmine, jazmín. La flor expuesta al temporal intensifica el motivo del aroma arrancado por la violencia."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J238, pp. 109 (paginación impresa). Texto cotejado con el PDF Johnson; correspondencia Franklin y variantes pendientes."
+  },
+  "J239": {
+    "id": "J239",
+    "approx": "c. 1861 (Johnson)",
+    "incipit": "\"Heaven\" - is what I cannot reach!",
+    "titleES": "«Cielo» es lo que no puedo alcanzar",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "lines": [
+      [
+        "\"Heaven\" - is what I cannot reach!",
+        "¡«Cielo» es lo que no puedo alcanzar!"
+      ],
+      [
+        "The Apple on the Tree -",
+        "La Manzana en el Árbol —"
+      ],
+      [
+        "Provided it do hopeless - hang -",
+        "siempre que cuelgue — sin esperanza —"
+      ],
+      [
+        "That - \"Heaven\" is - to Me!",
+        "¡eso — es «Cielo» — para mí!"
+      ],
+      [
+        "The Color, on the Cruising Cloud -",
+        "El Color, sobre la Nube que navega —"
+      ],
+      [
+        "The interdicted Land -",
+        "La Tierra prohibida —"
+      ],
+      [
+        "Behind the Hill - the House behind -",
+        "Detrás de la Colina — la Casa de más allá —"
+      ],
+      [
+        "There - Paradise - is found!",
+        "¡Allí — se encuentra el Paraíso!"
+      ],
+      [
+        "Her teasing Purples - Afternoons -",
+        "Sus Púrpuras provocadoras — las Tardes —"
+      ],
+      [
+        "The credulous - decoy -",
+        "el crédulo — señuelo —"
+      ],
+      [
+        "Enamored - of the Conjuror -",
+        "Enamorado — del Prestidigitador —"
+      ],
+      [
+        "That spurned us - Yesterday!",
+        "¡que nos rechazó — Ayer!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comentario de lectura",
+        "body": "El cielo se redefine como lo inaccesible: manzana, horizonte, casa escondida. La distancia produce el deseo y el poema desconfía de la promesa de quien exhibe y retira sus maravillas."
+      },
+      {
+        "line": 10,
+        "title": "Decoy / Conjuror",
+        "body": "El lenguaje del señuelo y del prestidigitador convierte la belleza del paisaje en una seducción ambigua, no en garantía teológica."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J239, pp. 109 (paginación impresa). Texto cotejado con el PDF Johnson; correspondencia Franklin y variantes pendientes."
+  },
   "J249": {
     "id": "J249",
     "franklin": "F269",
