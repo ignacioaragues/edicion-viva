@@ -1648,12 +1648,37 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All seven chapters and Amen published. Latin from digital Tractatus LXXII, printed PL54 collation pending. Digital text has parenthetical duplication in chapter II and problematic parenthetical in chapter IV; retain pending print verification. Complete contextual morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 73,
+      "section": "Sermo LXXIII · De Ascensione Domini I · capita I–IV",
+      "paragraphs": 13,
+      "aligned_units": 13,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "translation": "complete original Spanish first-pass aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxiii/index.html",
+      "voice_notes": 7,
+      "lexical_coverage": "18 selective contextual morphological cards; exhaustive word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "All four chapters and final Amen published. Latin compared with digital Tractatus LXXIII; suspicious 'effi fractione' and 'lauceae' readings retained pending PL54 printed collation. Full contextual morphology, shared Latin dictionary integration and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 70,
-    "beginning": "Sermo LXX caput III: Quid autem illud fuit quod et Judaeis intellectum abstulit; complete III–VI and Amen"
+    "number": 74,
+    "section": "Caput I",
+    "note": "Sermo LXXIV De Ascensione Domini II; complete entire sermon if possible. Sermo LXXIII first-pass complete; critical review remains."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-22: Sermo LXX chapters I–II published as partial, seven aligned units; remaining III–VI.",
