@@ -2658,12 +2658,25 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/25",
         "https://tips.translation.bible/story/translation-commentary-on-mark-925/"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 26,
+      "to": 26,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "16/16 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/9",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/26",
+        "https://greeknewtestament.net/mk9-26"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,26; revisión filológica retrospectiva y Vulgata opcional pendientes.",
+  "pending": "Continuar Marcos 9,27; revisión filológica retrospectiva y Vulgata opcional pendientes.",
   "next": {
     "chapter": 9,
-    "verse": 26
+    "verse": 27
   },
   "last_edit": "2026-11-22",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -5600,6 +5613,17 @@
       "https://biblia.com/bible/sblgnt/mark/9/25",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/25",
       "https://tips.translation.bible/story/translation-commentary-on-mark-925/"
+    ]
+  },
+  "prepublication_research_9_26": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "16/16",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/9",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/26",
+      "https://greeknewtestament.net/mk9-26"
     ]
   }
 }
