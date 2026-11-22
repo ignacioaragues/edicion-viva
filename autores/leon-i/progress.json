@@ -1423,43 +1423,41 @@
     {
       "group": "sermones",
       "number": 64,
-      "section": "Sermo LXIV · De Passione Domini XIII · caput I only",
-      "paragraphs": 3,
-      "aligned_units": 3,
+      "section": "Sermo LXIV · De Passione Domini XIII · capita I–IV",
+      "paragraphs": 15,
+      "aligned_units": 15,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4
       ],
       "total_chapters": 4,
-      "translation": "partial first-pass original Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxiv/index.html",
-      "voice_notes": 4,
-      "lexical_coverage": "7 selective entries; contextual word-by-word morphology pending",
+      "voice_notes": 10,
+      "lexical_coverage": "27 selective contextual lexical entries; exhaustive word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Only chapter I published; digital Tractatus LXIV transcription, no printed PL54 collation; chapters II–IV and final Amen pending."
+      "editorial_caveat": "Four chapters and Amen published from public Tractatus LXIV Latin transcription. Digital source has suspect biblical reference Rom. XV,20 (correct Rom. V,20), and odd syntax in chapter III; printed PL54 collation, exhaustive morphology, shared dictionary and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 64,
-    "section": "Caput II",
-    "note": "Continue at 'Scimus etenim, dilectissimi'; chapters II–IV and final Amen outstanding."
+    "number": 65,
+    "section": "Sermo LXV, caput I"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-22",
+  "last_edit": "2026-11-22: Sermo LXIV chapters II–IV and Amen completed in first-pass aligned translation; critical audit pending.",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 64,
-    "status": "partial",
-    "next_section": "Caput II · Scimus etenim, dilectissimi",
-    "published_chapters": [
-      1
-    ],
-    "total_chapters": 4
+    "number": 65,
+    "status": "not_started",
+    "next": "Sermo LXV caput I"
   },
   "priority_queue": [
     {
