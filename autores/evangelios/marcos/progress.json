@@ -3093,12 +3093,24 @@
         "https://biblia.com/bible/sblgnt/mark/10/16-22",
         "https://truthaccordingtoscripture.com/commentaries/cgt/mark-10.php"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 17,
+      "to": 17,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "20/20 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
+      ]
     }
   ],
   "pending": "Continuar Marcos 10,17; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 17
+    "verse": 18
   },
   "last_edit": "2026-11-24",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -6435,6 +6447,16 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://truthaccordingtoscripture.com/commentaries/cgt/mark-10.php"
+    ]
+  },
+  "prepublication_research_10_17": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "20/20",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt"
     ]
   }
 }
