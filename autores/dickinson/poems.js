@@ -29648,5 +29648,389 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     }
   ],
   "interpretation": "La forja ofrece una imagen del proceso espiritual sin prometer mansedumbre: la intensidad final rechaza incluso el instrumento que la produjo."
+},
+{
+  "id": "J366",
+  "approx": "1862",
+  "incipit": "Although I put away his life",
+  "stanzaBreaks": [
+    12,
+    21,
+    28
+  ],
+  "lines": [
+    [
+      "Although I put away his life –",
+      "Aunque aparté su vida –"
+    ],
+    [
+      "An Ornament too grand",
+      "un adorno demasiado grandioso"
+    ],
+    [
+      "For Forehead low as mine, to wear,",
+      "para una frente tan humilde como la mía,"
+    ],
+    [
+      "This might have been the Hand",
+      "esta podría haber sido la mano"
+    ],
+    [
+      "That sowed the flower, he preferred –",
+      "que sembrara la flor que él prefería –"
+    ],
+    [
+      "Or smoothed a homely pain,",
+      "o aliviara un dolor doméstico,"
+    ],
+    [
+      "Or pushed the pebble from his path –",
+      "o quitara una piedra de su camino –"
+    ],
+    [
+      "Or played his chosen tune –",
+      "o tocara su melodía elegida –"
+    ],
+    [
+      "On Lute the least – the latest –",
+      "en el laúd más pequeño, el más reciente –"
+    ],
+    [
+      "But just his Ear could know",
+      "pero solo su oído sabría"
+    ],
+    [
+      "That whatsoe'er delighted it,",
+      "que aquello que le diera placer,"
+    ],
+    [
+      "I never would let go –",
+      "yo nunca lo dejaría escapar –"
+    ],
+    [
+      "The foot to bear his errand –",
+      "el pie que llevara sus encargos –"
+    ],
+    [
+      "A little Boot I know –",
+      "una botita que conozco –"
+    ],
+    [
+      "Would leap abroad like Antelope –",
+      "saltaría afuera como un antílope –"
+    ],
+    [
+      "With just the grant to do –",
+      "con solo recibir permiso para cumplir –"
+    ],
+    [
+      "His weariest Commandment –",
+      "su mandato más fatigoso –"
+    ],
+    [
+      "A sweeter to obey,",
+      "más dulce de obedecer"
+    ],
+    [
+      "Than \"Hide and Seek\" –",
+      "que jugar a las escondidas –"
+    ],
+    [
+      "Or skip to Flutes –",
+      "o brincar al son de las flautas –"
+    ],
+    [
+      "Or All Day, chase the Bee –",
+      "o perseguir a la abeja todo el día –"
+    ],
+    [
+      "Your Servant, Sir, will weary –",
+      "Tu sirviente, señor, se cansará –"
+    ],
+    [
+      "The Surgeon, will not come –",
+      "el cirujano no vendrá –"
+    ],
+    [
+      "The World, will have its own – to do –",
+      "el mundo tendrá sus propios asuntos –"
+    ],
+    [
+      "The Dust, will vex your Fame –",
+      "el polvo importunará tu fama –"
+    ],
+    [
+      "The Cold will force your tightest door",
+      "el frío forzará tu puerta mejor cerrada"
+    ],
+    [
+      "Some February Day,",
+      "algún día de febrero,"
+    ],
+    [
+      "But say my apron bring the sticks",
+      "pero dejá que mi delantal lleve la leña"
+    ],
+    [
+      "To make your Cottage gay –",
+      "para alegrar tu cabaña –"
+    ],
+    [
+      "That I may take that promise",
+      "para que pueda llevar esa promesa"
+    ],
+    [
+      "To Paradise, with me –",
+      "conmigo al Paraíso –"
+    ],
+    [
+      "To teach the Angels, avarice,",
+      "para enseñarles a los ángeles la avaricia,"
+    ],
+    [
+      "You, Sir, taught first – to me.",
+      "que vos, señor, me enseñaste primero."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Apartar una vida",
+      "body": "La renuncia inicial no elimina el deseo de servir; la voz imagina una intimidad de gestos mínimos."
+    },
+    {
+      "line": 32,
+      "title": "Avarice",
+      "body": "La avaricia del cierre transforma la devoción en deseo de posesión exclusiva, incluso en el Paraíso."
+    }
+  ],
+  "interpretation": "El poema contrapone la distancia de una relación imposible y la proximidad imaginada de los cuidados cotidianos. La servidumbre amorosa termina en una paradoja: querer conservar hasta en el cielo una forma terrenal de apego.",
+  "franklin": "Pendiente de cotejo",
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J366, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+  "titleES": "Although I put away his life"
+},
+{
+  "id": "J367",
+  "approx": "1862",
+  "incipit": "Over and over, like a Tune",
+  "stanzaBreaks": [
+    4
+  ],
+  "lines": [
+    [
+      "Over and over, like a Tune –",
+      "Una y otra vez, como una melodía –"
+    ],
+    [
+      "The Recollection plays –",
+      "suena el recuerdo –"
+    ],
+    [
+      "Drums off the Phantom Battlements",
+      "tambores desde las almenas fantasmales"
+    ],
+    [
+      "Comets of Paradise –",
+      "cometas del Paraíso –"
+    ],
+    [
+      "Snatches, from Baptized Generations –",
+      "fragmentos de generaciones bautizadas –"
+    ],
+    [
+      "Cadences too grand",
+      "cadencias demasiado grandiosas"
+    ],
+    [
+      "But for the Justified Processions",
+      "salvo para las procesiones de los justificados"
+    ],
+    [
+      "At the Lord's Right hand.",
+      "a la diestra del Señor."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Phantom Battlements",
+      "body": "La memoria adquiere una arquitectura militar espectral: se oye una ceremonia cuya fuente ya no está presente."
+    },
+    {
+      "line": 7,
+      "title": "Justified",
+      "body": "Término con resonancia teológica protestante: los justificados son quienes han sido declarados justos ante Dios."
+    }
+  ],
+  "interpretation": "La repetición musical del recuerdo se amplifica hasta una liturgia celeste. El poema no identifica qué se recuerda; deja que la escala de sus imágenes transforme una experiencia íntima en ceremonia.",
+  "franklin": "Pendiente de cotejo",
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J367, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+  "titleES": "Over and over, like a Tune"
+},
+{
+  "id": "J368",
+  "approx": "1862",
+  "incipit": "How sick – to wait – in any place – but thine",
+  "stanzaBreaks": [
+    6
+  ],
+  "lines": [
+    [
+      "How sick – to wait – in any place – but thine –",
+      "Qué enfermo resulta esperar en cualquier lugar que no sea el tuyo –"
+    ],
+    [
+      "I knew last night – when Someone tried to twine –",
+      "lo supe anoche, cuando alguien intentó enlazarse –"
+    ],
+    [
+      "Thinking – perhaps – that I looked tired – or alone –",
+      "pensando, quizá, que parecía cansada o sola –"
+    ],
+    [
+      "Or breaking – almost – with unspoken pain –",
+      "o a punto de quebrarme por un dolor no dicho –"
+    ],
+    [
+      "And I turned – ducal –",
+      "y me volví – ducal –"
+    ],
+    [
+      "That right – was thine –",
+      "ese derecho era tuyo –"
+    ],
+    [
+      "One port – suffices – for a Brig – like mine –",
+      "un solo puerto basta para un bergantín como el mío –"
+    ],
+    [
+      "Ours be the tossing – wild though the sea –",
+      "que nuestra sea la sacudida, por bravo que esté el mar –"
+    ],
+    [
+      "Rather than a Mooring – unshared by thee",
+      "antes que un amarre que no compartas"
+    ],
+    [
+      "Ours be the Cargo – unladen – here –",
+      "que nuestra sea la carga, aquí sin desembarcar –"
+    ],
+    [
+      "Rather than the \"spicy isles –\"",
+      "antes que las «islas de especias –»"
+    ],
+    [
+      "And thou – not there –",
+      "si vos no estás allí –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Ducal",
+      "body": "El adjetivo condensa una dignidad aristocrática: la hablante rechaza una intimidad que considera reservada a otra persona."
+    },
+    {
+      "line": 7,
+      "title": "Brig",
+      "body": "Un bergantín es un velero de dos mástiles; el puerto y el amarre construyen una alegoría de fidelidad."
+    }
+  ],
+  "interpretation": "La voz prefiere la intemperie compartida a cualquier seguridad sin el ser amado. El contraste entre navegación arriesgada y paraísos comerciales deshabitados por el tú da al poema su fuerza de elección.",
+  "franklin": "Pendiente de cotejo",
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J368, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+  "titleES": "How sick – to wait – in any place – but thine"
+},
+{
+  "id": "J369",
+  "approx": "1862",
+  "incipit": "She lay as if at play",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "lines": [
+    [
+      "She lay as if at play",
+      "Yacía como si jugara"
+    ],
+    [
+      "Her life had leaped away –",
+      "su vida había saltado lejos –"
+    ],
+    [
+      "Intending to return –",
+      "con intención de regresar –"
+    ],
+    [
+      "But not so soon –",
+      "pero no tan pronto –"
+    ],
+    [
+      "Her merry Arms, half dropt –",
+      "sus brazos alegres, medio caídos –"
+    ],
+    [
+      "As if for lull of sport –",
+      "como si en una pausa del juego –"
+    ],
+    [
+      "An instant had forgot –",
+      "hubieran olvidado por un instante –"
+    ],
+    [
+      "The Trick to start –",
+      "el truco de ponerse en marcha –"
+    ],
+    [
+      "Her dancing Eyes – ajar –",
+      "sus ojos danzarines, entreabiertos –"
+    ],
+    [
+      "As if their Owner were",
+      "como si su dueña siguiera"
+    ],
+    [
+      "Still sparkling through",
+      "centelleando todavía a través de ellos"
+    ],
+    [
+      "For fun – at you –",
+      "por diversión, hacia vos –"
+    ],
+    [
+      "Her Morning at the door –",
+      "su mañana estaba a la puerta –"
+    ],
+    [
+      "Devising, I am sure –",
+      "tramando, estoy segura –"
+    ],
+    [
+      "To force her sleep –",
+      "cómo romper su sueño –"
+    ],
+    [
+      "So light – so deep –",
+      "tan ligero, tan profundo –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Life had leaped away",
+      "body": "La vida aparece como un agente móvil que se ha alejado del cuerpo; la imagen evita nombrar directamente la muerte."
+    },
+    {
+      "line": 16,
+      "title": "Light / deep",
+      "body": "La contradicción final conserva a la vez la apariencia de un sueño leve y la irreversibilidad de la muerte."
+    }
+  ],
+  "interpretation": "La descripción del cuerpo muerto insiste en señales de vitalidad: juego, movimiento, mirada y mañana. El lector advierte la muerte precisamente por la imposibilidad de que esas promesas se cumplan.",
+  "franklin": "Pendiente de cotejo",
+  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J369, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+  "titleES": "She lay as if at play"
 }
 });
