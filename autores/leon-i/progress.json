@@ -1726,12 +1726,14 @@
     {
       "group": "sermones",
       "number": 76,
-      "section": "Sermo LXXVI · De Pentecoste II · capita I–II of IX",
-      "paragraphs": 8,
-      "aligned_units": 8,
+      "section": "Sermo LXXVI · De Pentecoste II · capita I–IV of IX",
+      "paragraphs": 14,
+      "aligned_units": 14,
       "published_chapters": [
         1,
-        2
+        2,
+        3,
+        4
       ],
       "total_chapters": 9,
       "translation": "partial original Spanish aligned translation",
@@ -1739,11 +1741,11 @@
       "translation_complete": false,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxvi/index.html",
-      "voice_notes": 5,
-      "lexical_coverage": "10 selective contextual entries; exhaustive word-by-word morphology pending",
+      "voice_notes": 8,
+      "lexical_coverage": "18 selective contextual entries; exhaustive word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–II published. Digital Latin transcription checked; printed PL54 collation, full morphology, dictionary integration and browser QA pending. Resume chapter III at Fundata igitur, dilectissimi, hac fide in cordibus nostris."
+      "editorial_caveat": "Chapters I–IV published. Resume V at Sed illi perfectioni, quae erat discipulis conferenda. Chapters V–IX pending. Digital Latin checked against Tractatus LXXVI; printed PL54 collation, full morphology, dictionary integration and browser QA pending."
     }
   ],
   "next": "Sermo LXXV caput II, Nam sicut apostolica testatur historia; finish chapters II–V before Sermo LXXVI",
