@@ -2920,12 +2920,25 @@
         "https://sermonindex.net/commentary/cambridgegreek/MRK/9/",
         "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/9/50"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 1,
+      "to": 1,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "25/25 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://biblia.com/bible/sblgnt/mark/10",
+        "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/10/1",
+        "https://tips.translation.bible/story/translation-commentary-on-mark-101/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,49; segunda revisión filológica retrospectiva pendiente.",
+  "pending": "Continuar Marcos 10,2; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 1
+    "verse": 2
   },
   "last_edit": "2026-11-23: Marcos 9,50, 21 fichas posicionales; segunda revisión pendiente.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -6104,6 +6117,17 @@
       "https://www.thekoinebible.com/text/sblgnt/mark/09.html",
       "https://sermonindex.net/commentary/cambridgegreek/MRK/9/",
       "https://www.bibliaplus.org/en/commentaries/326/expositors-greek-testament-nicoll/mark/9/50"
+    ]
+  },
+  "prepublication_research_10_1": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "25/25",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/10",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/10/1",
+      "https://tips.translation.bible/story/translation-commentary-on-mark-101/"
     ]
   }
 }
