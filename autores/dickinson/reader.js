@@ -197,10 +197,19 @@
       });
       document.title = id + ' · ' + poems[id].incipit + ' — Emily Dickinson · Edición Viva';
     };
-    window.addEventListener('hashchange', () => {
+    document.addEventListener('click', event => {
+      const link = event.target.closest('a[href^="#J"]');
+      if (!link || !library.contains(link) && !document.getElementById('dickinson-poem-index')?.contains(link) && !navigation.contains(link)) return;
+      const target = decodeURIComponent(link.hash.slice(1));
+      if (!ids.includes(target)) return;
+      event.preventDefault();
+      const y = window.scrollY;
+      history.pushState({ poem: target }, '', '#' + target);
       display();
-      // Conservar la posición del lector: el cambio de poema no salta al encabezado.
+      window.scrollTo(0, y);
     });
+    window.addEventListener('popstate', display);
+    window.addEventListener('hashchange', display);
     display();
   }
   const layout = document.getElementById('dickinson-reader-layout');
