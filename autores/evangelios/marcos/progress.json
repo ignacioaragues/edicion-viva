@@ -2895,12 +2895,25 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/9/45"
       ]
+    },
+    {
+      "chapter": 9,
+      "from": 47,
+      "to": 47,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "27/27 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-9.php",
+        "https://tips.translation.bible/tip_source/translators-notes-on-mark-sil-international-translation-resources-2008/page/65/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 9,47; 9,46 no figura en SBLGNT. Segunda revisión pendiente.",
+  "pending": "Continuar Marcos 9,48; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 9,
-    "verse": 47
+    "verse": 48
   },
   "last_edit": "2026-11-23",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -6035,5 +6048,17 @@
     "morphology_audit": "26/26",
     "second_passage_review": "pending",
     "latin": "optional_pending"
+  },
+  "prepublication_research_9_47": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "27/27",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-9.php",
+      "https://tips.translation.bible/tip_source/translators-notes-on-mark-sil-international-translation-resources-2008/page/65/"
+    ]
   }
 }
