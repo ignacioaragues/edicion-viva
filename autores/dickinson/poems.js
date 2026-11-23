@@ -24590,6 +24590,63 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J323": {
+    "id": "J323",
+    "franklin": null,
+    "approx": "c. 1858–1861 (según Johnson)",
+    "incipit": "As if I asked a common Alms –",
+    "titleES": "Como si pidiera una limosna corriente,",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Johnson, The Complete Poems, J323, p. 153. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "As if I asked a common Alms,",
+        "Como si pidiera una limosna corriente,"
+      ],
+      [
+        "And in my wondering hand",
+        "y en mi mano asombrada"
+      ],
+      [
+        "A Stranger pressed a Kingdom,",
+        "un Desconocido depositara un Reino,"
+      ],
+      [
+        "And I, bewildered, stand –",
+        "y yo quedara, desconcertada —"
+      ],
+      [
+        "As if I asked the Orient",
+        "Como si preguntara al Oriente"
+      ],
+      [
+        "Had it for me a Morn –",
+        "si tenía para mí una Mañana —"
+      ],
+      [
+        "And it should lift its purple Dikes,",
+        "y levantara sus Diques purpúreos,"
+      ],
+      [
+        "And shatter me with Dawn!",
+        "¡y me hiciera pedazos con el Alba!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La desproporción del don",
+        "body": "La limosna solicitada se transforma en un reino inesperado: el poema presenta la abundancia como una experiencia capaz de desorientar a quien la recibe."
+      },
+      {
+        "line": 7,
+        "title": "Diques purpúreos",
+        "body": "La imagen imagina el amanecer como una fuerza retenida que irrumpe violentamente. «Shatter» no suaviza el don: recibir la luz implica también quedar deshecha."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
@@ -24686,6 +24743,102 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "line": 12,
         "title": "El Cielo en presente",
         "body": "La oposición entre «at last» y «all along» cambia la salvación diferida por una experiencia continua. El texto no obliga a identificar cielo con jardín de manera literal; la oración final puede ser una provocación teológica."
+      }
+    ]
+  },
+  "J325": {
+    "id": "J325",
+    "franklin": null,
+    "approx": "c. 1858–1861 (según Johnson)",
+    "incipit": "Of Tribulation – these are They –",
+    "titleES": "De la Tribulación — estos son Aquellos —",
+    "stanzaBreaks": [
+      4,
+      8,
+      14
+    ],
+    "source": "Johnson, The Complete Poems, J325, p. 154. Correspondencia Franklin pendiente de cotejo.",
+    "lines": [
+      [
+        "Of Tribulation – these are They –",
+        "De la Tribulación — estos son Aquellos —"
+      ],
+      [
+        "Denoted by the White –",
+        "señalados por el Blanco —"
+      ],
+      [
+        "The Spangled Gowns, a lesser Rank",
+        "Los Vestidos centelleantes, un Rango menor"
+      ],
+      [
+        "Of Victors – designate –",
+        "de Vencedores — designan —"
+      ],
+      [
+        "All these – did conquer –",
+        "Todos estos — vencieron —"
+      ],
+      [
+        "But the ones who overcame most times –",
+        "pero quienes más veces prevalecieron —"
+      ],
+      [
+        "Wear nothing commoner than Snow –",
+        "no visten nada más ordinario que la Nieve —"
+      ],
+      [
+        "No Ornament, but Palms –",
+        "ningún Adorno, salvo Palmas —"
+      ],
+      [
+        "Surrender – is a sort unknown –",
+        "La Rendición — es una especie desconocida —"
+      ],
+      [
+        "On this superior soil –",
+        "en esta tierra superior —"
+      ],
+      [
+        "Defeat – an outgrown Anguish –",
+        "La Derrota — una Angustia ya superada —"
+      ],
+      [
+        "Remembered, as the Mile",
+        "recordada como la Milla"
+      ],
+      [
+        "Our panting Ankle barely passed –",
+        "que nuestro Tobillo jadeante apenas recorrió —"
+      ],
+      [
+        "When Night devoured the Road –",
+        "cuando la Noche devoraba el Camino —"
+      ],
+      [
+        "But we – stood whispering in the House –",
+        "Pero nosotros — susurrábamos de pie en la Casa —"
+      ],
+      [
+        "And all we said – was \"Saved\"!",
+        "y todo cuanto dijimos — fue «¡Salvados!»"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Tribulación y vestiduras blancas",
+        "body": "La imaginería remite al Apocalipsis 7:13–14, donde quienes atravesaron la gran tribulación aparecen vestidos de blanco. El poema introduce una jerarquía paradójica entre vencedores."
+      },
+      {
+        "line": 8,
+        "title": "Palmas",
+        "body": "Las palmas evocan la victoria y también la iconografía de los mártires; el premio es despojado de ostentación."
+      },
+      {
+        "line": 15,
+        "title": "La casa y la salvación",
+        "body": "La última escena desplaza el lenguaje heroico hacia una intimidad colectiva: la victoria solo se pronuncia en un susurro."
       }
     ]
   },
