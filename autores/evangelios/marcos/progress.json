@@ -2933,14 +2933,21 @@
         "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/10/1",
         "https://tips.translation.bible/story/translation-commentary-on-mark-101/"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 3,
+      "to": 3,
+      "status": "edited_not_revised",
+      "source": "https://biblia.com/bible/sblgnt/mark/10"
     }
   ],
   "pending": "Continuar Marcos 10,3; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 3
+    "verse": 4
   },
-  "last_edit": "2026-11-23: Marcos 10,2; 10 fichas posicionales, notas sobre sujeto textual e interrogativa indirecta; segunda revisión pendiente.",
+  "last_edit": "2026-11-23: Marcos 10,3; 9 fichas posicionales cotejadas con MorphGNT; notas sobre ἐνετείλατο y la réplica; segunda revisión pendiente.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6139,6 +6146,18 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://classic.net.bible.org/passage.php?mode=print&passage=Mar+10%3A2&theme=false"
+    ]
+  },
+  "prepublication_research_10_3": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "9/9",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://biblia.com/bible/sblgnt/mark/10",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/10/3",
+      "https://biblehub.com/commentaries/egt/mark/10.htm"
     ]
   }
 }
