@@ -2070,31 +2070,27 @@
     {
       "group": "sermones",
       "number": 93,
-      "section": "Sermo XCIII · De jejunio septimi mensis VIII · caput I",
-      "paragraphs": 4,
-      "aligned_units": 4,
+      "section": "Sermo XCIII · De jejunio septimi mensis VIII · capita I–III",
+      "paragraphs": 10,
+      "aligned_units": 10,
       "published_chapters": [
-        1
+        1,
+        2,
+        3
       ],
       "total_chapters": 3,
-      "complete_work": false,
-      "translation_complete": false,
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-xciii/index.html",
-      "voice_notes": 4,
-      "lexical_coverage": "13 contextual forms; other tokens link to Logeion",
+      "voice_notes": 7,
+      "lexical_coverage": "27 selected contextual forms; remaining tokens link to Logeion",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Caput I translated through end; II–III not yet published. Digital Tractatus XCIII checked; printed PL54, exhaustive morphology and browser QA pending."
+      "editorial_caveat": "All three chapters through Amen translated in first pass against public Latin transcription; independent printed PL54 collation, exhaustive contextual morphology, shared dictionary and browser QA pending."
     }
   ],
-  "next": {
-    "group": "sermones",
-    "number": 93,
-    "section": "caput II",
-    "incipit": "Abstinendum est itaque, dilectissimi",
-    "instruction": "Complete remaining chapters II–III through Amen; do not mark complete until published."
-  },
+  "next": "Sermo XCIV, caput I; verify actual corpus before adding; review outstanding morphology and PL54 collation",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
