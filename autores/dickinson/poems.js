@@ -27970,5 +27970,528 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
       }
     ]
-  }
+  },
+  "J344": {
+  "id": "J344",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "'Twas the old – road – through pain –",
+  "titleES": "Era el viejo camino del dolor,",
+  "stanzaBreaks": [
+    4,
+    11,
+    16
+  ],
+  "source": "Johnson, The Complete Poems, J344; texto cotejado con la edición facilitada, páginas impresas 163–164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "'Twas the old – road – through pain –",
+      "Era el viejo camino del dolor,"
+    ],
+    [
+      "That unfrequented – one –",
+      "aquel tan poco transitado,"
+    ],
+    [
+      "With many a turn – and thorn –",
+      "con tantas curvas y espinas,"
+    ],
+    [
+      "That stops – at Heaven –",
+      "que termina en el Cielo."
+    ],
+    [
+      "This – was the Town – she passed –",
+      "Esta fue la ciudad que atravesó;"
+    ],
+    [
+      "There – where she – rested – last –",
+      "allí descansó por última vez,"
+    ],
+    [
+      "Then – stepped more fast –",
+      "después apresuró el paso."
+    ],
+    [
+      "The little tracks – close prest –",
+      "Las pequeñas huellas, muy juntas;"
+    ],
+    [
+      "Then – not so swift –",
+      "luego, ya no tan rápidas."
+    ],
+    [
+      "Slow – slow – as feet did weary – grow –",
+      "Despacio, despacio, al cansarse los pies;"
+    ],
+    [
+      "Then – stopped – no other track!",
+      "después se detuvieron: ¡ni una huella más!"
+    ],
+    [
+      "Wait! Look! Her little Book –",
+      "¡Esperá! ¡Mirá! Su librito,"
+    ],
+    [
+      "The leaf – at love – turned back –",
+      "con la página vuelta hacia el amor;"
+    ],
+    [
+      "Her very Hat –",
+      "su propio sombrero,"
+    ],
+    [
+      "And this worn shoe just fits the track –",
+      "y este zapato gastado encaja en la huella."
+    ],
+    [
+      "Herself – though – fled!",
+      "¡Pero ella ha huido!"
+    ],
+    [
+      "Another bed – a short one –",
+      "Otra cama, una pequeña,"
+    ],
+    [
+      "Women make – tonight –",
+      "preparan unas mujeres esta noche"
+    ],
+    [
+      "In Chambers bright –",
+      "en cámaras luminosas,"
+    ],
+    [
+      "Too out of sight – though –",
+      "aunque demasiado lejos de la vista"
+    ],
+    [
+      "For our hoarse Good Night –",
+      "para que nuestro ronco buenas noches"
+    ],
+    [
+      "To touch her Head!",
+      "alcance a tocarle la cabeza."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+    }
+  ]
+},
+  "J345": {
+  "id": "J345",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "Funny – to be a Century –",
+  "titleES": "Qué curioso ser un siglo",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J345; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "Funny – to be a Century –",
+      "Qué curioso ser un siglo"
+    ],
+    [
+      "And see the People – going by –",
+      "y ver pasar a la gente."
+    ],
+    [
+      "I – should die of the Oddity –",
+      "Yo moriría de tanta rareza,"
+    ],
+    [
+      "But then – I'm not so staid – as He –",
+      "pero no soy tan impasible como él."
+    ],
+    [
+      "He keeps His Secrets safely – very –",
+      "Guarda sus secretos con mucho cuidado;"
+    ],
+    [
+      "Were He to tell – extremely sorry",
+      "si los contara, cuánto lo lamentaría"
+    ],
+    [
+      "This Bashful Globe of Ours would be –",
+      "este tímido globo nuestro,"
+    ],
+    [
+      "So dainty of Publicity –",
+      "tan delicado ante la publicidad."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+    }
+  ]
+},
+  "J346": {
+  "id": "J346",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "Not probable – The barest Chance –",
+  "titleES": "No es probable: apenas una posibilidad.",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Johnson, The Complete Poems, J346; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "Not probable – The barest Chance –",
+      "No es probable: apenas una posibilidad."
+    ],
+    [
+      "A smile too few – a word too much",
+      "Una sonrisa de menos, una palabra de más,"
+    ],
+    [
+      "And far from Heaven as the Rest –",
+      "y tan lejos del Cielo como los demás,"
+    ],
+    [
+      "The Soul so close on Paradise –",
+      "el alma tan cerca del Paraíso."
+    ],
+    [
+      "What if the Bird from journey far –",
+      "¿Y si el ave, llegada de tan lejos,"
+    ],
+    [
+      "Confused by Sweets – as Mortals – are –",
+      "confundida por dulzuras, como los mortales,"
+    ],
+    [
+      "Forget the secret of His wing",
+      "olvidara el secreto de su ala"
+    ],
+    [
+      "And perish – but a Bough between –",
+      "y pereciera, con una sola rama de por medio?"
+    ],
+    [
+      "Oh, Groping feet –",
+      "¡Oh, pies que tantean!"
+    ],
+    [
+      "Oh Phantom Queen!",
+      "¡Oh, reina fantasmal!"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+    }
+  ]
+},
+  "J347": {
+  "id": "J347",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "When Night is almost done –",
+  "titleES": "Cuando la noche casi ha terminado",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J347; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "When Night is almost done –",
+      "Cuando la noche casi ha terminado"
+    ],
+    [
+      "And Sunrise grows so near",
+      "y el amanecer está tan cerca"
+    ],
+    [
+      "That we can touch the Spaces –",
+      "que podemos tocar los espacios,"
+    ],
+    [
+      "It's time to smooth the Hair –",
+      "es hora de alisarse el cabello,"
+    ],
+    [
+      "And get the Dimples ready –",
+      "de preparar los hoyuelos"
+    ],
+    [
+      "And wonder we could care",
+      "y de asombrarnos de haber temido"
+    ],
+    [
+      "For that old – faded Midnight –",
+      "aquella vieja medianoche desvaída"
+    ],
+    [
+      "That frightened – but an Hour –",
+      "que nos asustó apenas una hora."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+    }
+  ]
+},
+  "J348": {
+  "id": "J348",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "I dreaded that first Robin, so,",
+  "titleES": "Temía tanto a aquel primer petirrojo,",
+  "stanzaBreaks": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24
+  ],
+  "source": "Johnson, The Complete Poems, J348; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "I dreaded that first Robin, so,",
+      "Temía tanto a aquel primer petirrojo,"
+    ],
+    [
+      "But He is mastered, now,",
+      "pero ya lo he dominado;"
+    ],
+    [
+      "I'm some accustomed to Him grown,",
+      "me he acostumbrado un poco a él,"
+    ],
+    [
+      "He hurts a little, though –",
+      "aunque todavía duele."
+    ],
+    [
+      "I thought if I could only live",
+      "Pensaba que si lograba sobrevivir"
+    ],
+    [
+      "Till that first Shout got by –",
+      "hasta que pasara aquel primer grito,"
+    ],
+    [
+      "Not all Pianos in the Woods",
+      "ni todos los pianos del bosque"
+    ],
+    [
+      "Had power to mangle me –",
+      "podrían despedazarme."
+    ],
+    [
+      "I dared not meet the Daffodils –",
+      "No me atrevía a encontrar los narcisos,"
+    ],
+    [
+      "For fear their Yellow Gown",
+      "por miedo a que sus vestidos amarillos"
+    ],
+    [
+      "Would pierce me with a fashion",
+      "me atravesaran con una moda"
+    ],
+    [
+      "So foreign to my own –",
+      "tan ajena a la mía."
+    ],
+    [
+      "I wished the Grass would hurry –",
+      "Quería que la hierba se apresurara,"
+    ],
+    [
+      "So – when 'twas time to see –",
+      "para que, al llegar la hora de verla,"
+    ],
+    [
+      "He'd be too tall, the tallest one",
+      "fuera tan alta que ni la más alta"
+    ],
+    [
+      "Could stretch – to look at me –",
+      "pudiera estirarse para mirarme."
+    ],
+    [
+      "I could not bear the Bees should come,",
+      "No soportaba que llegaran las abejas;"
+    ],
+    [
+      "I wished they'd stay away",
+      "deseaba que permanecieran lejos,"
+    ],
+    [
+      "In those dim countries where they go,",
+      "en esos países oscuros adonde van."
+    ],
+    [
+      "What word had they, for me?",
+      "¿Qué mensaje tendrían para mí?"
+    ],
+    [
+      "They're here, though; not a creature failed –",
+      "Pero aquí están: no faltó criatura alguna,"
+    ],
+    [
+      "No Blossom stayed away",
+      "ni una flor dejó de venir"
+    ],
+    [
+      "In gentle deference to me –",
+      "por delicada consideración hacia mí,"
+    ],
+    [
+      "The Queen of Calvary –",
+      "la reina del Calvario."
+    ],
+    [
+      "Each one salutes me, as he goes,",
+      "Cada una me saluda al pasar,"
+    ],
+    [
+      "And I, my childish Plumes,",
+      "y yo levanto mis infantiles plumas"
+    ],
+    [
+      "Lift, in bereaved acknowledgment",
+      "en reconocimiento enlutado"
+    ],
+    [
+      "Of their unthinking Drums –",
+      "a sus tambores inconscientes."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "El retorno primaveral, lejos de consolar, vuelve audible el duelo: el calendario de la naturaleza no coincide con el tiempo afectivo."
+    }
+  ]
+},
+  "J349": {
+  "id": "J349",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "I had the Glory – that will do –",
+  "titleES": "Tuve la gloria: eso bastará.",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J349; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "I had the Glory – that will do –",
+      "Tuve la gloria: eso bastará."
+    ],
+    [
+      "An Honor, Thought can turn her to",
+      "Un honor al que el pensamiento puede volver"
+    ],
+    [
+      "When lesser Fames invite –",
+      "cuando lo invitan famas menores,"
+    ],
+    [
+      "With one long “Nay” –",
+      "con un largo «No»."
+    ],
+    [
+      "Bliss' early shape",
+      "La forma temprana de la dicha"
+    ],
+    [
+      "Deforming – Dwindling – Gulfing up –",
+      "se deforma, mengua y engulle"
+    ],
+    [
+      "Time's possibility.",
+      "las posibilidades del tiempo."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+    }
+  ]
+},
+  "J350": {
+  "id": "J350",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "They leave us with the Infinite.",
+  "titleES": "Nos dejan con el Infinito.",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Johnson, The Complete Poems, J350; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+  "lines": [
+    [
+      "They leave us with the Infinite.",
+      "Nos dejan con el Infinito."
+    ],
+    [
+      "But He – is not a man –",
+      "Pero él no es un hombre:"
+    ],
+    [
+      "His fingers are the size of fists –",
+      "sus dedos tienen el tamaño de puños,"
+    ],
+    [
+      "His fists, the size of men –",
+      "sus puños, el tamaño de hombres."
+    ],
+    [
+      "And whom he foundeth, with his Arm",
+      "Y aquel a quien afiance con su brazo"
+    ],
+    [
+      "As Himmaleh, shall stand –",
+      "se alzará como el Himalaya;"
+    ],
+    [
+      "Gibraltar's Everlasting Shoe",
+      "el zapato eterno de Gibraltar"
+    ],
+    [
+      "Poised lightly on his Hand,",
+      "reposa ligero en su mano."
+    ],
+    [
+      "So trust him, Comrade –",
+      "Confiá en él, camarada:"
+    ],
+    [
+      "You for you, and I, for you and me",
+      "vos por vos, y yo por vos y por mí."
+    ],
+    [
+      "Eternity is ample,",
+      "La eternidad es vasta"
+    ],
+    [
+      "And quick enough, if true.",
+      "y llega bastante pronto, si es verdadera."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Lectura",
+      "body": "La escala desmesurada del Infinito transforma la confianza en una cuestión de proporciones, no en una certidumbre humana."
+    }
+  ]
+}
 });
