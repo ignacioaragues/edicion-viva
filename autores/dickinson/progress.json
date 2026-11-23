@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 373,
-    "publishedVerses": 5007,
+    "publishedPoems": 377,
+    "publishedVerses": 5061,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -373,6 +373,10 @@
       "J359",
       "J360",
       "J361",
+      "J362",
+      "J363",
+      "J364",
+      "J365",
       "J376",
       "J441",
       "J444",
@@ -386,18 +390,18 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": "J361",
-    "nextJohnsonId": "J362",
+    "completedSequentialThrough": "J365",
+    "nextJohnsonId": "J366",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-24",
-      "result": "J357–J361: 5 poemas completos, 55 versos bilingües y cinco notas. Texto base Johnson pp. 169–171; correspondencias Franklin y variantes pendientes.",
-      "newVersesThisRun": 55
+      "result": "J362–J365: cuatro poemas completos, 54 versos bilingües, ocho notas selectivas. Johnson pp. 171–174; cotejo Franklin y manuscritos pendiente.",
+      "newVersesThisRun": 54
     },
-    "lastConsecutiveJohnsonId": "J361",
-    "lastPublishedBlock": "J357–J361"
+    "lastConsecutiveJohnsonId": "J365",
+    "lastPublishedBlock": "J362–J365"
   },
-  "lastCompletedMilestone": "J361",
-  "nextAction": "Continuar desde J362; objetivo 200 versos por pasada.",
+  "lastCompletedMilestone": "J365",
+  "nextAction": "Continuar desde J366; objetivo 200 versos nuevos por pasada.",
   "updatedOn": "2026-11-24"
 }
