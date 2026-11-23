@@ -28493,5 +28493,212 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       "body": "La escala desmesurada del Infinito transforma la confianza en una cuestión de proporciones, no en una certidumbre humana."
     }
   ]
+},
+"J351": {
+  "id": "J351",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "I felt my life with both my hands",
+  "titleES": "Palpé mi vida con ambas manos",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Johnson, The Complete Poems, J351; edición facilitada, página impresa 166. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "I felt my life with both my hands",
+      "Palpé mi vida con ambas manos"
+    ],
+    [
+      "To see if it was there –",
+      "para comprobar si estaba allí;"
+    ],
+    [
+      "I held my spirit to the Glass,",
+      "acerqué mi espíritu al espejo"
+    ],
+    [
+      "To prove it possibler –",
+      "para probar que era más posible."
+    ],
+    [
+      "I turned my Being round and round",
+      "Hice girar mi ser una y otra vez"
+    ],
+    [
+      "And paused at every pound",
+      "y me detuve ante cada golpe"
+    ],
+    [
+      "To ask the Owner's name –",
+      "para preguntar el nombre de su dueño,"
+    ],
+    [
+      "For doubt, that I should know the Sound –",
+      "dudando de reconocer el sonido."
+    ],
+    [
+      "I judged my features – jarred my hair –",
+      "Examiné mis rasgos, revolví mi pelo,"
+    ],
+    [
+      "I pushed my dimples by, and waited –",
+      "aparté mis hoyuelos y esperé:"
+    ],
+    [
+      "If they – twinkled back –",
+      "si me devolvían un destello,"
+    ],
+    [
+      "Conviction might, of me –",
+      "quizá podría convencerme de mí misma."
+    ],
+    [
+      "I told myself, \"Take Courage, Friend –",
+      "Me dije: «Ánimo, amiga;"
+    ],
+    [
+      "That – was a former time –",
+      "aquello pertenecía a otro tiempo;"
+    ],
+    [
+      "But we might learn to like the Heaven,",
+      "pero acaso aprendamos a querer el cielo"
+    ],
+    [
+      "As well as our Old Home!\"",
+      "tanto como nuestro antiguo hogar»."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Comprobación de la existencia",
+      "body": "La conciencia intenta verificarse mediante tacto, espejo y sonido, como si la identidad fuese un objeto perdido."
+    },
+    {
+      "line": 12,
+      "title": "Conviction might, of me",
+      "body": "La sintaxis entrecortada hace que la certeza de ser una misma aparezca como una posibilidad, no como un dato."
+    },
+    {
+      "line": 16,
+      "title": "El antiguo hogar",
+      "body": "La oposición entre Heaven y Old Home admite una lectura espiritual y otra psicológica: una identidad nueva todavía extraña."
+    }
+  ],
+  "interpretation": "La experiencia de sí se vuelve extraña: la hablante se examina como si hubiera sobrevivido a una transformación. El cielo del final no disuelve la incertidumbre, sino que formula la posibilidad de acostumbrarse a otra forma de vida."
+},
+"J352": {
+  "id": "J352",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "Perhaps I asked too large –",
+  "titleES": "Quizá pedí demasiado",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J352; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "Perhaps I asked too large –",
+      "Quizá pedí demasiado:"
+    ],
+    [
+      "I take – no less than skies –",
+      "no acepto menos que cielos."
+    ],
+    [
+      "For Earths, grow thick as",
+      "Pues las tierras crecen tan tupidas"
+    ],
+    [
+      "Berries, in my native town –",
+      "como bayas en mi pueblo natal."
+    ],
+    [
+      "My Basket holds – just – Firmaments –",
+      "Mi canasta solo contiene firmamentos;"
+    ],
+    [
+      "Those – dangle easy – on my arm,",
+      "estos cuelgan ligeros de mi brazo,"
+    ],
+    [
+      "But smaller bundles – Cram.",
+      "pero los fardos menores la atiborran."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Una exigencia desmesurada",
+      "body": "La voz invierte las escalas habituales: los cielos resultan manejables, mientras lo pequeño pesa y estorba."
+    },
+    {
+      "line": 5,
+      "title": "Canasta y firmamentos",
+      "body": "El recipiente doméstico alberga lo cósmico. La imagen une el gesto cotidiano de recolectar con una ambición ilimitada."
+    }
+  ],
+  "interpretation": "La paradoja del poema convierte la abundancia terrestre en estrechez y lo inconmensurable en una posesión liviana. Pedir cielos no significa necesariamente codicia: también puede nombrar la incapacidad de conformarse con una medida ordinaria."
+},
+"J353": {
+  "id": "J353",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "A happy lip – breaks sudden –",
+  "titleES": "Un labio feliz irrumpe de pronto",
+  "stanzaBreaks": [
+    4
+  ],
+  "source": "Johnson, The Complete Poems, J353; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "A happy lip – breaks sudden –",
+      "Un labio feliz irrumpe de pronto:"
+    ],
+    [
+      "It doesn't state you how",
+      "no te cuenta de qué modo"
+    ],
+    [
+      "It contemplated – smiling –",
+      "estuvo pensando en sonreír;"
+    ],
+    [
+      "Just consummated – now –",
+      "simplemente lo ha consumado, ahora."
+    ],
+    [
+      "But this one, wears its merriment",
+      "Pero este lleva su alegría"
+    ],
+    [
+      "So patient – like a pain –",
+      "con tanta paciencia, como un dolor,"
+    ],
+    [
+      "Fresh gilded – to elude the eyes",
+      "recién dorada para esquivar los ojos"
+    ],
+    [
+      "Unqualified, to scan –",
+      "incapaces de examinarla."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "El instante de la sonrisa",
+      "body": "La primera estrofa distingue el acontecimiento visible de la deliberación que lo precede, inaccesible al observador."
+    },
+    {
+      "line": 6,
+      "title": "Alegría y dolor",
+      "body": "La sonrisa puede llevarse con la reserva de una herida: la alegría interior se protege de miradas que no saben interpretarla."
+    }
+  ],
+  "interpretation": "La alegría no es necesariamente transparencia. La segunda estrofa corrige la espontaneidad de la primera: la sonrisa madura se lleva con discreción, como si fuese vulnerable a la mirada ajena."
 }
 });
