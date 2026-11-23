@@ -25226,6 +25226,183 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  {
+    "id": "J329",
+    "approx": "c. 1862",
+    "incipit": "So glad we are – a Stranger'd deem",
+    "titleES": "Tan alegres estamos — un extraño creería",
+    "stanzaBreaks": [
+      4
+    ],
+    "lines": [
+      [
+        "So glad we are – a Stranger'd deem",
+        "Tan alegres estamos — que un extraño creería"
+      ],
+      [
+        "'Twas sorry, that we were –",
+        "que estábamos tristes —"
+      ],
+      [
+        "For where the Holiday should be",
+        "pues donde debería haber fiesta"
+      ],
+      [
+        "There publishes a Tear –",
+        "se anuncia una lágrima —"
+      ],
+      [
+        "Nor how Ourselves be justified –",
+        "Ni cómo habríamos de justificarnos —"
+      ],
+      [
+        "Since Grief and Joy are done",
+        "si la Pena y la Alegría se han vuelto"
+      ],
+      [
+        "So similar – An Optizan",
+        "tan semejantes — que ni un Óptico"
+      ],
+      [
+        "Could not decide between –",
+        "podría distinguirlas —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La paradoja del semblante",
+        "body": "El júbilo resulta tan intenso que un observador externo podría confundirlo con la tristeza. La voz explora el límite de las señales visibles de la emoción."
+      },
+      {
+        "line": 7,
+        "title": "Optizan",
+        "body": "La grafía impresa por Johnson («Optizan») designa a quien examina la vista; la comparación desplaza la dificultad afectiva al terreno de la percepción."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J329, p. 156 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
+  },
+  {
+    "id": "J330",
+    "approx": "c. 1861",
+    "incipit": "The Juggler's Hat her Country is –",
+    "titleES": "El Sombrero del Prestidigitador es su País",
+    "lines": [
+      [
+        "The Juggler's Hat her Country is –",
+        "El Sombrero del Prestidigitador es su País —"
+      ],
+      [
+        "The Mountain Gorse – the Bee's!",
+        "¡el Tojo de la Montaña, el de la Abeja!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Dos países",
+        "body": "La miniatura yuxtapone el espacio artificioso de un truco de magia y el territorio vegetal de la abeja. El posesivo «her» no identifica inequívocamente a su referente."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J330, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
+  },
+  {
+    "id": "J331",
+    "approx": "c. 1861",
+    "incipit": "While Asters –",
+    "titleES": "Mientras los Ásteres",
+    "lines": [
+      [
+        "While Asters –",
+        "Mientras los Ásteres —"
+      ],
+      [
+        "On the Hill –",
+        "en la Colina —"
+      ],
+      [
+        "Their Everlasting fashions – set –",
+        "lucen sus modas eternas —"
+      ],
+      [
+        "And Covenant Gentians – Frill!",
+        "¡y las Gencianas del Pacto se engalanan!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Moda y permanencia",
+        "body": "El vocabulario de la indumentaria atribuye a las flores una elegancia a la vez estacional y perdurable."
+      },
+      {
+        "line": 4,
+        "title": "Covenant",
+        "body": "«Covenant» admite resonancias bíblicas de alianza o pacto; no es necesario fijar una única alegoría religiosa."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J331, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
+  },
+  {
+    "id": "J332",
+    "approx": "c. 1862",
+    "incipit": "There are two Ripenings – one – of sight –",
+    "titleES": "Hay dos Maduraciones — una — de la vista",
+    "stanzaBreaks": [
+      4
+    ],
+    "lines": [
+      [
+        "There are two Ripenings – one – of sight –",
+        "Hay dos Maduraciones — una — de la vista —"
+      ],
+      [
+        "Whose forces Spheric wind",
+        "cuyas fuerzas esféricas se enrollan"
+      ],
+      [
+        "Until the Velvet product",
+        "hasta que el fruto aterciopelado"
+      ],
+      [
+        "Drop spicy to the ground –",
+        "cae, fragante, al suelo —"
+      ],
+      [
+        "A homelier maturing –",
+        "Una maduración más humilde —"
+      ],
+      [
+        "A process in the Bur –",
+        "un proceso dentro del Erizo —"
+      ],
+      [
+        "That teeth of Frosts alone disclose",
+        "que solo los dientes de las Heladas revelan"
+      ],
+      [
+        "In far October Air.",
+        "en el lejano Aire de Octubre."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Dos maduraciones",
+        "body": "La primera madurez se ofrece a la vista; la segunda exige la intervención del frío y permanece oculta en su envoltura."
+      },
+      {
+        "line": 6,
+        "title": "Bur",
+        "body": "La palabra puede designar una envoltura vegetal espinosa. «Erizo» conserva la imagen protectora, aunque no identifica una especie botánica precisa."
+      }
+    ],
+    "franklin": null,
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J332, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
+  },
   "J341": {
     "id": "J341",
     "franklin": "Pendiente de cotejo",
