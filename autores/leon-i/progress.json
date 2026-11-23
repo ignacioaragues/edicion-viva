@@ -2066,13 +2066,34 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Complete first-pass aligned Latin/Spanish to Amen; digital Tractatus XCII used. Printed PL54 collation, full contextual morphology, biblical references, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 93,
+      "section": "Sermo XCIII · De jejunio septimi mensis VIII · caput I",
+      "paragraphs": 4,
+      "aligned_units": 4,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 3,
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xciii/index.html",
+      "voice_notes": 4,
+      "lexical_coverage": "13 contextual forms; other tokens link to Logeion",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Caput I translated through end; II–III not yet published. Digital Tractatus XCIII checked; printed PL54, exhaustive morphology and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 93,
-    "section": "caput I",
-    "instruction": "Check current repository and translate full Sermo XCIII if possible; do not duplicate XCII."
+    "section": "caput II",
+    "incipit": "Abstinendum est itaque, dilectissimi",
+    "instruction": "Complete remaining chapters II–III through Amen; do not mark complete until published."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
