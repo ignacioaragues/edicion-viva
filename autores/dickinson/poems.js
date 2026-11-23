@@ -23519,6 +23519,364 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J312": {
+    "id": "J312",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Her – \"last Poems\" –",
+    "titleES": "Sus «últimos Poemas» —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J312, pp. 146–147; correspondencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "Her – \"last Poems\" –",
+        "Sus «últimos Poemas» —"
+      ],
+      [
+        "Poets – ended –",
+        "los Poetas — terminaron —"
+      ],
+      [
+        "Silver – perished – with her Tongue –",
+        "la Plata — pereció — con su Lengua —"
+      ],
+      [
+        "Not on Record – bubbled other,",
+        "No consta en registro — que brotara otra,"
+      ],
+      [
+        "Flute – or Woman –",
+        "Flauta — o Mujer —"
+      ],
+      [
+        "So divine –",
+        "tan divina —"
+      ],
+      [
+        "Not unto its Summer – Morning",
+        "Ni en su Mañana — de Verano"
+      ],
+      [
+        "Robin – uttered Half the Tune –",
+        "el Petirrojo — entonó la mitad de la Melodía —"
+      ],
+      [
+        "Gushed too free for the Adoring –",
+        "Brotó demasiado libre para quienes la adoraban —"
+      ],
+      [
+        "From the Anglo-Florentine –",
+        "de la Angloflorentina —"
+      ],
+      [
+        "Late – the Praise –",
+        "Tardía — la Alabanza —"
+      ],
+      [
+        "'Tis dull – conferring",
+        "es insulsa — cuando se confiere"
+      ],
+      [
+        "On the Head too High to Crown –",
+        "a la Cabeza demasiado alta para coronarla —"
+      ],
+      [
+        "Diadem – or Ducal Showing –",
+        "Diadema — o Distinción Ducal —"
+      ],
+      [
+        "Be its Grave – sufficient sign –",
+        "sea su Tumba — señal suficiente —"
+      ],
+      [
+        "Nought – that We – No Poet's Kinsman –",
+        "Nada — que nosotros — ajenos a la estirpe de los Poetas —"
+      ],
+      [
+        "Suffocate – with easy woe –",
+        "nos ahoguemos — en un pesar fácil —"
+      ],
+      [
+        "What, and if, Ourself a Bridegroom –",
+        "¿Y si nosotros mismos, como un Novio —"
+      ],
+      [
+        "Put Her down – in Italy?",
+        "la hubiéramos sepultado — en Italia?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 10,
+        "title": "La angloflorentina",
+        "body": "La referencia apunta a Elizabeth Barrett Browning, poeta inglesa fallecida en Florencia en 1861. El poema discute la insuficiencia de los honores póstumos y la posición de quien lamenta su muerte."
+      },
+      {
+        "line": 18,
+        "title": "La pregunta final",
+        "body": "La imagen del novio que entierra a la poeta vuelve incómodo el duelo: el hablante se pregunta por su propia implicación en la pérdida, sin resolverla."
+      }
+    ]
+  },
+  "J313": {
+    "id": "J313",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I should have been too glad, I see –",
+    "titleES": "Habría estado demasiado alegre, ya veo —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J313, pp. 147–148; correspondencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "I should have been too glad, I see –",
+        "Habría estado demasiado alegre, ya veo —"
+      ],
+      [
+        "Too lifted – for the scant degree",
+        "demasiado elevada — para la escasa medida"
+      ],
+      [
+        "Of Life's penurious Round –",
+        "del mezquino círculo de la Vida —"
+      ],
+      [
+        "My little Circuit would have shamed",
+        "Mi pequeño Circuito habría avergonzado"
+      ],
+      [
+        "This new Circumference – have blamed –",
+        "a esta nueva Circunferencia — habría reprochado —"
+      ],
+      [
+        "The homelier time behind.",
+        "al tiempo más humilde de antes."
+      ],
+      [
+        "I should have been too saved – I see –",
+        "Habría estado demasiado salvada — ya veo —"
+      ],
+      [
+        "Too rescued – Fear too dim to me",
+        "demasiado rescatada — el Temor demasiado tenue"
+      ],
+      [
+        "That I could spell the Prayer",
+        "para que pudiera deletrear la Plegaria"
+      ],
+      [
+        "I knew so perfect – yesterday –",
+        "que ayer — conocía tan bien —"
+      ],
+      [
+        "That Scalding One – Sabachthani –",
+        "aquella abrasadora — Sabactani —"
+      ],
+      [
+        "Recited fluent – here –",
+        "pronunciada aquí — con soltura —"
+      ],
+      [
+        "Earth would have been too much – I see –",
+        "La Tierra habría sido demasiado — ya veo —"
+      ],
+      [
+        "And Heaven – not enough for me –",
+        "y el Cielo — insuficiente para mí —"
+      ],
+      [
+        "I should have had the Joy",
+        "Habría tenido la Alegría"
+      ],
+      [
+        "Without the Fear – to justify –",
+        "sin el Temor — que la justifica —"
+      ],
+      [
+        "The Palm – without the Calvary –",
+        "la Palma — sin el Calvario —"
+      ],
+      [
+        "So Savior – Crucify –",
+        "Así pues, Salvador — crucificá —"
+      ],
+      [
+        "Defeat – whets Victory – they say –",
+        "La Derrota — afila la Victoria — dicen —"
+      ],
+      [
+        "The Reefs – in old Gethsemane –",
+        "los Escollos — del antiguo Getsemaní —"
+      ],
+      [
+        "Endear the Coast – beyond!",
+        "hacen más querida la Costa — de más allá."
+      ],
+      [
+        "'Tis Beggars – Banquets – can define –",
+        "Solo los Mendigos — pueden definir los Banquetes —"
+      ],
+      [
+        "'Tis Parching – vitalizes Wine –",
+        "solo la Sed — da vida al Vino —"
+      ],
+      [
+        "\"Faith\" bleats – to understand!",
+        "¡la «Fe» bala — por comprender!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 11,
+        "title": "Sabachthani",
+        "body": "Alusión al grito de abandono de Jesús en la cruz (Mateo 27:46; Marcos 15:34). La grafía de Johnson conserva la forma que aparece en este testimonio."
+      },
+      {
+        "line": 18,
+        "title": "Calvario y palma",
+        "body": "La palma puede significar victoria o triunfo martirial; el poema se resiste a separar el premio del padecimiento."
+      },
+      {
+        "line": 24,
+        "title": "La fe que bala",
+        "body": "El verbo «bleats» animaliza la explicación religiosa: el cierre deja en suspenso la supuesta necesidad del sufrimiento."
+      }
+    ]
+  },
+  "J314": {
+    "id": "J314",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Nature – sometimes sears a Sapling –",
+    "titleES": "La Naturaleza — a veces abrasa un Arbolito —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J314, pp. 148; correspondencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "Nature – sometimes sears a Sapling –",
+        "La Naturaleza — a veces abrasa un Arbolito —"
+      ],
+      [
+        "Sometimes – scalps a Tree –",
+        "a veces — arranca el cuero cabelludo a un Árbol —"
+      ],
+      [
+        "Her Green People recollect it",
+        "Su Pueblo Verde lo recuerda"
+      ],
+      [
+        "When they do not die –",
+        "cuando no muere —"
+      ],
+      [
+        "Fainter Leaves – to Further Seasons –",
+        "Hojas más pálidas — en Estaciones futuras —"
+      ],
+      [
+        "Dumbly testify –",
+        "dan testimonio — mudamente —"
+      ],
+      [
+        "We – who have the Souls –",
+        "Nosotros — que tenemos Alma —"
+      ],
+      [
+        "Die oftener – Not so vitally –",
+        "morimos más veces — no tan vitalmente —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Scalps",
+        "body": "El verbo introduce una violencia corporal deliberada en la descripción de los árboles; «arranca el cuero cabelludo» mantiene esa crudeza."
+      },
+      {
+        "line": 8,
+        "title": "Morir más veces",
+        "body": "El contraste entre daño vegetal y conciencia humana sugiere que la memoria y la anticipación multiplican las experiencias de pérdida."
+      }
+    ]
+  },
+  "J315": {
+    "id": "J315",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "He fumbles at your Soul",
+    "titleES": "Él tantea tu Alma",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J315, pp. 148–149; correspondencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "He fumbles at your Soul",
+        "Él tantea tu Alma"
+      ],
+      [
+        "As Players at the Keys",
+        "como los Intérpretes las Teclas"
+      ],
+      [
+        "Before they drop full Music on –",
+        "antes de desatar toda la Música —"
+      ],
+      [
+        "He stuns you by degrees –",
+        "te aturde por grados —"
+      ],
+      [
+        "Prepares your brittle Nature",
+        "Prepara tu frágil Naturaleza"
+      ],
+      [
+        "For the Ethereal Blow",
+        "para el Golpe Etéreo"
+      ],
+      [
+        "By fainter Hammers – further heard –",
+        "con Martillos más tenues — oídos más lejos —"
+      ],
+      [
+        "Then nearer – Then so slow",
+        "luego más cerca — luego tan despacio"
+      ],
+      [
+        "Your Breath has time to straighten –",
+        "que tu Aliento tiene tiempo de enderezarse —"
+      ],
+      [
+        "Your Brain – to bubble Cool –",
+        "tu Cerebro — de burbujear y enfriarse —"
+      ],
+      [
+        "Deals – One – imperial – Thunderbolt –",
+        "Descarga — un — imperial — Rayo —"
+      ],
+      [
+        "That scalps your naked Soul –",
+        "que arranca el cuero cabelludo a tu Alma desnuda —"
+      ],
+      [
+        "When Winds take Forests in their Paws –",
+        "Cuando los Vientos toman los Bosques entre sus Garras —"
+      ],
+      [
+        "The Universe – is still –",
+        "el Universo — queda inmóvil —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El agente sin nombre",
+        "body": "El poema no identifica a «He». Puede leerse como fuerza divina, experiencia estética o violencia psíquica; ninguna interpretación se impone de manera inequívoca."
+      },
+      {
+        "line": 7,
+        "title": "Martillos",
+        "body": "La imagen enlaza las teclas de un instrumento musical con el golpe final; el avance sonoro se vuelve agresión."
+      },
+      {
+        "line": 12,
+        "title": "Scalps",
+        "body": "La repetición del verbo usado en J314 permite comparar el daño natural con el que sufre el alma."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
