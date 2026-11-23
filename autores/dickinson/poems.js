@@ -25659,6 +25659,292 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J336": {
+    "id": "J336",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "The face I carry with me – last –",
+    "titleES": "El rostro que llevo conmigo — el último —",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J336, pp. 159. Texto cotejado con la edición Johnson; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "The face I carry with me – last –",
+        "El rostro que llevo conmigo — el último —"
+      ],
+      [
+        "When I go out of Time –",
+        "cuando salga del Tiempo —"
+      ],
+      [
+        "To take my Rank – by – in the West –",
+        "para ocupar mi lugar — allá — en Occidente —"
+      ],
+      [
+        "That face – will just be thine –",
+        "ese rostro — será precisamente el tuyo —"
+      ],
+      [
+        "I'll hand it to the Angel –",
+        "se lo entregaré al Ángel —"
+      ],
+      [
+        "That – Sir – was my Degree –",
+        "ese — Señor — fue mi título —"
+      ],
+      [
+        "In Kingdoms – you have heard the Raised –",
+        "en los Reinos — habrá oído hablar a los Resucitados —"
+      ],
+      [
+        "Refer to – possibly.",
+        "referirse a él — quizá."
+      ],
+      [
+        "He'll take it – scan it – step aside –",
+        "Lo tomará — lo examinará — se hará a un lado —"
+      ],
+      [
+        "Return – with such a crown",
+        "volverá — con una corona tal"
+      ],
+      [
+        "As Gabriel – never capered at –",
+        "que Gabriel — jamás saltó de júbilo ante ella —"
+      ],
+      [
+        "And beg me put it on –",
+        "y me rogará que me la ponga —"
+      ],
+      [
+        "And then – he'll turn me round and round –",
+        "y entonces — me hará girar una y otra vez —"
+      ],
+      [
+        "To an admiring sky –",
+        "ante un cielo admirado —"
+      ],
+      [
+        "As one that bore her Master's name –",
+        "como quien llevó el nombre de su Señor —"
+      ],
+      [
+        "Sufficient Royalty!",
+        "¡Realeza suficiente!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El rostro como credencial",
+        "body": "La identidad de la persona amada sustituye los méritos personales ante el tribunal celestial. El rostro que se lleva no es necesariamente un retrato físico: también puede ser memoria e identificación."
+      },
+      {
+        "line": 3,
+        "title": "West",
+        "body": "El Oeste puede evocar el ocaso y la muerte. La geografía del poema es simbólica, no una localización verificable."
+      },
+      {
+        "line": 6,
+        "title": "Degree",
+        "body": "«Degree» permite leer tanto rango como acreditación; la traducción «título» mantiene la metáfora de una dignidad reconocida."
+      },
+      {
+        "line": 15,
+        "title": "Master",
+        "body": "La denominación «Master» admite una lectura amorosa y religiosa; el poema no exige resolverla en una identidad biográfica concreta."
+      }
+    ]
+  },
+  "J337": {
+    "id": "J337",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "I know a place where Summer strives",
+    "titleES": "Conozco un lugar donde el Verano lucha",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J337, pp. 159–160. Texto cotejado con la edición Johnson; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "I know a place where Summer strives",
+        "Conozco un lugar donde el Verano lucha"
+      ],
+      [
+        "With such a practised Frost –",
+        "con una Escarcha tan experimentada —"
+      ],
+      [
+        "She – each year – leads her Daisies back –",
+        "Ella — cada año — hace volver a sus Margaritas —"
+      ],
+      [
+        "Recording briefly – \"Lost\" –",
+        "y anota escuetamente — «Perdidas» —"
+      ],
+      [
+        "But when the South Wind stirs the Pools",
+        "Pero cuando el Viento del Sur agita los Estanques"
+      ],
+      [
+        "And struggles in the lanes –",
+        "y forcejea por los senderos —"
+      ],
+      [
+        "Her Heart misgives Her, for Her Vow –",
+        "su Corazón duda de su propio Voto —"
+      ],
+      [
+        "And she pours soft Refrains",
+        "y derrama suaves Estribillos"
+      ],
+      [
+        "Into the lap of Adamant –",
+        "en el regazo del Diamante —"
+      ],
+      [
+        "And spices – and the Dew –",
+        "y especias — y el Rocío —"
+      ],
+      [
+        "That stiffens quietly to Quartz –",
+        "que se endurece en silencio hasta volverse Cuarzo —"
+      ],
+      [
+        "Upon her Amber Shoe –",
+        "sobre su Zapato de Ámbar —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una estación en disputa",
+        "body": "El verano y la helada aparecen como adversarios recurrentes; la primavera no garantiza una victoria definitiva."
+      },
+      {
+        "line": 4,
+        "title": "Lost",
+        "body": "La palabra funciona como asiento de pérdidas en un registro: la naturaleza adquiere una voz administrativa, lacónica."
+      },
+      {
+        "line": 9,
+        "title": "Adamant",
+        "body": "«Adamant» designa una sustancia proverbialmente dura, a menudo asociada con el diamante; la imagen intensifica la resistencia del frío."
+      },
+      {
+        "line": 12,
+        "title": "Zapato de ámbar",
+        "body": "La personificación vuelve material la figura del verano: el rocío se cristaliza sobre una prenda imaginaria."
+      }
+    ]
+  },
+  "J338": {
+    "id": "J338",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "I know that He exists",
+    "titleES": "Sé que Él existe",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J338, pp. 160. Texto cotejado con la edición Johnson; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "I know that He exists",
+        "Sé que Él existe"
+      ],
+      [
+        "Somewhere – in Silence –",
+        "en algún lugar — en el Silencio —"
+      ],
+      [
+        "He has hid his rare life",
+        "ha ocultado su vida singular"
+      ],
+      [
+        "From our gross eyes.",
+        "a nuestros ojos torpes."
+      ],
+      [
+        "'Tis an instant's play.",
+        "Es un juego de un instante."
+      ],
+      [
+        "'Tis a fond Ambush –",
+        "Es una Emboscada afectuosa —"
+      ],
+      [
+        "Just to make Bliss",
+        "tan solo para que la Dicha"
+      ],
+      [
+        "Earn her own surprise!",
+        "se gane su propia sorpresa."
+      ],
+      [
+        "But – should the play",
+        "Pero — si el juego"
+      ],
+      [
+        "Prove piercing earnest –",
+        "resultara de una seriedad punzante —"
+      ],
+      [
+        "Should the glee – glaze –",
+        "si el júbilo — se vidriara —"
+      ],
+      [
+        "In Death's – stiff – stare –",
+        "en la mirada — rígida — de la Muerte —"
+      ],
+      [
+        "Would not the fun",
+        "¿no parecería la diversión"
+      ],
+      [
+        "Look too expensive!",
+        "demasiado costosa?"
+      ],
+      [
+        "Would not the jest –",
+        "¿No habría llegado la broma —"
+      ],
+      [
+        "Have crawled too far!",
+        "demasiado lejos, arrastrándose?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El pronombre He",
+        "body": "La mayúscula puede orientar la lectura hacia Dios, pero la ausencia de un nombre explícito mantiene abierta la relación entre divinidad, ausencia y confianza."
+      },
+      {
+        "line": 6,
+        "title": "Una emboscada afectuosa",
+        "body": "La imagen intenta justificar el ocultamiento como preparación de una felicidad futura, y enseguida somete esa justificación a prueba."
+      },
+      {
+        "line": 11,
+        "title": "Glaze",
+        "body": "El verbo convierte la alegría en una superficie vidriada o inmóvil, próxima a la mirada fija de la muerte."
+      },
+      {
+        "line": 13,
+        "title": "El costo del juego",
+        "body": "Las preguntas finales cuestionan la idea de que el sufrimiento sea una broma pedagógica inocua. La protesta no se resuelve en una afirmación doctrinal."
+      }
+    ]
+  },
   "J341": {
     "id": "J341",
     "franklin": "Pendiente de cotejo",
