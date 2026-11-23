@@ -22812,6 +22812,101 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       8
     ]
   },
+  "J302": {
+    "id": "J302",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Like Some Old fashioned Miracle",
+    "titleES": "Como algún milagro de otros tiempos",
+    "stanzaBreaks": [
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J302, pp. 142–143; texto inglés cotejado con el ejemplar facilitado. Equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Like Some Old fashioned Miracle",
+        "Como algún milagro de otros tiempos"
+      ],
+      [
+        "When Summertime is done –",
+        "cuando el verano ha terminado —"
+      ],
+      [
+        "Seems Summer's Recollection",
+        "parece el recuerdo del verano"
+      ],
+      [
+        "And the Affairs of June",
+        "y de los asuntos de junio,"
+      ],
+      [
+        "As infinite Tradition",
+        "tan remota tradición"
+      ],
+      [
+        "As Cinderella's Bays—",
+        "como los laureles de Cenicienta —"
+      ],
+      [
+        "Or Little John – of Lincoln Green –",
+        "o Pequeño Juan — de verde Lincoln —"
+      ],
+      [
+        "Or Blue Beard's Galleries—",
+        "o las galerías de Barba Azul —"
+      ],
+      [
+        "Her Bees have a fictitious Hum—",
+        "Sus abejas tienen un zumbido ficticio —"
+      ],
+      [
+        "Her Blossoms, like a Dream –",
+        "sus flores, como un sueño —"
+      ],
+      [
+        "Elate us – till we almost weep –",
+        "nos exaltan — hasta casi hacernos llorar —"
+      ],
+      [
+        "So plausible – they seem –",
+        "tan verosímiles — parecen —"
+      ],
+      [
+        "Her Memories like Strains – Review –",
+        "Sus recuerdos, como melodías, desfilan —"
+      ],
+      [
+        "When Orchestra is dumb –",
+        "cuando la orquesta enmudece —"
+      ],
+      [
+        "The Violin in Baize replaced –",
+        "guardado el violín en su funda de bayeta —"
+      ],
+      [
+        "And Ear – and Heaven – numb –",
+        "y entumecidos el oído — y el cielo —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Tradición y cuento",
+        "body": "La evocación del verano reúne referencias legendarias y folclóricas: Cenicienta, Pequeño Juan de la tradición de Robin Hood y Barba Azul. La enumeración convierte el pasado reciente en relato casi fabuloso."
+      },
+      {
+        "line": 9,
+        "title": "Fictitious / plausible",
+        "body": "La memoria produce sonidos y flores que ya no están presentes. La palabra «fictitious» impide confundir la fuerza del recuerdo con una restitución literal."
+      },
+      {
+        "line": 15,
+        "title": "Baize",
+        "body": "Baize es una tela de lana afelpada utilizada para proteger objetos; la imagen del violín guardado traslada el silencio estacional a una escena musical."
+      }
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
