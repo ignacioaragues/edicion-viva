@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 359,
-    "publishedVerses": 4821,
+    "publishedPoems": 362,
+    "publishedVerses": 4868,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -355,6 +355,13 @@
       "J341",
       "J342",
       "J343",
+      "J344",
+      "J345",
+      "J346",
+      "J347",
+      "J348",
+      "J349",
+      "J350",
       "J376",
       "J441",
       "J444",
@@ -366,24 +373,21 @@
       "J712",
       "J986",
       "J1129",
-      "J1212",
-      "J344",
-      "J345",
-      "J346",
-      "J347"
+      "J1212"
     ],
-    "completedSequentialThrough": "J347",
-    "nextJohnsonId": "J348",
+    "completedSequentialThrough": "J350",
+    "nextJohnsonId": "J351",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-24",
-      "result": "J344–J347 cotejados con Johnson, pp. 163–165. Franklin y variantes manuscritas pendientes; 48 versos nuevos.",
-      "newVersesThisRun": 48
+      "result": "Se reparó corrupción sintáctica que impedía cargar poems.js y se restauraron J344–J347 (48 versos) desde Johnson; J348–J350 aportan 47 versos nuevos. Franklin y variantes manuscritas pendientes.",
+      "newVersesThisRun": 47,
+      "recoveredVerses": 48
     },
-    "lastConsecutiveJohnsonId": "J347",
-    "lastPublishedBlock": "J344–J347"
+    "lastConsecutiveJohnsonId": "J350",
+    "lastPublishedBlock": "J348–J350 (con recuperación de J344–J347)"
   },
-  "lastCompletedMilestone": "J347",
-  "nextAction": "Traducir desde J348, apuntando a 200 versos nuevos completos por entrega",
+  "lastCompletedMilestone": "J350",
+  "nextAction": "Continuar desde J351; objetivo aproximadamente 200 versos nuevos por ejecución",
   "updatedOn": "2026-11-24"
 }
