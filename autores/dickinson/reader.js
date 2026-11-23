@@ -5,14 +5,83 @@
   if (library) {
     const entries = Object.values(poems).filter(p => p && /^J\d+$/.test(p.id) && Array.isArray(p.lines)).sort((a,b) => Number(a.id.slice(1)) - Number(b.id.slice(1)));
     const index = document.getElementById('dickinson-poem-index');
-    entries.forEach(poem => {
-      if (index) {
-        const link = document.createElement('a');
-        link.href = '#' + poem.id;
-        link.textContent = poem.id + ' · ' + poem.incipit;
-        index.append(link);
-      }
-    });
+    const readKey = 'ed-dickinson-read-v1';
+    let readIds = new Set();
+    try { readIds = new Set(JSON.parse(localStorage.getItem(readKey) || '[]')); } catch (_) {}
+    const search = document.getElementById('dickinson-poem-search');
+    const groups = document.getElementById('dickinson-poem-groups');
+    const readCount = document.getElementById('dickinson-read-count');
+    const showRead = document.getElementById('dickinson-show-read');
+    const updateReadCount = () => { if (readCount) readCount.textContent = readIds.size + ' de ' + entries.length + ' leídos'; };
+    const markRead = (id, value) => {
+      if (value) readIds.add(id); else readIds.delete(id);
+      try { localStorage.setItem(readKey, JSON.stringify([...readIds])); } catch (_) {}
+      document.querySelectorAll('[data-poem-link]').forEach(a => {
+        if (a.dataset.poemLink === id) {
+          a.classList.toggle('is-read', readIds.has(id));
+          a.setAttribute('aria-label', id + (readIds.has(id) ? ', leído' : ', pendiente'));
+        }
+      });
+      document.querySelectorAll('[data-read-toggle]').forEach(button => {
+        if (button.dataset.readToggle === id) {
+          button.textContent = readIds.has(id) ? '✓ Leído · marcar pendiente' : '○ Marcar como leído';
+          button.setAttribute('aria-pressed', String(readIds.has(id)));
+        }
+      });
+      updateReadCount();
+    };
+    window.dickinsonReadState = { readIds, markRead };
+    if (index) {
+      const buckets = new Map();
+      entries.forEach(poem => {
+        const number = Number(poem.id.slice(1));
+        const from = Math.floor((number - 1) / 100) * 100 + 1;
+        const label = from + '–' + (from + 99);
+        if (!buckets.has(label)) buckets.set(label, []);
+        buckets.get(label).push(poem);
+      });
+      const renderIndex = () => {
+        const query = (search?.value || '').trim().toLocaleLowerCase();
+        const onlyRead = !!showRead?.checked;
+        const current = decodeURIComponent(location.hash.slice(1));
+        index.replaceChildren();
+        for (const [label, poemsInBucket] of buckets) {
+          const visible = poemsInBucket.filter(poem => {
+            const haystack = [poem.id, poem.incipit, poem.titleES || '', poem.franklin || ''].join(' ').toLocaleLowerCase();
+            return (!query || haystack.includes(query)) && (!onlyRead || readIds.has(poem.id));
+          });
+          if (!visible.length) continue;
+          const section = document.createElement('details');
+          section.className = 'poem-index-group';
+          section.open = !!query || !!onlyRead || visible.some(p => p.id === current);
+          const heading = document.createElement('summary');
+          heading.textContent = 'J' + label + ' · ' + visible.length + ' poemas';
+          section.append(heading);
+          visible.forEach(poem => {
+            const link = document.createElement('a');
+            link.href = '#' + poem.id;
+            link.dataset.poemLink = poem.id;
+            link.textContent = poem.id + ' · ' + poem.incipit;
+            link.classList.toggle('is-read', readIds.has(poem.id));
+            link.classList.toggle('active', poem.id === current);
+            if (poem.id === current) link.setAttribute('aria-current', 'page');
+            section.append(link);
+          });
+          index.append(section);
+        }
+        if (!index.childElementCount) index.append(Object.assign(document.createElement('p'), {textContent:'No hay poemas que coincidan.'}));
+      };
+      window.dickinsonRenderIndex = renderIndex;
+      search?.addEventListener('input', renderIndex);
+      showRead?.addEventListener('change', renderIndex);
+      groups?.addEventListener('change', () => {
+        if (groups.value === 'all') index.querySelectorAll('details').forEach(d => d.open = true);
+        if (groups.value === 'compact') index.querySelectorAll('details').forEach(d => d.open = false);
+        if (groups.value === 'current') renderIndex();
+      });
+      renderIndex();
+      updateReadCount();
+    }
     const verses = entries.reduce((sum, p) => sum + p.lines.length, 0);
     document.querySelectorAll('[data-poem-count]').forEach(el => el.textContent = entries.length.toLocaleString('es'));
     document.querySelectorAll('[data-verse-count]').forEach(el => el.textContent = verses.toLocaleString('es'));
@@ -75,6 +144,19 @@
       a.href = '../../cursos/emily-dickinson/' + (['J254', 'J303'].includes(poem.id) ? 'leccion-2.html#' : ['J324', 'J444'].includes(poem.id) ? 'leccion-3.html#' : ['J328', 'J986'].includes(poem.id) ? 'leccion-4.html#' : ['J185', 'J376', 'J501'].includes(poem.id) ? 'leccion-5.html#' : ['J449', 'J465', 'J712'].includes(poem.id) ? 'leccion-6.html#' : ['J14', 'J249', 'J640'].includes(poem.id) ? 'leccion-7.html#' : ['J258', 'J280', 'J341'].includes(poem.id) ? 'leccion-8.html#' : ['J709', 'J1129', 'J1212'].includes(poem.id) ? 'leccion-9.html#' : '#') + poem.id;
       actions.append(a);
     }
+    if (document.body.dataset.page === 'edicion' && window.dickinsonReadState) {
+      const button = make('button', 'poem-read-toggle');
+      button.type = 'button';
+      button.dataset.readToggle = poem.id;
+      const state = window.dickinsonReadState;
+      button.textContent = state.readIds.has(poem.id) ? '✓ Leído · marcar pendiente' : '○ Marcar como leído';
+      button.setAttribute('aria-pressed', String(state.readIds.has(poem.id)));
+      button.addEventListener('click', () => {
+        state.markRead(poem.id, !state.readIds.has(poem.id));
+        window.dickinsonRenderIndex?.();
+      });
+      actions.prepend(button);
+    }
     mount.append(actions);
   };
   all.forEach(renderPoem);
@@ -106,6 +188,7 @@
       position.textContent = 'Poema ' + (pos+1) + ' de ' + ids.length;
       navigation.append(position);
       if (pos < ids.length-1) navigation.append(makeLink(ids[pos+1], 'Poema siguiente →'));
+      window.dickinsonRenderIndex?.();
       document.querySelectorAll('#dickinson-poem-index a').forEach(a => {
         const active = a.getAttribute('href') === '#' + id;
         a.classList.toggle('active', active);
@@ -116,7 +199,7 @@
     };
     window.addEventListener('hashchange', () => {
       display();
-      window.scrollTo({top:0,behavior:'instant'});
+      // Conservar la posición del lector: el cambio de poema no salta al encabezado.
     });
     display();
   }
