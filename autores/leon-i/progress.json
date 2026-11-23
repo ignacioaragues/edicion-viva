@@ -1886,6 +1886,29 @@
       "source_collation_complete": false,
       "editorial_caveat": "Complete first-pass Latin/Spanish through Amen. Chapters II–III checked against digital Tractatus LXXXIII; printed PL54 collation, full contextual morphology, dictionary integration and browser QA pending.",
       "voice_notes": 6
+    },
+    {
+      "group": "sermones",
+      "number": 85,
+      "section": "Sermo LXXXV · In Natali S. Laurentii martyris · capita I–IV",
+      "paragraphs": 11,
+      "aligned_units": 11,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxxv/index.html",
+      "voice_notes": 3,
+      "lexical_coverage": "18 selected contextual entries; exhaustive morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Complete first-pass Latin/Spanish through Amen. Digital Tractatus LXXXV source checked; printed PL54 collation, complete token morphology, shared dictionary and browser QA pending. Biblical citation I Tim III 12 corrected in Spanish to 2 Tim 3:12."
     }
   ],
   "next": "Sermo LXXXV, chapter I (Sermo LXXXIV already published)",
