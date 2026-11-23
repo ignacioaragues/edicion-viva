@@ -24269,6 +24269,173 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J321": {
+    "id": "J321",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Of all the Sounds despatched abroad,",
+    "titleES": "De todos los sonidos enviados por el mundo",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J321, pp. 151–152. Texto inglés cotejado con la edición de Johnson; se normalizaron únicamente errores evidentes del reconocimiento digital.",
+    "stanzaBreaks": [
+      20
+    ],
+    "lines": [
+      [
+        "Of all the Sounds despatched abroad,",
+        "De todos los sonidos enviados por el mundo,"
+      ],
+      [
+        "There's not a Charge to me",
+        "ninguno me conmueve tanto"
+      ],
+      [
+        "Like that old measure in the Boughs –",
+        "como aquella antigua cadencia entre las ramas —"
+      ],
+      [
+        "That phraseless Melody –",
+        "aquella melodía sin palabras —"
+      ],
+      [
+        "The Wind does – working like a Hand,",
+        "que hace el Viento, trabajando como una Mano,"
+      ],
+      [
+        "Whose fingers Comb the Sky –",
+        "cuyos dedos peinan el Cielo —"
+      ],
+      [
+        "Then quiver down – with tufts of Tune –",
+        "y después descienden temblando, con mechones de música —"
+      ],
+      [
+        "Permitted Gods, and me –",
+        "concedida a los Dioses y a mí —"
+      ],
+      [
+        "Inheritance, it is, to us –",
+        "Es una herencia nuestra —"
+      ],
+      [
+        "Beyond the Art to Earn –",
+        "más allá del arte de ganarla —"
+      ],
+      [
+        "Beyond the trait to take away",
+        "más allá de la facultad de arrebatárnosla"
+      ],
+      [
+        "By Robber, since the Gain",
+        "un Ladrón, pues la ganancia"
+      ],
+      [
+        "Is gotten not of fingers –",
+        "no se obtiene con los dedos —"
+      ],
+      [
+        "And inner than the Bone –",
+        "y está más adentro que el Hueso —"
+      ],
+      [
+        "Hid golden, for the whole of Days,",
+        "oculta, dorada, durante todos los Días,"
+      ],
+      [
+        "And even in the Urn,",
+        "y aun dentro de la Urna,"
+      ],
+      [
+        "I cannot vouch the merry Dust",
+        "no puedo asegurar que el alegre Polvo"
+      ],
+      [
+        "Do not arise and play",
+        "no se levante a jugar"
+      ],
+      [
+        "In some odd fashion of its own,",
+        "a su propia y extraña manera,"
+      ],
+      [
+        "Some quainter Holiday,",
+        "en alguna Fiesta más singular,"
+      ],
+      [
+        "When Winds go round and round in Bands –",
+        "cuando los Vientos giran y giran en Bandas —"
+      ],
+      [
+        "And thrum upon the door,",
+        "y rasguean sobre la puerta,"
+      ],
+      [
+        "And Birds take places, overhead,",
+        "y los Pájaros ocupan sus puestos, en lo alto,"
+      ],
+      [
+        "To bear them Orchestra",
+        "para formarles una Orquesta."
+      ],
+      [
+        "I crave Him grace of Summer Boughs,",
+        "Le imploro la gracia de las Ramas estivales,"
+      ],
+      [
+        "If such an Outcast be –",
+        "si existe semejante Desterrado —"
+      ],
+      [
+        "Who never heard that fleshless Chant –",
+        "que nunca oyó aquel Canto sin carne —"
+      ],
+      [
+        "Rise – solemn – on the Tree,",
+        "alzarse — solemne — en el Árbol,"
+      ],
+      [
+        "As if some Caravan of Sound",
+        "como si una Caravana de Sonidos"
+      ],
+      [
+        "Off Deserts, in the Sky,",
+        "desde los Desiertos, en el Cielo,"
+      ],
+      [
+        "Had parted Rank,",
+        "hubiera roto filas,"
+      ],
+      [
+        "Then knit, and swept –",
+        "para reunirse luego y barrerlo todo —"
+      ],
+      [
+        "In Seamless Company –",
+        "en una Compañía sin costuras —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Sonido y herencia",
+        "body": "La música del viento no se posee ni se adquiere: se recibe como una herencia inalienable. La palabra «Charge» puede sugerir impacto, impresión o carga emocional."
+      },
+      {
+        "line": 13,
+        "title": "Más adentro que el hueso",
+        "body": "La experiencia musical se presenta como una posesión interior que sobrevive incluso a la imagen material de la muerte."
+      },
+      {
+        "line": 25,
+        "title": "La súplica",
+        "body": "La voz imagina la privación absoluta como no haber oído nunca el canto del viento. «Him» conserva una referencia deliberadamente abierta."
+      },
+      {
+        "line": 29,
+        "title": "Caravana",
+        "body": "La comparación final transforma los sonidos en una formación móvil que se dispersa y vuelve a unirse."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
