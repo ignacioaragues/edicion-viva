@@ -2088,11 +2088,34 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All three chapters through Amen translated in first pass against public Latin transcription; independent printed PL54 collation, exhaustive contextual morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 94,
+      "section": "Sermo XCIV · De jejunio septimi mensis IX · capita I–IV",
+      "paragraphs": 12,
+      "aligned_units": 12,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xciv/index.html",
+      "voice_notes": 4,
+      "lexical_coverage": "25 selected contextual forms; exhaustive word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Complete first-pass Latin and original Spanish through Amen based on public Tractatus XCIV transcription. Digital 'consetur' in chapter I is suspect and retained pending PL54 collation; exhaustive contextual morphology, shared dictionary integration, and browser QA pending."
     }
   ],
-  "next": "Sermo XCIV, caput I; verify actual corpus before adding; review outstanding morphology and PL54 collation",
+  "next": "Sermo XCV, caput I; review XCIV reading consetur against PL54 and complete morphology",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-23",
+  "last_edit": "2026-11-24: Sermo XCIV first-pass complete, four chapters and 12 aligned units",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": null,
   "priority_queue": [
