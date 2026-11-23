@@ -1952,32 +1952,36 @@
     {
       "group": "sermones",
       "number": 88,
-      "section": "Sermo LXXXVIII · De jejunio septimi mensis III · caput I",
-      "paragraphs": 3,
-      "aligned_units": 3,
+      "section": "Sermo LXXXVIII · De jejunio septimi mensis III · capita I–V",
+      "paragraphs": 16,
+      "aligned_units": 16,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "total_chapters": 5,
-      "complete_work": false,
-      "translation_complete": false,
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxxviii/index.html",
-      "voice_notes": 1,
+      "voice_notes": 5,
       "lexical_coverage": "9 selective contextual morphological entries; full token analysis pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapter I only, digital Tractatus LXXXVIII; chapters II–V and Amen pending. Printed PL54 collation and browser QA pending."
+      "editorial_caveat": "First-pass aligned Latin/Spanish complete through Amen, chapters I–V. Latin chapters II–V checked against digital Tractatus LXXXVIII; printed PL54 critical collation, full contextual token morphology, shared dictionary and browser QA remain pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 88,
-    "section": "caput II",
-    "instruction": "Continue from Divinarum autem reverentia sanctionum; complete chapters II–V and Amen without duplicating chapter I"
+    "number": 89,
+    "section": "caput I",
+    "instruction": "Verify Sermo LXXXIX source and translate entire work where feasible; do not duplicate existing published material"
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-23: Sermo LXXXVIII caput I published, 3 bilingual units, 9 contextual lexical cards; chapters II–V pending.",
+  "last_edit": "2026-11-23: completed Sermo LXXXVIII chapters II–V (16 aligned units total)",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
