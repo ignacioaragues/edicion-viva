@@ -93,6 +93,34 @@
     if (content !== undefined) el.textContent = content;
     return el;
   };
+  // Resaltados persistentes por poema y número de verso; independientes del corpus.
+  const highlightKey = 'ed-dickinson-highlights-v1';
+  let highlights = {};
+  try {
+    const stored = JSON.parse(localStorage.getItem(highlightKey) || '{}');
+    if (stored && typeof stored === 'object' && !Array.isArray(stored)) highlights = stored;
+  } catch (_) {}
+  const highlightToggle = document.querySelector('[data-toggle-highlights]');
+  let highlightMode = false;
+  const updateHighlightToggle = () => {
+    if (!highlightToggle) return;
+    highlightToggle.setAttribute('aria-pressed', String(highlightMode));
+    highlightToggle.textContent = highlightMode ? '✎ Resaltar versos: activado' : '✎ Resaltar versos';
+  };
+  highlightToggle?.addEventListener('click', () => {
+    highlightMode = !highlightMode;
+    updateHighlightToggle();
+  });
+  updateHighlightToggle();
+  const toggleHighlight = (id, verse, row) => {
+    const selected = new Set(Array.isArray(highlights[id]) ? highlights[id] : []);
+    if (selected.has(verse)) selected.delete(verse); else selected.add(verse);
+    if (selected.size) highlights[id] = [...selected].sort((a,b) => a-b);
+    else delete highlights[id];
+    row.classList.toggle('is-highlighted', selected.has(verse));
+    row.setAttribute('aria-pressed', String(selected.has(verse)));
+    try { localStorage.setItem(highlightKey, JSON.stringify(highlights)); } catch (_) {}
+  };
   const renderPoem = (mount) => {
     const poem = poems[mount.dataset.dickinsonPoem];
     if (!poem) { mount.textContent = 'Poema todavía no incorporado.'; return; }
@@ -110,6 +138,23 @@
     grid.append(head);
     poem.lines.forEach((pair, index) => {
       const line = make('div', 'poem-line');
+      if (document.body.dataset.page === 'edicion') {
+        const verse = index + 1;
+        line.classList.toggle('is-highlighted', (highlights[poem.id] || []).includes(verse));
+        line.setAttribute('role', 'button');
+        line.setAttribute('tabindex', '0');
+        line.setAttribute('aria-label', 'Verso ' + verse + '. Activar para resaltar o quitar resaltado');
+        line.setAttribute('aria-pressed', String((highlights[poem.id] || []).includes(verse)));
+        line.addEventListener('click', () => {
+          if (highlightMode) toggleHighlight(poem.id, verse, line);
+        });
+        line.addEventListener('keydown', event => {
+          if ((event.key === 'Enter' || event.key === ' ') && highlightMode) {
+            event.preventDefault();
+            toggleHighlight(poem.id, verse, line);
+          }
+        });
+      }
       if ((poem.stanzaBreaks || []).includes(index)) line.classList.add('stanza-start');
       const en = make('div', 'poem-en', pair[0]); en.lang = 'en';
       const es = make('div', 'poem-es', pair[1]); es.lang = 'es';
