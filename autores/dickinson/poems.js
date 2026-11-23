@@ -29008,5 +29008,320 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     }
   ],
   "interpretation": "El signo exterior de distinción vale menos que la experiencia interior de haber sido escogida. El paralelismo con el día que declina devuelve majestad a lo cotidiano."
+},
+"J357": {
+  "id": "J357",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "God is a distant – stately Lover –",
+  "titleES": "Dios es un amante distante y majestuoso:",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J357, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "God is a distant – stately Lover –",
+      "Dios es un amante distante y majestuoso:"
+    ],
+    [
+      "Woos, as He states us – by His Son –",
+      "nos corteja, según declara, por medio de su Hijo;"
+    ],
+    [
+      "Verily, a Vicarious Courtship –",
+      "un galanteo, en verdad, por representante,"
+    ],
+    [
+      "\"Miles\", and \"Priscilla\", were such an One –",
+      "como el de «Miles» y «Priscilla»."
+    ],
+    [
+      "But, lest the Soul – like fair \"Priscilla\"",
+      "Pero, por temor a que el alma, como la bella «Priscilla»,"
+    ],
+    [
+      "Choose the Envoy – and spurn the Groom –",
+      "elija al emisario y desdeñe al novio,"
+    ],
+    [
+      "Vouches, with hyperbolic archness –",
+      "asegura, con exagerada picardía,"
+    ],
+    [
+      "\"Miles\", and \"John Alden\" were Synonym –",
+      "que «Miles» y «John Alden» eran sinónimos."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 4,
+      "title": "Miles y Priscilla",
+      "body": "Alusión al cortejo delegado de la tradición de Plymouth, popularizada por Longfellow; no debe confundirse la ficción literaria con una prueba histórica."
+    }
+  ],
+  "interpretation": "El poema vuelve irónica la mediación entre Dios y el alma: el enviado puede desplazar al pretendiente. La referencia es al relato de Miles Standish, Priscilla Mullins y John Alden."
+},
+"J358": {
+  "id": "J358",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "If any sink, assure that this, now standing –",
+  "titleES": "Si alguien se hunde, asegurale que esto, que ahora está en pie,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J358, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "If any sink, assure that this, now standing –",
+      "Si alguien se hunde, asegurale que esto, que ahora está en pie,"
+    ],
+    [
+      "Failed like Themselves – and conscious that it rose –",
+      "cayó como ellos y, consciente de haberse levantado,"
+    ],
+    [
+      "Grew by the Fact, and not the Understanding",
+      "creció por el hecho mismo, no por comprender"
+    ],
+    [
+      "How Weakness passed – or Force – arose –",
+      "cómo pasó la debilidad o surgió la fuerza."
+    ],
+    [
+      "Tell that the Worst, is easy in a Moment –",
+      "Decile que lo peor se soporta en un instante;"
+    ],
+    [
+      "Dread, but the Whizzing, before the Ball –",
+      "lo temible es el silbido que precede a la bala."
+    ],
+    [
+      "When the Ball enters, enters Silence –",
+      "Cuando entra la bala, entra el silencio:"
+    ],
+    [
+      "Dying – annuls the power to kill.",
+      "morir anula el poder de matar."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 6,
+      "title": "El silbido anterior",
+      "body": "La anticipación del daño puede resultar más terrible que el instante del impacto; la imagen bélica no permite identificar por sí sola un episodio biográfico."
+    }
+  ],
+  "interpretation": "La supervivencia no se explica mediante una teoría del coraje, sino por el hecho de haberse levantado. La imagen final comprime terror, violencia y silencio."
+},
+"J359": {
+  "id": "J359",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "I gained it so –",
+  "titleES": "Así lo conseguí:",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J359, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "I gained it so –",
+      "Así lo conseguí:"
+    ],
+    [
+      "By Climbing slow –",
+      "trepando despacio,"
+    ],
+    [
+      "By Catching at the Twigs that grow",
+      "aferrándome a las ramitas que crecen"
+    ],
+    [
+      "Between the Bliss – and me –",
+      "entre la dicha y yo."
+    ],
+    [
+      "It hung so high",
+      "Colgaba tan alto"
+    ],
+    [
+      "As well the Sky",
+      "que igual habría podido"
+    ],
+    [
+      "Attempt by Strategy –",
+      "intentar alcanzar el cielo con astucia."
+    ],
+    [
+      "I said I gained it –",
+      "Dije que lo había conseguido;"
+    ],
+    [
+      "This – was all –",
+      "eso fue todo."
+    ],
+    [
+      "Look, how I clutch it",
+      "Mirá cómo lo aprieto"
+    ],
+    [
+      "Lest it fall –",
+      "para que no caiga"
+    ],
+    [
+      "And I a Pauper go –",
+      "y yo vuelva a ser una mendiga,"
+    ],
+    [
+      "Unfitted by an instant's Grace",
+      "incapaz, después de un instante de gracia,"
+    ],
+    [
+      "For the Contented – Beggar's face",
+      "de recuperar el rostro de mendiga satisfecha"
+    ],
+    [
+      "I wore – an hour ago –",
+      "que llevaba hace apenas una hora."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 13,
+      "title": "Un instante de gracia",
+      "body": "La gracia transforma retrospectivamente la pobreza anterior: la voz ya no puede regresar intacta a su antigua resignación."
+    }
+  ],
+  "interpretation": "La posesión de la dicha introduce una nueva precariedad: después de alcanzarla, perderla parece peor que no haberla conocido."
+},
+"J360": {
+  "id": "J360",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "Death sets a Thing significant",
+  "titleES": "La muerte vuelve significativo algo",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J360, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "Death sets a Thing significant",
+      "La muerte vuelve significativo algo"
+    ],
+    [
+      "The Eye had hurried by",
+      "que los ojos habían pasado por alto,"
+    ],
+    [
+      "Except a perished Creature",
+      "hasta que una criatura fallecida"
+    ],
+    [
+      "Entreat us tenderly",
+      "nos ruega con ternura"
+    ],
+    [
+      "To ponder little Workmanships",
+      "que contemplemos pequeñas labores"
+    ],
+    [
+      "In Crayon, or in Wool,",
+      "de lápiz o de lana,"
+    ],
+    [
+      "With \"This was last Her fingers did\" –",
+      "diciendo: «Esto fue lo último que hicieron sus dedos»,"
+    ],
+    [
+      "Industrious until –",
+      "laboriosos hasta que"
+    ],
+    [
+      "The Thimble weighed too heavy –",
+      "el dedal pesó demasiado,"
+    ],
+    [
+      "The stitches stopped – themselves –",
+      "y las puntadas se detuvieron solas;"
+    ],
+    [
+      "And then 'twas put among the Dust",
+      "después quedó entre el polvo"
+    ],
+    [
+      "Upon the Closet shelves –",
+      "de los estantes del armario."
+    ],
+    [
+      "A Book I have – a friend gave –",
+      "Tengo un libro que me dio un amigo,"
+    ],
+    [
+      "Whose Pencil – here and there –",
+      "cuyo lápiz, aquí y allá,"
+    ],
+    [
+      "Had notched the place that pleased Him –",
+      "marcó los pasajes que le gustaban;"
+    ],
+    [
+      "At Rest – His fingers are –",
+      "sus dedos descansan ahora."
+    ],
+    [
+      "Now – when I read – I read not –",
+      "Y cuando leo, ya no leo,"
+    ],
+    [
+      "For interrupting Tears –",
+      "porque las lágrimas que interrumpen"
+    ],
+    [
+      "Obliterate the Etchings",
+      "borran esas marcas"
+    ],
+    [
+      "Too Costly for Repairs.",
+      "demasiado preciosas para repararlas."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 15,
+      "title": "Marcas de lápiz",
+      "body": "El gesto de subrayar deja un rastro material de una lectura pasada; las lágrimas amenazan precisamente ese testimonio."
+    }
+  ],
+  "interpretation": "Los objetos cotidianos se convierten en reliquias por la ausencia de quien los tocó. El libro anotado convierte la lectura en un encuentro imposible."
+},
+"J361": {
+  "id": "J361",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "What I can do – I will –",
+  "titleES": "Lo que pueda hacer, lo haré,",
+  "stanzaBreaks": [],
+  "source": "Johnson, The Complete Poems, J361, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "What I can do – I will –",
+      "Lo que pueda hacer, lo haré,"
+    ],
+    [
+      "Though it be little as a Daffodil –",
+      "aunque sea tan pequeño como un narciso;"
+    ],
+    [
+      "That I cannot – must be",
+      "lo que no pueda hacer habrá de ser"
+    ],
+    [
+      "Unknown to possibility –",
+      "desconocido para la posibilidad."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 2,
+      "title": "Daffodil",
+      "body": "El narciso ofrece una medida deliberadamente pequeña y concreta de la acción posible."
+    }
+  ],
+  "interpretation": "La modestia del narciso no atenúa la resolución: el poema distingue el límite efectivo de la acción de la renuncia anticipada."
 }
 });
