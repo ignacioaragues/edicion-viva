@@ -25945,6 +25945,417 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J339": {
+    "id": "J339",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "I tend my flowers for thee –",
+    "titleES": "Cuido mis flores para ti —",
+    "stanzaBreaks": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      15,
+      17,
+      20,
+      22,
+      24
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J339, p. 160. Texto cotejado con el ejemplar proporcionado; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "I tend my flowers for thee –",
+        "Cuido mis flores para ti —"
+      ],
+      [
+        "Bright Absentee!",
+        "¡Ausente luminoso!"
+      ],
+      [
+        "My Fuchsia's Coral Seams",
+        "Las costuras coralinas de mi fucsia"
+      ],
+      [
+        "Rip – while the Sower – dreams –",
+        "se rasgan — mientras el Sembrador — sueña —"
+      ],
+      [
+        "Geraniums – tint – and spot –",
+        "Los geranios — tiñen — y motean —"
+      ],
+      [
+        "Low Daisies – dot –",
+        "las margaritas bajas — puntean —"
+      ],
+      [
+        "My Cactus – splits her Beard",
+        "Mi cactus — abre su barba"
+      ],
+      [
+        "To show her throat –",
+        "para mostrar la garganta —"
+      ],
+      [
+        "Carnations – tip their spice –",
+        "Los claveles — ofrecen su especia —"
+      ],
+      [
+        "And Bees – pick up –",
+        "y las abejas — la recogen —"
+      ],
+      [
+        "A Hyacinth – I hid –",
+        "Un jacinto — que escondí —"
+      ],
+      [
+        "Puts out a Ruffled Head –",
+        "asoma su cabeza despeinada —"
+      ],
+      [
+        "And odors fall",
+        "y caen aromas"
+      ],
+      [
+        "From flasks – so small –",
+        "de frascos — tan pequeños —"
+      ],
+      [
+        "You marvel how they held –",
+        "que asombra cómo los contenían —"
+      ],
+      [
+        "Globe Roses – break their satin Bake –",
+        "Las rosas globosas — rompen su envoltura de satén —"
+      ],
+      [
+        "Upon my Garden floor –",
+        "sobre el suelo de mi jardín —"
+      ],
+      [
+        "Yet – thou – not there –",
+        "Pero — tú — no estás allí —"
+      ],
+      [
+        "I had as lief they bore",
+        "preferiría que no llevaran"
+      ],
+      [
+        "No Crimson – more –",
+        "ya más — carmesí —"
+      ],
+      [
+        "Thy Bower – be gay –",
+        "Que tu emparrado — esté alegre —"
+      ],
+      [
+        "Her Lord – away!",
+        "¡aunque su Señor — esté lejos!"
+      ],
+      [
+        "It ill becometh me –",
+        "No me corresponde —"
+      ],
+      [
+        "I'll dwell in Calyx – Gray –",
+        "habitaré en un Cáliz — Gris —"
+      ],
+      [
+        "How modestly – alway –",
+        "qué modestamente — siempre —"
+      ],
+      [
+        "Thy Daisy –",
+        "tu Margarita —"
+      ],
+      [
+        "Draped for thee!",
+        "¡vestida para ti!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Bright Absentee",
+        "body": "El destinatario ausente transforma el jardín en una forma de correspondencia: el despliegue de las flores acentúa la distancia."
+      },
+      {
+        "line": 24,
+        "title": "Calyx – Gray",
+        "body": "La voz se identifica con una flor discreta y sustituye el color del jardín por el gris del cáliz."
+      }
+    ],
+    "interpretation": "La enumeración de especies y colores parece celebrar la abundancia, pero el giro «Yet – thou – not there» obliga a releerla como una escena de privación. La voz prefiere reducirse a una margarita gris antes que participar de una fiesta sin destinatario."
+  },
+  "J340": {
+    "id": "J340",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "Is Bliss then, such Abyss,",
+    "titleES": "¿Es la Dicha, entonces, tal Abismo?",
+    "stanzaBreaks": [
+      3,
+      5,
+      9,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J340, p. 161. Texto cotejado con el ejemplar proporcionado; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "Is Bliss then, such Abyss,",
+        "¿Es la Dicha, entonces, tal Abismo?"
+      ],
+      [
+        "I must not put my foot amiss",
+        "que no debo dar un paso en falso"
+      ],
+      [
+        "For fear I spoil my shoe?",
+        "por temor a estropear mi zapato?"
+      ],
+      [
+        "I'd rather suit my foot",
+        "Preferiría acomodar mi pie"
+      ],
+      [
+        "Than save my Boot –",
+        "antes que salvar mi Bota —"
+      ],
+      [
+        "For yet to buy another Pair",
+        "pues comprar otro Par"
+      ],
+      [
+        "Is possible,",
+        "todavía es posible,"
+      ],
+      [
+        "At any store –",
+        "en cualquier tienda —"
+      ],
+      [
+        "But Bliss, is sold just once.",
+        "pero la Dicha se vende una sola vez."
+      ],
+      [
+        "The Patent lost",
+        "Perdida la Patente"
+      ],
+      [
+        "None buy it any more –",
+        "nadie vuelve a comprarla —"
+      ],
+      [
+        "Say, Foot, decide the point –",
+        "Vamos, Pie, decidí la cuestión —"
+      ],
+      [
+        "The Lady cross, or not?",
+        "¿Cruza la Dama, o no?"
+      ],
+      [
+        "Verdict for Boot!",
+        "¡Veredicto a favor de la Bota!"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 9,
+        "title": "La dicha irrepetible",
+        "body": "La imagen comercial del calzado y de la patente dramatiza una elección entre prudencia y oportunidad única."
+      },
+      {
+        "line": 14,
+        "title": "Verdict for Boot",
+        "body": "El remate da la victoria a la cautela, aunque el poema haya defendido el riesgo."
+      }
+    ],
+    "interpretation": "La voz debate consigo misma entre el deseo y el miedo a arruinar una oportunidad irrepetible. El veredicto a favor de la bota no resuelve del todo el conflicto: el razonamiento que lo precede ha demostrado que proteger el calzado puede costar la dicha."
+  },
+  "J342": {
+    "id": "J342",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "It will be Summer – eventually.",
+    "titleES": "Será Verano — finalmente.",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J342, p. 162. Texto cotejado con el ejemplar proporcionado; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "It will be Summer – eventually.",
+        "Será Verano — finalmente."
+      ],
+      [
+        "Ladies – with parasols –",
+        "Damas — con sombrillas —"
+      ],
+      [
+        "Sauntering Gentlemen – with Canes –",
+        "Caballeros paseando — con bastones —"
+      ],
+      [
+        "And little Girls – with Dolls –",
+        "y niñas pequeñas — con muñecas —"
+      ],
+      [
+        "Will tint the pallid landscape –",
+        "teñirán el paisaje pálido —"
+      ],
+      [
+        "As 'twere a bright Bouquet –",
+        "como si fuera un ramo brillante —"
+      ],
+      [
+        "Tho' drifted deep, in Parian –",
+        "aunque sepultada bajo nieve de Paros —"
+      ],
+      [
+        "The Village lies – today –",
+        "yazga la Aldea — hoy —"
+      ],
+      [
+        "The Lilacs – bending many a year –",
+        "Las lilas — dobladas durante tantos años —"
+      ],
+      [
+        "Will sway with purple load –",
+        "se mecerán con su carga púrpura —"
+      ],
+      [
+        "The Bees – will not despise the tune –",
+        "Las Abejas — no desdeñarán la melodía —"
+      ],
+      [
+        "Their Forefathers – have hummed –",
+        "que sus Antepasados — zumbaron —"
+      ],
+      [
+        "The Wild Rose – redden in the Bog –",
+        "La Rosa silvestre — enrojecerá en el Pantano —"
+      ],
+      [
+        "The Aster – on the Hill",
+        "El Áster — sobre la Colina"
+      ],
+      [
+        "Her everlasting fashion – set –",
+        "impondrá su moda eterna —"
+      ],
+      [
+        "And Covenant Gentians – frill –",
+        "y las Gencianas del Pacto — desplegarán sus volantes —"
+      ],
+      [
+        "Till Summer folds her miracle –",
+        "Hasta que el Verano pliegue su milagro —"
+      ],
+      [
+        "As Women – do – their Gown –",
+        "como las Mujeres — su Vestido —"
+      ],
+      [
+        "Or Priests – adjust the Symbols –",
+        "o los Sacerdotes — acomoden los Símbolos —"
+      ],
+      [
+        "When Sacrament – is done –",
+        "cuando termina el Sacramento —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 7,
+        "title": "Parian",
+        "body": "El mármol de Paros sirve de imagen para la blancura y rigidez de la nieve."
+      },
+      {
+        "line": 16,
+        "title": "Covenant Gentians",
+        "body": "La flor recibe una carga religiosa: el pacto anticipa la comparación final con el sacramento."
+      }
+    ],
+    "interpretation": "El futuro del verano es afirmado con insistencia, pero solo existe en contraste con la aldea inmóvil bajo la nieve. La imagen final del sacramento vuelve ritual el ciclo estacional: una promesa que, cuando se cumple, también concluye."
+  },
+  "J343": {
+    "id": "J343",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "My Reward for Being, was This.",
+    "titleES": "Mi Recompensa por Existir fue Esta.",
+    "stanzaBreaks": [
+      2,
+      5,
+      8,
+      10
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J343, p. 163. Texto cotejado con el ejemplar proporcionado; equivalencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "My Reward for Being, was This.",
+        "Mi Recompensa por Existir fue Esta."
+      ],
+      [
+        "My premium – My Bliss –",
+        "Mi premio — Mi Dicha —"
+      ],
+      [
+        "An Admiralty, less –",
+        "Un Almirantazgo, menos —"
+      ],
+      [
+        "A Sceptre – penniless –",
+        "Un Cetro — sin un centavo —"
+      ],
+      [
+        "And Realms – just Dross –",
+        "y Reinos — mera Escoria —"
+      ],
+      [
+        "When Thrones accost my Hands –",
+        "Cuando los Tronos aborden mis Manos —"
+      ],
+      [
+        "With “Me, Miss, Me” –",
+        "con «A mí, Señorita, a mí» —"
+      ],
+      [
+        "I'll unroll Thee –",
+        "te desplegaré a Ti —"
+      ],
+      [
+        "Dominions dowerless – beside this Grace –",
+        "Dominios sin dote — junto a esta Gracia —"
+      ],
+      [
+        "Election – Vote –",
+        "Elección — Voto —"
+      ],
+      [
+        "The Ballots of Eternity, will show just that.",
+        "las Papeletas de la Eternidad mostrarán precisamente eso."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Admiralty",
+        "body": "Los títulos de poder político quedan degradados ante una recompensa íntima que el poema no identifica de modo inequívoco."
+      },
+      {
+        "line": 10,
+        "title": "Election",
+        "body": "El lenguaje electoral se traslada a una escala de eternidad y reconocimiento."
+      }
+    ],
+    "interpretation": "La recompensa que importa excede las jerarquías de almirantazgos, cetros y tronos. El poema juega con las formas públicas de elección para declarar una fidelidad privada cuya naturaleza queda deliberadamente abierta."
+  },
   "J341": {
     "id": "J341",
     "franklin": "Pendiente de cotejo",
