@@ -1865,17 +1865,38 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All four chapters through Amen published from digital Tractatus LXXXI. Digital transcription citation Matth. V,13 corrected in commentary to Mt 15,13 and split admo nemus normalized. Printed PL54 collation, full contextual morphology, shared dictionary integration and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 83,
+      "section": "Sermo LXXXIII · In Natali S. Petri apostoli · caput I",
+      "paragraphs": 4,
+      "aligned_units": 4,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 3,
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxxiii/index.html",
+      "lexical_coverage": "5 selected contextual morphological entries; full morphology pending",
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapter I published; chapters II–III pending. Digital Tractatus LXXXIII source; printed PL54 collation, full morphology and browser QA pending."
     }
   ],
-  "next": "Sermo LXXXIII (skip LXXXII: already published)",
+  "next": "Sermo LXXXIII caput II, beginning Super hanc petram aedificabo Ecclesiam meam",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 81,
-    "chapter_next": 1,
-    "status": "not_started"
+    "number": 83,
+    "status": "partial",
+    "completed_chapters": [
+      1
+    ],
+    "next_chapter": 2
   },
   "priority_queue": [
     {
