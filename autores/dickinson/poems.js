@@ -28702,7 +28702,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   "interpretation": "La alegría no es necesariamente transparencia. La segunda estrofa corrige la espontaneidad de la primera: la sonrisa madura se lleva con discreción, como si fuese vulnerable a la mirada ajena."
 }
 ,
-"\"J354\"": {
+"J354": {
   "id": "J354",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1862 (Johnson)",
@@ -28837,7 +28837,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "El poema contempla la libertad aparente de la mariposa y la enfrenta a la utilidad humana. El vuelo parece un espectáculo gratuito, pero el atardecer iguala a quienes trabajan y a quien vaga."
 },
-"\"J355\"": {
+"J355": {
   "id": "J355",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1862 (Johnson)",
@@ -28917,7 +28917,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La carencia fabrica sus propios absolutos. El remate transforma la reflexión general en una interpelación íntima: aquello que parece divino quizá sea una proyección del yo."
 },
-"\"J356\"": {
+"J356": {
   "id": "J356",
   "franklin": "Pendiente de cotejo",
   "approx": "c. 1862 (Johnson)",
