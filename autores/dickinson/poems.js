@@ -29324,4 +29324,329 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La modestia del narciso no atenúa la resolución: el poema distingue el límite efectivo de la acción de la renuncia anticipada."
 }
+,
+"J362": {
+  "id": "J362",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "It struck me – every Day –",
+  "titleES": "Me golpeaba – cada día –",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Johnson, The Complete Poems, J362, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "It struck me – every Day –",
+      "Me golpeaba – cada día –"
+    ],
+    [
+      "The Lightning was as new",
+      "El relámpago era siempre nuevo,"
+    ],
+    [
+      "As if the Cloud that instant slit",
+      "como si la nube acabara de abrirse"
+    ],
+    [
+      "And let the Fire through –",
+      "y dejara pasar el fuego –"
+    ],
+    [
+      "It burned Me – in the Night –",
+      "Me quemaba – por la noche –"
+    ],
+    [
+      "It Blistered to My Dream –",
+      "Me abrasaba hasta en sueños –"
+    ],
+    [
+      "It sickened fresh upon my Sight –",
+      "Renovaba su daño ante mis ojos –"
+    ],
+    [
+      "With every Morn that came –",
+      "con cada mañana que llegaba –"
+    ],
+    [
+      "I thought that Storm – was brief –",
+      "Creí que aquella tormenta sería breve –"
+    ],
+    [
+      "The Maddest – quickest by –",
+      "la más furiosa – la más fugaz –"
+    ],
+    [
+      "But Nature lost the Date of This –",
+      "pero la Naturaleza perdió la fecha de aquello –"
+    ],
+    [
+      "And left it in the Sky –",
+      "y lo dejó suspendido en el cielo –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Relámpago persistente",
+      "body": "La imagen convierte un fenómeno instantáneo en una experiencia reiterada: la novedad del dolor no disminuye con su repetición."
+    },
+    {
+      "line": 11,
+      "title": "La fecha perdida",
+      "body": "La personificación de la Naturaleza deshace la expectativa de que una tormenta tenga un término previsible."
+    }
+  ],
+  "interpretation": "La repetición de «every» y «Morn» hace del rayo un presente perpetuo: el sufrimiento ya no es un acontecimiento, sino una forma del tiempo."
+},
+"J363": {
+  "id": "J363",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "I went to thank Her –",
+  "titleES": "Fui a darle las gracias –",
+  "stanzaBreaks": [
+    5,
+    7
+  ],
+  "source": "Johnson, The Complete Poems, J363, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "I went to thank Her –",
+      "Fui a darle las gracias –"
+    ],
+    [
+      "But She Slept –",
+      "pero ella dormía –"
+    ],
+    [
+      "Her Bed – a funneled Stone –",
+      "su lecho – una piedra ahuecada –"
+    ],
+    [
+      "With Nosegays at the Head and Foot –",
+      "con ramilletes a la cabecera y a los pies –"
+    ],
+    [
+      "That Travellers – had thrown –",
+      "que los viajeros – habían arrojado –"
+    ],
+    [
+      "Who went to thank Her –",
+      "quienes fueron a darle las gracias –"
+    ],
+    [
+      "But She Slept –",
+      "pero ella dormía –"
+    ],
+    [
+      "'Twas Short – to cross the Sea –",
+      "Fue breve – cruzar el mar –"
+    ],
+    [
+      "To look upon Her like – alive –",
+      "para verla como si estuviera – viva –"
+    ],
+    [
+      "But turning back – 'twas slow –",
+      "pero el regreso – fue lento –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 3,
+      "title": "Lecho de piedra",
+      "body": "«Funneled Stone» sugiere la forma hundida de una tumba; la imagen permite reconocer la muerte sin nombrarla."
+    },
+    {
+      "line": 8,
+      "title": "El viaje",
+      "body": "El contraste entre la brevedad de la ida y la lentitud del regreso traslada la pérdida al tiempo subjetivo."
+    }
+  ],
+  "interpretation": "La gratitud llega tarde: el estribillo «But She Slept» transforma una visita esperanzada en un encuentro imposible."
+},
+"J364": {
+  "id": "J364",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "The Morning after Woe –",
+  "titleES": "La mañana después del dolor –",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Johnson, The Complete Poems, J364, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "The Morning after Woe –",
+      "La mañana después del dolor –"
+    ],
+    [
+      "'Tis frequently the Way –",
+      "así sucede a menudo –"
+    ],
+    [
+      "Surpasses all that rose before –",
+      "supera a todas las que antes amanecieron –"
+    ],
+    [
+      "For utter Jubilee –",
+      "en absoluto júbilo –"
+    ],
+    [
+      "As Nature did not care –",
+      "como si a la Naturaleza nada le importara –"
+    ],
+    [
+      "And piled her Blossoms on –",
+      "y siguiera amontonando flores –"
+    ],
+    [
+      "And further to parade a Joy",
+      "y, para exhibir aún más su alegría,"
+    ],
+    [
+      "Her Victim stared upon –",
+      "ante la mirada de su víctima –"
+    ],
+    [
+      "The Birds declaim their Tunes –",
+      "los pájaros declaman sus melodías –"
+    ],
+    [
+      "Pronouncing every word",
+      "pronunciando cada palabra"
+    ],
+    [
+      "Like Hammers – Did they know they fell",
+      "como martillos – si supieran que caen"
+    ],
+    [
+      "Like Litanies of Lead –",
+      "como letanías de plomo –"
+    ],
+    [
+      "On here and there – a creature –",
+      "sobre alguna que otra criatura –"
+    ],
+    [
+      "They'd modify the Glee",
+      "moderarían su alborozo"
+    ],
+    [
+      "To fit some Crucifixal Clef –",
+      "para ajustarlo a una clave de crucifixión –"
+    ],
+    [
+      "Some Key of Calvary –",
+      "a alguna tonalidad del Calvario –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 9,
+      "title": "Música hostil",
+      "body": "El canto de los pájaros, normalmente consolador, se percibe como martilleo: la alegría del mundo agrava el duelo."
+    },
+    {
+      "line": 15,
+      "title": "Clave del Calvario",
+      "body": "«Clef» y «Key» mantienen el campo musical mientras «Crucifixal» y «Calvary» trasladan la escena a la Pasión."
+    }
+  ],
+  "interpretation": "El poema invierte el tópico de la naturaleza consoladora: la indiferencia de la primavera hace audible el aislamiento del doliente."
+},
+"J365": {
+  "id": "J365",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862",
+  "incipit": "Dare you see a Soul at the White Heat?",
+  "titleES": "¿Te atreves a ver un alma al rojo blanco?",
+  "stanzaBreaks": [
+    8
+  ],
+  "source": "Johnson, The Complete Poems, J365, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+  "lines": [
+    [
+      "Dare you see a Soul at the White Heat?",
+      "¿Te atreves a ver un alma al rojo blanco?"
+    ],
+    [
+      "Then crouch within the door –",
+      "Entonces agáchate junto a la puerta –"
+    ],
+    [
+      "Red – is the Fire's common tint –",
+      "Rojo – es el color habitual del fuego –"
+    ],
+    [
+      "But when the vivid Ore",
+      "pero cuando el mineral encendido"
+    ],
+    [
+      "Has vanquished Flame's conditions,",
+      "ha vencido las condiciones de la llama,"
+    ],
+    [
+      "It quivers from the Forge",
+      "tiembla al salir de la fragua"
+    ],
+    [
+      "Without a color, but the light",
+      "sin color alguno, salvo la luz"
+    ],
+    [
+      "Of unanointed Blaze.",
+      "de un resplandor no consagrado."
+    ],
+    [
+      "Least Village has its Blacksmith",
+      "Hasta la aldea más pequeña tiene su herrero,"
+    ],
+    [
+      "Whose Anvil's even ring",
+      "cuyo yunque de golpes regulares"
+    ],
+    [
+      "Stands symbol for the finer Forge",
+      "simboliza la fragua más sutil"
+    ],
+    [
+      "That soundless tugs – within –",
+      "que trabaja en silencio – por dentro –"
+    ],
+    [
+      "Refining these impatient Ores",
+      "refinando esos minerales impacientes"
+    ],
+    [
+      "With Hammer, and with Blaze",
+      "a golpes de martillo y llamaradas,"
+    ],
+    [
+      "Until the Designated Light",
+      "hasta que la luz destinada"
+    ],
+    [
+      "Repudiate the Forge –",
+      "reniegue de la fragua –"
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "White Heat",
+      "body": "La expresión inglesa designa una temperatura extrema en la que el metal emite luz blanca; «al rojo blanco» conserva el choque cromático."
+    },
+    {
+      "line": 12,
+      "title": "Fragua interior",
+      "body": "La fragua material funciona como analogía del trabajo invisible de transformación del alma."
+    }
+  ],
+  "interpretation": "La forja ofrece una imagen del proceso espiritual sin prometer mansedumbre: la intensidad final rechaza incluso el instrumento que la produjo."
+}
 });
