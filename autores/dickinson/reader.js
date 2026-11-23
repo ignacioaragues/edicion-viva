@@ -217,17 +217,20 @@
   const widthReset = document.querySelector('[data-width-reset]');
   const indexToggle = document.querySelector('[data-toggle-index]');
   if (layout && widthControl) {
-    const applyWidth = value => {
-      const width = Math.max(760, Math.min(2200, Number(value) || 1760));
-      document.body.style.setProperty('--dickinson-reader-max', width + 'px');
-      widthControl.value = String(width);
-      try { localStorage.setItem('dickinson-reader-width', String(width)); } catch (_) {}
+    // El contenedor siempre ocupa el ancho disponible. El control ajusta
+    // únicamente la proporción EN/ES, sin achicar el área de lectura.
+    const applyColumns = value => {
+      const left = Math.max(30, Math.min(70, Number(value) || 50));
+      document.body.style.setProperty('--dickinson-english-share', left + 'fr');
+      document.body.style.setProperty('--dickinson-spanish-share', (100 - left) + 'fr');
+      widthControl.value = String(left);
+      try { localStorage.setItem('dickinson-column-share', String(left)); } catch (_) {}
     };
-    let stored = 1760;
-    try { stored = Number(localStorage.getItem('dickinson-reader-width')) || 1760; } catch (_) {}
-    applyWidth(stored);
-    widthControl.addEventListener('input', () => applyWidth(widthControl.value));
-    if (widthReset) widthReset.addEventListener('click', () => applyWidth(1760));
+    let stored = 50;
+    try { stored = Number(localStorage.getItem('dickinson-column-share')) || 50; } catch (_) {}
+    applyColumns(stored);
+    widthControl.addEventListener('input', () => applyColumns(widthControl.value));
+    if (widthReset) widthReset.addEventListener('click', () => applyColumns(50));
   }
   if (layout && indexToggle) {
     const setIndex = hidden => {
