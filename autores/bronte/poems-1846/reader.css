@@ -159,3 +159,9 @@ body:has(.poem-view:not([hidden])) .poem-view{max-width:none}
 .topbar .parent-site-link{display:inline-flex;align-items:center;white-space:nowrap;flex-shrink:0;padding:8px 10px;border:1px solid var(--border);border-radius:4px;text-decoration:none;font:600 10px var(--sans);color:var(--deep)}
 .topbar .parent-site-link:hover{background:#eeeee9;border-color:#adb8aa}
 @media(max-width:600px){.topbar .parent-site-link{font-size:10px;padding:7px}.topbar{gap:8px}}
+
+/* Estado de lectura individual de los 61 poemas. */
+.read-progress-count{font:600 11px/1.5 var(--sans);color:var(--deep);margin:7px 0 13px}
+#poem-nav a.is-read .n::after{content:" ✓";color:#56805e;font-weight:700}
+#overview-index a.is-read .num::after{content:" ✓";color:#56805e;font-weight:700}
+#toggle-poem-read[aria-pressed="true"]{background:#e4eee4;border-color:#93b09a;color:#315d3c}
