@@ -218,16 +218,16 @@
   const indexToggle = document.querySelector('[data-toggle-index]');
   if (layout && widthControl) {
     const applyWidth = value => {
-      const width = Math.max(760, Math.min(1600, Number(value) || 1360));
-      document.documentElement.style.setProperty('--dickinson-reader-max', width + 'px');
+      const width = Math.max(760, Math.min(2200, Number(value) || 1760));
+      document.body.style.setProperty('--dickinson-reader-max', width + 'px');
       widthControl.value = String(width);
       try { localStorage.setItem('dickinson-reader-width', String(width)); } catch (_) {}
     };
-    let stored = 1360;
-    try { stored = Number(localStorage.getItem('dickinson-reader-width')) || 1360; } catch (_) {}
+    let stored = 1760;
+    try { stored = Number(localStorage.getItem('dickinson-reader-width')) || 1760; } catch (_) {}
     applyWidth(stored);
     widthControl.addEventListener('input', () => applyWidth(widthControl.value));
-    if (widthReset) widthReset.addEventListener('click', () => applyWidth(1360));
+    if (widthReset) widthReset.addEventListener('click', () => applyWidth(1760));
   }
   if (layout && indexToggle) {
     const setIndex = hidden => {
