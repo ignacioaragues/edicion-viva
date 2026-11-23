@@ -1998,30 +1998,42 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Digital Tractatus 89 transcribed and translated through Amen; printed PL54 collation, contextual token-by-token morphology, shared dictionary integration and browser QA pending. Source has [g 15Kb] pagination artefact omitted; 1 Cor 8:1 reference for littera occidit likely erroneous (2 Cor 3:6)."
+    },
+    {
+      "group": "sermones",
+      "number": 90,
+      "section": "Sermo XC · De jejunio septimi mensis V · caput I initial two units",
+      "paragraphs": 2,
+      "aligned_units": 2,
+      "published_chapters": [],
+      "total_chapters": 4,
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xc/index.html",
+      "voice_notes": 3,
+      "lexical_coverage": "17 selected contextual forms; remaining occurrences require verified morphology",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Partial opening of chapter I only. Digital Tractatus XC contains suspected corruption 'non, illigent' later in chapter I; do not silently emend. Print collation and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
     "number": 90,
-    "section": "caput I",
-    "instruction": "Verify Sermo XC source; complete whole sermon where feasible. Prior Sermo LXXXIX complete first translation, critical collation and contextual morphology pending."
+    "section": "caput I after two aligned units",
+    "next_latin": "In qua discordia non facile obtinetur",
+    "instruction": "Resolve corrupt digital reading 'non, illigent' against PL54 and independent witness; complete caput I and chapters II–IV before marking complete."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 88,
-    "completed_chapters": [
-      1
-    ],
-    "pending_chapters": [
-      2,
-      3,
-      4,
-      5
-    ],
-    "next_latin": "Divinarum autem reverentia sanctionum"
+    "number": 90,
+    "completed_units": 2,
+    "next_latin": "In qua discordia non facile obtinetur",
+    "pending": "rest of caput I and chapters II–IV"
   },
   "priority_queue": [
     {
