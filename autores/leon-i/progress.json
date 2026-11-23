@@ -1804,28 +1804,31 @@
     {
       "group": "sermones",
       "number": 79,
-      "section": "Sermo LXXIX · De Jejunio Pentecostes II · caput I",
-      "paragraphs": 2,
-      "aligned_units": 2,
+      "section": "Sermo LXXIX · De Jejunio Pentecostes II · capita I–IV",
+      "paragraphs": 8,
+      "aligned_units": 8,
       "published_chapters": [
-        1
+        1,
+        2,
+        3,
+        4
       ],
       "total_chapters": 4,
-      "translation": "partial original Spanish aligned translation",
-      "translation_complete": false,
-      "complete_work": false,
+      "translation": "complete first-pass original aligned Spanish translation",
+      "translation_complete": true,
+      "complete_work": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxix/index.html",
-      "voice_notes": 3,
-      "lexical_coverage": "11 selective contextual morphological entries; exhaustive token analysis pending",
+      "voice_notes": 6,
+      "lexical_coverage": "selected contextual morphological entries; exhaustive token analysis pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Caput I complete first pass. HTML corrupt 'majore qua ... amquam copia'; majore copia confirmed by second PDF transcription. Printed collation, chapters II–IV, morphology and QA pending."
+      "editorial_caveat": "All four chapters through Amen published. Digital Ballerini–Migne Latin compared; printed PL54 collation, complete word-by-word morphology, shared dictionary and browser QA pending. Chapter I digital corruption majore qua ... amquam copia emended to majore copia."
     }
   ],
-  "next": "Sermo LXXIX caput II, In exercendo autem hoc Dei munere; complete chapters II–IV",
+  "next": "Sermo LXXX · De Jejunio Pentecostes III (short complete sermon)",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-23",
+  "last_edit": "2026-11-23: Sermo LXXIX chapters II–IV published; first-pass translation complete",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
