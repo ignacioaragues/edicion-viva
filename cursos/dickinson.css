@@ -84,3 +84,15 @@ body[data-page="edicion"] .reader-controls{margin:14px 0}
 @media(max-width:900px){body[data-page="edicion"] .page-grid{grid-template-columns:175px minmax(0,1fr);gap:18px}}
 @media(max-width:650px){body[data-page="edicion"] .page-grid{display:block}body[data-page="edicion"] .poem-line{display:block}body[data-page="edicion"] .poem-grid-head{display:block}}
 @media(prefers-reduced-motion:reduce){body[data-page="edicion"] .container{transition:none}}
+
+/* Ancho estable: el slider modifica las columnas, no el contenedor. */
+body[data-page="edicion"]{--dickinson-reader-max:2200px;--dickinson-english-share:50fr;--dickinson-spanish-share:50fr}
+body[data-page="edicion"] .container{max-width:min(100%,2200px);width:100%}
+body[data-page="edicion"] .poem-line,
+body[data-page="edicion"] .poem-grid-head{
+  grid-template-columns:minmax(0,var(--dickinson-english-share)) minmax(0,var(--dickinson-spanish-share));
+}
+@media(max-width:650px){
+  body[data-page="edicion"] .poem-line,
+  body[data-page="edicion"] .poem-grid-head{display:block}
+}
