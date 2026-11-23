@@ -68,3 +68,19 @@ body[data-page="edicion"] .poem-line:focus-within{
 @media(prefers-reduced-motion:reduce){
   body[data-page="edicion"] .poem-line{transition:none}
 }
+
+/* Aprovechamiento horizontal del lector (sin afectar a las lecciones). */
+body[data-page="edicion"]{--dickinson-reader-max:1760px}
+body[data-page="edicion"] .container{width:100%;max-width:var(--dickinson-reader-max);padding-inline:clamp(16px,2vw,34px);transition:max-width .12s ease}
+body[data-page="edicion"] .page-grid{grid-template-columns:clamp(190px,15vw,245px) minmax(0,1fr);gap:clamp(18px,2.2vw,36px)}
+body[data-page="edicion"] .poem-grid{padding:16px clamp(14px,1.7vw,28px)}
+body[data-page="edicion"] .poem-line,body[data-page="edicion"] .poem-grid-head{gap:clamp(18px,2.4vw,44px)}
+body[data-page="edicion"] .poem-view{margin-top:24px;padding-top:16px}
+body[data-page="edicion"] .masthead{padding:32px 0 22px}
+body[data-page="edicion"] .masthead h1{font-size:clamp(32px,3.4vw,52px);margin:10px 0}
+body[data-page="edicion"] .page-grid{padding-top:22px}
+body[data-page="edicion"] .section-title{margin-bottom:12px}
+body[data-page="edicion"] .reader-controls{margin:14px 0}
+@media(max-width:900px){body[data-page="edicion"] .page-grid{grid-template-columns:175px minmax(0,1fr);gap:18px}}
+@media(max-width:650px){body[data-page="edicion"] .page-grid{display:block}body[data-page="edicion"] .poem-line{display:block}body[data-page="edicion"] .poem-grid-head{display:block}}
+@media(prefers-reduced-motion:reduce){body[data-page="edicion"] .container{transition:none}}
