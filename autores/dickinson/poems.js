@@ -25403,6 +25403,116 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "franklin": null,
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J332, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
   },
+  "J333": {
+    "id": "J333",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "The Grass so little has to do –",
+    "titleES": "Qué poco tiene que hacer la hierba",
+    "stanzaBreaks": [
+      10
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J333, pp. 157–158; cotejo manuscrito y Franklin pendientes.",
+    "lines": [
+      [
+        "The Grass so little has to do –",
+        "Qué poco tiene que hacer la hierba —"
+      ],
+      [
+        "A Sphere of simple Green –",
+        "una esfera de verde sencillo —"
+      ],
+      [
+        "With only Butterflies to brood",
+        "solo mariposas que cuidar"
+      ],
+      [
+        "And Bees to entertain –",
+        "y abejas que entretener —"
+      ],
+      [
+        "And stir all day to pretty Tunes",
+        "y mecerse todo el día al son de lindas melodías"
+      ],
+      [
+        "The Breezes fetch along –",
+        "que traen las brisas —"
+      ],
+      [
+        "And hold the Sunshine in its lap",
+        "y acoger el sol en su regazo"
+      ],
+      [
+        "And bow to every thing –",
+        "e inclinarse ante todas las cosas —"
+      ],
+      [
+        "And thread the Dews, all night, like Pearls –",
+        "y ensartar el rocío toda la noche, como perlas —"
+      ],
+      [
+        "And make itself so fine",
+        "y ponerse tan hermosa"
+      ],
+      [
+        "A Duchess were too common",
+        "que una duquesa sería demasiado vulgar"
+      ],
+      [
+        "For such a noticing –",
+        "para merecer semejante atención —"
+      ],
+      [
+        "And even when it dies – to pass",
+        "Y aun al morir — partir"
+      ],
+      [
+        "In Odors so divine –",
+        "entre aromas tan divinos —"
+      ],
+      [
+        "Like Lowly spices, lain to sleep –",
+        "como humildes especias, tendidas a dormir —"
+      ],
+      [
+        "Or Spikenards, perishing –",
+        "o nardos que perecen —"
+      ],
+      [
+        "And then, in Sovereign Barns to dwell –",
+        "y luego habitar graneros soberanos —"
+      ],
+      [
+        "And dream the Days away,",
+        "y pasar los días soñando,"
+      ],
+      [
+        "The Grass so little has to do",
+        "¡Qué poco tiene que hacer la hierba!"
+      ],
+      [
+        "I wish I were a Hay –",
+        "Quisiera ser heno —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Ocio fecundo",
+        "body": "La aparente inactividad de la hierba se revela como una vida de relaciones con insectos, brisa, sol y rocío."
+      },
+      {
+        "line": 11,
+        "title": "Duquesa",
+        "body": "La comparación invierte la jerarquía social: la hierba merece más atención que una aristócrata."
+      },
+      {
+        "line": 20,
+        "title": "Heno",
+        "body": "El deseo final incluye la muerte y transformación de la hierba; no se limita a su verdor."
+      }
+    ]
+  },
   "J341": {
     "id": "J341",
     "franklin": "Pendiente de cotejo",
