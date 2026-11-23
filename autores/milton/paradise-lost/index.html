@@ -16,7 +16,7 @@ const requestedBook=Number(new URLSearchParams(location.search).get('book')||1);
 const nav=document.getElementById('booknav');
 for(let i=1;i<=12;i++){
  const a=document.createElement('a');
- a.textContent=i===1?'Libro I · completo':i===2?'Libro II · completo':i===3?'Libro III · completo':i===4?'Libro IV · completo':i===5?'Libro V · completo':i===6?'Libro VI · completo':i===7?'Libro VII · completo':i===8?'Libro VIII · 65 versos':('Libro '+String(i).padStart(2,'0')+' · pendiente');
+ a.textContent=i===1?'Libro I · completo':i===2?'Libro II · completo':i===3?'Libro III · completo':i===4?'Libro IV · completo':i===5?'Libro V · completo':i===6?'Libro VI · completo':i===7?'Libro VII · completo':i===8?'Libro VIII · 125 versos':('Libro '+String(i).padStart(2,'0')+' · pendiente');
  a.href=i<=8?'?book='+i:'#';
  if(i===activeBook)a.setAttribute('aria-current','page');
  if(i>8)a.setAttribute('aria-disabled','true');
