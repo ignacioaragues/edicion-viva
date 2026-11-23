@@ -3072,12 +3072,21 @@
         "https://biblehub.com/commentaries/egt/mark/10.htm",
         "https://www.biblegateway.com/passage/?search=Mark+10%3A14&version=SBLGNT%3BTR1550"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 15,
+      "to": 15,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "18/18 fichas posicionales",
+      "second_review": "pending"
     }
   ],
-  "pending": "Continuar Marcos 10,9; segunda revisión filológica retrospectiva pendiente.",
+  "pending": "Continuar Marcos 10,16; revisión retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 15
+    "verse": 16
   },
   "last_edit": "2026-11-24",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
@@ -6396,6 +6405,12 @@
   "prepublication_research_10_14": {
     "status": "published_morphology_mechanically_aligned",
     "morphology_audit": "25/25",
+    "second_passage_review": "pending",
+    "latin": "optional_pending"
+  },
+  "prepublication_research_10_15": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "18/18",
     "second_passage_review": "pending",
     "latin": "optional_pending"
   }
