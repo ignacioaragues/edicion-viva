@@ -1726,26 +1726,31 @@
     {
       "group": "sermones",
       "number": 76,
-      "section": "Sermo LXXVI · De Pentecoste II · capita I–IV of IX",
-      "paragraphs": 14,
-      "aligned_units": 14,
+      "section": "Sermo LXXVI · De Pentecoste II · capita I–IX complete first pass",
+      "paragraphs": 29,
+      "aligned_units": 29,
       "published_chapters": [
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
       ],
       "total_chapters": 9,
-      "translation": "partial original Spanish aligned translation",
-      "complete_work": false,
-      "translation_complete": false,
+      "translation": "complete first-pass original Spanish aligned translation",
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxvi/index.html",
-      "voice_notes": 8,
+      "voice_notes": 11,
       "lexical_coverage": "18 selective contextual entries; exhaustive word-by-word morphology pending",
       "morphology_complete": false,
       "source_collation_complete": false,
-      "editorial_caveat": "Chapters I–IV published. Resume V at Sed illi perfectioni, quae erat discipulis conferenda. Chapters V–IX pending. Digital Latin checked against Tractatus LXXVI; printed PL54 collation, full morphology, dictionary integration and browser QA pending."
+      "editorial_caveat": "All nine chapters through Amen published in first pass. Digital Latin checked against Tractatus LXXVI; printed PL54 collation, exhaustive contextual morphology, shared dictionary integration and browser QA pending. Historical chronology and Manichaean polemical allegations require critical checking."
     }
   ],
   "next": "Sermo LXXV caput II, Nam sicut apostolica testatur historia; finish chapters II–V before Sermo LXXVI",
