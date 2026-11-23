@@ -112,3 +112,11 @@ body[data-page="edicion"] [data-toggle-highlights][aria-pressed="true"]{
   border-color:#b89a4e;
   font-weight:700;
 }
+
+/* Cuaderno privado por poema, sin interferir con notas filológicas. */
+body[data-page="edicion"] .poem-personal-notes{margin:22px 0;padding:16px 18px;border:1px solid var(--rule);background:var(--white);border-radius:6px}
+body[data-page="edicion"] .poem-personal-notes summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--accent)}
+body[data-page="edicion"] .poem-personal-note-input{display:block;width:100%;min-height:125px;margin:14px 0 8px;resize:vertical;padding:12px;border:1px solid var(--rule);border-radius:4px;background:#fffefa;color:var(--ink);font:14px/1.7 'DM Sans',sans-serif}
+body[data-page="edicion"] .poem-note-save-status{font-size:11px;color:var(--muted)}
+body[data-page="edicion"] .poem-note-export{margin-left:12px;padding:5px 10px;border:1px solid var(--rule);background:transparent;font-size:11px}
+body[data-page="edicion"] .poem-personal-note-help{font-size:11px;color:var(--muted);margin:8px 0 0}
