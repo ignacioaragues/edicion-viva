@@ -28701,4 +28701,312 @@ window.ED_DICKINSON_POEMS = Object.freeze({
   ],
   "interpretation": "La alegría no es necesariamente transparencia. La segunda estrofa corrige la espontaneidad de la primera: la sonrisa madura se lleva con discreción, como si fuese vulnerable a la mirada ajena."
 }
+,
+"\"J354\"": {
+  "id": "J354",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "From Cocoon forth a Butterfly",
+  "titleES": "De la crisálida salió una mariposa,",
+  "stanzaBreaks": [
+    4,
+    8,
+    11,
+    17,
+    21
+  ],
+  "source": "Johnson, The Complete Poems, J354; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "From Cocoon forth a Butterfly",
+      "De la crisálida salió una mariposa,"
+    ],
+    [
+      "As Lady from her Door",
+      "como una dama de su puerta"
+    ],
+    [
+      "Emerged – a Summer Afternoon –",
+      "emergió una tarde de verano,"
+    ],
+    [
+      "Repairing Everywhere –",
+      "recorriéndolo todo,"
+    ],
+    [
+      "Without Design – that I could trace",
+      "sin propósito que yo pudiera advertir,"
+    ],
+    [
+      "Except to stray abroad",
+      "salvo el de vagar por ahí"
+    ],
+    [
+      "On Miscellaneous Enterprise",
+      "en empresas diversas"
+    ],
+    [
+      "The Clovers – understood –",
+      "que los tréboles comprendían."
+    ],
+    [
+      "Her pretty Parasol be seen",
+      "Se veía su bonito parasol"
+    ],
+    [
+      "Contracting in a Field",
+      "plegarse en un campo"
+    ],
+    [
+      "Where Men made Hay –",
+      "donde unos hombres segaban heno;"
+    ],
+    [
+      "Then struggling hard",
+      "luego luchaba con fuerza"
+    ],
+    [
+      "With an opposing Cloud –",
+      "contra una nube adversa,"
+    ],
+    [
+      "Where Parties – Phantom as Herself –",
+      "donde figuras, fantasmas como ella,"
+    ],
+    [
+      "To Nowhere – seemed to go",
+      "parecían dirigirse a ninguna parte"
+    ],
+    [
+      "In purposeless Circumference –",
+      "en círculos sin finalidad,"
+    ],
+    [
+      "As 'twere a Tropic Show –",
+      "como en un espectáculo tropical."
+    ],
+    [
+      "And notwithstanding Bee – that worked –",
+      "Y pese a la abeja que trabajaba"
+    ],
+    [
+      "And Flower – that zealous blew –",
+      "y a la flor que florecía con celo,"
+    ],
+    [
+      "This Audience of Idleness",
+      "aquel público de ociosidad"
+    ],
+    [
+      "Disdained them, from the Sky –",
+      "las desdeñaba desde el cielo,"
+    ],
+    [
+      "Till Sundown crept – a steady Tide –",
+      "hasta que el ocaso avanzó, marea constante,"
+    ],
+    [
+      "And Men that made the Hay –",
+      "y los hombres que segaban el heno,"
+    ],
+    [
+      "And Afternoon – and Butterfly –",
+      "y la tarde, y la mariposa"
+    ],
+    [
+      "Extinguished – in the Sea –",
+      "se extinguieron en el mar."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Metamorfosis",
+      "body": "La salida de la crisálida se compara con la aparición social de una dama: naturaleza y etiqueta se superponen."
+    },
+    {
+      "line": 15,
+      "title": "Circunferencia",
+      "body": "El movimiento sin destino contrasta con el trabajo de los segadores y la abeja; la palabra reaparece como figura importante en Dickinson."
+    },
+    {
+      "line": 22,
+      "title": "El ocaso como marea",
+      "body": "La imagen final disuelve simultáneamente paisaje, trabajo y vuelo; no afirma una muerte literal de la mariposa."
+    }
+  ],
+  "interpretation": "El poema contempla la libertad aparente de la mariposa y la enfrenta a la utilidad humana. El vuelo parece un espectáculo gratuito, pero el atardecer iguala a quienes trabajan y a quien vaga."
+},
+"\"J355\"": {
+  "id": "J355",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "'Tis Opposites – entice –",
+  "titleES": "Son los opuestos los que atraen:",
+  "stanzaBreaks": [
+    4,
+    8
+  ],
+  "source": "Johnson, The Complete Poems, J355; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "'Tis Opposites – entice –",
+      "Son los opuestos los que atraen:"
+    ],
+    [
+      "Deformed Men – ponder Grace –",
+      "los deformes meditan sobre la gracia;"
+    ],
+    [
+      "Bright fires – the Blanketless –",
+      "los desabrigados, sobre fuegos brillantes;"
+    ],
+    [
+      "The Lost – Day's face –",
+      "los perdidos, sobre el rostro del día."
+    ],
+    [
+      "The Blind – esteem it be",
+      "Los ciegos juzgan que ver"
+    ],
+    [
+      "Enough Estate – to see –",
+      "sería riqueza suficiente;"
+    ],
+    [
+      "The Captive – strangles new –",
+      "el cautivo vuelve a ahogarse"
+    ],
+    [
+      "For deeming – Beggars – play –",
+      "al imaginar que los mendigos juegan."
+    ],
+    [
+      "To lack – enamor Thee –",
+      "Carecer: eso te enamora,"
+    ],
+    [
+      "Tho' the Divinity –",
+      "aunque la divinidad"
+    ],
+    [
+      "Be only",
+      "no sea sino"
+    ],
+    [
+      "Me –",
+      "yo misma."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 1,
+      "title": "Deseo por contraste",
+      "body": "La serie de privaciones presenta el deseo como una relación con aquello de lo que se carece."
+    },
+    {
+      "line": 7,
+      "title": "El cautivo",
+      "body": "La sintaxis comprimida deja abierto el matiz exacto de «strangles new»; la traducción conserva la imagen de asfixia renovada."
+    },
+    {
+      "line": 10,
+      "title": "Divinidad del yo",
+      "body": "El giro final traslada al sujeto la condición de objeto deseado y permite leer una crítica a la idealización."
+    }
+  ],
+  "interpretation": "La carencia fabrica sus propios absolutos. El remate transforma la reflexión general en una interpelación íntima: aquello que parece divino quizá sea una proyección del yo."
+},
+"\"J356\"": {
+  "id": "J356",
+  "franklin": "Pendiente de cotejo",
+  "approx": "c. 1862 (Johnson)",
+  "incipit": "The Day that I was crowned",
+  "titleES": "El día en que me coronaron",
+  "stanzaBreaks": [
+    4,
+    8,
+    12
+  ],
+  "source": "Johnson, The Complete Poems, J356; edición facilitada, página impresa 169. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+  "lines": [
+    [
+      "The Day that I was crowned",
+      "El día en que me coronaron"
+    ],
+    [
+      "Was like the other Days –",
+      "era como todos los demás,"
+    ],
+    [
+      "Until the Coronation came –",
+      "hasta que llegó la coronación,"
+    ],
+    [
+      "And then – 'twas Otherwise –",
+      "y entonces fue distinto."
+    ],
+    [
+      "As Carbon in the Coal",
+      "Como el carbono del carbón"
+    ],
+    [
+      "And Carbon in the Gem",
+      "y el carbono de la gema"
+    ],
+    [
+      "Are One – and yet the former",
+      "son uno mismo, y sin embargo el primero"
+    ],
+    [
+      "Were dull for Diadem –",
+      "sería opaco para una diadema,"
+    ],
+    [
+      "I rose, and all was plain –",
+      "me levanté y todo era sencillo;"
+    ],
+    [
+      "But when the Day declined",
+      "pero al declinar el día,"
+    ],
+    [
+      "Myself and It, in Majesty",
+      "yo y él, en majestad,"
+    ],
+    [
+      "Were equally – adorned –",
+      "estábamos igualmente adornados."
+    ],
+    [
+      "The Grace that I – was chose –",
+      "La gracia de haber sido elegida"
+    ],
+    [
+      "To Me – surpassed the Crown",
+      "superaba para mí la corona"
+    ],
+    [
+      "That was the Witness for the Grace –",
+      "que daba testimonio de esa gracia:"
+    ],
+    [
+      "'Twas even that 'twas Mine –",
+      "lo esencial era que fuese mía."
+    ]
+  ],
+  "notes": [
+    {
+      "line": 5,
+      "title": "Carbón y gema",
+      "body": "La analogía mineral contrapone la identidad material a la diferencia de brillo y reconocimiento."
+    },
+    {
+      "line": 13,
+      "title": "La gracia de ser elegida",
+      "body": "La coronación puede leerse como reconocimiento espiritual, amoroso o poético; el texto no fija un acontecimiento biográfico."
+    }
+  ],
+  "interpretation": "El signo exterior de distinción vale menos que la experiencia interior de haber sido escogida. El paralelismo con el día que declina devuelve majestad a lo cotidiano."
+}
 });
