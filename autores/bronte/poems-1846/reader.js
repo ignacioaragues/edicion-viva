@@ -6,6 +6,34 @@ if(poems.length!==61){document.querySelector('#overview').textContent='No se pud
 const $=s=>document.querySelector(s), esc=s=>String(s).replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
 const getNum=()=>{const n=Number(new URLSearchParams(location.search).get('poem'));return Number.isInteger(n)&&n>=1&&n<=poems.length?n:0};
 let current=getNum(), filter='all';
+const readKey='ed-bronte-1846-read-v1';
+let readIds=new Set();
+try {
+ const stored=JSON.parse(localStorage.getItem(readKey)||'[]');
+ if(Array.isArray(stored))readIds=new Set(stored.filter(n=>Number.isInteger(n)&&n>=1&&n<=61));
+} catch {}
+const readCount=$('#read-progress-count');
+function updateReadUI(){
+ if(readCount)readCount.textContent=readIds.size+' de '+poems.length+' leídos';
+ document.querySelectorAll('[data-poem-number]').forEach(a=>{
+  const n=Number(a.dataset.poemNumber);
+  a.classList.toggle('is-read',readIds.has(n));
+  a.setAttribute('aria-label',poems[n-1].title+(readIds.has(n)?', leído':', pendiente'));
+ });
+ const button=$('#toggle-poem-read');
+ if(button&&current){
+  const read=readIds.has(current);
+  button.textContent=read?'✓ Leído · marcar pendiente':'○ Marcar como leído';
+  button.setAttribute('aria-pressed',String(read));
+ }
+}
+function markRead(n){
+ if(readIds.has(n))readIds.delete(n);else readIds.add(n);
+ try {localStorage.setItem(readKey,JSON.stringify([...readIds].sort((a,b)=>a-b)));}catch{}
+ updateReadUI();
+}
+$('#toggle-poem-read')?.addEventListener('click',()=>{if(current)markRead(current)});
+
 /* El ancho del poema se personaliza sin alterar texto, traducciones ni índice. */
 const widthControl=$('#reader-width-slider'),widthLabel=$('#reader-width-value'),widthReset=$('#reader-width-reset');
 const widthKey='edicion-viva:bronte:poem-width:v1';
@@ -34,14 +62,15 @@ function buildIndex(){
  const nav=$('#poem-nav'), overview=$('#overview-index');
  nav.replaceChildren();overview.replaceChildren();
  for(const p of poems){
-  const a=document.createElement('a');a.href=link(p.n);a.dataset.author=p.author;
+  const a=document.createElement('a');a.href=link(p.n);a.dataset.author=p.author;a.dataset.poemNumber=String(p.n);
   if(p.n===current)a.setAttribute('aria-current','page');
   a.innerHTML='<span class="n">'+String(p.n).padStart(2,'0')+'</span><span>'+esc(p.title)+'<small>'+esc(p.penName)+' · p. '+p.page+'</small></span>';
   nav.append(a);
-  const item=document.createElement('a');item.href=link(p.n);
+  const item=document.createElement('a');item.href=link(p.n);item.dataset.poemNumber=String(p.n);
   item.innerHTML='<span class="num">'+String(p.n).padStart(2,'0')+'</span><span class="name">'+esc(p.title)+'</span><span class="author-letter">'+authorInitial(p.author)+'</span>';
   overview.append(item);
  }
+ updateReadUI();
  $('#progress-fill').style.width=(current/61*100)+'%';
  $('#current-position').textContent=current?'Poema '+current+' de 61':'Índice · 61 poemas';
 }
