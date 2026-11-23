@@ -48,3 +48,23 @@ body[data-page="edicion"] .rail .poem-index-group a.is-read::after{content:" ✓
 .poem-read-toggle{font:12px 'DM Sans',sans-serif;border:1px solid var(--rule);background:var(--white);color:var(--ink);padding:8px 12px;margin:0 14px 12px 0;cursor:pointer}
 .poem-read-toggle[aria-pressed="true"]{border-color:#90aa96;color:#47715b}
 @media(max-width:650px){body[data-page="edicion"] #dickinson-index{max-height:45vh;overflow-y:auto;border:1px solid var(--rule);padding:12px;margin-bottom:20px}body[data-page="edicion"] .rail .poem-index-group a{display:block;margin:0}}
+
+/* Dickinson: resaltado de verso completo, con ambas columnas sincronizadas. */
+body[data-page="edicion"] .poem-line{
+  position:relative;
+  border-radius:4px;
+  transition:background-color .14s ease,box-shadow .14s ease;
+}
+@media(hover:hover){
+  body[data-page="edicion"] .poem-line:hover{
+    background:#eee9df;
+    box-shadow:0 0 0 7px #eee9df;
+  }
+}
+body[data-page="edicion"] .poem-line:focus-within{
+  background:#eee9df;
+  box-shadow:0 0 0 7px #eee9df;
+}
+@media(prefers-reduced-motion:reduce){
+  body[data-page="edicion"] .poem-line{transition:none}
+}
