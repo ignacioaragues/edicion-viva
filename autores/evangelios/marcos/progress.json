@@ -2964,14 +2964,26 @@
         "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php",
         "https://www.studylight.org/interlinear-study-bible/greek/mark/10-5.html"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 6,
+      "to": 6,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "9/9 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://studybible.info/SBLGNT/Mark%2010%3A6",
+        "https://tips.translation.bible/es/story/sil-translators-notes-on-mark-106/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 10,6; segunda revisión filológica retrospectiva pendiente.",
+  "pending": "Continuar Marcos 10,7; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 6
+    "verse": 7
   },
-  "last_edit": "2026-11-23: Marcos 10,5; 14 fichas posicionales; notas sobre dureza de corazón y variante textual.",
+  "last_edit": "2026-11-23: Marcos 10,6; 9 fichas posicionales; notas sobre Génesis 1,27 y variante ὁ θεός.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6193,6 +6205,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.bibliaplus.org/en/commentaries/236/cambridge-greek-testament-for-schools-and-colleges-commentary/mark/10/4"
+    ]
+  },
+  "prepublication_research_10_6": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "9/9",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://studybible.info/SBLGNT/Mark%2010%3A6",
+      "https://tips.translation.bible/es/story/sil-translators-notes-on-mark-106/"
     ]
   }
 }
