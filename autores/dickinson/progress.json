@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 355,
-    "publishedVerses": 4773,
+    "publishedPoems": 359,
+    "publishedVerses": 4821,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -366,20 +366,24 @@
       "J712",
       "J986",
       "J1129",
-      "J1212"
+      "J1212",
+      "J344",
+      "J345",
+      "J346",
+      "J347"
     ],
-    "completedSequentialThrough": "J343",
-    "nextJohnsonId": "J344",
+    "completedSequentialThrough": "J347",
+    "nextJohnsonId": "J348",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-24",
-      "result": "J339, J340, J342 y J343 cotejados con Johnson, pp. 160–163; correspondencias Franklin y variantes manuscritas pendientes.",
-      "newVersesThisRun": 72
+      "result": "J344–J347 cotejados con Johnson, pp. 163–165. Franklin y variantes manuscritas pendientes; 48 versos nuevos.",
+      "newVersesThisRun": 48
     },
-    "lastConsecutiveJohnsonId": "J343",
-    "lastPublishedBlock": "J339–J340, J342–J343 (J341 ya existente)"
+    "lastConsecutiveJohnsonId": "J347",
+    "lastPublishedBlock": "J344–J347"
   },
-  "lastCompletedMilestone": "J343",
-  "nextAction": "Continuar desde J344, objetivo aproximado 200 versos por ejecución.",
+  "lastCompletedMilestone": "J347",
+  "nextAction": "Traducir desde J348, apuntando a 200 versos nuevos completos por entrega",
   "updatedOn": "2026-11-24"
 }
