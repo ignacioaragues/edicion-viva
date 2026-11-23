@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 346,
-    "publishedVerses": 4637,
+    "publishedPoems": 348,
+    "publishedVerses": 4657,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -345,6 +345,8 @@
       "J331",
       "J332",
       "J333",
+      "J334",
+      "J335",
       "J341",
       "J376",
       "J441",
@@ -359,18 +361,18 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": "J333",
-    "nextJohnsonId": "J334",
+    "completedSequentialThrough": "J335",
+    "nextJohnsonId": "J336",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-23",
-      "result": "J333 cotejado con Johnson pp.157–158; manuscrito y Franklin pendientes.",
+      "result": "J334–J335 cotejados con Johnson pp. 158–159; Franklin y manuscritos pendientes. Se repararon claves faltantes J329–J332 en poems.js.",
       "newVersesThisRun": 20
     },
-    "lastConsecutiveJohnsonId": "J333",
-    "lastPublishedBlock": "J333"
+    "lastConsecutiveJohnsonId": "J335",
+    "lastPublishedBlock": "J334–J335"
   },
-  "lastCompletedMilestone": "J333",
-  "nextAction": "Continuar J334; objetivo 200 versos nuevos por ejecución.",
+  "lastCompletedMilestone": "J335",
+  "nextAction": "Continuar J336, objetivo ~200 versos nuevos por ejecución.",
   "updatedOn": "2026-11-23"
 }
