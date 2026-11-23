@@ -23230,6 +23230,295 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J307": {
+    "id": "J307",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "The One who could repeat the Summer day -",
+    "titleES": "Quien pudiera repetir el día de verano —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J307, pp. 145–146; texto cotejado con la edición de Johnson. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "The One who could repeat the Summer day -",
+        "Quien pudiera repetir el día de verano —"
+      ],
+      [
+        "Were greater than itself - though He",
+        "sería más grande que él mismo — aunque fuera"
+      ],
+      [
+        "Minutest of Mankind should be -",
+        "el más pequeño de los seres humanos —"
+      ],
+      [
+        "And He - could reproduce the Sun -",
+        "y pudiera reproducir el Sol —"
+      ],
+      [
+        "At period of going down -",
+        "en el momento de ponerse —"
+      ],
+      [
+        "The Lingering - and the Stain - I mean -",
+        "su demora — y su mancha — quiero decir —"
+      ],
+      [
+        "When Orient have been outgrown -",
+        "cuando el Oriente haya quedado atrás —"
+      ],
+      [
+        "And Occident - become Unknown -",
+        "y Occidente — se vuelva desconocido —"
+      ],
+      [
+        "His Name - remain -",
+        "su Nombre — permanecería —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La repetición creadora",
+        "body": "Recrear una experiencia irrepetible vale más que la magnitud social del creador. El final imagina la supervivencia del nombre por medio del arte."
+      }
+    ]
+  },
+  "J308": {
+    "id": "J308",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I send Two Sunsets -",
+    "titleES": "Envío dos puestas de sol —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J308, pp. 145–146; texto cotejado con la edición de Johnson. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "I send Two Sunsets -",
+        "Envío dos puestas de sol —"
+      ],
+      [
+        "Day and I - in competition ran -",
+        "el Día y yo — competimos —"
+      ],
+      [
+        "I finished Two - and several Stars -",
+        "terminé dos — y varias Estrellas —"
+      ],
+      [
+        "While He - was making One -",
+        "mientras él — hacía una —"
+      ],
+      [
+        "His own was ampler - but as I",
+        "la suya era más vasta — pero, como"
+      ],
+      [
+        "Was saying to a friend -",
+        "le decía a un amigo —"
+      ],
+      [
+        "Mine - is the more convenient",
+        "la mía — resulta más cómoda"
+      ],
+      [
+        "To Carry in the Hand -",
+        "para llevar en la Mano —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La puesta de sol portátil",
+        "body": "La voz compara su arte con la naturaleza: no reclama mayor grandeza, sino la posibilidad de transportar una imagen en la mano."
+      }
+    ]
+  },
+  "J309": {
+    "id": "J309",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "For largest Woman's Heart I knew -",
+    "titleES": "Para el Corazón de Mujer más grande que conocí —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J309, pp. 145–146; texto cotejado con la edición de Johnson. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "For largest Woman's Heart I knew -",
+        "Para el Corazón de Mujer más grande que conocí —"
+      ],
+      [
+        "'Tis little I can do -",
+        "es poco lo que puedo hacer —"
+      ],
+      [
+        "And yet the largest Woman's Heart",
+        "y, sin embargo, el Corazón de Mujer más grande"
+      ],
+      [
+        "Could hold an Arrow - too -",
+        "también puede alojar una Flecha —"
+      ],
+      [
+        "And so, instructed by my own,",
+        "y así, instruida por el mío,"
+      ],
+      [
+        "I tenderer, turn Me to.",
+        "me vuelvo hacia ella con más ternura."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Herida y empatía",
+        "body": "El conocimiento de la propia vulnerabilidad enseña a reconocer el dolor incluso en una persona de gran generosidad."
+      }
+    ]
+  },
+  "J310": {
+    "id": "J310",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Give little Anguish -",
+    "titleES": "Dales una angustia pequeña —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J310, pp. 145–146; texto cotejado con la edición de Johnson. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "Give little Anguish -",
+        "Dales una angustia pequeña —"
+      ],
+      [
+        "Lives will fret -",
+        "las vidas se inquietarán —"
+      ],
+      [
+        "Give Avalanches -",
+        "dales Avalanchas —"
+      ],
+      [
+        "And they'll slant -",
+        "y se inclinarán —"
+      ],
+      [
+        "Straighten - look cautious for their Breath -",
+        "se enderezarán — buscarán con cautela el Aliento —"
+      ],
+      [
+        "But make no syllable - like Death -",
+        "pero no dirán una sílaba — como la Muerte —"
+      ],
+      [
+        "Who only shows his Marble Disc -",
+        "que solo muestra su Disco de Mármol —"
+      ],
+      [
+        "Sublimer sort - than Speech -",
+        "forma más sublime — que el Habla —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La escala del dolor",
+        "body": "La angustia menor produce quejas; el desastre extremo puede imponer silencio. La muerte funciona como figura límite de esa elocuencia muda."
+      }
+    ]
+  },
+  "J311": {
+    "id": "J311",
+    "franklin": null,
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "It sifts from Leaden Sieves -",
+    "titleES": "Se cierne desde Tamices de Plomo —",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J311, pp. 145–146; texto cotejado con la edición de Johnson. Correspondencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "It sifts from Leaden Sieves -",
+        "Se cierne desde Tamices de Plomo —"
+      ],
+      [
+        "It powders all the Wood.",
+        "empolva todo el Bosque."
+      ],
+      [
+        "It fills with Alabaster Wool",
+        "llena de Lana de Alabastro"
+      ],
+      [
+        "The Wrinkles of the Road -",
+        "las Arrugas del Camino —"
+      ],
+      [
+        "It makes an Even Face",
+        "le da un Rostro uniforme"
+      ],
+      [
+        "Of Mountain, and of Plain -",
+        "a la Montaña y a la Llanura —"
+      ],
+      [
+        "Unbroken Forehead from the East",
+        "una Frente sin interrupción desde el Este"
+      ],
+      [
+        "Unto the East again -",
+        "hasta el Este otra vez —"
+      ],
+      [
+        "It reaches to the Fence -",
+        "llega hasta la Cerca —"
+      ],
+      [
+        "It wraps it Rail by Rail",
+        "la envuelve Listón por Listón"
+      ],
+      [
+        "Till it is lost in Fleeces -",
+        "hasta perderla entre Vellones —"
+      ],
+      [
+        "It deals Celestial Vail",
+        "reparte un Velo Celestial"
+      ],
+      [
+        "To Stump, and Stack - and Stem -",
+        "al Tocón, al Almiar — y al Tallo —"
+      ],
+      [
+        "A Summer's empty Room -",
+        "la Habitación vacía del Verano —"
+      ],
+      [
+        "Acres of Joints, where Harvests were,",
+        "Hectáreas de Articulaciones, donde hubo Cosechas,"
+      ],
+      [
+        "Recordless, but for them -",
+        "sin registro, salvo por ellas —"
+      ],
+      [
+        "It Ruffles Wrists of Posts",
+        "adorna los Puños de los Postes"
+      ],
+      [
+        "As Ankles of a Queen -",
+        "como los Tobillos de una Reina —"
+      ],
+      [
+        "Then stills its Artisans - like Ghosts -",
+        "luego aquieta a sus Artesanos — como Fantasmas —"
+      ],
+      [
+        "Denying they have been -",
+        "negando que hayan existido —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La nieve como agente",
+        "body": "El poema evita nombrar directamente la nieve y la presenta por sus efectos: iguala, reviste y finalmente borra las huellas de su propio trabajo."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
