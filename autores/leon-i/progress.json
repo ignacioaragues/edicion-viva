@@ -1800,26 +1800,42 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Full Latin digital transcription and original Spanish in 14 units; selected morphology only. Printed PL54 collation, contextual token-by-token morphology, shared dictionary integration and mobile/browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 79,
+      "section": "Sermo LXXIX · De Jejunio Pentecostes II · caput I",
+      "paragraphs": 2,
+      "aligned_units": 2,
+      "published_chapters": [
+        1
+      ],
+      "total_chapters": 4,
+      "translation": "partial original Spanish aligned translation",
+      "translation_complete": false,
+      "complete_work": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxix/index.html",
+      "voice_notes": 3,
+      "lexical_coverage": "11 selective contextual morphological entries; exhaustive token analysis pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Caput I complete first pass. HTML corrupt 'majore qua ... amquam copia'; majore copia confirmed by second PDF transcription. Printed collation, chapters II–IV, morphology and QA pending."
     }
   ],
-  "next": "Sermo LXXIX caput I; Sermo LXXVIII complete first-pass bilingual translation, critical and morphological review pending",
+  "next": "Sermo LXXIX caput II, In exercendo autem hoc Dei munere; complete chapters II–IV",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 70,
+    "number": 79,
+    "chapter_next": 2,
+    "status": "partial",
     "published_chapters": [
-      1,
-      2
+      1
     ],
-    "remaining_chapters": [
-      3,
-      4,
-      5,
-      6
-    ],
-    "complete_work": false
+    "total_chapters": 4
   },
   "priority_queue": [
     {
