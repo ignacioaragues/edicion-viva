@@ -25513,6 +25513,152 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  {
+    "id": "J334",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "All the letters I can write",
+    "titleES": "Todas las cartas que puedo escribir",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J334, p. 158. Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "All the letters I can write",
+        "Todas las cartas que puedo escribir"
+      ],
+      [
+        "Are not fair as This –",
+        "no son tan hermosas como esta —"
+      ],
+      [
+        "Syllables of Velvet –",
+        "sílabas de terciopelo —"
+      ],
+      [
+        "Sentences of Plush,",
+        "frases de felpa,"
+      ],
+      [
+        "Depths of Ruby, undrained,",
+        "honduras de rubí, aún sin agotar,"
+      ],
+      [
+        "Hid, Lip, for Thee –",
+        "escondidas, Labio, para ti —"
+      ],
+      [
+        "Play it were a Humming Bird –",
+        "Fingí que fuera un colibrí —"
+      ],
+      [
+        "And just sipped – me –",
+        "y que apenas me sorbiera —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Carta y cuerpo",
+        "body": "La escritura amorosa se presenta como un objeto táctil y precioso; la carta aspira a una intimidad que el lenguaje corriente no alcanza."
+      },
+      {
+        "line": 6,
+        "title": "«Lip»",
+        "body": "La invocación al labio hace vacilar el destinatario entre una persona amada y el propio órgano del beso."
+      },
+      {
+        "line": 7,
+        "title": "Colibrí",
+        "body": "El imperativo «Play» introduce un juego imaginativo: la destinataria o el destinatario debe representar el gesto delicado de beber néctar. La voz termina por ofrecerse como aquello que se bebe."
+      }
+    ]
+  },
+  {
+    "id": "J335",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "'Tis not that Dying hurts us so –",
+    "titleES": "No es que morir nos duela tanto",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J335, pp. 158–159. Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "'Tis not that Dying hurts us so –",
+        "No es que morir nos duela tanto —"
+      ],
+      [
+        "'Tis Living – hurts us more –",
+        "es vivir lo que más nos duele —"
+      ],
+      [
+        "But Dying – is a different way –",
+        "pero morir es otra manera —"
+      ],
+      [
+        "A Kind behind the Door –",
+        "una especie detrás de la puerta —"
+      ],
+      [
+        "The Southern Custom – of the Bird –",
+        "La costumbre sureña del pájaro —"
+      ],
+      [
+        "That ere the Frosts are due –",
+        "que antes de que lleguen las heladas —"
+      ],
+      [
+        "Accepts a better Latitude –",
+        "acepta una latitud mejor —"
+      ],
+      [
+        "We – are the Birds – that stay.",
+        "nosotros somos los pájaros que se quedan."
+      ],
+      [
+        "The Shiverers round Farmers' doors –",
+        "Los que tiritan junto a las puertas de los granjeros —"
+      ],
+      [
+        "For whose reluctant Crumb –",
+        "y por cuya migaja, concedida a regañadientes —"
+      ],
+      [
+        "We stipulate – till pitying Snows",
+        "negociamos — hasta que las nieves compasivas"
+      ],
+      [
+        "Persuade our Feathers Home.",
+        "persuaden a nuestras plumas de volver a casa."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Dolor de vivir",
+        "body": "La paradoja inicial desplaza el dolor de la muerte a la experiencia prolongada de la vida."
+      },
+      {
+        "line": 4,
+        "title": "La puerta",
+        "body": "«Behind the Door» convierte la muerte en un umbral, sin asegurar qué existe al otro lado."
+      },
+      {
+        "line": 5,
+        "title": "Migración",
+        "body": "Las aves migratorias representan una partida hacia mejores condiciones; los seres humanos, en cambio, permanecen expuestos al invierno."
+      },
+      {
+        "line": 11,
+        "title": "Nieve compasiva",
+        "body": "La nieve, que suele ser amenaza, recibe el adjetivo «pitying». La inversión permite leer la muerte como un regreso, aunque no elimina su ambigüedad."
+      }
+    ]
+  },
   "J341": {
     "id": "J341",
     "franklin": "Pendiente de cotejo",
