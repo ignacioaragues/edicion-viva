@@ -24,7 +24,7 @@
  <button type="button" class="filter" data-author="Emily Brontë" aria-pressed="false">E</button>
  <button type="button" class="filter" data-author="Anne Brontë" aria-pressed="false">A</button>
  </div>
- <p class="filter-description" id="filter-description">Orden original · 61 poemas</p>
+ <p class="filter-description" id="filter-description">Orden original · 61 poemas</p><p id="read-progress-count" class="read-progress-count" aria-live="polite">0 de 61 leídos</p>
  <nav id="poem-nav" class="poem-nav" aria-label="Índice original de 1846"></nav>
  <div class="stats"><span class="side-eyebrow">TU LECTURA</span><p><span>Hoy</span><strong id="reading-today">0 min</strong></p><p><span>Esta sesión</span><strong id="reading-session">0 min</strong></p><p><span>Este volumen</span><strong id="reading-total">0 min</strong></p><a href="../../../mis-lecturas.html">Registro diario y semanal ↗</a></div>
 </aside>
@@ -46,7 +46,7 @@
      <div class="poem-description"><span id="poem-status"></span><span id="poem-original-page"></span></div>
    </div>
    <div class="reader" id="reader">
-    <div class="reader-controls"><div class="reader-width-controls" role="group" aria-label="Ajustar ancho del poema"><label for="reader-width-slider">Ancho</label><input type="range" id="reader-width-slider" min="720" max="1520" step="80" value="1120" aria-label="Ancho del poema"><output id="reader-width-value" for="reader-width-slider">100%</output><button id="reader-width-reset" type="button" aria-label="Restablecer ancho original">Restablecer</button></div><button id="toggle-layout" type="button">Ver en bloques</button><button id="toggle-translation" type="button" aria-pressed="true">Traducción</button></div>
+    <div class="reader-controls"><div class="reader-width-controls" role="group" aria-label="Ajustar ancho del poema"><label for="reader-width-slider">Ancho</label><input type="range" id="reader-width-slider" min="720" max="1520" step="80" value="1120" aria-label="Ancho del poema"><output id="reader-width-value" for="reader-width-slider">100%</output><button id="reader-width-reset" type="button" aria-label="Restablecer ancho original">Restablecer</button></div><button id="toggle-layout" type="button">Ver en bloques</button><button id="toggle-translation" type="button" aria-pressed="true">Traducción</button><button id="toggle-poem-read" type="button" aria-pressed="false">○ Marcar como leído</button></div>
     <div class="column-captions"><span>VERSO</span><span>ORIGINAL · INGLÉS</span><span>TRADUCCIÓN · ESPAÑOL</span></div>
     <div id="poem-content" class="poem-content" aria-live="polite"></div>
    </div>
