@@ -1722,6 +1722,28 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "All five chapters and Amen published. Digital Latin transcription compared; printed PL54 collation, exhaustive contextual token morphology, shared dictionary and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 76,
+      "section": "Sermo LXXVI · De Pentecoste II · capita I–II of IX",
+      "paragraphs": 8,
+      "aligned_units": 8,
+      "published_chapters": [
+        1,
+        2
+      ],
+      "total_chapters": 9,
+      "translation": "partial original Spanish aligned translation",
+      "complete_work": false,
+      "translation_complete": false,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-lxxvi/index.html",
+      "voice_notes": 5,
+      "lexical_coverage": "10 selective contextual entries; exhaustive word-by-word morphology pending",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Chapters I–II published. Digital Latin transcription checked; printed PL54 collation, full morphology, dictionary integration and browser QA pending. Resume chapter III at Fundata igitur, dilectissimi, hac fide in cordibus nostris."
     }
   ],
   "next": "Sermo LXXV caput II, Nam sicut apostolica testatur historia; finish chapters II–V before Sermo LXXVI",
