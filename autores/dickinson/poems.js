@@ -24842,6 +24842,125 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J326": {
+    "id": "J326",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I cannot dance upon my Toes—",
+    "titleES": "No sé bailar sobre las puntas",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "source": "Johnson, The Complete Poems, J326, pp. 154–155 (PDF proporcionado por el usuario, páginas 164–165). Se han normalizado errores evidentes de OCR contra el sentido; cotejo diplomático de manuscrito pendiente.",
+    "lines": [
+      [
+        "I cannot dance upon my Toes—",
+        "No sé bailar sobre las puntas—"
+      ],
+      [
+        "No Man instructed me—",
+        "ningún maestro me enseñó—"
+      ],
+      [
+        "But oftentimes, among my mind,",
+        "pero a menudo, en mi mente,"
+      ],
+      [
+        "A Glee possesseth me,",
+        "me posee un júbilo"
+      ],
+      [
+        "That had I Ballet knowledge—",
+        "que, si supiera de ballet,"
+      ],
+      [
+        "Would put itself abroad",
+        "saldría a manifestarse"
+      ],
+      [
+        "In Pirouette to blanch a Troupe—",
+        "en piruetas que harían palidecer a una compañía—"
+      ],
+      [
+        "Or lay a Prima, mad,",
+        "o enloquecer a una primera bailarina,"
+      ],
+      [
+        "And though I had no Gown of Gauze—",
+        "y aunque no tenga vestido de gasa—"
+      ],
+      [
+        "No Ringlet, to my Hair,",
+        "ni bucles en el pelo,"
+      ],
+      [
+        "Nor hopped to Audiences—like Birds,",
+        "ni haya saltado ante el público, como un pájaro,"
+      ],
+      [
+        "One Claw upon the Air,",
+        "con una garra suspendida en el aire,"
+      ],
+      [
+        "Nor tossed my shape in Eider Balls,",
+        "ni lanzado mi figura entre bolas de plumón,"
+      ],
+      [
+        "Nor rolled on wheels of snow",
+        "ni girado sobre ruedas de nieve"
+      ],
+      [
+        "Till I was out of sight, in sound,",
+        "hasta perderme de vista entre el sonido,"
+      ],
+      [
+        "The House encore me so—",
+        "mientras la sala me pide otra vez—"
+      ],
+      [
+        "Nor any know I know the Art",
+        "nadie sabe que conozco el arte"
+      ],
+      [
+        "I mention—easy—Here—",
+        "que menciono—tan fácil—aquí—"
+      ],
+      [
+        "Nor any Placard boast me—",
+        "ni hay cartel que me anuncie—"
+      ],
+      [
+        "It's full as Opera—",
+        "y sin embargo es toda una ópera—"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Bailar sobre las puntas",
+        "body": "La negación de la formación técnica abre una defensa de la imaginación artística: no saber bailar no equivale a carecer de danza interior."
+      },
+      {
+        "line": 7,
+        "title": "Pirouette / Prima",
+        "body": "El vocabulario del ballet («pirueta», «primera bailarina») sitúa la fantasía en un teatro profesional que la hablante no ha pisado."
+      },
+      {
+        "line": 13,
+        "title": "Eider Balls",
+        "body": "Las bolas de plumón evocan la ligereza del vestuario y del movimiento; la imagen continúa la serie de posibilidades escénicas imaginadas."
+      },
+      {
+        "line": 19,
+        "title": "Placard",
+        "body": "El cartel público representa la fama y el reconocimiento externo, que el poema contrapone a la plenitud de una experiencia íntima."
+      }
+    ],
+    "interpretation": "La hablante enumera todo aquello que no ha hecho —estudiar, actuar, recibir aplausos, aparecer en carteles— para sostener que el arte también existe sin escenario. El giro decisivo es «easy—Here»: la destreza interior no requiere validación de una institución. La ópera final, lejos de describir un espectáculo efectivamente realizado, nombra la amplitud de esa vida imaginativa. Esta es una lectura del dispositivo poético, no una afirmación biográfica sobre la formación de Dickinson."
+  },
   "J328": {
     "id": "J328",
     "franklin": "F359",
