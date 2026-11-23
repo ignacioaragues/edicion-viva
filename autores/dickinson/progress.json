@@ -330,8 +330,8 @@
       "J1129",
       "J1212"
     ],
-    "completedSequentialThrough": 298,
-    "nextJohnsonId": "J299",
+    "completedSequentialThrough": "J301",
+    "nextJohnsonId": "J302",
     "targetNewVersesPerRun": 200,
     "audit": {
       "date": "2026-11-23",
@@ -339,7 +339,7 @@
       "newVersesThisRun": 61
     },
     "lastConsecutiveJohnsonId": "J301",
-    "lastPublishedBlock": "J296–J298"
+    "lastPublishedBlock": "J299–J301"
   },
   "lastCompletedMilestone": "J301",
   "nextAction": "Continuar desde J302",
