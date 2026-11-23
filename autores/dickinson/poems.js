@@ -23006,6 +23006,230 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J304": {
+    "id": "J304",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "The Day came slow – till Five o'clock –",
+    "titleES": "El día llegó despacio – hasta las cinco –",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J304, pp. 143–144. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The Day came slow – till Five o'clock –",
+        "El día llegó despacio – hasta las cinco –"
+      ],
+      [
+        "Then sprang before the Hills",
+        "Entonces saltó sobre las colinas"
+      ],
+      [
+        "Like Hindered Rubies – or the Light",
+        "Como rubíes contenidos – o la luz"
+      ],
+      [
+        "A Sudden Musket – spills –",
+        "Que derrama un mosquete repentino –"
+      ],
+      [
+        "The Purple could not keep the East –",
+        "El púrpura no pudo retener el Oriente –"
+      ],
+      [
+        "The Sunrise shook abroad",
+        "El amanecer sacudió por doquier"
+      ],
+      [
+        "Like Breadths of Topaz – packed a Night –",
+        "Franjas de topacio – guardadas una noche –"
+      ],
+      [
+        "The Lady just unrolled –",
+        "Que la dama acababa de desplegar –"
+      ],
+      [
+        "The Happy Winds – their Timbrels took –",
+        "Los vientos felices – tomaron sus panderos –"
+      ],
+      [
+        "The Birds – in docile Rows",
+        "Los pájaros – en filas dóciles"
+      ],
+      [
+        "Arranged themselves around their Prince",
+        "Se ordenaron alrededor de su príncipe"
+      ],
+      [
+        "The Wind – is Prince of Those –",
+        "El viento – es príncipe de ellos –"
+      ],
+      [
+        "The Orchard sparkled like a Jew –",
+        "El huerto brilló como una joya –"
+      ],
+      [
+        "How mighty 'twas – to be",
+        "¡Qué grandioso era – ser"
+      ],
+      [
+        "A Guest in this stupendous place –",
+        "Huésped de este lugar prodigioso –"
+      ],
+      [
+        "The Parlor – of the Day –",
+        "El salón – del día –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Interpretación",
+        "body": "La salida del sol se describe como una ceremonia de joyas, música y corte; la hablante termina como huésped, no como propietaria del espectáculo."
+      }
+    ]
+  },
+  "J305": {
+    "id": "J305",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "The difference between Despair",
+    "titleES": "La diferencia entre desesperación",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J305, pp. 143–144. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The difference between Despair",
+        "La diferencia entre desesperación"
+      ],
+      [
+        "And Fear – is like the One",
+        "Y miedo – es como la que hay"
+      ],
+      [
+        "Between the instant of a Wreck –",
+        "Entre el instante de un naufragio –"
+      ],
+      [
+        "And when the Wreck has been –",
+        "Y cuando el naufragio ya ocurrió –"
+      ],
+      [
+        "The Mind is smooth – no Motion –",
+        "La mente queda lisa – sin movimiento –"
+      ],
+      [
+        "Contented as the Eye",
+        "Satisfecha como el ojo"
+      ],
+      [
+        "Upon the Forehead of a Bust –",
+        "En la frente de un busto –"
+      ],
+      [
+        "That knows – it cannot see –",
+        "Que sabe – que no puede ver –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Interpretación",
+        "body": "El miedo corresponde al acontecimiento en curso; la desesperación, a una quietud posterior que parece suprimir incluso la capacidad de percibir."
+      }
+    ]
+  },
+  "J306": {
+    "id": "J306",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "The Soul's Superior instants",
+    "titleES": "Los instantes superiores del alma",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J306, pp. 143–144. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "The Soul's Superior instants",
+        "Los instantes superiores del alma"
+      ],
+      [
+        "Occur to Her – alone –",
+        "Le ocurren – a solas –"
+      ],
+      [
+        "When friend – and Earth's occasion",
+        "Cuando el amigo – y las circunstancias terrenas"
+      ],
+      [
+        "Have infinite withdrawn –",
+        "Se han retirado infinitamente –"
+      ],
+      [
+        "Or She – Herself – ascended",
+        "O cuando ella – por sí misma – ha ascendido"
+      ],
+      [
+        "To too remote a Height",
+        "A una altura demasiado remota"
+      ],
+      [
+        "For lower Recognition",
+        "Para admitir reconocimiento inferior"
+      ],
+      [
+        "Than Her Omnipotent –",
+        "Al de su Omnipotente –"
+      ],
+      [
+        "This Mortal Abolition",
+        "Esta abolición de lo mortal"
+      ],
+      [
+        "Is seldom – but as fair",
+        "Es rara – pero tan hermosa"
+      ],
+      [
+        "As Apparition – subject",
+        "Como una aparición – sometida"
+      ],
+      [
+        "To Autocratic Air –",
+        "A un aire autocrático –"
+      ],
+      [
+        "Eternity's disclosure",
+        "La revelación de la eternidad"
+      ],
+      [
+        "To favorites – a few –",
+        "A unos pocos – sus favoritos –"
+      ],
+      [
+        "Of the Colossal substance",
+        "De la sustancia colosal"
+      ],
+      [
+        "Of Immortality",
+        "De la inmortalidad"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Interpretación",
+        "body": "La experiencia de elevación interior se presenta como excepcional y solitaria, pero el lenguaje de la omnipotencia deja abierta la relación entre alma y divinidad."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
