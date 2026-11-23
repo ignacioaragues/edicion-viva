@@ -2043,16 +2043,39 @@
       "morphology_complete": false,
       "source_collation_complete": false,
       "editorial_caveat": "Complete first-pass Latin/Spanish through Amen; checked against digital Tractatus XCI. Printed PL54 collation, exhaustive morphology, shared dictionary integration, and browser QA pending."
+    },
+    {
+      "group": "sermones",
+      "number": 92,
+      "section": "Sermo XCII · De jejunio septimi mensis VII · capita I–IV",
+      "paragraphs": 12,
+      "aligned_units": 12,
+      "published_chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_chapters": 4,
+      "complete_work": true,
+      "translation_complete": true,
+      "reader_published": true,
+      "reader_path": "autores/leon-i/sermones/sermo-xcii/index.html",
+      "voice_notes": 4,
+      "lexical_coverage": "27 selected contextual morphological forms; remaining tokens link to Logeion without verified morphology",
+      "morphology_complete": false,
+      "source_collation_complete": false,
+      "editorial_caveat": "Complete first-pass aligned Latin/Spanish to Amen; digital Tractatus XCII used. Printed PL54 collation, full contextual morphology, biblical references, shared dictionary integration and browser QA pending."
     }
   ],
   "next": {
     "group": "sermones",
-    "number": 92,
+    "number": 93,
     "section": "caput I",
-    "instruction": "Check current edition and translate entire Sermo XCII if possible."
+    "instruction": "Check current repository and translate full Sermo XCIII if possible; do not duplicate XCII."
   },
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
-  "last_edit": "2026-11-23 · Sermo XCI first-pass complete",
+  "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": null,
   "priority_queue": [
