@@ -24961,6 +24961,123 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ],
     "interpretation": "La hablante enumera todo aquello que no ha hecho —estudiar, actuar, recibir aplausos, aparecer en carteles— para sostener que el arte también existe sin escenario. El giro decisivo es «easy—Here»: la destreza interior no requiere validación de una institución. La ópera final, lejos de describir un espectáculo efectivamente realizado, nombra la amplitud de esa vida imaginativa. Esta es una lectura del dispositivo poético, no una afirmación biográfica sobre la formación de Dickinson."
   },
+  "J327": {
+    "id": "J327",
+    "franklin": null,
+    "approx": "c. 1862",
+    "incipit": "Before I got my eye put out",
+    "titleES": "Antes de que me apagaran el ojo",
+    "stanzaBreaks": [
+      4,
+      8,
+      13,
+      17
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J327, p. 155 (edición consultada); cotejo manuscrito y equivalencia Franklin pendientes.",
+    "lines": [
+      [
+        "Before I got my eye put out",
+        "Antes de que me apagaran el ojo"
+      ],
+      [
+        "I liked as well to see –",
+        "me gustaba mirar —"
+      ],
+      [
+        "As other Creatures, that have Eyes",
+        "como a las otras criaturas que tienen ojos"
+      ],
+      [
+        "And know no other way –",
+        "y no conocen otro modo —"
+      ],
+      [
+        "But were it told to me – Today –",
+        "Pero si hoy me dijeran —"
+      ],
+      [
+        "That I might have the sky",
+        "que podría tener el cielo"
+      ],
+      [
+        "For mine – I tell you that my Heart",
+        "para mí — les digo que el corazón"
+      ],
+      [
+        "Would split, for size of me –",
+        "se me partiría, por lo pequeña que soy —"
+      ],
+      [
+        "The Meadows – mine –",
+        "Los prados — míos —"
+      ],
+      [
+        "The Mountains – mine –",
+        "Las montañas — mías —"
+      ],
+      [
+        "All Forests – Stintless Stars –",
+        "Todos los bosques — estrellas sin límite —"
+      ],
+      [
+        "As much of Noon as I could take",
+        "tanto mediodía como pudiera abarcar"
+      ],
+      [
+        "Between my finite eyes –",
+        "entre mis ojos finitos —"
+      ],
+      [
+        "The Motions of the Dipping Birds –",
+        "Los movimientos de las aves que se zambullen —"
+      ],
+      [
+        "The Morning's Amber Road –",
+        "El camino de ámbar de la mañana —"
+      ],
+      [
+        "For mine – to look at when I liked –",
+        "míos — para mirarlos cuando quisiera —"
+      ],
+      [
+        "The News would strike me dead –",
+        "La noticia me fulminaría —"
+      ],
+      [
+        "So safer – guess – with just my soul",
+        "Así que es más seguro — supongo — con solo el alma"
+      ],
+      [
+        "Upon the Window pane –",
+        "apoyada en el cristal de la ventana —"
+      ],
+      [
+        "Where other Creatures put their eyes –",
+        "donde otras criaturas ponen los ojos —"
+      ],
+      [
+        "Incautious – of the Sun –",
+        "sin precaverse — del Sol —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El ojo apagado",
+        "body": "La expresión «eye put out» admite una lectura literal de pérdida de visión y otra figurada de privación perceptiva; el poema no obliga a identificarla con un episodio biográfico."
+      },
+      {
+        "line": 8,
+        "title": "Desmesura y finitud",
+        "body": "El corazón se partiría ante la posesión de un mundo demasiado vasto para la capacidad de la hablante: el don visual se vuelve amenaza."
+      },
+      {
+        "line": 18,
+        "title": "La ventana interior",
+        "body": "La conjetura del alma sustituye la mirada directa. El cierre contrapone una imaginación cautelosa a los ojos expuestos al sol."
+      }
+    ]
+  },
   "J328": {
     "id": "J328",
     "franklin": "F359",
