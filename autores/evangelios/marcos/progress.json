@@ -2976,14 +2976,27 @@
         "https://studybible.info/SBLGNT/Mark%2010%3A6",
         "https://tips.translation.bible/es/story/sil-translators-notes-on-mark-106/"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 7,
+      "to": 7,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "16/16 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+        "https://old-tips.translation.bible/story/sil-translators-notes-on-mark-107/",
+        "https://www.bible.com/bible/107/MRK.10.NET"
+      ]
     }
   ],
   "pending": "Continuar Marcos 10,7; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 7
+    "verse": 8
   },
-  "last_edit": "2026-11-23: Marcos 10,6; 9 fichas posicionales; notas sobre Génesis 1,27 y variante ὁ θεός.",
+  "last_edit": "2026-11-23: Marcos 10,7; 16 fichas posicionales; Génesis 2,24 y variante de cláusula conyugal.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6216,6 +6229,18 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://studybible.info/SBLGNT/Mark%2010%3A6",
       "https://tips.translation.bible/es/story/sil-translators-notes-on-mark-106/"
+    ]
+  },
+  "prepublication_research_10_7": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "16/16",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+      "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
+      "https://old-tips.translation.bible/story/sil-translators-notes-on-mark-107/",
+      "https://www.bible.com/bible/107/MRK.10.NET"
     ]
   }
 }
