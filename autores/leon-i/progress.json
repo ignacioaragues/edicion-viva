@@ -1869,34 +1869,34 @@
     {
       "group": "sermones",
       "number": 83,
-      "section": "Sermo LXXXIII · In Natali S. Petri apostoli · caput I",
-      "paragraphs": 4,
-      "aligned_units": 4,
+      "section": "Sermo LXXXIII · In Natali S. Petri apostoli · capita I–III",
+      "paragraphs": 11,
+      "aligned_units": 11,
       "published_chapters": [
-        1
+        1,
+        2,
+        3
       ],
       "total_chapters": 3,
-      "complete_work": false,
-      "translation_complete": false,
+      "complete_work": true,
+      "translation_complete": true,
       "reader_published": true,
       "reader_path": "autores/leon-i/sermones/sermo-lxxxiii/index.html",
-      "lexical_coverage": "5 selected contextual morphological entries; full morphology pending",
+      "lexical_coverage": "20 selected contextual morphological entries; exhaustive token-by-token morphology pending",
       "source_collation_complete": false,
-      "editorial_caveat": "Chapter I published; chapters II–III pending. Digital Tractatus LXXXIII source; printed PL54 collation, full morphology and browser QA pending."
+      "editorial_caveat": "Complete first-pass Latin/Spanish through Amen. Chapters II–III checked against digital Tractatus LXXXIII; printed PL54 collation, full contextual morphology, dictionary integration and browser QA pending.",
+      "voice_notes": 6
     }
   ],
-  "next": "Sermo LXXXIII caput II, beginning Super hanc petram aedificabo Ecclesiam meam",
+  "next": "Sermo LXXXV, chapter I (Sermo LXXXIV already published)",
   "priority": "All requested exceptional first-pass translations through Sermo LXXXIV published; resume ordinary sequence at Sermo XII. Critical and morphology reviews remain pending.",
   "last_edit": "2026-11-23",
   "do_not_confuse": "This is the historical Leo I corpus, not Corneille's Attila or the user's original play.",
   "in_progress_work": {
     "group": "sermones",
-    "number": 83,
-    "status": "partial",
-    "completed_chapters": [
-      1
-    ],
-    "next_chapter": 2
+    "number": 85,
+    "status": "not_started",
+    "next_chapter": 1
   },
   "priority_queue": [
     {
