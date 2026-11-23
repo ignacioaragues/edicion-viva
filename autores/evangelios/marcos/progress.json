@@ -3014,14 +3014,27 @@
         "https://biblehub.com/lexicon/mark/10-9.htm",
         "https://lemma.gebible.app/v/mark/10/9"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 10,
+      "to": 10,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "11/11 fichas posicionales; segunda revisión pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+        "https://www.biblehub.com/commentaries/mark/10-10.htm"
+      ]
     }
   ],
   "pending": "Continuar Marcos 10,9; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 10
+    "verse": 11
   },
-  "last_edit": "2026-11-23: Marcos 10,9; ocho fichas posicionales; συζεύγνυμι y prohibición μὴ + imperativo.",
+  "last_edit": "2026-11-23: Marcos 10,10; once fichas posicionales; escena doméstica, imperfecto y variantes.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6288,6 +6301,17 @@
       "https://biblia.com/bible/sblgnt/mark/10/9-12",
       "https://biblehub.com/lexicon/mark/10-9.htm",
       "https://lemma.gebible.app/v/mark/10/9"
+    ]
+  },
+  "prepublication_research_10_10": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "11/11",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.biblehub.com/commentaries/mark/10-10.htm"
     ]
   }
 }
