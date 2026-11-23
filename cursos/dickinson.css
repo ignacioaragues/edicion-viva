@@ -96,3 +96,19 @@ body[data-page="edicion"] .poem-grid-head{
   body[data-page="edicion"] .poem-line,
   body[data-page="edicion"] .poem-grid-head{display:block}
 }
+
+/* Resaltados elegidos por el lector, distintos del hover pasajero. */
+body[data-page="edicion"] .poem-line.is-highlighted,
+body[data-page="edicion"] .poem-line.is-highlighted:hover{
+  background:#f1dfa2;
+  box-shadow:0 0 0 7px #f1dfa2;
+}
+body[data-page="edicion"] .poem-line[role="button"]:focus-visible{
+  outline:2px solid var(--accent);
+  outline-offset:5px;
+}
+body[data-page="edicion"] [data-toggle-highlights][aria-pressed="true"]{
+  background:#f1dfa2;
+  border-color:#b89a4e;
+  font-weight:700;
+}
