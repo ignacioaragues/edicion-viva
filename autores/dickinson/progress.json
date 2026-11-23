@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 317,
-    "publishedVerses": 4226,
+    "publishedPoems": 318,
+    "publishedVerses": 4242,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -313,6 +313,7 @@
       "J299",
       "J300",
       "J301",
+      "J302",
       "J303",
       "J324",
       "J328",
@@ -341,7 +342,7 @@
     "lastConsecutiveJohnsonId": "J301",
     "lastPublishedBlock": "J299–J301"
   },
-  "lastCompletedMilestone": "J301",
-  "nextAction": "Continuar desde J302",
+  "lastCompletedMilestone": "J302",
+  "nextAction": "Continuar desde J303",
   "updatedOn": "2026-11-23"
 }
