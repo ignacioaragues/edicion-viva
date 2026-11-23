@@ -3039,14 +3039,21 @@
         "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
         "https://translation.bible/wp-content/uploads/2024/07/powers-2012-against-her-or-with-her-in-mark-10-11.pdf"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 12,
+      "to": 12,
+      "status": "edited_not_revised",
+      "source": "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf"
     }
   ],
   "pending": "Continuar Marcos 10,9; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 12
+    "verse": 13
   },
-  "last_edit": "2026-11-24: Marcos 10,11; quince fichas posicionales; condición general y debate sobre ἐπʼ αὐτήν.",
+  "last_edit": "2026-11-24: Marcos 10,12; diez fichas posicionales; condición eventual y contexto jurídico comparado.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6335,6 +6342,17 @@
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://translation.bible/wp-content/uploads/2024/07/powers-2012-against-her-or-with-her-in-mark-10-11.pdf"
+    ]
+  },
+  "prepublication_research_10_12": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "10/10",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://www.sbl-site.org/wp-content/uploads/2024/12/62-SBLGNT-Mark.pdf",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://ccel.org/ccel/robertson_at/wp_mark.xi.html"
     ]
   }
 }
