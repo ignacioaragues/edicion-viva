@@ -25226,7 +25226,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  {
+  "J329": {
     "id": "J329",
     "approx": "c. 1862",
     "incipit": "So glad we are – a Stranger'd deem",
@@ -25283,7 +25283,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "franklin": null,
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J329, p. 156 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
   },
-  {
+  "J330": {
     "id": "J330",
     "approx": "c. 1861",
     "incipit": "The Juggler's Hat her Country is –",
@@ -25308,7 +25308,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "franklin": null,
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J330, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
   },
-  {
+  "J331": {
     "id": "J331",
     "approx": "c. 1861",
     "incipit": "While Asters –",
@@ -25346,7 +25346,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     "franklin": null,
     "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J331, p. 157 (PDF del usuario); cotejo manuscrito y equivalencia Franklin pendientes."
   },
-  {
+  "J332": {
     "id": "J332",
     "approx": "c. 1862",
     "incipit": "There are two Ripenings – one – of sight –",
@@ -25513,7 +25513,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  {
+  "J334": {
     "id": "J334",
     "franklin": null,
     "approx": "c. 1862",
@@ -25575,7 +25575,7 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
-  {
+  "J335": {
     "id": "J335",
     "franklin": null,
     "approx": "c. 1862",
