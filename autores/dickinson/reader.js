@@ -203,6 +203,41 @@
       actions.prepend(button);
     }
     mount.append(actions);
+    if (document.body.dataset.page === 'edicion') {
+      // Cuaderno personal separado de las notas editoriales del corpus.
+      const key = 'ed-dickinson-personal-note-' + poem.id;
+      const notebook = make('details', 'poem-personal-notes');
+      const heading = make('summary', '', '✎ Mis notas sobre ' + poem.id);
+      const field = make('textarea', 'poem-personal-note-input');
+      field.rows = 5;
+      field.placeholder = 'Tus ideas, preguntas, interpretaciones o referencias…';
+      field.setAttribute('aria-label', 'Notas personales sobre ' + poem.id);
+      const status = make('span', 'poem-note-save-status', '');
+      const load = () => {
+        try { return localStorage.getItem(key) || ''; } catch (_) { return ''; }
+      };
+      field.value = load();
+      if (field.value) { notebook.open = true; heading.textContent += ' · guardadas'; }
+      status.textContent = field.value ? 'Nota guardada en este navegador' : 'Se guarda automáticamente al escribir';
+      field.addEventListener('input', () => {
+        try {
+          if (field.value) localStorage.setItem(key, field.value);
+          else localStorage.removeItem(key);
+          status.textContent = field.value ? 'Guardado en este navegador' : 'Nota vacía';
+          heading.textContent = '✎ Mis notas sobre ' + poem.id + (field.value ? ' · guardadas' : '');
+        } catch (_) { status.textContent = 'No se pudo guardar: revisá el almacenamiento del navegador'; }
+      });
+      const exportButton = make('button', 'poem-note-export', 'Copiar nota');
+      exportButton.type = 'button';
+      exportButton.addEventListener('click', async () => {
+        const text = poem.id + ' · ' + poem.incipit + '\\n\\n' + field.value;
+        try { await navigator.clipboard.writeText(text); status.textContent = 'Nota copiada'; }
+        catch (_) { field.select(); status.textContent = 'Seleccionada: copiá con Ctrl+C'; }
+      });
+      const info = make('p', 'poem-personal-note-help', 'Privadas en este navegador; no se sincronizan con tu cuenta.');
+      notebook.append(heading, field, status, exportButton, info);
+      mount.append(notebook);
+    }
   };
   all.forEach(renderPoem);
   if (library) {
