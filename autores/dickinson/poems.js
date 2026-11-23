@@ -24436,6 +24436,160 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J322": {
+    "id": "J322",
+    "franklin": null,
+    "approx": "1862",
+    "incipit": "There came a Day at Summer's full,",
+    "titleES": "Llegó un día en la plenitud del verano",
+    "stanzaBreaks": [
+      8,
+      16,
+      24
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J322, pp. 152–153. Texto cotejado con el PDF de Johnson; correspondencia Franklin y variantes manuscritas pendientes.",
+    "lines": [
+      [
+        "There came a Day at Summer's full,",
+        "Llegó un día en la plenitud del verano,"
+      ],
+      [
+        "Entirely for me—",
+        "enteramente para mí—"
+      ],
+      [
+        "I thought that such were for the Saints,",
+        "creí que esos días eran para los santos,"
+      ],
+      [
+        "Where Resurrections—be—",
+        "allí donde hay resurrecciones—"
+      ],
+      [
+        "The Sun, as common, went abroad,",
+        "El sol salió como de costumbre,"
+      ],
+      [
+        "The Bowers, accustomed, blew,",
+        "las enramadas florecieron como siempre,"
+      ],
+      [
+        "As if no soul the solstice passed",
+        "como si ningún alma hubiera cruzado el solsticio"
+      ],
+      [
+        "That maketh all things new—",
+        "que vuelve nuevas todas las cosas—"
+      ],
+      [
+        "The time was scarce profaned, by speech—",
+        "Apenas profanamos el tiempo con palabras—"
+      ],
+      [
+        "The symbol of a word",
+        "el símbolo de una palabra"
+      ],
+      [
+        "Was needless, as at Sacrament,",
+        "era innecesario, como en el sacramento"
+      ],
+      [
+        "The Wardrobe—of our Lord—",
+        "las vestiduras de nuestro Señor—"
+      ],
+      [
+        "Each was to each The Sealed Church,",
+        "Cada cual era para el otro la Iglesia sellada,"
+      ],
+      [
+        "Permitted to commune this—time—",
+        "autorizados a comulgar esta vez—"
+      ],
+      [
+        "Lest we too awkward show",
+        "para no parecer demasiado torpes"
+      ],
+      [
+        "At Supper of the Lamb.",
+        "en la Cena del Cordero."
+      ],
+      [
+        "The Hours slid fast—as Hours will,",
+        "Las horas se deslizaron deprisa, como suelen,"
+      ],
+      [
+        "Clutched tight, by greedy hands—",
+        "aferradas con manos codiciosas—"
+      ],
+      [
+        "So faces on two Decks, look back,",
+        "así miran atrás los rostros desde dos cubiertas,"
+      ],
+      [
+        "Bound to opposing lands—",
+        "rumbo a tierras opuestas—"
+      ],
+      [
+        "And so when all the time had leaked,",
+        "Y cuando todo el tiempo se hubo escurrido,"
+      ],
+      [
+        "Without external sound",
+        "sin sonido exterior,"
+      ],
+      [
+        "Each bound the Other's Crucifix—",
+        "cada uno ciñó la cruz del otro—"
+      ],
+      [
+        "We gave no other Bond—",
+        "no nos dimos otro vínculo—"
+      ],
+      [
+        "Sufficient troth, that we shall rise—",
+        "Bastante promesa: que resucitaremos—"
+      ],
+      [
+        "Deposed—at length, the Grave—",
+        "despojada al fin la tumba de su poder—"
+      ],
+      [
+        "To that new Marriage,",
+        "para aquel nuevo matrimonio,"
+      ],
+      [
+        "Justified—through Calvaries of Love—",
+        "justificado a través de calvarios de amor—"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Santos y resurrecciones",
+        "body": "La plenitud del verano se convierte en una experiencia de excepción, figurada con el vocabulario de la resurrección cristiana. No obliga a leer el episodio como un acontecimiento biográfico identificable."
+      },
+      {
+        "line": 9,
+        "title": "Silencio sacramental",
+        "body": "La palabra parece superflua ante una comunión que el poema presenta como sagrada. La imagen de las vestiduras introduce una tensión entre signo exterior y experiencia íntima."
+      },
+      {
+        "line": 13,
+        "title": "The Sealed Church",
+        "body": "La iglesia sellada puede evocar exclusividad, clausura y consagración recíproca; la lectura permanece metafórica, no una prueba de matrimonio histórico."
+      },
+      {
+        "line": 19,
+        "title": "Dos cubiertas",
+        "body": "La comparación marítima introduce separación y destinos contrarios justo después del deseo de retener las horas."
+      },
+      {
+        "line": 23,
+        "title": "Crucifix y vínculo",
+        "body": "La crucifixión de cada uno en el otro reúne sufrimiento, promesa y unión. El cierre desplaza la consumación a un matrimonio posterior a la tumba."
+      }
+    ]
+  },
   "J324": {
     "id": "J324",
     "franklin": "F236",
