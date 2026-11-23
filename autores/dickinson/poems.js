@@ -22511,6 +22511,307 @@ window.ED_DICKINSON_POEMS = Object.freeze({
       }
     ]
   },
+  "J299": {
+    "id": "J299",
+    "franklin": null,
+    "approx": "c. 1861–1862 (Johnson)",
+    "incipit": "Your Riches – taught me – Poverty.",
+    "titleES": "Tus riquezas me enseñaron la pobreza",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J299, pp. 140–142. Texto cotejado con el PDF Johnson; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "Your Riches – taught me – Poverty.",
+        "Tus riquezas me enseñaron la pobreza."
+      ],
+      [
+        "Myself – a Millionaire",
+        "Yo misma era millonaria"
+      ],
+      [
+        "In little Wealths, as Girls could boast",
+        "en pequeñas fortunas de las que una niña presume,"
+      ],
+      [
+        "Till broad as Buenos Ayre –",
+        "hasta que, vasta como Buenos Aires,"
+      ],
+      [
+        "You drifted your Dominions –",
+        "desplegaste tus dominios:"
+      ],
+      [
+        "A Different Peru –",
+        "un Perú diferente;"
+      ],
+      [
+        "And I esteemed All Poverty",
+        "y juzgué toda pobreza"
+      ],
+      [
+        "For Life's Estate with you –",
+        "el patrimonio de una vida contigo."
+      ],
+      [
+        "Of Mines, I little know – myself –",
+        "De minas sé bien poco, yo misma:"
+      ],
+      [
+        "But just the names, of Gems –",
+        "apenas los nombres de las gemas,"
+      ],
+      [
+        "The Colors of the Commonest –",
+        "los colores de las más comunes"
+      ],
+      [
+        "And scarce of Diadems –",
+        "y muy poco de diademas."
+      ],
+      [
+        "So much, that did I meet the Queen –",
+        "Lo suficiente para que, si encontrara a la reina,"
+      ],
+      [
+        "Her Glory I should know –",
+        "reconociera su esplendor;"
+      ],
+      [
+        "But this, must be a different Wealth –",
+        "pero esta debe ser otra clase de riqueza:"
+      ],
+      [
+        "To miss it – beggars so –",
+        "perderla empobrece tanto."
+      ],
+      [
+        "I'm sure 'tis India – all Day –",
+        "Estoy segura de que es la India, todo el día,"
+      ],
+      [
+        "To those who look on You –",
+        "para quienes te contemplan;"
+      ],
+      [
+        "Without a stint – without a blame,",
+        "sin límite ni reproche,"
+      ],
+      [
+        "Might I – but be the Jew –",
+        "¡si pudiera yo ser el judío!"
+      ],
+      [
+        "I'm sure it is Golconda –",
+        "Estoy segura de que es Golconda,"
+      ],
+      [
+        "Beyond my power to deem –",
+        "más allá de cuanto puedo imaginar:"
+      ],
+      [
+        "To have a smile for Mine – each Day,",
+        "recibir cada día una sonrisa para mí,"
+      ],
+      [
+        "How better, than a Gem!",
+        "¿no vale más que una gema?"
+      ],
+      [
+        "At least, it solaces to know",
+        "Al menos consuela saber"
+      ],
+      [
+        "That there exists – a Gold –",
+        "que existe un oro,"
+      ],
+      [
+        "Altho' I prove it, just in time",
+        "aunque descubra, justo a tiempo,"
+      ],
+      [
+        "Its distance – to behold –",
+        "cuán lejos está de mi vista;"
+      ],
+      [
+        "Its far – far Treasure to surmise –",
+        "conjeturar su tesoro lejano, lejano,"
+      ],
+      [
+        "And estimate the Pearl –",
+        "y calcular el valor de la perla"
+      ],
+      [
+        "That slipped my simple fingers through –",
+        "que se deslizó entre mis sencillos dedos"
+      ],
+      [
+        "While just a Girl at School.",
+        "cuando aún era una niña en la escuela."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Buenos Ayre",
+        "body": "La forma del topónimo pertenece al texto de Johnson; la traducción normaliza el nombre español Buenos Aires. La expansión geográfica transforma una riqueza íntima en imperio."
+      },
+      {
+        "line": 20,
+        "title": "India, Jew, Golconda",
+        "body": "El poema usa imágenes de comercio, riqueza y alteridad cultural propias de su época; «the Jew» reproduce un estereotipo histórico, que conviene contextualizar y no adoptar como caracterización de personas judías."
+      },
+      {
+        "line": 31,
+        "title": "La perla perdida",
+        "body": "El cierre desplaza el inventario de riquezas hacia la pérdida retrospectiva: la hablante puede estimar el valor de aquello que ya no posee."
+      }
+    ],
+    "stanzaBreaks": [
+      8,
+      16,
+      24
+    ]
+  },
+  "J300": {
+    "id": "J300",
+    "franklin": null,
+    "approx": "c. 1861–1862 (Johnson)",
+    "incipit": "“Morning” – means “Milking” – to the Farmer –",
+    "titleES": "«Mañana» significa «ordeñar» para el granjero",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J300, pp. 140–142. Texto cotejado con el PDF Johnson; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "“Morning” – means “Milking” – to the Farmer –",
+        "«Mañana» significa «ordeñar» para el granjero;"
+      ],
+      [
+        "Dawn – to the Teneriffe –",
+        "alba, para Tenerife;"
+      ],
+      [
+        "Dice – to the Maid –",
+        "dados, para la doncella;"
+      ],
+      [
+        "Morning means just Risk – to the Lover –",
+        "mañana significa puro riesgo para el amante;"
+      ],
+      [
+        "Just revelation – to the Beloved –",
+        "pura revelación para la persona amada;"
+      ],
+      [
+        "Epicures – date a Breakfast – by it –",
+        "los epicúreos fechan por ella un desayuno;"
+      ],
+      [
+        "Brides – an Apocalypse –",
+        "las novias, un apocalipsis;"
+      ],
+      [
+        "Worlds – a Flood –",
+        "los mundos, un diluvio;"
+      ],
+      [
+        "Faint-going Lives – Their Lapse from Sighing –",
+        "las vidas que se apagan, el cese de sus suspiros;"
+      ],
+      [
+        "Faith – The Experiment of Our Lord –",
+        "la fe, el experimento de Nuestro Señor."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Una palabra, muchos mundos",
+        "body": "La enumeración define «Morning» mediante experiencias situadas, no mediante una esencia común: oficio, amor, hambre y escatología producen mañanas distintas."
+      },
+      {
+        "line": 2,
+        "title": "Teneriffe",
+        "body": "Grafía inglesa histórica de Tenerife; la relación precisa entre isla y alba queda abierta a interpretación."
+      },
+      {
+        "line": 10,
+        "title": "Experiment",
+        "body": "El cierre asocia la mañana con la prueba de la fe y no con una simple certeza religiosa."
+      }
+    ]
+  },
+  "J301": {
+    "id": "J301",
+    "franklin": null,
+    "approx": "c. 1861–1862 (Johnson)",
+    "incipit": "I reason, Earth is short –",
+    "titleES": "Razono que la Tierra es breve",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J301, pp. 140–142. Texto cotejado con el PDF Johnson; equivalencia Franklin pendiente.",
+    "lines": [
+      [
+        "I reason, Earth is short –",
+        "Razono que la Tierra es breve,"
+      ],
+      [
+        "And Anguish – absolute –",
+        "y la angustia, absoluta,"
+      ],
+      [
+        "And many hurt,",
+        "y que muchos sufren;"
+      ],
+      [
+        "But, what of that?",
+        "pero ¿qué importa eso?"
+      ],
+      [
+        "I reason, we could die –",
+        "Razono que podríamos morir;"
+      ],
+      [
+        "The best Vitality",
+        "la vitalidad más vigorosa"
+      ],
+      [
+        "Cannot excel Decay,",
+        "no puede vencer la decadencia;"
+      ],
+      [
+        "But, what of that?",
+        "pero ¿qué importa eso?"
+      ],
+      [
+        "I reason, that in Heaven –",
+        "Razono que en el Cielo,"
+      ],
+      [
+        "Somehow, it will be even –",
+        "de algún modo, se ajustarán las cuentas,"
+      ],
+      [
+        "Some new Equation, given –",
+        "si se nos da una nueva ecuación;"
+      ],
+      [
+        "But, what of that?",
+        "pero ¿qué importa eso?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "La pregunta que vuelve",
+        "body": "La repetición «But, what of that?» desestabiliza cada argumento, incluida la solución celeste: razonar no basta para aliviar el dolor."
+      },
+      {
+        "line": 11,
+        "title": "Equation",
+        "body": "La metáfora matemática promete compensación, pero el poema se niega a convertir esa promesa en conclusión segura."
+      }
+    ],
+    "stanzaBreaks": [
+      4,
+      8
+    ]
+  },
   "J303": {
     "id": "J303",
     "franklin": "F409",
