@@ -25738,5 +25738,268 @@ window.ED_DICKINSON_POEMS = Object.freeze({
         "body": "Johnson imprime seis versos; Miller conserva una versión de cuatro versos («A word is dead, when it is said / Some say – / I say it just begins to live / That day»), enviada a Frances Norcross. La diferencia de fecha y disposición se debe mostrar, no corregir en silencio."
       }
     ]
+  },
+  "J316": {
+    "id": "J316",
+    "approx": "c. 1862",
+    "incipit": "The Wind didn't come from the Orchard – today –",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J316, p. 149. Texto cotejado con el PDF de Johnson; equivalencia Franklin pendiente de verificación.",
+    "lines": [
+      [
+        "The Wind didn't come from the Orchard – today –",
+        "El viento no vino hoy del huerto —"
+      ],
+      [
+        "Further than that –",
+        "Vino de más lejos —"
+      ],
+      [
+        "Nor stop to play with the Hay –",
+        "Ni se detuvo a jugar con el heno —"
+      ],
+      [
+        "Nor joggle a Hat –",
+        "Ni a sacudir un sombrero —"
+      ],
+      [
+        "He's a transitive fellow – very –",
+        "Es un sujeto muy viajero —"
+      ],
+      [
+        "Rely on that –",
+        "De eso no tengas duda —"
+      ],
+      [
+        "If He leave a Bur at the door",
+        "Si deja un abrojo en la puerta"
+      ],
+      [
+        "We know He has climbed a Fir –",
+        "sabemos que trepó a un abeto —"
+      ],
+      [
+        "But the Fir is Where – Declare –",
+        "Pero ¿dónde está el abeto? — Dime —"
+      ],
+      [
+        "Were you ever there?",
+        "¿Estuviste alguna vez allí?"
+      ],
+      [
+        "If He brings Odors of Clovers –",
+        "Si trae aromas de tréboles —"
+      ],
+      [
+        "And that is His business – not Ours –",
+        "y eso es asunto suyo, no nuestro —"
+      ],
+      [
+        "Then He has been with the Mowers –",
+        "entonces estuvo con los segadores —"
+      ],
+      [
+        "Whetting away the Hours",
+        "que afilan el filo de las horas"
+      ],
+      [
+        "To sweet pauses of Hay –",
+        "entre dulces pausas de heno —"
+      ],
+      [
+        "His Way – of a June Day –",
+        "su manera de pasar un día de junio —"
+      ],
+      [
+        "If He fling Sand, and Pebble –",
+        "Si arroja arena y guijarros —"
+      ],
+      [
+        "Little Boys Hats – and Stubble –",
+        "sombreros de niños y rastrojos —"
+      ],
+      [
+        "With an occasional Steeple –",
+        "y de vez en cuando algún campanario —"
+      ],
+      [
+        "And a hoarse \"Get out of the way, I say,\"",
+        "y un ronco «¡Fuera de mi camino, digo!»,"
+      ],
+      [
+        "Who'd be the fool to stay?",
+        "¿qué necio se quedaría?"
+      ],
+      [
+        "Would you – Say –",
+        "¿Vos? — Decime —"
+      ],
+      [
+        "Would you be the fool to stay?",
+        "¿Serías tan necio como para quedarte?"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Transitive",
+        "body": "El adjetivo sugiere movimiento y paso de un lugar a otro; también puede evocar la transitividad gramatical, sin que esta segunda lectura sea obligatoria."
+      },
+      {
+        "line": 17,
+        "title": "Cambio de escala",
+        "body": "El viento pasa de transportar indicios rurales a lanzar objetos y hasta un campanario: la gradación transforma la observación natural en amenaza cómica."
+      }
+    ],
+    "titleES": "The Wind didn't come from the Orchard – today –"
+  },
+  "J317": {
+    "id": "J317",
+    "approx": "c. 1861",
+    "incipit": "Just so – Jesus – raps –",
+    "source": "Johnson, The Complete Poems, J317, pp. 149–150; cotejo con PDF aportado. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "Just so – Jesus – raps –",
+        "Así — Jesús — llama a la puerta —"
+      ],
+      [
+        "He – doesn't weary –",
+        "Él — no se cansa —"
+      ],
+      [
+        "Last – at the Knocker –",
+        "El último — en la aldaba —"
+      ],
+      [
+        "And first – at the Bell.",
+        "Y el primero — en el timbre."
+      ],
+      [
+        "Then – on divinest tiptoe – standing –",
+        "Luego — de puntillas divinísimas —"
+      ],
+      [
+        "Might He but spy the lady's soul –",
+        "si pudiera apenas vislumbrar el alma de la dama —"
+      ],
+      [
+        "When He – retires –",
+        "Cuando Él — se retire —"
+      ],
+      [
+        "Chilled – or weary –",
+        "helado — o fatigado —"
+      ],
+      [
+        "It will be ample time for – me –",
+        "habrá tiempo de sobra para — mí —"
+      ],
+      [
+        "Patient – upon the steps – until then –",
+        "paciente — en los escalones — hasta entonces —"
+      ],
+      [
+        "Heart! I am knocking – low at thee",
+        "¡Corazón! Estoy llamando — quedamente a tu puerta"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "La visita y la espera",
+        "body": "La escena convierte el llamado religioso en una competencia por la atención del corazón: la voz humana aguarda mientras Jesús intenta entrar."
+      },
+      {
+        "line": 11,
+        "title": "Desplazamiento de destinatario",
+        "body": "El último verso se dirige directamente al corazón. La interpretación del yo como pretendiente subordinado a Jesús es plausible, pero el poema no fija una identidad biográfica."
+      }
+    ],
+    "titleES": "Just so – Jesus – raps –"
+  },
+  "J318": {
+    "id": "J318",
+    "approx": "c. 1860",
+    "incipit": "I'll tell you how the Sun rose –",
+    "source": "Johnson, The Complete Poems, J318, p. 150; cotejo con PDF aportado. Correspondencia Franklin pendiente.",
+    "lines": [
+      [
+        "I'll tell you how the Sun rose –",
+        "Te contaré cómo salió el sol —"
+      ],
+      [
+        "A Ribbon at a time –",
+        "Una cinta por vez —"
+      ],
+      [
+        "The Steeples swam in Amethyst –",
+        "Los campanarios nadaban en amatista —"
+      ],
+      [
+        "The news, like Squirrels, ran –",
+        "La noticia corría como ardillas —"
+      ],
+      [
+        "The Hills untied their Bonnets –",
+        "Las colinas se desataron las cofias —"
+      ],
+      [
+        "The Bobolinks – begun –",
+        "Los tordos arroceros — empezaron —"
+      ],
+      [
+        "Then I said softly to myself –",
+        "Entonces me dije en voz baja —"
+      ],
+      [
+        "\"That must have been the Sun\"!",
+        "«¡Ese debe de haber sido el sol!»"
+      ],
+      [
+        "But how he set – I know not –",
+        "Pero cómo se puso — no lo sé —"
+      ],
+      [
+        "There seemed a purple stile",
+        "Parecía haber un portillo violeta"
+      ],
+      [
+        "That little Yellow boys and girls",
+        "que unos niñitos y niñitas amarillos"
+      ],
+      [
+        "Were climbing all the while –",
+        "trepaban sin cesar —"
+      ],
+      [
+        "Till when they reached the other side,",
+        "Hasta que, al llegar al otro lado,"
+      ],
+      [
+        "A Dominie in Gray –",
+        "un maestro de gris —"
+      ],
+      [
+        "Put gently up the evening Bars –",
+        "cerró suavemente las trancas de la tarde —"
+      ],
+      [
+        "And led the flock away –",
+        "y se llevó al rebaño —"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Amatista",
+        "body": "El mineral violeta traslada al paisaje un color propio de la luz del amanecer; no se trata de una referencia arquitectónica literal."
+      },
+      {
+        "line": 14,
+        "title": "Dominie",
+        "body": "Voz para un maestro de escuela o clérigo; la imagen reúne escuela, pastor y cierre del día sin resolver del todo la identidad del personaje."
+      }
+    ],
+    "titleES": "I'll tell you how the Sun rose –"
   }
 });
