@@ -2989,14 +2989,26 @@
         "https://old-tips.translation.bible/story/sil-translators-notes-on-mark-107/",
         "https://www.bible.com/bible/107/MRK.10.NET"
       ]
+    },
+    {
+      "chapter": 10,
+      "from": 8,
+      "to": 8,
+      "status": "edited_not_revised",
+      "source": "Holmes, SBLGNT (2010)",
+      "morphology": "14/14 fichas posicionales; revisión contextual pendiente",
+      "external_references": [
+        "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+        "https://old-tips.translation.bible/story/translation-commentary-on-mark-107-108/"
+      ]
     }
   ],
-  "pending": "Continuar Marcos 10,7; segunda revisión filológica retrospectiva pendiente.",
+  "pending": "Continuar Marcos 10,9; segunda revisión filológica retrospectiva pendiente.",
   "next": {
     "chapter": 10,
-    "verse": 8
+    "verse": 9
   },
-  "last_edit": "2026-11-23: Marcos 10,7; 16 fichas posicionales; Génesis 2,24 y variante de cláusula conyugal.",
+  "last_edit": "2026-11-23: Marcos 10,8; 14 fichas posicionales; Génesis 2,24, σάρξ μία y ὥστε con indicativo.",
   "notes": "Marcos 4,13–14: cotejo SBLGNT, Clementina, MorphGNT y comentario griego; 19 fichas posicionales.",
   "review_tracking": {
     "next_review": "Auditoría morfológica contextual 1,1–45; preparar Marcos 2,1–12 con fichas completas",
@@ -6241,6 +6253,17 @@
       "https://raw.githubusercontent.com/morphgnt/sblgnt/master/62-Mk-morphgnt.txt",
       "https://old-tips.translation.bible/story/sil-translators-notes-on-mark-107/",
       "https://www.bible.com/bible/107/MRK.10.NET"
+    ]
+  },
+  "prepublication_research_10_8": {
+    "status": "published_morphology_mechanically_aligned",
+    "morphology_audit": "14/14",
+    "second_passage_review": "pending",
+    "latin": "optional_pending",
+    "sources": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://old-tips.translation.bible/story/translation-commentary-on-mark-107-108/",
+      "https://lemma.gebible.app/v/mark/10/8"
     ]
   }
 }
