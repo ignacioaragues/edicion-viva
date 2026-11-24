@@ -5,6 +5,8 @@
  * Pueden enlazarse tanto páginas alojadas aquí como proyectos externos.
  */
 const collection = [
+  {author:'Prisco de Panio',period:'HISTORIOGRAFÍA TARDOANTIGUA',work:'Historia',translated:'Fragmentos y testimonios · edición integral',language:'Griego · Español',status:'available',url:'./autores/prisco/',detail:'En curso · 13 selecciones iniciales; corpus íntegro pendiente'},
+  {author:'Próspero de Aquitania',period:'HISTORIOGRAFÍA TARDOANTIGUA',work:'Chronicon',translated:'Crónica · edición integral hasta 455',language:'Latín · Español',status:'available',url:'./autores/prospero/',detail:'En curso · entradas 451 y 452; crónica íntegra pendiente'},
   {
     author: 'René Goscinny y Albert Uderzo',
     period: 'HISTORIETA FRANCESA',
