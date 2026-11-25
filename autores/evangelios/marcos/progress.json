@@ -5,11 +5,11 @@
   "phase": "modular_editorial_advance",
   "last": {
     "chapter": 10,
-    "verse": 22
+    "verse": 31
   },
   "next": {
     "chapter": 10,
-    "verse": 23
+    "verse": 32
   },
   "chapters": [
     {
@@ -59,12 +59,12 @@
     },
     {
       "chapter": 10,
-      "verses": 22,
-      "last": 22
+      "verses": 31,
+      "last": 31
     }
   ],
-  "verses": 392,
-  "tokens": 6561,
+  "verses": 401,
+  "tokens": 6732,
   "mechanical_alignment": "all tokens checked against MorphGNT; contextual review pending",
   "review": {
     "next": {
@@ -88,13 +88,14 @@
   },
   "last_edit": "2026-11-25",
   "lastDelivery": {
-    "range": "10:18–22",
-    "tokens": 90,
+    "range": "10:23–31",
+    "tokens": 171,
     "research": [
       "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
       "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
       "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php",
-      "https://truechristian.church/scriptures/vulgate/Marcus/10"
+      "https://classic.net.bible.org/passage.php/o/w/passage.php?passage=mar+10:17-31",
+      "https://ebible.org/latVUC/MRK10.htm"
     ],
     "latin": "complete for new passage"
   }
