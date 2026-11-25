@@ -2,14 +2,14 @@
   "work": "Evangelio según Marcos",
   "status": "in_progress",
   "schema": 2,
-  "phase": "modular_reader_pending_browser_check",
+  "phase": "modular_editorial_advance",
   "last": {
     "chapter": 10,
-    "verse": 17
+    "verse": 22
   },
   "next": {
     "chapter": 10,
-    "verse": 18
+    "verse": 23
   },
   "chapters": [
     {
@@ -59,12 +59,12 @@
     },
     {
       "chapter": 10,
-      "verses": 17,
-      "last": 17
+      "verses": 22,
+      "last": 22
     }
   ],
-  "verses": 387,
-  "tokens": 6471,
+  "verses": 392,
+  "tokens": 6561,
   "mechanical_alignment": "all tokens checked against MorphGNT; contextual review pending",
   "review": {
     "next": {
@@ -84,7 +84,18 @@
     "normalizedRecordForms": 17,
     "sourceTagCorrections": 70,
     "greekCorrection": "10:12 αὕτη → αὐτὴ per SBLGNT; note updated",
-    "browserTest": "pending"
+    "browserTest": "synthetic DOM: all original 387 verses, 6471 tokens, 641 note calls and 24 nav links; real browser pending"
   },
-  "last_edit": "2026-11-25"
+  "last_edit": "2026-11-25",
+  "lastDelivery": {
+    "range": "10:18–22",
+    "tokens": 90,
+    "research": [
+      "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt",
+      "https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt",
+      "https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php",
+      "https://truechristian.church/scriptures/vulgate/Marcus/10"
+    ],
+    "latin": "complete for new passage"
+  }
 }

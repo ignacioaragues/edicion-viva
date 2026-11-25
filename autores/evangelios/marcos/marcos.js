@@ -181,8 +181,9 @@
     }
     const row = makeElement('div', 'verse');
     row.id = p.chapter ? `v${p.chapter}-${p.n}` : `v${p.n}`;
-    if (p.chapter === 9 && p.n === 8) { const legacyAnchor = makeElement('span', 'legacy-verse-anchor'); legacyAnchor.id = 'v908'; legacyAnchor.hidden = true; row.append(legacyAnchor); }
+    // Preserve the former unique highlight key for 9,8; canonical anchor is on its verse number.
     const number = makeElement('div', 'number', String(p.n));
+    if (p.chapter === 9 && p.n === 8) { row.id = 'v908'; number.id = 'v9-8'; }
     const speech = makeElement('div', 'speech');
     const original = makeElement('p', 'latin');
     original.lang = 'grc';

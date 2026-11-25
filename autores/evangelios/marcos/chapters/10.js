@@ -188,6 +188,61 @@
     "mc1017gesture",
     "mc1017inheritance"
    ]
+  },
+  {
+   "chapter": 10,
+   "n": 18,
+   "gr": "ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός.",
+   "es": "Pero Jesús le dijo: «¿Por qué me llamas bueno? Nadie es bueno sino uno solo: Dios».",
+   "la": "Jesus autem dixit ei : Quid me dicis bonum ? nemo bonus, nisi unus Deus.",
+   "notes": [
+    "mc1018pred",
+    "mc1018exception"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 19,
+   "gr": "τὰς ἐντολὰς οἶδας· Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς, Μὴ ἀποστερήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα.",
+   "es": "Conoces los mandamientos: no mates, no cometas adulterio, no robes, no des falso testimonio, no defraudes, honra a tu padre y a tu madre.",
+   "la": "Præcepta nosti : ne adulteres, ne occidas, ne fureris, ne falsum testimonium dixeris, ne fraudem feceris, honora patrem tuum et matrem.",
+   "notes": [
+    "mc1019commands",
+    "mc1019deprive"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 20,
+   "gr": "ὁ δὲ ἔφη αὐτῷ· Διδάσκαλε, ταῦτα πάντα ἐφυλαξάμην ἐκ νεότητός μου.",
+   "es": "Él le respondió: «Maestro, todo eso lo he cumplido desde mi juventud».",
+   "la": "At ille respondens, ait illi : Magister, hæc omnia observavi a juventute mea.",
+   "notes": [
+    "mc1020middle",
+    "mc1020youth"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 21,
+   "gr": "ὁ δὲ Ἰησοῦς ἐμβλέψας αὐτῷ ἠγάπησεν αὐτὸν καὶ εἶπεν αὐτῷ· Ἕν σε ὑστερεῖ· ὕπαγε ὅσα ἔχεις πώλησον καὶ δὸς τοῖς πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ, καὶ δεῦρο ἀκολούθει μοι.",
+   "es": "Jesús lo miró fijamente, lo amó y le dijo: «Una cosa te falta: ve, vende cuanto tienes y dáselo a los pobres, y tendrás un tesoro en el cielo. Después ven y sígueme».",
+   "la": "Jesus autem intuitus eum, dilexit eum, et dixit ei : Unum tibi deest : vade, quæcumque habes vende, et da pauperibus, et habebis thesaurum in cælo : et veni, sequere me.",
+   "notes": [
+    "mc1021look",
+    "mc1021follow"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 22,
+   "gr": "ὁ δὲ στυγνάσας ἐπὶ τῷ λόγῳ ἀπῆλθεν λυπούμενος, ἦν γὰρ ἔχων κτήματα πολλά.",
+   "es": "Pero él, ensombrecido por estas palabras, se marchó triste, pues tenía muchas posesiones.",
+   "la": "Qui contristatus in verbo, abiit mœrens : erat enim habens multas possessiones.",
+   "notes": [
+    "mc1022dark",
+    "mc1022possessions"
+   ]
   }
  ],
  "notes": {
@@ -326,6 +381,46 @@
   "mc1017inheritance": [
    "Heredar la vida eterna",
    "κληρονομήσω es subjuntivo aoristo de κληρονομέω, regido por ἵνα; la expresión ζωὴν αἰώνιον funciona como objeto directo. «Heredar» conserva la metáfora de recibir una herencia, sin precisar por sí sola una doctrina sobre los medios de salvación. Cotejo morfológico: James K. Tauber (ed.), MorphGNT SBLGNT 6.12, Mc 10,17, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt ; texto: Holmes (2010), https://biblia.com/bible/sblgnt/mark/10/17 ."
+  ],
+  "mc1018pred": [
+   "El predicativo «bueno»",
+   "En Τί με λέγεις ἀγαθόν, τί tiene función interrogativa adverbial («por qué»); με es objeto de λέγεις y ἀγαθόν es su predicativo en acusativo. La formulación no equivale a la pregunta por lo bueno que debe hacerse en Mt 19,17. Fuente: SBLGNT (Holmes, 2010), Mc 10,18; Cambridge Greek Testament for Schools and Colleges, ad loc., https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
+  ],
+  "mc1018exception": [
+   "La excepción",
+   "εἰ μή introduce la excepción a οὐδείς; εἷς ὁ θεός identifica al único exceptuado. Se conserva la fuerza de εἷς sin convertir la pregunta en una afirmación explícita sobre la identidad o naturaleza de Jesús. El alcance cristológico del diálogo pertenece a la interpretación, no a una conclusión impuesta por la sintaxis. Cotejo: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."
+  ],
+  "mc1019commands": [
+   "La forma de los mandamientos",
+   "Las cinco prohibiciones llevan μή y subjuntivo aoristo de segunda persona singular; Τίμα es imperativo presente. El catálogo reelabora preceptos de Ex 20 y Dt 5. La Clementina antepone la prohibición de adulterio a la de homicidio, al contrario del orden de SBLGNT. No se armonizan las columnas. Fuente: Cambridge Greek Testament, Mc 10,19, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php; Vulgata Clementina, https://truechristian.church/scriptures/vulgate/Marcus/10."
+  ],
+  "mc1019deprive": [
+   "No defraudes",
+   "ἀποστερέω significa privar a alguien de lo suyo o defraudarlo. Esta prohibición no aparece en los relatos paralelos de Mt 19,18–19 y Lc 18,20. Compárese Eclo 4,1 (privar al pobre de su sustento) y Mal 3,5. El posible vínculo especial con la riqueza del interlocutor es una interpretación contextual. Fuente: Cambridge Greek Testament, Mc 10,19, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
+  ],
+  "mc1020middle": [
+   "Cumplir los preceptos",
+   "ἐφυλαξάμην es aoristo medio indicativo, primera persona singular, de φυλάσσω. En este contexto significa observar o guardar los mandamientos; no hace falta atribuir a la voz media un matiz reflexivo autónomo. Mt 19,20 y Lc 18,21 presentan el activo ἐφύλαξα. Fuente: Cambridge Greek Testament, Mc 10,20, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
+  ],
+  "mc1020youth": [
+   "Desde mi juventud",
+   "ἐκ νεότητός μου indica el punto de partida temporal de la observancia. Marcos no dice que el interlocutor sea joven en el momento de la conversación; el calificativo νεανίσκος pertenece a Mateo 19,20. Cotejo de texto y morfología: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt; https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."
+  ],
+  "mc1021look": [
+   "La mirada y el afecto",
+   "ἐμβλέψας es participio aoristo de ἐμβλέπω, con dativo de la persona mirada. La acción narrativa conduce a ἠγάπησεν, aoristo de ἀγαπάω. La mención explícita del afecto no figura en los paralelos de Mateo y Lucas; no basta por sí misma para demostrar una fuente ocular. Fuente: Cambridge Greek Testament, Mc 10,21, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
+  ],
+  "mc1021follow": [
+   "Vender, dar y seguir",
+   "ἕν es el sujeto de ὑστερεῖ y σε designa a quien le falta algo. πώλησον y δός son imperativos aoristos; ἀκολούθει es imperativo presente. El contraste permite observar la secuencia de los actos de desprendimiento y el seguimiento, sin reducir mecánicamente el aspecto verbal a la oposición entre acción única y continua. La promesa del tesoro precede a la llamada final. Cotejo: Cambridge Greek Testament, Mc 10,21, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php; MorphGNT, https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."
+  ],
+  "mc1022dark": [
+   "El semblante ensombrecido",
+   "στυγνάσας (aoristo de στυγνάζω) evoca una expresión sombría; compárese el uso relativo al aspecto del cielo en Mt 16,3. λυπούμενος, participio presente de λυπέω, describe el estado de aflicción al marcharse. La diferencia entre ambos participios justifica conservar dos expresiones en español. Fuente: Cambridge Greek Testament, Mc 10,22, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
+  ],
+  "mc1022possessions": [
+   "Las posesiones",
+   "ἦν ἔχων combina el imperfecto de εἰμί con participio presente y describe una situación duradera que explica su reacción. κτήματα designa bienes o posesiones, no necesariamente dinero en efectivo; compárese Hch 5,1. Marcos explica la partida mediante la riqueza, sin narrar el destino posterior del hombre. Fuente: Cambridge Greek Testament, Mc 10,22–23, https://www.truthaccordingtoscripture.com/commentaries/cgt/mark-10.php."
   ]
  },
  "morphology": {
@@ -2006,6 +2101,646 @@
     "V-",
     "1AAS-S--",
     "herede"
+   ]
+  ],
+  "18": [
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "el"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "pero"
+   ],
+   [
+    "Ἰησοῦς",
+    "Ἰησοῦς",
+    "N-",
+    "----NSM-",
+    "Jesús"
+   ],
+   [
+    "εἶπεν",
+    "λέγω",
+    "V-",
+    "3AAI-S--",
+    "dijo"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "a él"
+   ],
+   [
+    "Τί",
+    "τίς",
+    "RI",
+    "----ASN-",
+    "por qué"
+   ],
+   [
+    "με",
+    "ἐγώ",
+    "RP",
+    "----AS--",
+    "me"
+   ],
+   [
+    "λέγεις",
+    "λέγω",
+    "V-",
+    "2PAI-S--",
+    "llamas"
+   ],
+   [
+    "ἀγαθόν",
+    "ἀγαθός",
+    "A-",
+    "----ASM-",
+    "bueno"
+   ],
+   [
+    "οὐδεὶς",
+    "οὐδείς",
+    "A-",
+    "----NSM-",
+    "nadie"
+   ],
+   [
+    "ἀγαθὸς",
+    "ἀγαθός",
+    "A-",
+    "----NSM-",
+    "bueno"
+   ],
+   [
+    "εἰ",
+    "εἰ",
+    "C-",
+    "--------",
+    "si"
+   ],
+   [
+    "μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "εἷς",
+    "εἷς",
+    "A-",
+    "----NSM-",
+    "uno solo"
+   ],
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "el"
+   ],
+   [
+    "θεός",
+    "θεός",
+    "N-",
+    "----NSM-",
+    "Dios"
+   ]
+  ],
+  "19": [
+   [
+    "τὰς",
+    "ὁ",
+    "RA",
+    "----APF-",
+    "los"
+   ],
+   [
+    "ἐντολὰς",
+    "ἐντολή",
+    "N-",
+    "----APF-",
+    "mandamientos"
+   ],
+   [
+    "οἶδας",
+    "οἶδα",
+    "V-",
+    "2XAI-S--",
+    "conoces"
+   ],
+   [
+    "Μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "φονεύσῃς",
+    "φονεύω",
+    "V-",
+    "2AAS-S--",
+    "mates"
+   ],
+   [
+    "Μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "μοιχεύσῃς",
+    "μοιχεύω",
+    "V-",
+    "2AAS-S--",
+    "cometas adulterio"
+   ],
+   [
+    "Μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "κλέψῃς",
+    "κλέπτω",
+    "V-",
+    "2AAS-S--",
+    "robes"
+   ],
+   [
+    "Μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "ψευδομαρτυρήσῃς",
+    "ψευδομαρτυρέω",
+    "V-",
+    "2AAS-S--",
+    "des falso testimonio"
+   ],
+   [
+    "Μὴ",
+    "μή",
+    "D-",
+    "--------",
+    "no"
+   ],
+   [
+    "ἀποστερήσῃς",
+    "ἀποστερέω",
+    "V-",
+    "2AAS-S--",
+    "defraudes"
+   ],
+   [
+    "Τίμα",
+    "τιμάω",
+    "V-",
+    "2PAD-S--",
+    "honra"
+   ],
+   [
+    "τὸν",
+    "ὁ",
+    "RA",
+    "----ASM-",
+    "al"
+   ],
+   [
+    "πατέρα",
+    "πατήρ",
+    "N-",
+    "----ASM-",
+    "padre"
+   ],
+   [
+    "σου",
+    "σύ",
+    "RP",
+    "----GS--",
+    "tuyo"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "τὴν",
+    "ὁ",
+    "RA",
+    "----ASF-",
+    "a la"
+   ],
+   [
+    "μητέρα",
+    "μήτηρ",
+    "N-",
+    "----ASF-",
+    "madre"
+   ]
+  ],
+  "20": [
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "él"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "pero"
+   ],
+   [
+    "ἔφη",
+    "φημί",
+    "V-",
+    "3IAI-S--",
+    "dijo"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "a él"
+   ],
+   [
+    "Διδάσκαλε",
+    "διδάσκαλος",
+    "N-",
+    "----VSM-",
+    "maestro"
+   ],
+   [
+    "ταῦτα",
+    "οὗτος",
+    "RD",
+    "----APN-",
+    "estas cosas"
+   ],
+   [
+    "πάντα",
+    "πᾶς",
+    "A-",
+    "----APN-",
+    "todas"
+   ],
+   [
+    "ἐφυλαξάμην",
+    "φυλάσσω",
+    "V-",
+    "1AMI-S--",
+    "he observado"
+   ],
+   [
+    "ἐκ",
+    "ἐκ",
+    "P-",
+    "--------",
+    "desde"
+   ],
+   [
+    "νεότητός",
+    "νεότης",
+    "N-",
+    "----GSF-",
+    "juventud"
+   ],
+   [
+    "μου",
+    "ἐγώ",
+    "RP",
+    "----GS--",
+    "mía"
+   ]
+  ],
+  "21": [
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "el"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "pero"
+   ],
+   [
+    "Ἰησοῦς",
+    "Ἰησοῦς",
+    "N-",
+    "----NSM-",
+    "Jesús"
+   ],
+   [
+    "ἐμβλέψας",
+    "ἐμβλέπω",
+    "V-",
+    "-AAPNSM-",
+    "tras mirar fijamente"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "a él"
+   ],
+   [
+    "ἠγάπησεν",
+    "ἀγαπάω",
+    "V-",
+    "3AAI-S--",
+    "amó"
+   ],
+   [
+    "αὐτὸν",
+    "αὐτός",
+    "RP",
+    "----ASM-",
+    "a él"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "εἶπεν",
+    "λέγω",
+    "V-",
+    "3AAI-S--",
+    "dijo"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "a él"
+   ],
+   [
+    "Ἕν",
+    "εἷς",
+    "A-",
+    "----NSN-",
+    "una cosa"
+   ],
+   [
+    "σε",
+    "σύ",
+    "RP",
+    "----AS--",
+    "te"
+   ],
+   [
+    "ὑστερεῖ",
+    "ὑστερέω",
+    "V-",
+    "3PAI-S--",
+    "falta"
+   ],
+   [
+    "ὕπαγε",
+    "ὑπάγω",
+    "V-",
+    "2PAD-S--",
+    "ve"
+   ],
+   [
+    "ὅσα",
+    "ὅσος",
+    "RR",
+    "----APN-",
+    "cuanto"
+   ],
+   [
+    "ἔχεις",
+    "ἔχω",
+    "V-",
+    "2PAI-S--",
+    "tienes"
+   ],
+   [
+    "πώλησον",
+    "πωλέω",
+    "V-",
+    "2AAD-S--",
+    "vende"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "δὸς",
+    "δίδωμι",
+    "V-",
+    "2AAD-S--",
+    "da"
+   ],
+   [
+    "τοῖς",
+    "ὁ",
+    "RA",
+    "----DPM-",
+    "a los"
+   ],
+   [
+    "πτωχοῖς",
+    "πτωχός",
+    "A-",
+    "----DPM-",
+    "pobres"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἕξεις",
+    "ἔχω",
+    "V-",
+    "2FAI-S--",
+    "tendrás"
+   ],
+   [
+    "θησαυρὸν",
+    "θησαυρός",
+    "N-",
+    "----ASM-",
+    "tesoro"
+   ],
+   [
+    "ἐν",
+    "ἐν",
+    "P-",
+    "--------",
+    "en"
+   ],
+   [
+    "οὐρανῷ",
+    "οὐρανός",
+    "N-",
+    "----DSM-",
+    "cielo"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "δεῦρο",
+    "δεῦρο",
+    "D-",
+    "--------",
+    "ven"
+   ],
+   [
+    "ἀκολούθει",
+    "ἀκολουθέω",
+    "V-",
+    "2PAD-S--",
+    "sigue"
+   ],
+   [
+    "μοι",
+    "ἐγώ",
+    "RP",
+    "----DS--",
+    "a mí"
+   ]
+  ],
+  "22": [
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "él"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "pero"
+   ],
+   [
+    "στυγνάσας",
+    "στυγνάζω",
+    "V-",
+    "-AAPNSM-",
+    "habiéndose ensombrecido"
+   ],
+   [
+    "ἐπὶ",
+    "ἐπί",
+    "P-",
+    "--------",
+    "por"
+   ],
+   [
+    "τῷ",
+    "ὁ",
+    "RA",
+    "----DSM-",
+    "la"
+   ],
+   [
+    "λόγῳ",
+    "λόγος",
+    "N-",
+    "----DSM-",
+    "palabra"
+   ],
+   [
+    "ἀπῆλθεν",
+    "ἀπέρχομαι",
+    "V-",
+    "3AAI-S--",
+    "se marchó"
+   ],
+   [
+    "λυπούμενος",
+    "λυπέω",
+    "V-",
+    "-PPPNSM-",
+    "afligido"
+   ],
+   [
+    "ἦν",
+    "εἰμί",
+    "V-",
+    "3IAI-S--",
+    "estaba"
+   ],
+   [
+    "γὰρ",
+    "γάρ",
+    "C-",
+    "--------",
+    "pues"
+   ],
+   [
+    "ἔχων",
+    "ἔχω",
+    "V-",
+    "-PAPNSM-",
+    "teniendo"
+   ],
+   [
+    "κτήματα",
+    "κτῆμα",
+    "N-",
+    "----APN-",
+    "posesiones"
+   ],
+   [
+    "πολλά",
+    "πολύς",
+    "A-",
+    "----APN-",
+    "muchas"
    ]
   ]
  }
