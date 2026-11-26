@@ -27972,2065 +27972,3366 @@ window.ED_DICKINSON_POEMS = Object.freeze({
     ]
   },
   "J344": {
-  "id": "J344",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "'Twas the old – road – through pain –",
-  "titleES": "Era el viejo camino del dolor,",
-  "stanzaBreaks": [
-    4,
-    11,
-    16
-  ],
-  "source": "Johnson, The Complete Poems, J344; texto cotejado con la edición facilitada, páginas impresas 163–164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "'Twas the old – road – through pain –",
-      "Era el viejo camino del dolor,"
+    "id": "J344",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "'Twas the old – road – through pain –",
+    "titleES": "Era el viejo camino del dolor,",
+    "stanzaBreaks": [
+      4,
+      11,
+      16
     ],
-    [
-      "That unfrequented – one –",
-      "aquel tan poco transitado,"
+    "source": "Johnson, The Complete Poems, J344; texto cotejado con la edición facilitada, páginas impresas 163–164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "'Twas the old – road – through pain –",
+        "Era el viejo camino del dolor,"
+      ],
+      [
+        "That unfrequented – one –",
+        "aquel tan poco transitado,"
+      ],
+      [
+        "With many a turn – and thorn –",
+        "con tantas curvas y espinas,"
+      ],
+      [
+        "That stops – at Heaven –",
+        "que termina en el Cielo."
+      ],
+      [
+        "This – was the Town – she passed –",
+        "Esta fue la ciudad que atravesó;"
+      ],
+      [
+        "There – where she – rested – last –",
+        "allí descansó por última vez,"
+      ],
+      [
+        "Then – stepped more fast –",
+        "después apresuró el paso."
+      ],
+      [
+        "The little tracks – close prest –",
+        "Las pequeñas huellas, muy juntas;"
+      ],
+      [
+        "Then – not so swift –",
+        "luego, ya no tan rápidas."
+      ],
+      [
+        "Slow – slow – as feet did weary – grow –",
+        "Despacio, despacio, al cansarse los pies;"
+      ],
+      [
+        "Then – stopped – no other track!",
+        "después se detuvieron: ¡ni una huella más!"
+      ],
+      [
+        "Wait! Look! Her little Book –",
+        "¡Esperá! ¡Mirá! Su librito,"
+      ],
+      [
+        "The leaf – at love – turned back –",
+        "con la página vuelta hacia el amor;"
+      ],
+      [
+        "Her very Hat –",
+        "su propio sombrero,"
+      ],
+      [
+        "And this worn shoe just fits the track –",
+        "y este zapato gastado encaja en la huella."
+      ],
+      [
+        "Herself – though – fled!",
+        "¡Pero ella ha huido!"
+      ],
+      [
+        "Another bed – a short one –",
+        "Otra cama, una pequeña,"
+      ],
+      [
+        "Women make – tonight –",
+        "preparan unas mujeres esta noche"
+      ],
+      [
+        "In Chambers bright –",
+        "en cámaras luminosas,"
+      ],
+      [
+        "Too out of sight – though –",
+        "aunque demasiado lejos de la vista"
+      ],
+      [
+        "For our hoarse Good Night –",
+        "para que nuestro ronco buenas noches"
+      ],
+      [
+        "To touch her Head!",
+        "alcance a tocarle la cabeza."
+      ]
     ],
-    [
-      "With many a turn – and thorn –",
-      "con tantas curvas y espinas,"
-    ],
-    [
-      "That stops – at Heaven –",
-      "que termina en el Cielo."
-    ],
-    [
-      "This – was the Town – she passed –",
-      "Esta fue la ciudad que atravesó;"
-    ],
-    [
-      "There – where she – rested – last –",
-      "allí descansó por última vez,"
-    ],
-    [
-      "Then – stepped more fast –",
-      "después apresuró el paso."
-    ],
-    [
-      "The little tracks – close prest –",
-      "Las pequeñas huellas, muy juntas;"
-    ],
-    [
-      "Then – not so swift –",
-      "luego, ya no tan rápidas."
-    ],
-    [
-      "Slow – slow – as feet did weary – grow –",
-      "Despacio, despacio, al cansarse los pies;"
-    ],
-    [
-      "Then – stopped – no other track!",
-      "después se detuvieron: ¡ni una huella más!"
-    ],
-    [
-      "Wait! Look! Her little Book –",
-      "¡Esperá! ¡Mirá! Su librito,"
-    ],
-    [
-      "The leaf – at love – turned back –",
-      "con la página vuelta hacia el amor;"
-    ],
-    [
-      "Her very Hat –",
-      "su propio sombrero,"
-    ],
-    [
-      "And this worn shoe just fits the track –",
-      "y este zapato gastado encaja en la huella."
-    ],
-    [
-      "Herself – though – fled!",
-      "¡Pero ella ha huido!"
-    ],
-    [
-      "Another bed – a short one –",
-      "Otra cama, una pequeña,"
-    ],
-    [
-      "Women make – tonight –",
-      "preparan unas mujeres esta noche"
-    ],
-    [
-      "In Chambers bright –",
-      "en cámaras luminosas,"
-    ],
-    [
-      "Too out of sight – though –",
-      "aunque demasiado lejos de la vista"
-    ],
-    [
-      "For our hoarse Good Night –",
-      "para que nuestro ronco buenas noches"
-    ],
-    [
-      "To touch her Head!",
-      "alcance a tocarle la cabeza."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
-    }
-  ]
-},
+  },
   "J345": {
-  "id": "J345",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "Funny – to be a Century –",
-  "titleES": "Qué curioso ser un siglo",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J345; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "Funny – to be a Century –",
-      "Qué curioso ser un siglo"
+    "id": "J345",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Funny – to be a Century –",
+    "titleES": "Qué curioso ser un siglo",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J345; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "Funny – to be a Century –",
+        "Qué curioso ser un siglo"
+      ],
+      [
+        "And see the People – going by –",
+        "y ver pasar a la gente."
+      ],
+      [
+        "I – should die of the Oddity –",
+        "Yo moriría de tanta rareza,"
+      ],
+      [
+        "But then – I'm not so staid – as He –",
+        "pero no soy tan impasible como él."
+      ],
+      [
+        "He keeps His Secrets safely – very –",
+        "Guarda sus secretos con mucho cuidado;"
+      ],
+      [
+        "Were He to tell – extremely sorry",
+        "si los contara, cuánto lo lamentaría"
+      ],
+      [
+        "This Bashful Globe of Ours would be –",
+        "este tímido globo nuestro,"
+      ],
+      [
+        "So dainty of Publicity –",
+        "tan delicado ante la publicidad."
+      ]
     ],
-    [
-      "And see the People – going by –",
-      "y ver pasar a la gente."
-    ],
-    [
-      "I – should die of the Oddity –",
-      "Yo moriría de tanta rareza,"
-    ],
-    [
-      "But then – I'm not so staid – as He –",
-      "pero no soy tan impasible como él."
-    ],
-    [
-      "He keeps His Secrets safely – very –",
-      "Guarda sus secretos con mucho cuidado;"
-    ],
-    [
-      "Were He to tell – extremely sorry",
-      "si los contara, cuánto lo lamentaría"
-    ],
-    [
-      "This Bashful Globe of Ours would be –",
-      "este tímido globo nuestro,"
-    ],
-    [
-      "So dainty of Publicity –",
-      "tan delicado ante la publicidad."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
-    }
-  ]
-},
+  },
   "J346": {
-  "id": "J346",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "Not probable – The barest Chance –",
-  "titleES": "No es probable: apenas una posibilidad.",
-  "stanzaBreaks": [
-    4,
-    8
-  ],
-  "source": "Johnson, The Complete Poems, J346; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "Not probable – The barest Chance –",
-      "No es probable: apenas una posibilidad."
+    "id": "J346",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Not probable – The barest Chance –",
+    "titleES": "No es probable: apenas una posibilidad.",
+    "stanzaBreaks": [
+      4,
+      8
     ],
-    [
-      "A smile too few – a word too much",
-      "Una sonrisa de menos, una palabra de más,"
+    "source": "Johnson, The Complete Poems, J346; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "Not probable – The barest Chance –",
+        "No es probable: apenas una posibilidad."
+      ],
+      [
+        "A smile too few – a word too much",
+        "Una sonrisa de menos, una palabra de más,"
+      ],
+      [
+        "And far from Heaven as the Rest –",
+        "y tan lejos del Cielo como los demás,"
+      ],
+      [
+        "The Soul so close on Paradise –",
+        "el alma tan cerca del Paraíso."
+      ],
+      [
+        "What if the Bird from journey far –",
+        "¿Y si el ave, llegada de tan lejos,"
+      ],
+      [
+        "Confused by Sweets – as Mortals – are –",
+        "confundida por dulzuras, como los mortales,"
+      ],
+      [
+        "Forget the secret of His wing",
+        "olvidara el secreto de su ala"
+      ],
+      [
+        "And perish – but a Bough between –",
+        "y pereciera, con una sola rama de por medio?"
+      ],
+      [
+        "Oh, Groping feet –",
+        "¡Oh, pies que tantean!"
+      ],
+      [
+        "Oh Phantom Queen!",
+        "¡Oh, reina fantasmal!"
+      ]
     ],
-    [
-      "And far from Heaven as the Rest –",
-      "y tan lejos del Cielo como los demás,"
-    ],
-    [
-      "The Soul so close on Paradise –",
-      "el alma tan cerca del Paraíso."
-    ],
-    [
-      "What if the Bird from journey far –",
-      "¿Y si el ave, llegada de tan lejos,"
-    ],
-    [
-      "Confused by Sweets – as Mortals – are –",
-      "confundida por dulzuras, como los mortales,"
-    ],
-    [
-      "Forget the secret of His wing",
-      "olvidara el secreto de su ala"
-    ],
-    [
-      "And perish – but a Bough between –",
-      "y pereciera, con una sola rama de por medio?"
-    ],
-    [
-      "Oh, Groping feet –",
-      "¡Oh, pies que tantean!"
-    ],
-    [
-      "Oh Phantom Queen!",
-      "¡Oh, reina fantasmal!"
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
-    }
-  ]
-},
+  },
   "J347": {
-  "id": "J347",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "When Night is almost done –",
-  "titleES": "Cuando la noche casi ha terminado",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J347; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "When Night is almost done –",
-      "Cuando la noche casi ha terminado"
+    "id": "J347",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "When Night is almost done –",
+    "titleES": "Cuando la noche casi ha terminado",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J347; texto cotejado con la edición facilitada, páginas impresas 164. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "When Night is almost done –",
+        "Cuando la noche casi ha terminado"
+      ],
+      [
+        "And Sunrise grows so near",
+        "y el amanecer está tan cerca"
+      ],
+      [
+        "That we can touch the Spaces –",
+        "que podemos tocar los espacios,"
+      ],
+      [
+        "It's time to smooth the Hair –",
+        "es hora de alisarse el cabello,"
+      ],
+      [
+        "And get the Dimples ready –",
+        "de preparar los hoyuelos"
+      ],
+      [
+        "And wonder we could care",
+        "y de asombrarnos de haber temido"
+      ],
+      [
+        "For that old – faded Midnight –",
+        "aquella vieja medianoche desvaída"
+      ],
+      [
+        "That frightened – but an Hour –",
+        "que nos asustó apenas una hora."
+      ]
     ],
-    [
-      "And Sunrise grows so near",
-      "y el amanecer está tan cerca"
-    ],
-    [
-      "That we can touch the Spaces –",
-      "que podemos tocar los espacios,"
-    ],
-    [
-      "It's time to smooth the Hair –",
-      "es hora de alisarse el cabello,"
-    ],
-    [
-      "And get the Dimples ready –",
-      "de preparar los hoyuelos"
-    ],
-    [
-      "And wonder we could care",
-      "y de asombrarnos de haber temido"
-    ],
-    [
-      "For that old – faded Midnight –",
-      "aquella vieja medianoche desvaída"
-    ],
-    [
-      "That frightened – but an Hour –",
-      "que nos asustó apenas una hora."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
-    }
-  ]
-},
+  },
   "J348": {
-  "id": "J348",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "I dreaded that first Robin, so,",
-  "titleES": "Temía tanto a aquel primer petirrojo,",
-  "stanzaBreaks": [
-    4,
-    8,
-    12,
-    16,
-    20,
-    24
-  ],
-  "source": "Johnson, The Complete Poems, J348; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "I dreaded that first Robin, so,",
-      "Temía tanto a aquel primer petirrojo,"
+    "id": "J348",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I dreaded that first Robin, so,",
+    "titleES": "Temía tanto a aquel primer petirrojo,",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24
     ],
-    [
-      "But He is mastered, now,",
-      "pero ya lo he dominado;"
+    "source": "Johnson, The Complete Poems, J348; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "I dreaded that first Robin, so,",
+        "Temía tanto a aquel primer petirrojo,"
+      ],
+      [
+        "But He is mastered, now,",
+        "pero ya lo he dominado;"
+      ],
+      [
+        "I'm some accustomed to Him grown,",
+        "me he acostumbrado un poco a él,"
+      ],
+      [
+        "He hurts a little, though –",
+        "aunque todavía duele."
+      ],
+      [
+        "I thought if I could only live",
+        "Pensaba que si lograba sobrevivir"
+      ],
+      [
+        "Till that first Shout got by –",
+        "hasta que pasara aquel primer grito,"
+      ],
+      [
+        "Not all Pianos in the Woods",
+        "ni todos los pianos del bosque"
+      ],
+      [
+        "Had power to mangle me –",
+        "podrían despedazarme."
+      ],
+      [
+        "I dared not meet the Daffodils –",
+        "No me atrevía a encontrar los narcisos,"
+      ],
+      [
+        "For fear their Yellow Gown",
+        "por miedo a que sus vestidos amarillos"
+      ],
+      [
+        "Would pierce me with a fashion",
+        "me atravesaran con una moda"
+      ],
+      [
+        "So foreign to my own –",
+        "tan ajena a la mía."
+      ],
+      [
+        "I wished the Grass would hurry –",
+        "Quería que la hierba se apresurara,"
+      ],
+      [
+        "So – when 'twas time to see –",
+        "para que, al llegar la hora de verla,"
+      ],
+      [
+        "He'd be too tall, the tallest one",
+        "fuera tan alta que ni la más alta"
+      ],
+      [
+        "Could stretch – to look at me –",
+        "pudiera estirarse para mirarme."
+      ],
+      [
+        "I could not bear the Bees should come,",
+        "No soportaba que llegaran las abejas;"
+      ],
+      [
+        "I wished they'd stay away",
+        "deseaba que permanecieran lejos,"
+      ],
+      [
+        "In those dim countries where they go,",
+        "en esos países oscuros adonde van."
+      ],
+      [
+        "What word had they, for me?",
+        "¿Qué mensaje tendrían para mí?"
+      ],
+      [
+        "They're here, though; not a creature failed –",
+        "Pero aquí están: no faltó criatura alguna,"
+      ],
+      [
+        "No Blossom stayed away",
+        "ni una flor dejó de venir"
+      ],
+      [
+        "In gentle deference to me –",
+        "por delicada consideración hacia mí,"
+      ],
+      [
+        "The Queen of Calvary –",
+        "la reina del Calvario."
+      ],
+      [
+        "Each one salutes me, as he goes,",
+        "Cada una me saluda al pasar,"
+      ],
+      [
+        "And I, my childish Plumes,",
+        "y yo levanto mis infantiles plumas"
+      ],
+      [
+        "Lift, in bereaved acknowledgment",
+        "en reconocimiento enlutado"
+      ],
+      [
+        "Of their unthinking Drums –",
+        "a sus tambores inconscientes."
+      ]
     ],
-    [
-      "I'm some accustomed to Him grown,",
-      "me he acostumbrado un poco a él,"
-    ],
-    [
-      "He hurts a little, though –",
-      "aunque todavía duele."
-    ],
-    [
-      "I thought if I could only live",
-      "Pensaba que si lograba sobrevivir"
-    ],
-    [
-      "Till that first Shout got by –",
-      "hasta que pasara aquel primer grito,"
-    ],
-    [
-      "Not all Pianos in the Woods",
-      "ni todos los pianos del bosque"
-    ],
-    [
-      "Had power to mangle me –",
-      "podrían despedazarme."
-    ],
-    [
-      "I dared not meet the Daffodils –",
-      "No me atrevía a encontrar los narcisos,"
-    ],
-    [
-      "For fear their Yellow Gown",
-      "por miedo a que sus vestidos amarillos"
-    ],
-    [
-      "Would pierce me with a fashion",
-      "me atravesaran con una moda"
-    ],
-    [
-      "So foreign to my own –",
-      "tan ajena a la mía."
-    ],
-    [
-      "I wished the Grass would hurry –",
-      "Quería que la hierba se apresurara,"
-    ],
-    [
-      "So – when 'twas time to see –",
-      "para que, al llegar la hora de verla,"
-    ],
-    [
-      "He'd be too tall, the tallest one",
-      "fuera tan alta que ni la más alta"
-    ],
-    [
-      "Could stretch – to look at me –",
-      "pudiera estirarse para mirarme."
-    ],
-    [
-      "I could not bear the Bees should come,",
-      "No soportaba que llegaran las abejas;"
-    ],
-    [
-      "I wished they'd stay away",
-      "deseaba que permanecieran lejos,"
-    ],
-    [
-      "In those dim countries where they go,",
-      "en esos países oscuros adonde van."
-    ],
-    [
-      "What word had they, for me?",
-      "¿Qué mensaje tendrían para mí?"
-    ],
-    [
-      "They're here, though; not a creature failed –",
-      "Pero aquí están: no faltó criatura alguna,"
-    ],
-    [
-      "No Blossom stayed away",
-      "ni una flor dejó de venir"
-    ],
-    [
-      "In gentle deference to me –",
-      "por delicada consideración hacia mí,"
-    ],
-    [
-      "The Queen of Calvary –",
-      "la reina del Calvario."
-    ],
-    [
-      "Each one salutes me, as he goes,",
-      "Cada una me saluda al pasar,"
-    ],
-    [
-      "And I, my childish Plumes,",
-      "y yo levanto mis infantiles plumas"
-    ],
-    [
-      "Lift, in bereaved acknowledgment",
-      "en reconocimiento enlutado"
-    ],
-    [
-      "Of their unthinking Drums –",
-      "a sus tambores inconscientes."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "El retorno primaveral, lejos de consolar, vuelve audible el duelo: el calendario de la naturaleza no coincide con el tiempo afectivo."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "El retorno primaveral, lejos de consolar, vuelve audible el duelo: el calendario de la naturaleza no coincide con el tiempo afectivo."
-    }
-  ]
-},
+  },
   "J349": {
-  "id": "J349",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "I had the Glory – that will do –",
-  "titleES": "Tuve la gloria: eso bastará.",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J349; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "I had the Glory – that will do –",
-      "Tuve la gloria: eso bastará."
+    "id": "J349",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I had the Glory – that will do –",
+    "titleES": "Tuve la gloria: eso bastará.",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J349; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "I had the Glory – that will do –",
+        "Tuve la gloria: eso bastará."
+      ],
+      [
+        "An Honor, Thought can turn her to",
+        "Un honor al que el pensamiento puede volver"
+      ],
+      [
+        "When lesser Fames invite –",
+        "cuando lo invitan famas menores,"
+      ],
+      [
+        "With one long “Nay” –",
+        "con un largo «No»."
+      ],
+      [
+        "Bliss' early shape",
+        "La forma temprana de la dicha"
+      ],
+      [
+        "Deforming – Dwindling – Gulfing up –",
+        "se deforma, mengua y engulle"
+      ],
+      [
+        "Time's possibility.",
+        "las posibilidades del tiempo."
+      ]
     ],
-    [
-      "An Honor, Thought can turn her to",
-      "Un honor al que el pensamiento puede volver"
-    ],
-    [
-      "When lesser Fames invite –",
-      "cuando lo invitan famas menores,"
-    ],
-    [
-      "With one long “Nay” –",
-      "con un largo «No»."
-    ],
-    [
-      "Bliss' early shape",
-      "La forma temprana de la dicha"
-    ],
-    [
-      "Deforming – Dwindling – Gulfing up –",
-      "se deforma, mengua y engulle"
-    ],
-    [
-      "Time's possibility.",
-      "las posibilidades del tiempo."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La voz poética desplaza una experiencia íntima hacia imágenes concretas, sin cerrar del todo su ambigüedad."
-    }
-  ]
-},
+  },
   "J350": {
-  "id": "J350",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "They leave us with the Infinite.",
-  "titleES": "Nos dejan con el Infinito.",
-  "stanzaBreaks": [
-    4,
-    8
-  ],
-  "source": "Johnson, The Complete Poems, J350; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
-  "lines": [
-    [
-      "They leave us with the Infinite.",
-      "Nos dejan con el Infinito."
+    "id": "J350",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "They leave us with the Infinite.",
+    "titleES": "Nos dejan con el Infinito.",
+    "stanzaBreaks": [
+      4,
+      8
     ],
-    [
-      "But He – is not a man –",
-      "Pero él no es un hombre:"
+    "source": "Johnson, The Complete Poems, J350; texto cotejado con la edición facilitada, páginas impresas 165–166. Variantes manuscritas y correspondencia Franklin pendientes de verificación.",
+    "lines": [
+      [
+        "They leave us with the Infinite.",
+        "Nos dejan con el Infinito."
+      ],
+      [
+        "But He – is not a man –",
+        "Pero él no es un hombre:"
+      ],
+      [
+        "His fingers are the size of fists –",
+        "sus dedos tienen el tamaño de puños,"
+      ],
+      [
+        "His fists, the size of men –",
+        "sus puños, el tamaño de hombres."
+      ],
+      [
+        "And whom he foundeth, with his Arm",
+        "Y aquel a quien afiance con su brazo"
+      ],
+      [
+        "As Himmaleh, shall stand –",
+        "se alzará como el Himalaya;"
+      ],
+      [
+        "Gibraltar's Everlasting Shoe",
+        "el zapato eterno de Gibraltar"
+      ],
+      [
+        "Poised lightly on his Hand,",
+        "reposa ligero en su mano."
+      ],
+      [
+        "So trust him, Comrade –",
+        "Confiá en él, camarada:"
+      ],
+      [
+        "You for you, and I, for you and me",
+        "vos por vos, y yo por vos y por mí."
+      ],
+      [
+        "Eternity is ample,",
+        "La eternidad es vasta"
+      ],
+      [
+        "And quick enough, if true.",
+        "y llega bastante pronto, si es verdadera."
+      ]
     ],
-    [
-      "His fingers are the size of fists –",
-      "sus dedos tienen el tamaño de puños,"
-    ],
-    [
-      "His fists, the size of men –",
-      "sus puños, el tamaño de hombres."
-    ],
-    [
-      "And whom he foundeth, with his Arm",
-      "Y aquel a quien afiance con su brazo"
-    ],
-    [
-      "As Himmaleh, shall stand –",
-      "se alzará como el Himalaya;"
-    ],
-    [
-      "Gibraltar's Everlasting Shoe",
-      "el zapato eterno de Gibraltar"
-    ],
-    [
-      "Poised lightly on his Hand,",
-      "reposa ligero en su mano."
-    ],
-    [
-      "So trust him, Comrade –",
-      "Confiá en él, camarada:"
-    ],
-    [
-      "You for you, and I, for you and me",
-      "vos por vos, y yo por vos y por mí."
-    ],
-    [
-      "Eternity is ample,",
-      "La eternidad es vasta"
-    ],
-    [
-      "And quick enough, if true.",
-      "y llega bastante pronto, si es verdadera."
+    "notes": [
+      {
+        "line": 1,
+        "title": "Lectura",
+        "body": "La escala desmesurada del Infinito transforma la confianza en una cuestión de proporciones, no en una certidumbre humana."
+      }
     ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Lectura",
-      "body": "La escala desmesurada del Infinito transforma la confianza en una cuestión de proporciones, no en una certidumbre humana."
-    }
-  ]
-},
-"J351": {
-  "id": "J351",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "I felt my life with both my hands",
-  "titleES": "Palpé mi vida con ambas manos",
-  "stanzaBreaks": [
-    4,
-    8,
-    12
-  ],
-  "source": "Johnson, The Complete Poems, J351; edición facilitada, página impresa 166. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "I felt my life with both my hands",
-      "Palpé mi vida con ambas manos"
-    ],
-    [
-      "To see if it was there –",
-      "para comprobar si estaba allí;"
-    ],
-    [
-      "I held my spirit to the Glass,",
-      "acerqué mi espíritu al espejo"
-    ],
-    [
-      "To prove it possibler –",
-      "para probar que era más posible."
-    ],
-    [
-      "I turned my Being round and round",
-      "Hice girar mi ser una y otra vez"
-    ],
-    [
-      "And paused at every pound",
-      "y me detuve ante cada golpe"
-    ],
-    [
-      "To ask the Owner's name –",
-      "para preguntar el nombre de su dueño,"
-    ],
-    [
-      "For doubt, that I should know the Sound –",
-      "dudando de reconocer el sonido."
-    ],
-    [
-      "I judged my features – jarred my hair –",
-      "Examiné mis rasgos, revolví mi pelo,"
-    ],
-    [
-      "I pushed my dimples by, and waited –",
-      "aparté mis hoyuelos y esperé:"
-    ],
-    [
-      "If they – twinkled back –",
-      "si me devolvían un destello,"
-    ],
-    [
-      "Conviction might, of me –",
-      "quizá podría convencerme de mí misma."
-    ],
-    [
-      "I told myself, \"Take Courage, Friend –",
-      "Me dije: «Ánimo, amiga;"
-    ],
-    [
-      "That – was a former time –",
-      "aquello pertenecía a otro tiempo;"
-    ],
-    [
-      "But we might learn to like the Heaven,",
-      "pero acaso aprendamos a querer el cielo"
-    ],
-    [
-      "As well as our Old Home!\"",
-      "tanto como nuestro antiguo hogar»."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Comprobación de la existencia",
-      "body": "La conciencia intenta verificarse mediante tacto, espejo y sonido, como si la identidad fuese un objeto perdido."
-    },
-    {
-      "line": 12,
-      "title": "Conviction might, of me",
-      "body": "La sintaxis entrecortada hace que la certeza de ser una misma aparezca como una posibilidad, no como un dato."
-    },
-    {
-      "line": 16,
-      "title": "El antiguo hogar",
-      "body": "La oposición entre Heaven y Old Home admite una lectura espiritual y otra psicológica: una identidad nueva todavía extraña."
-    }
-  ],
-  "interpretation": "La experiencia de sí se vuelve extraña: la hablante se examina como si hubiera sobrevivido a una transformación. El cielo del final no disuelve la incertidumbre, sino que formula la posibilidad de acostumbrarse a otra forma de vida."
-},
-"J352": {
-  "id": "J352",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "Perhaps I asked too large –",
-  "titleES": "Quizá pedí demasiado",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J352; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "Perhaps I asked too large –",
-      "Quizá pedí demasiado:"
-    ],
-    [
-      "I take – no less than skies –",
-      "no acepto menos que cielos."
-    ],
-    [
-      "For Earths, grow thick as",
-      "Pues las tierras crecen tan tupidas"
-    ],
-    [
-      "Berries, in my native town –",
-      "como bayas en mi pueblo natal."
-    ],
-    [
-      "My Basket holds – just – Firmaments –",
-      "Mi canasta solo contiene firmamentos;"
-    ],
-    [
-      "Those – dangle easy – on my arm,",
-      "estos cuelgan ligeros de mi brazo,"
-    ],
-    [
-      "But smaller bundles – Cram.",
-      "pero los fardos menores la atiborran."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 2,
-      "title": "Una exigencia desmesurada",
-      "body": "La voz invierte las escalas habituales: los cielos resultan manejables, mientras lo pequeño pesa y estorba."
-    },
-    {
-      "line": 5,
-      "title": "Canasta y firmamentos",
-      "body": "El recipiente doméstico alberga lo cósmico. La imagen une el gesto cotidiano de recolectar con una ambición ilimitada."
-    }
-  ],
-  "interpretation": "La paradoja del poema convierte la abundancia terrestre en estrechez y lo inconmensurable en una posesión liviana. Pedir cielos no significa necesariamente codicia: también puede nombrar la incapacidad de conformarse con una medida ordinaria."
-},
-"J353": {
-  "id": "J353",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "A happy lip – breaks sudden –",
-  "titleES": "Un labio feliz irrumpe de pronto",
-  "stanzaBreaks": [
-    4
-  ],
-  "source": "Johnson, The Complete Poems, J353; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "A happy lip – breaks sudden –",
-      "Un labio feliz irrumpe de pronto:"
-    ],
-    [
-      "It doesn't state you how",
-      "no te cuenta de qué modo"
-    ],
-    [
-      "It contemplated – smiling –",
-      "estuvo pensando en sonreír;"
-    ],
-    [
-      "Just consummated – now –",
-      "simplemente lo ha consumado, ahora."
-    ],
-    [
-      "But this one, wears its merriment",
-      "Pero este lleva su alegría"
-    ],
-    [
-      "So patient – like a pain –",
-      "con tanta paciencia, como un dolor,"
-    ],
-    [
-      "Fresh gilded – to elude the eyes",
-      "recién dorada para esquivar los ojos"
-    ],
-    [
-      "Unqualified, to scan –",
-      "incapaces de examinarla."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "El instante de la sonrisa",
-      "body": "La primera estrofa distingue el acontecimiento visible de la deliberación que lo precede, inaccesible al observador."
-    },
-    {
-      "line": 6,
-      "title": "Alegría y dolor",
-      "body": "La sonrisa puede llevarse con la reserva de una herida: la alegría interior se protege de miradas que no saben interpretarla."
-    }
-  ],
-  "interpretation": "La alegría no es necesariamente transparencia. La segunda estrofa corrige la espontaneidad de la primera: la sonrisa madura se lleva con discreción, como si fuese vulnerable a la mirada ajena."
-}
-,
-"J354": {
-  "id": "J354",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "From Cocoon forth a Butterfly",
-  "titleES": "De la crisálida salió una mariposa,",
-  "stanzaBreaks": [
-    4,
-    8,
-    11,
-    17,
-    21
-  ],
-  "source": "Johnson, The Complete Poems, J354; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "From Cocoon forth a Butterfly",
-      "De la crisálida salió una mariposa,"
-    ],
-    [
-      "As Lady from her Door",
-      "como una dama de su puerta"
-    ],
-    [
-      "Emerged – a Summer Afternoon –",
-      "emergió una tarde de verano,"
-    ],
-    [
-      "Repairing Everywhere –",
-      "recorriéndolo todo,"
-    ],
-    [
-      "Without Design – that I could trace",
-      "sin propósito que yo pudiera advertir,"
-    ],
-    [
-      "Except to stray abroad",
-      "salvo el de vagar por ahí"
-    ],
-    [
-      "On Miscellaneous Enterprise",
-      "en empresas diversas"
-    ],
-    [
-      "The Clovers – understood –",
-      "que los tréboles comprendían."
-    ],
-    [
-      "Her pretty Parasol be seen",
-      "Se veía su bonito parasol"
-    ],
-    [
-      "Contracting in a Field",
-      "plegarse en un campo"
-    ],
-    [
-      "Where Men made Hay –",
-      "donde unos hombres segaban heno;"
-    ],
-    [
-      "Then struggling hard",
-      "luego luchaba con fuerza"
-    ],
-    [
-      "With an opposing Cloud –",
-      "contra una nube adversa,"
-    ],
-    [
-      "Where Parties – Phantom as Herself –",
-      "donde figuras, fantasmas como ella,"
-    ],
-    [
-      "To Nowhere – seemed to go",
-      "parecían dirigirse a ninguna parte"
-    ],
-    [
-      "In purposeless Circumference –",
-      "en círculos sin finalidad,"
-    ],
-    [
-      "As 'twere a Tropic Show –",
-      "como en un espectáculo tropical."
-    ],
-    [
-      "And notwithstanding Bee – that worked –",
-      "Y pese a la abeja que trabajaba"
-    ],
-    [
-      "And Flower – that zealous blew –",
-      "y a la flor que florecía con celo,"
-    ],
-    [
-      "This Audience of Idleness",
-      "aquel público de ociosidad"
-    ],
-    [
-      "Disdained them, from the Sky –",
-      "las desdeñaba desde el cielo,"
-    ],
-    [
-      "Till Sundown crept – a steady Tide –",
-      "hasta que el ocaso avanzó, marea constante,"
-    ],
-    [
-      "And Men that made the Hay –",
-      "y los hombres que segaban el heno,"
-    ],
-    [
-      "And Afternoon – and Butterfly –",
-      "y la tarde, y la mariposa"
-    ],
-    [
-      "Extinguished – in the Sea –",
-      "se extinguieron en el mar."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Metamorfosis",
-      "body": "La salida de la crisálida se compara con la aparición social de una dama: naturaleza y etiqueta se superponen."
-    },
-    {
-      "line": 15,
-      "title": "Circunferencia",
-      "body": "El movimiento sin destino contrasta con el trabajo de los segadores y la abeja; la palabra reaparece como figura importante en Dickinson."
-    },
-    {
-      "line": 22,
-      "title": "El ocaso como marea",
-      "body": "La imagen final disuelve simultáneamente paisaje, trabajo y vuelo; no afirma una muerte literal de la mariposa."
-    }
-  ],
-  "interpretation": "El poema contempla la libertad aparente de la mariposa y la enfrenta a la utilidad humana. El vuelo parece un espectáculo gratuito, pero el atardecer iguala a quienes trabajan y a quien vaga."
-},
-"J355": {
-  "id": "J355",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "'Tis Opposites – entice –",
-  "titleES": "Son los opuestos los que atraen:",
-  "stanzaBreaks": [
-    4,
-    8
-  ],
-  "source": "Johnson, The Complete Poems, J355; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "'Tis Opposites – entice –",
-      "Son los opuestos los que atraen:"
-    ],
-    [
-      "Deformed Men – ponder Grace –",
-      "los deformes meditan sobre la gracia;"
-    ],
-    [
-      "Bright fires – the Blanketless –",
-      "los desabrigados, sobre fuegos brillantes;"
-    ],
-    [
-      "The Lost – Day's face –",
-      "los perdidos, sobre el rostro del día."
-    ],
-    [
-      "The Blind – esteem it be",
-      "Los ciegos juzgan que ver"
-    ],
-    [
-      "Enough Estate – to see –",
-      "sería riqueza suficiente;"
-    ],
-    [
-      "The Captive – strangles new –",
-      "el cautivo vuelve a ahogarse"
-    ],
-    [
-      "For deeming – Beggars – play –",
-      "al imaginar que los mendigos juegan."
-    ],
-    [
-      "To lack – enamor Thee –",
-      "Carecer: eso te enamora,"
-    ],
-    [
-      "Tho' the Divinity –",
-      "aunque la divinidad"
-    ],
-    [
-      "Be only",
-      "no sea sino"
-    ],
-    [
-      "Me –",
-      "yo misma."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Deseo por contraste",
-      "body": "La serie de privaciones presenta el deseo como una relación con aquello de lo que se carece."
-    },
-    {
-      "line": 7,
-      "title": "El cautivo",
-      "body": "La sintaxis comprimida deja abierto el matiz exacto de «strangles new»; la traducción conserva la imagen de asfixia renovada."
-    },
-    {
-      "line": 10,
-      "title": "Divinidad del yo",
-      "body": "El giro final traslada al sujeto la condición de objeto deseado y permite leer una crítica a la idealización."
-    }
-  ],
-  "interpretation": "La carencia fabrica sus propios absolutos. El remate transforma la reflexión general en una interpelación íntima: aquello que parece divino quizá sea una proyección del yo."
-},
-"J356": {
-  "id": "J356",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862 (Johnson)",
-  "incipit": "The Day that I was crowned",
-  "titleES": "El día en que me coronaron",
-  "stanzaBreaks": [
-    4,
-    8,
-    12
-  ],
-  "source": "Johnson, The Complete Poems, J356; edición facilitada, página impresa 169. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
-  "lines": [
-    [
-      "The Day that I was crowned",
-      "El día en que me coronaron"
-    ],
-    [
-      "Was like the other Days –",
-      "era como todos los demás,"
-    ],
-    [
-      "Until the Coronation came –",
-      "hasta que llegó la coronación,"
-    ],
-    [
-      "And then – 'twas Otherwise –",
-      "y entonces fue distinto."
-    ],
-    [
-      "As Carbon in the Coal",
-      "Como el carbono del carbón"
-    ],
-    [
-      "And Carbon in the Gem",
-      "y el carbono de la gema"
-    ],
-    [
-      "Are One – and yet the former",
-      "son uno mismo, y sin embargo el primero"
-    ],
-    [
-      "Were dull for Diadem –",
-      "sería opaco para una diadema,"
-    ],
-    [
-      "I rose, and all was plain –",
-      "me levanté y todo era sencillo;"
-    ],
-    [
-      "But when the Day declined",
-      "pero al declinar el día,"
-    ],
-    [
-      "Myself and It, in Majesty",
-      "yo y él, en majestad,"
-    ],
-    [
-      "Were equally – adorned –",
-      "estábamos igualmente adornados."
-    ],
-    [
-      "The Grace that I – was chose –",
-      "La gracia de haber sido elegida"
-    ],
-    [
-      "To Me – surpassed the Crown",
-      "superaba para mí la corona"
-    ],
-    [
-      "That was the Witness for the Grace –",
-      "que daba testimonio de esa gracia:"
-    ],
-    [
-      "'Twas even that 'twas Mine –",
-      "lo esencial era que fuese mía."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 5,
-      "title": "Carbón y gema",
-      "body": "La analogía mineral contrapone la identidad material a la diferencia de brillo y reconocimiento."
-    },
-    {
-      "line": 13,
-      "title": "La gracia de ser elegida",
-      "body": "La coronación puede leerse como reconocimiento espiritual, amoroso o poético; el texto no fija un acontecimiento biográfico."
-    }
-  ],
-  "interpretation": "El signo exterior de distinción vale menos que la experiencia interior de haber sido escogida. El paralelismo con el día que declina devuelve majestad a lo cotidiano."
-},
-"J357": {
-  "id": "J357",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "God is a distant – stately Lover –",
-  "titleES": "Dios es un amante distante y majestuoso:",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J357, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "God is a distant – stately Lover –",
-      "Dios es un amante distante y majestuoso:"
-    ],
-    [
-      "Woos, as He states us – by His Son –",
-      "nos corteja, según declara, por medio de su Hijo;"
-    ],
-    [
-      "Verily, a Vicarious Courtship –",
-      "un galanteo, en verdad, por representante,"
-    ],
-    [
-      "\"Miles\", and \"Priscilla\", were such an One –",
-      "como el de «Miles» y «Priscilla»."
-    ],
-    [
-      "But, lest the Soul – like fair \"Priscilla\"",
-      "Pero, por temor a que el alma, como la bella «Priscilla»,"
-    ],
-    [
-      "Choose the Envoy – and spurn the Groom –",
-      "elija al emisario y desdeñe al novio,"
-    ],
-    [
-      "Vouches, with hyperbolic archness –",
-      "asegura, con exagerada picardía,"
-    ],
-    [
-      "\"Miles\", and \"John Alden\" were Synonym –",
-      "que «Miles» y «John Alden» eran sinónimos."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 4,
-      "title": "Miles y Priscilla",
-      "body": "Alusión al cortejo delegado de la tradición de Plymouth, popularizada por Longfellow; no debe confundirse la ficción literaria con una prueba histórica."
-    }
-  ],
-  "interpretation": "El poema vuelve irónica la mediación entre Dios y el alma: el enviado puede desplazar al pretendiente. La referencia es al relato de Miles Standish, Priscilla Mullins y John Alden."
-},
-"J358": {
-  "id": "J358",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "If any sink, assure that this, now standing –",
-  "titleES": "Si alguien se hunde, asegurale que esto, que ahora está en pie,",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J358, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "If any sink, assure that this, now standing –",
-      "Si alguien se hunde, asegurale que esto, que ahora está en pie,"
-    ],
-    [
-      "Failed like Themselves – and conscious that it rose –",
-      "cayó como ellos y, consciente de haberse levantado,"
-    ],
-    [
-      "Grew by the Fact, and not the Understanding",
-      "creció por el hecho mismo, no por comprender"
-    ],
-    [
-      "How Weakness passed – or Force – arose –",
-      "cómo pasó la debilidad o surgió la fuerza."
-    ],
-    [
-      "Tell that the Worst, is easy in a Moment –",
-      "Decile que lo peor se soporta en un instante;"
-    ],
-    [
-      "Dread, but the Whizzing, before the Ball –",
-      "lo temible es el silbido que precede a la bala."
-    ],
-    [
-      "When the Ball enters, enters Silence –",
-      "Cuando entra la bala, entra el silencio:"
-    ],
-    [
-      "Dying – annuls the power to kill.",
-      "morir anula el poder de matar."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 6,
-      "title": "El silbido anterior",
-      "body": "La anticipación del daño puede resultar más terrible que el instante del impacto; la imagen bélica no permite identificar por sí sola un episodio biográfico."
-    }
-  ],
-  "interpretation": "La supervivencia no se explica mediante una teoría del coraje, sino por el hecho de haberse levantado. La imagen final comprime terror, violencia y silencio."
-},
-"J359": {
-  "id": "J359",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "I gained it so –",
-  "titleES": "Así lo conseguí:",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J359, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "I gained it so –",
-      "Así lo conseguí:"
-    ],
-    [
-      "By Climbing slow –",
-      "trepando despacio,"
-    ],
-    [
-      "By Catching at the Twigs that grow",
-      "aferrándome a las ramitas que crecen"
-    ],
-    [
-      "Between the Bliss – and me –",
-      "entre la dicha y yo."
-    ],
-    [
-      "It hung so high",
-      "Colgaba tan alto"
-    ],
-    [
-      "As well the Sky",
-      "que igual habría podido"
-    ],
-    [
-      "Attempt by Strategy –",
-      "intentar alcanzar el cielo con astucia."
-    ],
-    [
-      "I said I gained it –",
-      "Dije que lo había conseguido;"
-    ],
-    [
-      "This – was all –",
-      "eso fue todo."
-    ],
-    [
-      "Look, how I clutch it",
-      "Mirá cómo lo aprieto"
-    ],
-    [
-      "Lest it fall –",
-      "para que no caiga"
-    ],
-    [
-      "And I a Pauper go –",
-      "y yo vuelva a ser una mendiga,"
-    ],
-    [
-      "Unfitted by an instant's Grace",
-      "incapaz, después de un instante de gracia,"
-    ],
-    [
-      "For the Contented – Beggar's face",
-      "de recuperar el rostro de mendiga satisfecha"
-    ],
-    [
-      "I wore – an hour ago –",
-      "que llevaba hace apenas una hora."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 13,
-      "title": "Un instante de gracia",
-      "body": "La gracia transforma retrospectivamente la pobreza anterior: la voz ya no puede regresar intacta a su antigua resignación."
-    }
-  ],
-  "interpretation": "La posesión de la dicha introduce una nueva precariedad: después de alcanzarla, perderla parece peor que no haberla conocido."
-},
-"J360": {
-  "id": "J360",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "Death sets a Thing significant",
-  "titleES": "La muerte vuelve significativo algo",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J360, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "Death sets a Thing significant",
-      "La muerte vuelve significativo algo"
-    ],
-    [
-      "The Eye had hurried by",
-      "que los ojos habían pasado por alto,"
-    ],
-    [
-      "Except a perished Creature",
-      "hasta que una criatura fallecida"
-    ],
-    [
-      "Entreat us tenderly",
-      "nos ruega con ternura"
-    ],
-    [
-      "To ponder little Workmanships",
-      "que contemplemos pequeñas labores"
-    ],
-    [
-      "In Crayon, or in Wool,",
-      "de lápiz o de lana,"
-    ],
-    [
-      "With \"This was last Her fingers did\" –",
-      "diciendo: «Esto fue lo último que hicieron sus dedos»,"
-    ],
-    [
-      "Industrious until –",
-      "laboriosos hasta que"
-    ],
-    [
-      "The Thimble weighed too heavy –",
-      "el dedal pesó demasiado,"
-    ],
-    [
-      "The stitches stopped – themselves –",
-      "y las puntadas se detuvieron solas;"
-    ],
-    [
-      "And then 'twas put among the Dust",
-      "después quedó entre el polvo"
-    ],
-    [
-      "Upon the Closet shelves –",
-      "de los estantes del armario."
-    ],
-    [
-      "A Book I have – a friend gave –",
-      "Tengo un libro que me dio un amigo,"
-    ],
-    [
-      "Whose Pencil – here and there –",
-      "cuyo lápiz, aquí y allá,"
-    ],
-    [
-      "Had notched the place that pleased Him –",
-      "marcó los pasajes que le gustaban;"
-    ],
-    [
-      "At Rest – His fingers are –",
-      "sus dedos descansan ahora."
-    ],
-    [
-      "Now – when I read – I read not –",
-      "Y cuando leo, ya no leo,"
-    ],
-    [
-      "For interrupting Tears –",
-      "porque las lágrimas que interrumpen"
-    ],
-    [
-      "Obliterate the Etchings",
-      "borran esas marcas"
-    ],
-    [
-      "Too Costly for Repairs.",
-      "demasiado preciosas para repararlas."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 15,
-      "title": "Marcas de lápiz",
-      "body": "El gesto de subrayar deja un rastro material de una lectura pasada; las lágrimas amenazan precisamente ese testimonio."
-    }
-  ],
-  "interpretation": "Los objetos cotidianos se convierten en reliquias por la ausencia de quien los tocó. El libro anotado convierte la lectura en un encuentro imposible."
-},
-"J361": {
-  "id": "J361",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "What I can do – I will –",
-  "titleES": "Lo que pueda hacer, lo haré,",
-  "stanzaBreaks": [],
-  "source": "Johnson, The Complete Poems, J361, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "What I can do – I will –",
-      "Lo que pueda hacer, lo haré,"
-    ],
-    [
-      "Though it be little as a Daffodil –",
-      "aunque sea tan pequeño como un narciso;"
-    ],
-    [
-      "That I cannot – must be",
-      "lo que no pueda hacer habrá de ser"
-    ],
-    [
-      "Unknown to possibility –",
-      "desconocido para la posibilidad."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 2,
-      "title": "Daffodil",
-      "body": "El narciso ofrece una medida deliberadamente pequeña y concreta de la acción posible."
-    }
-  ],
-  "interpretation": "La modestia del narciso no atenúa la resolución: el poema distingue el límite efectivo de la acción de la renuncia anticipada."
-}
-,
-"J362": {
-  "id": "J362",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "It struck me – every Day –",
-  "titleES": "Me golpeaba – cada día –",
-  "stanzaBreaks": [
-    4,
-    8
-  ],
-  "source": "Johnson, The Complete Poems, J362, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "It struck me – every Day –",
-      "Me golpeaba – cada día –"
-    ],
-    [
-      "The Lightning was as new",
-      "El relámpago era siempre nuevo,"
-    ],
-    [
-      "As if the Cloud that instant slit",
-      "como si la nube acabara de abrirse"
-    ],
-    [
-      "And let the Fire through –",
-      "y dejara pasar el fuego –"
-    ],
-    [
-      "It burned Me – in the Night –",
-      "Me quemaba – por la noche –"
-    ],
-    [
-      "It Blistered to My Dream –",
-      "Me abrasaba hasta en sueños –"
-    ],
-    [
-      "It sickened fresh upon my Sight –",
-      "Renovaba su daño ante mis ojos –"
-    ],
-    [
-      "With every Morn that came –",
-      "con cada mañana que llegaba –"
-    ],
-    [
-      "I thought that Storm – was brief –",
-      "Creí que aquella tormenta sería breve –"
-    ],
-    [
-      "The Maddest – quickest by –",
-      "la más furiosa – la más fugaz –"
-    ],
-    [
-      "But Nature lost the Date of This –",
-      "pero la Naturaleza perdió la fecha de aquello –"
-    ],
-    [
-      "And left it in the Sky –",
-      "y lo dejó suspendido en el cielo –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Relámpago persistente",
-      "body": "La imagen convierte un fenómeno instantáneo en una experiencia reiterada: la novedad del dolor no disminuye con su repetición."
-    },
-    {
-      "line": 11,
-      "title": "La fecha perdida",
-      "body": "La personificación de la Naturaleza deshace la expectativa de que una tormenta tenga un término previsible."
-    }
-  ],
-  "interpretation": "La repetición de «every» y «Morn» hace del rayo un presente perpetuo: el sufrimiento ya no es un acontecimiento, sino una forma del tiempo."
-},
-"J363": {
-  "id": "J363",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "I went to thank Her –",
-  "titleES": "Fui a darle las gracias –",
-  "stanzaBreaks": [
-    5,
-    7
-  ],
-  "source": "Johnson, The Complete Poems, J363, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "I went to thank Her –",
-      "Fui a darle las gracias –"
-    ],
-    [
-      "But She Slept –",
-      "pero ella dormía –"
-    ],
-    [
-      "Her Bed – a funneled Stone –",
-      "su lecho – una piedra ahuecada –"
-    ],
-    [
-      "With Nosegays at the Head and Foot –",
-      "con ramilletes a la cabecera y a los pies –"
-    ],
-    [
-      "That Travellers – had thrown –",
-      "que los viajeros – habían arrojado –"
-    ],
-    [
-      "Who went to thank Her –",
-      "quienes fueron a darle las gracias –"
-    ],
-    [
-      "But She Slept –",
-      "pero ella dormía –"
-    ],
-    [
-      "'Twas Short – to cross the Sea –",
-      "Fue breve – cruzar el mar –"
-    ],
-    [
-      "To look upon Her like – alive –",
-      "para verla como si estuviera – viva –"
-    ],
-    [
-      "But turning back – 'twas slow –",
-      "pero el regreso – fue lento –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 3,
-      "title": "Lecho de piedra",
-      "body": "«Funneled Stone» sugiere la forma hundida de una tumba; la imagen permite reconocer la muerte sin nombrarla."
-    },
-    {
-      "line": 8,
-      "title": "El viaje",
-      "body": "El contraste entre la brevedad de la ida y la lentitud del regreso traslada la pérdida al tiempo subjetivo."
-    }
-  ],
-  "interpretation": "La gratitud llega tarde: el estribillo «But She Slept» transforma una visita esperanzada en un encuentro imposible."
-},
-"J364": {
-  "id": "J364",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "The Morning after Woe –",
-  "titleES": "La mañana después del dolor –",
-  "stanzaBreaks": [
-    4,
-    8,
-    12
-  ],
-  "source": "Johnson, The Complete Poems, J364, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "The Morning after Woe –",
-      "La mañana después del dolor –"
-    ],
-    [
-      "'Tis frequently the Way –",
-      "así sucede a menudo –"
-    ],
-    [
-      "Surpasses all that rose before –",
-      "supera a todas las que antes amanecieron –"
-    ],
-    [
-      "For utter Jubilee –",
-      "en absoluto júbilo –"
-    ],
-    [
-      "As Nature did not care –",
-      "como si a la Naturaleza nada le importara –"
-    ],
-    [
-      "And piled her Blossoms on –",
-      "y siguiera amontonando flores –"
-    ],
-    [
-      "And further to parade a Joy",
-      "y, para exhibir aún más su alegría,"
-    ],
-    [
-      "Her Victim stared upon –",
-      "ante la mirada de su víctima –"
-    ],
-    [
-      "The Birds declaim their Tunes –",
-      "los pájaros declaman sus melodías –"
-    ],
-    [
-      "Pronouncing every word",
-      "pronunciando cada palabra"
-    ],
-    [
-      "Like Hammers – Did they know they fell",
-      "como martillos – si supieran que caen"
-    ],
-    [
-      "Like Litanies of Lead –",
-      "como letanías de plomo –"
-    ],
-    [
-      "On here and there – a creature –",
-      "sobre alguna que otra criatura –"
-    ],
-    [
-      "They'd modify the Glee",
-      "moderarían su alborozo"
-    ],
-    [
-      "To fit some Crucifixal Clef –",
-      "para ajustarlo a una clave de crucifixión –"
-    ],
-    [
-      "Some Key of Calvary –",
-      "a alguna tonalidad del Calvario –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 9,
-      "title": "Música hostil",
-      "body": "El canto de los pájaros, normalmente consolador, se percibe como martilleo: la alegría del mundo agrava el duelo."
-    },
-    {
-      "line": 15,
-      "title": "Clave del Calvario",
-      "body": "«Clef» y «Key» mantienen el campo musical mientras «Crucifixal» y «Calvary» trasladan la escena a la Pasión."
-    }
-  ],
-  "interpretation": "El poema invierte el tópico de la naturaleza consoladora: la indiferencia de la primavera hace audible el aislamiento del doliente."
-},
-"J365": {
-  "id": "J365",
-  "franklin": "Pendiente de cotejo",
-  "approx": "c. 1862",
-  "incipit": "Dare you see a Soul at the White Heat?",
-  "titleES": "¿Te atreves a ver un alma al rojo blanco?",
-  "stanzaBreaks": [
-    8
-  ],
-  "source": "Johnson, The Complete Poems, J365, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
-  "lines": [
-    [
-      "Dare you see a Soul at the White Heat?",
-      "¿Te atreves a ver un alma al rojo blanco?"
-    ],
-    [
-      "Then crouch within the door –",
-      "Entonces agáchate junto a la puerta –"
-    ],
-    [
-      "Red – is the Fire's common tint –",
-      "Rojo – es el color habitual del fuego –"
-    ],
-    [
-      "But when the vivid Ore",
-      "pero cuando el mineral encendido"
-    ],
-    [
-      "Has vanquished Flame's conditions,",
-      "ha vencido las condiciones de la llama,"
-    ],
-    [
-      "It quivers from the Forge",
-      "tiembla al salir de la fragua"
-    ],
-    [
-      "Without a color, but the light",
-      "sin color alguno, salvo la luz"
-    ],
-    [
-      "Of unanointed Blaze.",
-      "de un resplandor no consagrado."
-    ],
-    [
-      "Least Village has its Blacksmith",
-      "Hasta la aldea más pequeña tiene su herrero,"
-    ],
-    [
-      "Whose Anvil's even ring",
-      "cuyo yunque de golpes regulares"
-    ],
-    [
-      "Stands symbol for the finer Forge",
-      "simboliza la fragua más sutil"
-    ],
-    [
-      "That soundless tugs – within –",
-      "que trabaja en silencio – por dentro –"
-    ],
-    [
-      "Refining these impatient Ores",
-      "refinando esos minerales impacientes"
-    ],
-    [
-      "With Hammer, and with Blaze",
-      "a golpes de martillo y llamaradas,"
-    ],
-    [
-      "Until the Designated Light",
-      "hasta que la luz destinada"
-    ],
-    [
-      "Repudiate the Forge –",
-      "reniegue de la fragua –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "White Heat",
-      "body": "La expresión inglesa designa una temperatura extrema en la que el metal emite luz blanca; «al rojo blanco» conserva el choque cromático."
-    },
-    {
-      "line": 12,
-      "title": "Fragua interior",
-      "body": "La fragua material funciona como analogía del trabajo invisible de transformación del alma."
-    }
-  ],
-  "interpretation": "La forja ofrece una imagen del proceso espiritual sin prometer mansedumbre: la intensidad final rechaza incluso el instrumento que la produjo."
-},
-{
-  "id": "J366",
-  "approx": "1862",
-  "incipit": "Although I put away his life",
-  "stanzaBreaks": [
-    12,
-    21,
-    28
-  ],
-  "lines": [
-    [
-      "Although I put away his life –",
-      "Aunque aparté su vida –"
-    ],
-    [
-      "An Ornament too grand",
-      "un adorno demasiado grandioso"
-    ],
-    [
-      "For Forehead low as mine, to wear,",
-      "para una frente tan humilde como la mía,"
-    ],
-    [
-      "This might have been the Hand",
-      "esta podría haber sido la mano"
-    ],
-    [
-      "That sowed the flower, he preferred –",
-      "que sembrara la flor que él prefería –"
-    ],
-    [
-      "Or smoothed a homely pain,",
-      "o aliviara un dolor doméstico,"
-    ],
-    [
-      "Or pushed the pebble from his path –",
-      "o quitara una piedra de su camino –"
-    ],
-    [
-      "Or played his chosen tune –",
-      "o tocara su melodía elegida –"
-    ],
-    [
-      "On Lute the least – the latest –",
-      "en el laúd más pequeño, el más reciente –"
-    ],
-    [
-      "But just his Ear could know",
-      "pero solo su oído sabría"
-    ],
-    [
-      "That whatsoe'er delighted it,",
-      "que aquello que le diera placer,"
-    ],
-    [
-      "I never would let go –",
-      "yo nunca lo dejaría escapar –"
-    ],
-    [
-      "The foot to bear his errand –",
-      "el pie que llevara sus encargos –"
-    ],
-    [
-      "A little Boot I know –",
-      "una botita que conozco –"
-    ],
-    [
-      "Would leap abroad like Antelope –",
-      "saltaría afuera como un antílope –"
-    ],
-    [
-      "With just the grant to do –",
-      "con solo recibir permiso para cumplir –"
-    ],
-    [
-      "His weariest Commandment –",
-      "su mandato más fatigoso –"
-    ],
-    [
-      "A sweeter to obey,",
-      "más dulce de obedecer"
-    ],
-    [
-      "Than \"Hide and Seek\" –",
-      "que jugar a las escondidas –"
-    ],
-    [
-      "Or skip to Flutes –",
-      "o brincar al son de las flautas –"
-    ],
-    [
-      "Or All Day, chase the Bee –",
-      "o perseguir a la abeja todo el día –"
-    ],
-    [
-      "Your Servant, Sir, will weary –",
-      "Tu sirviente, señor, se cansará –"
-    ],
-    [
-      "The Surgeon, will not come –",
-      "el cirujano no vendrá –"
-    ],
-    [
-      "The World, will have its own – to do –",
-      "el mundo tendrá sus propios asuntos –"
-    ],
-    [
-      "The Dust, will vex your Fame –",
-      "el polvo importunará tu fama –"
-    ],
-    [
-      "The Cold will force your tightest door",
-      "el frío forzará tu puerta mejor cerrada"
-    ],
-    [
-      "Some February Day,",
-      "algún día de febrero,"
-    ],
-    [
-      "But say my apron bring the sticks",
-      "pero dejá que mi delantal lleve la leña"
-    ],
-    [
-      "To make your Cottage gay –",
-      "para alegrar tu cabaña –"
-    ],
-    [
-      "That I may take that promise",
-      "para que pueda llevar esa promesa"
-    ],
-    [
-      "To Paradise, with me –",
-      "conmigo al Paraíso –"
-    ],
-    [
-      "To teach the Angels, avarice,",
-      "para enseñarles a los ángeles la avaricia,"
-    ],
-    [
-      "You, Sir, taught first – to me.",
-      "que vos, señor, me enseñaste primero."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 1,
-      "title": "Apartar una vida",
-      "body": "La renuncia inicial no elimina el deseo de servir; la voz imagina una intimidad de gestos mínimos."
-    },
-    {
-      "line": 32,
-      "title": "Avarice",
-      "body": "La avaricia del cierre transforma la devoción en deseo de posesión exclusiva, incluso en el Paraíso."
-    }
-  ],
-  "interpretation": "El poema contrapone la distancia de una relación imposible y la proximidad imaginada de los cuidados cotidianos. La servidumbre amorosa termina en una paradoja: querer conservar hasta en el cielo una forma terrenal de apego.",
-  "franklin": "Pendiente de cotejo",
-  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J366, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
-  "titleES": "Although I put away his life"
-},
-{
-  "id": "J367",
-  "approx": "1862",
-  "incipit": "Over and over, like a Tune",
-  "stanzaBreaks": [
-    4
-  ],
-  "lines": [
-    [
-      "Over and over, like a Tune –",
-      "Una y otra vez, como una melodía –"
-    ],
-    [
-      "The Recollection plays –",
-      "suena el recuerdo –"
-    ],
-    [
-      "Drums off the Phantom Battlements",
-      "tambores desde las almenas fantasmales"
-    ],
-    [
-      "Comets of Paradise –",
-      "cometas del Paraíso –"
-    ],
-    [
-      "Snatches, from Baptized Generations –",
-      "fragmentos de generaciones bautizadas –"
-    ],
-    [
-      "Cadences too grand",
-      "cadencias demasiado grandiosas"
-    ],
-    [
-      "But for the Justified Processions",
-      "salvo para las procesiones de los justificados"
-    ],
-    [
-      "At the Lord's Right hand.",
-      "a la diestra del Señor."
-    ]
-  ],
-  "notes": [
-    {
-      "line": 3,
-      "title": "Phantom Battlements",
-      "body": "La memoria adquiere una arquitectura militar espectral: se oye una ceremonia cuya fuente ya no está presente."
-    },
-    {
-      "line": 7,
-      "title": "Justified",
-      "body": "Término con resonancia teológica protestante: los justificados son quienes han sido declarados justos ante Dios."
-    }
-  ],
-  "interpretation": "La repetición musical del recuerdo se amplifica hasta una liturgia celeste. El poema no identifica qué se recuerda; deja que la escala de sus imágenes transforme una experiencia íntima en ceremonia.",
-  "franklin": "Pendiente de cotejo",
-  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J367, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
-  "titleES": "Over and over, like a Tune"
-},
-{
-  "id": "J368",
-  "approx": "1862",
-  "incipit": "How sick – to wait – in any place – but thine",
-  "stanzaBreaks": [
-    6
-  ],
-  "lines": [
-    [
-      "How sick – to wait – in any place – but thine –",
-      "Qué enfermo resulta esperar en cualquier lugar que no sea el tuyo –"
-    ],
-    [
-      "I knew last night – when Someone tried to twine –",
-      "lo supe anoche, cuando alguien intentó enlazarse –"
-    ],
-    [
-      "Thinking – perhaps – that I looked tired – or alone –",
-      "pensando, quizá, que parecía cansada o sola –"
-    ],
-    [
-      "Or breaking – almost – with unspoken pain –",
-      "o a punto de quebrarme por un dolor no dicho –"
-    ],
-    [
-      "And I turned – ducal –",
-      "y me volví – ducal –"
-    ],
-    [
-      "That right – was thine –",
-      "ese derecho era tuyo –"
-    ],
-    [
-      "One port – suffices – for a Brig – like mine –",
-      "un solo puerto basta para un bergantín como el mío –"
-    ],
-    [
-      "Ours be the tossing – wild though the sea –",
-      "que nuestra sea la sacudida, por bravo que esté el mar –"
-    ],
-    [
-      "Rather than a Mooring – unshared by thee",
-      "antes que un amarre que no compartas"
-    ],
-    [
-      "Ours be the Cargo – unladen – here –",
-      "que nuestra sea la carga, aquí sin desembarcar –"
-    ],
-    [
-      "Rather than the \"spicy isles –\"",
-      "antes que las «islas de especias –»"
-    ],
-    [
-      "And thou – not there –",
-      "si vos no estás allí –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 5,
-      "title": "Ducal",
-      "body": "El adjetivo condensa una dignidad aristocrática: la hablante rechaza una intimidad que considera reservada a otra persona."
-    },
-    {
-      "line": 7,
-      "title": "Brig",
-      "body": "Un bergantín es un velero de dos mástiles; el puerto y el amarre construyen una alegoría de fidelidad."
-    }
-  ],
-  "interpretation": "La voz prefiere la intemperie compartida a cualquier seguridad sin el ser amado. El contraste entre navegación arriesgada y paraísos comerciales deshabitados por el tú da al poema su fuerza de elección.",
-  "franklin": "Pendiente de cotejo",
-  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J368, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
-  "titleES": "How sick – to wait – in any place – but thine"
-},
-{
-  "id": "J369",
-  "approx": "1862",
-  "incipit": "She lay as if at play",
-  "stanzaBreaks": [
-    4,
-    8,
-    12
-  ],
-  "lines": [
-    [
-      "She lay as if at play",
-      "Yacía como si jugara"
-    ],
-    [
-      "Her life had leaped away –",
-      "su vida había saltado lejos –"
-    ],
-    [
-      "Intending to return –",
-      "con intención de regresar –"
-    ],
-    [
-      "But not so soon –",
-      "pero no tan pronto –"
-    ],
-    [
-      "Her merry Arms, half dropt –",
-      "sus brazos alegres, medio caídos –"
-    ],
-    [
-      "As if for lull of sport –",
-      "como si en una pausa del juego –"
-    ],
-    [
-      "An instant had forgot –",
-      "hubieran olvidado por un instante –"
-    ],
-    [
-      "The Trick to start –",
-      "el truco de ponerse en marcha –"
-    ],
-    [
-      "Her dancing Eyes – ajar –",
-      "sus ojos danzarines, entreabiertos –"
-    ],
-    [
-      "As if their Owner were",
-      "como si su dueña siguiera"
-    ],
-    [
-      "Still sparkling through",
-      "centelleando todavía a través de ellos"
-    ],
-    [
-      "For fun – at you –",
-      "por diversión, hacia vos –"
-    ],
-    [
-      "Her Morning at the door –",
-      "su mañana estaba a la puerta –"
-    ],
-    [
-      "Devising, I am sure –",
-      "tramando, estoy segura –"
-    ],
-    [
-      "To force her sleep –",
-      "cómo romper su sueño –"
-    ],
-    [
-      "So light – so deep –",
-      "tan ligero, tan profundo –"
-    ]
-  ],
-  "notes": [
-    {
-      "line": 2,
-      "title": "Life had leaped away",
-      "body": "La vida aparece como un agente móvil que se ha alejado del cuerpo; la imagen evita nombrar directamente la muerte."
-    },
-    {
-      "line": 16,
-      "title": "Light / deep",
-      "body": "La contradicción final conserva a la vez la apariencia de un sueño leve y la irreversibilidad de la muerte."
-    }
-  ],
-  "interpretation": "La descripción del cuerpo muerto insiste en señales de vitalidad: juego, movimiento, mirada y mañana. El lector advierte la muerte precisamente por la imposibilidad de que esas promesas se cumplan.",
-  "franklin": "Pendiente de cotejo",
-  "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J369, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
-  "titleES": "She lay as if at play"
-}
+  },
+  "J351": {
+    "id": "J351",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "I felt my life with both my hands",
+    "titleES": "Palpé mi vida con ambas manos",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Johnson, The Complete Poems, J351; edición facilitada, página impresa 166. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "I felt my life with both my hands",
+        "Palpé mi vida con ambas manos"
+      ],
+      [
+        "To see if it was there –",
+        "para comprobar si estaba allí;"
+      ],
+      [
+        "I held my spirit to the Glass,",
+        "acerqué mi espíritu al espejo"
+      ],
+      [
+        "To prove it possibler –",
+        "para probar que era más posible."
+      ],
+      [
+        "I turned my Being round and round",
+        "Hice girar mi ser una y otra vez"
+      ],
+      [
+        "And paused at every pound",
+        "y me detuve ante cada golpe"
+      ],
+      [
+        "To ask the Owner's name –",
+        "para preguntar el nombre de su dueño,"
+      ],
+      [
+        "For doubt, that I should know the Sound –",
+        "dudando de reconocer el sonido."
+      ],
+      [
+        "I judged my features – jarred my hair –",
+        "Examiné mis rasgos, revolví mi pelo,"
+      ],
+      [
+        "I pushed my dimples by, and waited –",
+        "aparté mis hoyuelos y esperé:"
+      ],
+      [
+        "If they – twinkled back –",
+        "si me devolvían un destello,"
+      ],
+      [
+        "Conviction might, of me –",
+        "quizá podría convencerme de mí misma."
+      ],
+      [
+        "I told myself, \"Take Courage, Friend –",
+        "Me dije: «Ánimo, amiga;"
+      ],
+      [
+        "That – was a former time –",
+        "aquello pertenecía a otro tiempo;"
+      ],
+      [
+        "But we might learn to like the Heaven,",
+        "pero acaso aprendamos a querer el cielo"
+      ],
+      [
+        "As well as our Old Home!\"",
+        "tanto como nuestro antiguo hogar»."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Comprobación de la existencia",
+        "body": "La conciencia intenta verificarse mediante tacto, espejo y sonido, como si la identidad fuese un objeto perdido."
+      },
+      {
+        "line": 12,
+        "title": "Conviction might, of me",
+        "body": "La sintaxis entrecortada hace que la certeza de ser una misma aparezca como una posibilidad, no como un dato."
+      },
+      {
+        "line": 16,
+        "title": "El antiguo hogar",
+        "body": "La oposición entre Heaven y Old Home admite una lectura espiritual y otra psicológica: una identidad nueva todavía extraña."
+      }
+    ],
+    "interpretation": "La experiencia de sí se vuelve extraña: la hablante se examina como si hubiera sobrevivido a una transformación. El cielo del final no disuelve la incertidumbre, sino que formula la posibilidad de acostumbrarse a otra forma de vida."
+  },
+  "J352": {
+    "id": "J352",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "Perhaps I asked too large –",
+    "titleES": "Quizá pedí demasiado",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J352; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "Perhaps I asked too large –",
+        "Quizá pedí demasiado:"
+      ],
+      [
+        "I take – no less than skies –",
+        "no acepto menos que cielos."
+      ],
+      [
+        "For Earths, grow thick as",
+        "Pues las tierras crecen tan tupidas"
+      ],
+      [
+        "Berries, in my native town –",
+        "como bayas en mi pueblo natal."
+      ],
+      [
+        "My Basket holds – just – Firmaments –",
+        "Mi canasta solo contiene firmamentos;"
+      ],
+      [
+        "Those – dangle easy – on my arm,",
+        "estos cuelgan ligeros de mi brazo,"
+      ],
+      [
+        "But smaller bundles – Cram.",
+        "pero los fardos menores la atiborran."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Una exigencia desmesurada",
+        "body": "La voz invierte las escalas habituales: los cielos resultan manejables, mientras lo pequeño pesa y estorba."
+      },
+      {
+        "line": 5,
+        "title": "Canasta y firmamentos",
+        "body": "El recipiente doméstico alberga lo cósmico. La imagen une el gesto cotidiano de recolectar con una ambición ilimitada."
+      }
+    ],
+    "interpretation": "La paradoja del poema convierte la abundancia terrestre en estrechez y lo inconmensurable en una posesión liviana. Pedir cielos no significa necesariamente codicia: también puede nombrar la incapacidad de conformarse con una medida ordinaria."
+  },
+  "J353": {
+    "id": "J353",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "A happy lip – breaks sudden –",
+    "titleES": "Un labio feliz irrumpe de pronto",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Johnson, The Complete Poems, J353; edición facilitada, página impresa 167. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "A happy lip – breaks sudden –",
+        "Un labio feliz irrumpe de pronto:"
+      ],
+      [
+        "It doesn't state you how",
+        "no te cuenta de qué modo"
+      ],
+      [
+        "It contemplated – smiling –",
+        "estuvo pensando en sonreír;"
+      ],
+      [
+        "Just consummated – now –",
+        "simplemente lo ha consumado, ahora."
+      ],
+      [
+        "But this one, wears its merriment",
+        "Pero este lleva su alegría"
+      ],
+      [
+        "So patient – like a pain –",
+        "con tanta paciencia, como un dolor,"
+      ],
+      [
+        "Fresh gilded – to elude the eyes",
+        "recién dorada para esquivar los ojos"
+      ],
+      [
+        "Unqualified, to scan –",
+        "incapaces de examinarla."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "El instante de la sonrisa",
+        "body": "La primera estrofa distingue el acontecimiento visible de la deliberación que lo precede, inaccesible al observador."
+      },
+      {
+        "line": 6,
+        "title": "Alegría y dolor",
+        "body": "La sonrisa puede llevarse con la reserva de una herida: la alegría interior se protege de miradas que no saben interpretarla."
+      }
+    ],
+    "interpretation": "La alegría no es necesariamente transparencia. La segunda estrofa corrige la espontaneidad de la primera: la sonrisa madura se lleva con discreción, como si fuese vulnerable a la mirada ajena."
+  },
+  "J354": {
+    "id": "J354",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "From Cocoon forth a Butterfly",
+    "titleES": "De la crisálida salió una mariposa,",
+    "stanzaBreaks": [
+      4,
+      8,
+      11,
+      17,
+      21
+    ],
+    "source": "Johnson, The Complete Poems, J354; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "From Cocoon forth a Butterfly",
+        "De la crisálida salió una mariposa,"
+      ],
+      [
+        "As Lady from her Door",
+        "como una dama de su puerta"
+      ],
+      [
+        "Emerged – a Summer Afternoon –",
+        "emergió una tarde de verano,"
+      ],
+      [
+        "Repairing Everywhere –",
+        "recorriéndolo todo,"
+      ],
+      [
+        "Without Design – that I could trace",
+        "sin propósito que yo pudiera advertir,"
+      ],
+      [
+        "Except to stray abroad",
+        "salvo el de vagar por ahí"
+      ],
+      [
+        "On Miscellaneous Enterprise",
+        "en empresas diversas"
+      ],
+      [
+        "The Clovers – understood –",
+        "que los tréboles comprendían."
+      ],
+      [
+        "Her pretty Parasol be seen",
+        "Se veía su bonito parasol"
+      ],
+      [
+        "Contracting in a Field",
+        "plegarse en un campo"
+      ],
+      [
+        "Where Men made Hay –",
+        "donde unos hombres segaban heno;"
+      ],
+      [
+        "Then struggling hard",
+        "luego luchaba con fuerza"
+      ],
+      [
+        "With an opposing Cloud –",
+        "contra una nube adversa,"
+      ],
+      [
+        "Where Parties – Phantom as Herself –",
+        "donde figuras, fantasmas como ella,"
+      ],
+      [
+        "To Nowhere – seemed to go",
+        "parecían dirigirse a ninguna parte"
+      ],
+      [
+        "In purposeless Circumference –",
+        "en círculos sin finalidad,"
+      ],
+      [
+        "As 'twere a Tropic Show –",
+        "como en un espectáculo tropical."
+      ],
+      [
+        "And notwithstanding Bee – that worked –",
+        "Y pese a la abeja que trabajaba"
+      ],
+      [
+        "And Flower – that zealous blew –",
+        "y a la flor que florecía con celo,"
+      ],
+      [
+        "This Audience of Idleness",
+        "aquel público de ociosidad"
+      ],
+      [
+        "Disdained them, from the Sky –",
+        "las desdeñaba desde el cielo,"
+      ],
+      [
+        "Till Sundown crept – a steady Tide –",
+        "hasta que el ocaso avanzó, marea constante,"
+      ],
+      [
+        "And Men that made the Hay –",
+        "y los hombres que segaban el heno,"
+      ],
+      [
+        "And Afternoon – and Butterfly –",
+        "y la tarde, y la mariposa"
+      ],
+      [
+        "Extinguished – in the Sea –",
+        "se extinguieron en el mar."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Metamorfosis",
+        "body": "La salida de la crisálida se compara con la aparición social de una dama: naturaleza y etiqueta se superponen."
+      },
+      {
+        "line": 15,
+        "title": "Circunferencia",
+        "body": "El movimiento sin destino contrasta con el trabajo de los segadores y la abeja; la palabra reaparece como figura importante en Dickinson."
+      },
+      {
+        "line": 22,
+        "title": "El ocaso como marea",
+        "body": "La imagen final disuelve simultáneamente paisaje, trabajo y vuelo; no afirma una muerte literal de la mariposa."
+      }
+    ],
+    "interpretation": "El poema contempla la libertad aparente de la mariposa y la enfrenta a la utilidad humana. El vuelo parece un espectáculo gratuito, pero el atardecer iguala a quienes trabajan y a quien vaga."
+  },
+  "J355": {
+    "id": "J355",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "'Tis Opposites – entice –",
+    "titleES": "Son los opuestos los que atraen:",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Johnson, The Complete Poems, J355; edición facilitada, página impresa 168. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "'Tis Opposites – entice –",
+        "Son los opuestos los que atraen:"
+      ],
+      [
+        "Deformed Men – ponder Grace –",
+        "los deformes meditan sobre la gracia;"
+      ],
+      [
+        "Bright fires – the Blanketless –",
+        "los desabrigados, sobre fuegos brillantes;"
+      ],
+      [
+        "The Lost – Day's face –",
+        "los perdidos, sobre el rostro del día."
+      ],
+      [
+        "The Blind – esteem it be",
+        "Los ciegos juzgan que ver"
+      ],
+      [
+        "Enough Estate – to see –",
+        "sería riqueza suficiente;"
+      ],
+      [
+        "The Captive – strangles new –",
+        "el cautivo vuelve a ahogarse"
+      ],
+      [
+        "For deeming – Beggars – play –",
+        "al imaginar que los mendigos juegan."
+      ],
+      [
+        "To lack – enamor Thee –",
+        "Carecer: eso te enamora,"
+      ],
+      [
+        "Tho' the Divinity –",
+        "aunque la divinidad"
+      ],
+      [
+        "Be only",
+        "no sea sino"
+      ],
+      [
+        "Me –",
+        "yo misma."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Deseo por contraste",
+        "body": "La serie de privaciones presenta el deseo como una relación con aquello de lo que se carece."
+      },
+      {
+        "line": 7,
+        "title": "El cautivo",
+        "body": "La sintaxis comprimida deja abierto el matiz exacto de «strangles new»; la traducción conserva la imagen de asfixia renovada."
+      },
+      {
+        "line": 10,
+        "title": "Divinidad del yo",
+        "body": "El giro final traslada al sujeto la condición de objeto deseado y permite leer una crítica a la idealización."
+      }
+    ],
+    "interpretation": "La carencia fabrica sus propios absolutos. El remate transforma la reflexión general en una interpelación íntima: aquello que parece divino quizá sea una proyección del yo."
+  },
+  "J356": {
+    "id": "J356",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862 (Johnson)",
+    "incipit": "The Day that I was crowned",
+    "titleES": "El día en que me coronaron",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Johnson, The Complete Poems, J356; edición facilitada, página impresa 169. Equivalencia Franklin y variantes manuscritas pendientes de cotejo.",
+    "lines": [
+      [
+        "The Day that I was crowned",
+        "El día en que me coronaron"
+      ],
+      [
+        "Was like the other Days –",
+        "era como todos los demás,"
+      ],
+      [
+        "Until the Coronation came –",
+        "hasta que llegó la coronación,"
+      ],
+      [
+        "And then – 'twas Otherwise –",
+        "y entonces fue distinto."
+      ],
+      [
+        "As Carbon in the Coal",
+        "Como el carbono del carbón"
+      ],
+      [
+        "And Carbon in the Gem",
+        "y el carbono de la gema"
+      ],
+      [
+        "Are One – and yet the former",
+        "son uno mismo, y sin embargo el primero"
+      ],
+      [
+        "Were dull for Diadem –",
+        "sería opaco para una diadema,"
+      ],
+      [
+        "I rose, and all was plain –",
+        "me levanté y todo era sencillo;"
+      ],
+      [
+        "But when the Day declined",
+        "pero al declinar el día,"
+      ],
+      [
+        "Myself and It, in Majesty",
+        "yo y él, en majestad,"
+      ],
+      [
+        "Were equally – adorned –",
+        "estábamos igualmente adornados."
+      ],
+      [
+        "The Grace that I – was chose –",
+        "La gracia de haber sido elegida"
+      ],
+      [
+        "To Me – surpassed the Crown",
+        "superaba para mí la corona"
+      ],
+      [
+        "That was the Witness for the Grace –",
+        "que daba testimonio de esa gracia:"
+      ],
+      [
+        "'Twas even that 'twas Mine –",
+        "lo esencial era que fuese mía."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Carbón y gema",
+        "body": "La analogía mineral contrapone la identidad material a la diferencia de brillo y reconocimiento."
+      },
+      {
+        "line": 13,
+        "title": "La gracia de ser elegida",
+        "body": "La coronación puede leerse como reconocimiento espiritual, amoroso o poético; el texto no fija un acontecimiento biográfico."
+      }
+    ],
+    "interpretation": "El signo exterior de distinción vale menos que la experiencia interior de haber sido escogida. El paralelismo con el día que declina devuelve majestad a lo cotidiano."
+  },
+  "J357": {
+    "id": "J357",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "God is a distant – stately Lover –",
+    "titleES": "Dios es un amante distante y majestuoso:",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J357, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "God is a distant – stately Lover –",
+        "Dios es un amante distante y majestuoso:"
+      ],
+      [
+        "Woos, as He states us – by His Son –",
+        "nos corteja, según declara, por medio de su Hijo;"
+      ],
+      [
+        "Verily, a Vicarious Courtship –",
+        "un galanteo, en verdad, por representante,"
+      ],
+      [
+        "\"Miles\", and \"Priscilla\", were such an One –",
+        "como el de «Miles» y «Priscilla»."
+      ],
+      [
+        "But, lest the Soul – like fair \"Priscilla\"",
+        "Pero, por temor a que el alma, como la bella «Priscilla»,"
+      ],
+      [
+        "Choose the Envoy – and spurn the Groom –",
+        "elija al emisario y desdeñe al novio,"
+      ],
+      [
+        "Vouches, with hyperbolic archness –",
+        "asegura, con exagerada picardía,"
+      ],
+      [
+        "\"Miles\", and \"John Alden\" were Synonym –",
+        "que «Miles» y «John Alden» eran sinónimos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Miles y Priscilla",
+        "body": "Alusión al cortejo delegado de la tradición de Plymouth, popularizada por Longfellow; no debe confundirse la ficción literaria con una prueba histórica."
+      }
+    ],
+    "interpretation": "El poema vuelve irónica la mediación entre Dios y el alma: el enviado puede desplazar al pretendiente. La referencia es al relato de Miles Standish, Priscilla Mullins y John Alden."
+  },
+  "J358": {
+    "id": "J358",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "If any sink, assure that this, now standing –",
+    "titleES": "Si alguien se hunde, asegurale que esto, que ahora está en pie,",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J358, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "If any sink, assure that this, now standing –",
+        "Si alguien se hunde, asegurale que esto, que ahora está en pie,"
+      ],
+      [
+        "Failed like Themselves – and conscious that it rose –",
+        "cayó como ellos y, consciente de haberse levantado,"
+      ],
+      [
+        "Grew by the Fact, and not the Understanding",
+        "creció por el hecho mismo, no por comprender"
+      ],
+      [
+        "How Weakness passed – or Force – arose –",
+        "cómo pasó la debilidad o surgió la fuerza."
+      ],
+      [
+        "Tell that the Worst, is easy in a Moment –",
+        "Decile que lo peor se soporta en un instante;"
+      ],
+      [
+        "Dread, but the Whizzing, before the Ball –",
+        "lo temible es el silbido que precede a la bala."
+      ],
+      [
+        "When the Ball enters, enters Silence –",
+        "Cuando entra la bala, entra el silencio:"
+      ],
+      [
+        "Dying – annuls the power to kill.",
+        "morir anula el poder de matar."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 6,
+        "title": "El silbido anterior",
+        "body": "La anticipación del daño puede resultar más terrible que el instante del impacto; la imagen bélica no permite identificar por sí sola un episodio biográfico."
+      }
+    ],
+    "interpretation": "La supervivencia no se explica mediante una teoría del coraje, sino por el hecho de haberse levantado. La imagen final comprime terror, violencia y silencio."
+  },
+  "J359": {
+    "id": "J359",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "I gained it so –",
+    "titleES": "Así lo conseguí:",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J359, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "I gained it so –",
+        "Así lo conseguí:"
+      ],
+      [
+        "By Climbing slow –",
+        "trepando despacio,"
+      ],
+      [
+        "By Catching at the Twigs that grow",
+        "aferrándome a las ramitas que crecen"
+      ],
+      [
+        "Between the Bliss – and me –",
+        "entre la dicha y yo."
+      ],
+      [
+        "It hung so high",
+        "Colgaba tan alto"
+      ],
+      [
+        "As well the Sky",
+        "que igual habría podido"
+      ],
+      [
+        "Attempt by Strategy –",
+        "intentar alcanzar el cielo con astucia."
+      ],
+      [
+        "I said I gained it –",
+        "Dije que lo había conseguido;"
+      ],
+      [
+        "This – was all –",
+        "eso fue todo."
+      ],
+      [
+        "Look, how I clutch it",
+        "Mirá cómo lo aprieto"
+      ],
+      [
+        "Lest it fall –",
+        "para que no caiga"
+      ],
+      [
+        "And I a Pauper go –",
+        "y yo vuelva a ser una mendiga,"
+      ],
+      [
+        "Unfitted by an instant's Grace",
+        "incapaz, después de un instante de gracia,"
+      ],
+      [
+        "For the Contented – Beggar's face",
+        "de recuperar el rostro de mendiga satisfecha"
+      ],
+      [
+        "I wore – an hour ago –",
+        "que llevaba hace apenas una hora."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 13,
+        "title": "Un instante de gracia",
+        "body": "La gracia transforma retrospectivamente la pobreza anterior: la voz ya no puede regresar intacta a su antigua resignación."
+      }
+    ],
+    "interpretation": "La posesión de la dicha introduce una nueva precariedad: después de alcanzarla, perderla parece peor que no haberla conocido."
+  },
+  "J360": {
+    "id": "J360",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "Death sets a Thing significant",
+    "titleES": "La muerte vuelve significativo algo",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J360, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "Death sets a Thing significant",
+        "La muerte vuelve significativo algo"
+      ],
+      [
+        "The Eye had hurried by",
+        "que los ojos habían pasado por alto,"
+      ],
+      [
+        "Except a perished Creature",
+        "hasta que una criatura fallecida"
+      ],
+      [
+        "Entreat us tenderly",
+        "nos ruega con ternura"
+      ],
+      [
+        "To ponder little Workmanships",
+        "que contemplemos pequeñas labores"
+      ],
+      [
+        "In Crayon, or in Wool,",
+        "de lápiz o de lana,"
+      ],
+      [
+        "With \"This was last Her fingers did\" –",
+        "diciendo: «Esto fue lo último que hicieron sus dedos»,"
+      ],
+      [
+        "Industrious until –",
+        "laboriosos hasta que"
+      ],
+      [
+        "The Thimble weighed too heavy –",
+        "el dedal pesó demasiado,"
+      ],
+      [
+        "The stitches stopped – themselves –",
+        "y las puntadas se detuvieron solas;"
+      ],
+      [
+        "And then 'twas put among the Dust",
+        "después quedó entre el polvo"
+      ],
+      [
+        "Upon the Closet shelves –",
+        "de los estantes del armario."
+      ],
+      [
+        "A Book I have – a friend gave –",
+        "Tengo un libro que me dio un amigo,"
+      ],
+      [
+        "Whose Pencil – here and there –",
+        "cuyo lápiz, aquí y allá,"
+      ],
+      [
+        "Had notched the place that pleased Him –",
+        "marcó los pasajes que le gustaban;"
+      ],
+      [
+        "At Rest – His fingers are –",
+        "sus dedos descansan ahora."
+      ],
+      [
+        "Now – when I read – I read not –",
+        "Y cuando leo, ya no leo,"
+      ],
+      [
+        "For interrupting Tears –",
+        "porque las lágrimas que interrumpen"
+      ],
+      [
+        "Obliterate the Etchings",
+        "borran esas marcas"
+      ],
+      [
+        "Too Costly for Repairs.",
+        "demasiado preciosas para repararlas."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 15,
+        "title": "Marcas de lápiz",
+        "body": "El gesto de subrayar deja un rastro material de una lectura pasada; las lágrimas amenazan precisamente ese testimonio."
+      }
+    ],
+    "interpretation": "Los objetos cotidianos se convierten en reliquias por la ausencia de quien los tocó. El libro anotado convierte la lectura en un encuentro imposible."
+  },
+  "J361": {
+    "id": "J361",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "What I can do – I will –",
+    "titleES": "Lo que pueda hacer, lo haré,",
+    "stanzaBreaks": [],
+    "source": "Johnson, The Complete Poems, J361, pp. 169–171 (impresas); correspondencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "What I can do – I will –",
+        "Lo que pueda hacer, lo haré,"
+      ],
+      [
+        "Though it be little as a Daffodil –",
+        "aunque sea tan pequeño como un narciso;"
+      ],
+      [
+        "That I cannot – must be",
+        "lo que no pueda hacer habrá de ser"
+      ],
+      [
+        "Unknown to possibility –",
+        "desconocido para la posibilidad."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Daffodil",
+        "body": "El narciso ofrece una medida deliberadamente pequeña y concreta de la acción posible."
+      }
+    ],
+    "interpretation": "La modestia del narciso no atenúa la resolución: el poema distingue el límite efectivo de la acción de la renuncia anticipada."
+  },
+  "J362": {
+    "id": "J362",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "It struck me – every Day –",
+    "titleES": "Me golpeaba – cada día –",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Johnson, The Complete Poems, J362, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "It struck me – every Day –",
+        "Me golpeaba – cada día –"
+      ],
+      [
+        "The Lightning was as new",
+        "El relámpago era siempre nuevo,"
+      ],
+      [
+        "As if the Cloud that instant slit",
+        "como si la nube acabara de abrirse"
+      ],
+      [
+        "And let the Fire through –",
+        "y dejara pasar el fuego –"
+      ],
+      [
+        "It burned Me – in the Night –",
+        "Me quemaba – por la noche –"
+      ],
+      [
+        "It Blistered to My Dream –",
+        "Me abrasaba hasta en sueños –"
+      ],
+      [
+        "It sickened fresh upon my Sight –",
+        "Renovaba su daño ante mis ojos –"
+      ],
+      [
+        "With every Morn that came –",
+        "con cada mañana que llegaba –"
+      ],
+      [
+        "I thought that Storm – was brief –",
+        "Creí que aquella tormenta sería breve –"
+      ],
+      [
+        "The Maddest – quickest by –",
+        "la más furiosa – la más fugaz –"
+      ],
+      [
+        "But Nature lost the Date of This –",
+        "pero la Naturaleza perdió la fecha de aquello –"
+      ],
+      [
+        "And left it in the Sky –",
+        "y lo dejó suspendido en el cielo –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Relámpago persistente",
+        "body": "La imagen convierte un fenómeno instantáneo en una experiencia reiterada: la novedad del dolor no disminuye con su repetición."
+      },
+      {
+        "line": 11,
+        "title": "La fecha perdida",
+        "body": "La personificación de la Naturaleza deshace la expectativa de que una tormenta tenga un término previsible."
+      }
+    ],
+    "interpretation": "La repetición de «every» y «Morn» hace del rayo un presente perpetuo: el sufrimiento ya no es un acontecimiento, sino una forma del tiempo."
+  },
+  "J363": {
+    "id": "J363",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "I went to thank Her –",
+    "titleES": "Fui a darle las gracias –",
+    "stanzaBreaks": [
+      5,
+      7
+    ],
+    "source": "Johnson, The Complete Poems, J363, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "I went to thank Her –",
+        "Fui a darle las gracias –"
+      ],
+      [
+        "But She Slept –",
+        "pero ella dormía –"
+      ],
+      [
+        "Her Bed – a funneled Stone –",
+        "su lecho – una piedra ahuecada –"
+      ],
+      [
+        "With Nosegays at the Head and Foot –",
+        "con ramilletes a la cabecera y a los pies –"
+      ],
+      [
+        "That Travellers – had thrown –",
+        "que los viajeros – habían arrojado –"
+      ],
+      [
+        "Who went to thank Her –",
+        "quienes fueron a darle las gracias –"
+      ],
+      [
+        "But She Slept –",
+        "pero ella dormía –"
+      ],
+      [
+        "'Twas Short – to cross the Sea –",
+        "Fue breve – cruzar el mar –"
+      ],
+      [
+        "To look upon Her like – alive –",
+        "para verla como si estuviera – viva –"
+      ],
+      [
+        "But turning back – 'twas slow –",
+        "pero el regreso – fue lento –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Lecho de piedra",
+        "body": "«Funneled Stone» sugiere la forma hundida de una tumba; la imagen permite reconocer la muerte sin nombrarla."
+      },
+      {
+        "line": 8,
+        "title": "El viaje",
+        "body": "El contraste entre la brevedad de la ida y la lentitud del regreso traslada la pérdida al tiempo subjetivo."
+      }
+    ],
+    "interpretation": "La gratitud llega tarde: el estribillo «But She Slept» transforma una visita esperanzada en un encuentro imposible."
+  },
+  "J364": {
+    "id": "J364",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "The Morning after Woe –",
+    "titleES": "La mañana después del dolor –",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Johnson, The Complete Poems, J364, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "The Morning after Woe –",
+        "La mañana después del dolor –"
+      ],
+      [
+        "'Tis frequently the Way –",
+        "así sucede a menudo –"
+      ],
+      [
+        "Surpasses all that rose before –",
+        "supera a todas las que antes amanecieron –"
+      ],
+      [
+        "For utter Jubilee –",
+        "en absoluto júbilo –"
+      ],
+      [
+        "As Nature did not care –",
+        "como si a la Naturaleza nada le importara –"
+      ],
+      [
+        "And piled her Blossoms on –",
+        "y siguiera amontonando flores –"
+      ],
+      [
+        "And further to parade a Joy",
+        "y, para exhibir aún más su alegría,"
+      ],
+      [
+        "Her Victim stared upon –",
+        "ante la mirada de su víctima –"
+      ],
+      [
+        "The Birds declaim their Tunes –",
+        "los pájaros declaman sus melodías –"
+      ],
+      [
+        "Pronouncing every word",
+        "pronunciando cada palabra"
+      ],
+      [
+        "Like Hammers – Did they know they fell",
+        "como martillos – si supieran que caen"
+      ],
+      [
+        "Like Litanies of Lead –",
+        "como letanías de plomo –"
+      ],
+      [
+        "On here and there – a creature –",
+        "sobre alguna que otra criatura –"
+      ],
+      [
+        "They'd modify the Glee",
+        "moderarían su alborozo"
+      ],
+      [
+        "To fit some Crucifixal Clef –",
+        "para ajustarlo a una clave de crucifixión –"
+      ],
+      [
+        "Some Key of Calvary –",
+        "a alguna tonalidad del Calvario –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 9,
+        "title": "Música hostil",
+        "body": "El canto de los pájaros, normalmente consolador, se percibe como martilleo: la alegría del mundo agrava el duelo."
+      },
+      {
+        "line": 15,
+        "title": "Clave del Calvario",
+        "body": "«Clef» y «Key» mantienen el campo musical mientras «Crucifixal» y «Calvary» trasladan la escena a la Pasión."
+      }
+    ],
+    "interpretation": "El poema invierte el tópico de la naturaleza consoladora: la indiferencia de la primavera hace audible el aislamiento del doliente."
+  },
+  "J365": {
+    "id": "J365",
+    "franklin": "Pendiente de cotejo",
+    "approx": "c. 1862",
+    "incipit": "Dare you see a Soul at the White Heat?",
+    "titleES": "¿Te atreves a ver un alma al rojo blanco?",
+    "stanzaBreaks": [
+      8
+    ],
+    "source": "Johnson, The Complete Poems, J365, pp. 171–174 (impresas); equivalencia Franklin y variantes pendientes de cotejo.",
+    "lines": [
+      [
+        "Dare you see a Soul at the White Heat?",
+        "¿Te atreves a ver un alma al rojo blanco?"
+      ],
+      [
+        "Then crouch within the door –",
+        "Entonces agáchate junto a la puerta –"
+      ],
+      [
+        "Red – is the Fire's common tint –",
+        "Rojo – es el color habitual del fuego –"
+      ],
+      [
+        "But when the vivid Ore",
+        "pero cuando el mineral encendido"
+      ],
+      [
+        "Has vanquished Flame's conditions,",
+        "ha vencido las condiciones de la llama,"
+      ],
+      [
+        "It quivers from the Forge",
+        "tiembla al salir de la fragua"
+      ],
+      [
+        "Without a color, but the light",
+        "sin color alguno, salvo la luz"
+      ],
+      [
+        "Of unanointed Blaze.",
+        "de un resplandor no consagrado."
+      ],
+      [
+        "Least Village has its Blacksmith",
+        "Hasta la aldea más pequeña tiene su herrero,"
+      ],
+      [
+        "Whose Anvil's even ring",
+        "cuyo yunque de golpes regulares"
+      ],
+      [
+        "Stands symbol for the finer Forge",
+        "simboliza la fragua más sutil"
+      ],
+      [
+        "That soundless tugs – within –",
+        "que trabaja en silencio – por dentro –"
+      ],
+      [
+        "Refining these impatient Ores",
+        "refinando esos minerales impacientes"
+      ],
+      [
+        "With Hammer, and with Blaze",
+        "a golpes de martillo y llamaradas,"
+      ],
+      [
+        "Until the Designated Light",
+        "hasta que la luz destinada"
+      ],
+      [
+        "Repudiate the Forge –",
+        "reniegue de la fragua –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "White Heat",
+        "body": "La expresión inglesa designa una temperatura extrema en la que el metal emite luz blanca; «al rojo blanco» conserva el choque cromático."
+      },
+      {
+        "line": 12,
+        "title": "Fragua interior",
+        "body": "La fragua material funciona como analogía del trabajo invisible de transformación del alma."
+      }
+    ],
+    "interpretation": "La forja ofrece una imagen del proceso espiritual sin prometer mansedumbre: la intensidad final rechaza incluso el instrumento que la produjo."
+  },
+  "J366": {
+    "id": "J366",
+    "approx": "1862",
+    "incipit": "Although I put away his life",
+    "stanzaBreaks": [
+      12,
+      21,
+      28
+    ],
+    "lines": [
+      [
+        "Although I put away his life –",
+        "Aunque aparté su vida –"
+      ],
+      [
+        "An Ornament too grand",
+        "un adorno demasiado grandioso"
+      ],
+      [
+        "For Forehead low as mine, to wear,",
+        "para una frente tan humilde como la mía,"
+      ],
+      [
+        "This might have been the Hand",
+        "esta podría haber sido la mano"
+      ],
+      [
+        "That sowed the flower, he preferred –",
+        "que sembrara la flor que él prefería –"
+      ],
+      [
+        "Or smoothed a homely pain,",
+        "o aliviara un dolor doméstico,"
+      ],
+      [
+        "Or pushed the pebble from his path –",
+        "o quitara una piedra de su camino –"
+      ],
+      [
+        "Or played his chosen tune –",
+        "o tocara su melodía elegida –"
+      ],
+      [
+        "On Lute the least – the latest –",
+        "en el laúd más pequeño, el más reciente –"
+      ],
+      [
+        "But just his Ear could know",
+        "pero solo su oído sabría"
+      ],
+      [
+        "That whatsoe'er delighted it,",
+        "que aquello que le diera placer,"
+      ],
+      [
+        "I never would let go –",
+        "yo nunca lo dejaría escapar –"
+      ],
+      [
+        "The foot to bear his errand –",
+        "el pie que llevara sus encargos –"
+      ],
+      [
+        "A little Boot I know –",
+        "una botita que conozco –"
+      ],
+      [
+        "Would leap abroad like Antelope –",
+        "saltaría afuera como un antílope –"
+      ],
+      [
+        "With just the grant to do –",
+        "con solo recibir permiso para cumplir –"
+      ],
+      [
+        "His weariest Commandment –",
+        "su mandato más fatigoso –"
+      ],
+      [
+        "A sweeter to obey,",
+        "más dulce de obedecer"
+      ],
+      [
+        "Than \"Hide and Seek\" –",
+        "que jugar a las escondidas –"
+      ],
+      [
+        "Or skip to Flutes –",
+        "o brincar al son de las flautas –"
+      ],
+      [
+        "Or All Day, chase the Bee –",
+        "o perseguir a la abeja todo el día –"
+      ],
+      [
+        "Your Servant, Sir, will weary –",
+        "Tu sirviente, señor, se cansará –"
+      ],
+      [
+        "The Surgeon, will not come –",
+        "el cirujano no vendrá –"
+      ],
+      [
+        "The World, will have its own – to do –",
+        "el mundo tendrá sus propios asuntos –"
+      ],
+      [
+        "The Dust, will vex your Fame –",
+        "el polvo importunará tu fama –"
+      ],
+      [
+        "The Cold will force your tightest door",
+        "el frío forzará tu puerta mejor cerrada"
+      ],
+      [
+        "Some February Day,",
+        "algún día de febrero,"
+      ],
+      [
+        "But say my apron bring the sticks",
+        "pero dejá que mi delantal lleve la leña"
+      ],
+      [
+        "To make your Cottage gay –",
+        "para alegrar tu cabaña –"
+      ],
+      [
+        "That I may take that promise",
+        "para que pueda llevar esa promesa"
+      ],
+      [
+        "To Paradise, with me –",
+        "conmigo al Paraíso –"
+      ],
+      [
+        "To teach the Angels, avarice,",
+        "para enseñarles a los ángeles la avaricia,"
+      ],
+      [
+        "You, Sir, taught first – to me.",
+        "que vos, señor, me enseñaste primero."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Apartar una vida",
+        "body": "La renuncia inicial no elimina el deseo de servir; la voz imagina una intimidad de gestos mínimos."
+      },
+      {
+        "line": 32,
+        "title": "Avarice",
+        "body": "La avaricia del cierre transforma la devoción en deseo de posesión exclusiva, incluso en el Paraíso."
+      }
+    ],
+    "interpretation": "El poema contrapone la distancia de una relación imposible y la proximidad imaginada de los cuidados cotidianos. La servidumbre amorosa termina en una paradoja: querer conservar hasta en el cielo una forma terrenal de apego.",
+    "franklin": "Pendiente de cotejo",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J366, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+    "titleES": "Although I put away his life"
+  },
+  "J367": {
+    "id": "J367",
+    "approx": "1862",
+    "incipit": "Over and over, like a Tune",
+    "stanzaBreaks": [
+      4
+    ],
+    "lines": [
+      [
+        "Over and over, like a Tune –",
+        "Una y otra vez, como una melodía –"
+      ],
+      [
+        "The Recollection plays –",
+        "suena el recuerdo –"
+      ],
+      [
+        "Drums off the Phantom Battlements",
+        "tambores desde las almenas fantasmales"
+      ],
+      [
+        "Comets of Paradise –",
+        "cometas del Paraíso –"
+      ],
+      [
+        "Snatches, from Baptized Generations –",
+        "fragmentos de generaciones bautizadas –"
+      ],
+      [
+        "Cadences too grand",
+        "cadencias demasiado grandiosas"
+      ],
+      [
+        "But for the Justified Processions",
+        "salvo para las procesiones de los justificados"
+      ],
+      [
+        "At the Lord's Right hand.",
+        "a la diestra del Señor."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Phantom Battlements",
+        "body": "La memoria adquiere una arquitectura militar espectral: se oye una ceremonia cuya fuente ya no está presente."
+      },
+      {
+        "line": 7,
+        "title": "Justified",
+        "body": "Término con resonancia teológica protestante: los justificados son quienes han sido declarados justos ante Dios."
+      }
+    ],
+    "interpretation": "La repetición musical del recuerdo se amplifica hasta una liturgia celeste. El poema no identifica qué se recuerda; deja que la escala de sus imágenes transforme una experiencia íntima en ceremonia.",
+    "franklin": "Pendiente de cotejo",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J367, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+    "titleES": "Over and over, like a Tune"
+  },
+  "J368": {
+    "id": "J368",
+    "approx": "1862",
+    "incipit": "How sick – to wait – in any place – but thine",
+    "stanzaBreaks": [
+      6
+    ],
+    "lines": [
+      [
+        "How sick – to wait – in any place – but thine –",
+        "Qué enfermo resulta esperar en cualquier lugar que no sea el tuyo –"
+      ],
+      [
+        "I knew last night – when Someone tried to twine –",
+        "lo supe anoche, cuando alguien intentó enlazarse –"
+      ],
+      [
+        "Thinking – perhaps – that I looked tired – or alone –",
+        "pensando, quizá, que parecía cansada o sola –"
+      ],
+      [
+        "Or breaking – almost – with unspoken pain –",
+        "o a punto de quebrarme por un dolor no dicho –"
+      ],
+      [
+        "And I turned – ducal –",
+        "y me volví – ducal –"
+      ],
+      [
+        "That right – was thine –",
+        "ese derecho era tuyo –"
+      ],
+      [
+        "One port – suffices – for a Brig – like mine –",
+        "un solo puerto basta para un bergantín como el mío –"
+      ],
+      [
+        "Ours be the tossing – wild though the sea –",
+        "que nuestra sea la sacudida, por bravo que esté el mar –"
+      ],
+      [
+        "Rather than a Mooring – unshared by thee",
+        "antes que un amarre que no compartas"
+      ],
+      [
+        "Ours be the Cargo – unladen – here –",
+        "que nuestra sea la carga, aquí sin desembarcar –"
+      ],
+      [
+        "Rather than the \"spicy isles –\"",
+        "antes que las «islas de especias –»"
+      ],
+      [
+        "And thou – not there –",
+        "si vos no estás allí –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Ducal",
+        "body": "El adjetivo condensa una dignidad aristocrática: la hablante rechaza una intimidad que considera reservada a otra persona."
+      },
+      {
+        "line": 7,
+        "title": "Brig",
+        "body": "Un bergantín es un velero de dos mástiles; el puerto y el amarre construyen una alegoría de fidelidad."
+      }
+    ],
+    "interpretation": "La voz prefiere la intemperie compartida a cualquier seguridad sin el ser amado. El contraste entre navegación arriesgada y paraísos comerciales deshabitados por el tú da al poema su fuerza de elección.",
+    "franklin": "Pendiente de cotejo",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J368, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+    "titleES": "How sick – to wait – in any place – but thine"
+  },
+  "J369": {
+    "id": "J369",
+    "approx": "1862",
+    "incipit": "She lay as if at play",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "lines": [
+      [
+        "She lay as if at play",
+        "Yacía como si jugara"
+      ],
+      [
+        "Her life had leaped away –",
+        "su vida había saltado lejos –"
+      ],
+      [
+        "Intending to return –",
+        "con intención de regresar –"
+      ],
+      [
+        "But not so soon –",
+        "pero no tan pronto –"
+      ],
+      [
+        "Her merry Arms, half dropt –",
+        "sus brazos alegres, medio caídos –"
+      ],
+      [
+        "As if for lull of sport –",
+        "como si en una pausa del juego –"
+      ],
+      [
+        "An instant had forgot –",
+        "hubieran olvidado por un instante –"
+      ],
+      [
+        "The Trick to start –",
+        "el truco de ponerse en marcha –"
+      ],
+      [
+        "Her dancing Eyes – ajar –",
+        "sus ojos danzarines, entreabiertos –"
+      ],
+      [
+        "As if their Owner were",
+        "como si su dueña siguiera"
+      ],
+      [
+        "Still sparkling through",
+        "centelleando todavía a través de ellos"
+      ],
+      [
+        "For fun – at you –",
+        "por diversión, hacia vos –"
+      ],
+      [
+        "Her Morning at the door –",
+        "su mañana estaba a la puerta –"
+      ],
+      [
+        "Devising, I am sure –",
+        "tramando, estoy segura –"
+      ],
+      [
+        "To force her sleep –",
+        "cómo romper su sueño –"
+      ],
+      [
+        "So light – so deep –",
+        "tan ligero, tan profundo –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Life had leaped away",
+        "body": "La vida aparece como un agente móvil que se ha alejado del cuerpo; la imagen evita nombrar directamente la muerte."
+      },
+      {
+        "line": 16,
+        "title": "Light / deep",
+        "body": "La contradicción final conserva a la vez la apariencia de un sueño leve y la irreversibilidad de la muerte."
+      }
+    ],
+    "interpretation": "La descripción del cuerpo muerto insiste en señales de vitalidad: juego, movimiento, mirada y mañana. El lector advierte la muerte precisamente por la imposibilidad de que esas promesas se cumplan.",
+    "franklin": "Pendiente de cotejo",
+    "source": "Thomas H. Johnson, The Complete Poems of Emily Dickinson, J369, pp. 173–175 (impresas); equivalencia Franklin y variantes manuscritas pendientes.",
+    "titleES": "She lay as if at play"
+  },
+  "J370": {
+    "id": "J370",
+    "franklin": "F413",
+    "approx": "c. 1862",
+    "incipit": "Heaven is so far of the Mind",
+    "titleES": "El Cielo está tan lejos como la Mente",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J370, pp. 176 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J370, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "Heaven is so far of the Mind",
+        "El Cielo está tan lejos como la Mente"
+      ],
+      [
+        "That were the Mind dissolved –",
+        "que, si la Mente se disolviera –"
+      ],
+      [
+        "The Site – of It – by Architect",
+        "su Sitio – por Arquitecto alguno –"
+      ],
+      [
+        "Could not again be proved –",
+        "no podría volver a demostrarse –"
+      ],
+      [
+        "'Tis vast – as our Capacity –",
+        "Es vasto – como nuestra Capacidad –"
+      ],
+      [
+        "As fair – as our Idea –",
+        "tan bello – como nuestra Idea –"
+      ],
+      [
+        "To Him of adequate desire",
+        "para quien tenga suficiente deseo"
+      ],
+      [
+        "No further 'tis, than Here –",
+        "no queda más lejos que Aquí –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "So far of",
+        "body": "La construcción presenta al cielo en función de la mente, antes que como un lugar independiente."
+      },
+      {
+        "line": 8,
+        "title": "Here",
+        "body": "El adverbio opone la presencia a la expectativa de un más allá."
+      }
+    ],
+    "interpretation": "El cielo depende de la medida de la conciencia, no de una distancia física. La arquitectura, incapaz de localizarlo sin una mente, cede su lugar al deseo. El último deíctico transforma una pregunta cosmológica en una experiencia presente.",
+    "preest": "Preest vincula el cierre con la escatología realizada del Evangelio de Juan."
+  },
+  "J371": {
+    "id": "J371",
+    "franklin": "F569",
+    "approx": "c. 1862",
+    "incipit": "A precious – mouldering pleasure – 'tis",
+    "titleES": "Un precioso – placer que se desmorona – es",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J371, pp. 176–177 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J371, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "A precious – mouldering pleasure – 'tis –",
+        "Un precioso – placer que se desmorona – es –"
+      ],
+      [
+        "To meet an Antique Book –",
+        "encontrar un Libro Antiguo –"
+      ],
+      [
+        "In just the Dress his Century wore –",
+        "con el mismo Atuendo que vestía su Siglo –"
+      ],
+      [
+        "A privilege – I think –",
+        "un privilegio – creo –"
+      ],
+      [
+        "His venerable Hand to take –",
+        "tomar su venerable Mano –"
+      ],
+      [
+        "And warming in our own –",
+        "y entibiándola en la nuestra –"
+      ],
+      [
+        "A passage back – or two – to make –",
+        "retroceder un pasaje – o dos –"
+      ],
+      [
+        "To Times when he – was young –",
+        "a Tiempos en que él – era joven –"
+      ],
+      [
+        "His quaint opinions – to inspect –",
+        "examinar sus curiosas opiniones –"
+      ],
+      [
+        "His thought to ascertain",
+        "averiguar lo que pensaba"
+      ],
+      [
+        "On Themes concern our mutual mind –",
+        "sobre Temas que atañen a nuestra mente común –"
+      ],
+      [
+        "The Literature of Man –",
+        "la Literatura del Hombre –"
+      ],
+      [
+        "What interested Scholars – most –",
+        "qué interesaba más – a los Eruditos –"
+      ],
+      [
+        "What Competitions ran –",
+        "qué disputas se libraban –"
+      ],
+      [
+        "When Plato – was a Certainty –",
+        "cuando Platón – era una Certeza –"
+      ],
+      [
+        "And Sophocles – a Man –",
+        "y Sófocles – un Hombre –"
+      ],
+      [
+        "When Sappho – was a living Girl –",
+        "cuando Safo – era una Muchacha viva –"
+      ],
+      [
+        "And Beatrice wore",
+        "y Beatriz vestía"
+      ],
+      [
+        "The Gown that Dante – deified –",
+        "el Vestido que Dante – divinizó –"
+      ],
+      [
+        "Facts Centuries before",
+        "Hechos de siglos atrás"
+      ],
+      [
+        "He traverses – familiar –",
+        "él recorre – familiarmente –"
+      ],
+      [
+        "As One should come to Town –",
+        "como quien llegara al Pueblo –"
+      ],
+      [
+        "And tell you all your Dreams – were true –",
+        "y te dijera que todos tus Sueños – eran ciertos –"
+      ],
+      [
+        "He lived – where Dreams were born –",
+        "él vivió – donde nacieron los Sueños –"
+      ],
+      [
+        "His presence is Enchantment –",
+        "Su presencia es Encantamiento –"
+      ],
+      [
+        "You beg him not to go –",
+        "le suplicás que no se vaya –"
+      ],
+      [
+        "Old Volumes shake their Vellum Heads",
+        "los Viejos Volúmenes sacuden sus Cabezas de Pergamino"
+      ],
+      [
+        "And tantalize – just so –",
+        "y nos tientan – así –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Mouldering",
+        "body": "El deterioro material del libro se traslada gramaticalmente al placer de leerlo."
+      },
+      {
+        "line": 15,
+        "title": "Certainty",
+        "body": "Puede aludir tanto a la presencia histórica de Platón como a su filosofía."
+      },
+      {
+        "line": 19,
+        "title": "Beatrice",
+        "body": "La mujer histórica se convierte en guía celestial en la Comedia de Dante."
+      },
+      {
+        "line": 27,
+        "title": "Vellum",
+        "body": "Pergamino fino empleado en manuscritos y encuadernaciones."
+      }
+    ],
+    "interpretation": "El encuentro con un libro antiguo adopta la forma de una visita personal. El volumen envejecido conserva no solamente ideas, sino también la presencia corporal de quienes pensaron y escribieron. El cierre transforma la ilusión de recuperar el pasado en una seducción: la literatura acerca lo que históricamente sigue siendo inaccesible.",
+    "preest": "Preest destaca la coexistencia de emociones compartidas y opiniones históricamente extrañas."
+  },
+  "J372": {
+    "id": "J372",
+    "franklin": "F574",
+    "approx": "c. 1862",
+    "incipit": "I know lives, I could miss",
+    "titleES": "Conozco vidas de las que podría prescindir",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J372, pp. 177 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J372, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "I know lives, I could miss",
+        "Conozco vidas de las que podría prescindir"
+      ],
+      [
+        "Without a Misery –",
+        "sin un pesar –"
+      ],
+      [
+        "Others – whose instant's wanting –",
+        "Otras – cuya falta de un instante –"
+      ],
+      [
+        "Would be Eternity –",
+        "sería una Eternidad –"
+      ],
+      [
+        "The last – a scanty Number –",
+        "Las últimas – un Número exiguo –"
+      ],
+      [
+        "'Twould scarcely fill a Two –",
+        "apenas llegaría a Dos –"
+      ],
+      [
+        "The first – a Gnat's Horizon",
+        "A las primeras – el Horizonte de un Mosquito"
+      ],
+      [
+        "Could easily outgrow –",
+        "podría fácilmente superarlas –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Eternity",
+        "body": "La duración objetiva del instante se sustituye por una medida subjetiva."
+      },
+      {
+        "line": 6,
+        "title": "A Two",
+        "body": "La sustantivación del numeral subraya la exigüidad del círculo íntimo."
+      }
+    ],
+    "interpretation": "La distribución del afecto se expresa mediante magnitudes inconmensurables. La duración de una ausencia depende de quién falta, mientras la multitud de seres prescindibles queda reducida a la perspectiva de un insecto. La hipérbole revela una economía afectiva radicalmente selectiva.",
+    "preest": "Preest propone, como hipótesis biográfica, identificar a las dos personas con Sue y Samuel Bowles."
+  },
+  "J373": {
+    "id": "J373",
+    "franklin": "F575",
+    "approx": "c. 1862",
+    "incipit": "I'm saying every day",
+    "titleES": "Me digo cada día",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J373, pp. 177–178 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J373, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "I'm saying every day",
+        "Me digo cada día"
+      ],
+      [
+        "\"If I should be a Queen, tomorrow\" –",
+        "«Si mañana llegara a ser Reina» –"
+      ],
+      [
+        "I'd do this way –",
+        "haría esto –"
+      ],
+      [
+        "And so I deck, a little,",
+        "Y así me adorno, un poco,"
+      ],
+      [
+        "If it be, I wake a Bourbon,",
+        "por si acaso despierto siendo una Borbón,"
+      ],
+      [
+        "None on me, bend supercilious –",
+        "y nadie se incline ante mí, altivo –"
+      ],
+      [
+        "With \"This was she –",
+        "diciendo: «Esta era la que –"
+      ],
+      [
+        "Begged in the Market place –",
+        "mendigaba en la Plaza del Mercado –"
+      ],
+      [
+        "Yesterday.\"",
+        "ayer»."
+      ],
+      [
+        "Court is a stately place –",
+        "La Corte es un lugar solemne –"
+      ],
+      [
+        "I've heard men say –",
+        "he oído decir –"
+      ],
+      [
+        "So I loop my apron, against the Majesty",
+        "así que recojo mi delantal, ante la Majestad"
+      ],
+      [
+        "With bright Pins of Buttercup –",
+        "con brillantes Alfileres de Botón de oro –"
+      ],
+      [
+        "That not too plain –",
+        "para que no demasiado sencilla –"
+      ],
+      [
+        "Rank – overtake me –",
+        "me encuentre el Rango –"
+      ],
+      [
+        "And perch my Tongue",
+        "Y poso mi Lengua"
+      ],
+      [
+        "On Twigs of singing – rather high –",
+        "en Ramitas de canto – bastante altas –"
+      ],
+      [
+        "But this, might be my brief Term",
+        "pues este podría ser mi breve Plazo"
+      ],
+      [
+        "To qualify –",
+        "para hacerme digna –"
+      ],
+      [
+        "Put from my simple speech all plain word –",
+        "quitar de mi habla sencilla toda palabra llana –"
+      ],
+      [
+        "Take other accents, as such I heard",
+        "adoptar otros acentos, según los oí"
+      ],
+      [
+        "Though but for the Clicket – Just,",
+        "aunque salvo el Grillo – tan solo,"
+      ],
+      [
+        "And but for the Bee –",
+        "y salvo la Abeja –"
+      ],
+      [
+        "Not in all the Meadow –",
+        "en todo el Prado –"
+      ],
+      [
+        "One accost me –",
+        "nadie me dirija la palabra –"
+      ],
+      [
+        "Better to be ready –",
+        "Mejor estar preparada –"
+      ],
+      [
+        "Than did next morn",
+        "que a la mañana siguiente"
+      ],
+      [
+        "Meet me in Aragon –",
+        "me encontraran en Aragón –"
+      ],
+      [
+        "My old Gown – on –",
+        "con mi viejo Vestido – puesto –"
+      ],
+      [
+        "And the surprised Air",
+        "y el Aire sorprendido"
+      ],
+      [
+        "Rustics – wear –",
+        "que llevan – los Campesinos –"
+      ],
+      [
+        "Summoned – unexpectedly –",
+        "convocados – inesperadamente –"
+      ],
+      [
+        "To Exeter –",
+        "a Exeter –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Bourbon",
+        "body": "Dinastía real europea; funciona aquí como emblema de distinción hereditaria."
+      },
+      {
+        "line": 13,
+        "title": "Buttercup",
+        "body": "El botón de oro sustituye los adornos cortesanos por una joya silvestre."
+      },
+      {
+        "line": 22,
+        "title": "Clicket",
+        "body": "Forma poco corriente, interpretada como referencia al grillo."
+      },
+      {
+        "line": 33,
+        "title": "Exeter",
+        "body": "Puede evocar un lugar o una leyenda de ascenso social mediante matrimonio."
+      }
+    ],
+    "interpretation": "La coronación imaginaria exige ensayar gestos, adornos y registros de habla. El poema traslada las jerarquías sociales al prado: una reina en potencia se prepara con flores y conversa con insectos. La distancia entre el ceremonial y la vida cotidiana permite leer la fantasía como aspiración amorosa, poética o social sin reducirla a una clave única.",
+    "preest": "Preest contrapone el reconocimiento literario (Ruth Miller) a una posible expectativa amorosa."
+  },
+  "J374": {
+    "id": "J374",
+    "franklin": "F577",
+    "approx": "c. 1862",
+    "incipit": "I went to Heaven",
+    "titleES": "Fui al Cielo",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J374, pp. 178–179 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J374, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "I went to Heaven –",
+        "Fui al Cielo –"
+      ],
+      [
+        "'Twas a small Town –",
+        "Era un pequeño Pueblo –"
+      ],
+      [
+        "Lit – with a Ruby –",
+        "Alumbrado – por un Rubí –"
+      ],
+      [
+        "Lathed – with Down –",
+        "revestido – de Plumón –"
+      ],
+      [
+        "Stiller – than the fields",
+        "Más quieto – que los campos"
+      ],
+      [
+        "At the full Dew –",
+        "en pleno Rocío –"
+      ],
+      [
+        "Beautiful – as Pictures –",
+        "Bello – como Cuadros –"
+      ],
+      [
+        "No Man drew.",
+        "que ningún Hombre pintó."
+      ],
+      [
+        "People – like the Moth –",
+        "Gente – como la Polilla –"
+      ],
+      [
+        "Of Mechlin – frames –",
+        "de hechuras – de encaje de Malinas –"
+      ],
+      [
+        "Duties – of Gossamer –",
+        "Deberes – de telaraña –"
+      ],
+      [
+        "And Eider – names –",
+        "y nombres – de Éider –"
+      ],
+      [
+        "Almost – contented –",
+        "Casi – contenta –"
+      ],
+      [
+        "I – could be –",
+        "podría – estar –"
+      ],
+      [
+        "'Mong such unique",
+        "entre tan singular"
+      ],
+      [
+        "Society –",
+        "Sociedad –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Lathed",
+        "body": "Evoca los listones de una construcción, aquí paradójicamente hechos de plumón."
+      },
+      {
+        "line": 10,
+        "title": "Mechlin",
+        "body": "Encaje fino de Malinas, ciudad belga."
+      },
+      {
+        "line": 12,
+        "title": "Eider",
+        "body": "Ave cuyo plumón es célebre por su ligereza."
+      }
+    ],
+    "interpretation": "El cielo visitado resulta una pequeña población de luz y texturas delicadas. Su belleza no garantiza satisfacción: el adverbio casi desestabiliza la promesa de beatitud absoluta. La imaginación celestial parece conservar las limitaciones de la sociabilidad terrenal.",
+    "preest": "Preest observa la modestia del paraíso frente al esplendor del Apocalipsis."
+  },
+  "J375": {
+    "id": "J375",
+    "franklin": "F578",
+    "approx": "c. 1862",
+    "incipit": "The Angle of a Landscape",
+    "titleES": "El Ángulo de un Paisaje",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J375, pp. 179 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J375, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "The Angle of a Landscape –",
+        "El Ángulo de un Paisaje –"
+      ],
+      [
+        "That every time I wake –",
+        "que cada vez que despierto –"
+      ],
+      [
+        "Between my Curtain and the Wall",
+        "entre mi Cortina y la Pared"
+      ],
+      [
+        "Upon an ample Crack –",
+        "por una amplia Hendidura –"
+      ],
+      [
+        "Like a Venetian – waiting –",
+        "como un Veneciano – que espera –"
+      ],
+      [
+        "Accosts my open eye –",
+        "aborda mi ojo abierto –"
+      ],
+      [
+        "Is just a Bough of Apples –",
+        "no es más que una Rama de Manzanas –"
+      ],
+      [
+        "Held slanting, in the Sky –",
+        "sostenida oblicua, en el Cielo –"
+      ],
+      [
+        "The Pattern of a Chimney –",
+        "El Dibujo de una Chimenea –"
+      ],
+      [
+        "The Forehead of a Hill –",
+        "la Frente de una Colina –"
+      ],
+      [
+        "Sometimes – a Vane's Forefinger –",
+        "a veces – el Índice de una Veleta –"
+      ],
+      [
+        "But that's – Occasional –",
+        "pero eso – es Ocasional –"
+      ],
+      [
+        "The Seasons – shift – my Picture –",
+        "Las Estaciones – cambian – mi Cuadro –"
+      ],
+      [
+        "Upon my Emerald Bough,",
+        "en mi Rama de Esmeralda,"
+      ],
+      [
+        "I wake – to find no – Emeralds –",
+        "despierto – y no encuentro – Esmeraldas –"
+      ],
+      [
+        "Then – Diamonds – which the Snow",
+        "luego – Diamantes – que la Nieve"
+      ],
+      [
+        "From Polar Caskets – fetched me –",
+        "de Cofres Polares – me trajo –"
+      ],
+      [
+        "The Chimney – and the Hill –",
+        "la Chimenea – y la Colina –"
+      ],
+      [
+        "And just the Steeple's finger –",
+        "y apenas el dedo del Campanario –"
+      ],
+      [
+        "These – never stir at all –",
+        "estos – jamás se mueven –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Venetian",
+        "body": "La imagen puede sugerir a quien espera la aparición de una vista luminosa."
+      },
+      {
+        "line": 16,
+        "title": "Diamonds",
+        "body": "La nieve sustituye el verdor estival por un brillo mineral."
+      }
+    ],
+    "interpretation": "Una abertura en la cortina convierte la vista cotidiana en un cuadro cambiante. La oposición entre las formas permanentes y los colores estacionales no es un inventario paisajístico, sino una teoría implícita de la mirada: el marco estrecho permite advertir la riqueza de lo habitual.",
+    "preest": "Preest compara esa mirada sobre motivos ordinarios con la sensibilidad de un pintor."
+  },
+  "J377": {
+    "id": "J377",
+    "franklin": "F632",
+    "approx": "c. 1862",
+    "incipit": "To lose one's faith – surpass",
+    "titleES": "Perder la fe – supera",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J377, pp. 180 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J377, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "To lose one's faith – surpass",
+        "Perder la fe – supera"
+      ],
+      [
+        "The loss of an Estate –",
+        "la pérdida de un Patrimonio –"
+      ],
+      [
+        "Because Estates can be",
+        "porque los Patrimonios pueden"
+      ],
+      [
+        "Replenished – faith cannot –",
+        "reponerse – la fe no –"
+      ],
+      [
+        "Inherited with Life –",
+        "Heredada con la Vida –"
+      ],
+      [
+        "Belief – but once – can be –",
+        "la Creencia – solo una vez – puede ser –"
+      ],
+      [
+        "Annihilate a single clause –",
+        "aniquilá una sola cláusula –"
+      ],
+      [
+        "And Being's – Beggary –",
+        "y el Ser – es Mendicidad –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Estate",
+        "body": "Patrimonio o propiedad; el símil económico prepara la indigencia final."
+      },
+      {
+        "line": 7,
+        "title": "Clause",
+        "body": "El término jurídico convierte la creencia en un conjunto de proposiciones."
+      }
+    ],
+    "interpretation": "El vocabulario patrimonial mide aquello que no tiene precio ni puede recuperarse. La fe funciona como capital originario de la existencia, y una sola cláusula perdida amenaza todo el edificio. La violencia de esa conclusión muestra la fragilidad de un sistema de convicciones concebido como indivisible.",
+    "preest": "Preest cuestiona que perder una convicción implique necesariamente perderlas todas."
+  },
+  "J378": {
+    "id": "J378",
+    "franklin": "F633",
+    "approx": "c. 1862",
+    "incipit": "I saw no Way – The Heavens were stitched",
+    "titleES": "No veía Camino – los Cielos estaban cosidos",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J378, pp. 180 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J378, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "I saw no Way – The Heavens were stitched –",
+        "No veía Camino – los Cielos estaban cosidos –"
+      ],
+      [
+        "I felt the Columns close –",
+        "sentí cerrarse las Columnas –"
+      ],
+      [
+        "The Earth reversed her Hemispheres –",
+        "la Tierra invirtió sus Hemisferios –"
+      ],
+      [
+        "I touched the Universe –",
+        "toqué el Universo –"
+      ],
+      [
+        "And back it slid – and I alone –",
+        "y retrocedió deslizándose – y yo sola –"
+      ],
+      [
+        "A Speck upon a Ball –",
+        "una Mota sobre una Esfera –"
+      ],
+      [
+        "Went out upon Circumference –",
+        "salí a la Circunferencia –"
+      ],
+      [
+        "Beyond the Dip of Bell –",
+        "más allá del Vaivén de Campana –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Stitched",
+        "body": "El cielo deja de ser apertura y se vuelve una superficie cerrada."
+      },
+      {
+        "line": 8,
+        "title": "Dip of Bell",
+        "body": "La campana puede evocar una boya sonora y un límite de navegación."
+      }
+    ],
+    "interpretation": "El poema escenifica una crisis de orientación mediante cambios de escala: el cielo se cierra como tela cosida, la Tierra se invierte y la voz queda reducida a un punto en el borde. Tocar el universo no equivale a poseerlo; el final mantiene abierta una experiencia de extrañamiento sin resolución doctrinal.",
+    "preest": "Preest, siguiendo a Eberwein, interpreta la circunferencia como umbral de la especulación espiritual."
+  },
+  "J379": {
+    "id": "J379",
+    "franklin": "F664",
+    "approx": "c. 1862",
+    "incipit": "Rehearsal to Ourselves",
+    "titleES": "Repetirnos a Nosotros mismos",
+    "stanzaBreaks": [
+      4
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J379, pp. 180–181 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J379, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "Rehearsal to Ourselves",
+        "Repetirnos a Nosotros mismos"
+      ],
+      [
+        "Of a Withdrawn Delight –",
+        "una Dicha Retirada –"
+      ],
+      [
+        "Affords a Bliss like Murder –",
+        "nos da una Beatitud como el Asesinato –"
+      ],
+      [
+        "Omnipotent – Acute –",
+        "omnipotente – Aguda –"
+      ],
+      [
+        "We will not drop the Dirk –",
+        "No soltaremos el Puñal –"
+      ],
+      [
+        "Because We love the Wound",
+        "porque amamos la Herida"
+      ],
+      [
+        "The Dirk Commemorate – Itself",
+        "que el propio Puñal – conmemora –"
+      ],
+      [
+        "Remind Us that we died.",
+        "nos recuerda que morimos."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Rehearsal",
+        "body": "Puede entenderse como repetición, recitación o ensayo mental."
+      },
+      {
+        "line": 7,
+        "title": "Commemorate",
+        "body": "El verbo atribuye al objeto la función de monumento de la herida."
+      }
+    ],
+    "interpretation": "La repetición mental de una dicha retirada produce un placer tan intenso como destructivo. El puñal es simultáneamente causa de herida y objeto que conserva su recuerdo. El plural convierte la paradoja en una observación general sobre la persistencia del dolor.",
+    "preest": "Preest reconoce en el puñal el recuerdo de una posible traición afectiva."
+  },
+  "J380": {
+    "id": "J380",
+    "franklin": "F642",
+    "approx": "c. 1862",
+    "incipit": "There is a flower that Bees prefer",
+    "titleES": "Hay una flor que prefieren las Abejas",
+    "stanzaBreaks": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J380, pp. 181–182 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J380, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "There is a flower that Bees prefer –",
+        "Hay una flor que prefieren las Abejas –"
+      ],
+      [
+        "And Butterflies – desire –",
+        "y desean – las Mariposas –"
+      ],
+      [
+        "To gain the Purple Democrat",
+        "al Demócrata Púrpura"
+      ],
+      [
+        "The Humming Bird – aspire –",
+        "aspira el Colibrí –"
+      ],
+      [
+        "And Whatsoever Insect pass –",
+        "Y cualquier Insecto que pase –"
+      ],
+      [
+        "A Honey bear away",
+        "se lleva una Miel"
+      ],
+      [
+        "Proportioned to his several dearth",
+        "proporcionada a su propia carencia"
+      ],
+      [
+        "And her – capacity –",
+        "y a la capacidad – de ella –"
+      ],
+      [
+        "Her face be rounder than the Moon",
+        "Su rostro es más redondo que la Luna"
+      ],
+      [
+        "And ruddier than the Gown",
+        "y más rojizo que el Vestido"
+      ],
+      [
+        "Of Orchis in the Pasture –",
+        "que la Orquídea en el Prado –"
+      ],
+      [
+        "Or Rhododendron – worn –",
+        "o el Rododendro – llevan –"
+      ],
+      [
+        "She doth not wait for June –",
+        "Ella no espera a Junio –"
+      ],
+      [
+        "Before the World be Green –",
+        "antes de que el Mundo esté Verde –"
+      ],
+      [
+        "Her sturdy little Countenance",
+        "su pequeño Rostro robusto"
+      ],
+      [
+        "Against the Wind – be seen –",
+        "contra el Viento – se deja ver –"
+      ],
+      [
+        "Contending with the Grass –",
+        "Disputando con la Hierba –"
+      ],
+      [
+        "Near Kinsman to Herself –",
+        "pariente cercana suya –"
+      ],
+      [
+        "For Privilege of Sod and Sun –",
+        "el Privilegio de Tierra y Sol –"
+      ],
+      [
+        "Sweet Litigants for Life –",
+        "dulces Litigantes por la Vida –"
+      ],
+      [
+        "And when the Hills be full –",
+        "Y cuando las Colinas están colmadas –"
+      ],
+      [
+        "And newer fashions blow –",
+        "y florecen modas más recientes –"
+      ],
+      [
+        "Doth not retract a single spice",
+        "no retira una sola pizca de aroma"
+      ],
+      [
+        "For pang of jealousy –",
+        "por punzada de celos –"
+      ],
+      [
+        "Her Public – be the Noon –",
+        "Su Público – es el Mediodía –"
+      ],
+      [
+        "Her Providence – the Sun –",
+        "su Providencia – el Sol –"
+      ],
+      [
+        "Her Progress – by the Bee – proclaimed –",
+        "su Progreso – por la Abeja – proclamado –"
+      ],
+      [
+        "In sovereign – Swerveless Tune –",
+        "en Melodía soberana – sin desvíos –"
+      ],
+      [
+        "The Bravest – of the Host –",
+        "La más Valiente – de la Hueste –"
+      ],
+      [
+        "Surrendering – the last –",
+        "la última – en rendirse –"
+      ],
+      [
+        "Nor even of Defeat – aware –",
+        "ni siquiera consciente – de la Derrota –"
+      ],
+      [
+        "When cancelled by the Frost –",
+        "cuando la anula la Helada –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 3,
+        "title": "Purple Democrat",
+        "body": "El apelativo combina color y una virtud política de accesibilidad; apunta al trébol."
+      },
+      {
+        "line": 7,
+        "title": "Several",
+        "body": "Aquí significa particular o individual, no necesariamente varios."
+      },
+      {
+        "line": 20,
+        "title": "Litigants",
+        "body": "El lenguaje judicial representa la competencia de las plantas por luz y suelo."
+      },
+      {
+        "line": 28,
+        "title": "Swerveless",
+        "body": "Sin desviación: la continuidad del zumbido adquiere dignidad soberana."
+      }
+    ],
+    "interpretation": "La flor sin nombre recibe atributos políticos, jurídicos y militares que elevan su modesta existencia. Su generosidad y tenacidad construyen una forma alternativa de soberanía, sostenida por el sol y los insectos en vez de instituciones humanas. El final niega incluso la conciencia de haber sido vencida por el invierno.",
+    "preest": "Preest identifica el trébol y, con Judith Farr, destaca su caracterización humana."
+  },
+  "J381": {
+    "id": "J381",
+    "franklin": "F643",
+    "approx": "c. 1862",
+    "incipit": "A Secret told",
+    "titleES": "Un Secreto contado",
+    "stanzaBreaks": [],
+    "source": "Thomas H. Johnson, The Complete Poems, J381, pp. 182 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J381, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "A Secret told –",
+        "Un Secreto contado –"
+      ],
+      [
+        "Ceases to be a Secret – then –",
+        "deja entonces – de ser Secreto –"
+      ],
+      [
+        "A Secret – kept –",
+        "Un Secreto – guardado –"
+      ],
+      [
+        "That – can appal but One –",
+        "ese – solo puede espantar a Uno –"
+      ],
+      [
+        "Better of it – continual be afraid –",
+        "mejor temerle – continuamente –"
+      ],
+      [
+        "Than it –",
+        "que a él –"
+      ],
+      [
+        "And Whom you told It to – beside –",
+        "y además – a quien se lo contaste –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 2,
+        "title": "Then",
+        "body": "El adverbio marca la desaparición inmediata de la condición de secreto."
+      },
+      {
+        "line": 7,
+        "title": "Beside",
+        "body": "En este contexto equivale a además."
+      }
+    ],
+    "interpretation": "El secreto modifica su naturaleza apenas circula. En vez de aliviar el peso de quien lo guarda, compartirlo introduce una segunda fuente de inquietud: el otro. La forma sentenciosa no deja de ser irónica, porque el propio poema habla de aquello que aconseja no revelar.",
+    "preest": "Preest contrasta este consejo con relatos en que la confidencia libera."
+  },
+  "J382": {
+    "id": "J382",
+    "franklin": "F644",
+    "approx": "c. 1862",
+    "incipit": "For Death – or rather",
+    "titleES": "Por la Muerte – o mejor dicho",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J382, pp. 182 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J382, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "For Death – or rather",
+        "Por la Muerte – o mejor dicho"
+      ],
+      [
+        "For the Things 'twould buy –",
+        "por las Cosas que compraría –"
+      ],
+      [
+        "This – put away",
+        "esta – apartó"
+      ],
+      [
+        "Life's Opportunity –",
+        "la Oportunidad de la Vida –"
+      ],
+      [
+        "The Things that Death will buy",
+        "Las Cosas que comprará la Muerte"
+      ],
+      [
+        "Are Room –",
+        "son Espacio –"
+      ],
+      [
+        "Escape from Circumstances –",
+        "evasión de las Circunstancias –"
+      ],
+      [
+        "And a Name –",
+        "y un Nombre –"
+      ],
+      [
+        "With Gifts of Life",
+        "Con los Dones de la Vida"
+      ],
+      [
+        "How Death's Gifts may compare –",
+        "cómo se comparan los Dones de la Muerte –"
+      ],
+      [
+        "We know not –",
+        "no lo sabemos –"
+      ],
+      [
+        "For the Rates – lie Here –",
+        "pues las Tasas – están Aquí –"
+      ]
+    ],
+    "notes": [
+      {
+        "line": 5,
+        "title": "Buy",
+        "body": "El verbo organiza una metáfora mercantil que convierte la vida en coste."
+      },
+      {
+        "line": 12,
+        "title": "Rates",
+        "body": "Tarifas o cotizaciones: el conocimiento de los valores queda limitado al aquí."
+      }
+    ],
+    "interpretation": "La muerte entra en el poema como una transacción cuyos valores no pueden calcularse. Puede adquirir espacio, liberación y una identidad póstuma, pero solo conocemos los precios del lado de la vida. La conclusión suspende todo balance definitivo entre existencia y no existencia.",
+    "preest": "Preest distingue los bienes negativos de la muerte de los valores conocidos en vida."
+  },
+  "J383": {
+    "id": "J383",
+    "franklin": "F645",
+    "approx": "c. 1862",
+    "incipit": "Exhilaration – is within",
+    "titleES": "El Júbilo – está adentro",
+    "stanzaBreaks": [
+      4,
+      8
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J383, pp. 182–183 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J383, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "Exhilaration – is within –",
+        "El Júbilo – está adentro –"
+      ],
+      [
+        "There can no Outer Wine",
+        "Ningún Vino Exterior puede"
+      ],
+      [
+        "So royally intoxicate",
+        "embriagar tan regiamente"
+      ],
+      [
+        "As that diviner Brand",
+        "como esa Marca más divina"
+      ],
+      [
+        "The Soul achieves – Herself –",
+        "que el Alma obtiene – por Sí misma –"
+      ],
+      [
+        "To drink – or set away",
+        "para beberla – o reservarla"
+      ],
+      [
+        "For Visitor – Or Sacrament –",
+        "para Visita – o Sacramento –"
+      ],
+      [
+        "'Tis not of Holiday",
+        "No es cosa de Fiesta"
+      ],
+      [
+        "To stimulate a Man",
+        "estimular a un Hombre"
+      ],
+      [
+        "Who hath the Ample Rhine",
+        "que posee el vasto Rin"
+      ],
+      [
+        "Within his Closet – Best you can",
+        "dentro de su Armario – lo mejor que podés"
+      ],
+      [
+        "Exhale in offering.",
+        "exhalar como ofrenda."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 4,
+        "title": "Brand",
+        "body": "Marca o clase de vino, aquí metafórica."
+      },
+      {
+        "line": 10,
+        "title": "Rhine",
+        "body": "El Rin remite a las regiones vinícolas de sus riberas."
+      },
+      {
+        "line": 12,
+        "title": "Exhale",
+        "body": "La ofrenda toma la forma intangible del aliento."
+      }
+    ],
+    "interpretation": "La embriaguez interior se presenta como un vino que el alma produce y administra. La imagen desplaza las jerarquías del lujo hacia una riqueza invisible: incluso quien posee un Rin de vino podría recibir algo que no se compra. La exhalación final hace de la interioridad una forma de don.",
+    "preest": "Preest distingue la bebida íntima, la hospitalidad y la ofrenda sacramental."
+  },
+  "J384": {
+    "id": "J384",
+    "franklin": "F649",
+    "approx": "c. 1862",
+    "incipit": "No Rack can torture me",
+    "titleES": "Ningún Potro puede torturarme",
+    "stanzaBreaks": [
+      4,
+      8,
+      12
+    ],
+    "source": "Thomas H. Johnson, The Complete Poems, J384, pp. 183 (edición aportada por el usuario); David Preest, Emily Dickinson Poems Commentary, J384, https://doczz.net/doc/326026/emily-dickinson-poems-commentary (correspondencia Franklin según Preest; manuscrito pendiente).",
+    "lines": [
+      [
+        "No Rack can torture me –",
+        "Ningún Potro puede torturarme –"
+      ],
+      [
+        "My Soul – at Liberty –",
+        "Mi Alma – en Libertad –"
+      ],
+      [
+        "Behind this mortal Bone",
+        "detrás de este Hueso mortal"
+      ],
+      [
+        "There knits a bolder One –",
+        "se suelda otro más audaz –"
+      ],
+      [
+        "You cannot prick with saw –",
+        "No podés punzarlo con sierra –"
+      ],
+      [
+        "Nor pierce with Scimitar –",
+        "ni atravesarlo con Cimitarra –"
+      ],
+      [
+        "Two Bodies – therefore be –",
+        "Dos Cuerpos – por tanto hay –"
+      ],
+      [
+        "Bind One – The Other ay –",
+        "atá Uno – el Otro, siempre –"
+      ],
+      [
+        "The Eagle of his Nest",
+        "Al Águila de su Nido"
+      ],
+      [
+        "No easier divest –",
+        "no le es más fácil desprenderse –"
+      ],
+      [
+        "And gain the Sky",
+        "y alcanzar el Cielo"
+      ],
+      [
+        "Than mayest Thou –",
+        "de lo que te es a Vos –"
+      ],
+      [
+        "Except Thyself may be",
+        "salvo que vos mismo seas"
+      ],
+      [
+        "Thine Enemy –",
+        "tu Enemigo –"
+      ],
+      [
+        "Captivity is Consciousness –",
+        "El Cautiverio es Conciencia –"
+      ],
+      [
+        "So's Liberty.",
+        "también la Libertad."
+      ]
+    ],
+    "notes": [
+      {
+        "line": 1,
+        "title": "Rack",
+        "body": "Potro de tormento; contrapone coacción corporal y libertad interior."
+      },
+      {
+        "line": 4,
+        "title": "Knits",
+        "body": "El verbo sugiere consolidación o soldadura ósea."
+      },
+      {
+        "line": 15,
+        "title": "Consciousness",
+        "body": "La conciencia puede ser tanto la sede de la libertad como la del cautiverio."
+      }
+    ],
+    "interpretation": "La voz imagina dos corporalidades: la sometida a coacción y la que se sustrae a ella. El águila concreta la libertad como movimiento que ninguna ligadura externa puede impedir. Sin embargo, el giro final impide confundir esa libertad con invulnerabilidad absoluta: la conciencia también puede hacerse prisión.",
+    "preest": "Preest relaciona la libertad interior con el poema carcelario de Richard Lovelace."
+  }
 });
