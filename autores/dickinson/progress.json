@@ -9,8 +9,8 @@
   "corpus": {
     "numbering": "Thomas H. Johnson",
     "targetPoems": 1775,
-    "publishedPoems": 381,
-    "publishedVerses": 5130,
+    "publishedPoems": 395,
+    "publishedVerses": 5346,
     "alreadyPublishedJohnsonIds": [
       "J1",
       "J2",
@@ -377,7 +377,25 @@
       "J363",
       "J364",
       "J365",
+      "J366",
+      "J367",
+      "J368",
+      "J369",
+      "J370",
+      "J371",
+      "J372",
+      "J373",
+      "J374",
+      "J375",
       "J376",
+      "J377",
+      "J378",
+      "J379",
+      "J380",
+      "J381",
+      "J382",
+      "J383",
+      "J384",
       "J441",
       "J444",
       "J449",
@@ -388,24 +406,20 @@
       "J712",
       "J986",
       "J1129",
-      "J1212",
-      "J366",
-      "J367",
-      "J368",
-      "J369"
+      "J1212"
     ],
-    "completedSequentialThrough": "J369",
-    "nextJohnsonId": "J370",
+    "completedSequentialThrough": "J384",
+    "nextJohnsonId": "J385",
     "targetNewVersesPerRun": 200,
     "audit": {
-      "date": "2026-11-24",
-      "result": "J366–J369: cuatro poemas completos, 69 versos bilingües, ocho notas; Johnson pp. 173–175. Franklin y variantes pendientes.",
-      "newVersesThisRun": 69
+      "date": "2026-11-26",
+      "result": "J370–J384: 14 new complete poems, excluding pre-existing J376; 216 new bilingual verses; Johnson pp. 176–183, Franklin IDs and brief Preest summaries from his commentary. Repaired malformed J366–J369 object keys; JSON corpus parsed and all 395 IDs and 5346 verse pairs counted. Stanza divisions and manuscript variants pending full verification.",
+      "newVersesThisRun": 216
     },
-    "lastConsecutiveJohnsonId": "J369",
-    "lastPublishedBlock": "J366–J369"
+    "lastConsecutiveJohnsonId": "J384",
+    "lastPublishedBlock": "J370–J384 (J376 previously published)"
   },
-  "lastCompletedMilestone": "J369",
-  "nextAction": "Continuar desde J370; objetivo 200 versos nuevos por pasada.",
-  "updatedOn": "2026-11-24"
+  "lastCompletedMilestone": "J384",
+  "nextAction": "Continuar desde J385; objetivo 200 versos nuevos por pasada.",
+  "updatedOn": "2026-11-26"
 }
