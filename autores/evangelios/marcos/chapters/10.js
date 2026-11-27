@@ -333,6 +333,36 @@
    "notes": [
     "mc1031reversal"
    ]
+  },
+  {
+   "chapter": 10,
+   "n": 32,
+   "gr": "Ἦσαν δὲ ἐν τῇ ὁδῷ ἀναβαίνοντες εἰς Ἱεροσόλυμα, καὶ ἦν προάγων αὐτοὺς ὁ Ἰησοῦς, καὶ ἐθαμβοῦντο, οἱ δὲ ἀκολουθοῦντες ἐφοβοῦντο. καὶ παραλαβὼν πάλιν τοὺς δώδεκα ἤρξατο αὐτοῖς λέγειν τὰ μέλλοντα αὐτῷ συμβαίνειν",
+   "es": "Iban por el camino, subiendo a Jerusalén. Jesús marchaba delante de ellos, y estaban desconcertados; los que lo seguían tenían miedo. Tomando de nuevo consigo a los Doce, comenzó a contarles lo que iba a sucederle:",
+   "la": "",
+   "notes": [
+    "mc1032philology"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 33,
+   "gr": "ὅτι Ἰδοὺ ἀναβαίνομεν εἰς Ἱεροσόλυμα, καὶ ὁ υἱὸς τοῦ ἀνθρώπου παραδοθήσεται τοῖς ἀρχιερεῦσιν καὶ τοῖς γραμματεῦσιν, καὶ κατακρινοῦσιν αὐτὸν θανάτῳ καὶ παραδώσουσιν αὐτὸν τοῖς ἔθνεσιν",
+   "es": "«Miren, subimos a Jerusalén, y el Hijo del hombre será entregado a los sumos sacerdotes y a los escribas. Lo condenarán a muerte y lo entregarán a los gentiles.",
+   "la": "",
+   "notes": [
+    "mc1033philology"
+   ]
+  },
+  {
+   "chapter": 10,
+   "n": 34,
+   "gr": "καὶ ἐμπαίξουσιν αὐτῷ καὶ ἐμπτύσουσιν αὐτῷ καὶ μαστιγώσουσιν αὐτὸν καὶ ἀποκτενοῦσιν, καὶ μετὰ τρεῖς ἡμέρας ἀναστήσεται.",
+   "es": "Se burlarán de él, le escupirán, lo azotarán y lo matarán; y después de tres días resucitará».",
+   "la": "",
+   "notes": [
+    "mc1034philology"
+   ]
   }
  ],
  "notes": {
@@ -547,6 +577,18 @@
   "mc1031reversal": [
    "La inversión del orden",
    "πρῶτοι ἔσχατοι / οἱ ἔσχατοι πρῶτοι configura una inversión retórica mediante la repetición de los mismos adjetivos en orden contrario. πολλοί introduce la primera proposición; la segunda elide ἔσονται. El contraste relativiza la primacía presente en el contexto del seguimiento. Cotejo: https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt."
+  ],
+  "mc1032philology": [
+   "El camino y el temor",
+   "Las perífrasis ἦσαν ... ἀναβαίνοντες y ἦν ... προάγων presentan la marcha en desarrollo. El contraste entre Jesús que se adelanta y quienes sienten desconcierto o miedo prepara el tercer anuncio de la pasión (cf. 8,31; 9,31). Cotejo: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."
+  ],
+  "mc1033philology": [
+   "La doble entrega",
+   "ὅτι introduce el discurso directo. παραδοθήσεται y παραδώσουσιν repiten el mismo verbo con cambio de voz. El dativo θανάτῳ expresa la pena de la condena. Cotejo: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."
+  ],
+  "mc1034philology": [
+   "La secuencia de futuros",
+   "La coordinación reiterada con καί enumera las acciones previstas. μετὰ τρεῖς ἡμέρας significa literalmente «después de tres días», frente a «al tercer día» de Mt 20,19. ἀναστήσεται es futuro medio de ἀνίστημι con sentido intransitivo. Cotejo: https://github.com/morphgnt/sblgnt/blob/master/62-Mk-morphgnt.txt."
   ]
  },
  "morphology": {
@@ -4082,6 +4124,523 @@
     "A-",
     "----NPM-",
     "primeros"
+   ]
+  ],
+  "32": [
+   [
+    "Ἦσαν",
+    "εἰμί",
+    "V-",
+    "3IAI-P--",
+    "estaban"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἐν",
+    "ἐν",
+    "P-",
+    "--------",
+    "en"
+   ],
+   [
+    "τῇ",
+    "ὁ",
+    "RA",
+    "----DSF-",
+    "el"
+   ],
+   [
+    "ὁδῷ",
+    "ὁδός",
+    "N-",
+    "----DSF-",
+    "camino"
+   ],
+   [
+    "ἀναβαίνοντες",
+    "ἀναβαίνω",
+    "V-",
+    "-PAPNPM-",
+    "subiendo"
+   ],
+   [
+    "εἰς",
+    "εἰς",
+    "P-",
+    "--------",
+    "a"
+   ],
+   [
+    "Ἱεροσόλυμα",
+    "Ἱεροσόλυμα",
+    "N-",
+    "----APN-",
+    "Jerusalén"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἦν",
+    "εἰμί",
+    "V-",
+    "3IAI-S--",
+    "iba"
+   ],
+   [
+    "προάγων",
+    "προάγω",
+    "V-",
+    "-PAPNSM-",
+    "delante de"
+   ],
+   [
+    "αὐτοὺς",
+    "αὐτός",
+    "RP",
+    "----APM-",
+    "ellos"
+   ],
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "el"
+   ],
+   [
+    "Ἰησοῦς",
+    "Ἰησοῦς",
+    "N-",
+    "----NSM-",
+    "Jesús"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἐθαμβοῦντο",
+    "θαμβέομαι",
+    "V-",
+    "3IPI-P--",
+    "estaban desconcertados"
+   ],
+   [
+    "οἱ",
+    "ὁ",
+    "RA",
+    "----NPM-",
+    "los que"
+   ],
+   [
+    "δὲ",
+    "δέ",
+    "C-",
+    "--------",
+    "en cambio"
+   ],
+   [
+    "ἀκολουθοῦντες",
+    "ἀκολουθέω",
+    "V-",
+    "-PAPNPM-",
+    "seguían"
+   ],
+   [
+    "ἐφοβοῦντο",
+    "φοβέομαι",
+    "V-",
+    "3IMI-P--",
+    "tenían miedo"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "παραλαβὼν",
+    "παραλαμβάνω",
+    "V-",
+    "-AAPNSM-",
+    "tomando consigo"
+   ],
+   [
+    "πάλιν",
+    "πάλιν",
+    "D-",
+    "--------",
+    "de nuevo"
+   ],
+   [
+    "τοὺς",
+    "ὁ",
+    "RA",
+    "----APM-",
+    "a los"
+   ],
+   [
+    "δώδεκα",
+    "δώδεκα",
+    "A-",
+    "----APM-",
+    "doce"
+   ],
+   [
+    "ἤρξατο",
+    "ἄρχω",
+    "V-",
+    "3AMI-S--",
+    "comenzó"
+   ],
+   [
+    "αὐτοῖς",
+    "αὐτός",
+    "RP",
+    "----DPM-",
+    "a ellos"
+   ],
+   [
+    "λέγειν",
+    "λέγω",
+    "V-",
+    "-PAN----",
+    "a decir"
+   ],
+   [
+    "τὰ",
+    "ὁ",
+    "RA",
+    "----APN-",
+    "las cosas"
+   ],
+   [
+    "μέλλοντα",
+    "μέλλω",
+    "V-",
+    "-PAPAPN-",
+    "que iban"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "a él"
+   ],
+   [
+    "συμβαίνειν",
+    "συμβαίνω",
+    "V-",
+    "-PAN----",
+    "a suceder"
+   ]
+  ],
+  "33": [
+   [
+    "ὅτι",
+    "ὅτι",
+    "D-",
+    "--------",
+    "que"
+   ],
+   [
+    "Ἰδοὺ",
+    "ἰδού",
+    "X-",
+    "--------",
+    "miren"
+   ],
+   [
+    "ἀναβαίνομεν",
+    "ἀναβαίνω",
+    "V-",
+    "1PAI-P--",
+    "subimos"
+   ],
+   [
+    "εἰς",
+    "εἰς",
+    "P-",
+    "--------",
+    "a"
+   ],
+   [
+    "Ἱεροσόλυμα",
+    "Ἱεροσόλυμα",
+    "N-",
+    "----APN-",
+    "Jerusalén"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ὁ",
+    "ὁ",
+    "RA",
+    "----NSM-",
+    "el"
+   ],
+   [
+    "υἱὸς",
+    "υἱός",
+    "N-",
+    "----NSM-",
+    "Hijo"
+   ],
+   [
+    "τοῦ",
+    "ὁ",
+    "RA",
+    "----GSM-",
+    "del"
+   ],
+   [
+    "ἀνθρώπου",
+    "ἄνθρωπος",
+    "N-",
+    "----GSM-",
+    "hombre"
+   ],
+   [
+    "παραδοθήσεται",
+    "παραδίδωμι",
+    "V-",
+    "3FPI-S--",
+    "será entregado"
+   ],
+   [
+    "τοῖς",
+    "ὁ",
+    "RA",
+    "----DPM-",
+    "a los"
+   ],
+   [
+    "ἀρχιερεῦσιν",
+    "ἀρχιερεύς",
+    "N-",
+    "----DPM-",
+    "sumos sacerdotes"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "τοῖς",
+    "ὁ",
+    "RA",
+    "----DPM-",
+    "a los"
+   ],
+   [
+    "γραμματεῦσιν",
+    "γραμματεύς",
+    "N-",
+    "----DPM-",
+    "escribas"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "κατακρινοῦσιν",
+    "κατακρίνω",
+    "V-",
+    "3FAI-P--",
+    "condenarán"
+   ],
+   [
+    "αὐτὸν",
+    "αὐτός",
+    "RP",
+    "----ASM-",
+    "a él"
+   ],
+   [
+    "θανάτῳ",
+    "θάνατος",
+    "N-",
+    "----DSM-",
+    "a muerte"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "παραδώσουσιν",
+    "παραδίδωμι",
+    "V-",
+    "3FAI-P--",
+    "entregarán"
+   ],
+   [
+    "αὐτὸν",
+    "αὐτός",
+    "RP",
+    "----ASM-",
+    "a él"
+   ],
+   [
+    "τοῖς",
+    "ὁ",
+    "RA",
+    "----DPN-",
+    "a los"
+   ],
+   [
+    "ἔθνεσιν",
+    "ἔθνος",
+    "N-",
+    "----DPN-",
+    "gentiles"
+   ]
+  ],
+  "34": [
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἐμπαίξουσιν",
+    "ἐμπαίζω",
+    "V-",
+    "3FAI-P--",
+    "se burlarán"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "de él"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἐμπτύσουσιν",
+    "ἐμπτύω",
+    "V-",
+    "3FAI-P--",
+    "escupirán"
+   ],
+   [
+    "αὐτῷ",
+    "αὐτός",
+    "RP",
+    "----DSM-",
+    "sobre él"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "μαστιγώσουσιν",
+    "μαστιγόω",
+    "V-",
+    "3FAI-P--",
+    "azotarán"
+   ],
+   [
+    "αὐτὸν",
+    "αὐτός",
+    "RP",
+    "----ASM-",
+    "a él"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "ἀποκτενοῦσιν",
+    "ἀποκτείνω",
+    "V-",
+    "3FAI-P--",
+    "matarán"
+   ],
+   [
+    "καὶ",
+    "καί",
+    "C-",
+    "--------",
+    "y"
+   ],
+   [
+    "μετὰ",
+    "μετά",
+    "P-",
+    "--------",
+    "después de"
+   ],
+   [
+    "τρεῖς",
+    "τρεῖς",
+    "A-",
+    "----APF-",
+    "tres"
+   ],
+   [
+    "ἡμέρας",
+    "ἡμέρα",
+    "N-",
+    "----APF-",
+    "días"
+   ],
+   [
+    "ἀναστήσεται",
+    "ἀνίστημι",
+    "V-",
+    "3FMI-S--",
+    "resucitará"
    ]
   ]
  }
